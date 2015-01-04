@@ -1,0 +1,14 @@
+
+You'll need to install the CUDA Toolkit.
+
+See:
+
+http://www.r-tutor.com/gpu-computing/cuda-installation/cuda6.5-ubuntu
+
+In particular, the following environmental variables should be set:
+
+export CUDA_HOME=/usr/local/cuda-6.5 
+export LD_LIBRARY_PATH=${CUDA_HOME}/lib64 
+ 
+PATH=${CUDA_HOME}/bin:${PATH} 
+export PATH
