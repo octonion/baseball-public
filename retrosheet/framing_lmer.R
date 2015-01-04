@@ -1,4 +1,4 @@
-sink("framing_basic.txt")
+sink("framing_lmer.txt")
 
 library(lme4)
 library(RPostgreSQL)
@@ -35,7 +35,7 @@ join retrosheet._pitches p
   on (p.game_id,p.event_id::text)=(e.game_id,e.event_id)
 
 where
-    extract(year from g.game_dt::text::date) between 2014 and 2014
+    extract(year from g.game_dt::text::date) between 2011 and 2014
 
 and p.outcome in ('B','C')
 
