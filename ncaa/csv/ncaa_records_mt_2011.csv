@@ -1,0 +1,909 @@
+year|team_id|team_name|wins|losses|ties|total_games
+2011|275|Harvard|9|36|0|45
+2011|689|Tampa|36|17|0|53
+2011|143|Clarion|9|28|0|37
+2011|26172|A&M-Corpus Chris|37|24|0|61
+2011|145|Clark (MA)|16|17|0|33
+2011|2|Abilene Christian|24|23|0|47
+2011|144|Clark Atlanta|4|28|0|32
+2011|30123|Academy of Art|6|43|0|49
+2011|419|Middle Tenn.|18|37|0|55
+2011|557|Puget Sound|17|17|0|34
+2011|30029|Purchase St.|17|16|0|33
+2011|420|Middlebury|15|16|0|31
+2011|1395|Tarleton St.|35|15|0|50
+2011|276|Haverford|32|10|0|42
+2011|559|Purdue|37|20|0|57
+2011|277|Hawaii|34|25|0|59
+2011|146|Clarkson|20|19|0|39
+2011|712|TCNJ|25|12|0|37
+2011|698|TCU|43|19|0|62
+2011|690|Temple|24|29|0|53
+2011|694|Tennessee|25|29|0|54
+2011|147|Clemson|43|20|0|63
+2011|2697|Hawaii Hilo|21|25|0|46
+2011|2696|Hawaii Pacific|26|21|0|47
+2011|148|Cleveland St.|12|43|0|55
+2011|3|Adelphi|36|14|2|52
+2011|4|Adrian|31|11|0|42
+2011|722|Coast Guard|21|16|0|37
+2011|149|Coastal Caro.|42|20|0|62
+2011|30083|Cobleskill St.|5|22|0|27
+2011|422|Miles|23|17|0|40
+2011|692|Tennessee Tech|25|29|0|54
+2011|150|Coe|32|12|0|44
+2011|30090|Tex. A&M Int'l|19|33|0|52
+2011|423|Millersville|44|12|0|56
+2011|560|Queens (NY)|10|34|0|44
+2011|1023|Coker|16|27|0|43
+2011|561|Quincy|35|20|0|55
+2011|721|Air Force|19|36|0|55
+2011|1014|Col. of Charleston|39|22|0|61
+2011|562|Quinnipiac|15|32|0|47
+2011|5|Akron|16|37|0|53
+2011|10|Ala.-Huntsville|27|20|0|47
+2011|696|Tex. A&M-Kingsville|24|24|0|48
+2011|563|Radford|31|25|0|56
+2011|424|Millikin|7|32|0|39
+2011|30088|Tex. Permian Basin|25|27|0|52
+2011|564|Ramapo|30|14|0|44
+2011|536|Tex.-Pan American|21|32|0|53
+2011|8|Alabama|35|28|0|63
+2011|6|Alabama A&M|10|38|0|48
+2011|703|Texas|49|19|0|68
+2011|278|Heidelberg|36|13|0|49
+2011|7|Alabama St.|14|29|0|43
+2011|697|Texas A&M|47|22|0|69
+2011|426|Millsaps|24|18|0|42
+2011|565|Randolph-Macon|24|20|0|44
+2011|797|Milwaukee|28|28|1|57
+2011|567|Redlands|30|13|0|43
+2011|427|Minn. Duluth|21|25|0|46
+2011|568|Regis (CO)|22|27|0|49
+2011|383|Minn. St. Mankato|40|12|0|52
+2011|1123|Henderson St.|19|26|1|46
+2011|1400|Texas Lutheran|24|19|0|43
+2011|1124|Hendrix|19|22|0|41
+2011|699|Texas Southern|25|29|0|54
+2011|151|Colby|14|20|0|34
+2011|19651|High Point|24|32|0|56
+2011|152|Colby-Sawyer|14|22|0|36
+2011|670|Texas St.|41|23|0|64
+2011|700|Texas Tech|33|25|0|58
+2011|14|Albany (NY)|21|31|0|52
+2011|13|Albany St. (GA)|27|22|0|49
+2011|2798|Albertus Magnus|12|19|0|31
+2011|15|Albion|13|27|0|40
+2011|16|Albright|9|25|0|34
+2011|17|Alcorn|27|30|0|57
+2011|11403|Colo. Christian|9|44|0|53
+2011|570|Rensselaer|24|15|0|39
+2011|934|Alderson Broaddus|12|27|0|39
+2011|572|Rhode Island|31|22|0|53
+2011|8398|Hilbert|5|25|0|30
+2011|571|Rhode Island Col.|22|19|0|41
+2011|27854|Minn.-Crookston|0|39|0|39
+2011|573|Rhodes|24|20|0|44
+2011|1226|Minn.-Morris|9|20|0|29
+2011|280|Hillsdale|15|31|0|46
+2011|574|Rice|42|21|0|63
+2011|428|Minnesota|25|24|0|49
+2011|281|Hiram|9|19|0|28
+2011|702|Texas-Arlington|27|29|0|56
+2011|681|Richard Stockton|21|17|0|38
+2011|575|Richmond|29|27|2|58
+2011|19|Allegheny|16|14|0|30
+2011|23121|Texas-Dallas|29|18|0|47
+2011|16142|Misericordia|28|14|0|42
+2011|30028|Texas-Tyler|33|8|0|41
+2011|576|Rider|33|18|0|51
+2011|11416|Colorado Mesa|35|21|0|56
+2011|283|Hofstra|15|32|0|47
+2011|707|Thiel|19|19|0|38
+2011|155|Colorado Mines|17|31|0|48
+2011|429|Mississippi Col.|24|18|0|42
+2011|2758|Thomas (ME)|10|19|0|29
+2011|1402|Thomas More|29|9|0|38
+2011|430|Mississippi St.|38|25|0|63
+2011|432|Mississippi Val.|18|36|0|54
+2011|1403|Tiffin|13|35|0|48
+2011|434|Missouri|27|32|0|59
+2011|709|Toledo|26|29|0|55
+2011|435|Missouri S&T|30|19|0|49
+2011|577|Ripon|21|20|0|41
+2011|18422|Rivier|4|23|0|27
+2011|2720|Colorado St.-Pueblo|28|25|0|53
+2011|669|Missouri St.|33|23|0|56
+2011|21|Alma|15|25|0|40
+2011|158|Columbia|19|25|0|44
+2011|578|Roanoke|12|23|0|35
+2011|285|Holy Cross|24|23|1|48
+2011|938|Alvernia|37|9|0|46
+2011|159|Columbus St.|32|19|0|51
+2011|711|Towson|26|28|1|55
+2011|1028|Concord|27|26|0|53
+2011|28749|Transylvania|21|12|0|33
+2011|398|MIT|25|15|0|40
+2011|30042|Mitchell|23|11|1|35
+2011|9012|Mo. Southern St.|24|26|0|50
+2011|9013|Mo. Western St.|26|25|0|51
+2011|436|Mo.-St. Louis|14|30|0|44
+2011|30037|Trine|15|24|0|39
+2011|22|American Int'l|17|25|0|42
+2011|713|Trinity (CT)|21|15|0|36
+2011|437|Molloy|31|20|0|51
+2011|24|Amherst|25|10|0|35
+2011|439|Monmouth|36|19|0|55
+2011|939|Anderson (IN)|26|14|0|40
+2011|438|Monmouth (IL)|17|15|0|32
+2011|13028|Anderson (SC)|20|30|0|50
+2011|205|Mont. St. Billings|18|29|0|47
+2011|25|Angelo St.|25|23|0|48
+2011|581|Rochester (NY)|14|20|0|34
+2011|26|Anna Maria|26|19|0|45
+2011|27|Appalachian St.|33|27|0|60
+2011|715|Trinity (TX)|34|13|0|47
+2011|580|Rochester Inst.|16|19|0|35
+2011|582|Rockford|17|20|0|37
+2011|966|Arcadia|3|29|0|32
+2011|1328|Rockhurst|23|26|0|49
+2011|716|Troy|43|19|0|62
+2011|29|Arizona|39|21|0|60
+2011|499|Truman|17|31|0|48
+2011|28|Arizona St.|43|18|0|61
+2011|286|Hope|26|14|0|40
+2011|162|Concordia (NY)|16|23|0|39
+2011|717|Tufts|27|9|1|37
+2011|30105|Ark.-Fort Smith|25|21|0|46
+2011|718|Tulane|31|26|0|57
+2011|8411|Ark.-Monticello|17|26|0|43
+2011|2678|Ark.-Pine Bluff|11|34|0|45
+2011|31|Arkansas|40|22|0|62
+2011|583|Roger Williams|22|21|0|43
+2011|30|Arkansas St.|27|31|1|59
+2011|288|Houston|27|32|0|59
+2011|442|Montclair St.|21|18|2|41
+2011|12830|Tusculum|33|18|0|51
+2011|287|Houston Baptist|22|40|0|62
+2011|24400|Concordia (TX)|32|17|0|49
+2011|720|Tuskegee|18|17|0|35
+2011|1036|Concordia (WI)|18|23|0|41
+2011|160|Concordia Chicago|36|9|0|45
+2011|584|Rollins|27|26|0|53
+2011|161|Concordia-M'head|13|14|0|27
+2011|947|Arkansas Tech|32|19|0|51
+2011|9081|Concordia-St. Paul|18|16|0|34
+2011|33|Armstrong|35|17|0|52
+2011|725|Army|22|26|0|48
+2011|9|UAB|29|28|0|57
+2011|32|UALR|24|34|0|58
+2011|1238|Montevallo|22|26|0|48
+2011|443|Moravian|31|9|0|40
+2011|108|UC Davis|18|36|0|54
+2011|444|Morehead St.|10|39|0|49
+2011|109|UC Irvine|43|18|0|61
+2011|585|Rose-Hulman|27|16|0|43
+2011|445|Morehouse|13|25|0|38
+2011|111|UC Riverside|29|23|0|52
+2011|2741|Howard Payne|15|20|0|35
+2011|112|UC San Diego|42|15|0|57
+2011|104|UC Santa Barbara|26|26|0|52
+2011|259|Rowan|31|13|1|45
+2011|35|Ashland|30|21|0|51
+2011|36|Assumption|19|29|0|48
+2011|165|Coppin St.|5|39|0|44
+2011|167|Cornell|10|30|0|40
+2011|166|Cornell College|3|29|0|32
+2011|1130|Huntingdon|23|17|0|40
+2011|37|Auburn|29|29|0|58
+2011|38|Augsburg|11|22|0|33
+2011|40|Augustana (IL)|28|12|0|40
+2011|41|Augustana (SD)|30|24|0|54
+2011|42|Aurora|30|14|0|44
+2011|953|Austin|11|24|0|35
+2011|587|Rutgers|20|30|0|50
+2011|43|Austin Peay|34|24|0|58
+2011|588|Rutgers-Camden|12|24|0|36
+2011|44|Averett|22|19|0|41
+2011|1133|Husson|30|17|0|47
+2011|589|Rutgers-Newark|23|19|0|42
+2011|128|UCF|39|23|0|62
+2011|169|Creighton|45|16|0|61
+2011|11276|S.C. Aiken|29|21|0|50
+2011|110|UCLA|35|24|0|59
+2011|30035|Crown (MN)|3|23|0|26
+2011|102|Sacramento St.|19|39|0|58
+2011|164|UConn|45|20|1|66
+2011|401|UMass Boston|18|21|0|39
+2011|656|UMass Dartmouth|15|23|0|38
+2011|590|Sacred Heart|34|23|0|57
+2011|368|UMass Lowell|37|14|0|51
+2011|391|UMBC|10|37|0|47
+2011|393|UMES|9|41|0|50
+2011|170|Curry|17|24|0|41
+2011|1059|D'Youville|6|21|0|27
+2011|45|Babson|25|13|0|38
+2011|456|UNC Asheville|15|37|0|52
+2011|459|UNC Greensboro|34|20|0|54
+2011|537|UNC Pembroke|44|12|0|56
+2011|591|Saginaw Valley|25|24|0|49
+2011|460|UNC Wilmington|31|28|0|59
+2011|594|St. Augustine's|36|18|0|54
+2011|1245|Mount Olive|47|10|0|57
+2011|94|Bakersfield|33|22|0|55
+2011|452|Mount Union|17|20|0|37
+2011|46|Baldwin Wallace|17|17|0|34
+2011|20220|MSOE|9|28|0|37
+2011|47|Ball St.|15|35|0|50
+2011|30036|Mt. Aloysius|20|17|0|37
+2011|958|Baptist Bible (PA)|5|20|0|25
+2011|602|Saint John's (MN)|19|14|0|33
+2011|727|Union (NY)|14|19|0|33
+2011|606|Saint Joseph's|21|31|0|52
+2011|608|Saint Leo|19|30|0|49
+2011|8567|Mt. St. Joseph|21|19|0|40
+2011|609|Saint Louis|29|26|0|55
+2011|300|Ill. Wesleyan|28|18|0|46
+2011|1468|Mt. St. Mary (NY)|17|17|0|34
+2011|1343|Saint Martin's|25|22|0|47
+2011|1044|Dallas|25|14|0|39
+2011|302|Ill.-Chicago|28|26|0|54
+2011|450|Mt. St. Mary's|15|35|0|50
+2011|612|Saint Mary's (MN)|10|28|0|38
+2011|1045|Dallas Baptist|42|20|0|62
+2011|30050|Ill.-Springfield|8|35|0|43
+2011|451|Mt. St. Vincent|17|23|0|40
+2011|613|Saint Michael's|5|25|0|30
+2011|453|Muhlenberg|11|26|1|38
+2011|617|Saint Peter's|16|34|0|50
+2011|1347|Saint Rose|17|28|0|45
+2011|49|Barry|40|17|0|57
+2011|30064|Saint Vincent|16|24|0|40
+2011|454|Murray St.|19|32|0|51
+2011|15646|Barton|16|28|0|44
+2011|455|Muskingum|13|24|0|37
+2011|488|N.C. A&T|21|34|0|55
+2011|58|Baruch|16|19|0|35
+2011|465|UNLV|33|25|0|58
+2011|301|Illinois|30|27|0|57
+2011|50|Bates|21|15|0|36
+2011|728|Upper Iowa|24|26|0|50
+2011|2691|Daniel Webster|20|15|0|35
+2011|297|Illinois Col.|16|15|0|31
+2011|172|Dartmouth|30|12|0|42
+2011|299|Illinois St.|36|18|0|54
+2011|173|Davidson|18|30|0|48
+2011|303|Immaculata|19|15|0|34
+2011|174|Davis & Elkins|31|16|0|47
+2011|2743|Incarnate Word|37|18|0|55
+2011|19117|Salem Int'l|12|27|0|39
+2011|175|Dayton|32|27|0|59
+2011|306|Indiana|30|25|0|55
+2011|621|Salem St.|16|20|0|36
+2011|1050|Defiance|6|32|0|38
+2011|307|Indiana (PA)|22|28|0|50
+2011|622|Salisbury|34|14|0|48
+2011|30104|Urbana|14|26|0|40
+2011|51|Baylor|31|28|0|59
+2011|180|Delaware|27|26|0|53
+2011|623|Salve Regina|21|21|0|42
+2011|730|Ursinus|14|21|0|35
+2011|489|N.C. Central|7|39|0|46
+2011|26107|Becker|22|12|0|34
+2011|178|Delaware St.|26|29|0|55
+2011|624|Sam Houston St.|35|24|0|59
+2011|52|Bellarmine|26|26|0|52
+2011|305|Indiana St.|29|28|0|57
+2011|491|N.C. Wesleyan|14|23|1|38
+2011|179|Delaware Valley|10|21|0|31
+2011|625|Samford|37|23|0|60
+2011|14927|Belmont|38|26|0|64
+2011|8577|N.M. Highlands|27|26|0|53
+2011|627|San Diego|22|31|0|53
+2011|181|Delta St.|30|19|0|49
+2011|2683|Belmont Abbey|29|17|0|46
+2011|53|Beloit|27|12|0|39
+2011|182|Denison|16|20|0|36
+2011|54|Bemidji St.|18|29|0|47
+2011|10411|USC Upstate|19|36|0|55
+2011|55|Benedict|31|12|0|43
+2011|28594|USciences|14|22|0|36
+2011|296|Benedictine (IL)|24|18|0|42
+2011|695|UT Martin|20|36|0|56
+2011|309|Indianapolis|29|19|0|48
+2011|732|Utah|29|21|0|50
+2011|626|San Diego St.|22|36|0|58
+2011|310|Iona|17|34|0|51
+2011|628|San Fran. St.|16|34|0|50
+2011|726|Navy|33|25|1|59
+2011|312|Iowa|20|32|0|52
+2011|629|San Francisco|32|25|0|57
+2011|630|San Jose St.|35|26|0|61
+2011|631|Santa Clara|17|34|0|51
+2011|56|Bentley|15|29|0|44
+2011|632|Savannah St.|29|23|0|52
+2011|462|Neb. Wesleyan|12|24|0|36
+2011|30024|Utah Valley|34|22|0|56
+2011|177|DePauw|19|21|0|40
+2011|1156|Neb.-Kearney|38|19|0|57
+2011|20|DeSales|20|18|0|38
+2011|463|Nebraska|30|25|0|55
+2011|1254|Neumann|28|13|0|41
+2011|1355|Schreiner|8|29|0|37
+2011|466|Nevada|24|31|0|55
+2011|633|Scranton|24|18|0|42
+2011|467|New England Col.|11|21|0|32
+2011|1356|Seattle|22|29|1|52
+2011|308|IPFW|17|34|0|51
+2011|313|Ithaca|17|13|0|30
+2011|733|Utica|8|27|0|35
+2011|185|Dickinson|21|15|0|36
+2011|706|UTSA|27|32|0|59
+2011|470|New Haven|26|18|0|44
+2011|635|Seton Hall|34|25|0|59
+2011|319|New Jersey City|10|28|0|38
+2011|59|Bethany (WV)|12|23|0|35
+2011|473|New Mexico|20|41|0|61
+2011|30038|Bethany Lutheran|27|10|0|37
+2011|472|New Mexico St.|34|24|0|58
+2011|745|Va. Wesleyan|16|21|0|37
+2011|474|New Orleans|4|50|0|54
+2011|734|Valdosta St.|22|27|0|49
+2011|30063|Seton Hill|33|15|0|48
+2011|652|Sewanee|10|21|0|31
+2011|636|Shaw|17|29|0|46
+2011|60|Bethel (MN)|20|19|0|39
+2011|637|Shenandoah|37|7|0|44
+2011|10870|Shepherd|15|22|0|37
+2011|314|Jackson St.|27|26|0|53
+2011|638|Shippensburg|23|28|0|51
+2011|316|Jacksonville|37|24|0|61
+2011|315|Jacksonville St.|36|23|0|59
+2011|30095|Dixie St.|32|15|0|47
+2011|317|James Madison|42|19|0|61
+2011|61|Bethune-Cookman|36|25|0|61
+2011|735|Valparaiso|25|32|0|57
+2011|1257|Newberry|24|28|0|52
+2011|62|Binghamton|21|28|0|49
+2011|736|Vanderbilt|54|12|0|66
+2011|21772|Newbury|18|17|0|35
+2011|737|Vassar|14|20|0|34
+2011|30054|Newman|22|28|0|50
+2011|740|VCU|22|32|0|54
+2011|482|Niagara|8|40|0|48
+2011|483|Nicholls St.|28|29|0|57
+2011|484|Nichols|12|22|0|34
+2011|471|NJIT|20|35|0|55
+2011|28593|Birmingham-So.|30|9|0|39
+2011|485|Norfolk St.|24|29|0|53
+2011|487|North Ala.|37|14|0|51
+2011|457|North Carolina|51|16|0|67
+2011|320|John Carroll|19|20|0|39
+2011|739|Villanova|20|32|0|52
+2011|490|North Carolina St.|35|27|0|62
+2011|321|John Jay|9|30|0|39
+2011|746|Virginia|56|12|0|68
+2011|492|North Central (IL)|22|17|0|39
+2011|322|Johns Hopkins|27|15|0|42
+2011|743|Virginia St.|20|27|0|47
+2011|30039|North Central (MN)|7|17|0|24
+2011|22626|Johnson & Wales (RI)|21|20|1|42
+2011|742|Virginia Tech|30|25|0|55
+2011|494|North Dakota|12|35|0|47
+2011|493|North Dakota St.|22|32|0|54
+2011|1332|Dominican (IL)|9|31|0|40
+2011|2711|North Florida|27|27|0|54
+2011|8956|Dominican (NY)|28|17|0|45
+2011|30052|North Georgia|34|20|0|54
+2011|2692|Dowling|25|26|0|51
+2011|639|Siena|28|30|0|58
+2011|741|VMI|27|24|1|52
+2011|747|Wabash|22|22|0|44
+2011|748|Wagner|18|33|0|51
+2011|749|Wake Forest|25|31|0|56
+2011|9223|North Greenville|38|17|0|55
+2011|496|North Park|30|12|0|42
+2011|325|Juniata|16|21|0|37
+2011|326|Kalamazoo|17|21|0|38
+2011|750|Wartburg|26|18|0|44
+2011|751|Wash. & Jeff.|19|21|0|40
+2011|500|Northeastern|18|33|0|51
+2011|752|Wash. & Lee|15|16|0|31
+2011|64|Blackburn|7|29|0|36
+2011|641|Simpson|23|18|0|41
+2011|2814|Washburn|22|28|0|50
+2011|984|Bloomfield|14|25|0|39
+2011|756|Washington|17|37|0|54
+2011|65|Bloomsburg|23|21|0|44
+2011|1029|Washington Adventist|10|19|0|29
+2011|753|Washington Col.|17|18|0|35
+2011|328|Kansas|26|30|0|56
+2011|190|Drew|13|24|1|38
+2011|754|Washington St.|26|28|0|54
+2011|327|Kansas St.|36|25|0|61
+2011|755|Washington-St. Louis|29|17|0|46
+2011|12810|Northeastern St.|6|33|0|39
+2011|329|Kean|42|11|0|53
+2011|985|Bluefield St.|9|29|0|38
+2011|987|Bluffton|19|20|0|39
+2011|330|Keene St.|29|14|0|43
+2011|1157|Kennesaw St.|32|25|0|57
+2011|1057|Drury|35|19|0|54
+2011|331|Kent St.|45|17|0|62
+2011|192|Dubuque|19|20|0|39
+2011|757|Wayne St. (MI)|35|21|0|56
+2011|502|Northern Colo.|24|32|0|56
+2011|334|Kentucky|25|30|0|55
+2011|193|Duke|26|30|0|56
+2011|1433|Wayne St. (NE)|26|19|0|45
+2011|503|Northern Ill.|30|27|0|57
+2011|332|Kentucky St.|7|31|0|38
+2011|1434|Waynesburg|14|24|0|38
+2011|505|Northern Ky.|36|21|0|57
+2011|335|Kenyon|13|17|0|30
+2011|67|Boston College|17|33|0|50
+2011|1159|Keuka|3|20|0|23
+2011|30047|Keystone|38|12|0|50
+2011|30051|King (TN)|28|25|0|53
+2011|195|Earlham|13|24|0|37
+2011|1266|Northern St.|11|25|0|36
+2011|196|East Carolina|41|21|0|62
+2011|660|SIUE|28|24|0|52
+2011|1267|Northland|7|21|0|28
+2011|8965|East Central|9|37|0|46
+2011|642|Skidmore|26|13|0|39
+2011|507|Northwest Mo. St.|20|30|0|50
+2011|643|Slippery Rock|27|19|0|46
+2011|336|King's (PA)|16|19|1|36
+2011|197|East Stroudsburg|27|20|0|47
+2011|1274|Northwest Nazarene|31|17|0|48
+2011|337|Knox|8|24|0|32
+2011|509|Northwestern|20|29|0|49
+2011|198|East Tenn. St.|36|21|0|57
+2011|759|Webster|32|13|0|45
+2011|69|Bowdoin|24|14|0|38
+2011|1062|East Tex. Baptist|14|26|0|40
+2011|203|East. Mennonite|11|25|0|36
+2011|8968|Eastern|10|23|2|35
+2011|339|Kutztown|21|18|0|39
+2011|200|Eastern Conn. St.|34|13|0|47
+2011|333|Ky. Wesleyan|16|23|0|39
+2011|201|Eastern Ill.|18|33|0|51
+2011|1163|La Roche|27|15|0|42
+2011|71|Bowling Green|20|31|0|51
+2011|202|Eastern Ky.|21|36|0|57
+2011|340|La Salle|28|26|0|54
+2011|204|Eastern Mich.|37|22|0|59
+2011|206|Eastern N.M.|16|28|0|44
+2011|762|Wentworth|24|16|0|40
+2011|1064|Eastern Nazarene|8|26|0|34
+2011|763|Wesley|22|14|0|36
+2011|764|Wesleyan (CT)|18|19|0|37
+2011|72|Bradley|22|32|0|54
+2011|508|Northwestern St.|22|32|0|54
+2011|341|La Verne|25|14|0|39
+2011|73|Brandeis|24|19|0|43
+2011|30031|Northwestern-St. Paul|14|25|0|39
+2011|671|La.-Lafayette|31|27|0|58
+2011|30094|Brevard|14|28|0|42
+2011|645|Sonoma St.|37|22|0|59
+2011|510|Northwood (MI)|18|23|0|41
+2011|498|La.-Monroe|24|30|0|54
+2011|74|Bridgeport|31|14|0|45
+2011|342|Lafayette|18|30|0|48
+2011|358|West Ala.|19|22|0|41
+2011|75|Bridgewater (VA)|26|18|0|44
+2011|1162|LaGrange|21|21|0|42
+2011|76|Bridgewater St.|26|17|0|43
+2011|511|Norwich|2|26|0|28
+2011|513|Notre Dame|23|29|1|53
+2011|765|West Chester|22|21|0|43
+2011|2746|Lake Erie|21|26|0|47
+2011|11740|West Florida|52|9|0|61
+2011|208|Eckerd|17|32|0|49
+2011|766|West Ga.|18|30|0|48
+2011|1066|Edgewood|18|22|0|40
+2011|1438|West Liberty|14|36|0|50
+2011|78|Brockport|30|14|0|44
+2011|767|West Tex. A&M|30|19|0|49
+2011|646|South Ala.|30|28|0|58
+2011|648|South Carolina|56|14|0|70
+2011|80|Brown|13|29|0|42
+2011|9630|West Va. Wesleyan|26|19|0|45
+2011|768|West Virginia|28|27|0|55
+2011|1439|West Virginia St.|25|18|0|43
+2011|1164|Lakeland|16|19|0|35
+2011|769|Western Caro.|23|31|1|55
+2011|346|Lamar|29|27|0|56
+2011|770|Western Conn. St.|19|18|0|37
+2011|24639|Nova Southeastern|35|18|0|53
+2011|1277|Nyack|3|35|0|38
+2011|771|Western Ill.|21|38|0|59
+2011|772|Western Ky.|33|24|0|57
+2011|81|Bryant|30|23|0|53
+2011|477|NYIT|19|32|0|51
+2011|774|Western Mich.|26|31|0|57
+2011|210|Elizabeth City St.|19|23|0|42
+2011|514|Oakland|19|31|0|50
+2011|30085|Lancaster Bible|10|14|0|24
+2011|211|Elizabethtown|19|19|0|38
+2011|1278|Oakland City|17|15|0|32
+2011|1167|Lander|29|24|0|53
+2011|515|Oberlin|16|23|0|39
+2011|212|Elmhurst|18|20|0|38
+2011|516|Occidental|13|26|0|39
+2011|347|Lane|4|27|0|31
+2011|2713|Oglethorpe|18|24|0|42
+2011|519|Ohio|27|27|0|54
+2011|83|Bucknell|25|28|0|53
+2011|30119|Ohio Dominican|19|27|0|46
+2011|84|Buena Vista|34|18|0|52
+2011|775|Western New Eng.|42|11|0|53
+2011|86|Buffalo|14|38|0|52
+2011|1446|Western Ore.|37|15|0|52
+2011|649|South Dakota St.|37|20|0|57
+2011|532|Elms|15|19|0|34
+2011|651|South Fla.|25|29|0|54
+2011|8486|Lasell|21|15|0|36
+2011|1068|Elon|36|21|0|57
+2011|348|Lawrence|3|32|0|35
+2011|214|Emerson|12|24|0|36
+2011|349|Le Moyne|23|30|0|53
+2011|87|Butler|23|28|1|52
+2011|351|Lebanon Valley|17|19|0|36
+2011|77|BYU|31|27|0|58
+2011|517|Ohio Northern|19|19|0|38
+2011|518|Ohio St.|26|27|0|53
+2011|654|Southeast Mo. St.|34|22|0|56
+2011|15207|Ohio Valley|16|26|0|42
+2011|655|Southeastern La.|35|22|0|57
+2011|520|Ohio Wesleyan|25|16|0|41
+2011|1371|Southeastern Okla.|35|19|0|54
+2011|777|Westfield St.|22|22|0|44
+2011|1376|Southern Ark.|36|16|0|52
+2011|657|Southern California|25|31|0|56
+2011|658|Southern Conn. St.|45|9|1|55
+2011|659|Southern Ill.|23|34|0|57
+2011|661|Southern Ind.|37|19|0|56
+2011|662|Southern Me.|22|19|0|41
+2011|217|Emory|26|17|0|43
+2011|664|Southern Miss.|39|19|0|58
+2011|1450|Westminster (MO)|18|21|0|39
+2011|1305|Cairn|5|28|0|33
+2011|216|Emory & Henry|6|25|0|31
+2011|1451|Westminster (PA)|25|16|0|41
+2011|352|Lehigh|24|21|0|45
+2011|468|Southern N.H.|25|22|0|47
+2011|105|Cal Lutheran|25|15|0|40
+2011|1071|Emporia St.|43|12|0|55
+2011|279|Lehman|6|21|0|27
+2011|8981|Endicott|32|15|0|47
+2011|350|LeMoyne-Owen|5|25|0|30
+2011|24342|Okla. Panhandle|5|45|0|50
+2011|1072|Erskine|28|24|0|52
+2011|522|Oklahoma|41|19|0|60
+2011|1170|Lenoir-Rhyne|13|34|0|47
+2011|90|Cal Poly|27|26|0|53
+2011|218|Eureka|11|25|0|36
+2011|24317|Lesley|0|28|0|28
+2011|91|Cal Poly Pomona|36|23|0|59
+2011|219|Evansville|28|25|0|53
+2011|8490|LeTourneau|19|21|0|40
+2011|95|Cal St. Chico|30|20|0|50
+2011|354|Lewis|24|18|0|42
+2011|92|Cal St. Dom. Hills|24|25|0|49
+2011|22235|Lewis & Clark|5|32|0|37
+2011|521|Oklahoma St.|35|25|0|60
+2011|523|Old Dominion|30|26|0|56
+2011|524|Old Westbury|24|20|0|44
+2011|778|Wheaton (IL)|17|23|0|40
+2011|220|Fairfield|22|25|0|47
+2011|779|Wheaton (MA)|32|12|0|44
+2011|222|Fairleigh Dickinson|12|38|0|50
+2011|12799|Wheeling Jesuit|17|27|0|44
+2011|1076|Fairmont St.|14|30|0|44
+2011|355|Liberty|35|24|0|59
+2011|98|Cal St. East Bay|18|32|0|50
+2011|27892|Farmingdale St.|27|17|0|44
+2011|1174|Limestone|34|18|0|52
+2011|356|Lincoln (MO)|17|29|0|46
+2011|97|Cal St. Fullerton|41|17|0|58
+2011|357|Lincoln (PA)|7|21|0|28
+2011|100|Cal St. L.A.|27|23|0|50
+2011|780|Whitman|5|30|0|35
+2011|433|Ole Miss|30|25|0|55
+2011|781|Whittier|16|23|0|39
+2011|525|Olivet|11|28|0|39
+2011|1454|Whitworth|20|20|0|40
+2011|464|Omaha|35|20|0|55
+2011|782|Wichita St.|39|26|0|65
+2011|221|FDU-Florham|22|14|0|36
+2011|527|Oral Roberts|39|22|0|61
+2011|783|Widener|24|15|0|39
+2011|23157|Felician|24|22|0|46
+2011|529|Oregon|33|26|1|60
+2011|30055|Cal St. Monterey Bay|21|28|0|49
+2011|665|Southern U.|29|19|0|48
+2011|528|Oregon St.|41|19|0|60
+2011|667|Southern Utah|23|31|0|54
+2011|225|Ferrum|18|20|0|38
+2011|530|Oswego St.|19|20|0|39
+2011|1379|Southern Vt.|18|22|0|40
+2011|28755|FGCU|27|28|0|55
+2011|101|Cal St. Northridge|23|33|0|56
+2011|1176|Lincoln Memorial|29|22|0|51
+2011|1079|Findlay|15|31|1|47
+2011|93|Cal St. San B'dino|23|23|0|46
+2011|30032|Finlandia|2|26|0|28
+2011|103|Cal St. Stanislaus|26|21|0|47
+2011|995|Caldwell|16|25|0|41
+2011|107|California|38|23|0|61
+2011|106|California (PA)|30|18|0|48
+2011|531|Otterbein|19|20|0|39
+2011|1289|Ouachita Baptist|21|26|0|47
+2011|784|Wilkes|21|16|0|37
+2011|23008|Ozarks (AR)|8|32|0|40
+2011|785|Willamette|22|17|1|40
+2011|786|William & Mary|26|29|0|55
+2011|89|Caltech|0|30|0|30
+2011|114|Calvin|20|20|0|40
+2011|1179|Linfield|33|11|0|44
+2011|996|Cameron|33|16|0|49
+2011|28600|Lipscomb|19|36|0|55
+2011|115|Campbell|17|37|0|54
+2011|361|LIU Brooklyn|28|23|0|51
+2011|116|Canisius|26|32|0|58
+2011|362|LIU Post|14|34|0|48
+2011|227|Fitchburg St.|16|18|0|34
+2011|231|FIU|40|20|1|61
+2011|229|Fla. Atlantic|32|25|0|57
+2011|117|Capital|12|22|0|34
+2011|2755|Southwest Baptist|7|40|0|47
+2011|360|Lock Haven|19|20|0|39
+2011|8736|Southwest Minn. St.|11|25|0|36
+2011|99|Long Beach St.|29|27|0|56
+2011|363|Longwood|28|18|0|46
+2011|364|Loras|19|20|0|39
+2011|8746|Southwestern (TX)|17|20|0|37
+2011|8744|Southwestern Okla.|33|18|0|51
+2011|23260|Spalding|28|11|0|39
+2011|233|Fla. Southern|32|15|0|47
+2011|30092|Flagler|21|28|0|49
+2011|1182|Louisiana Col.|26|17|0|43
+2011|533|Pace|16|28|1|45
+2011|235|Florida|53|20|0|73
+2011|366|Louisiana Tech|34|27|0|61
+2011|534|Pacific|17|37|0|54
+2011|228|Florida A&M|17|40|0|57
+2011|118|Carleton|12|23|0|35
+2011|367|Louisville|32|29|0|61
+2011|2751|Pacific (OR)|21|16|2|39
+2011|234|Florida St.|46|19|0|65
+2011|1297|Pacific Lutheran|19|20|0|39
+2011|230|Florida Tech|30|20|0|50
+2011|535|Paine|18|26|0|44
+2011|11538|Fontbonne|18|25|0|43
+2011|30045|Palm Beach Atl.|27|26|0|53
+2011|236|Fordham|31|23|1|55
+2011|9011|Fort Hays St.|28|23|0|51
+2011|120|Carroll (WI)|12|21|0|33
+2011|1000|Carson-Newman|22|30|0|52
+2011|121|Carthage|32|12|0|44
+2011|789|Williams|24|11|0|35
+2011|1460|Wilmington (DE)|37|12|0|49
+2011|1461|Wilmington (OH)|9|20|0|29
+2011|238|Framingham St.|17|19|0|36
+2011|370|Loyola Marymount|30|25|0|55
+2011|1085|Francis Marion|41|16|0|57
+2011|1462|Wingate|34|22|0|56
+2011|30069|Franciscan|5|23|0|28
+2011|790|Winona St.|42|18|0|60
+2011|239|Frank. & Marsh.|22|18|0|40
+2011|791|Winston-Salem|30|26|0|56
+2011|792|Winthrop|27|30|0|57
+2011|8911|Wis. Lutheran|19|21|0|40
+2011|365|LSU|36|20|0|56
+2011|122|Case|33|15|0|48
+2011|123|Castleton|18|18|0|36
+2011|1001|Catawba|41|15|0|56
+2011|124|Catholic|23|21|0|44
+2011|23624|Cazenovia|8|20|0|28
+2011|480|CCNY|7|16|0|23
+2011|2694|Franklin|30|14|0|44
+2011|241|Franklin Pierce|40|14|0|54
+2011|242|Fredonia St.|17|18|0|35
+2011|372|Luther|24|19|0|43
+2011|540|Penn|19|21|0|40
+2011|795|Wis.-La Crosse|24|15|0|39
+2011|374|Lynchburg|24|15|0|39
+2011|798|Wis.-Oshkosh|25|14|0|39
+2011|30065|Lyndon St.|4|16|0|20
+2011|799|Wis.-Parkside|15|28|0|43
+2011|20794|Lynn|26|23|0|49
+2011|800|Wis.-Platteville|11|29|0|40
+2011|539|Penn St.|32|22|0|54
+2011|376|Macalester|26|14|0|40
+2011|30081|Penn St. Harrisburg|5|29|0|34
+2011|96|Fresno St.|40|16|0|56
+2011|673|Springfield|11|23|0|34
+2011|125|Centenary (LA)|12|31|0|43
+2011|377|MacMurray|3|30|0|33
+2011|30114|Penn St.-Abington|19|19|0|38
+2011|12884|Centenary (NJ)|11|24|0|35
+2011|380|Maine|33|24|0|57
+2011|25719|Penn St.-Altoona|29|13|0|42
+2011|126|Central (IA)|22|19|0|41
+2011|538|Penn St.-Behrend|28|13|0|41
+2011|30044|Penn St.-Berks|18|21|0|39
+2011|802|Wis.-Stevens Point|34|10|0|44
+2011|541|Pepperdine|22|34|0|56
+2011|803|Wis.-Stout|12|28|0|40
+2011|1004|Central Ark.|24|29|0|53
+2011|592|St. Andrews|8|36|0|44
+2011|127|Central Conn. St.|26|25|1|52
+2011|593|St. Anselm|23|22|0|45
+2011|243|Frostburg St.|28|15|0|43
+2011|804|Wis.-Superior|14|25|0|39
+2011|244|Furman|24|33|0|57
+2011|805|Wis.-Whitewater|37|13|0|50
+2011|253|Ga. Southern|36|26|0|62
+2011|596|St. Bonaventure|23|23|0|46
+2011|129|Central Mich.|31|27|0|58
+2011|542|Pfeiffer|21|28|0|49
+2011|130|Central Mo.|49|10|0|59
+2011|543|Philadelphia U.|5|34|0|39
+2011|806|Wittenberg|20|18|0|38
+2011|1009|Central Okla.|24|23|0|47
+2011|1097|Ga. Southwestern|27|21|0|48
+2011|787|Wm. Paterson|20|17|1|38
+2011|2915|Wofford|22|33|0|55
+2011|598|St. Cloud St.|43|11|0|54
+2011|807|Wooster|22|17|0|39
+2011|245|Gallaudet|17|25|0|42
+2011|1334|St. Edward's|27|24|0|51
+2011|809|Worcester St.|23|15|0|38
+2011|808|WPI|12|21|0|33
+2011|246|Gannon|15|23|0|38
+2011|810|Wright St.|36|19|0|55
+2011|1092|Gardner-Webb|34|23|1|58
+2011|30084|Geneva|20|17|0|37
+2011|21830|Piedmont|32|15|0|47
+2011|1094|George Fox|26|13|0|39
+2011|812|Xavier|30|27|0|57
+2011|813|Yale|23|19|0|42
+2011|248|George Mason|21|32|1|54
+2011|1010|Central Wash.|14|32|0|46
+2011|132|Centre|13|22|0|35
+2011|249|George Washington|19|36|0|55
+2011|1315|Pitt.-Bradford|19|14|0|33
+2011|601|St. John Fisher|25|10|0|35
+2011|11839|Pitt.-Greensburg|14|21|0|35
+2011|251|Georgetown|23|33|0|56
+2011|546|Pitt.-Johnstown|22|25|0|47
+2011|603|St. John's (NY)|36|22|0|58
+2011|1314|Pittsburg St.|20|29|0|49
+2011|814|Yeshiva|4|24|0|28
+2011|134|Chapman|37|13|0|50
+2011|1013|Charleston (WV)|18|27|0|45
+2011|48|Charleston So.|29|30|0|59
+2011|545|Pittsburgh|33|23|0|56
+2011|547|Plattsburgh St.|18|19|0|37
+2011|548|Plymouth St.|12|24|0|36
+2011|458|Charlotte|43|16|0|59
+2011|257|Georgia|33|32|0|65
+2011|1096|Georgia College|35|17|0|52
+2011|254|Georgia St.|37|21|0|58
+2011|255|Georgia Tech|42|21|0|63
+2011|30072|St. Joseph's (Brkln)|8|22|0|30
+2011|604|St. Joseph's (IN)|22|25|1|48
+2011|1340|St. Joseph's (L.I.)|17|20|0|37
+2011|605|St. Joseph's (ME)|32|15|0|47
+2011|607|St. Lawrence|19|20|0|39
+2011|610|St. Mary's (CA)|27|28|0|55
+2011|481|Polytechnic (NY)|5|22|0|27
+2011|549|Pomona-Pitzer|27|12|0|39
+2011|815|York (PA)|11|27|0|38
+2011|21323|Chestnut Hill|16|22|0|38
+2011|551|Portland|23|31|0|54
+2011|611|St. Mary's (MD)|19|16|0|35
+2011|1346|St. Mary's (TX)|47|10|0|57
+2011|1318|Post|24|18|0|42
+2011|553|Prairie View|25|21|0|46
+2011|258|Gettysburg|12|23|0|35
+2011|137|Chicago|18|12|1|31
+2011|136|Chicago St.|9|41|0|50
+2011|1320|Presbyterian|24|32|0|56
+2011|8875|Chowan|30|20|0|50
+2011|30034|Presentation|14|19|0|33
+2011|817|Youngstown St.|14|41|0|55
+2011|139|Chris. Newport|39|7|0|46
+2011|554|Princeton|23|24|0|47
+2011|614|St. Norbert|16|15|0|31
+2011|555|Principia|20|16|0|36
+2011|1192|Manchester|28|15|0|43
+2011|381|Manhattan|34|19|0|53
+2011|382|Manhattanville|16|21|0|37
+2011|384|Mansfield|21|18|0|39
+2011|1194|Maranatha Baptist|2|25|0|27
+2011|1015|Christian Bros.|15|28|1|44
+2011|140|Cincinnati|30|27|0|57
+2011|260|Gonzaga|32|19|1|52
+2011|1099|Gordon|8|28|0|36
+2011|615|St. Olaf|21|18|0|39
+2011|141|Citadel|20|36|0|56
+2011|616|St. Paul's|0|28|0|28
+2011|618|St. Scholastica|37|7|0|44
+2011|620|St. Thomas (MN)|28|18|0|46
+2011|1348|St. Thomas Aquinas|26|25|1|52
+2011|1196|Marian (WI)|15|21|0|36
+2011|385|Marietta|47|4|0|51
+2011|386|Marist|35|17|0|52
+2011|674|Stanford|35|22|0|57
+2011|675|Staten Island|20|12|0|32
+2011|676|Stephen F. Austin|37|23|0|60
+2011|1199|Mars Hill|23|26|0|49
+2011|388|Marshall|20|31|0|51
+2011|8597|Martin Luther|7|23|0|30
+2011|30075|Mary|10|32|0|42
+2011|261|Grambling|23|26|0|49
+2011|1104|Grand Canyon|21|26|0|47
+2011|262|Grand Valley St.|52|5|0|57
+2011|678|Stetson|43|20|0|63
+2011|1203|Mary Hardin-Baylor|19|20|0|39
+2011|30058|Claflin|23|22|0|45
+2011|390|Mary Washington|27|15|0|42
+2011|392|Maryland|21|35|0|56
+2011|395|Maryville (MO)|9|35|0|44
+2011|396|Maryville (TN)|25|15|0|40
+2011|397|Marywood|14|17|0|31
+2011|399|Mass. Maritime|11|16|0|27
+2011|679|Stevens|14|23|1|38
+2011|400|Massachusetts|17|29|1|47
+2011|21852|Stevenson|13|26|0|39
+2011|263|Greensboro|19|19|0|38
+2011|680|Stillman|26|19|0|45
+2011|1111|Greenville|19|23|0|42
+2011|682|Stonehill|30|18|0|48
+2011|264|Grinnell|18|18|0|36
+2011|683|Stony Brook|42|12|0|54
+2011|684|Suffolk|24|21|0|45
+2011|773|McDaniel|12|20|0|32
+2011|1390|Sul Ross St.|15|21|0|36
+2011|265|Grove City|25|16|0|41
+2011|39|GRU|25|30|0|55
+2011|168|SUNY Cortland|36|10|0|46
+2011|1112|Guilford|16|24|0|40
+2011|266|Gust. Adolphus|14|21|0|35
+2011|12399|Gwynedd Mercy|18|16|1|35
+2011|267|Hamilton|8|23|0|31
+2011|142|Claremont-M-S|22|17|0|39
+2011|268|Hamline|29|15|0|44
+2011|269|Hampden-Sydney|20|21|0|41
+2011|478|SUNY Maritime|14|17|0|31
+2011|1115|Hanover|15|23|0|38
+2011|271|Hardin-Simmons|31|14|0|45
+2011|1116|Harding|42|14|0|56
+2011|272|Hartford|6|43|1|50
+2011|475|SUNY New Paltz|20|19|0|39
+2011|526|SUNY Oneonta|21|17|0|38
+2011|9500|SUNYIT|22|14|0|36
+2011|685|Susquehanna|14|26|0|40
+2011|686|Swarthmore|20|14|0|34
+2011|486|MCLA|8|22|0|30
+2011|8530|McMurry|17|27|0|44
+2011|402|McNeese St.|26|30|0|56
+2011|379|Me.-Farmington|4|23|0|27
+2011|23725|Medaille|22|16|0|38
+2011|404|Memphis|30|27|0|57
+2011|406|Mercer|39|20|0|59
+2011|724|Merchant Marine|15|15|1|31
+2011|407|Mercy|17|28|0|45
+2011|408|Mercyhurst|42|12|0|54
+2011|410|Merrimack|14|28|0|42
+2011|411|Messiah|26|19|0|45
+2011|412|Methodist|28|16|0|44
+2011|413|Metro St.|29|17|0|46
+2011|415|Miami (FL)|38|23|0|61
+2011|414|Miami (OH)|35|25|0|60
+2011|418|Michigan|17|37|0|54
+2011|416|Michigan St.|36|21|0|57

@@ -1,0 +1,826 @@
+year|team_id|team_name|wins|losses|ties|total_games
+2004|733|Utica|6|18|0|24
+2004|86|Buffalo|15|39|0|54
+2004|609|Saint Louis|14|41|0|55
+2004|26172|A&M-Corpus Chris|23|28|0|51
+2004|165|Coppin St.|18|32|0|50
+2004|577|Ripon|24|14|0|38
+2004|412|Methodist|30|19|0|49
+2004|1159|Keuka|9|17|1|27
+2004|253|Ga. Southern|34|25|0|59
+2004|706|UTSA|27|31|0|58
+2004|167|Cornell|13|29|0|42
+2004|1343|Saint Martin's|20|34|0|54
+2004|18422|Rivier|7|18|0|25
+2004|2|Abilene Christian|31|25|0|56
+2004|413|Metro St.|26|23|1|50
+2004|610|St. Mary's (CA)|14|41|0|55
+2004|745|Va. Wesleyan|31|12|0|43
+2004|578|Roanoke|16|20|0|36
+2004|415|Miami (FL)|50|13|0|63
+2004|166|Cornell College|17|22|0|39
+2004|734|Valdosta St.|33|26|0|59
+2004|414|Miami (OH)|36|21|0|57
+2004|502|Northern Colo.|29|23|0|52
+2004|169|Creighton|35|24|0|59
+2004|87|Butler|29|30|0|59
+2004|735|Valparaiso|20|34|0|54
+2004|503|Northern Ill.|31|28|0|59
+2004|418|Michigan|34|26|0|60
+2004|77|BYU|28|30|0|58
+2004|736|Vanderbilt|45|19|0|64
+2004|245|Gallaudet|6|23|0|29
+2004|505|Northern Ky.|37|25|0|62
+2004|416|Michigan St.|33|26|0|59
+2004|737|Vassar|16|20|0|36
+2004|246|Gannon|22|24|0|46
+2004|740|VCU|34|24|0|58
+2004|581|Rochester (NY)|25|10|0|35
+2004|611|St. Mary's (MD)|21|17|1|39
+2004|1092|Gardner-Webb|32|25|0|57
+2004|738|Vermont|18|26|0|44
+2004|580|Rochester Inst.|14|19|0|33
+2004|612|Saint Mary's (MN)|10|22|0|32
+2004|739|Villanova|31|20|1|52
+2004|582|Rockford|17|23|0|40
+2004|1346|St. Mary's (TX)|42|16|0|58
+2004|170|Curry|17|17|0|34
+2004|746|Virginia|44|15|0|59
+2004|1328|Rockhurst|31|28|0|59
+2004|613|Saint Michael's|14|16|1|31
+2004|1059|D'Youville|2|20|0|22
+2004|743|Virginia St.|19|19|0|38
+2004|362|LIU Post|17|16|1|34
+2004|583|Roger Williams|19|19|0|38
+2004|336|King's (PA)|19|18|1|38
+2004|1044|Dallas|23|15|1|39
+2004|614|St. Norbert|20|14|0|34
+2004|1266|Northern St.|17|26|0|43
+2004|419|Middle Tenn.|40|22|0|62
+2004|742|Virginia Tech|29|27|0|56
+2004|584|Rollins|48|12|0|60
+2004|337|Knox|12|20|0|32
+2004|615|St. Olaf|20|17|0|37
+2004|1045|Dallas Baptist|44|16|0|60
+2004|420|Middlebury|12|17|0|29
+2004|3|Adelphi|19|22|0|41
+2004|585|Rose-Hulman|36|8|0|44
+2004|616|St. Paul's|0|22|0|22
+2004|339|Kutztown|37|16|0|53
+2004|2691|Daniel Webster|4|20|0|24
+2004|4|Adrian|24|15|0|39
+2004|1094|George Fox|40|10|0|50
+2004|617|Saint Peter's|8|34|0|42
+2004|333|Ky. Wesleyan|31|25|0|56
+2004|172|Dartmouth|25|17|0|42
+2004|248|George Mason|39|19|0|58
+2004|105|Cal Lutheran|22|18|0|40
+2004|1163|La Roche|18|17|0|35
+2004|1347|Saint Rose|24|24|0|48
+2004|173|Davidson|20|33|0|53
+2004|249|George Washington|55|28|0|83
+2004|90|Cal Poly|38|23|1|62
+2004|618|St. Scholastica|42|6|0|48
+2004|340|La Salle|28|42|2|72
+2004|174|Davis & Elkins|16|30|0|46
+2004|251|Georgetown|25|30|0|55
+2004|507|Northwest Mo. St.|34|23|0|57
+2004|91|Cal Poly Pomona|26|25|2|53
+2004|620|St. Thomas (MN)|38|8|0|46
+2004|257|Georgia|45|23|0|68
+2004|175|Dayton|41|37|0|78
+2004|1274|Northwest Nazarene|15|34|0|49
+2004|741|VMI|23|32|0|55
+2004|1348|St. Thomas Aquinas|19|27|0|46
+2004|1096|Georgia College|32|22|0|54
+2004|721|Air Force|6|49|0|55
+2004|1050|Defiance|14|25|0|39
+2004|259|Rowan|41|8|0|49
+2004|422|Miles|26|12|0|38
+2004|747|Wabash|16|24|0|40
+2004|509|Northwestern|26|28|1|55
+2004|5|Akron|26|27|0|53
+2004|180|Delaware|33|24|0|57
+2004|254|Georgia St.|18|36|0|54
+2004|423|Millersville|18|19|0|37
+2004|748|Wagner|20|29|0|49
+2004|10|Ala.-Huntsville|36|17|0|53
+2004|178|Delaware St.|27|23|0|50
+2004|255|Georgia Tech|44|21|0|65
+2004|749|Wake Forest|17|33|0|50
+2004|341|La Verne|29|12|0|41
+2004|424|Millikin|22|18|0|40
+2004|179|Delaware Valley|27|13|0|40
+2004|8|Alabama|29|26|0|55
+2004|671|La.-Lafayette|34|23|0|57
+2004|750|Wartburg|30|15|0|45
+2004|95|Cal St. Chico|42|21|1|64
+2004|498|La.-Monroe|30|28|0|58
+2004|6|Alabama A&M|13|32|0|45
+2004|181|Delta St.|54|11|0|65
+2004|674|Stanford|46|14|0|60
+2004|751|Wash. & Jeff.|19|16|0|35
+2004|92|Cal St. Dom. Hills|15|46|0|61
+2004|7|Alabama St.|18|33|0|51
+2004|342|Lafayette|23|26|0|49
+2004|182|Denison|31|7|0|38
+2004|675|Staten Island|14|15|0|29
+2004|752|Wash. & Lee|21|16|0|37
+2004|98|Cal St. East Bay|29|13|0|42
+2004|587|Rutgers|30|23|0|53
+2004|1162|LaGrange|24|18|0|42
+2004|2814|Washburn|26|23|0|49
+2004|97|Cal St. Fullerton|47|22|0|69
+2004|588|Rutgers-Camden|16|23|1|40
+2004|508|Northwestern St.|33|23|0|56
+2004|258|Gettysburg|17|21|1|39
+2004|2746|Lake Erie|6|28|0|34
+2004|426|Millsaps|33|9|0|42
+2004|756|Washington|39|20|1|60
+2004|100|Cal St. L.A.|24|24|1|49
+2004|589|Rutgers-Newark|17|21|0|38
+2004|510|Northwood (MI)|25|24|0|49
+2004|1029|Washington Adventist|7|32|0|39
+2004|797|Milwaukee|23|30|0|53
+2004|11276|S.C. Aiken|30|26|0|56
+2004|753|Washington Col.|9|24|0|33
+2004|20220|MSOE|7|33|0|40
+2004|10411|USC Upstate|24|28|0|52
+2004|754|Washington St.|29|26|0|55
+2004|427|Minn. Duluth|26|15|0|41
+2004|102|Sacramento St.|29|32|0|61
+2004|755|Washington-St. Louis|18|17|0|35
+2004|383|Minn. St. Mankato|35|18|0|53
+2004|590|Sacred Heart|12|36|0|48
+2004|757|Wayne St. (MI)|25|28|0|53
+2004|1433|Wayne St. (NE)|44|18|0|62
+2004|513|Notre Dame|51|12|0|63
+2004|1434|Waynesburg|16|18|0|34
+2004|177|DePauw|28|14|0|42
+2004|14|Albany (NY)|37|14|0|51
+2004|678|Stetson|36|23|0|59
+2004|20|DeSales|28|15|0|43
+2004|13|Albany St. (GA)|26|12|0|38
+2004|679|Stevens|17|18|0|35
+2004|184|Detroit|19|38|0|57
+2004|27854|Minn.-Crookston|4|36|0|40
+2004|21852|Stevenson|8|32|0|40
+2004|2798|Albertus Magnus|16|16|0|32
+2004|260|Gonzaga|24|27|0|51
+2004|591|Saginaw Valley|26|25|0|51
+2004|185|Dickinson|13|22|1|36
+2004|1226|Minn.-Morris|5|27|0|32
+2004|15|Albion|25|16|0|41
+2004|1099|Gordon|7|25|0|32
+2004|428|Minnesota|38|23|0|61
+2004|16|Albright|16|18|0|34
+2004|101|Cal St. Northridge|19|38|0|57
+2004|1164|Lakeland|23|19|0|42
+2004|759|Webster|26|14|0|40
+2004|16142|Misericordia|19|15|0|34
+2004|17|Alcorn|20|22|0|42
+2004|93|Cal St. San B'dino|30|26|1|57
+2004|346|Lamar|41|16|0|57
+2004|433|Ole Miss|39|21|0|60
+2004|934|Alderson Broaddus|18|24|0|42
+2004|103|Cal St. Stanislaus|20|35|1|56
+2004|429|Mississippi Col.|31|12|0|43
+2004|995|Caldwell|28|16|0|44
+2004|682|Stonehill|28|18|0|46
+2004|430|Mississippi St.|35|24|0|59
+2004|107|California|25|31|0|56
+2004|683|Stony Brook|29|27|0|56
+2004|19117|Salem Int'l|22|24|11|57
+2004|432|Mississippi Val.|35|23|0|58
+2004|261|Grambling|11|35|0|46
+2004|106|California (PA)|32|21|1|54
+2004|684|Suffolk|29|12|0|41
+2004|24639|Nova Southeastern|27|29|0|56
+2004|434|Missouri|38|23|1|62
+2004|1104|Grand Canyon|24|31|0|55
+2004|1277|Nyack|25|27|0|52
+2004|1390|Sul Ross St.|11|28|0|39
+2004|435|Missouri S&T|16|33|0|49
+2004|262|Grand Valley St.|46|16|0|62
+2004|477|NYIT|20|32|0|52
+2004|669|Missouri St.|31|28|0|59
+2004|1167|Lander|33|23|0|56
+2004|168|SUNY Cortland|29|16|0|45
+2004|19|Allegheny|21|15|0|36
+2004|514|Oakland|20|34|0|54
+2004|21|Alma|15|21|0|36
+2004|1278|Oakland City|25|21|1|47
+2004|622|Salisbury|37|13|0|50
+2004|938|Alvernia|25|13|0|38
+2004|515|Oberlin|16|22|0|38
+2004|114|Calvin|15|25|0|40
+2004|623|Salve Regina|25|16|1|42
+2004|762|Wentworth|6|26|0|32
+2004|516|Occidental|3|36|0|39
+2004|996|Cameron|26|19|0|45
+2004|624|Sam Houston St.|19|30|1|50
+2004|763|Wesley|13|25|1|39
+2004|2713|Oglethorpe|10|33|0|43
+2004|115|Campbell|23|34|0|57
+2004|625|Samford|25|33|0|58
+2004|764|Wesleyan (CT)|11|22|1|34
+2004|519|Ohio|25|29|0|54
+2004|116|Canisius|4|43|0|47
+2004|627|San Diego|35|21|0|56
+2004|517|Ohio Northern|19|20|0|39
+2004|117|Capital|14|24|0|38
+2004|626|San Diego St.|35|29|0|64
+2004|1332|Dominican (IL)|10|23|0|33
+2004|518|Ohio St.|36|25|0|61
+2004|118|Carleton|2|27|0|29
+2004|628|San Fran. St.|30|26|0|56
+2004|8956|Dominican (NY)|18|27|0|45
+2004|15207|Ohio Valley|15|33|3|51
+2004|629|San Francisco|27|32|0|59
+2004|2692|Dowling|34|17|0|51
+2004|520|Ohio Wesleyan|23|17|0|40
+2004|630|San Jose St.|23|31|1|55
+2004|263|Greensboro|21|19|0|40
+2004|631|Santa Clara|27|29|0|56
+2004|1111|Greenville|22|21|0|43
+2004|358|West Ala.|33|22|0|55
+2004|348|Lawrence|15|19|0|34
+2004|9012|Mo. Southern St.|20|28|0|48
+2004|632|Savannah St.|24|22|0|46
+2004|264|Grinnell|15|17|0|32
+2004|765|West Chester|36|12|2|50
+2004|349|Le Moyne|36|21|0|57
+2004|9013|Mo. Western St.|33|18|0|51
+2004|265|Grove City|12|19|0|31
+2004|11740|West Florida|29|21|0|50
+2004|120|Carroll (WI)|8|23|0|31
+2004|436|Mo.-St. Louis|30|23|1|54
+2004|351|Lebanon Valley|15|20|0|35
+2004|1112|Guilford|20|19|0|39
+2004|766|West Ga.|33|16|0|49
+2004|1000|Carson-Newman|31|26|1|58
+2004|437|Molloy|19|25|1|45
+2004|266|Gust. Adolphus|29|15|0|44
+2004|1438|West Liberty|19|29|0|48
+2004|121|Carthage|37|11|0|48
+2004|439|Monmouth|22|29|1|52
+2004|190|Drew|15|21|1|37
+2004|767|West Tex. A&M|19|36|0|55
+2004|12399|Gwynedd Mercy|26|19|0|45
+2004|122|Case|8|20|0|28
+2004|522|Oklahoma|38|24|0|62
+2004|438|Monmouth (IL)|22|12|0|34
+2004|14901|West Va. Tech|21|25|3|49
+2004|267|Hamilton|11|22|0|33
+2004|9500|SUNYIT|17|13|1|31
+2004|123|Castleton|21|19|0|40
+2004|521|Oklahoma St.|38|24|0|62
+2004|1355|Schreiner|10|29|0|39
+2004|9630|West Va. Wesleyan|20|25|1|46
+2004|268|Hamline|15|23|0|38
+2004|685|Susquehanna|8|26|0|34
+2004|1001|Catawba|42|17|0|59
+2004|633|Scranton|7|27|0|34
+2004|523|Old Dominion|26|28|0|54
+2004|768|West Virginia|23|29|0|52
+2004|352|Lehigh|25|21|0|46
+2004|686|Swarthmore|5|20|0|25
+2004|269|Hampden-Sydney|18|19|1|38
+2004|22|American Int'l|5|36|0|41
+2004|124|Catholic|27|14|1|42
+2004|524|Old Westbury|21|15|0|36
+2004|279|Lehman|7|12|0|19
+2004|1439|West Virginia St.|40|16|0|56
+2004|24|Amherst|19|18|0|37
+2004|23624|Cazenovia|19|15|0|34
+2004|525|Olivet|16|22|0|38
+2004|769|Western Caro.|28|31|0|59
+2004|939|Anderson (IN)|11|24|0|35
+2004|526|SUNY Oneonta|23|15|0|38
+2004|770|Western Conn. St.|21|18|0|39
+2004|13028|Anderson (SC)|20|35|0|55
+2004|527|Oral Roberts|50|11|0|61
+2004|771|Western Ill.|29|36|0|65
+2004|772|Western Ky.|35|28|0|63
+2004|1115|Hanover|20|18|0|38
+2004|774|Western Mich.|21|33|0|54
+2004|1170|Lenoir-Rhyne|23|25|0|48
+2004|271|Hardin-Simmons|23|14|0|37
+2004|192|Dubuque|12|26|1|39
+2004|1116|Harding|25|22|0|47
+2004|193|Duke|25|31|0|56
+2004|272|Hartford|11|33|0|44
+2004|194|Duquesne|26|42|0|68
+2004|26|Anna Maria|5|17|0|22
+2004|273|Hartwick|8|26|0|34
+2004|528|Oregon St.|31|22|0|53
+2004|195|Earlham|7|25|0|32
+2004|635|Seton Hall|17|33|1|51
+2004|275|Harvard|21|18|1|40
+2004|530|Oswego St.|16|16|0|32
+2004|27|Appalachian St.|10|43|0|53
+2004|196|East Carolina|51|13|0|64
+2004|276|Haverford|21|12|0|33
+2004|531|Otterbein|24|18|0|42
+2004|966|Arcadia|28|16|0|44
+2004|689|Tampa|41|16|0|57
+2004|8965|East Central|30|21|0|51
+2004|277|Hawaii|31|24|0|55
+2004|775|Western New Eng.|33|14|0|47
+2004|8490|LeTourneau|9|28|0|37
+2004|1289|Ouachita Baptist|12|36|0|48
+2004|1395|Tarleton St.|24|26|1|51
+2004|29|Arizona|36|27|1|64
+2004|442|Montclair St.|25|16|0|41
+2004|125|Centenary (LA)|23|31|0|54
+2004|197|East Stroudsburg|17|27|1|45
+2004|23008|Ozarks (AR)|13|24|0|37
+2004|2697|Hawaii Hilo|9|43|0|52
+2004|1446|Western Ore.|31|23|0|54
+2004|354|Lewis|16|39|0|55
+2004|12884|Centenary (NJ)|29|12|0|41
+2004|1238|Montevallo|26|27|0|53
+2004|28|Arizona St.|41|18|0|59
+2004|712|TCNJ|22|12|0|34
+2004|198|East Tenn. St.|28|30|0|58
+2004|2696|Hawaii Pacific|27|27|0|54
+2004|126|Central (IA)|20|22|0|42
+2004|22235|Lewis & Clark|13|25|0|38
+2004|1062|East Tex. Baptist|26|14|0|40
+2004|443|Moravian|15|22|0|37
+2004|698|TCU|39|26|0|65
+2004|1004|Central Ark.|33|24|0|57
+2004|355|Liberty|25|30|0|55
+2004|278|Heidelberg|32|14|1|47
+2004|203|East. Mennonite|14|23|0|37
+2004|444|Morehead St.|14|40|0|54
+2004|690|Temple|30|38|0|68
+2004|127|Central Conn. St.|41|17|1|59
+2004|1174|Limestone|27|28|0|55
+2004|1123|Henderson St.|18|32|0|50
+2004|445|Morehouse|7|23|0|30
+2004|8968|Eastern|7|22|0|29
+2004|694|Tennessee|38|24|0|62
+2004|1124|Hendrix|4|22|0|26
+2004|356|Lincoln (MO)|9|25|0|34
+2004|200|Eastern Conn. St.|43|11|0|54
+2004|19651|High Point|11|44|0|55
+2004|357|Lincoln (PA)|5|9|0|14
+2004|201|Eastern Ill.|26|30|0|56
+2004|8398|Hilbert|6|18|0|24
+2004|8411|Ark.-Monticello|26|25|1|52
+2004|652|Sewanee|13|24|0|37
+2004|202|Eastern Ky.|34|17|0|51
+2004|280|Hillsdale|13|31|0|44
+2004|2678|Ark.-Pine Bluff|18|29|1|48
+2004|636|Shaw|18|17|0|35
+2004|204|Eastern Mich.|32|27|0|59
+2004|281|Hiram|20|15|0|35
+2004|31|Arkansas|45|24|0|69
+2004|637|Shenandoah|23|20|0|43
+2004|206|Eastern N.M.|19|27|1|47
+2004|30|Arkansas St.|29|28|0|57
+2004|10870|Shepherd|24|17|0|41
+2004|1064|Eastern Nazarene|28|12|1|41
+2004|777|Westfield St.|21|17|0|38
+2004|947|Arkansas Tech|31|23|0|54
+2004|638|Shippensburg|43|12|0|55
+2004|129|Central Mich.|33|24|0|57
+2004|692|Tennessee Tech|15|31|0|46
+2004|1450|Westminster (MO)|15|20|0|35
+2004|1176|Lincoln Memorial|17|36|1|54
+2004|33|Armstrong|29|27|0|56
+2004|639|Siena|27|26|0|53
+2004|1451|Westminster (PA)|18|22|0|40
+2004|130|Central Mo.|57|8|0|65
+2004|725|Army|37|15|0|52
+2004|1179|Linfield|32|11|0|43
+2004|1009|Central Okla.|33|16|0|49
+2004|778|Wheaton (IL)|8|27|0|35
+2004|283|Hofstra|14|36|0|50
+2004|28600|Lipscomb|15|39|0|54
+2004|779|Wheaton (MA)|21|20|1|42
+2004|35|Ashland|47|15|0|62
+2004|36|Assumption|8|31|0|39
+2004|641|Simpson|31|16|0|47
+2004|37|Auburn|32|24|0|56
+2004|660|SIU Edwardsville|20|32|0|52
+2004|38|Augsburg|16|22|0|38
+2004|642|Skidmore|15|24|0|39
+2004|39|GRU|38|18|0|56
+2004|285|Holy Cross|14|22|1|37
+2004|643|Slippery Rock|30|21|0|51
+2004|40|Augustana (IL)|25|15|0|40
+2004|360|Lock Haven|19|26|0|45
+2004|208|Eckerd|21|31|0|52
+2004|41|Augustana (SD)|21|26|0|47
+2004|99|Long Beach St.|40|21|0|61
+2004|696|Tex. A&M-Kingsville|32|25|0|57
+2004|1066|Edgewood|26|17|0|43
+2004|42|Aurora|28|19|0|47
+2004|361|LIU Brooklyn|9|29|0|38
+2004|953|Austin|9|29|0|38
+2004|363|Longwood|31|16|0|47
+2004|43|Austin Peay|35|21|0|56
+2004|364|Loras|15|21|0|36
+2004|1010|Central Wash.|28|22|0|50
+2004|44|Averett|22|21|0|43
+2004|132|Centre|4|29|0|33
+2004|1182|Louisiana Col.|22|18|0|40
+2004|45|Babson|24|19|0|43
+2004|780|Whitman|10|26|0|36
+2004|366|Louisiana Tech|20|38|0|58
+2004|533|Pace|19|31|1|51
+2004|46|Baldwin Wallace|20|14|0|34
+2004|367|Louisville|26|30|0|56
+2004|534|Pacific|20|34|0|54
+2004|47|Ball St.|28|28|0|56
+2004|2751|Pacific (OR)|18|21|0|39
+2004|536|Tex.-Pan American|22|31|0|53
+2004|210|Elizabeth City St.|21|13|0|34
+2004|1297|Pacific Lutheran|23|16|0|39
+2004|211|Elizabethtown|19|20|0|39
+2004|703|Texas|58|15|0|73
+2004|535|Paine|30|18|0|48
+2004|212|Elmhurst|27|14|0|41
+2004|697|Texas A&M|42|22|0|64
+2004|286|Hope|23|17|0|40
+2004|1400|Texas Lutheran|31|9|0|40
+2004|645|Sonoma St.|39|28|0|67
+2004|288|Houston|30|29|0|59
+2004|699|Texas Southern|19|35|0|54
+2004|646|South Ala.|30|28|0|58
+2004|1454|Whitworth|13|26|0|39
+2004|648|South Carolina|53|17|0|70
+2004|782|Wichita St.|49|16|0|65
+2004|783|Widener|13|22|0|35
+2004|134|Chapman|29|13|0|42
+2004|784|Wilkes|28|15|1|44
+2004|1013|Charleston (WV)|14|25|0|39
+2004|785|Willamette|17|19|0|36
+2004|48|Charleston So.|24|34|0|58
+2004|786|William & Mary|37|20|0|57
+2004|458|Charlotte|20|32|0|52
+2004|370|Loyola Marymount|32|22|1|55
+2004|650|South Dakota|24|26|0|50
+2004|365|LSU|46|19|0|65
+2004|649|South Dakota St.|12|36|0|48
+2004|372|Luther|25|14|0|39
+2004|670|Texas St.|32|26|0|58
+2004|1068|Elon|31|28|0|59
+2004|651|South Fla.|31|24|0|55
+2004|1245|Mount Olive|37|15|0|52
+2004|700|Texas Tech|40|21|0|61
+2004|452|Mount Union|16|16|0|32
+2004|2741|Howard Payne|11|29|0|40
+2004|49|Barry|34|21|0|55
+2004|15646|Barton|27|26|0|53
+2004|540|Penn|10|27|0|37
+2004|58|Baruch|5|17|0|22
+2004|539|Penn St.|28|29|0|57
+2004|50|Bates|13|18|0|31
+2004|374|Lynchburg|30|11|0|41
+2004|654|Southeast Mo. St.|29|28|0|57
+2004|789|Williams|30|12|0|42
+2004|655|Southeastern La.|17|39|0|56
+2004|1460|Wilmington (DE)|22|26|0|48
+2004|1371|Southeastern Okla.|30|23|0|53
+2004|1461|Wilmington (OH)|18|17|0|35
+2004|1376|Southern Ark.|45|15|0|60
+2004|657|Southern California|24|32|0|56
+2004|217|Emory|42|6|0|48
+2004|25719|Penn St.-Altoona|17|20|0|37
+2004|658|Southern Conn. St.|30|22|0|52
+2004|216|Emory & Henry|5|32|0|37
+2004|51|Baylor|29|31|0|60
+2004|538|Penn St.-Behrend|20|15|1|36
+2004|20794|Lynn|23|31|0|54
+2004|659|Southern Ill.|27|32|1|60
+2004|1071|Emporia St.|36|22|0|58
+2004|702|Texas-Arlington|32|26|0|58
+2004|26107|Becker|7|27|0|34
+2004|376|Macalester|13|23|0|36
+2004|661|Southern Ind.|23|33|0|56
+2004|23121|Texas-Dallas|33|8|0|41
+2004|377|MacMurray|7|27|0|34
+2004|1462|Wingate|23|33|0|56
+2004|52|Bellarmine|20|32|0|52
+2004|8981|Endicott|27|21|0|48
+2004|662|Southern Me.|31|13|1|45
+2004|380|Maine|34|21|0|55
+2004|1072|Erskine|32|28|0|60
+2004|664|Southern Miss.|45|19|0|64
+2004|790|Winona St.|33|23|1|57
+2004|14927|Belmont|31|23|0|54
+2004|218|Eureka|4|35|0|39
+2004|2683|Belmont Abbey|12|42|0|54
+2004|468|Southern N.H.|16|25|0|41
+2004|219|Evansville|28|32|0|60
+2004|8567|Mt. St. Joseph|22|22|0|44
+2004|53|Beloit|11|23|0|34
+2004|665|Southern U.|26|14|0|40
+2004|137|Chicago|24|13|0|37
+2004|220|Fairfield|16|27|0|43
+2004|54|Bemidji St.|14|34|0|48
+2004|1468|Mt. St. Mary (NY)|16|18|0|34
+2004|667|Southern Utah|19|30|0|49
+2004|136|Chicago St.|8|52|0|60
+2004|450|Mt. St. Mary's|25|18|0|43
+2004|222|Fairleigh Dickinson|12|28|0|40
+2004|55|Benedict|4|27|0|31
+2004|1192|Manchester|35|12|0|47
+2004|8875|Chowan|22|21|0|43
+2004|296|Benedictine (IL)|28|14|0|42
+2004|1076|Fairmont St.|16|23|0|39
+2004|381|Manhattan|25|27|1|53
+2004|139|Chris. Newport|25|16|0|41
+2004|792|Winthrop|37|23|0|60
+2004|27892|Farmingdale St.|12|18|0|30
+2004|382|Manhattanville|21|20|0|41
+2004|1015|Christian Bros.|22|27|0|49
+2004|541|Pepperdine|30|32|0|62
+2004|8911|Wis. Lutheran|6|27|0|33
+2004|384|Mansfield|31|19|0|50
+2004|140|Cincinnati|15|40|0|55
+2004|542|Pfeiffer|41|14|0|55
+2004|1194|Maranatha Baptist|1|28|0|29
+2004|1305|Cairn|9|19|0|28
+2004|2755|Southwest Baptist|18|34|0|52
+2004|1196|Marian (WI)|25|18|0|43
+2004|543|Philadelphia U.|12|24|0|36
+2004|707|Thiel|18|21|0|39
+2004|8736|Southwest Minn. St.|30|22|0|52
+2004|21830|Piedmont|20|27|0|47
+2004|385|Marietta|33|11|0|44
+2004|453|Muhlenberg|12|18|1|31
+2004|8746|Southwestern (TX)|27|18|0|45
+2004|56|Bentley|17|22|0|39
+2004|386|Marist|25|30|0|55
+2004|454|Murray St.|17|35|0|52
+2004|8744|Southwestern Okla.|23|23|0|46
+2004|221|FDU-Florham|22|13|0|35
+2004|455|Muskingum|17|20|0|37
+2004|23157|Felician|14|29|0|43
+2004|795|Wis.-La Crosse|16|26|0|42
+2004|488|N.C. A&T|23|28|0|51
+2004|141|Citadel|39|28|0|67
+2004|798|Wis.-Oshkosh|35|9|0|44
+2004|799|Wis.-Parkside|41|18|0|59
+2004|300|Ill. Wesleyan|28|19|0|47
+2004|800|Wis.-Platteville|14|25|0|39
+2004|1315|Pitt.-Bradford|23|19|0|42
+2004|59|Bethany (WV)|20|17|0|37
+2004|302|Ill.-Chicago|35|21|0|56
+2004|11839|Pitt.-Greensburg|13|21|0|34
+2004|1199|Mars Hill|16|37|0|53
+2004|388|Marshall|27|27|0|54
+2004|546|Pitt.-Johnstown|64|32|0|96
+2004|225|Ferrum|26|11|0|37
+2004|8597|Martin Luther|12|18|0|30
+2004|1079|Findlay|23|28|0|51
+2004|1314|Pittsburg St.|34|25|0|59
+2004|1403|Tiffin|21|26|0|47
+2004|545|Pittsburgh|38|18|0|56
+2004|709|Toledo|20|34|0|54
+2004|802|Wis.-Stevens Point|25|16|0|41
+2004|547|Plattsburgh St.|14|23|0|37
+2004|711|Towson|17|35|0|52
+2004|60|Bethel (MN)|29|11|0|40
+2004|803|Wis.-Stout|13|25|0|38
+2004|548|Plymouth St.|8|30|0|38
+2004|61|Bethune-Cookman|27|28|0|55
+2004|62|Binghamton|22|21|0|43
+2004|491|N.C. Wesleyan|22|20|0|42
+2004|28593|Birmingham-So.|47|18|0|65
+2004|8577|N.M. Highlands|30|26|0|56
+2004|64|Blackburn|24|19|0|43
+2004|726|Navy|14|36|0|50
+2004|301|Illinois|22|33|0|55
+2004|984|Bloomfield|8|32|1|41
+2004|297|Illinois Col.|16|18|0|34
+2004|673|Springfield|16|12|0|28
+2004|65|Bloomsburg|14|29|1|44
+2004|805|Wis.-Whitewater|39|9|0|48
+2004|592|St. Andrews|25|27|0|52
+2004|299|Illinois St.|21|34|0|55
+2004|549|Pomona-Pitzer|21|18|0|39
+2004|1203|Mary Hardin-Baylor|16|21|0|37
+2004|142|Claremont-M-S|21|19|0|40
+2004|985|Bluefield St.|0|23|29|52
+2004|593|St. Anselm|30|22|0|52
+2004|390|Mary Washington|30|12|0|42
+2004|551|Portland|12|44|0|56
+2004|987|Bluffton|11|29|0|40
+2004|143|Clarion|18|29|0|47
+2004|392|Maryland|22|34|0|56
+2004|594|St. Augustine's|11|22|0|33
+2004|145|Clark (MA)|13|19|0|32
+2004|462|Neb. Wesleyan|18|16|0|34
+2004|144|Clark Atlanta|2|34|0|36
+2004|806|Wittenberg|21|15|0|36
+2004|1156|Neb.-Kearney|19|36|0|55
+2004|1020|Clarke|13|27|0|40
+2004|787|Wm. Paterson|26|14|0|40
+2004|146|Clarkson|20|17|0|37
+2004|464|Omaha|23|26|0|49
+2004|2743|Incarnate Word|40|17|0|57
+2004|2915|Wofford|17|30|0|47
+2004|227|Fitchburg St.|24|10|0|34
+2004|463|Nebraska|36|23|0|59
+2004|306|Indiana|25|30|0|55
+2004|231|FIU|29|33|0|62
+2004|807|Wooster|37|10|0|47
+2004|596|St. Bonaventure|40|30|0|70
+2004|67|Boston College|32|27|0|59
+2004|1254|Neumann|7|26|0|33
+2004|395|Maryville (MO)|13|25|0|38
+2004|229|Fla. Atlantic|47|17|0|64
+2004|307|Indiana (PA)|15|18|0|33
+2004|713|Trinity (CT)|27|9|0|36
+2004|1318|Post|22|26|0|48
+2004|809|Worcester St.|27|12|0|39
+2004|466|Nevada|30|29|0|59
+2004|396|Maryville (TN)|14|21|0|35
+2004|808|WPI|16|16|0|32
+2004|305|Indiana St.|20|37|0|57
+2004|553|Prairie View|30|26|0|56
+2004|467|New England Col.|4|26|0|30
+2004|397|Marywood|28|31|1|60
+2004|810|Wright St.|22|34|0|56
+2004|1320|Presbyterian|25|30|0|55
+2004|309|Indianapolis|22|33|0|55
+2004|147|Clemson|39|26|0|65
+2004|310|Iona|21|31|0|52
+2004|148|Cleveland St.|19|33|0|52
+2004|312|Iowa|20|35|0|55
+2004|598|St. Cloud St.|14|35|0|49
+2004|69|Bowdoin|24|13|0|37
+2004|1334|St. Edward's|25|28|0|53
+2004|470|New Haven|25|9|0|34
+2004|715|Trinity (TX)|37|10|0|47
+2004|716|Troy|36|22|0|58
+2004|319|New Jersey City|13|21|0|34
+2004|812|Xavier|26|55|0|81
+2004|554|Princeton|28|20|0|48
+2004|473|New Mexico|26|29|1|56
+2004|499|Truman|10|36|0|46
+2004|813|Yale|19|20|0|39
+2004|555|Principia|5|27|0|32
+2004|717|Tufts|18|14|0|32
+2004|149|Coastal Caro.|40|23|0|63
+2004|472|New Mexico St.|33|25|1|59
+2004|718|Tulane|41|21|0|62
+2004|474|New Orleans|27|28|0|55
+2004|308|IPFW|20|31|0|51
+2004|71|Bowling Green|28|19|0|47
+2004|233|Fla. Southern|35|22|1|58
+2004|401|UMass Boston|18|20|0|38
+2004|475|SUNY New Paltz|14|24|1|39
+2004|313|Ithaca|34|9|0|43
+2004|72|Bradley|29|26|1|56
+2004|656|UMass Dartmouth|25|15|0|40
+2004|73|Brandeis|16|16|0|32
+2004|368|UMass Lowell|22|21|0|43
+2004|557|Puget Sound|20|18|0|38
+2004|150|Coe|26|18|0|44
+2004|400|Massachusetts|22|39|0|61
+2004|599|St. Francis Brooklyn|12|30|0|42
+2004|1023|Coker|25|25|0|50
+2004|773|McDaniel|17|12|0|29
+2004|12830|Tusculum|33|24|0|57
+2004|1014|Col. of Charleston|47|16|0|63
+2004|8530|McMurry|29|15|0|44
+2004|720|Tuskegee|18|23|0|41
+2004|235|Florida|43|22|0|65
+2004|151|Colby|6|25|0|31
+2004|402|McNeese St.|24|29|0|53
+2004|228|Florida A&M|22|30|0|52
+2004|152|Colby-Sawyer|15|20|0|35
+2004|314|Jackson St.|29|20|0|49
+2004|393|UMES|3|44|1|48
+2004|74|Bridgeport|14|16|0|30
+2004|316|Jacksonville|25|31|0|56
+2004|379|Me.-Farmington|8|21|0|29
+2004|815|York (PA)|28|18|0|46
+2004|75|Bridgewater (VA)|24|16|0|40
+2004|315|Jacksonville St.|31|29|0|60
+2004|559|Purdue|29|28|0|57
+2004|817|Youngstown St.|22|32|0|54
+2004|76|Bridgewater St.|26|16|0|42
+2004|234|Florida St.|45|23|0|68
+2004|601|St. John Fisher|27|14|0|41
+2004|317|James Madison|28|26|0|54
+2004|78|Brockport|34|15|0|49
+2004|230|Florida Tech|26|27|0|53
+2004|602|Saint John's (MN)|18|18|0|36
+2004|320|John Carroll|21|17|0|38
+2004|11538|Fontbonne|21|15|0|36
+2004|9|UAB|30|29|0|59
+2004|603|St. John's (NY)|37|23|0|60
+2004|1257|Newberry|22|32|0|54
+2004|321|John Jay|19|20|0|39
+2004|32|UALR|16|32|0|48
+2004|236|Fordham|37|38|1|76
+2004|322|Johns Hopkins|40|4|0|44
+2004|9011|Fort Hays St.|32|16|0|48
+2004|108|UC Davis|37|15|1|53
+2004|23725|Medaille|13|21|0|34
+2004|22626|Johnson & Wales (RI)|27|16|3|46
+2004|109|UC Irvine|34|23|1|58
+2004|560|Queens (NY)|9|20|0|29
+2004|80|Brown|16|26|0|42
+2004|111|UC Riverside|33|24|0|57
+2004|561|Quincy|34|26|0|60
+2004|81|Bryant|40|17|0|57
+2004|112|UC San Diego|35|24|0|59
+2004|562|Quinnipiac|23|21|0|44
+2004|104|UC Santa Barbara|33|21|0|54
+2004|563|Radford|23|30|0|53
+2004|606|Saint Joseph's|15|61|0|76
+2004|564|Ramapo|22|16|0|38
+2004|404|Memphis|29|28|0|57
+2004|405|Menlo|13|20|1|34
+2004|406|Mercer|20|35|0|55
+2004|724|Merchant Marine|5|25|0|30
+2004|83|Bucknell|20|24|0|44
+2004|482|Niagara|27|27|0|54
+2004|407|Mercy|7|30|0|37
+2004|84|Buena Vista|18|21|0|39
+2004|483|Nicholls St.|20|29|0|49
+2004|408|Mercyhurst|20|28|0|48
+2004|604|St. Joseph's (IN)|24|28|0|52
+2004|484|Nichols|21|15|0|36
+2004|565|Randolph-Macon|10|28|0|38
+2004|1340|St. Joseph's (L.I.)|26|18|0|44
+2004|325|Juniata|24|16|0|40
+2004|471|NJIT|23|24|0|47
+2004|567|Redlands|16|23|0|39
+2004|605|St. Joseph's (ME)|15|23|0|38
+2004|326|Kalamazoo|3|32|0|35
+2004|485|Norfolk St.|17|30|0|47
+2004|568|Regis (CO)|32|18|0|50
+2004|607|St. Lawrence|11|20|0|31
+2004|328|Kansas|31|31|1|63
+2004|487|North Ala.|34|20|1|55
+2004|608|Saint Leo|23|26|0|49
+2004|327|Kansas St.|26|30|0|56
+2004|457|North Carolina|43|21|0|64
+2004|128|UCF|47|18|0|65
+2004|329|Kean|24|13|1|38
+2004|490|North Carolina St.|36|24|0|60
+2004|1085|Francis Marion|29|17|0|46
+2004|110|UCLA|35|29|0|64
+2004|330|Keene St.|14|23|1|38
+2004|410|Merrimack|18|24|0|42
+2004|155|Colorado Mines|9|44|0|53
+2004|1157|Kennesaw St.|32|24|0|56
+2004|391|UMBC|14|38|0|52
+2004|11416|Colorado Mesa|44|19|0|63
+2004|331|Kent St.|36|27|0|63
+2004|411|Messiah|22|14|0|36
+2004|334|Kentucky|24|30|0|54
+2004|332|Kentucky St.|13|15|0|28
+2004|335|Kenyon|13|23|0|36
+2004|239|Frank. & Marsh.|24|19|0|43
+2004|2694|Franklin|23|20|0|43
+2004|241|Franklin Pierce|32|23|0|55
+2004|2720|Colorado St.-Pueblo|44|10|1|55
+2004|242|Fredonia St.|9|28|0|37
+2004|158|Columbia|14|28|0|42
+2004|456|UNC Asheville|26|31|0|57
+2004|570|Rensselaer|27|17|0|44
+2004|96|Fresno St.|29|29|0|58
+2004|159|Columbus St.|40|21|0|61
+2004|459|UNC Greensboro|33|21|1|55
+2004|572|Rhode Island|43|31|1|75
+2004|243|Frostburg St.|26|18|0|44
+2004|1028|Concord|27|16|0|43
+2004|537|UNC Pembroke|25|27|0|52
+2004|571|Rhode Island Col.|19|16|0|35
+2004|244|Furman|21|33|0|54
+2004|162|Concordia (NY)|15|29|0|44
+2004|460|UNC Wilmington|40|23|0|63
+2004|494|North Dakota|37|18|0|55
+2004|573|Rhodes|12|24|0|36
+2004|24400|Concordia (TX)|27|14|0|41
+2004|504|UNI|25|31|0|56
+2004|493|North Dakota St.|31|22|0|53
+2004|574|Rice|46|14|0|60
+2004|1036|Concordia (WI)|20|18|0|38
+2004|727|Union (NY)|16|20|0|36
+2004|2711|North Florida|41|18|0|59
+2004|681|Richard Stockton|16|19|1|36
+2004|160|Concordia Chicago|23|20|0|43
+2004|465|UNLV|37|24|0|61
+2004|575|Richmond|47|36|0|83
+2004|161|Concordia-M'head|22|15|0|37
+2004|728|Upper Iowa|31|45|0|76
+2004|576|Rider|24|27|0|51
+2004|9081|Concordia-St. Paul|16|23|0|39
+2004|730|Ursinus|20|15|2|37
+2004|164|UConn|26|29|1|56
+2004|695|UT Martin|16|38|0|54
+2004|732|Utah|22|36|0|58
+2004|30024|Utah Valley|10|9|0|19
+2004|500|Northeastern|28|20|0|48
+2004|12810|Northeastern St.|23|29|0|52
