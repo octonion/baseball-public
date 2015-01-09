@@ -1,0 +1,9 @@
+If two players with NCAA player id, map to same serial id.
+
+     272 | Moore, Yolonzo   |     2
+     736 | Jeter, Sheldon   |     2
+
+Otherise, select player w/ NCAA id, otherwise pick either of the two.
+
+team_id 189
+team_id 736

@@ -1,0 +1,1 @@
+peel off game box scores into a separate file
