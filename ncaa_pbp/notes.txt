@@ -1,1 +1,21 @@
 peel off game box scores into a separate file
+
+stat categories by year:
+
+year = 2012
+year_id = 10942
+hitting = 10082
+pitching = 10083
+fielding = 10084
+
+year = 2013
+year_id = 11320
+hitting = 10120
+pitching = 10121
+fielding = 10122
+
+year = 2014
+year_id = 11620
+hitting = 10460
+pitching = 10461
+fielding = 10462
