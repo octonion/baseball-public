@@ -10,16 +10,31 @@ sleep_increment = 3
 retries = 4
 
 ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries.csv","w",{:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries.csv","w",{:col_sep => "\t"})
+ncaa_player_summaries = CSV.open("csv/ncaa_player_hitting_summaries.csv","w",{:col_sep => "\t"})
+ncaa_team_summaries = CSV.open("csv/ncaa_team_hitting_summaries.csv","w",{:col_sep => "\t"})
 
 #http://stats.ncaa.org/team/roster/11540?org_id=2
 
 # Headers for files
 
-ncaa_player_summaries << ["year","year_id","team_id","team_name","jersey_number","player_id","player_name","player_url","class_year","position","height","games_played","games_started","minutes_played","field_goals_made","field_goals_attempted","field_goal_percentage","three_point_field_goals","three_point_field_goals_attempted","three_point_field_goal_percentage","free_throws","free_throws_attempted","free_throw_percentage","points","point_per_game","offensive_rebounds","defensive_rebounds","total_rebounds","rebounds_per_game","assists","turnovers","steals","blocks","fouls","double_doubles","triple_doubles"]
+#Jersey	Player	Yr	Pos
+#GP	GS	G	BA	OBPct	SlgPct
+#AB	R	H	2B	3B	TB	HR	RBI	BB	HBP
+#SF	SH	K	DP	SB	CS	Picked
 
-ncaa_team_summaries << ["year","year_id","team_id","team_name","jersey_number","summary_type","class_year","position","height","games_played","games_started","minutes_played","field_goals_made","field_goals_attempted","field_goal_percentage","three_point_field_goals","three_point_field_goals_attempted","three_point_field_goal_percentage","free_throws","free_throws_attempted","free_throw_percentage","points","point_per_game","offensive_rebounds","defensive_rebounds","total_rebounds","rebounds_per_game","assists","turnovers","steals","blocks","fouls","double_doubles","triple_doubles"]
+ncaa_player_summaries << [
+"year", "year_id", "team_id", "team_name",
+"jersey_number", "player_id", "player_name", "player_url", "class_year",
+"position",
+"gp", "gs", "g", "ba", "obp", "slg",
+"ab", "r", "h", "d", "t", "tb", "hr", "rbi", "bb", "hbp",
+"sf", "sh", "k", "dp", "sb", "cs", "picked"]
+
+ncaa_team_summaries << ["year","year_id","team_id","team_name",
+"jersey_number", "player_name", "class_year", "position",
+"gp", "gs", "g", "ba", "obp", "slg",
+"ab", "r", "h", "d", "t", "tb", "hr", "rbi", "bb", "hbp",
+"sf", "sh", "k", "dp", "sb", "cs", "picked"]
 
 # Base URL for relative team links
 
@@ -36,12 +51,12 @@ ncaa_teams.each do |team|
 
   players_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
-  teams_xpath = '//*[@id="stat_grid"]/tfoot/tr[position()>1]'
+  teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
   stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
 
-  print "Sleep #{sleep_time} ... "
-  sleep sleep_time
+  #print "Sleep #{sleep_time} ... "
+  #sleep sleep_time
 
   found_players = 0
   missing_id = 0
