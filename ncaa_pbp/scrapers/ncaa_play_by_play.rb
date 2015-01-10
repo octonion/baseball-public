@@ -1,165 +1,190 @@
 #!/usr/bin/env ruby
 
 require 'csv'
-require 'mechanize'
+
 require 'nokogiri'
 require 'open-uri'
-require 'cgi'
+
+#require 'awesome_print'
+
+class String
+  def to_nil
+    self.empty? ? nil : self
+  end
+end
+
+#events = ["Leaves Game","Enters Game","Defensive Rebound","Commits Foul","made Free Throw","Assist","Turnover","missed Three Point Jumper","Offensive Rebound","missed Two Point Jumper","made Layup","missed Layup","Steal","made Two Point Jumper","made Three Point Jumper","missed Free Throw","Blocked Shot","Deadball Rebound","30 Second Timeout","Media Timeout","Team Timeout","made Dunk","20 Second Timeout","Timeout","made Tip In","missed Tip In","missed Dunk","made","missed","missed Deadball"]
+
+base_url = 'http://stats.ncaa.org'
+#base_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/stats.ncaa.org'
+
+play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
+periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
+
+nthreads = 10
 
 base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_play_by_play = CSV.open("csv/ncaa_games_play_by_play_mt.csv","w",{:col_sep => "\t"})
+ncaa_periods = CSV.open("csv/ncaa_games_periods_mt.csv","w",{:col_sep => "\t"})
 
-agent.user_agent = 'Mozilla/5.0'
+# Headers
 
-base = "http://stats.ncaa.org/game/play_by_play"
+ncaa_play_by_play << ["game_id","period_id","event_id","team_text","team_score","opponent_score","score","opponent_text"]
 
-periods = CSV.open("csv/ncaa_games_periods.csv","w")
-notes = CSV.open("csv/ncaa_games_notes.csv","w")
-info = CSV.open("csv/ncaa_games_info.csv","w")
-officials = CSV.open("csv/ncaa_games_officials.csv","w")
-pbp = CSV.open("csv/ncaa_games_play_by_play.csv","w")
+ncaa_periods << ["game_id", "section_id", "team_id", "team_name", "team_url", "period_scores"]
 
-files =[periods,notes,info,officials,pbp]
+# Get game IDs
 
-data = []
-
-ids = []
-CSV.open("csv/ncaa_team_schedules.csv","r",{:col_sep => "\t", :headers => TRUE}).each do |game|
-  if not(game[19]==nil)
-    game_id = game[19]
-    ids << game_id.to_i
-  end
+game_ids = []
+ncaa_team_schedules.each do |game|
+  game_ids << game["game_id"]
 end
 
-ids.sort!.uniq!
+# Pull each game only once
+# Modify in-place, so don't chain
 
-n = ids.size
+game_ids.compact!
+game_ids.sort!
+game_ids.uniq!
 
-found = 0
+#game_ids = game_ids[0..199]
 
-ids.each_with_index do |game_id,i|
+n = game_ids.size
 
-  url = "#{base}/#{game_id}"
-  sleep_time = base_sleep
+gpt = (n.to_f/nthreads.to_f).ceil
 
-  print "Sleep #{sleep_time} ... "
-  sleep sleep_time
+threads = []
 
-  tries = 0
+game_ids.each_slice(gpt).with_index do |ids,i|
 
-  begin
-    page = Nokogiri::HTML(open(url))
-  rescue
-    sleep_time += sleep_increment
-    print "sleep #{sleep_time} ... "
-    sleep sleep_time
-    tries += 1
-    if (tries > retries)
-      next
-    else
-      retry
-    end
-  end
+  threads << Thread.new(ids) do |t_ids|
 
-  found += 1
+    found = 0
+    n_t = t_ids.size
 
-  print "#{game_id} : #{i+1}/#{n}; found #{found}/#{n}\n"
+    t_ids.each_with_index do |game_id,j|
 
-    page.css("table").each_with_index do |table,i|
+      sleep_time = base_sleep
 
-      if (i>3)
-        if (i%2==0)
+#      game_url = 'http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
+#      game_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
+
+      game_url = 'http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
+
+#      print "Thread #{thread_id}, sleep #{sleep_time} ... "
+#      sleep sleep_time
+
+      tries = 0
+      begin
+        page = Nokogiri::HTML(open(game_url))
+      rescue
+        sleep_time += sleep_increment
+#        print "sleep #{sleep_time} ... "
+        sleep sleep_time
+        tries += 1
+        if (tries > retries)
           next
         else
-          file_id = 4
-          period = i/2 - 1
+          retry
         end
-      else
-        file_id = i
       end
 
-      table.css("tr").each_with_index do |row,j|
+      sleep_time = base_sleep
 
-        if (file_id==4)
-          r = [game_id,period,j]
-        else
-          r = [game_id,j]
-        end
+      found += 1
 
-        row.xpath("td").each_with_index do |d,k|
+      print "#{i}, #{game_id} : #{j+1}/#{n_t}; found #{found}/#{n_t}\n"
 
-          l = d.text.delete("^\u{0000}-\u{007F}").strip
-          r += [l]
+      page.xpath(play_xpath).each_with_index do |row,event_id|
+
+        table = row.parent
+        period_id = table.parent.xpath('table[position()>1 and @class="mytable"]').index(table)
+
+        team_text = row.at_xpath('td[1]').text.strip.to_nil rescue nil
+        score = row.at_xpath('td[2]').text.strip.to_nil rescue nil
+        opponent_text = row.at_xpath('td[3]').text.strip.to_nil rescue nil
+
+        #team_event = nil
+        #if not(team_text.nil?)
+        #  events.each do |e|
+        #    if (team_text =~ /#{e}$/)
+        #      team_event = e
+        #      break
+        #    end
+        #  end
+        #end
+
+        #team_player = team_text.gsub(team_event,"").strip rescue nil
+
+        #opponent_event = nil
+        #if not(opponent_text.nil?)
+        #  events.each do |e|
+        #    if (opponent_text =~ /#{e}$/)
+        #      opponent_event = e
+        #      break
+        #    end
+        #  end
+        #end
+
+        #opponent_player = opponent_text.gsub(opponent_event,"").strip rescue nil
+        scores = score.split('-') rescue nil
+        team_score = scores[0].strip rescue nil
+        opponent_score = scores[1].strip rescue nil
+
+#        ap [period_id,event_id,time,team_player,team_event,team_text,team_score,opponent_score,score,opponent_player,opponent_event,opponent_text]
+
+        ncaa_play_by_play << [game_id,period_id,event_id,team_text,team_score,opponent_score,score,opponent_text]
+
+        #if (time.include?('End'))
+        #  team_player = 'TEAM'
+        #  team_event = time
+        #  opponent_player = 'TEAM'
+        #  opponent_event = time
+        #  time = '00:00'
+        #end
+
+        #ncaa_play_by_play << [game_id,period_id,event_id,time,team_player,team_event,team_text,team_score,opponent_score,score,opponent_player,opponent_event,opponent_text]
 
       end
 
-      if (r.size < 7)
-        next
-      else
-        if (r[2].is_a? Integer) and (r[2]>0)
+      page.xpath(periods_xpath).each_with_index do |row,section_id|
+        team_period_scores = []
+#        section = [game_id,section_id]
+        team_name = nil
+        link_url = nil
+        team_url = nil
+        team_id = nil
+        row.xpath('td').each_with_index do |element,i|
+          case i
+          when 0
+            team_name = element.text.strip rescue nil
+            link = element.search("a").first
 
-          rr = r[0..3]
-
-          sa = r[4].split(',',2)
-          if not(sa==[])
-            if (sa[0]==r[4])
-              last=nil
-            else
-              last = sa[0].strip
+            if not(link.nil?)
+              link_url = link.attributes["href"].text
+              team_url = link_url.split("cgi/")[1]
+              parameters = link_url.split("/")[-1]
+              team_id = parameters.split("=")[1]
             end
-            if (sa[1]==nil)
-              sb = sa[0].split(' ',2)
-            else
-              sb = sa[1].split(' ',2)
-            end
-            first = sb[0].strip if sb[0]
-            event = sb[1].strip if sb[1]
-            rr += [last,first,event]
+#            section += [team_id, team_name, team_url]
           else
-            rr += [nil,nil,nil]
+            team_period_scores += [element.text.strip.to_i]
           end
-
-          sa = r[5].split('-',2)
-          rr += [sa[0].strip,sa[1].strip]
-
-          sa = r[6].split(',',2)
-          if not(sa==[])
-            if (sa[0]==r[6])
-              last=nil
-            else
-              last = sa[0].strip
-            end
-            if (sa[1]==nil)
-              sb = sa[0].split(' ',2)
-            else
-              sb = sa[1].split(' ',2)
-            end
-            first = sb[0].strip if sb[0]
-            event = sb[1].strip if sb[1]
-            rr += [last,first,event]
-          else
-            rr += [nil,nil,nil]
-          end
-
-          files[file_id] << rr
-
-        else
-          next
         end
+        ncaa_periods << [game_id,section_id,team_id,team_name,team_url,team_period_scores]
       end
     end
 
   end
 
-  files.each do |file|
-    file.flush
-  end
-
 end
 
-files.each do |file|
-  file.close
-end
+threads.each(&:join)
+
+#parts.flatten(1).each { |row| ncaa_play_by_play << row }
+
+ncaa_play_by_play.close
