@@ -5,6 +5,9 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 
+year = ARGV[0]
+division = ARGV[1]
+
 nthreads = 10
 
 base_sleep = 0
@@ -17,8 +20,8 @@ base_url = 'http://stats.ncaa.org'
 
 game_xpath = '//*[@id="contentArea"]/table/tr[2]/td[1]/table/tr[position()>2]'
 
-ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","w",{:col_sep => "\t"})
+ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Header for team file
 
@@ -45,12 +48,14 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       sleep_time = base_sleep
 
-      year = team[0]
-      year_id = team[1]
-      team_id = team[2]
-      team_name = team[3]
+      year = team["year"]
+      year_id = team["year_id"]
+      team_id = team["team_id"]
+      team_name = team["team_name"]
       
-      team_schedule_url = "http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
+      #team_schedule_url = "http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
+
+      team_schedule_url = "http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
 
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time
@@ -122,8 +127,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
               # opponent URL
 
-              #opponent_url = base_url+link_url
-              opponent_url = link_url.split("cgi/")[1]
+              opponent_url = base_url+link_url
+              #opponent_url = link_url.split("cgi/")[1]
             end
 
             row += [game_string, opponent_id, opponent_name, opponent_url, neutral_site, neutral_location, home_game]
@@ -177,8 +182,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
               # Game URL
 
-              game_url = link_url.split("cgi/")[1]
-              #game_url = base_url+link_url
+              #game_url = link_url.split("cgi/")[1]
+              game_url = base_url+link_url
             end
 
             found_games += 1

@@ -6,7 +6,7 @@ require 'nokogiri'
 require 'open-uri'
 
 #year_stat_category_id=10462
-stat_categories = [10460, 10461, 10462]
+#stat_categories = [10460, 10461, 10462]
 
 #require 'awesome_print'
 

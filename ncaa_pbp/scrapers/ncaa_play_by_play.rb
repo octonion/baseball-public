@@ -5,7 +5,8 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 
-#require 'awesome_print'
+year = ARGV[0]
+division = ARGV[1]
 
 class String
   def to_nil
@@ -13,10 +14,7 @@ class String
   end
 end
 
-#events = ["Leaves Game","Enters Game","Defensive Rebound","Commits Foul","made Free Throw","Assist","Turnover","missed Three Point Jumper","Offensive Rebound","missed Two Point Jumper","made Layup","missed Layup","Steal","made Two Point Jumper","made Three Point Jumper","missed Free Throw","Blocked Shot","Deadball Rebound","30 Second Timeout","Media Timeout","Team Timeout","made Dunk","20 Second Timeout","Timeout","made Tip In","missed Tip In","missed Dunk","made","missed","missed Deadball"]
-
 base_url = 'http://stats.ncaa.org'
-#base_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/stats.ncaa.org'
 
 play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
 periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
@@ -27,9 +25,9 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_play_by_play = CSV.open("csv/ncaa_games_play_by_play_mt.csv","w",{:col_sep => "\t"})
-ncaa_periods = CSV.open("csv/ncaa_games_periods_mt.csv","w",{:col_sep => "\t"})
+ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_play_by_play = CSV.open("csv/ncaa_games_play_by_play_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_periods = CSV.open("csv/ncaa_games_periods_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Headers
 
@@ -69,9 +67,6 @@ game_ids.each_slice(gpt).with_index do |ids,i|
     t_ids.each_with_index do |game_id,j|
 
       sleep_time = base_sleep
-
-#      game_url = 'http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
-#      game_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
 
       game_url = 'http://stats.ncaa.org/game/play_by_play/%d' % [game_id]
 
