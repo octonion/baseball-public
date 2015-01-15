@@ -15,7 +15,7 @@ divisions = ["d1"]
 #game_date = Date::strptime(testdate, "%d-%m-%Y")
 
 date_start = Date.new(2014,2,14)
-date_end = Date.new(2014,4,1)
+date_end = Date.new(2014,6,30)
 
 for div_date in divisions.product(Array(date_start..date_end)) do
 
