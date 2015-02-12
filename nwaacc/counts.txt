@@ -1,0 +1,6 @@
+   716   4437  78031 nwaacc_games_2007.csv
+   739   4551  78554 nwaacc_games_2008.csv
+   737   4490  77656 nwaacc_games_2009.csv
+   674   4156  73752 nwaacc_games_2010.csv
+   726   4404  68126 nwaacc_games_2011.csv
+  3592  22038 376119 total
