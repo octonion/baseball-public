@@ -5,9 +5,9 @@ create schema ncaa_json;
 create table ncaa_json.games (
        game_id		     integer,
        game_date	     date,
-       gameinfo		     json,
-       boxscore		     json,
-       pbp		     json
+       gameinfo		     jsonb,
+       boxscore		     jsonb,
+       pbp		     jsonb
 -- Need to check primary key situation
 --       primary key (game_id,game_date)
 );
