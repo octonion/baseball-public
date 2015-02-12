@@ -1,0 +1,10 @@
+     <td class="d10" style="width: 150px; padding-left: 15px; padding-top: 5px; ">Select a Category:</td>
+        <td class="d10" style="padding-top: 5px; padding-right: 12px;"><select name="ctl00$websyncContentPlaceHolder$allIndividualsDropDownList" onchange="javascript:setTimeout('__doPostBack(\'ctl00$websyncContentPlaceHolder$allIndividualsDropDownList\',\'\')', 0)" id="ctl00_websyncContentPlaceHolder_allIndividualsDropDownList" class="d10" style="text-decoration: none">
+	<option selected="selected" value="ba_stp_b_bat_overall">Batting Overall</option>
+	<option value="ba_stp_b_Baserun_overall">Base Running Overall</option>
+
+	<option value="ba_stp_f_field_overall">Fielding Overall</option>
+	<option value="ba_stp_p_pitch_overall">Pitching Overall</option>
+	<option value="ba_stp_p_pitch_opp">Pitching Opp Batting</option>
+	<option value="ba_stp_p_pitch_per9">Pitching Per 9</option>
+	<option value="99">Season Box</option>
