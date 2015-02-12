@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+ <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <META name="description" content="Anonymouse">
+ <META name="keywords" content="Anonymouse, anonymous, anonym, @nonymouse, @nonymous, Anon, AnonFTP, AnonEmail, FTP, email, e-mail, Free, Gratis, Kostenlos, Remailer, calling card, privacy, personal information, fast, easy, surf, surfing, web, www, log, logging, logfile, logfiles, cookie, cookies, cookiekiller, no cookies, reveal, stat, stats, statistic, statistics, mouse, mice, cat, cats">
+ <META name="author" content="Anonymouse">
+ <META name="rating" content="General">
+ <META name="robots" content="ALL">
+ <META name="revisit-after" content="31 days">
+ <TITLE>Anonymouse.org</TITLE>
+<SCRIPT language="JavaScript">
+<!--
+function change(pic,url) { document.images[pic].src=url; }
+
+function preload() {
+ var images = preload.arguments;
+ document.preloadlist = new Array();
+ for (var i=0;i<images.length;i++) {
+  document.preloadlist[i] = new Image();
+  document.preloadlist[i].src = images[i];
+ }
+}
+//-->
+</SCRIPT>
+</HEAD>
+<BODY text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#501880" alink="#FF0000" onLoad="preload('/images/buttons/anonwww2.gif','/images/buttons/anonemail2.gif','/images/buttons/anonnews2.gif')">
+<FONT face="Arial, Helvetica, sans-serif">
+
+<CENTER>
+<A href="/"><IMG src="/images/logo.jpg" lowsrc="/images/empty.gif" alt="Anonymouse" height="110" width="436" border="0"></A>
+<BR>
+
+<FONT size="+3">AnonWWW</FONT><BR>
+
+<A href="/anonemail.html" onMouseOut="change('anonemail','/images/buttons/anonemail.gif')" onMouseOver="change('anonemail','/images/buttons/anonemail2.gif')"><IMG src="/images/buttons/anonemail.gif" name="anonemail" alt="AnonEmail" width="107" height="38" border="0"></A>
+<A href="/anonwww.html" onMouseOut="change('anonwww','/images/buttons/anonwww.gif')" onMouseOver="change('anonwww','/images/buttons/anonwww2.gif')"><IMG src="/images/buttons/anonwww.gif" name="anonwww" alt="AnonWWW" width="107" height="38" border="0"></A>
+<A href="/anonnews.html" onMouseOut="change('anonnews','/images/buttons/anonnews.gif')" onMouseOver="change('anonnews','/images/buttons/anonnews2.gif')"><IMG src="/images/buttons/anonnews.gif" name="anonnews" alt="AnonNews" width="107" height="38" border="0"></A>
+<P>
+
+<FONT size="+2" color="#FF0000">Error - Timeout</FONT><P>
+
+The target server does not respond timely!<BR>
+The <A href="/vip.html">VIP-Version of Anonymouse</A> waits longer for server responses.
+<P>
+
+<center>
+<!--WERBUNG-->Adverts<br><script type='text/javascript'>   var m3_u = 'http://openx.anonymouse.org/delivery/ajs.php';   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) { document.MAX_used = ','; }   document.write("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write("?zoneid=2");   document.write('&amp;cb=' + m3_r);   if (document.MAX_used != ',') { document.write ("&amp;exclude=" + document.MAX_used); }   document.write(document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));   document.write("&amp;loc=" + escape(window.location));   if (document.referrer) { document.write("&amp;referer=" + escape(document.referrer)); }   if (document.context) { document.write("&context=" + escape(document.context)); }   if (document.mmm_fo) { document.write("&amp;mmm_fo=1"); }   document.write("'><\/scr"+"ipt>");</script><noscript><a href='http://openx.anonymouse.org/delivery/ck.php?n=a976e37a&amp;cb=43526546367987686' target='_blank'><img src='http://openx.anonymouse.org/delivery/avw.php?zoneid=2&amp;cb=8767892569874598762435&amp;n=a976e37a' border='0' alt='' /></a></noscript><NOSCRIPT><A HREF="/vip_de.html" TARGET="_blank"><IMG SRC="/images/ads/vipbanner_de.gif" WIDTH=468 HEIGHT=60 BORDER=0></A></NOSCRIPT><br><!--/WERBUNG-->
+
+
+<IMG src="/images/hr.gif" width="493" height="19" alt=""><BR>
+<FONT size="-1">
+<A href="/vip.html">Members</A> | <A href="/tos.html">Terms of Service</A> | <A href="/privacy.html">Privacy Policy</A> | <A href="/faq.html">Help / FAQ</A> | <A href="/contact.html">Contact Info</A>
+</FONT>
+<P>
+
+<FONT size="-1">Copyright &copy; 1997-2014 by Anonymouse<BR>All Rights Reserved</FONT><BR>
+</CENTER>
+
+</BODY>
+</HTML>

@@ -1,0 +1,293 @@
+                 opponent                 | n  
+------------------------------------------+----
+ Grayson County College                   | 25
+ Spartanburg Methodist                    | 21
+ Delaware Technical & Community College   | 18
+ CCBC Dundalk                             | 16
+ East Georgia College                     | 14
+ St. Cloud Technical & Community College  | 12
+ Prairie Baseball Academy                 | 11
+ Thomas University JV                     |  9
+ Brewton Parker JV                        |  8
+ Gray Military Academy                    |  8
+ Evangel JV                               |  8
+ Ontario Blue Jays                        |  8
+ Montgomery County Community College (PA) |  7
+ University of Tampa JV                   |  7
+ Flagler College JV                       |  6
+ Newberry College                         |  6
+ Douglas College                          |  6
+ Okanagan College                         |  6
+ Arizona State University Club            |  6
+ Faulkner University J.V.                 |  6
+ Martin Methodist                         |  6
+ Shorter College                          |  5
+ Arizona Christian University JV          |  5
+ Webber International University          |  5
+ CSU Club                                 |  4
+ Dallas Christian College                 |  4
+ Concordia University                     |  4
+ East Central University                  |  4
+ Bellevue Community College               |  4
+ Dallas Christian JV                      |  4
+ brewton parker college jv                |  4
+ Mount Hood Community College             |  4
+ LaGrange College                         |  4
+ Mid-Continent University                 |  4
+ Utah State University Club               |  4
+ Bacone College                           |  4
+ Rollins College JV                       |  4
+ Birmingham Southern                      |  4
+ Idaho All-Stars                          |  4
+ Huntingdon College JV                    |  4
+ Lake Region State College                |  4
+ Methodist University JV                  |  4
+ Suffolk CC                               |  4
+ Clermont College                         |  4
+ LaGrange College (JV)                    |  4
+ University of the Southwest JV           |  4
+ Webster JV                               |  3
+ ASA Brooklyn II                          |  3
+ Elev8 Academy                            |  3
+ Riverside Community College              |  3
+ Inside Pitch Academy                     |  3
+ Wayland Baptist University               |  3
+ Bethany College                          |  3
+ St. Andrews                              |  3
+ Wayland Baptist                          |  3
+ Piedmont                                 |  3
+ Utah State Club                          |  3
+ Howard Payne                             |  3
+ Centenary College                        |  3
+ Rockhurst                                |  3
+ Faulkner University                      |  3
+ Broome Community College                 |  3
+ LeTourneau                               |  2
+ San Diego City College                   |  2
+ Limestone                                |  2
+ Northwood University                     |  2
+ Apprentice School                        |  2
+ Birmingham-Southern College JV           |  2
+ Oklahoma Wesleyan                        |  2
+ Gwynedd Mercy JV                         |  2
+ Victory University JV                    |  2
+ TWC                                      |  2
+ East Central University JV               |  2
+ Okanogan                                 |  2
+ King College                             |  2
+ Limestone College JV                     |  2
+ Lenoir-Rhyne University (JV)             |  2
+ Rhodes College JV                        |  2
+ Central Missouri Prospects               |  2
+ Okanagan                                 |  2
+ Bryan College JV                         |  2
+ Fontbonne University JV                  |  2
+ IMG Academy                              |  2
+ Furman University                        |  2
+ Concordia                                |  2
+ NC Wesleyan                              |  2
+ Coastal JV                               |  2
+ Northwood Univ.                          |  2
+ Williams Baptist                         |  2
+ Washington All-Stars                     |  2
+ Davenport University                     |  2
+ Belmont Abbey JV                         |  2
+ UA Club team                             |  2
+ Belmont Abbey                            |  2
+ Campbellsville University                |  2
+ University of Texas - Tyler JV           |  2
+ USC-Union                                |  2
+ North Delta Blue Jays                    |  2
+ Ashland University JV                    |  2
+ Arizona State University Club Team       |  2
+ Ottawa University                        |  2
+ Baker University                         |  2
+ Mid-Continent                            |  2
+ Rochester College                        |  2
+ Thompson-Rivers                          |  2
+ U of A Club                              |  2
+ Martin Methodist College                 |  2
+ Oklahoma Wesleyan University             |  2
+ Averett University JV                    |  2
+ Lindenwood-Belleville University         |  2
+ College Lafleche                         |  2
+ Southside Community College              |  2
+ William Peace University                 |  2
+ Martin Methodist JV                      |  2
+ Harding University JV                    |  2
+ Southeastern University Lakeland         |  2
+ Southern University                      |  2
+ Wayland Baptist JV                       |  2
+ Concordia University JV                  |  2
+ Dallas Christian College J.V.            |  2
+ Piedmont College JV                      |  2
+ Oklahoma Panhandle State Univ. JV        |  2
+ St. Thomas University (Junior Varsity)   |  2
+ Oklahoma Wesleyan University JV          |  2
+ Bethany College JV                       |  2
+ Huntington College JV                    |  2
+ Arizona Christian JV                     |  2
+ Oklahoma Wesleyan JV                     |  2
+ ECU Club                                 |  2
+ Kansas Wesleyan University               |  2
+ University of The Ozarks                 |  2
+ Fontbonne JV                             |  2
+ North Carolina Wesleyan JV               |  2
+ Midland University JV                    |  2
+ Southeastern University JV               |  2
+ Montgomery College (MD)                  |  2
+ Faulkner University JV                   |  2
+ Tusculum College JV                      |  2
+ Union College                            |  2
+ Wayland Baptist University JV            |  2
+ Ferrum College                           |  2
+ University of Tampa (B)                  |  2
+ USC Union                                |  2
+ Northwood University J.V.                |  2
+ Williams Baptist College JV              |  2
+ Brewton-Parker College JV                |  2
+ Weber International University           |  2
+ Ecclesia JV                              |  2
+ University of Arizona Club               |  2
+ Webber International JV                  |  2
+ Anderson College                         |  2
+ Hastings College JV                      |  2
+ Mount Marty JV                           |  2
+ Stevenson JV                             |  2
+ Shorter College JV                       |  2
+ University of the Cumberlands            |  2
+ Northern Arizona University Club         |  2
+ Benedictine Springfield                  |  2
+ Concordia College                        |  2
+ Evangel University JV                    |  2
+ Victory University                       |  2
+ Centenary College JV                     |  2
+ King University                          |  1
+ Great Lakes Canadians                    |  1
+ West Virginia Wesleyn                    |  1
+ Fort Hays State University JV            |  1
+ Douglas                                  |  1
+ Bethel University JV                     |  1
+ Texas Wesleyan JV                        |  1
+ St.Lawerence (Que.)                      |  1
+ CCU club                                 |  1
+ St. Lawerence (QUE)                      |  1
+ Thompson River University                |  1
+ Rollins College (B)                      |  1
+ Keystone College                         |  1
+ St. Thomas University                    |  1
+ Pro Teach Academy                        |  1
+ Arizona Christian University Club        |  1
+ Coe College                              |  1
+ Hannibal-LaGrange JV                     |  1
+ PSU Schuylkill                           |  1
+ Pro Training Baseball                    |  1
+ Millsaps College (JV)                    |  1
+ Southside Virginia Community College     |  1
+ Pro Train Academy                        |  1
+ Webber International University JV       |  1
+ Wartburg JV                              |  1
+ Canadian Baseball Academie               |  1
+ Pro Training                             |  1
+ Gwynedd Mercy University                 |  1
+ Geneva College JV                        |  1
+ Bethany College J.V.                     |  1
+ ProTrain                                 |  1
+ Miami Hamilton University                |  1
+ Three Rivers University                  |  1
+ Cecil Community College                  |  1
+ ASU Club Team                            |  1
+ The Apprentice School                    |  1
+ Ontario Outlaws                          |  1
+ Academie Baseball Canada                 |  1
+ West Virginia Wesleyan                   |  1
+ West Virginia Wesleyan JV                |  1
+ Thompson Rivers University               |  1
+ West Virginia Wesleyan (JV)              |  1
+ Penn St / Beaver                         |  1
+ Miami-Hamilton College                   |  1
+ Muhlenberg College JV                    |  1
+ King University JV                       |  1
+ Unison                                   |  1
+ Thomas Nelson Community College          |  1
+ Florida Memorial                         |  1
+ Tampa University JV                      |  1
+ Universitarios                           |  1
+ Hermosillo                               |  1
+ Kings College                            |  1
+ St. Lawrence (Canada)                    |  1
+ Newport News Apprentice                  |  1
+ Bemidji State University (JV)            |  1
+ Westmoreland                             |  1
+ Thomas Unversity JV                      |  1
+ University of Tampa B                    |  1
+ St. Lawrence (Quebec)                    |  1
+ Hill Community College Rebels            |  1
+ N.C. Wesleyan College JV                 |  1
+ Brewton-Parker College                   |  1
+ Wheaton College JV                       |  1
+ Morthland College JV                     |  1
+ East Texas Baptist University - JV       |  1
+ Tusculum College                         |  1
+ Halcones                                 |  1
+ Pro Training Baseball Academy            |  1
+ St Lawrence (Quebec)                     |  1
+ Bryan College                            |  1
+ France National Team                     |  1
+ Barry University                         |  1
+ Thompson River                           |  1
+ Davenport Univeristy                     |  1
+ Bethany JV                               |  1
+ Southern Maine Community College         |  1
+ Catholic University (JV)                 |  1
+ Milligan College JV                      |  1
+ St. Thomas JV                            |  1
+ Flagler (JV)                             |  1
+ WV Wesleyan JV                           |  1
+ ASU Club                                 |  1
+ Mt. Olive College JV                     |  1
+ Faulkner JV                              |  1
+ Grove City JV                            |  1
+ Trine                                    |  1
+ University of Texas at Tyler JV          |  1
+ Worcester State University               |  1
+ Piedmont College                         |  1
+ Central Baptist College JV               |  1
+ Northwood University (Junior Varsity)    |  1
+ West Virginia Wesleyan College           |  1
+ Pacifica College                         |  1
+ Ontario Academy                          |  1
+ Inside Pitch Acadmey Saskatchewan        |  1
+ Inside Pitch Academy, Saskatchewan       |  1
+ Penn Tech College                        |  1
+ Mount Marty (JV)                         |  1
+ Belmont Abbey College (JV)               |  1
+ Rutgers Camden JV                        |  1
+ Texas Wesleyan University J.V.           |  1
+ Okanagen College                         |  1
+ Lindenwood-Belleville University JV      |  1
+ Seminole State JV                        |  1
+ Penn St / Greater Allegheny              |  1
+ Arizona Christian                        |  1
+ Texas Wesleyan                           |  1
+ Guilford College JV                      |  1
+ Fontonne University JV                   |  1
+ Manchester JV                            |  1
+ Southeastern University                  |  1
+ Davenport University JV                  |  1
+ Methodist                                |  1
+ Brampton Royals (CAN)                    |  1
+ Florida Memorial University              |  1
+ Seminole State College JV                |  1
+ Rose Hulman                              |  1
+ Grinnell College JV                      |  1
+ Northwood JV                             |  1
+ Ste. Lawrence                            |  1
+ Great Lakes                              |  1
+ Okanagan Athletics                       |  1
+ Southern Polytechnic State College       |  1
+ Cumberland University                    |  1
+ ProTrain Baseball                        |  1
+ Penn Tech                                |  1
+(289 rows)
+
