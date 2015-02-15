@@ -161,4 +161,4 @@ threads.each(&:join)
 
 #parts.flatten(1).each { |row| ncaa_play_by_play << row }
 
-ncaa_box_scores.close
+ncaa_games_box_scores.close
