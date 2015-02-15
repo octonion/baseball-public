@@ -15,7 +15,7 @@ ncaa_teams << ["year", "year_id", "team_id", "team_name", "team_url"]
 
 base_url = 'http://stats.ncaa.org'
 
-year = 2014
+year = 2015
 division = 1
 
 year_division_url = "http://stats.ncaa.org/team/inst_team_list?sport_code=MBA&academic_year=#{year}&division=#{division}&conf_id=-1&schedule_date="

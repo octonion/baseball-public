@@ -5,9 +5,6 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 
-year = ARGV[0]
-division = ARGV[1]
-
 #year_stat_category_id=10462
 #stat_categories = [10460, 10461, 10462]
 
@@ -34,8 +31,8 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv", "r", {:col_sep => "\t", :headers => TRUE})
-ncaa_games_box_scores = CSV.open("csv/ncaa_games_box_scores_#{year}_#{division}.csv", "w", {:col_sep => "\t"})
+ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_mt.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_box_scores = CSV.open("csv/ncaa_games_box_scores_mt.csv","w",{:col_sep => "\t"})
 
 # Headers
 
@@ -44,7 +41,7 @@ box_scores_header = [
 "starter", "position","g", "ab", "r", "h", "d", "t", "tb", "hr",
 "rbi", "bb", "hbp", "sf", "sh", "k", "dp", "sb", "cs", "picked"]
 
-ncaa_games_box_scores << box_scores_header
+ncaa_box_scores << box_scores_header
 
 # Get game IDs
 
@@ -146,8 +143,8 @@ game_ids.each_slice(gpt).with_index do |ids,i|
           end
         end
 
-        ncaa_games_box_scores << [game_id, section_id, player_id, player_name,
-                                  player_url, starter] + field_values
+        ncaa_box_scores << [game_id, section_id, player_id, player_name,
+                            player_url, starter] + field_values
 
       end
 

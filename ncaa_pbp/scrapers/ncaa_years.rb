@@ -27,7 +27,7 @@ ncaa_years_divisions = CSV.open("csv/ncaa_years_divisions.csv","w",{:col_sep => 
 ncaa_years << ["sport_code", "year"]
 ncaa_years_divisions << ["sport_code", "year", "division"]
 
-#?sport_code=MBA&academic_year=2014&division=&conf_id=-1&schedule_date=
+#?sport_code=MBA&academic_year=2015&division=&conf_id=-1&schedule_date=
 
 sport_url = base_url+"?sport_code=#{sport_code}&academic_year=&division=&conf_id=-1&schedule_date="
 

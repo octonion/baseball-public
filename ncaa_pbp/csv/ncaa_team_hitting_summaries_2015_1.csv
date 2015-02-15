@@ -1,0 +1,57 @@
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+2015	12080	721	Air Force	-	Totals	-	-	-	-	1	0.182	0.229	0.333	33	3	6	5	 	""	 	3	1	1	 	 	19	 	1	 	 
+2015	12080	721	Air Force	-	Opponent Totals	-	-	-	-	1	0.300	0.421	0.433	30	5	9	1	 	""	1	5	4	3	1	 	8	1	 	1	 
+2015	12080	61	Bethune-Cookman	-	Totals	-	-	-	-	1	0.067	0.097	0.067	30	 	2	 	 	""	 	 	1	 	 	 	13	 	 	 	 
+2015	12080	61	Bethune-Cookman	-	Opponent Totals	-	-	-	-	1	0.233	0.258	0.367	30	3	7	1	 	""	1	3	1	 	 	 	7	 	 	1	 
+2015	12080	87	Butler	-	Totals	-	-	-	-	3	0.225	0.313	0.324	102	14	23	7	 	""	1	11	11	2	 	1	19	1	1	2	 
+2015	12080	87	Butler	-	Opponent Totals	-	-	-	-	3	0.364	0.475	0.505	99	26	36	9	1	50	1	23	15	6	 	5	16	4	4	1	 
+2015	12080	140	Cincinnati	-	Totals	-	-	-	-	1	0.276	0.417	0.448	29	3	8	2	 	""	1	3	5	2	 	 	10	1	1	1	 
+2015	12080	140	Cincinnati	-	Opponent Totals	-	-	-	-	1	0.286	0.375	0.314	35	1	10	1	 	""	 	1	5	 	 	 	6	 	 	1	 
+2015	12080	141	Citadel	-	Totals	-	-	-	-	3	0.250	0.387	0.455	88	19	22	7	1	40	3	17	15	6	2	1	26	3	1	2	 
+2015	12080	141	Citadel	-	Opponent Totals	-	-	-	-	3	0.163	0.226	0.337	98	11	16	6	1	33	3	10	6	2	 	 	40	 	2	 	 
+2015	12080	1014	Col. of Charleston	-	Totals	-	-	-	-	1	0.378	0.415	0.378	37	6	14	 	 	""	 	6	3	 	1	2	4	1	 	 	 
+2015	12080	1014	Col. of Charleston	-	Opponent Totals	-	-	-	-	1	0.138	0.297	0.138	29	3	4	 	 	""	 	3	7	 	1	 	6	1	1	 	 
+2015	12080	178	Delaware St.	-	Totals	-	-	-	-	1	0.189	0.231	0.243	37	6	7	 	1	""	 	4	2	 	 	 	7	 	1	1	 
+2015	12080	178	Delaware St.	-	Opponent Totals	-	-	-	-	1	0.350	0.458	0.450	40	13	14	1	 	""	1	12	6	2	 	1	5	 	1	1	 
+2015	12080	219	Evansville	-	Totals	-	-	-	-	1	0.250	0.263	0.306	36	3	9	2	 	""	 	3	 	1	1	 	6	 	 	1	 
+2015	12080	219	Evansville	-	Opponent Totals	-	-	-	-	1	0.333	0.439	0.364	33	6	11	1	 	""	 	6	5	2	1	 	6	2	1	 	 
+2015	12080	253	Ga. Southern	-	Totals	-	-	-	-	1	0.233	0.258	0.367	30	3	7	1	 	""	1	3	1	 	 	 	7	 	 	1	 
+2015	12080	253	Ga. Southern	-	Opponent Totals	-	-	-	-	1	0.067	0.097	0.067	30	 	2	 	 	""	 	 	1	 	 	 	13	 	 	 	 
+2015	12080	260	Gonzaga	-	Totals	-	-	-	-	1	0.258	0.281	0.419	31	3	8	3	1	""	 	3	1	 	 	 	9	2	1	 	 
+2015	12080	260	Gonzaga	-	Opponent Totals	-	-	-	-	1	0.206	0.250	0.412	34	2	7	1	 	""	2	2	2	 	 	1	9	 	 	1	 
+2015	12080	315	Jacksonville St.	-	Totals	-	-	-	-	1	0.395	0.477	0.474	38	13	15	 	 	""	1	11	5	1	 	 	3	1	 	 	 
+2015	12080	315	Jacksonville St.	-	Opponent Totals	-	-	-	-	1	0.133	0.212	0.133	30	1	4	 	 	""	 	 	3	 	 	 	10	1	 	 	 
+2015	12080	1157	Kennesaw St.	-	Totals	-	-	-	-	3	0.293	0.360	0.515	99	23	29	6	2	51	4	21	9	2	1	1	22	1	4	3	 
+2015	12080	1157	Kennesaw St.	-	Opponent Totals	-	-	-	-	3	0.234	0.331	0.290	107	20	25	 	 	""	2	16	12	4	1	 	17	4	2	 	 
+2015	12080	355	Liberty	-	Totals	-	-	-	-	1	0.216	0.341	0.216	37	9	8	 	 	""	 	6	3	4	 	 	5	1	1	 	 
+2015	12080	355	Liberty	-	Opponent Totals	-	-	-	-	1	0.286	0.390	0.571	35	11	10	2	1	20	2	9	4	2	 	1	9	 	4	 	 
+2015	12080	380	Maine	-	Totals	-	-	-	-	2	0.190	0.329	0.224	58	3	11	2	 	""	 	3	10	2	 	 	13	3	 	 	 
+2015	12080	380	Maine	-	Opponent Totals	-	-	-	-	2	0.355	0.425	0.434	76	22	27	2	2	""	 	21	8	2	1	1	12	 	7	 	 
+2015	12080	392	Maryland	-	Totals	-	-	-	-	1	0.324	0.432	0.622	37	7	12	3	1	23	2	6	7	 	 	 	7	1	2	 	 
+2015	12080	392	Maryland	-	Opponent Totals	-	-	-	-	1	0.138	0.212	0.241	29	3	4	3	 	""	 	3	3	 	1	 	9	1	1	 	 
+2015	12080	404	Memphis	-	Totals	-	-	-	-	1	0.129	0.156	0.258	31	1	4	2	1	""	 	1	1	 	 	1	5	1	 	 	 
+2015	12080	404	Memphis	-	Opponent Totals	-	-	-	-	1	0.250	0.300	0.393	28	3	7	4	 	""	 	3	1	1	 	3	6	1	 	 	 
+2015	12080	414	Miami (OH)	-	Totals	-	-	-	-	1	0.286	0.375	0.314	35	1	10	1	 	""	 	1	5	 	 	 	6	 	 	1	 
+2015	12080	414	Miami (OH)	-	Opponent Totals	-	-	-	-	1	0.276	0.417	0.448	29	3	8	2	 	""	1	3	5	2	 	 	10	1	1	1	 
+2015	12080	797	Milwaukee	-	Totals	-	-	-	-	1	0.316	0.372	0.342	38	10	12	1	 	""	 	9	3	1	1	1	10	 	3	 	 
+2015	12080	797	Milwaukee	-	Opponent Totals	-	-	-	-	1	0.156	0.289	0.156	32	 	5	 	 	""	 	 	5	1	 	 	5	1	 	 	 
+2015	12080	457	North Carolina	-	Totals	-	-	-	-	1	0.321	0.375	0.607	28	7	9	2	 	""	2	7	3	 	1	2	2	 	2	1	 
+2015	12080	457	North Carolina	-	Opponent Totals	-	-	-	-	1	0.273	0.333	0.303	33	1	9	1	 	""	 	1	3	 	 	 	11	 	 	2	 
+2015	12080	527	Oral Roberts	-	Totals	-	-	-	-	1	0.250	0.300	0.393	28	3	7	4	 	""	 	3	1	1	 	3	6	1	 	 	 
+2015	12080	527	Oral Roberts	-	Opponent Totals	-	-	-	-	1	0.129	0.156	0.258	31	1	4	2	1	""	 	1	1	 	 	1	5	1	 	 	 
+2015	12080	1320	Presbyterian	-	Totals	-	-	-	-	1	0.350	0.458	0.450	40	13	14	1	 	""	1	12	6	2	 	1	5	 	1	1	 
+2015	12080	1320	Presbyterian	-	Opponent Totals	-	-	-	-	1	0.189	0.231	0.243	37	6	7	 	1	""	 	4	2	 	 	 	7	 	1	1	 
+2015	12080	660	SIUE	-	Totals	-	-	-	-	1	0.206	0.243	0.500	34	6	7	2	1	17	2	6	2	 	1	 	9	 	 	1	 
+2015	12080	660	SIUE	-	Opponent Totals	-	-	-	-	1	0.324	0.477	0.412	34	7	11	 	 	""	1	7	6	4	 	 	7	 	2	 	 
+2015	12080	635	Seton Hall	-	Totals	-	-	-	-	1	0.273	0.333	0.303	33	1	9	1	 	""	 	1	3	 	 	 	11	 	 	2	 
+2015	12080	635	Seton Hall	-	Opponent Totals	-	-	-	-	1	0.321	0.375	0.607	28	7	9	2	 	""	2	7	3	 	1	2	2	 	2	1	 
+2015	12080	648	South Carolina	-	Totals	-	-	-	-	1	0.138	0.297	0.138	29	3	4	 	 	""	 	3	7	 	1	 	6	1	1	 	 
+2015	12080	648	South Carolina	-	Opponent Totals	-	-	-	-	1	0.378	0.415	0.378	37	6	14	 	 	""	 	6	3	 	1	2	4	1	 	 	 
+2015	12080	32	UALR	-	Totals	-	-	-	-	3	0.239	0.368	0.272	92	11	22	3	 	""	 	11	17	3	2	 	21	4	1	 	 
+2015	12080	32	UALR	-	Opponent Totals	-	-	-	-	3	0.308	0.408	0.423	104	26	32	7	1	44	1	25	15	4	2	1	19	 	1	4	 
+2015	12080	30024	Utah Valley	-	Totals	-	-	-	-	1	0.206	0.250	0.412	34	2	7	1	 	""	2	2	2	 	 	1	9	 	 	1	 
+2015	12080	30024	Utah Valley	-	Opponent Totals	-	-	-	-	1	0.258	0.281	0.419	31	3	8	3	1	""	 	3	1	 	 	 	9	2	1	 	 
+2015	12080	772	Western Ky.	-	Totals	-	-	-	-	1	0.138	0.212	0.241	29	3	4	3	 	""	 	3	3	 	1	 	9	1	1	 	 
+2015	12080	772	Western Ky.	-	Opponent Totals	-	-	-	-	1	0.324	0.432	0.622	37	7	12	3	1	23	2	6	7	 	 	 	7	1	2	 	 
+2015	12080	817	Youngstown St.	-	Totals	-	-	-	-	1	0.133	0.212	0.133	30	1	4	 	 	""	 	 	3	 	 	 	10	1	 	 	 
+2015	12080	817	Youngstown St.	-	Opponent Totals	-	-	-	-	1	0.395	0.477	0.474	38	13	15	 	 	""	1	11	5	1	 	 	3	1	 	 	 
