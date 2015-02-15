@@ -13,4 +13,4 @@
 
 ./scrapers/ncaa_games_box_scores.rb $1 $2
 
-./scrapers/ncaa_games_play_by_play.rb $1 $2
+./scrapers/ncaa_play_by_play.rb $1 $2

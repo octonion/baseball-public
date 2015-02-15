@@ -1,0 +1,984 @@
+game_id	section_id	player_id	player_name	player_url	starter	position	g	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+3746705	0	1541308	Norkeh, Nehwon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541308	true	CF	1	4	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0
+3746705	0	1312009	Choate, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1312009	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746705	0	1541331	Patterson, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541331	true	RF	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3746705	0	1541337	Massengill, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541337	true	C	1	3	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746705	0	1653895	Snyder, J.C.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653895	true	3B	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	0	1653896	Klemm, Jarryd	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653896	true	LF	1	3	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	0	1653913	Spear, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653913	true	DH	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	0	1653898	DeLaGarza, Paxton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653898	true	SS	1	3	1	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746705	0	1311984	David, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1311984	true	1B	1	2	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+3746705	0	1541330	Tyner, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541330	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746705	0	1653894	Semler, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653894	true	2B	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746705	0	1656819	Zak, Bryce	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656819	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	0	1656818	Naemark, Steve	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656818	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	0		Totals		true	""	1	27	2	7	3	0	0	0	1	1	1	0	0	6	0	1	0	0
+3746705	1	1541379	Sargent, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541379	true	SS	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3746705	1	1332915	Marsh, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332915	true	RF	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	1	1656812	Howard, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656812	true	DH	1	3	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	1	1333661	Berryman, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1333661	true	3B	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746705	1	1541367	Douglas, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541367	true	1B	1	3	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	1	1541372	Hagan, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541372	true	C	1	3	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	1	1656814	Garcia, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656814	true	LF	1	2	0	1	0	0	0	0	2	0	0	0	1	0	0	0	0	0
+3746705	1	1541354	Simmons, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541354	true	CF	1	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	1	1441984	Adams, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441984	true	2B	1	2	0	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+3746705	1	1541393	Zier, Lanny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541393	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746705	1		Totals		true	""	1	25	3	9	2	0	0	0	3	0	0	0	1	4	0	1	0	0
+3776285	0	1317823	Parsley, Hank	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317823	false	CF	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3776285	0	1644920	Hamlett, Trey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644920	false	CF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1533425	Deaver, Lane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533425	false	LF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1644904	Hall, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644904	true	CF	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3776285	0	1431770	Massie, Clay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431770	true	SS	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1089528	Duncan, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1089528	true	LF	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1533414	Comer, Ty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533414	true	1B	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3776285	0	1533412	Winkles, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533412	true	RF	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1431764	Davis, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431764	true	DH	1	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3776285	0	1431761	Carmony, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431761	false	2B	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3776285	0	1431779	Reynolds, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431779	true	2B	1	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1533413	Stickney, Jo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533413	true	C	1	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1644923	Harris, Gray	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644923	true	3B	1	2	0	1	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+3776285	0	1533408	King, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533408	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0	1533454	Weaver, Dillon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533454	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	0		Totals		true	""	1	25	2	5	1	0	0	0	2	0	0	0	0	2	2	1	0	0
+3776285	1	1332847	Wiles, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332847	true	RF	1	4	1	3	2	0	0	0	2	0	0	0	0	0	0	1	0	0
+3776285	1	1332840	Hamlett, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332840	true	LF	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3776285	1	1540423	Carneal, Lee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540423	true	3B	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1	1332838	Gray, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332838	true	1B	1	2	0	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0
+3776285	1	1432663	Lloyd, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432663	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3776285	1	1432667	Johnson, Reggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432667	true	DH	1	3	1	2	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+3776285	1	1540422	Wiles, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540422	false	C	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1	1432672	Elliott, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432672	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1	1656504	Daugherty, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656504	true	C	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1	1656506	Gothe, Moe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656506	true	CF	1	2	0	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+3776285	1	1656507	Haynie, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656507	true	SS	1	3	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3776285	1	1332843	Nixon, Billy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332843	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1	1432679	Gonzales, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432679	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1	1432675	Hinson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432675	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3776285	1		Totals		true	""	1	27	4	12	4	0	0	0	4	1	0	0	1	5	0	2	0	0
+3766384	0	1432914	Myer, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432914	true	CF	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	0	1320730	Biumi, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320730	true	SS	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766384	0	1320737	Weprinsky, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320737	true	LF	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+3766384	0	1320736	Rowe, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320736	true	DH	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	0	1542977	Weston, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542977	true	3B	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766384	0	1542973	Wasson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542973	true	RF	1	2	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766384	0	1542971	Paton, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542971	true	C	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766384	0	1542978	Swenson, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542978	true	1B	1	3	1	1	0	1	0	0	2	0	0	0	0	0	0	0	0	0
+3766384	0	1655920	Crane, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655920	true	2B	1	2	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3766384	0	1320733	Lamb, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320733	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	0	1542976	Concklin, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542976	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	0		Totals		true	""	1	25	3	4	0	1	0	0	3	4	0	0	0	4	0	0	1	0
+3766384	1	1645783	Berczek, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645783	true	SS	1	2	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+3766384	1	1541034	Calderon, Lorenzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541034	true	LF/RF	1	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+3766384	1	1541041	Savage, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541041	true	RF/1B	1	2	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3766384	1	1541036	Orbe, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541036	true	3B	1	2	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+3766384	1	1645788	Blake, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645788	true	DH	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766384	1	1545420	Coates, Roy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545420	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766384	1	1548430	Adamus, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1548430	false	LF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	1	1548432	Mitchell, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1548432	true	1B	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766384	1	1541038	Berczek, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541038	true	C	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766384	1	1541043	Graubics, Karlis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541043	false	PH/2B	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766384	1	1645782	Darrow, Kaden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645782	true	2B	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766384	1	1541040	Breheny, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541040	true	CF	1	3	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766384	1	1645785	DiGuilian, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645785	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	1	1645786	Bazemore, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645786	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766384	1		Totals		true	""	1	23	1	3	0	0	0	0	1	3	1	0	2	11	0	0	0	0
+3766625	0	1650437	Bernal, Joey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650437	true	CF	1	5	1	2	0	0	0	1	1	0	0	0	0	2	0	0	1	0
+3766625	0	1650447	Larkin, Conner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650447	true	RF	1	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766625	0	1434296	Cook, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434296	true	3B	1	4	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766625	0	1650448	Love, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650448	true	1B	1	3	3	2	0	0	0	1	2	1	1	0	0	0	0	0	0	0
+3766625	0	1653969	Blodgett, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653969	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1542846	Wiederman, Forrest	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542846	true	DH	1	4	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1549875	Alhanati, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1549875	true	2B	1	3	3	2	0	0	0	2	5	2	0	0	0	1	0	0	0	0
+3766625	0	1434290	Wiehe, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434290	true	SS	1	5	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766625	0	1434289	Basen, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434289	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1650441	Eto, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650441	true	C	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766625	0	1650442	Frize, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650442	true	LF	1	3	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766625	0	1434301	Williams, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434301	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1545290	Staats, Jesse	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545290	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1650434	Barton, Kynan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650434	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1434298	Molnar, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434298	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0	1650449	Mogollon, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650449	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	0		Totals		true	""	1	37	9	11	2	0	0	4	9	5	1	0	0	7	0	0	1	0
+3766625	1	1306811	Sullivan, Matty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1306811	true	LF	1	2	2	1	0	0	0	0	0	2	0	0	1	0	0	0	0	0
+3766625	1	1543445	Rader, Jaxon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543445	true	RF	1	5	1	2	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+3766625	1		Doud, Dynas		true	SS	1	4	0	1	1	0	0	0	2	0	0	1	0	1	0	0	0	0
+3766625	1	1543444	Combs, Conner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543444	true	2B	1	5	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1	1543443	Compton, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543443	true	3B	1	3	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+3766625	1		Lloyd, Brooks		false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1	1543441	Warbington, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543441	false	PH	1	2	2	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0
+3766625	1	1423351	Beltran, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1423351	true	DH	1	2	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+3766625	1	1423345	Bates, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1423345	true	CF	1	3	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766625	1		Hawkins, Christopher		true	1B	1	3	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+3766625	1	1543458	Turley, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543458	false	PH	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766625	1		Dane, Derek		false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1	1543448	Lakey, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543448	true	C	1	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1		Henson, Taylor		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1	1543457	Wadle, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543457	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1	1306814	Moore, Kirby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1306814	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1	1543459	Dukes, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543459	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766625	1		Totals		true	""	1	33	10	8	2	0	0	1	7	7	0	1	1	3	1	2	0	0
+3762407	0	1650437	Bernal, Joey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650437	true	CF	1	5	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3762407	0	1315714	Dillon, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1315714	true	RF	1	5	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3762407	0	1434296	Cook, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434296	true	3B	1	5	1	3	0	0	0	1	2	0	0	0	0	0	0	0	0	0
+3762407	0	1650448	Love, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650448	true	1B	1	3	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+3762407	0	1542846	Wiederman, Forrest	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542846	true	DH	1	3	2	2	1	0	0	0	0	0	1	0	0	1	0	0	0	0
+3762407	0	1549875	Alhanati, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1549875	true	2B	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3762407	0	1434290	Wiehe, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434290	true	SS	1	3	0	2	0	1	0	0	2	0	0	1	0	0	0	0	0	0
+3762407	0	1542847	Vilaubi, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542847	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	0	1653969	Blodgett, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653969	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	0	1434289	Basen, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434289	true	C	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	0	1650442	Frize, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650442	true	LF	1	3	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+3762407	0	1434298	Molnar, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434298	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	0	1650446	Klaess, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1650446	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	0		Totals		true	""	1	35	6	9	1	1	15	1	5	0	2	2	0	5	0	0	0	0
+3762407	1	1543459	Dukes, Ashley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543459	true	DH	1	4	0	1	0	1	0	0	1	0	0	0	0	1	0	0	0	0
+3762407	1	1306811	Sullivan, Matty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1306811	true	LF	1	4	0	2	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+3762407	1		Doud, Drake		true	SS	1	4	2	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0
+3762407	1	1543444	Combs, Conner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543444	true	2B	1	3	1	2	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+3762407	1	1543443	Compton, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543443	true	3B	1	4	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+3762407	1	1423345	Bates, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1423345	true	CF	1	1	0	0	0	0	0	0	0	2	1	0	0	1	0	2	1	0
+3762407	1	1423351	Beltran, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1423351	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	1		Hawkins, Christopher		true	1B	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	1	1543445	Rader, Jaxon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543445	true	RF	1	3	1	1	0	0	0	0	0	1	0	0	0	1	0	1	1	0
+3762407	1	1543447	Ervin, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543447	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	1	1543448	Lakey, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543448	true	C	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3762407	1	1543457	Wadle, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543457	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	1	1423358	Russo, Jimmy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1423358	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	1	1543455	Wilerson, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543455	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3762407	1		Totals		true	""	1	31	4	8	0	1	0	0	2	4	1	0	0	8	1	6	3	0
+3764524	0	1541354	Simmons, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541354	true	CF	1	5	1	3	1	0	0	0	1	0	0	0	0	1	0	0	0	0
+3764524	0	1441984	Adams, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441984	true	2B	1	5	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3764524	0	1656812	Howard, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656812	true	1B	1	4	0	1	1	0	0	0	2	0	0	0	1	0	0	0	0	0
+3764524	0	1656813	Hunter, Mikal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656813	true	C	1	5	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3764524	0	1333661	Berryman, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1333661	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	0	1541367	Douglas, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541367	true	DH	1	4	1	2	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3764524	0	1657928	Moore, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657928	false	RF	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3764524	0	1541372	Hagan, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541372	true	RF	1	4	1	1	0	0	0	1	2	0	0	0	0	1	0	0	0	0
+3764524	0	1656814	Garcia, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656814	true	LF	1	5	1	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3764524	0	1541381	Villarreal, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541381	true	3B	1	2	1	1	0	0	0	0	0	2	0	0	0	1	0	0	1	0
+3764524	0	1541379	Sargent, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541379	true	SS	1	4	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3764524	0	1657930	Hoffman, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657930	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	0	1541393	Zier, Lanny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541393	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	0		Totals		true	""	1	39	10	15	3	0	0	1	10	3	0	0	1	4	1	0	1	0
+3764524	1	1319818	Evans, Lincoln	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319818	true	CF	1	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+3764524	1	1319825	Rogers, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319825	true	DH	1	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1319822	Tomasulo, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319822	true	C	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764524	1	1319816	Knight, Joseph	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319816	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1652145	Munn, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652145	true	1B	1	3	1	1	0	0	0	1	1	0	0	0	0	0	1	0	0	0
+3764524	1	1319820	Parsons, Wil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319820	true	3B	1	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3764524	1	1319823	Harris, Pat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319823	true	RF	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764524	1	1319826	Kenyon, Jay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319826	true	LF	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1432105	Tomasulo, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432105	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1652142	Owens, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652142	true	SS	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764524	1	1432106	Goulding, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432106	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1652152	Woodall, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652152	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1539949	Day, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539949	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1652151	Trio, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652151	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1539952	Engelmann, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539952	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1	1432114	Martin, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432114	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764524	1		Totals		true	""	1	31	1	5	0	0	0	1	1	1	1	0	0	3	1	0	1	0
+3779985	0	1645833	Vidano, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645833	true	3B	1	4	0	1	1	0	0	0	0	1	0	0	0	2	0	0	0	0
+3779985	0	1541024	Crowder, J.T.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541024	true	LF	1	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0	1428004	Davis, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428004	true	RF	1	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3779985	0	1428019	Alvarez, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428019	true	1B	1	2	2	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+3779985	0	1308513	Currie, Chatham	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308513	true	CF	1	3	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+3779985	0	1308516	Coston, Timothy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308516	true	P	1	2	0	1	1	0	0	0	1	0	1	0	1	0	0	0	0	0
+3779985	0	1308528	Futrell, Nic	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308528	true	C	1	4	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3779985	0	1645832	Purnell, B.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645832	true	2B	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0	1541022	Ashworth, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541022	true	SS	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3779985	0	1428020	Goff, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428020	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0	1543753	Horton, Gavin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543753	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0	1308520	Younkins, Jeffrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308520	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0	1428009	Walsh, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428009	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0	1543749	Gomez, Vicente	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543749	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	0		Totals		true	""	1	32	3	7	2	0	0	0	2	2	3	0	2	5	1	0	0	0
+3779985	1	1313328	Ingels, Herc	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313328	true	CF	1	5	1	2	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+3779985	1	1434501	Roberts, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434501	true	LF	1	4	1	3	1	1	0	0	2	0	0	1	0	0	0	0	0	0
+3779985	1	1527094	Petersen, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527094	true	RF	1	3	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+3779985	1	1434504	Fulbright, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434504	true	C	1	4	2	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0
+3779985	1	1434512	Noble, Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434512	true	1B	1	4	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3779985	1	1527089	Blackwood, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527089	false	DH	1	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3779985	1	1434519	Girting, AJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434519	true	DH	1	3	1	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3779985	1	1527091	Jones, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527091	true	3B	1	5	1	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+3779985	1	1657917	Shepherd,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657917	true	SS	1	4	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3779985	1	1434513	Humphrey, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434513	true	2B	1	4	1	2	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+3779985	1	1651939	Salter, Darin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651939	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	1	1434509	Morrison, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434509	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	1	1313336	Rogers, Avery	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313336	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779985	1		Totals		true	""	1	37	9	14	2	1	0	0	8	5	1	1	2	1	0	1	1	0
+3765653	0		Moser, Brett		false	PH	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+3765653	0	1545072	Carter, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545072	true	LF	1	3	1	1	0	0	0	0	1	0	0	1	0	0	0	1	0	0
+3765653	0		Locati, Spencer		true	3B	1	3	3	0	0	0	0	0	0	3	0	0	0	0	0	2	0	0
+3765653	0	1318526	Wakem, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318526	false	1B	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	0	1318523	Davis, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318523	true	1B	1	4	3	2	1	0	0	1	4	0	1	0	0	1	0	0	0	0
+3765653	0	1318522	Blumenthal, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318522	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765653	0	1557459	Nelson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1557459	true	DH	1	4	1	2	0	0	0	1	4	0	0	0	0	1	0	0	0	0
+3765653	0	1437817	Druffel, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437817	true	CF	1	5	0	4	1	0	0	0	1	0	0	0	0	1	0	1	1	0
+3765653	0		Isa, Casey		false	2B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	0		Condreay, Joel		true	SS	1	4	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3765653	0	1545098	Hughes, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545098	false	PH	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765653	0	1318521	Miller, Paul	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318521	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+3765653	0		Thibault, Zach		false	C	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	0	1545117	Lamberty, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545117	true	C	1	4	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765653	0	1437832	Lookabill, Skyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437832	true	RF	1	3	1	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+3765653	0		Phelan, JT		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	0		Robichaux, Alex		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	0	1318525	Scheibe, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318525	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	0		Totals		true	""	1	39	10	11	3	0	0	2	10	5	3	1	0	12	0	4	1	0
+3765653	1	1542164	Nishioka, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542164	true	CF	1	5	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+3765653	1	1316669	Lopez, E.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316669	true	3B	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765653	1	1433088	Rosenbaum, Simon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433088	true	1B	1	4	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+3765653	1	1316670	Bruml, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316670	true	DH	1	4	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	1	1316673	Rabin, Kenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316673	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+3765653	1	1316671	Fox, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316671	true	SS	1	4	0	2	1	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765653	1	1433091	Brice, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433091	true	LF	1	3	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765653	1	1652709	Simsiman, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652709	true	C	1	3	0	1	0	0	0	0	2	1	0	0	0	1	0	0	0	0
+3765653	1	1316676	Okuma, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316676	true	RF	1	3	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+3765653	1	1652711	Wood, Benjamin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652711	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	1	1652712	Lynch, Bryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652712	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	1	1652702	Olmanson, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652702	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	1	1542168	Gerics, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542168	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765653	1		Totals		true	""	1	33	2	8	3	0	0	0	2	2	1	0	1	11	1	0	0	0
+3765180	0	1437732	Suyematsu, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437732	true	SS	1	6	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765180	0	1448329	Sohn, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1448329	false	PH	1	2	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765180	0	1313783	Bradley, Donnie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313783	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765180	0	1448330	Careaga, Fernando	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1448330	false	LF	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765180	0	1551284	Hopp,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1551284	true	LF	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765180	0		Wright, Dylan		false	DH	1	1	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+3765180	0		Mansell, Tanner		true	DH	1	2	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765180	0	1448598	Francies, J.T.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1448598	false	PH	1	3	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765180	0	1436368	Olis, Walker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436368	true	RF	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765180	0		Bradd, Taren		false	PR	1	2	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765180	0		Brown, Tyler		true	1B	1	3	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765180	0	1313791	Gallagher, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313791	false	1B	1	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765180	0		Florez, Austin		true	3B	1	2	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765180	0		Colson, Ryan		false	PH	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765180	0	1313790	Treadway, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313790	false	PH	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	0	1436369	Yazzolino, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436369	false	C	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765180	0		Tiffany, Sam		true	C	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	0	1436365	Duerr, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436365	true	CF	1	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3765180	0		Ahlgrimm, Cody		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	0		Inman, Jon		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	0		Miller, Dylan		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	0		Wolfram, Paul		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	0		Totals		true	""	1	38	7	8	0	0	0	0	2	8	1	0	0	12	0	0	0	0
+3765180	1	1432513	Caccamo, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432513	true	2B	1	4	1	2	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+3765180	1	1316549	Brooks, Johnathon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316549	true	1B	1	2	1	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0
+3765180	1	1655527	Fuhrman, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655527	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1655649	Johnson, Jeffrey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655649	false	PR	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1316557	Munoz, Victor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316557	true	C	1	4	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+3765180	1	1532195	DeRaad, Devon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1532195	true	RF	1	4	3	3	0	0	0	2	3	1	0	0	0	1	0	0	0	0
+3765180	1	1655506	Lemburg, Roger	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655506	false	3B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1316556	Libunao, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316556	true	3B	1	5	1	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765180	1	1316563	Wong, Johnathon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316563	true	CF	1	4	1	1	1	0	0	0	2	0	0	0	1	1	0	0	0	0
+3765180	1	1532192	Marks, Walker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1532192	true	SS	1	3	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+3765180	1	1558978	Fuller, Brady	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1558978	false	1B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1655606	Horton, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655606	false	RF	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1316559	Strain, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316559	true	DH	1	3	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765180	1	1432506	Ericksen, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432506	true	LF	1	2	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0
+3765180	1	1655576	Abramson, Dean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655576	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1655501	Forster, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655501	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1532194	Nahmens, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1532194	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1	1532193	Watson, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1532193	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765180	1		Totals		true	""	1	32	11	12	3	0	0	2	8	3	3	2	2	4	0	0	0	0
+3766764	0	1651933	Daniels, Lane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651933	false	PH	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1527094	Petersen, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527094	true	RF	1	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766764	0	1313328	Ingels, Herc	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313328	true	CF	1	5	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766764	0	1434519	Girting, AJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434519	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1527091	Jones, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527091	true	3B	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766764	0	1434504	Fulbright, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434504	true	DH	1	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3766764	0	1434512	Noble, Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434512	true	1B	1	4	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766764	0	1651940	Pinkston, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651940	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1541033	Tuttle, Grayson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541033	true	C	1	4	1	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766764	0	1657917	Shepherd,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657917	true	SS	1	4	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766764	0	1651932	Wilson, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651932	false	PH	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1434506	Woodliff, Guy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434506	true	LF	1	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766764	0	1434513	Humphrey, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434513	true	2B	1	1	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0
+3766764	0	1434509	Morrison, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434509	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1313338	Trosch, Lou	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313338	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1527089	Blackwood, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527089	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0	1527099	Todd, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527099	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	0		Totals		true	""	1	35	3	8	1	0	0	0	3	2	2	0	1	5	0	0	0	0
+3766764	1	1441706	Tyson, Dusty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441706	true	CF	1	4	3	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766764	1	1439647	Heath, Doug	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439647	false	3B	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1658268	Narrison, Leo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658268	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1527510	Francis, Alfred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527510	true	3B	1	4	1	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+3766764	1	1439648	McGill, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439648	true	2B	1	5	1	5	1	0	0	0	2	0	0	0	0	0	0	1	0	0
+3766764	1	1658269	Smith, Brady	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658269	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766764	1	1441445	Jernigan, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441445	true	DH	1	4	1	1	0	0	0	1	3	0	0	0	0	0	0	0	0	0
+3766764	1	1556194	Patel, Kris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1556194	false	1B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1527524	White, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527524	true	1B	1	3	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3766764	1	1658271	Chamblee, JP	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658271	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1658270	Haight, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658270	false	PR	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1527516	Maddrey, Russell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527516	false	C	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766764	1	1527520	Perry, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527520	true	C	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3766764	1	1549758	Keel, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1549758	false	LF	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3766764	1	1439716	Smith, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439716	true	LF	1	3	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1332350	Scott, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332350	true	RF	1	4	1	1	1	0	0	0	2	0	0	0	0	1	1	0	0	0
+3766764	1	1439650	Perkins, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439650	false	SS	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1332356	Stidham, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332356	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766764	1	1527513	Joyce, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527513	true	SS	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1527498	Bell, Joey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527498	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1658272	Will, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658272	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1556195	Williamson, Glen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1556195	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1	1527509	Estes, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527509	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766764	1		Totals		true	""	1	37	9	15	3	0	0	1	9	2	1	0	0	6	1	2	0	0
+3766444	0	1432914	Myer, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432914	true	CF	1	4	2	2	0	0	0	0	2	1	0	0	0	0	0	1	0	0
+3766444	0	1320737	Weprinsky, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320737	true	LF	1	3	2	2	1	1	0	0	3	1	0	0	1	1	0	0	0	0
+3766444	0	1320736	Rowe, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320736	true	DH	1	5	1	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+3766444	0	1658212	Stout, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658212	true	C	1	5	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766444	0	1542977	Weston, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542977	true	3B	1	4	1	2	2	0	0	0	2	0	0	0	0	1	0	0	0	0
+3766444	0	1542973	Wasson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542973	true	RF	1	4	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766444	0	1542978	Swenson, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542978	true	1B	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766444	0	1432910	DeMatteis, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432910	false	PH	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	0	1542972	Nirenberg, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542972	false	2B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	0	1655920	Crane, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655920	true	2B	1	2	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766444	0	1320730	Biumi, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320730	true	SS	1	3	2	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766444	0	1432911	Tipping, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432911	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	0	1542980	Baldy, Anderson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542980	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	0	1320734	Smith, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320734	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	0	1432913	Stout, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432913	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	0		Totals		true	""	1	35	11	13	3	1	0	0	10	4	0	0	1	7	0	1	0	0
+3766444	1	1645783	Berczek, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645783	true	SS	1	4	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766444	1	1541034	Calderon, Lorenzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541034	true	LF/RF	1	4	1	1	0	0	0	0	0	0	1	0	0	1	0	2	0	0
+3766444	1	1548430	Adamus, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1548430	false	PR	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1645781	King, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645781	false	LF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1541041	Savage, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541041	true	RF	1	1	1	0	0	0	0	0	1	2	1	0	0	1	0	1	0	0
+3766444	1	1541036	Orbe, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541036	true	2B	1	3	1	1	1	0	0	0	4	0	1	0	0	0	0	0	0	0
+3766444	1	1645797	Burcham, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645797	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1645788	Blake, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645788	true	DH	1	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+3766444	1	1548432	Mitchell, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1548432	true	1B	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766444	1	1541043	Graubics, Karlis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541043	true	3B	1	3	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3766444	1	1545420	Coates, Roy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545420	false	PH	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1541044	White, Gannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541044	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1645799	Hinkle, Chas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645799	true	C	1	0	0	0	0	0	0	0	1	2	0	0	1	0	0	0	1	0
+3766444	1	1541040	Breheny, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541040	true	CF	1	2	2	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0
+3766444	1	1645790	Sanchez, Niko	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645790	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1541048	LaMotta, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541048	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1548429	Robison, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1548429	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1	1541038	Berczek, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541038	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766444	1		Totals		true	""	1	25	8	6	2	0	0	0	8	7	5	0	1	3	0	3	1	0
+3779964	0	1537281	Stanley, Griffin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1537281	true	CF	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	0	1657264	Love, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657264	true	2B	1	2	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+3779964	0	1537284	Mathews, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1537284	true	LF	1	4	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+3779964	0	1432308	Armstrong, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432308	true	RF	1	3	1	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+3779964	0	1432310	Carroll, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432310	true	3B	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	0	1537282	Hedrick, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1537282	true	DH	1	3	1	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3779964	0	1537292	Salladay, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1537292	true	C	1	3	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	0	1644261	Love, Nic	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644261	true	1B	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0	1308651	Rodriguez, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308651	true	SS	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0	1308640	Henschel, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308640	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0	1432316	Tierney, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432316	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0	1308643	Marzullo, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1308643	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0	1537289	Meehan, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1537289	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0	1537294	Hooven, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1537294	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	0		Totals		true	""	1	29	3	3	0	0	0	0	0	4	0	0	0	8	1	1	0	0
+3779964	1	1544089	Loudoun, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544089	true	CF	1	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	1	1656486	Roberts, Keith	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656486	true	2B	1	3	1	2	0	0	0	1	3	2	0	0	0	0	0	2	0	0
+3779964	1	1656483	Myers, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656483	true	RF/C	1	5	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3779964	1	1544086	Kilbourne, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544086	true	DH/P	1	2	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+3779964	1	1544085	Henderson, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544085	true	1B	1	4	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	1	1436947	Corwin, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436947	true	SS	1	4	0	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	1	1656475	Moore, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656475	true	3B	1	4	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	1	1656470	Ginch, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656470	false	LF	1	2	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779964	1	1656488	Walker, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656488	true	C	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1544091	Nicely, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544091	true	LF/RF	1	3	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+3779964	1	1656485	Ream, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656485	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1544093	Parker, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544093	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1656484	Powell, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656484	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1436949	Emerson, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436949	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1320055	Garber, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320055	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1544090	Myers, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544090	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1	1656467	Burris, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656467	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779964	1		Totals		true	""	1	34	4	10	1	0	0	1	4	4	0	0	1	6	0	3	0	0
+3746724	0	1541308	Norkeh, Nehwon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541308	true	CF	1	6	2	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1541337	Massengill, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541337	true	C	1	4	2	3	2	0	0	0	0	0	0	0	1	0	0	0	0	0
+3746724	0	1541331	Patterson, Chandler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541331	false	PR	1	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+3746724	0	1541330	Tyner, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541330	true	DH	1	2	0	0	0	0	0	0	1	1	0	0	1	1	0	0	0	0
+3746724	0	1653895	Snyder, J.C.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653895	true	RF	1	4	1	2	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+3746724	0	1653896	Klemm, Jarryd	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653896	true	LF	1	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1653913	Spear, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653913	true	3B	1	4	1	3	0	0	0	0	2	1	0	0	0	0	0	0	0	0
+3746724	0	1653898	DeLaGarza, Paxton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653898	true	SS	1	4	0	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3746724	0	1311984	David, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1311984	true	1B	1	4	0	1	1	0	0	0	1	0	1	0	0	0	0	0	0	0
+3746724	0	1653894	Semler, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653894	true	2B	1	4	0	1	0	0	0	0	0	0	0	0	1	2	0	0	0	0
+3746724	0	1656810	Shannon, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656810	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1427229	Brown, Graylon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1427229	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1312008	MacLean, Jamie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1312008	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1656811	Rholl, Kellen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656811	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1544477	Becker, Dillon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544477	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0	1541321	Bass, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541321	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	0		Totals		true	""	1	38	8	17	5	0	0	0	6	3	2	0	3	4	0	0	0	0
+3746724	1	1541379	Sargent, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541379	true	SS	1	4	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3746724	1	1541354	Simmons, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541354	true	CF	1	2	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+3746724	1	1656812	Howard, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656812	true	1B	1	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3746724	1	1541367	Douglas, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541367	true	DH	1	4	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1656813	Hunter, Mikal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656813	true	C	1	3	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3746724	1	1541372	Hagan, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541372	true	RF	1	4	0	2	0	0	0	0	2	0	0	0	0	1	0	1	0	0
+3746724	1	1656814	Garcia, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656814	true	LF	1	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1333661	Berryman, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1333661	false	PH	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1332915	Marsh, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332915	false	3B	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1541381	Villarreal, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541381	true	3B	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746724	1	1656815	Jenkins, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656815	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746724	1	1441984	Adams, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441984	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1656816	Cortez, John Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656816	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1552107	Vasquez, Jesus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1552107	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1656817	Bynum, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656817	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1	1541382	Labbie, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541382	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746724	1		Totals		true	""	1	32	4	9	1	0	0	0	3	4	0	0	0	5	0	1	0	0
+3783187	0		ROSAS, Ryan		true	SS	1	5	0	2	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+3783187	0		GALLEGOS, Marc		true	LF	1	5	2	2	1	0	0	1	2	0	0	0	0	0	0	0	0	0
+3783187	0		ORR, Daniel		true	DH	1	5	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		CALVERT, Hayden		true	CF	1	4	1	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
+3783187	0		MARTIN, Peter		true	1B	1	4	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0	0
+3783187	0		GONZALEZ, Vince		true	3B	1	3	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3783187	0		STRAKA, Ben		true	2B	1	4	1	1	0	0	0	0	0	0	0	0	0	3	0	1	0	0
+3783187	0		ZAVALA, Austin		true	C	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		SMITH, Jackson		true	C	1	3	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+3783187	0		WELBORN, John		true	RF	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		JOHANSEN, Jordan		true	RF	1	1	1	0	0	0	0	0	1	1	0	1	0	1	0	0	0	0
+3783187	0		HENRY, Caleb		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		WOOD, Ryan		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		ARANDA, Daniel		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		GUZZON, Austin		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	0		Totals		true	""	1	36	9	10	1	0	0	2	8	1	0	2	1	5	0	1	2	0
+3783187	1	1539280	Wileman, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539280	true	DH	1	6	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3783187	1	1653001	Valencia, AJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653001	true	LF	1	4	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+3783187	1	1539251	Rapacz, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539251	true	RF	1	3	0	0	0	0	0	0	1	1	0	1	0	2	1	0	0	0
+3783187	1	1433934	Woehler, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433934	false	1B	1	2	2	2	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3783187	1	1653025	Thran, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653025	true	1B	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3783187	1	1539274	Skiles, Eli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539274	false	CF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1653013	Dunning, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653013	false	CF	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3783187	1	1433918	Nannini, Kadyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433918	true	CF	1	4	1	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3783187	1	1653023	Christopher, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653023	true	3B	1	4	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+3783187	1	1539244	Drath, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539244	false	SS	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1539279	McKean, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539279	false	SS	1	1	0	1	0	1	0	0	3	0	0	0	0	0	0	0	0	0
+3783187	1	1653020	Esquerra, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653020	true	SS	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3783187	1	1653026	Reichenbach, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653026	false	C	1	0	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+3783187	1	1433921	Cranshaw, Demitri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433921	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1653003	Hamilton, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653003	true	C	1	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0
+3783187	1	1653017	Webster, Ansel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653017	false	2B	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3783187	1	1433914	Louthan, Gabe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433914	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3783187	1	1433929	Eberhardt, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433929	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1433912	Hirko, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433912	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1653019	Auld, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653019	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1653002	Muller, Camden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653002	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1	1433937	Buckles, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433937	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3783187	1		Totals		true	""	1	34	8	7	2	1	0	0	7	9	2	1	0	10	1	0	0	0
+3766665	0	1653001	Valencia, AJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653001	true	LF	1	5	1	2	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+3766665	0	1539270	Mott, Clay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539270	true	SS	1	4	1	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766665	0	1539251	Rapacz, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539251	true	RF	1	4	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766665	0	1433918	Nannini, Kadyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433918	true	CF	1	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766665	0	1653026	Reichenbach, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653026	true	DH	1	3	1	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+3766665	0	1539274	Skiles, Eli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539274	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	0	1653021	Schwitters, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653021	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	0	1653003	Hamilton, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653003	true	C	1	4	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+3766665	0	1653025	Thran, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653025	false	PH/1B	1	2	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3766665	0	1433934	Woehler, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433934	true	1B	1	3	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3766665	0	1539279	McKean, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539279	true	3B	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766665	0	1433914	Louthan, Gabe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433914	true	2B	1	2	1	1	0	0	0	0	0	2	0	0	0	1	0	1	1	0
+3766665	0	1539273	Morland, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539273	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	0	1433929	Eberhardt, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433929	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	0	1653028	Zarosinski, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653028	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	0		Totals		true	""	1	36	5	10	1	0	0	0	3	6	1	0	0	5	1	2	1	0
+3766665	1	1425340	Fehmel, Brody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425340	true	CF	1	5	1	1	1	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766665	1	1425355	Serkowski, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425355	true	2B	1	2	2	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0
+3766665	1	1425368	Wolf, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425368	true	LF	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766665	1	1425335	Butler, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425335	true	C	1	3	0	2	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+3766665	1	1425352	McEachern, Carter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425352	true	3B	1	3	1	1	0	0	0	0	2	0	1	0	0	0	0	0	0	0
+3766665	1	1425349	Jewett, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425349	true	1B	1	4	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+3766665	1	1425342	Garhart, TJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425342	true	DH	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766665	1	1425356	Singer, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425356	true	RF	1	4	2	2	0	0	0	2	4	0	0	0	0	0	0	0	0	0
+3766665	1	1658234	Oretsky, Zachary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658234	true	SS	1	3	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0
+3766665	1	1425345	Gray, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425345	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	1	1425364	Turner, Theodore	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425364	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	1	1425365	Walker, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1425365	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	1	1658263	Meyer, Brendan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658263	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766665	1		Totals		true	""	1	32	7	8	1	0	0	2	7	2	2	0	1	8	1	0	1	0
+3764644	0	1437832	Lookabill, Skyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437832	false	LF	1	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0	1545072	Carter, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545072	true	LF	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0		Locati, Spencer		true	3B	1	5	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3764644	0	1437817	Druffel, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437817	true	CF	1	5	2	3	1	0	0	0	1	0	0	0	0	0	0	2	0	0
+3764644	0	1557459	Nelson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1557459	true	DH	1	5	0	2	2	0	0	0	1	0	0	0	0	0	0	0	0	0
+3764644	0		Condreay, Joel		true	SS	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0	1318526	Wakem, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318526	true	1B	1	3	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3764644	0		Moser, Brett		false	PR	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0		Phelan, JT		true	RF	1	2	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+3764644	0		Thibault, Zach		false	PH	1	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3764644	0	1545117	Lamberty, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545117	true	C	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0		Isa, Casey		true	2B	1	3	1	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3764644	0	1318522	Blumenthal, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318522	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0		Hillmick, Taylor		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0		Robichaux, Alex		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0	1441728	Renner, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441728	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	0		Totals		true	""	1	37	5	9	4	0	0	0	4	3	0	0	0	4	0	2	0	0
+3764644	1	1543071	Todd, Sinjin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543071	false	PH	1	2	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3764644	1	1543078	Cana, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543078	true	CF	1	3	4	3	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+3764644	1	1654856	Price, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654856	true	2B	1	2	1	1	0	0	0	0	0	2	2	0	0	1	0	0	0	0
+3764644	1	1654844	Whittlesey, Erik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654844	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764644	1	1543082	Sanchez, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543082	true	1B	1	4	0	4	1	0	0	0	7	0	0	0	1	0	0	0	0	0
+3764644	1	1654843	Green, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654843	false	PH	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764644	1	1543070	Gunter, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543070	true	LF	1	4	0	0	0	0	0	0	1	0	0	0	0	2	0	0	0	0
+3764644	1	1543084	Cohan, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543084	false	LF	1	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3764644	1	1437609	Abushala, Ramsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437609	true	RF	1	3	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+3764644	1	1543076	Filice, Nico	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543076	false	PH	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3764644	1	1437608	Casciola, Davey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437608	true	3B	1	3	2	1	0	0	0	0	0	0	1	0	0	1	0	0	1	0
+3764644	1	1559818	Gregorovic, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1559818	false	PH	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3764644	1	1543079	Crowl, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543079	true	DH	1	3	0	2	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3764644	1	1654845	Rebello, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654845	false	PH	1	1	0	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3764644	1	1543072	Kay, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543072	true	SS	1	4	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3764644	1	1559252	Thompson, Nathaniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1559252	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1	1543074	Saito, Trey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543074	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1	1317071	DuBois, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317071	true	C	1	4	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1	1437615	Shields, Mitchell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437615	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1	1654847	Wehner, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654847	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1	1543081	Nevins, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543081	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1	1654855	Pautsch, Marshall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654855	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764644	1		Totals		true	""	1	39	14	17	6	0	0	0	14	5	5	0	1	7	0	1	1	0
+3763582	0	1319818	Evans, Lincoln	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319818	true	CF	1	4	0	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0
+3763582	0	1319825	Rogers, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319825	true	DH	1	5	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3763582	0	1319822	Tomasulo, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319822	true	C	1	5	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	0	1539948	Hartzell, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539948	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	0	1652145	Munn, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652145	true	1B	1	5	1	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0
+3763582	0	1319820	Parsons, Wil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319820	true	3B	1	3	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0
+3763582	0	1319823	Harris, Pat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319823	true	RF	1	3	1	1	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+3763582	0	1319826	Kenyon, Jay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319826	true	LF	1	5	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3763582	0	1432105	Tomasulo, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432105	true	2B	1	5	1	1	0	0	0	0	1	0	0	0	0	2	0	0	0	0
+3763582	0	1539944	Katona, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539944	true	SS	1	2	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+3763582	0	1652152	Woodall, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652152	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	0	1539952	Engelmann, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539952	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	0	1652151	Trio, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652151	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	0	1319831	Henderlite, Martin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319831	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	0		Totals		true	""	1	37	5	9	3	0	0	0	5	5	1	0	1	8	0	0	0	0
+3763582	1	1544091	Nicely, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544091	true	CF	1	3	1	1	0	0	0	0	1	0	0	0	1	1	0	1	0	0
+3763582	1	1656486	Roberts, Keith	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656486	true	2B	1	3	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+3763582	1	1656470	Ginch, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656470	true	LF	1	4	0	3	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3763582	1	1544086	Kilbourne, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544086	true	DH	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3763582	1	1656483	Myers, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656483	true	RF	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3763582	1	1544085	Henderson, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544085	true	1B	1	4	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+3763582	1	1656475	Moore, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656475	true	3B	1	2	2	0	0	0	0	0	0	2	0	0	0	1	0	1	0	0
+3763582	1	1436947	Corwin, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436947	true	SS	1	4	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3763582	1	1656488	Walker, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656488	true	C	1	3	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3763582	1	1320056	Goddard, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320056	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	1	1544087	Lane, Jaxn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544087	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	1	1544090	Myers, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544090	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	1	1320055	Garber, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320055	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	1	1656467	Burris, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656467	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3763582	1		Totals		true	""	1	31	6	9	2	0	0	0	5	2	0	1	1	5	0	4	0	0
+3770036	0	1527094	Petersen, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527094	true	RF	1	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3770036	0	1313328	Ingels, Herc	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1313328	true	CF	1	3	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+3770036	0	1527091	Jones, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527091	true	3B	1	4	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3770036	0	1651932	Wilson, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651932	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	0	1434504	Fulbright, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434504	true	C	1	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3770036	0	1434512	Noble, Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434512	true	1B	1	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3770036	0	1541033	Tuttle, Grayson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541033	false	DH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	0	1527089	Blackwood, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527089	true	DH	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3770036	0	1657917	Shepherd,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657917	true	SS	1	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3770036	0	1434506	Woodliff, Guy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434506	true	LF	1	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3770036	0	1434501	Roberts, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434501	true	2B	1	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3770036	0	1651939	Salter, Darin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651939	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	0	1434508	Crawford, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434508	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	0		Totals		true	""	1	27	1	3	0	0	0	0	1	4	0	0	1	4	1	1	0	0
+3770036	1	1441706	Tyson, Dusty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441706	true	CF	1	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1527510	Francis, Alfred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527510	true	3B	1	3	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3770036	1	1439648	McGill, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439648	true	2B	1	3	0	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+3770036	1	1441445	Jernigan, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441445	true	P	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3770036	1	1527524	White, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527524	true	1B	1	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1439716	Smith, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439716	true	LF	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1527520	Perry, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527520	false	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1332356	Stidham, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332356	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1439649	Skelton, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1439649	true	C	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1332350	Scott, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332350	true	RF	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1527513	Joyce, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1527513	true	SS	1	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3770036	1	1441446	O'Connell, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441446	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1	1332366	Teal, Braxton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332366	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3770036	1		Totals		true	""	1	29	2	6	0	0	0	0	1	2	0	1	0	3	0	0	0	0
+3765181	0	1544089	Loudoun, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544089	true	CF	1	4	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765181	0	1656486	Roberts, Keith	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656486	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3765181	0	1656483	Myers, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656483	true	DH	1	4	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765181	0	1656466	Biringer, Carter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656466	false	PR/RF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1544086	Kilbourne, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544086	true	1B	1	2	2	1	0	0	0	1	1	1	1	0	0	1	0	0	0	0
+3765181	0	1544085	Henderson, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544085	true	RF/1B	1	4	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3765181	0	1656475	Moore, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656475	true	3B	1	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765181	0	1656470	Ginch, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656470	true	LF	1	4	0	1	1	0	0	0	3	0	0	0	0	1	0	0	0	0
+3765181	0	1436947	Corwin, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436947	true	SS	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765181	0	1656488	Walker, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656488	true	C	1	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3765181	0	1544087	Lane, Jaxn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544087	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1320056	Goddard, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320056	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1436951	Halsey, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436951	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1436949	Emerson, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436949	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1436957	Mays, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1436957	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1656484	Powell, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656484	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1320055	Garber, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320055	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0	1544093	Parker, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544093	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	0		Totals		true	""	1	32	5	6	1	0	0	1	5	3	1	0	1	6	1	0	0	0
+3765181	1	1317168	Power, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317168	true	C	1	5	2	5	0	1	0	0	1	1	0	0	0	0	0	0	1	0
+3765181	1	1655671	Cass, Davis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655671	false	RF	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1	1431657	Rodriguez, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431657	true	LF/RF	1	4	2	2	0	0	0	0	1	0	1	0	0	1	0	0	0	0
+3765181	1	1317167	Kirby, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317167	true	RF/1B	1	3	2	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+3765181	1	1431658	Lanners, Ray	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431658	true	DH	1	5	1	3	2	0	0	0	3	0	0	0	0	0	0	0	0	0
+3765181	1	1317166	Molosky, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317166	false	PR/CF	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1	1317170	Jack, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317170	true	1B	1	3	1	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0
+3765181	1	1655674	Gunn, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655674	false	3B	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1	1544492	Wildeboer, Pete	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544492	true	3B	1	2	2	1	0	0	0	0	0	1	0	0	1	1	0	0	0	0
+3765181	1	1655672	Dockery, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655672	true	CF/LF	1	2	3	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0
+3765181	1	1431654	Nalls, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431654	true	SS	1	5	1	3	1	0	0	0	5	0	0	0	0	0	0	0	0	0
+3765181	1	1544495	Scott, Lucas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544495	false	PH/2B	1	2	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3765181	1	1655686	Ford, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655686	true	2B	1	2	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3765181	1	1544497	Hardee, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544497	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1	1655688	Haines, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655688	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1	1544489	Leggett, Ross	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1544489	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1	1431663	Johnson, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431663	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765181	1		Totals		true	""	1	37	15	18	4	1	0	0	13	6	2	0	2	4	0	0	1	0
+3746844	0		W. Bass		true	2B	1	5	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+3746844	0		B. Blackwell		true	1B	1	5	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3746844	0		E. Percell		true	LF	1	6	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		M. Cowan		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		L. Soriano		true	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746844	0		C. Palmer		true	CF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		J. Alexander		true	RF/P	1	5	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+3746844	0		E. Lizardi		true	C	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3746844	0		Herrington		true	C	1	3	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746844	0		De La Cruz		true	3B	1	5	1	2	1	0	0	1	2	0	0	0	0	2	0	0	0	0
+3746844	0		A. Davis		true	RF/P	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3746844	0		K. Jenkins		true	DH	1	3	1	1	0	0	0	0	1	1	0	0	0	1	0	1	0	0
+3746844	0		J. Vera		true	CF/RF	1	5	0	2	1	0	0	0	2	0	0	0	0	1	0	0	0	0
+3746844	0		A. Vallance		true	SS	1	5	0	2	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+3746844	0		J. Urena		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		C. Cook		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		D. Spargo		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		J. Henry		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		L. Evans		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		T. Adams		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	0		Totals		true	""	1	45	5	11	3	0	0	1	5	4	0	0	0	9	1	2	2	0
+3746844	1	1541379	Sargent, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541379	true	SS	1	6	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	1	1541354	Simmons, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541354	true	CF	1	5	1	2	0	0	0	0	1	0	1	0	0	1	0	0	0	0
+3746844	1	1656812	Howard, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656812	true	DH	1	5	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+3746844	1	1541367	Douglas, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541367	true	1B	1	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3746844	1	1656813	Hunter, Mikal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656813	true	C	1	5	2	2	1	0	0	0	0	0	0	0	1	2	0	0	0	0
+3746844	1	1541372	Hagan, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541372	true	RF	1	5	0	4	0	0	0	0	1	1	0	0	0	1	0	0	2	0
+3746844	1	1656814	Garcia, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656814	true	LF	1	5	1	3	0	0	0	0	2	1	0	0	0	2	0	0	0	0
+3746844	1	1541381	Villarreal, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541381	false	3B	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	1	1333661	Berryman, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1333661	true	3B	1	2	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+3746844	1	1332915	Marsh, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332915	true	2B	1	5	0	2	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3746844	1	1656815	Jenkins, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656815	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	1	1656872	Lopez, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656872	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	1	1552104	Ragsdale, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1552104	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3746844	1		Totals		true	""	1	45	6	16	3	0	0	0	4	4	2	0	1	8	1	0	2	0
+3765844	0	1545072	Carter, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545072	true	LF	1	5	1	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+3765844	0		Locati, Spencer		true	3B	1	4	0	1	0	0	0	0	1	1	0	0	0	1	0	0	1	0
+3765844	0	1318523	Davis, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318523	true	C	1	5	1	3	1	0	0	1	2	0	0	0	0	0	0	0	0	0
+3765844	0	1557459	Nelson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1557459	true	1B	1	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765844	0	1437817	Druffel, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437817	true	CF	1	5	1	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0
+3765844	0		Condreay, Joel		true	SS	1	4	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3765844	0	1318526	Wakem, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318526	true	DH	1	3	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+3765844	0		Phelan, JT		true	RF	1	4	0	2	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765844	0	1545098	Hughes, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545098	true	2B	1	3	2	1	1	0	0	0	1	1	0	0	0	1	0	2	0	0
+3765844	0	1318522	Blumenthal, Carson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318522	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	0		Hillmick, Taylor		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	0	1559188	Milyard, Arory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1559188	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	0		Roelofs, Taylor		false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	0	1318520	Ansett, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318520	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	0		Totals		true	""	1	38	8	13	4	0	0	1	8	2	0	1	0	4	0	3	2	0
+3765844	1	1542164	Nishioka, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542164	true	CF	1	4	1	2	1	0	0	0	3	1	0	0	0	0	0	0	0	0
+3765844	1	1316669	Lopez, E.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316669	true	3B	1	4	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765844	1	1433088	Rosenbaum, Simon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433088	true	1B	1	4	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765844	1	1316670	Bruml, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316670	true	DH	1	5	1	1	0	0	0	0	1	0	0	0	0	1	1	0	0	0
+3765844	1	1316673	Rabin, Kenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316673	true	2B	1	5	1	1	0	0	0	0	1	0	0	0	0	1	1	0	0	0
+3765844	1	1316671	Fox, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316671	true	SS	1	3	2	2	1	0	0	0	0	2	0	0	0	0	0	0	0	0
+3765844	1	1433091	Brice, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433091	true	LF	1	4	1	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765844	1	1542163	Jordan, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542163	true	C	1	3	1	1	0	0	0	0	2	1	0	0	0	0	0	0	0	0
+3765844	1	1316676	Okuma, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1316676	true	RF	1	4	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765844	1	1652713	Holm, Peyton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652713	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	1	1652708	Yen, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652708	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765844	1		Totals		true	""	1	36	9	12	2	0	0	0	9	6	0	0	0	3	2	0	0	0
+3787521	0	1534341	Munson, Bill	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1534341	true	SS	1	4	1	2	0	0	0	0	1	1	0	0	0	0	0	3	0	0
+3787521	0	1196721	Genter, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1196721	true	2B	1	4	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+3787521	0	1534340	Olive, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1534340	true	CF/RF	1	4	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3787521	0	1641175	Balaguer, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1641175	true	DH	1	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3787521	0	1641196	Greenberg, Levi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1641196	false	PR/CF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	0	1311833	Gietema, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1311833	true	LF	1	3	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+3787521	0	1311828	Wallis, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1311828	true	RF/LF	1	4	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3787521	0	1545463	Lourie, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545463	true	1B	1	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	0	1428479	Moreland, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428479	true	C	1	3	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3787521	0	1311832	Keen, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1311832	true	3B	1	4	0	2	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3787521	0	1428476	Glauben, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428476	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	0	1090219	Morris, Daniel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1090219	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	0		Totals		true	""	1	34	3	9	0	0	0	0	2	3	2	0	1	4	0	3	1	0
+3787521	1	1319818	Evans, Lincoln	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319818	true	CF	1	4	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3787521	1	1319825	Rogers, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319825	true	1B	1	2	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+3787521	1	1319822	Tomasulo, Rob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319822	true	C	1	3	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0
+3787521	1	1432102	Taylor, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432102	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	1	1652145	Munn, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652145	true	DH	1	3	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3787521	1	1319820	Parsons, Wil	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319820	true	3B	1	2	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0
+3787521	1	1319823	Harris, Pat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319823	true	RF	1	2	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+3787521	1	1319826	Kenyon, Jay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319826	true	LF	1	3	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
+3787521	1	1539947	Caldwell, KC	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539947	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	1	1652142	Owens, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1652142	false	SS	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	1	1539944	Katona, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539944	true	SS	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3787521	1	1432105	Tomasulo, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432105	true	2B	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3787521	1	1319833	Thieringer, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319833	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	1	1432106	Goulding, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432106	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	1	1319831	Henderlite, Martin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319831	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3787521	1		Totals		true	""	1	26	1	1	0	0	0	0	1	5	1	1	4	8	0	0	0	0
+3774687	0	1541354	Simmons, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541354	true	CF	1	4	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3774687	0	1441984	Adams, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1441984	true	2B	1	4	0	1	0	0	0	0	1	0	0	1	0	0	1	0	0	0
+3774687	0	1333661	Berryman, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1333661	false	PH/1B	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3774687	0	1656812	Howard, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656812	true	1B	1	4	2	3	0	1	0	0	1	0	0	0	0	0	0	0	0	0
+3774687	0	1656815	Jenkins, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656815	false	PH	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3774687	0	1541367	Douglas, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541367	true	DH	1	4	2	2	1	1	0	0	3	0	0	0	0	0	1	0	0	0
+3774687	0	1656813	Hunter, Mikal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656813	true	C	1	3	1	1	0	0	0	0	0	1	1	0	0	1	0	0	0	0
+3774687	0	1541372	Hagan, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541372	true	RF	1	5	3	3	1	0	0	1	3	0	0	0	0	1	0	0	0	0
+3774687	0	1656814	Garcia, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656814	true	LF	1	5	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+3774687	0	1541381	Villarreal, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541381	true	3B	1	4	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3774687	0	1541379	Sargent, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541379	true	SS	1	3	1	2	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3774687	0	1552104	Ragsdale, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1552104	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	0	1658843	Cauley, Wes	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658843	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	0	1656817	Bynum, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656817	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	0	1656816	Cortez, John Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656816	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	0	1541383	Bates, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541383	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	0		Totals		true	""	1	37	11	14	3	2	24	1	10	5	1	1	0	4	2	0	0	0
+3774687	1		Josh Eatherly		true	2B/P	1	4	0	2	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+3774687	1		Kody Weil		true	LF	1	5	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3774687	1		Tyler Brown		true	SS	1	3	2	2	1	0	0	0	1	2	0	0	0	0	0	0	0	0
+3774687	1		Ryan Wagley		true	RF	1	4	1	0	0	0	0	0	0	0	1	0	0	4	0	0	0	0
+3774687	1		Ray Contreras		true	1B	1	4	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+3774687	1		Florentine Moreno		true	3B	1	4	0	2	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3774687	1		Ivan Rios		true	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3774687	1		Jacob Simons		true	C	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3774687	1		Parker Kleinert		true	DH/PH	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3774687	1		Brandt Roush		true	CF	1	4	1	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3774687	1		Trevor Russell		true	P/2B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	1		Drake Boswell		true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3774687	1		Totals		true	""	1	36	6	10	4	0	0	0	5	3	1	0	0	11	1	0	0	0
+3779984	0	1332847	Wiles, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332847	true	RF	1	4	0	0	0	0	0	0	0	0	1	0	0	2	0	0	1	0
+3779984	0	1332840	Hamlett, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332840	true	LF	1	4	0	1	0	0	0	0	0	0	0	0	0	3	0	0	0	0
+3779984	0	1540423	Carneal, Lee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540423	true	3B	1	4	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3779984	0	1332838	Gray, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332838	true	1B	1	4	2	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3779984	0	1432663	Lloyd, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432663	true	2B	1	4	1	2	1	0	0	0	1	0	0	0	0	2	0	0	0	0
+3779984	0	1540436	Stephan, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540436	false	DH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1656500	Basse, Hayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656500	true	DH	1	3	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779984	0	1540435	Peevey, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540435	false	PH	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3779984	0	1656504	Daugherty, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656504	true	C	1	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3779984	0	1540422	Wiles, Dustin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540422	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1432667	Johnson, Reggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432667	true	CF	1	3	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3779984	0	1432665	O'Hara, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432665	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779984	0	1656507	Haynie, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656507	true	SS	1	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1656518	Kurz, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656518	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1432677	Blair, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432677	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1540431	Wright, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540431	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1656523	Whitaker, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656523	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0	1332843	Nixon, Billy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332843	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	0		Totals		true	""	1	35	3	10	1	0	0	0	3	1	1	0	0	11	0	1	1	0
+3779984	1	1541034	Calderon, Lorenzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541034	true	RF	1	3	1	1	0	0	0	0	0	1	0	0	0	1	0	2	1	0
+3779984	1	1645783	Berczek, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645783	true	SS	1	3	1	1	0	1	0	0	2	0	0	0	1	2	0	0	0	0
+3779984	1	1645788	Blake, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645788	false	1B	1	2	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+3779984	1	1541041	Savage, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541041	true	1B	1	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3779984	1	1541036	Orbe, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541036	true	P	1	3	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0
+3779984	1	1645782	Darrow, Kaden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645782	false	2B	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3779984	1	1541043	Graubics, Karlis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541043	true	2B	1	1	1	0	0	0	0	0	0	2	0	0	0	0	0	1	0	0
+3779984	1	1541038	Berczek, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541038	true	C	1	3	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0
+3779984	1	1645784	Padgett, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645784	false	3B	1	2	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3779984	1	1541044	White, Gannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541044	true	3B	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+3779984	1	1541040	Breheny, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541040	true	CF	1	3	1	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0
+3779984	1	1645781	King, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645781	true	LF	1	3	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3779984	1	1541047	Brown, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1541047	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	1	1645785	DiGuilian, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1645785	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3779984	1		Totals		true	""	1	28	5	7	0	1	0	0	4	3	3	0	1	11	1	6	2	0
+3766724	0	1538675	Sawyer, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538675	true	LF	1	4	1	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	0	1332931	Vasquez, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332931	true	SS	1	4	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+3766724	0	1651147	Almager, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651147	true	1B	1	3	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766724	0	1651157	Mosby, Keenan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651157	true	DH	1	4	0	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+3766724	0	1651144	York, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651144	true	3B	1	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766724	0	1651143	Smith, Kleat	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651143	true	RF	1	3	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3766724	0	1538680	Mills, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538680	true	C	1	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3766724	0	1538674	Bueno, Ozzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538674	true	CF	1	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+3766724	0	1538673	Griffith, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538673	false	2B	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3766724	0	1538681	Garibay, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538681	true	2B	1	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766724	0	1651142	West, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651142	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	0	1434355	Gallego, Eli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434355	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	0		Totals		true	""	1	28	2	7	1	1	0	0	2	3	1	0	1	7	0	1	0	0
+3766724	1	1535522	Ver Schuur, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1535522	true	CF	1	2	0	1	1	0	0	0	0	1	0	0	0	1	0	0	1	0
+3766724	1	1657956	Fryrear, Hagen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657956	true	LF	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3766724	1	1434230	Carreon, Marco	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434230	true	3B	1	3	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	1	1305930	Veteto, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1305930	false	RF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	1	1434216	Holmes, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434216	true	RF	1	3	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	1	1658264	Stanford,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658264	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	1	1434212	Stewart, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434212	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3766724	1	1657957	Kidder, Jayme	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657957	true	P	1	3	0	1	1	0	0	0	2	0	0	0	0	0	0	0	0	0
+3766724	1	1658266	Wren,	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658266	true	1B	1	3	0	0	0	0	0	0	1	0	0	0	0	2	1	0	0	0
+3766724	1	1434217	Tumlinson, Brady	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434217	true	C	1	3	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+3766724	1	1657958	Romaguera, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657958	true	SS	1	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3766724	1	1332924	Pisseri, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332924	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3766724	1		Totals		true	""	1	24	5	6	3	0	0	0	4	3	0	0	0	7	1	0	1	0
+3764844	0	1538675	Sawyer, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538675	true	LF	1	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+3764844	0	1332931	Vasquez, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332931	true	SS	1	3	1	2	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+3764844	0	1538673	Griffith, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538673	true	DH	1	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	0	1434355	Gallego, Eli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434355	true	1B	1	3	0	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3764844	0	1651144	York, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651144	true	3B	1	3	0	0	0	0	0	0	1	0	0	1	0	2	0	0	0	0
+3764844	0	1651159	Crisp, Emmett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651159	true	C	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	0	1651147	Almager, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1651147	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	0	1434343	Mattson, Turner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434343	true	CF	1	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3764844	0	1538674	Bueno, Ozzie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538674	true	RF	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764844	0	1538681	Garibay, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1538681	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	0	1434345	Vaigert, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434345	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	0		Totals		true	""	1	30	1	7	0	0	0	0	1	3	0	1	0	4	0	1	1	0
+3764844	1	1535522	Ver Schuur, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1535522	true	CF	1	4	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	1	1657956	Fryrear, Hagen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657956	true	LF	1	4	2	2	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+3764844	1	1434230	Carreon, Marco	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434230	true	3B	1	3	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+3764844	1	1305930	Veteto, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1305930	false	RF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	1	1434216	Holmes, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434216	true	RF	1	4	0	2	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+3764844	1	1657957	Kidder, Jayme	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657957	true	DH	1	4	0	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+3764844	1	1305935	Reed, Reagan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1305935	true	1B	1	3	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3764844	1	1434214	Martin, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434214	true	C	1	4	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3764844	1	1657958	Romaguera, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1657958	true	SS	1	2	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3764844	1	1535518	Rowan, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1535518	true	2B	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	1	1434231	Barnett, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434231	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	1	1434212	Stewart, Charlie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1434212	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	1	1535519	Ray, Hayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1535519	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3764844	1		Totals		true	""	1	31	3	9	3	0	0	0	3	2	0	1	0	4	0	3	0	0
+3765451	0	1653013	Dunning, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653013	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	0	1653020	Esquerra, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653020	false	2B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	0	1653001	Valencia, AJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653001	true	LF	1	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3765451	0	1539270	Mott, Clay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539270	true	SS	1	3	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
+3765451	0	1539251	Rapacz, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539251	true	RF	1	4	0	1	0	0	0	0	0	0	0	0	0	2	0	0	1	0
+3765451	0	1433918	Nannini, Kadyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433918	true	CF	1	4	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765451	0	1653003	Hamilton, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653003	true	C	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765451	0	1653026	Reichenbach, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653026	true	DH	1	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765451	0	1433934	Woehler, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433934	true	1B	1	3	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
+3765451	0	1539279	McKean, Riley	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539279	true	3B	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+3765451	0	1433914	Louthan, Gabe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433914	true	2B/LF	1	2	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765451	0	1433929	Eberhardt, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433929	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	0	1539245	Higa, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539245	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	0	1433937	Buckles, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1433937	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	0		Totals		true	""	1	28	2	5	0	0	0	0	2	3	0	2	1	6	0	1	1	0
+3765451	1	1542029	Calder, Cole	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542029	true	CF	1	4	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765451	1	1658031	Kress, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658031	true	2B	1	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	1	1658038	Evan, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658038	true	LF	1	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765451	1	1542020	Mellman, Race	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542020	false	PR	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	1	1428522	Bertsch, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428522	true	1B	1	2	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+3765451	1	1542028	Poindexter, Colton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542028	true	RF	1	3	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765451	1	1542034	Benyo, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542034	true	DH	1	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765451	1	1428516	Hutton, Gareth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1428516	true	C	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	1	1542018	Lau, Landon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542018	true	SS	1	3	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765451	1	1437378	Del Signore, Damian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437378	true	3B	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765451	1	1542033	Bratton, Ty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542033	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	1	1658079	Traxler, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658079	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	1	1542026	Pope, Ragan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1542026	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765451	1		Totals		true	""	1	29	1	3	0	0	0	0	1	2	1	0	0	7	0	0	0	0
+3765168	0		Phelan, JT		false	PH	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1437817	Druffel, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437817	true	CF	1	4	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0		Locati, Spencer		true	3B	1	2	2	1	1	0	0	0	0	3	0	0	0	1	0	0	0	0
+3765168	0	1318523	Davis, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318523	true	1B	1	4	1	2	0	0	0	0	1	0	1	0	0	1	0	0	0	0
+3765168	0	1557459	Nelson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1557459	true	RF	1	5	0	1	0	0	0	0	2	0	0	0	0	2	1	0	0	0
+3765168	0	1318521	Miller, Paul	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318521	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1318526	Wakem, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318526	true	DH	1	3	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3765168	0		Condreay, Joel		true	SS	1	3	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+3765168	0	1437832	Lookabill, Skyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437832	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1545072	Carter, Dalton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545072	true	LF	1	3	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765168	0		Thibault, Zach		false	PH	1	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3765168	0	1545117	Lamberty, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545117	true	C	1	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765168	0		Isa, Casey		false	PH	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+3765168	0	1545098	Hughes, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545098	true	2B	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1559188	Milyard, Arory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1559188	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1318528	Scourey, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1318528	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1559202	VonDracek, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1559202	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0	1545073	Mack, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545073	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	0		Totals		true	""	1	33	5	8	3	0	0	0	4	5	1	0	1	10	1	0	0	0
+3765168	1	1543071	Todd, Sinjin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543071	false	CF	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	1	1543078	Cana, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543078	true	CF	1	3	2	2	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+3765168	1	1654856	Price, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654856	true	2B	1	3	3	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+3765168	1	1543082	Sanchez, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543082	true	DH	1	4	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+3765168	1	1543084	Cohan, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543084	false	LF	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3765168	1	1543070	Gunter, Gabriel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543070	true	LF	1	3	3	2	0	0	0	0	2	1	0	0	0	0	0	0	0	0
+3765168	1	1654843	Green, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654843	false	RF	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	1	1437609	Abushala, Ramsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437609	true	RF	1	4	2	3	1	0	0	0	3	0	0	0	0	0	0	0	0	0
+3765168	1	1437608	Casciola, Davey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1437608	true	3B	1	3	0	2	0	1	0	0	4	1	0	1	0	0	0	0	0	0
+3765168	1	1543079	Crowl, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543079	true	1B	1	3	0	1	0	1	0	0	1	2	0	0	0	0	0	0	0	0
+3765168	1	1654845	Rebello, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1654845	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3765168	1	1543072	Kay, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543072	true	SS	1	4	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3765168	1	1543073	Whitmer, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543073	false	C	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	1	1317071	DuBois, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317071	true	C	1	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+3765168	1	1543075	Sipes, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543075	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	1	1543080	Kiyabu, Landry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543080	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	1	1317068	Peters, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317068	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3765168	1		Totals		true	""	1	34	11	13	2	2	0	0	11	8	1	1	1	2	0	0	1	0
+3788045	0	1658175	Mulvey, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658175	true	LF	1	4	1	2	0	0	0	0	0	1	0	0	0	2	0	1	0	0
+3788045	0	1658176	Kozlowski, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658176	true	SS	1	4	1	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+3788045	0	1323807	Elfreth, Rick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1323807	true	RF/P	1	5	1	2	2	0	0	0	2	0	0	0	0	0	0	0	0	0
+3788045	0	1443442	Hens, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1443442	true	2B/3B	1	5	1	1	0	0	0	0	2	0	0	0	0	2	0	0	0	0
+3788045	0	1443687	Fleming, Beau	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1443687	true	1B	1	4	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3788045	0	1658179	Humski, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658179	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3788045	0	1658177	Wright, Shaughn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658177	true	C	1	4	0	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3788045	0	1658181	Wallace, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658181	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0	1658182	Forktus, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658182	false	PR/DH	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0	1557098	Diciano, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1557098	false	PH	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3788045	0	1658180	Heimbach, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658180	true	DH	1	2	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+3788045	0	1443448	Carmolingo, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1443448	true	3B/RF	1	3	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0
+3788045	0	1443439	Blount, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1443439	true	CF	1	3	2	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3788045	0	1658183	Di, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658183	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0	1443445	Hill, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1443445	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0	1658184	DeRitis, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658184	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0	1658185	Brown, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1658185	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0	1443453	Rakus, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1443453	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	0		Totals		true	""	1	38	6	11	2	0	0	0	6	5	0	0	0	12	1	1	0	0
+3788045	1	1543053	Grasso, Pete	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543053	true	SS/P	1	6	1	2	0	0	0	0	2	0	0	0	0	1	0	0	0	0
+3788045	1	1320513	Illian, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1320513	false	2B	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3788045	1	1435936	Lipman, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1435936	true	2B	1	3	1	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0
+3788045	1	1435939	Dmiterchik, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1435939	false	PH/DH	1	2	1	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+3788045	1	1543060	LaBriola, Tom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543060	true	DH	1	2	2	1	0	0	0	0	1	2	0	0	0	0	0	1	0	0
+3788045	1	1319219	Sanzone, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319219	true	3B	1	4	1	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0
+3788045	1	1319224	Barefoot, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319224	true	C	1	3	1	1	0	0	0	1	2	1	1	0	0	1	0	0	0	0
+3788045	1	1543056	Dean, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543056	false	CF	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1653961	Hrycak, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653961	true	CF	1	4	1	2	0	0	0	1	2	0	0	0	0	1	0	0	0	0
+3788045	1	1543054	Myers, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543054	false	LF	1	2	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+3788045	1	1653964	Jones, Robbie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653964	true	LF	1	2	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+3788045	1	1319225	Breen, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319225	true	RF	1	5	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+3788045	1	1435933	LaBriola, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1435933	false	1B	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3788045	1	1435937	Goodwin, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1435937	true	1B	1	1	1	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0
+3788045	1	1319229	Fein, Dan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319229	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1543049	Daiss, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543049	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1435930	Shockley, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1435930	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1543061	Britton, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1543061	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1319221	Anderson, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319221	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1435927	Schmedel, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1435927	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1653959	Ardoin, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1653959	false	SS	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1319227	Hamby, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319227	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1	1319222	Collacchi, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1319222	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3788045	1		Totals		true	""	1	37	13	14	1	1	23	2	10	8	1	1	1	6	1	1	1	0
+3775244	0	1332847	Wiles, Spencer	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332847	true	RF	1	4	2	1	0	0	0	0	0	1	1	0	0	2	0	0	0	0
+3775244	0	1332840	Hamlett, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332840	true	LF	1	4	2	3	1	0	0	0	0	2	0	0	0	1	0	0	0	0
+3775244	0	1540423	Carneal, Lee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540423	true	3B	1	5	1	3	1	0	0	1	4	1	0	0	0	0	1	0	0	0
+3775244	0	1332838	Gray, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332838	true	1B	1	5	0	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0
+3775244	0	1432663	Lloyd, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432663	true	2B	1	3	2	2	1	0	0	0	0	2	0	0	0	1	0	0	0	0
+3775244	0	1432665	O'Hara, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432665	false	PH	1	2	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3775244	0	1332833	Birnbaum, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332833	true	DH	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3775244	0	1656506	Gothe, Moe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656506	true	CF	1	3	0	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0
+3775244	0	1432672	Elliott, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432672	false	PH	1	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0
+3775244	0	1332839	Hall, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1332839	true	C	1	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3775244	0	1656507	Haynie, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656507	true	SS	1	5	0	2	1	0	0	0	3	0	0	0	0	1	0	0	1	0
+3775244	0	1656518	Kurz, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656518	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	0	1432678	Joseph, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432678	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	0	1432677	Blair, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432677	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	0	1540431	Wright, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540431	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	0	1540434	Metheny, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1540434	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	0	1432674	West, Teddy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1432674	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	0		Totals		true	""	1	37	9	15	5	0	0	1	9	7	1	1	2	10	1	0	1	0
+3775244	1	1644904	Hall, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644904	true	CF	1	1	4	1	0	1	0	0	0	5	0	0	0	0	0	2	0	0
+3775244	1	1533414	Comer, Ty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533414	true	1B	1	4	1	1	0	0	0	0	2	1	0	1	0	1	0	0	0	0
+3775244	1	1089528	Duncan, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1089528	true	LF	1	5	3	5	0	0	0	0	1	0	1	0	0	0	0	2	0	0
+3775244	1	1533412	Winkles, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1533412	true	RF	1	3	1	0	0	0	0	0	2	0	2	1	0	0	0	0	0	0
+3775244	1	1317823	Parsley, Hank	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317823	true	C	1	4	2	2	1	0	0	0	2	0	0	0	1	0	0	0	0	0
+3775244	1	1644936	Reynolds, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644936	false	DH	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+3775244	1	1644920	Hamlett, Trey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644920	false	PR	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+3775244	1	1644926	Ward, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644926	true	DH	1	2	1	1	1	0	0	0	3	0	0	1	0	1	0	0	0	0
+3775244	1	1431779	Reynolds, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431779	true	2B	1	3	1	2	0	0	0	0	1	1	0	0	1	0	0	0	0	0
+3775244	1	1431770	Massie, Clay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431770	false	PH	1	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+3775244	1	1644922	Holland, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644922	true	SS	1	3	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0
+3775244	1	1644925	Koutsoukos, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644925	true	3B	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1	1644928	Brown, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644928	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1	1644933	Alexander, Cliff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644933	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1	1431785	Torres, Manny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431785	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1	1431764	Davis, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1431764	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1	1644934	Belcher, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1644934	false	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1	1317827	Metz, Javin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1317827	true	P	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3775244	1		Totals		true	""	1	32	14	12	2	1	0	0	13	8	3	3	3	4	1	4	0	0
