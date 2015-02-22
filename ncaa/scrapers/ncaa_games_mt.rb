@@ -35,13 +35,15 @@ end
 n = schools.size
 gpt = (n.to_f/nthreads.to_f).ceil
 
-first_year = 2014
-last_year = 2014
+first_year = 1997
+last_year = 2013
 
 (first_year..last_year).each do |year|
 
-  ncaa_games = CSV.open("csv/ncaa_games_mt_#{year}.csv","w",{:col_sep => "|"})
-  ncaa_records = CSV.open("csv/ncaa_records_mt_#{year}.csv","w",{:col_sep => "|"})
+  ncaa_games = CSV.open("csv/ncaa_games_mt_#{year}.csv",
+                        "w", {:col_sep => ","})
+  ncaa_records = CSV.open("csv/ncaa_records_mt_#{year}.csv",
+                          "w", {:col_sep => ","})
 
   ncaa_games << games_header
   ncaa_records << records_header

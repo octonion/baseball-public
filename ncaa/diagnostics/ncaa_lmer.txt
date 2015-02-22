@@ -1,0 +1,15 @@
+[1] 945500      8
+[1] TRUE
+[1] 945500      8
+start par. =  1 1 1 fn =  1889608 
+At return
+eval:  86 fn:      1870521.6 par: 0.451003 0.409592 0.151523
+Analysis of Variance Table
+      Df  Sum Sq Mean Sq  F value
+year  12  125.22   10.43   26.324
+field  2 1210.65  605.32 1527.060
+h_div  2  142.25   71.13  179.432
+p_div  2  648.30  324.15  817.732
+       chisq        ratio          rdf            p 
+3.663583e+05 3.874847e-01 9.454780e+05 1.000000e+00 
+[1] TRUE

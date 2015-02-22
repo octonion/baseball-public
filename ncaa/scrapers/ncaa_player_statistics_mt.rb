@@ -32,7 +32,7 @@ last_year = 2014
 
 (first_year..last_year).each do |year|
 
-  ncaa_player_statistics = CSV.open("csv/ncaa_player_statistics_mt_#{year}.csv","w",{:col_sep => "|"})
+  ncaa_player_statistics = CSV.open("csv/ncaa_player_statistics_mt_#{year}.csv","w", {:col_sep => ","})
 
   header = ["team_name", "team_id", "year", "player_name", "player_id",
             "class_year", "season_year", "position",

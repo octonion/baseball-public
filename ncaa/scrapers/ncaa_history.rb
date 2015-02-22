@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby1.9.1
+#!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
 require 'csv'
@@ -17,15 +17,15 @@ agent.get(url)
 
 schools = CSV.read("csv/ncaa_schools.csv")
 
-nicknames = CSV.open("ncaa_nicknames.csv","w")
-colors = CSV.open("ncaa_colors.csv","w")
-locations = CSV.open("ncaa_locations.csv","w")
-history = CSV.open("ncaa_history.csv","w")
+nicknames = CSV.open("csv/ncaa_nicknames.csv","w")
+colors = CSV.open("csv/ncaa_colors.csv","w")
+locations = CSV.open("csv/ncaa_locations.csv","w")
+history = CSV.open("csv/ncaa_history.csv","w")
 
 team_count = 0
 season_count = 0
 
-year = 2011
+year = 2015
 
 schools.each do |school|
   school_id = school[0]

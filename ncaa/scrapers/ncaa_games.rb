@@ -21,8 +21,8 @@ last_year = 2014
 
 (first_year..last_year).each do |year|
 
-  games = CSV.open("csv/ncaa_games_#{year}.csv","w")
-  records = CSV.open("csv/ncaa_records_#{year}.csv","w")
+  games = CSV.open("csv/ncaa_games_#{year}.csv", "w")
+  records = CSV.open("csv/ncaa_records_#{year}.csv", "w")
 
   team_count = 0
   game_count = 0
