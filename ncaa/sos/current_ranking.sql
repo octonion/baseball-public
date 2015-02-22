@@ -57,7 +57,7 @@ order by rk asc;
 --select
 --rk,school,div_id as div,str,park,ofs,dfs,sos
 --from r
---where year in (2014)
+--where year in (2015)
 --where div_id=2
 --and park < 0.881
 --and div_id=3

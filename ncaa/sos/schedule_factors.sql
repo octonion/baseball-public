@@ -105,7 +105,7 @@ join ncaa.schools_divisions sd
   on (sd.school_id,sd.year)=(r.school_id,r.year)
 join ncaa.schools_divisions od
   on (od.school_id,od.year)=(r.opponent_id,r.year)
-where r.year between 2002 and 2014
+where r.year between 2002 and 2015
 );
 
 update public.r

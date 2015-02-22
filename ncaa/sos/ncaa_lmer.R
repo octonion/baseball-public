@@ -31,7 +31,7 @@ from ncaa.results r
 --join ncaa.divisions dp
 --  on (dp.school_name)=(r.opponent_name)
 where
-    r.year between 2002 and 2014
+    r.year between 2002 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.school_score>=0

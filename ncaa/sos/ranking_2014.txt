@@ -1,0 +1,8 @@
+BEGIN
+CREATE TABLE
+INSERT 0 542
+ rk | school | div | str | park | ofs | dfs | sos 
+----+--------+-----+-----+------+-----+-----+-----
+(0 rows)
+
+COMMIT

@@ -45,6 +45,6 @@ create table ncaa.player_statistics (
 	p_era				text
 );
 
-copy ncaa.player_statistics from '/tmp/ncaa_player_statistics.csv' with delimiter as ',' csv quote as '"';
+copy ncaa.player_statistics from '/tmp/ncaa_player_statistics.csv' with delimiter as '|' csv quote as '"';
 
 commit;

@@ -15,17 +15,17 @@ create table ncaa.schools_divisions (
 	primary key (school_id,year)
 );
 
-copy ncaa.schools_divisions from '/tmp/ncaa_schools_divisions.csv' with delimiter as ',' csv quote as '"';
+copy ncaa.schools_divisions from '/tmp/ncaa_divisions.csv' with delimiter as ',' csv quote as '"';
 
--- Temporary fix for 2014
+-- Temporary fix for 2015
 
 insert into ncaa.schools_divisions
 (sport_code,school_name,school_id,pulled_name,javascript,year,div_id,school_year,sport,division)
 (
-select sport_code,school_name,school_id,pulled_name,javascript,2014,div_id,school_year,sport,division
+select sport_code,school_name,school_id,pulled_name,javascript,2015,div_id,school_year,sport,division
 from ncaa.schools_divisions
-where year=2013
-and (school_id,2014) not in
+where year=2014
+and (school_id,2015) not in
 (select school_id,year from ncaa.schools_divisions)
 );
 

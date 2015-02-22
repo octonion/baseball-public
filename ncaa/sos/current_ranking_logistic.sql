@@ -35,7 +35,7 @@ join ncaa._factors_logistic h
   on (h.parameter,h.level::integer)=('h_div',length(t.division)::integer)
 join ncaa._factors_logistic p
   on (p.parameter,p.level::integer)=('p_div',length(t.division)::integer)
-where sf.year in (2014)
+where sf.year in (2015)
 --and t.division='I'
 order by str desc);
 --order by sos desc);
@@ -45,14 +45,14 @@ select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,ofs,dfs,sos
 from r
-where year in (2014)
+where year in (2015)
 and div_id=1
 order by rk asc;
 
 --select
 --rk,school,div_id as div,str,ofs,dfs,sos
 --from r
---where year in (2014)
+--where year in (2015)
 --where div_id=2
 --and div_id=3
 --order by rk asc;

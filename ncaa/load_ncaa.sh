@@ -27,6 +27,6 @@ cp csv/ncaa_schools.csv /tmp/ncaa_schools.csv
 psql baseball -f loaders/load_ncaa_schools.sql
 rm /tmp/ncaa_schools.csv
 
-cp csv/ncaa_schools_divisions.csv /tmp/ncaa_schools_divisions.csv
-psql baseball -f loaders/load_ncaa_schools_divisions.sql
-rm /tmp/ncaa_schools_divisions.csv
+cp csv/ncaa_divisions.csv /tmp/ncaa_divisions.csv
+psql baseball -f loaders/load_ncaa_divisions.sql
+rm /tmp/ncaa_divisions.csv

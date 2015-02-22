@@ -21,7 +21,7 @@ r.opponent_div_id as p_div,
       else 0.5 end) as outcome
 from ncaa.results r
 where
-    r.year between 2002 and 2014
+    r.year between 2002 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.school_score>=0

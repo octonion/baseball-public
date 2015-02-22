@@ -1,15 +1,143 @@
-[1] 945500      8
+[1] 1036134       8
 [1] TRUE
-[1] 945500      8
-start par. =  1 1 1 fn =  1889608 
+[1] 1036134       8
+start par. =  1 1 1 fn =  2071577 
 At return
-eval:  86 fn:      1870521.6 par: 0.451003 0.409592 0.151523
+eval: 135 fn:      2051099.7 par: 0.447480 0.407072 0.154441
+Linear mixed model fit by maximum likelihood  ['lmerMod']
+Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
+    (1 | defense)
+   Data: g
+     AIC      BIC   logLik deviance df.resid 
+ 2051148  2051432 -1025550  2051100  1036110 
+Random effects:
+ Groups   Name        Std.Dev.
+ defense  (Intercept) 0.28199 
+ offense  (Intercept) 0.25653 
+ park     (Intercept) 0.09732 
+ Residual             0.63017 
+Number of obs: 1036134, groups:  defense, 12317; offense, 12317; park, 977
+Fixed Effects:
+       (Intercept)            year2003            year2004            year2005  
+           1.80058            -0.02698            -0.01839            -0.02700  
+          year2006            year2007            year2008            year2009  
+          -0.02978            -0.02312             0.02932             0.06258  
+          year2010            year2011            year2012            year2013  
+           0.08019            -0.09386            -0.09841            -0.13251  
+          year2014            year2015           fieldnone  fieldpitching_home  
+          -0.14824            -0.08333            -0.02324            -0.07993  
+            h_div2              h_div3              p_div2              p_div3  
+          -0.15116            -0.30205             0.15201             0.27747  
+Linear mixed model fit by maximum likelihood  ['lmerMod']
+Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
+    (1 | defense)
+   Data: g
+
+     AIC      BIC   logLik deviance df.resid 
+ 2051148  2051432 -1025550  2051100  1036110 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.1552 -0.5809  0.1171  0.7016  4.1397 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ defense  (Intercept) 0.079518 0.28199 
+ offense  (Intercept) 0.065806 0.25653 
+ park     (Intercept) 0.009472 0.09732 
+ Residual             0.397119 0.63017 
+Number of obs: 1036134, groups:  defense, 12317; offense, 12317; park, 977
+
+Fixed effects:
+                    Estimate Std. Error t value
+(Intercept)         1.800580   0.015195  118.50
+year2003           -0.026984   0.018895   -1.43
+year2004           -0.018390   0.018854   -0.98
+year2005           -0.026999   0.018825   -1.43
+year2006           -0.029783   0.018709   -1.59
+year2007           -0.023115   0.018679   -1.24
+year2008            0.029315   0.018622    1.57
+year2009            0.062576   0.018597    3.36
+year2010            0.080189   0.018553    4.32
+year2011           -0.093862   0.018538   -5.06
+year2012           -0.098408   0.018505   -5.32
+year2013           -0.132514   0.018501   -7.16
+year2014           -0.148244   0.018492   -8.02
+year2015           -0.083330   0.023255   -3.58
+fieldnone          -0.023242   0.097400   -0.24
+fieldpitching_home -0.079931   0.001411  -56.66
+h_div2             -0.151158   0.006613  -22.86
+h_div3             -0.302048   0.008968  -33.68
+p_div2              0.152012   0.007895   19.25
+p_div3              0.277467   0.008415   32.97
+
+Correlation of Fixed Effects:
+            (Intr) yr2003 yr2004 yr2005 yr2006 yr2007 yr2008 yr2009 yr2010
+year2003    -0.628                                                        
+year2004    -0.629  0.507                                                 
+year2005    -0.630  0.508  0.509                                          
+year2006    -0.633  0.511  0.512  0.513                                   
+year2007    -0.633  0.512  0.513  0.514  0.517                            
+year2008    -0.635  0.513  0.514  0.515  0.518  0.519                     
+year2009    -0.636  0.514  0.515  0.516  0.519  0.520  0.522              
+year2010    -0.637  0.515  0.516  0.517  0.520  0.521  0.523  0.524       
+year2011    -0.637  0.515  0.517  0.517  0.521  0.522  0.523  0.524  0.525
+year2012    -0.638  0.516  0.518  0.518  0.522  0.523  0.524  0.525  0.526
+year2013    -0.638  0.516  0.518  0.519  0.522  0.523  0.524  0.525  0.526
+year2014    -0.638  0.517  0.518  0.519  0.522  0.523  0.525  0.525  0.527
+year2015    -0.523  0.411  0.412  0.412  0.415  0.416  0.417  0.417  0.418
+fieldnone   -0.007  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+fldptchng_h -0.047  0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000
+h_div2      -0.260  0.000  0.000  0.000 -0.001 -0.002 -0.002 -0.002 -0.002
+h_div3      -0.183 -0.001 -0.002 -0.002 -0.005 -0.005 -0.006 -0.006 -0.007
+p_div2      -0.232 -0.002 -0.003 -0.003 -0.005 -0.007 -0.008 -0.007 -0.008
+p_div3      -0.231 -0.002 -0.002 -0.004 -0.005 -0.005 -0.006 -0.006 -0.007
+            yr2011 yr2012 yr2013 yr2014 yr2015 fildnn fldpt_ h_div2 h_div3
+year2003                                                                  
+year2004                                                                  
+year2005                                                                  
+year2006                                                                  
+year2007                                                                  
+year2008                                                                  
+year2009                                                                  
+year2010                                                                  
+year2011                                                                  
+year2012     0.527                                                        
+year2013     0.527  0.528                                                 
+year2014     0.527  0.528  0.529                                          
+year2015     0.419  0.420  0.420  0.420                                   
+fieldnone    0.000  0.000  0.000  0.000  0.000                            
+fldptchng_h  0.000  0.000  0.000  0.000  0.001  0.007                     
+h_div2      -0.001 -0.002 -0.003 -0.003  0.006  0.000 -0.022              
+h_div3      -0.007 -0.007 -0.006 -0.006  0.011  0.000 -0.025  0.604       
+p_div2      -0.009 -0.012 -0.013 -0.013  0.002  0.001  0.019 -0.157 -0.135
+p_div3      -0.007 -0.008 -0.007 -0.008  0.046  0.000  0.028 -0.170 -0.243
+            p_div2
+year2003          
+year2004          
+year2005          
+year2006          
+year2007          
+year2008          
+year2009          
+year2010          
+year2011          
+year2012          
+year2013          
+year2014          
+year2015          
+fieldnone         
+fldptchng_h       
+h_div2            
+h_div3            
+p_div2            
+p_div3       0.574
 Analysis of Variance Table
       Df  Sum Sq Mean Sq  F value
-year  12  125.22   10.43   26.324
-field  2 1210.65  605.32 1527.060
-h_div  2  142.25   71.13  179.432
-p_div  2  648.30  324.15  817.732
+year  13  146.80   11.29   28.436
+field  2 1342.57  671.28 1690.383
+h_div  2  280.30  140.15  352.916
+p_div  2  431.81  215.91  543.682
        chisq        ratio          rdf            p 
-3.663583e+05 3.874847e-01 9.454780e+05 1.000000e+00 
+4.023119e+05 3.882904e-01 1.036111e+06 1.000000e+00 
 [1] TRUE

@@ -16,7 +16,7 @@ left join ncaa.schools_divisions o
 where
     t.division<=o.division
 --and r.school_id < r.opponent_id
-and r.year between 2008 and 2014
+and r.year between 2008 and 2015
 group by r.year,t.division,o.division
 order by r.year,t.division,o.division;
 
