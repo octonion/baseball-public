@@ -29,6 +29,8 @@ create table ncaa.records (
 
 copy ncaa.games from '/tmp/games.csv' with delimiter as ',' csv quote as '"';
 
+alter table ncaa.games add column game_id serial primary key;
+
 --copy ncaa.records from '/home/clong/tools/data_agents/ncaa/records/ncaa_records_2011.csv' with delimiter as ',' csv quote as '"';
 
 commit;

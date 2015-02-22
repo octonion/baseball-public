@@ -9,6 +9,7 @@ con <- dbConnect(drv,host="localhost",port="5432",dbname="baseball")
 
 query <- dbSendQuery(con, "
 select
+r.game_id,
 r.year,
 r.park_id as park,
 r.field as field,
@@ -73,6 +74,7 @@ fpn <- names(fp)
 park <- as.factor(park)
 offense <- as.factor(paste(year,"/",school,sep=""))
 defense <- as.factor(paste(year,"/",opponent,sep=""))
+game_id <- as.factor(game_id)
 
 rp <- data.frame(park,offense,defense)
 rpn <- names(rp)
@@ -104,12 +106,16 @@ g$log_rs <- log_rs
 
 dim(g)
 
-model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
+model0 <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
+fit0 <- lmer(model0, data=g, REML=FALSE, verbose=TRUE)
 
-fit <- lmer(model,data=g, REML=FALSE, verbose=TRUE)
+model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)+(1|game_id)
+fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
+
 fit
 summary(fit)
 anova(fit)
+anova(fit0,fit)
 
 overdisp_fun <- function(model) {
   ## number of variance parameters in 

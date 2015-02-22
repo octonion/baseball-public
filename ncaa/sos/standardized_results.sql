@@ -3,6 +3,7 @@ begin;
 drop table if exists ncaa.results;
 
 create table ncaa.results (
+	game_id		      integer,
 	game_date	      date,
 	year		      integer,
 	school_name	      text,
@@ -19,13 +20,14 @@ create table ncaa.results (
 );
 
 insert into ncaa.results
-(game_date,year,
+(game_id,game_date,year,
  school_name,school_id,
  opponent_name,opponent_id,
  park_name,park_id,field,
  school_score,opponent_score)
 (
 select
+game_id,
 game_date::date,
 extract(year from game_date::date),
 trim(both from school_name),
@@ -66,9 +68,12 @@ opponent_id,
 );
 
 insert into ncaa.results
-(game_date,year,school_name,school_id,opponent_name,opponent_id,park_name,park_id,field,
+(game_id,game_date,year,
+school_name,school_id,
+opponent_name,opponent_id,park_name,park_id,field,
  school_score,opponent_score)
 (select
+ game_id,
  game_date::date,
  extract(year from game_date::date),
  trim(both from opponent_name),
