@@ -114,13 +114,13 @@ school_id,
 );
 
 update ncaa.results
-set school_div_id=length(sd.division)
+set school_div_id=sd.div_id
 from ncaa.schools_divisions sd
-where sd.school_id=results.school_id;
+where (sd.school_id,sd.year)=(results.school_id,results.year);
 
 update ncaa.results
-set opponent_div_id=length(sd.division)
+set opponent_div_id=sd.div_id
 from ncaa.schools_divisions sd
-where sd.school_id=results.opponent_id;
+where (sd.school_id,sd.year)=(results.opponent_id,results.year);
 
 commit;

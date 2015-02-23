@@ -33,17 +33,20 @@ defensive::numeric(4,3) as dfs,
 --(offensive*h.exp_factor)::numeric(4,3) as ofs,
 --(defensive*p.exp_factor)::numeric(4,3) as dfs,
 schedule_strength::numeric(4,3) as sos
-from ncaa._schedule_factors sf
+from ncaa._zim_schedule_factors sf
 join ncaa.schools_divisions t
   on (t.school_id,t.year)=(sf.school_id,sf.year)
-join ncaa._factors h
+join ncaa._zim_factors h
   on (h.parameter,h.level::integer)=('h_div',length(t.division)::integer)
-join ncaa._factors p
+join ncaa._zim_factors p
   on (p.parameter,p.level::integer)=('p_div',length(t.division)::integer)
 where sf.year in (2014)
+--and t.division='I'
 order by str desc);
+--order by sos desc);
 
 select
+
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
@@ -51,20 +54,13 @@ where year in (2014)
 and div_id=1
 order by rk asc;
 
-select
-rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
-from r
-where year in (2014)
-and div_id=2
-order by rk asc;
-
-select
-rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
-from r
-where year in (2014)
-and div_id=3
-order by rk asc;
+--select
+--rk,school,div_id as div,str,park,ofs,dfs,sos
+--from r
+--where year in (2014)
+--where div_id=2
+--and park < 0.881
+--and div_id=3
+--order by rk asc;
 
 commit;
