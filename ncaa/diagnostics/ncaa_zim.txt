@@ -1,3 +1,67 @@
 [1] 68306     9
 [1] TRUE
 [1] 68306     7
+
+GLMM's in R powered by AD Model Builder:
+
+  Family: nbinom 
+  alpha = 4.0937 
+  link = log 
+  Zero inflation: p = 0.0091921 
+
+Fixed effects:
+  Log-likelihood: -174413 
+  AIC: 348846 
+  Formula: rs ~ year + field + (1 | park) + (1 | offense) + (1 | defense) 
+       (Intercept)           year2014           year2015          fieldnone 
+        1.66104755        -0.03256247         0.02307951        -0.06703436 
+fieldpitching_home 
+       -0.08466290 
+
+Random effects:
+Structure: Diagonal matrix
+Group=park
+            Variance StdDev
+(Intercept)  0.01855 0.1362
+Group=offense
+            Variance StdDev
+(Intercept)  0.05001 0.2236
+Group=defense
+            Variance StdDev
+(Intercept)  0.06976 0.2641
+
+Number of observations: total=68306, park=303, offense=873, defense=873
+
+Call:
+glmmadmb(formula = model, data = g, family = "nbinom", zeroInflation = TRUE, 
+    verbose = TRUE, extra.args = "-ndi 120000 -rs")
+
+AIC: 348846 
+
+Coefficients:
+                   Estimate Std. Error z value Pr(>|z|)    
+(Intercept)          1.6610     0.0221   75.10   <2e-16 ***
+year2014            -0.0326     0.0288   -1.13     0.26    
+year2015             0.0231     0.0328    0.70     0.48    
+fieldnone           -0.0670     0.1368   -0.49     0.62    
+fieldpitching_home  -0.0847     0.0060  -14.12   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Number of observations: total=68306, park=303, offense=873, defense=873 
+Random effect variance(s):
+Group=park
+            Variance StdDev
+(Intercept)  0.01855 0.1362
+Group=offense
+            Variance StdDev
+(Intercept)  0.05001 0.2236
+Group=defense
+            Variance StdDev
+(Intercept)  0.06976 0.2641
+
+Negative binomial dispersion parameter: 4.0937 (std. err.: 0.051961)
+Zero-inflation: 0.0091921  (std. err.:  0.0010564 )
+
+Log-likelihood: -174413 
+[1] TRUE
