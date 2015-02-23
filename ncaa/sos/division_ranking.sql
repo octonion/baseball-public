@@ -2,21 +2,21 @@ begin;
 
 create temporary table r (
        school_id	 integer,
-       div	 text,
-       year	 integer,
-       str	 numeric(4,3),
-       park	 numeric(4,3),
-       ofs	 numeric(4,3),
-       dfs	 numeric(4,3),
-       sos	 numeric(4,3)
+       d	 	 integer,
+       year	 	 integer,
+       str	 	 numeric(4,3),
+       park	 	 numeric(4,3),
+       ofs	 	 numeric(4,3),
+       dfs	 	 numeric(4,3),
+       sos	 	 numeric(4,3)
 );
 
 insert into r
-(school_id,div,year,str,park,ofs,dfs,sos)
+(school_id,d,year,str,park,ofs,dfs,sos)
 (
 select
 t.school_id,
-t.division as div,
+t.div_id as d,
 sf.year,
 (sf.strength*h.exp_factor/p.exp_factor)::numeric(4,3) as str,
 park::numeric(4,3) as park,
@@ -27,10 +27,10 @@ from ncaa._schedule_factors sf
 left outer join ncaa.schools_divisions t
   on (t.school_id,t.year)=(sf.school_id,sf.year)
 left outer join ncaa._factors h
-  on (h.parameter,h.level::integer)=('h_div',length(t.division))
+  on (h.parameter,h.level::integer)=('h_div',t.div_id)
 left outer join ncaa._factors p
-  on (p.parameter,p.level::integer)=('p_div',length(t.division))
-where sf.year in (2015)
+  on (p.parameter,p.level::integer)=('p_div',t.div_id)
+where sf.year in (2014)
 and t.school_id is not null
 order by str desc);
 
@@ -48,7 +48,7 @@ order by year asc;
 
 select
 year,
-div,
+d,
 exp(avg(log(str)))::numeric(4,3) as str,
 exp(avg(log(park)))::numeric(4,3) as park,
 exp(avg(log(ofs)))::numeric(4,3) as ofs,
@@ -61,12 +61,12 @@ exp(avg(log(sos)))::numeric(4,3) as sos,
 --avg(sos)::numeric(4,3) as sos,
 count(*) as n
 from r
-where div is not null
-group by year,div
+where d is not null
+group by year,d
 order by year asc,str desc;
 
 select * from r
-where div is null
-and year=2015;
+where d is null
+and year=2014;
 
 commit;
