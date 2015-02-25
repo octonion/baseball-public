@@ -7,15 +7,15 @@ require "json"
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = "Mozilla/5.0"
 
-results = CSV.open("games_2014.csv","w")
+results = CSV.open("games_2015.csv","w")
 
 #divisions = ["d1","d2","d3"]
 divisions = ["d1"]
 
 #game_date = Date::strptime(testdate, "%d-%m-%Y")
 
-date_start = Date.new(2014,2,14)
-date_end = Date.new(2014,6,30)
+date_start = Date.new(2015,2,13)
+date_end = Date.today
 
 for div_date in divisions.product(Array(date_start..date_end)) do
 
@@ -91,11 +91,26 @@ for div_date in divisions.product(Array(date_start..date_end)) do
 
       end
 
+      gameinfo = row["gameinfo"].to_json
+      if (gameinfo=='null')
+        gameinfo=nil
+      end
+
+      boxscore = row["boxscore"].to_json
+      if (boxscore=='null')
+        boxscore=nil
+      end
+
+      pbp = row["play-by-play"].to_json
+      if (pbp=='null')
+        pbp=nil
+      end
+
       results << [game_id,
                   game_date,
-                  row["gameinfo"].to_json,
-                  row["boxscore"].to_json,
-                  row["play-by-play"].to_json]
+                  gameinfo,
+                  boxscore,
+                  pbp]
 
     end
 

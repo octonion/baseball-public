@@ -1,8 +1,8 @@
-drop schema if exists ncaa_json cascade;
+--drop schema if exists ncaa_json cascade;
 
-create schema ncaa_json;
+create schema if not exists ncaa_json;
 
-create table ncaa_json.games (
+create table if not exists ncaa_json.games (
        game_id		     integer,
        game_date	     date,
        gameinfo		     jsonb,
@@ -12,4 +12,6 @@ create table ncaa_json.games (
 --       primary key (game_id,game_date)
 );
 
-copy ncaa_json.games from '/tmp/games_2014.csv' csv;
+truncate table ncaa_json.games;
+
+copy ncaa_json.games from '/tmp/games.csv' csv;

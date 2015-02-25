@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp games_2014.csv /tmp/games_2014.csv
+cp games_2015.csv /tmp/games.csv
 psql baseball -f load_ncaa_json.sql
-rm /tmp/games_2014.csv
+rm /tmp/games.csv
