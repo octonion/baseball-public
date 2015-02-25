@@ -11,7 +11,7 @@ base_url = 'http://www.dakstats.com/WebSync/Pages/MultiTeam/Division.aspx?associ
 #'&sea=NAIMBA_2014'
 path = '//*[(@id = "ctl00_websyncContentPlaceHolder_conferenceDataList")]//a'
 
-first_year = 2004
+first_year = 2015
 last_year = 2015
 
 conference_header = ["conference_id", "year", "conference_name"]
