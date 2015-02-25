@@ -43,8 +43,8 @@ header = ["division_id","sent_date","pulled_date",
 
 today = Date.today
 
-first_year = 2012
-last_year = 2012
+first_year = 2008
+last_year = 2008
 #last_year = today.year
 
 (first_year..last_year).each do |year|
