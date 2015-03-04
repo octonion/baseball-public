@@ -35,8 +35,8 @@ end
 n = schools.size
 gpt = (n.to_f/nthreads.to_f).ceil
 
-first_year = 1997
-last_year = 2013
+first_year = 2015
+last_year = 2015
 
 (first_year..last_year).each do |year|
 
