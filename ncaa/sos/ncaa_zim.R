@@ -30,14 +30,14 @@ from ncaa.results r
 --join ncaa.divisions dp
 --  on (dp.school_name)=(r.opponent_name)
 where
-    r.year between 2013 and 2015
+    r.year between 2002 and 2015
 and r.school_div_id is not null
 and r.opponent_div_id is not null
 and r.school_score>=0
 and r.opponent_score>=0
 and not(r.school_score,r.opponent_score)=(0,0)
-and r.school_div_id in (1)
-and r.opponent_div_id in (1)
+--and r.school_div_id in (1)
+--and r.opponent_div_id in (1)
 --group by year,park,field,school,opponent,h_div,p_div,dow,day
 --order by year,park,field,school,opponent,h_div,p_div
 ;")
@@ -94,9 +94,10 @@ g <- cbind(fp,rp)
 
 dim(g)
 
-#model <- rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
-model <- rs ~ year+field+(1|park)+(1|offense)+(1|defense)
-fit <- glmmadmb(model, data=g, zeroInflation=TRUE, family="nbinom", verbose=TRUE, extra.args="-ndi 120000 -rs")
+#model <- rs ~ year+field+(1|park)+(1|offense)+(1|defense)
+model <- rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)
+
+fit <- glmmadmb(model, data=g, zeroInflation=TRUE, family="nbinom", verbose=TRUE, extra.args="-ndi 1000000 -rs")
 
 fit
 summary(fit)
