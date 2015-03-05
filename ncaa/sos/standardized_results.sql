@@ -29,7 +29,8 @@ insert into ncaa.results
 select
 game_id,
 game_date::date,
-extract(year from game_date::date),
+--extract(year from game_date::date),
+g.year,
 trim(both from school_name),
 school_id,
 trim(both from opponent_name),
@@ -64,7 +65,7 @@ opponent_id,
  and not((g.school_score,g.opponent_score)=(0,0))
  and g.school_id is not NULL
  and g.opponent_id is not NULL
- and not(g.game_date is null)
+-- and not(g.game_date is null)
 );
 
 insert into ncaa.results
@@ -75,7 +76,8 @@ opponent_name,opponent_id,park_name,park_id,field,
 (select
  game_id,
  game_date::date,
- extract(year from game_date::date),
+-- extract(year from game_date::date),
+ g.year,
  trim(both from opponent_name),
 opponent_id,
  trim(both from school_name),
@@ -110,7 +112,7 @@ school_id,
  and not((g.school_score,g.opponent_score)=(0,0))
  and g.school_id is not NULL
  and g.opponent_id is not NULL
- and not(g.game_date is null)
+-- and not(g.game_date is null)
 );
 
 update ncaa.results
