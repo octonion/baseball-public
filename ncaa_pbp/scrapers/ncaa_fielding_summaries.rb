@@ -13,8 +13,8 @@ year = ARGV[0]
 division = ARGV[1]
 
 ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("csv/ncaa_player_hitting_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("csv/ncaa_team_hitting_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_player_summaries = CSV.open("csv/ncaa_player_fielding_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_team_summaries = CSV.open("csv/ncaa_team_fielding_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Headers for files
 
@@ -38,7 +38,7 @@ ncaa_team_summaries << ["year", "year_id", "division_id",
 "ab", "r", "h", "d", "t", "tb", "hr", "rbi", "bb", "hbp",
 "sf", "sh", "k", "dp", "sb", "cs", "picked"]
 
-year_stat_id = 10780
+year_stat_id = 10782
 
 # Base URL for relative team links
 

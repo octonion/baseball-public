@@ -13,8 +13,8 @@ year = ARGV[0]
 division = ARGV[1]
 
 ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("csv/ncaa_player_hitting_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("csv/ncaa_team_hitting_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_player_summaries = CSV.open("csv/ncaa_player_hitting_summaries_vs_lhp_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_team_summaries = CSV.open("csv/ncaa_team_hitting_summaries_vs_lhp_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Headers for files
 
@@ -40,6 +40,12 @@ ncaa_team_summaries << ["year", "year_id", "division_id",
 
 year_stat_id = 10780
 
+#year_stat_category_id=10780
+
+available_stat_id=10288
+
+#http://stats.ncaa.org/team/stats/12080?org_id=110&year_stat_category_id=10780&available_stat_id=10281
+
 # Base URL for relative team links
 
 base_url = 'http://stats.ncaa.org'
@@ -57,7 +63,9 @@ ncaa_teams.each do |team|
 
   teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats/#{year_id}?org_id=#{team_id}&year_stat_category_id=#{year_stat_id}"
+  stat_url = "http://stats.ncaa.org/team/stats/#{year_id}?org_id=#{team_id}&year_stat_category_id=#{year_stat_id}&available_stat_id=#{available_stat_id}"
+
+  #http://stats.ncaa.org/team/stats/12080?org_id=110&year_stat_category_id=10780&available_stat_id=10281
 
   #stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
 
