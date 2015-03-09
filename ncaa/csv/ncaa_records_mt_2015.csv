@@ -1,944 +1,944 @@
 year,team_id,team_name,wins,losses,ties,total_games
 2015,145,Clark (MA),1,3,30,34
-2015,689,Tampa,15,3,30,48
 2015,419,Middle Tenn.,7,2,45,54
-2015,26172,A&M-Corpus Chris,6,4,43,53
 2015,144,Clark Atlanta,0,10,22,32
+2015,26172,A&M-Corpus Chris,6,4,43,53
 2015,420,Middlebury,0,0,34,34
+2015,689,Tampa,15,3,30,48
 2015,2,Abilene Christian,1,9,48,58
-2015,557,Puget Sound,6,5,27,38
-2015,30029,Purchase,0,0,32,32
-2015,276,Haverford,0,0,41,41
-2015,559,Purdue,5,9,42,56
 2015,30123,Academy of Art,3,13,29,45
 2015,929,Adams St.,6,7,37,50
-2015,1395,Tarleton St.,7,6,28,41
+2015,146,Clarkson,0,0,39,39
+2015,276,Haverford,0,0,41,41
 2015,277,Hawaii,6,9,38,53
 2015,2697,Hawaii Hilo,5,8,34,47
-2015,2696,Hawaii Pacific,11,2,34,47
-2015,712,TCNJ,0,0,38,38
 2015,3,Adelphi,0,0,43,43
-2015,698,TCU,9,2,43,54
+2015,2696,Hawaii Pacific,11,2,34,47
 2015,4,Adrian,1,2,33,36
-2015,278,Heidelberg,0,0,41,41
-2015,146,Clarkson,0,0,39,39
-2015,422,Miles,3,8,25,36
-2015,423,Millersville,9,2,41,52
-2015,694,Tennessee,5,5,41,51
-2015,560,Queens (NY),0,0,44,44
-2015,561,Quincy,2,1,46,49
-2015,721,Air Force,5,8,40,53
-2015,1123,Henderson St.,11,4,30,45
-2015,562,Quinnipiac,2,5,46,53
-2015,5,Akron,7,5,42,54
-2015,1124,Hendrix,4,4,28,36
-2015,563,Radford,6,7,43,56
-2015,10,Ala.-Huntsville,12,1,33,46
-2015,19651,High Point,3,8,40,51
-2015,564,Ramapo,2,0,40,42
-2015,8,Alabama,9,6,41,56
-2015,8398,Hilbert,0,0,38,38
-2015,6,Alabama A&M,9,6,40,55
-2015,280,Hillsdale,3,5,41,49
-2015,7,Alabama St.,5,5,38,48
-2015,281,Hiram,0,0,37,37
 2015,147,Clemson,8,6,42,56
-2015,424,Millikin,0,0,40,40
-2015,692,Tennessee Tech,5,7,41,53
-2015,565,Randolph-Macon,7,0,26,33
-2015,567,Redlands,8,5,27,40
-2015,30090,Tex. A&M Int'l,7,10,34,51
-2015,568,Regis (CO),5,9,38,52
-2015,426,Millsaps,5,3,30,38
+2015,1395,Tarleton St.,7,6,28,41
+2015,557,Puget Sound,6,5,27,38
+2015,721,Air Force,5,8,40,53
+2015,278,Heidelberg,0,0,41,41
+2015,5,Akron,7,5,42,54
+2015,30029,Purchase,0,0,32,32
+2015,10,Ala.-Huntsville,12,1,33,46
+2015,8,Alabama,9,6,41,56
+2015,559,Purdue,5,9,42,56
+2015,6,Alabama A&M,9,6,40,55
+2015,7,Alabama St.,5,5,38,48
 2015,722,Coast Guard,1,0,33,34
-2015,570,Rensselaer,0,2,32,34
-2015,797,Milwaukee,8,3,42,53
-2015,696,Tex. A&M-Kingsville,10,7,35,52
-2015,283,Hofstra,2,6,37,45
-2015,427,Minn. Duluth,0,0,46,46
-2015,572,Rhode Island,1,5,45,51
+2015,1123,Henderson St.,11,4,30,45
 2015,149,Coastal Caro.,9,6,40,55
+2015,712,TCNJ,0,0,38,38
+2015,1124,Hendrix,4,4,28,36
+2015,422,Miles,3,8,25,36
+2015,19651,High Point,3,8,40,51
+2015,698,TCU,9,2,43,54
+2015,423,Millersville,9,2,41,52
+2015,8398,Hilbert,0,0,38,38
+2015,280,Hillsdale,3,5,41,49
+2015,281,Hiram,0,0,37,37
+2015,150,Coe,0,0,38,38
+2015,1023,Coker,5,8,32,45
+2015,694,Tennessee,5,5,41,51
 2015,14,Albany (NY),1,5,43,49
-2015,383,Minn. St. Mankato,4,0,40,44
-2015,571,Rhode Island Col.,0,0,42,42
-2015,30088,Tex. Permian Basin,11,4,30,45
 2015,13,Albany St. (GA),2,12,27,41
-2015,573,Rhodes,10,2,27,39
+2015,283,Hofstra,2,6,37,45
+2015,424,Millikin,0,0,40,40
 2015,2798,Albertus Magnus,0,0,34,34
-2015,574,Rice,9,6,39,54
+2015,1014,Col. of Charleston,8,4,44,56
 2015,15,Albion,0,0,39,39
-2015,575,Richmond,6,3,46,55
 2015,16,Albright,0,0,36,36
 2015,17,Alcorn,5,9,37,51
-2015,536,Tex.-Pan American,8,3,41,52
+2015,692,Tennessee Tech,5,7,41,53
 2015,934,Alderson Broaddus,0,3,42,45
-2015,27854,Minn.-Crookston,2,6,42,50
-2015,150,Coe,0,0,38,38
+2015,30090,Tex. A&M Int'l,7,10,34,51
+2015,426,Millsaps,5,3,30,38
+2015,797,Milwaukee,8,3,42,53
+2015,427,Minn. Duluth,0,0,46,46
 2015,285,Holy Cross,2,10,40,52
-2015,703,Texas,10,6,36,52
-2015,1226,Minn.-Morris,0,0,40,40
-2015,1023,Coker,5,8,32,45
-2015,428,Minnesota,4,7,41,52
-2015,1014,Col. of Charleston,8,4,44,56
-2015,697,Texas A&M,16,0,40,56
-2015,30125,Minot St.,0,3,42,45
-2015,16142,Misericordia,5,1,32,38
+2015,383,Minn. St. Mankato,4,0,40,44
 2015,30170,Alfred St.,0,0,32,32
 2015,19,Allegheny,0,0,37,37
-2015,576,Rider,2,5,48,55
-2015,1400,Texas Lutheran,9,5,25,39
+2015,560,Queens (NY),0,0,44,44
+2015,151,Colby,0,0,33,33
+2015,561,Quincy,2,1,46,49
+2015,152,Colby-Sawyer,0,0,38,38
+2015,562,Quinnipiac,2,5,46,53
+2015,27854,Minn.-Crookston,2,6,42,50
+2015,563,Radford,6,7,43,56
+2015,1226,Minn.-Morris,0,0,40,40
+2015,564,Ramapo,2,0,40,42
+2015,428,Minnesota,4,7,41,52
+2015,30125,Minot St.,0,3,42,45
+2015,11403,Colo. Christian,5,7,38,50
+2015,696,Tex. A&M-Kingsville,10,7,35,52
+2015,16142,Misericordia,5,1,32,38
+2015,30088,Tex. Permian Basin,11,4,30,45
+2015,536,Tex.-Pan American,8,3,41,52
+2015,565,Randolph-Macon,7,0,26,33
+2015,703,Texas,10,6,36,52
+2015,567,Redlands,8,5,27,40
+2015,697,Texas A&M,16,0,40,56
 2015,429,Mississippi Col.,7,12,31,50
 2015,430,Mississippi St.,13,2,40,55
-2015,699,Texas Southern,8,7,35,50
-2015,432,Mississippi Val.,2,5,39,46
-2015,434,Missouri,10,4,40,54
 2015,30175,Holy Names,10,10,30,50
-2015,670,Texas St.,5,8,42,55
-2015,577,Ripon,0,0,36,36
-2015,435,Missouri S&T,1,4,39,44
-2015,151,Colby,0,0,33,33
+2015,432,Mississippi Val.,2,5,39,46
+2015,568,Regis (CO),5,9,38,52
+2015,434,Missouri,10,4,40,54
 2015,8404,Hood,0,0,42,42
-2015,18422,Rivier,0,0,36,36
-2015,669,Missouri St.,8,4,42,54
-2015,152,Colby-Sawyer,0,0,38,38
+2015,11416,Colorado Mesa,15,2,34,51
 2015,286,Hope,0,0,43,43
-2015,700,Texas Tech,10,3,40,53
-2015,578,Roanoke,1,2,29,32
+2015,435,Missouri S&T,1,4,39,44
+2015,155,Colorado Mines,5,1,38,44
 2015,30160,Houghton,4,4,30,38
-2015,288,Houston,8,7,41,56
-2015,287,Houston Baptist,7,8,38,53
+2015,669,Missouri St.,8,4,42,54
 2015,21,Alma,9,1,31,41
+2015,288,Houston,8,7,41,56
 2015,938,Alvernia,4,2,31,37
+2015,1400,Texas Lutheran,9,5,25,39
+2015,287,Houston Baptist,7,8,38,53
+2015,570,Rensselaer,0,2,32,34
+2015,2720,Colorado St.-Pueblo,12,3,33,48
 2015,398,MIT,0,0,41,41
-2015,11403,Colo. Christian,5,7,38,50
+2015,572,Rhode Island,1,5,45,51
+2015,158,Columbia,2,4,36,42
+2015,699,Texas Southern,8,7,35,50
 2015,30042,Mitchell,3,0,29,32
+2015,571,Rhode Island Col.,0,0,42,42
+2015,159,Columbus St.,12,7,28,47
+2015,573,Rhodes,10,2,27,39
+2015,1028,Concord,1,3,42,46
+2015,670,Texas St.,5,8,42,55
+2015,574,Rice,9,6,39,54
+2015,700,Texas Tech,10,3,40,53
+2015,575,Richmond,6,3,46,55
 2015,9012,Mo. Southern St.,9,0,40,49
-2015,9013,Mo. Western St.,7,5,37,49
 2015,2741,Howard Payne,6,3,29,38
+2015,9013,Mo. Western St.,7,5,37,49
 2015,436,Mo.-St. Louis,3,0,44,47
 2015,437,Molloy,1,3,41,45
+2015,576,Rider,2,5,48,55
 2015,439,Monmouth,0,8,44,52
-2015,11416,Colorado Mesa,15,2,34,51
 2015,438,Monmouth (IL),0,0,36,36
-2015,155,Colorado Mines,5,1,38,44
 2015,205,Mont. St. Billings,7,13,29,49
-2015,702,Texas-Arlington,4,5,44,53
-2015,23121,Texas-Dallas,3,9,29,41
-2015,2720,Colorado St.-Pueblo,12,3,33,48
-2015,158,Columbia,2,4,36,42
-2015,30028,Texas-Tyler,7,5,27,39
-2015,159,Columbus St.,12,7,28,47
-2015,707,Thiel,0,0,40,40
-2015,1028,Concord,1,3,42,46
+2015,577,Ripon,0,0,36,36
 2015,22,American Int'l,0,2,40,42
-2015,2758,Thomas (ME),0,0,37,37
-2015,1402,Thomas More,0,0,38,38
+2015,1130,Huntingdon,9,3,27,39
+2015,18422,Rivier,0,0,36,36
+2015,702,Texas-Arlington,4,5,44,53
 2015,24,Amherst,0,0,34,34
-2015,1403,Tiffin,2,4,45,51
-2015,581,Rochester (NY),0,0,42,42
-2015,709,Toledo,3,8,46,57
+2015,23121,Texas-Dallas,3,9,29,41
+2015,578,Roanoke,1,2,29,32
 2015,939,Anderson (IN),0,0,36,36
 2015,13028,Anderson (SC),7,8,33,48
 2015,25,Angelo St.,16,2,31,49
-2015,1130,Huntingdon,9,3,27,39
-2015,26,Anna Maria,2,2,34,38
-2015,27,Appalachian St.,5,9,40,54
-2015,711,Towson,0,8,46,54
-2015,580,Rochester Inst.,0,0,39,39
-2015,28749,Transylvania,0,2,36,38
-2015,30002,Trevecca Nazarene,3,6,38,47
-2015,582,Rockford,0,0,41,41
-2015,1328,Rockhurst,5,4,45,54
-2015,442,Montclair St.,0,0,38,38
-2015,966,Arcadia,0,0,35,35
-2015,29,Arizona,15,4,36,55
-2015,1238,Montevallo,10,6,34,50
-2015,30037,Trine,4,4,33,41
-2015,28,Arizona St.,8,6,42,56
 2015,1133,Husson,0,1,39,40
+2015,162,Concordia (NY),6,4,34,44
+2015,26,Anna Maria,2,2,34,38
+2015,30028,Texas-Tyler,7,5,27,39
+2015,24400,Concordia (TX),12,3,27,42
+2015,707,Thiel,0,0,40,40
+2015,27,Appalachian St.,5,9,40,54
+2015,160,Concordia Chicago,3,2,33,38
+2015,2758,Thomas (ME),0,0,37,37
+2015,1036,Concordia Wisconsin,0,0,41,41
+2015,1402,Thomas More,0,0,38,38
+2015,161,Concordia-M'head,7,1,30,38
+2015,9081,Concordia-St. Paul,0,0,44,44
+2015,442,Montclair St.,0,0,38,38
+2015,1403,Tiffin,2,4,45,51
+2015,1238,Montevallo,10,6,34,50
 2015,443,Moravian,2,0,35,37
-2015,713,Trinity (CT),0,0,35,35
+2015,966,Arcadia,0,0,35,35
+2015,444,Morehead St.,8,3,44,55
+2015,445,Morehouse,7,6,23,36
+2015,709,Toledo,3,8,46,57
+2015,29,Arizona,15,4,36,55
+2015,581,Rochester (NY),0,0,42,42
+2015,28,Arizona St.,8,6,42,56
 2015,30105,Ark.-Fort Smith,8,1,35,44
 2015,8411,Ark.-Monticello,7,7,29,43
-2015,444,Morehead St.,8,3,44,55
 2015,2678,Ark.-Pine Bluff,4,6,35,45
-2015,445,Morehouse,7,6,23,36
-2015,583,Roger Williams,0,0,44,44
 2015,31,Arkansas,9,3,42,54
+2015,711,Towson,0,8,46,54
 2015,30,Arkansas St.,7,4,44,55
+2015,28749,Transylvania,0,2,36,38
+2015,30002,Trevecca Nazarene,3,6,38,47
 2015,947,Arkansas Tech,7,9,30,46
-2015,715,Trinity (TX),7,2,29,38
-2015,33,Armstrong,15,3,31,49
-2015,725,Army,3,3,42,48
-2015,30180,Rogers St.,7,7,33,47
-2015,584,Rollins,11,10,29,50
-2015,162,Concordia (NY),6,4,34,44
-2015,24400,Concordia (TX),12,3,27,42
-2015,585,Rose-Hulman,3,2,35,40
-2015,716,Troy,7,8,41,56
-2015,160,Concordia Chicago,3,2,33,38
-2015,499,Truman,5,0,43,48
-2015,1036,Concordia Wisconsin,0,0,41,41
-2015,717,Tufts,0,0,30,30
-2015,35,Ashland,5,4,37,46
-2015,161,Concordia-M'head,7,1,30,38
-2015,36,Assumption,3,9,35,47
-2015,718,Tulane,12,4,38,54
-2015,9081,Concordia-St. Paul,0,0,44,44
-2015,259,Rowan,0,0,37,37
-2015,586,Rust,0,2,10,12
-2015,587,Rutgers,1,6,44,51
-2015,588,Rutgers-Camden,0,0,38,38
-2015,589,Rutgers-Newark,0,1,37,38
-2015,12830,Tusculum,10,6,31,47
-2015,11276,S.C. Aiken,14,6,30,50
-2015,720,Tuskegee,3,8,26,37
-2015,102,Sacramento St.,7,6,43,56
-2015,590,Sacred Heart,0,8,47,55
-2015,37,Auburn,12,3,41,56
-2015,38,Augsburg,1,3,35,39
-2015,40,Augustana (IL),5,3,32,40
-2015,41,Augustana (SD),0,4,45,49
-2015,9,UAB,9,4,41,54
-2015,42,Aurora,4,1,34,39
-2015,30036,Mount Aloysius,0,0,36,36
-2015,953,Austin,2,2,28,32
-2015,32,UALR,4,7,41,52
-2015,108,UC Davis,10,6,41,57
-2015,43,Austin Peay,7,4,43,54
-2015,109,UC Irvine,5,9,44,58
 2015,165,Coppin St.,0,4,41,45
-2015,44,Averett,6,3,29,38
-2015,111,UC Riverside,7,9,38,54
+2015,580,Rochester Inst.,0,0,39,39
 2015,167,Cornell,1,5,38,44
-2015,112,UC San Diego,17,7,25,49
+2015,582,Rockford,0,0,41,41
+2015,33,Armstrong,15,3,31,49
 2015,166,Cornell College,0,1,37,38
-2015,104,UC Santa Barbara,11,4,41,56
+2015,1328,Rockhurst,5,4,45,54
+2015,725,Army,3,3,42,48
 2015,30111,Covenant,6,5,28,39
+2015,30037,Trine,4,4,33,41
+2015,713,Trinity (CT),0,0,35,35
 2015,169,Creighton,5,4,44,53
-2015,591,Saginaw Valley,5,3,36,44
-2015,30035,Crown (MN),0,0,39,39
-2015,594,Saint Augustine's,2,10,31,43
-2015,101,CSUN,11,4,42,57
-2015,30146,Azusa Pacific,15,4,31,50
-2015,45,Babson,0,0,36,36
-2015,170,Curry,1,1,37,39
 2015,300,Ill. Wesleyan,0,0,39,39
-2015,1059,D'Youville,0,0,34,34
+2015,30035,Crown (MN),0,0,39,39
 2015,302,Ill.-Chicago,2,7,44,53
 2015,30050,Ill.-Springfield,3,3,44,50
+2015,101,CSUN,11,4,42,57
+2015,715,Trinity (TX),7,2,29,38
+2015,583,Roger Williams,0,0,44,44
+2015,30180,Rogers St.,7,7,33,47
+2015,35,Ashland,5,4,37,46
+2015,36,Assumption,3,9,35,47
+2015,170,Curry,1,1,37,39
+2015,584,Rollins,11,10,29,50
+2015,716,Troy,7,8,41,56
+2015,1059,D'Youville,0,0,34,34
+2015,499,Truman,5,0,43,48
+2015,717,Tufts,0,0,30,30
+2015,718,Tulane,12,4,38,54
+2015,301,Illinois,11,3,40,54
+2015,297,Illinois Col.,2,0,36,38
+2015,299,Illinois St.,6,5,42,53
+2015,37,Auburn,12,3,41,56
+2015,585,Rose-Hulman,3,2,35,40
+2015,303,Immaculata,5,5,27,37
+2015,12830,Tusculum,10,6,31,47
+2015,2743,Incarnate Word,7,9,41,57
+2015,30036,Mount Aloysius,0,0,36,36
+2015,720,Tuskegee,3,8,26,37
+2015,306,Indiana,8,4,42,54
+2015,38,Augsburg,1,3,35,39
+2015,307,Indiana (PA),2,4,43,49
+2015,40,Augustana (IL),5,3,32,40
+2015,305,Indiana St.,3,6,43,52
+2015,259,Rowan,0,0,37,37
+2015,41,Augustana (SD),0,4,45,49
+2015,586,Rust,0,2,10,12
+2015,9,UAB,9,4,41,54
+2015,42,Aurora,4,1,34,39
+2015,587,Rutgers,1,6,44,51
+2015,32,UALR,4,7,41,52
+2015,1044,Dallas,4,9,24,37
+2015,588,Rutgers-Camden,0,0,38,38
+2015,108,UC Davis,10,6,41,57
+2015,1045,Dallas Baptist,7,2,42,51
+2015,589,Rutgers-Newark,0,1,37,38
+2015,109,UC Irvine,5,9,44,58
+2015,309,Indianapolis,1,2,45,48
+2015,11276,S.C. Aiken,14,6,30,50
+2015,111,UC Riverside,7,9,38,54
+2015,310,Iona,3,10,48,61
+2015,112,UC San Diego,17,7,25,49
+2015,953,Austin,2,2,28,32
+2015,104,UC Santa Barbara,11,4,41,56
+2015,102,Sacramento St.,7,6,43,56
+2015,2691,Daniel Webster,0,0,34,34
+2015,172,Dartmouth,0,6,38,44
+2015,173,Davidson,5,3,39,47
+2015,43,Austin Peay,7,4,43,54
+2015,1245,Mount Olive,16,3,29,48
+2015,174,Davis & Elkins,1,5,44,50
+2015,175,Dayton,4,7,47,58
+2015,312,Iowa,7,1,45,53
+2015,452,Mount Union,6,2,32,40
+2015,590,Sacred Heart,0,8,47,55
+2015,1050,Defiance,0,0,37,37
+2015,44,Averett,6,3,29,38
+2015,180,Delaware,2,3,41,46
+2015,20220,MSOE,0,9,30,39
+2015,178,Delaware St.,0,8,37,45
+2015,179,Delaware Valley,0,0,38,38
+2015,181,Delta St.,2,7,36,45
+2015,182,Denison,0,0,39,39
 2015,128,UCF,13,2,41,56
 2015,110,UCLA,11,2,43,56
-2015,94,Bakersfield,10,6,39,55
 2015,164,UConn,6,6,44,56
-2015,46,Baldwin Wallace,0,0,38,38
-2015,1245,Mount Olive,16,3,29,48
 2015,401,UMass Boston,0,0,39,39
-2015,47,Ball St.,7,8,41,56
 2015,656,UMass Dartmouth,0,0,39,39
+2015,30146,Azusa Pacific,15,4,31,50
 2015,368,UMass Lowell,2,4,45,51
+2015,45,Babson,0,0,36,36
 2015,391,UMBC,1,3,46,50
-2015,452,Mount Union,6,2,32,40
-2015,393,UMES,2,10,36,48
-2015,602,Saint John's (MN),5,4,28,37
-2015,20220,MSOE,0,9,30,39
-2015,301,Illinois,11,3,40,54
-2015,958,Baptist Bible (PA),0,0,37,37
-2015,297,Illinois Col.,2,0,36,38
-2015,962,Bard,0,0,33,33
-2015,606,Saint Joseph's,1,7,44,52
-2015,299,Illinois St.,6,5,42,53
-2015,303,Immaculata,5,5,27,37
-2015,608,Saint Leo,17,4,29,50
-2015,2743,Incarnate Word,7,9,41,57
-2015,1044,Dallas,4,9,24,37
-2015,456,UNC Asheville,6,8,40,54
-2015,306,Indiana,8,4,42,54
-2015,609,Saint Louis,4,6,45,55
-2015,1045,Dallas Baptist,7,2,42,51
-2015,459,UNC Greensboro,2,7,42,51
-2015,307,Indiana (PA),2,4,43,49
-2015,537,UNC Pembroke,14,4,31,49
-2015,1343,Saint Martin's,8,14,28,50
-2015,305,Indiana St.,3,6,43,52
-2015,49,Barry,9,7,33,49
-2015,460,UNCW,7,3,44,54
-2015,612,Saint Mary's (MN),8,2,34,44
 2015,8567,Mt. St. Joseph,0,0,37,37
-2015,15646,Barton,9,8,29,46
+2015,393,UMES,2,10,36,48
+2015,177,DePauw,0,0,36,36
+2015,1468,Mt. St. Mary (NY),0,5,30,35
+2015,20,DeSales,2,4,35,41
+2015,30173,Iowa Wesleyan,0,0,33,33
+2015,591,Saginaw Valley,5,3,36,44
+2015,450,Mt. St. Mary's,2,4,40,46
+2015,308,IPFW,8,4,41,53
+2015,594,Saint Augustine's,2,10,31,43
+2015,313,Ithaca,0,0,36,36
+2015,456,UNC Asheville,6,8,40,54
+2015,94,Bakersfield,10,6,39,55
+2015,459,UNC Greensboro,2,7,42,51
+2015,185,Dickinson,0,0,38,38
+2015,451,Mt. St. Vincent,0,0,36,36
+2015,537,UNC Pembroke,14,4,31,49
+2015,460,UNCW,7,3,44,54
+2015,46,Baldwin Wallace,0,0,38,38
+2015,453,Muhlenberg,3,4,33,40
+2015,454,Murray St.,5,10,42,57
+2015,47,Ball St.,7,8,41,56
+2015,314,Jackson St.,9,5,40,54
+2015,455,Muskingum,0,0,37,37
+2015,316,Jacksonville,6,8,42,56
+2015,315,Jacksonville St.,6,3,45,54
+2015,602,Saint John's (MN),5,4,28,37
+2015,317,James Madison,6,4,45,55
+2015,606,Saint Joseph's,1,7,44,52
+2015,608,Saint Leo,17,4,29,50
+2015,609,Saint Louis,4,6,45,55
+2015,30095,Dixie St.,5,7,36,48
+2015,727,Union (NY),0,0,42,42
+2015,958,Baptist Bible (PA),0,0,37,37
+2015,962,Bard,0,0,33,33
+2015,488,N.C. A&T,1,8,38,47
+2015,1343,Saint Martin's,8,14,28,50
+2015,489,N.C. Central,4,7,38,49
+2015,491,N.C. Wesleyan,2,10,27,39
+2015,612,Saint Mary's (MN),8,2,34,44
+2015,8577,N.M. Highlands,7,6,33,46
+2015,30153,Union (TN),3,15,31,49
 2015,613,Saint Michael's,0,3,44,47
+2015,465,UNLV,7,7,39,53
+2015,728,Upper Iowa,0,2,50,52
+2015,49,Barry,9,7,33,49
+2015,320,John Carroll,3,3,34,40
+2015,15646,Barton,9,8,29,46
 2015,58,Baruch,0,4,33,37
 2015,617,Saint Peter's,0,3,44,47
 2015,50,Bates,4,2,33,39
-2015,1347,Saint Rose,3,8,37,48
-2015,30064,Saint Vincent,2,3,35,40
-2015,1468,Mt. St. Mary (NY),0,5,30,35
-2015,309,Indianapolis,1,2,45,48
-2015,2691,Daniel Webster,0,0,34,34
-2015,450,Mt. St. Mary's,2,4,40,46
-2015,310,Iona,3,10,48,61
-2015,172,Dartmouth,0,6,38,44
-2015,51,Baylor,6,8,37,51
-2015,173,Davidson,5,3,39,47
-2015,26107,Becker,0,0,38,38
-2015,174,Davis & Elkins,1,5,44,50
-2015,52,Bellarmine,4,4,43,51
-2015,175,Dayton,4,7,47,58
-2015,14927,Belmont,3,8,45,56
-2015,451,Mt. St. Vincent,0,0,36,36
-2015,1050,Defiance,0,0,37,37
-2015,727,Union (NY),0,0,42,42
-2015,2683,Belmont Abbey,11,8,29,48
-2015,180,Delaware,2,3,41,46
-2015,53,Beloit,0,0,36,36
-2015,19117,Salem Int'l,2,14,31,47
-2015,178,Delaware St.,0,8,37,45
-2015,54,Bemidji St.,1,6,43,50
-2015,312,Iowa,7,1,45,53
-2015,453,Muhlenberg,3,4,33,40
-2015,179,Delaware Valley,0,0,38,38
-2015,621,Salem St.,0,3,38,41
-2015,55,Benedict,3,6,39,48
-2015,181,Delta St.,2,7,36,45
-2015,622,Salisbury,2,0,31,33
-2015,182,Denison,0,0,39,39
-2015,296,Benedictine (IL),0,0,39,39
-2015,454,Murray St.,5,10,42,57
-2015,623,Salve Regina,0,0,40,40
-2015,30153,Union (TN),3,15,31,49
-2015,455,Muskingum,0,0,37,37
-2015,465,UNLV,7,7,39,53
-2015,624,Sam Houston St.,6,8,42,56
-2015,728,Upper Iowa,0,2,50,52
-2015,625,Samford,3,8,45,56
-2015,627,San Diego,5,6,40,51
-2015,56,Bentley,0,6,36,42
-2015,177,DePauw,0,0,36,36
-2015,20,DeSales,2,4,35,41
-2015,626,San Diego St.,13,3,40,56
-2015,628,San Fran. St.,8,10,28,46
-2015,629,San Francisco,3,12,40,55
-2015,488,N.C. A&T,1,8,38,47
-2015,630,San Jose St.,5,10,41,56
-2015,973,Berry,8,4,27,39
-2015,631,Santa Clara,7,7,40,54
-2015,30104,Urbana,0,0,43,43
-2015,185,Dickinson,0,0,38,38
-2015,730,Ursinus,0,0,35,35
-2015,489,N.C. Central,4,7,38,49
-2015,491,N.C. Wesleyan,2,10,27,39
-2015,8577,N.M. Highlands,7,6,33,46
-2015,30173,Iowa Wesleyan,0,0,33,33
-2015,308,IPFW,8,4,41,53
-2015,59,Bethany (WV),0,0,40,40
-2015,632,Savannah St.,4,8,40,52
-2015,30038,Bethany Lutheran,0,0,38,38
-2015,313,Ithaca,0,0,36,36
+2015,321,John Jay,0,0,31,31
 2015,726,Navy,9,4,39,52
-2015,10411,USC Upstate,6,6,44,56
-2015,28594,USciences,0,6,32,38
-2015,60,Bethel (MN),0,0,39,39
-2015,1355,Schreiner,2,9,26,37
-2015,695,UT Martin,2,9,44,55
-2015,633,Scranton,0,2,37,39
-2015,732,Utah,4,11,39,54
-2015,61,Bethune-Cookman,2,13,40,55
-2015,1356,Seattle,5,11,38,54
-2015,314,Jackson St.,9,5,40,54
-2015,62,Binghamton,1,5,43,49
+2015,30104,Urbana,0,0,43,43
+2015,322,Johns Hopkins,0,0,32,32
+2015,730,Ursinus,0,0,35,35
+2015,1347,Saint Rose,3,8,37,48
+2015,22626,Johnson & Wales (RI),2,0,35,37
+2015,30064,Saint Vincent,2,3,35,40
+2015,51,Baylor,6,8,37,51
+2015,26107,Becker,0,0,38,38
+2015,52,Bellarmine,4,4,43,51
 2015,462,Neb. Wesleyan,1,1,36,38
-2015,316,Jacksonville,6,8,42,56
+2015,10411,USC Upstate,6,6,44,56
+2015,14927,Belmont,3,8,45,56
 2015,1156,Neb.-Kearney,11,7,28,46
-2015,30024,Utah Valley,3,11,38,52
-2015,315,Jacksonville St.,6,3,45,54
+2015,28594,USciences,0,6,32,38
+2015,2683,Belmont Abbey,11,8,29,48
 2015,463,Nebraska,7,6,43,56
-2015,30095,Dixie St.,5,7,36,48
-2015,28593,Birmingham-So.,8,0,29,37
+2015,1332,Dominican (IL),0,2,35,37
+2015,695,UT Martin,2,9,44,55
+2015,53,Beloit,0,0,36,36
 2015,1254,Neumann,2,0,33,35
-2015,317,James Madison,6,4,45,55
-2015,635,Seton Hall,1,8,41,50
+2015,8956,Dominican (NY),0,0,47,47
+2015,732,Utah,4,11,39,54
+2015,54,Bemidji St.,1,6,43,50
 2015,466,Nevada,13,2,41,56
+2015,2692,Dowling,0,0,41,41
+2015,55,Benedict,3,6,39,48
 2015,467,New England Col.,0,0,41,41
-2015,733,Utica,0,0,39,39
-2015,706,UTSA,8,7,42,57
-2015,30181,UVa-Wise,0,2,47,49
-2015,745,Va. Wesleyan,3,1,28,32
-2015,734,Valdosta St.,12,6,31,49
+2015,19117,Salem Int'l,2,14,31,47
+2015,296,Benedictine (IL),0,0,39,39
+2015,621,Salem St.,0,3,38,41
+2015,622,Salisbury,2,0,31,33
+2015,623,Salve Regina,0,0,40,40
+2015,624,Sam Houston St.,6,8,42,56
+2015,190,Drew,0,1,37,38
+2015,625,Samford,3,8,45,56
 2015,470,New Haven,0,0,37,37
+2015,56,Bentley,0,6,36,42
+2015,627,San Diego,5,6,40,51
 2015,319,New Jersey City,0,0,37,37
 2015,473,New Mexico,9,3,42,54
-2015,30063,Seton Hill,6,3,40,49
-2015,472,New Mexico St.,1,12,41,54
-2015,320,John Carroll,3,3,34,40
-2015,30166,Valley Forge,0,0,32,32
-2015,652,Sewanee,4,1,30,35
-2015,474,New Orleans,6,8,40,54
-2015,321,John Jay,0,0,31,31
-2015,1332,Dominican (IL),0,2,35,37
-2015,735,Valparaiso,3,7,43,53
-2015,8956,Dominican (NY),0,0,47,47
-2015,322,Johns Hopkins,0,0,32,32
-2015,2692,Dowling,0,0,41,41
-2015,736,Vanderbilt,11,3,42,56
-2015,737,Vassar,0,0,34,34
-2015,22626,Johnson & Wales (RI),2,0,35,37
-2015,64,Blackburn,0,0,40,40
-2015,740,VCU,4,7,43,54
-2015,984,Bloomfield,0,0,40,40
-2015,65,Bloomsburg,0,0,47,47
-2015,637,Shenandoah,0,0,34,34
-2015,10870,Shepherd,4,2,41,47
-2015,638,Shippensburg,3,6,38,47
-2015,30151,Shorter,7,7,29,43
-2015,1257,Newberry,12,7,30,49
-2015,739,Villanova,4,8,42,54
-2015,746,Virginia,12,1,43,56
-2015,21772,Newbury,2,6,32,40
-2015,743,Virginia St.,10,1,30,41
-2015,985,Bluefield St.,3,3,44,50
+2015,30024,Utah Valley,3,11,38,52
 2015,325,Juniata,0,0,31,31
-2015,30054,Newman,5,9,31,45
-2015,742,Virginia Tech,7,8,41,56
+2015,472,New Mexico St.,1,12,41,54
 2015,326,Kalamazoo,0,0,40,40
-2015,987,Bluffton,3,4,33,40
-2015,482,Niagara,0,6,41,47
-2015,483,Nicholls St.,9,5,42,56
-2015,484,Nichols,0,0,31,31
-2015,190,Drew,0,1,37,38
-2015,471,NJIT,3,3,46,52
-2015,328,Kansas,6,10,40,56
-2015,485,Norfolk St.,3,4,33,40
-2015,327,Kansas St.,6,7,43,56
-2015,487,North Ala.,11,4,29,44
-2015,329,Kean,1,0,38,39
-2015,67,Boston College,5,6,44,55
-2015,639,Siena,1,10,41,52
-2015,330,Keene St.,0,0,34,34
-2015,457,North Carolina,10,3,42,55
-2015,1157,Kennesaw St.,8,5,42,55
-2015,490,North Carolina St.,9,4,41,54
-2015,331,Kent St.,5,4,44,53
-2015,492,North Central (IL),0,0,40,40
-2015,741,VMI,2,1,46,49
-2015,334,Kentucky,9,3,43,55
-2015,30039,North Central (MN),0,0,36,36
-2015,332,Kentucky St.,1,1,30,32
-2015,494,North Dakota,1,6,42,49
-2015,335,Kenyon,5,2,31,38
-2015,493,North Dakota St.,1,8,43,52
-2015,1159,Keuka,0,0,42,42
-2015,2711,North Florida,8,8,41,57
-2015,747,Wabash,0,0,29,29
-2015,30047,Keystone,0,0,36,36
+2015,474,New Orleans,6,8,40,54
 2015,1057,Drury,3,4,39,46
-2015,30052,North Georgia,11,4,35,50
-2015,30051,King (TN),5,11,36,52
-2015,748,Wagner,0,5,48,53
-2015,749,Wake Forest,11,5,41,57
-2015,69,Bowdoin,0,0,37,37
-2015,30141,Walsh,5,4,39,48
 2015,192,Dubuque,0,0,36,36
-2015,336,King's (PA),0,3,38,41
-2015,750,Wartburg,4,1,31,36
-2015,9223,North Greenville,11,11,29,51
-2015,337,Knox,0,0,36,36
-2015,496,North Park,1,2,33,36
-2015,641,Simpson,0,0,40,40
-2015,751,Wash. & Jeff.,0,0,39,39
-2015,752,Wash. & Lee,2,1,20,23
 2015,193,Duke,10,3,42,55
-2015,71,Bowling Green,3,6,41,50
+2015,626,San Diego St.,13,3,40,56
+2015,733,Utica,0,0,39,39
+2015,628,San Fran. St.,8,10,28,46
+2015,706,UTSA,8,7,42,57
+2015,629,San Francisco,3,12,40,55
+2015,1257,Newberry,12,7,30,49
+2015,973,Berry,8,4,27,39
+2015,30181,UVa-Wise,0,2,47,49
+2015,630,San Jose St.,5,10,41,56
+2015,328,Kansas,6,10,40,56
+2015,21772,Newbury,2,6,32,40
+2015,745,Va. Wesleyan,3,1,28,32
+2015,631,Santa Clara,7,7,40,54
+2015,30054,Newman,5,9,31,45
+2015,734,Valdosta St.,12,6,31,49
+2015,327,Kansas St.,6,7,43,56
+2015,195,Earlham,1,0,38,39
+2015,329,Kean,1,0,38,39
+2015,196,East Carolina,8,5,44,57
+2015,482,Niagara,0,6,41,47
+2015,330,Keene St.,0,0,34,34
+2015,8965,East Central,9,4,30,43
+2015,1157,Kennesaw St.,8,5,42,55
+2015,197,East Stroudsburg,6,0,41,47
+2015,331,Kent St.,5,4,44,53
+2015,198,East Tenn. St.,7,4,44,55
+2015,59,Bethany (WV),0,0,40,40
+2015,334,Kentucky,9,3,43,55
+2015,632,Savannah St.,4,8,40,52
+2015,1062,East Tex. Baptist,9,3,25,37
+2015,30038,Bethany Lutheran,0,0,38,38
+2015,332,Kentucky St.,1,1,30,32
+2015,30166,Valley Forge,0,0,32,32
+2015,483,Nicholls St.,9,5,42,56
+2015,203,East. Mennonite,3,4,28,35
+2015,335,Kenyon,5,2,31,38
+2015,735,Valparaiso,3,7,43,53
+2015,484,Nichols,0,0,31,31
+2015,8968,Eastern,0,4,37,41
+2015,1159,Keuka,0,0,42,42
+2015,736,Vanderbilt,11,3,42,56
+2015,471,NJIT,3,3,46,52
+2015,200,Eastern Conn. St.,0,1,35,36
+2015,201,Eastern Ill.,0,8,44,52
+2015,737,Vassar,0,0,34,34
+2015,202,Eastern Ky.,4,7,41,52
+2015,485,Norfolk St.,3,4,33,40
+2015,1355,Schreiner,2,9,26,37
+2015,204,Eastern Mich.,6,10,40,56
+2015,60,Bethel (MN),0,0,39,39
+2015,206,Eastern N.M.,5,10,31,46
+2015,30047,Keystone,0,0,36,36
+2015,1064,Eastern Nazarene,0,0,41,41
+2015,740,VCU,4,7,43,54
+2015,30051,King (TN),5,11,36,52
+2015,633,Scranton,0,2,37,39
+2015,61,Bethune-Cookman,2,13,40,55
+2015,487,North Ala.,11,4,29,44
+2015,336,King's (PA),0,3,38,41
+2015,1356,Seattle,5,11,38,54
+2015,208,Eckerd,11,5,31,47
+2015,337,Knox,0,0,36,36
+2015,457,North Carolina,10,3,42,55
+2015,62,Binghamton,1,5,43,49
+2015,1066,Edgewood,0,0,40,40
+2015,739,Villanova,4,8,42,54
+2015,490,North Carolina St.,9,4,41,54
+2015,746,Virginia,12,1,43,56
+2015,492,North Central (IL),0,0,40,40
+2015,743,Virginia St.,10,1,30,41
+2015,30039,North Central (MN),0,0,36,36
+2015,742,Virginia Tech,7,8,41,56
+2015,635,Seton Hall,1,8,41,50
+2015,494,North Dakota,1,6,42,49
+2015,339,Kutztown,2,0,46,48
+2015,493,North Dakota St.,1,8,43,52
+2015,333,Ky. Wesleyan,4,2,42,48
+2015,2711,North Florida,8,8,41,57
+2015,1163,La Roche,0,0,37,37
+2015,340,La Salle,6,7,39,52
+2015,30052,North Georgia,11,4,35,50
+2015,28593,Birmingham-So.,8,0,29,37
+2015,30063,Seton Hill,6,3,40,49
+2015,741,VMI,2,1,46,49
+2015,652,Sewanee,4,1,30,35
+2015,747,Wabash,0,0,29,29
+2015,748,Wagner,0,5,48,53
+2015,341,La Verne,9,5,24,38
+2015,671,La.-Lafayette,10,5,40,55
+2015,749,Wake Forest,11,5,41,57
+2015,498,La.-Monroe,6,6,44,56
+2015,9223,North Greenville,11,11,29,51
+2015,30141,Walsh,5,4,39,48
+2015,496,North Park,1,2,33,36
+2015,750,Wartburg,4,1,31,36
+2015,637,Shenandoah,0,0,34,34
+2015,751,Wash. & Jeff.,0,0,39,39
+2015,10870,Shepherd,4,2,41,47
+2015,342,Lafayette,1,3,40,44
+2015,638,Shippensburg,3,6,38,47
+2015,752,Wash. & Lee,2,1,20,23
+2015,1162,LaGrange,3,8,29,40
+2015,30151,Shorter,7,7,29,43
+2015,2746,Lake Erie,1,3,42,46
+2015,500,Northeastern,4,6,43,53
 2015,2814,Washburn,14,0,32,46
 2015,756,Washington,11,5,40,56
-2015,339,Kutztown,2,0,46,48
-2015,333,Ky. Wesleyan,4,2,42,48
-2015,1163,La Roche,0,0,37,37
-2015,500,Northeastern,4,6,43,53
-2015,340,La Salle,6,7,39,52
-2015,72,Bradley,11,2,40,53
-2015,73,Brandeis,2,4,30,36
-2015,753,Washington Col.,0,0,35,35
-2015,30128,Sioux Falls,0,7,44,51
-2015,30094,Brevard,9,10,27,46
-2015,754,Washington St.,11,5,40,56
-2015,74,Bridgeport,0,5,43,48
-2015,660,SIUE,0,8,43,51
-2015,195,Earlham,1,0,38,39
+2015,211,Elizabethtown,7,1,32,40
 2015,12810,Northeastern St.,8,4,33,45
-2015,755,Washington-St. Louis,1,1,43,45
-2015,75,Bridgewater (VA),3,0,34,37
-2015,642,Skidmore,0,0,41,41
-2015,76,Bridgewater St.,0,0,31,31
-2015,643,Slippery Rock,5,1,40,46
-2015,196,East Carolina,8,5,44,57
-2015,8965,East Central,9,4,30,43
-2015,197,East Stroudsburg,6,0,41,47
-2015,198,East Tenn. St.,7,4,44,55
-2015,1062,East Tex. Baptist,9,3,25,37
-2015,203,East. Mennonite,3,4,28,35
-2015,8968,Eastern,0,4,37,41
-2015,200,Eastern Conn. St.,0,1,35,36
+2015,212,Elmhurst,0,0,41,41
+2015,213,Elmira,0,0,33,33
+2015,532,Elms,0,0,39,39
+2015,639,Siena,1,10,41,52
+2015,753,Washington Col.,0,0,35,35
+2015,1068,Elon,7,5,40,52
+2015,214,Emerson,0,0,39,39
 2015,502,Northern Colo.,1,3,42,46
-2015,201,Eastern Ill.,0,8,44,52
-2015,757,Wayne St. (MI),1,2,42,45
+2015,754,Washington St.,11,5,40,56
+2015,30193,Emmanuel (GA),1,16,30,47
 2015,503,Northern Ill.,5,5,45,55
-2015,202,Eastern Ky.,4,7,41,52
-2015,78,Brockport,0,0,41,41
-2015,645,Sonoma St.,10,10,29,49
 2015,505,Northern Ky.,2,8,42,52
-2015,1433,Wayne St. (NE),2,3,42,47
-2015,204,Eastern Mich.,6,10,40,56
-2015,341,La Verne,9,5,24,38
-2015,646,South Ala.,11,5,40,56
-2015,206,Eastern N.M.,5,10,31,46
-2015,1434,Waynesburg,0,0,38,38
-2015,648,South Carolina,12,3,41,56
-2015,1064,Eastern Nazarene,0,0,41,41
-2015,671,La.-Lafayette,10,5,40,55
-2015,498,La.-Monroe,6,6,44,56
-2015,80,Brown,0,4,38,42
-2015,1266,Northern St.,3,6,44,53
-2015,342,Lafayette,1,3,40,44
-2015,1267,Northland,3,3,35,41
-2015,507,Northwest Mo. St.,6,8,35,49
-2015,1162,LaGrange,3,8,29,40
-2015,1274,Northwest Nazarene,13,8,32,53
-2015,509,Northwestern,4,11,41,56
-2015,2746,Lake Erie,1,3,42,46
-2015,81,Bryant,1,6,48,55
-2015,208,Eckerd,11,5,31,47
-2015,1066,Edgewood,0,0,40,40
-2015,759,Webster,1,3,36,40
-2015,83,Bucknell,5,2,39,46
-2015,84,Buena Vista,0,0,39,39
-2015,86,Buffalo,2,5,44,51
-2015,649,South Dakota St.,4,5,45,54
+2015,755,Washington-St. Louis,1,1,43,45
 2015,1164,Lakeland,0,0,38,38
 2015,346,Lamar,7,7,41,55
-2015,87,Butler,2,9,41,52
-2015,77,BYU,6,10,35,51
-2015,762,Wentworth,0,0,33,33
-2015,30178,Northwestern Okla.,9,10,32,51
-2015,651,South Fla.,9,6,41,56
-2015,763,Wesley,0,0,30,30
-2015,508,Northwestern St.,8,7,40,55
-2015,764,Wesleyan (CT),0,0,33,33
-2015,30031,Northwestern-St. Paul,0,0,41,41
-2015,510,Northwood (MI),4,1,45,50
-2015,511,Norwich,0,0,29,29
-2015,654,Southeast Mo. St.,4,6,43,53
-2015,513,Notre Dame,11,3,42,56
-2015,358,West Ala.,12,8,31,51
-2015,655,Southeastern La.,12,5,41,58
-2015,765,West Chester,0,0,43,43
-2015,1371,Southeastern Okla.,7,7,34,48
-2015,11740,West Florida,14,7,28,49
-2015,766,West Ga.,15,5,29,49
-2015,1376,Southern Ark.,14,8,31,53
-2015,30085,Lancaster Bible,0,0,40,40
-2015,1305,Cairn,0,0,36,36
-2015,1438,West Liberty,3,1,41,45
-2015,105,Cal Lutheran,7,1,27,35
-2015,767,West Tex. A&M,12,8,30,50
-2015,1167,Lander,9,10,29,48
-2015,30126,Notre Dame (OH),0,0,44,44
-2015,90,Cal Poly,4,8,42,54
-2015,347,Lane,0,7,22,29
-2015,91,Cal Poly Pomona,14,4,32,50
-2015,657,Southern California,13,1,42,56
-2015,92,Cal St. Dom. Hills,12,8,30,50
-2015,211,Elizabethtown,7,1,32,40
-2015,98,Cal St. East Bay,4,12,31,47
-2015,658,Southern Conn. St.,5,5,37,47
-2015,97,Cal St. Fullerton,8,5,43,56
-2015,659,Southern Ill.,1,10,45,56
-2015,212,Elmhurst,0,0,41,41
-2015,24639,Nova Southeastern,16,3,31,50
-2015,1277,Nyack,0,7,39,46
-2015,661,Southern Ind.,1,2,44,47
-2015,8486,Lasell,0,0,32,32
-2015,662,Southern Me.,0,0,39,39
-2015,477,NYIT,0,0,53,53
-2015,348,Lawrence,0,0,33,33
-2015,479,NYU,1,2,38,41
-2015,100,Cal St. L.A.,12,7,29,48
-2015,664,Southern Miss.,8,6,41,55
-2015,9630,West Va. Wesleyan,0,0,42,42
-2015,349,Le Moyne,3,5,42,50
-2015,514,Oakland,2,9,41,52
-2015,213,Elmira,0,0,33,33
-2015,351,Lebanon Valley,4,4,32,40
-2015,468,Southern N.H.,9,5,34,48
-2015,1278,Oakland City,0,0,44,44
-2015,768,West Virginia,5,6,43,54
-2015,30013,Lee,11,4,33,48
-2015,30152,Southern Nazarene,3,10,31,44
-2015,515,Oberlin,0,0,35,35
-2015,532,Elms,0,0,39,39
-2015,516,Occidental,10,2,30,42
-2015,1439,West Virginia St.,1,4,38,43
-2015,2713,Oglethorpe,4,5,30,39
-2015,769,Western Caro.,4,5,42,51
-2015,519,Ohio,9,4,42,55
-2015,1068,Elon,7,5,40,52
-2015,30055,Cal St. Monterey Bay,13,7,30,50
-2015,770,Western Conn. St.,0,0,38,38
-2015,30119,Ohio Dominican,0,0,45,45
-2015,93,Cal St. San B'dino,4,17,28,49
-2015,214,Emerson,0,0,39,39
-2015,517,Ohio Northern,4,1,35,40
-2015,103,Cal St. Stanislaus,6,11,33,50
-2015,771,Western Ill.,2,8,42,52
-2015,518,Ohio St.,5,4,47,56
-2015,995,Caldwell,0,0,40,40
-2015,352,Lehigh,2,2,43,47
-2015,30193,Emmanuel (GA),1,16,30,47
-2015,15207,Ohio Valley,0,0,39,39
-2015,107,California,9,3,42,54
-2015,772,Western Ky.,6,5,42,53
-2015,279,Lehman,0,0,32,32
-2015,520,Ohio Wesleyan,0,0,33,33
-2015,106,California (PA),0,0,46,46
-2015,350,LeMoyne-Owen,0,9,32,41
-2015,774,Western Mich.,5,7,42,54
-2015,30135,California Baptist,8,10,32,50
-2015,1170,Lenoir-Rhyne,12,8,27,47
-2015,89,Caltech,0,11,23,34
-2015,24317,Lesley,0,0,35,35
-2015,114,Calvin,0,0,36,36
-2015,8490,LeTourneau,4,3,29,36
-2015,996,Cameron,7,10,35,52
-2015,354,Lewis,4,4,41,49
-2015,115,Campbell,13,2,39,54
-2015,30179,Okla. Christian,8,8,36,52
-2015,22235,Lewis & Clark,2,10,28,40
-2015,116,Canisius,5,7,46,58
-2015,24342,Okla. Panhandle,2,15,33,50
-2015,775,Western New Eng.,0,0,36,36
 2015,217,Emory,6,3,29,38
-2015,522,Oklahoma,12,6,40,58
-2015,1446,Western Ore.,10,14,26,50
 2015,216,Emory & Henry,1,6,32,39
-2015,665,Southern U.,1,8,33,42
 2015,1071,Emporia St.,9,3,37,49
+2015,1266,Northern St.,3,6,44,53
 2015,8981,Endicott,0,0,40,40
-2015,117,Capital,3,4,31,38
+2015,641,Simpson,0,0,40,40
+2015,1267,Northland,3,3,35,41
+2015,507,Northwest Mo. St.,6,8,35,49
+2015,64,Blackburn,0,0,40,40
 2015,1072,Erskine,17,1,32,50
-2015,355,Liberty,6,5,45,56
+2015,1274,Northwest Nazarene,13,8,32,53
+2015,984,Bloomfield,0,0,40,40
+2015,509,Northwestern,4,11,41,56
+2015,65,Bloomsburg,0,0,47,47
+2015,757,Wayne St. (MI),1,2,42,45
 2015,218,Eureka,0,0,36,36
-2015,1174,Limestone,4,15,26,45
-2015,30164,Southern Va.,1,4,30,35
+2015,30128,Sioux Falls,0,7,44,51
+2015,1433,Wayne St. (NE),2,3,42,47
 2015,219,Evansville,6,5,42,53
-2015,356,Lincoln (MO),0,4,39,43
-2015,1379,Southern Vt.,1,1,34,36
-2015,30192,Southern Wesleyan,5,12,32,49
-2015,357,Lincoln (PA),1,4,37,42
-2015,777,Westfield St.,0,0,39,39
-2015,118,Carleton,1,3,34,38
+2015,660,SIUE,0,8,43,51
+2015,1434,Waynesburg,0,0,38,38
+2015,642,Skidmore,0,0,41,41
+2015,643,Slippery Rock,5,1,40,46
+2015,30085,Lancaster Bible,0,0,40,40
+2015,985,Bluefield St.,3,3,44,50
+2015,987,Bluffton,3,4,33,40
+2015,1167,Lander,9,10,29,48
+2015,347,Lane,0,7,22,29
 2015,220,Fairfield,0,2,49,51
+2015,30178,Northwestern Okla.,9,10,32,51
 2015,222,Fairleigh Dickinson,2,3,49,54
+2015,508,Northwestern St.,8,7,40,55
 2015,1076,Fairmont St.,0,2,40,42
+2015,30031,Northwestern-St. Paul,0,0,41,41
 2015,27892,Farmingdale St.,0,0,38,38
-2015,521,Oklahoma St.,8,6,40,54
-2015,1450,Westminster (MO),0,0,31,31
-2015,2755,Southwest Baptist,4,7,36,47
-2015,1451,Westminster (PA),0,0,41,41
-2015,1176,Lincoln Memorial,11,7,31,49
-2015,8736,Southwest Minn. St.,0,3,45,48
-2015,523,Old Dominion,4,5,46,55
+2015,510,Northwood (MI),4,1,45,50
+2015,67,Boston College,5,6,44,55
+2015,511,Norwich,0,0,29,29
+2015,645,Sonoma St.,10,10,29,49
+2015,513,Notre Dame,11,3,42,56
+2015,646,South Ala.,11,5,40,56
+2015,8486,Lasell,0,0,32,32
+2015,348,Lawrence,0,0,33,33
+2015,648,South Carolina,12,3,41,56
 2015,221,FDU-Florham,0,0,37,37
+2015,349,Le Moyne,3,5,42,50
 2015,23157,Felician,5,9,35,49
-2015,524,Old Westbury,0,0,36,36
-2015,433,Ole Miss,8,6,44,58
-2015,8746,Southwestern (TX),4,4,33,41
-2015,30136,Lindenwood (MO),5,9,31,45
-2015,8744,Southwestern Okla.,8,12,29,49
-2015,1179,Linfield,9,5,26,40
-2015,525,Olivet,0,1,39,40
-2015,23260,Spalding,0,0,34,34
+2015,351,Lebanon Valley,4,4,32,40
+2015,30126,Notre Dame (OH),0,0,44,44
+2015,30013,Lee,11,4,33,48
+2015,759,Webster,1,3,36,40
+2015,69,Bowdoin,0,0,37,37
+2015,24639,Nova Southeastern,16,3,31,50
 2015,225,Ferrum,7,5,27,39
-2015,28600,Lipscomb,8,4,40,52
+2015,1277,Nyack,0,7,39,46
 2015,28755,FGCU,8,8,39,55
-2015,464,Omaha,5,7,41,53
-2015,361,LIU Brooklyn,2,2,48,52
-2015,120,Carroll (WI),0,0,36,36
+2015,477,NYIT,0,0,53,53
 2015,1079,Findlay,1,5,42,48
-2015,362,LIU Post,0,3,36,39
-2015,527,Oral Roberts,6,4,41,51
+2015,479,NYU,1,2,38,41
 2015,30032,Finlandia,0,5,27,32
-2015,1000,Carson-Newman,9,9,31,49
-2015,529,Oregon,12,2,46,60
-2015,121,Carthage,0,0,37,37
-2015,528,Oregon St.,12,3,40,55
-2015,778,Wheaton (IL),1,3,33,37
-2015,779,Wheaton (MA),0,0,45,45
-2015,12799,Wheeling Jesuit,0,2,43,45
+2015,514,Oakland,2,9,41,52
+2015,71,Bowling Green,3,6,41,50
+2015,1278,Oakland City,0,0,44,44
+2015,515,Oberlin,0,0,35,35
+2015,516,Occidental,10,2,30,42
+2015,2713,Oglethorpe,4,5,30,39
+2015,519,Ohio,9,4,42,55
+2015,762,Wentworth,0,0,33,33
+2015,30119,Ohio Dominican,0,0,45,45
+2015,763,Wesley,0,0,30,30
+2015,72,Bradley,11,2,40,53
+2015,517,Ohio Northern,4,1,35,40
+2015,764,Wesleyan (CT),0,0,33,33
+2015,73,Brandeis,2,4,30,36
+2015,518,Ohio St.,5,4,47,56
+2015,30094,Brevard,9,10,27,46
 2015,227,Fitchburg St.,0,0,40,40
+2015,15207,Ohio Valley,0,0,39,39
+2015,352,Lehigh,2,2,43,47
+2015,74,Bridgeport,0,5,43,48
+2015,520,Ohio Wesleyan,0,0,33,33
+2015,231,FIU,8,7,39,54
+2015,75,Bridgewater (VA),3,0,34,37
+2015,279,Lehman,0,0,32,32
+2015,76,Bridgewater St.,0,0,31,31
+2015,229,Fla. Atlantic,11,2,43,56
+2015,350,LeMoyne-Owen,0,9,32,41
+2015,649,South Dakota St.,4,5,45,54
+2015,358,West Ala.,12,8,31,51
+2015,651,South Fla.,9,6,41,56
+2015,1170,Lenoir-Rhyne,12,8,27,47
+2015,765,West Chester,0,0,43,43
+2015,30179,Okla. Christian,8,8,36,52
+2015,11740,West Florida,14,7,28,49
+2015,24317,Lesley,0,0,35,35
+2015,24342,Okla. Panhandle,2,15,33,50
+2015,766,West Ga.,15,5,29,49
+2015,78,Brockport,0,0,41,41
+2015,1438,West Liberty,3,1,41,45
+2015,8490,LeTourneau,4,3,29,36
+2015,767,West Tex. A&M,12,8,30,50
+2015,354,Lewis,4,4,41,49
+2015,22235,Lewis & Clark,2,10,28,40
+2015,654,Southeast Mo. St.,4,6,43,53
+2015,655,Southeastern La.,12,5,41,58
+2015,9630,West Va. Wesleyan,0,0,42,42
+2015,522,Oklahoma,12,6,40,58
+2015,768,West Virginia,5,6,43,54
+2015,80,Brown,0,4,38,42
+2015,1371,Southeastern Okla.,7,7,34,48
+2015,1439,West Virginia St.,1,4,38,43
+2015,1376,Southern Ark.,14,8,31,53
+2015,769,Western Caro.,4,5,42,51
+2015,355,Liberty,6,5,45,56
+2015,657,Southern California,13,1,42,56
+2015,770,Western Conn. St.,0,0,38,38
+2015,1174,Limestone,4,15,26,45
+2015,233,Fla. Southern,7,8,30,45
+2015,658,Southern Conn. St.,5,5,37,47
+2015,771,Western Ill.,2,8,42,52
+2015,356,Lincoln (MO),0,4,39,43
+2015,772,Western Ky.,6,5,42,53
+2015,357,Lincoln (PA),1,4,37,42
+2015,30092,Flagler,16,2,29,47
+2015,659,Southern Ill.,1,10,45,56
+2015,521,Oklahoma St.,8,6,40,54
+2015,774,Western Mich.,5,7,42,54
+2015,661,Southern Ind.,1,2,44,47
+2015,523,Old Dominion,4,5,46,55
+2015,235,Florida,14,2,39,55
+2015,662,Southern Me.,0,0,39,39
+2015,524,Old Westbury,0,0,36,36
+2015,664,Southern Miss.,8,6,41,55
+2015,228,Florida A&M,4,6,37,47
+2015,433,Ole Miss,8,6,44,58
+2015,468,Southern N.H.,9,5,34,48
+2015,234,Florida St.,10,3,43,56
+2015,30152,Southern Nazarene,3,10,31,44
+2015,81,Bryant,1,6,48,55
+2015,775,Western New Eng.,0,0,36,36
+2015,230,Florida Tech,16,0,31,47
+2015,1176,Lincoln Memorial,11,7,31,49
+2015,1446,Western Ore.,10,14,26,50
+2015,11538,Fontbonne,0,2,36,38
+2015,525,Olivet,0,1,39,40
+2015,236,Fordham,1,8,46,55
+2015,464,Omaha,5,7,41,53
+2015,527,Oral Roberts,6,4,41,51
+2015,529,Oregon,12,2,46,60
+2015,9011,Fort Hays St.,3,7,35,45
+2015,528,Oregon St.,12,3,40,55
+2015,30136,Lindenwood (MO),5,9,31,45
+2015,1179,Linfield,9,5,26,40
+2015,83,Bucknell,5,2,39,46
+2015,28600,Lipscomb,8,4,40,52
+2015,84,Buena Vista,0,0,39,39
+2015,361,LIU Brooklyn,2,2,48,52
+2015,86,Buffalo,2,5,44,51
+2015,362,LIU Post,0,3,36,39
+2015,777,Westfield St.,0,0,39,39
+2015,87,Butler,2,9,41,52
+2015,530,Oswego St.,0,0,40,40
+2015,77,BYU,6,10,35,51
+2015,665,Southern U.,1,8,33,42
+2015,1450,Westminster (MO),0,0,31,31
+2015,238,Framingham St.,0,0,39,39
 2015,360,Lock Haven,0,2,41,43
+2015,1451,Westminster (PA),0,0,41,41
+2015,1085,Francis Marion,10,6,31,47
 2015,99,Long Beach St.,9,5,40,54
 2015,363,Longwood,5,6,42,53
-2015,364,Loras,1,1,33,35
-2015,122,Case,0,0,35,35
-2015,530,Oswego St.,0,0,40,40
-2015,123,Castleton,2,2,37,41
-2015,780,Whitman,2,8,24,34
-2015,231,FIU,8,7,39,54
-2015,1182,Louisiana Col.,3,7,30,40
-2015,1001,Catawba,14,4,32,50
-2015,366,Louisiana Tech,6,6,42,54
-2015,124,Catholic,0,0,38,38
-2015,367,Louisville,10,5,43,58
-2015,229,Fla. Atlantic,11,2,43,56
-2015,23624,Cazenovia,0,0,38,38
-2015,480,CCNY,0,0,36,36
-2015,781,Whittier,2,12,29,43
-2015,1454,Whitworth,8,5,25,38
 2015,531,Otterbein,8,0,33,41
-2015,30191,Spring Hill,9,5,32,46
-2015,782,Wichita St.,4,9,42,55
+2015,364,Loras,1,1,33,35
 2015,1289,Ouachita Baptist,9,5,28,42
-2015,673,Springfield,0,0,40,40
-2015,783,Widener,1,3,36,40
-2015,233,Fla. Southern,7,8,30,45
 2015,23008,Ozarks (AR),4,7,26,37
-2015,30124,Cedarville,6,3,38,47
-2015,30092,Flagler,16,2,29,47
-2015,125,Centenary (LA),2,6,29,37
-2015,235,Florida,14,2,39,55
-2015,12884,Centenary (NJ),0,0,33,33
-2015,370,Loyola Marymount,9,6,37,52
-2015,126,Central (IA),0,0,40,40
-2015,365,LSU,15,1,40,56
-2015,228,Florida A&M,4,6,37,47
-2015,1004,Central Ark.,5,3,42,50
-2015,127,Central Conn. St.,0,0,51,51
-2015,593,St. Anselm,3,10,35,48
-2015,30177,Lubbock Christian,10,8,32,50
-2015,234,Florida St.,10,3,43,56
-2015,372,Luther,0,0,40,40
-2015,230,Florida Tech,16,0,31,47
-2015,129,Central Mich.,10,5,41,56
-2015,130,Central Mo.,7,7,35,49
-2015,596,St. Bonaventure,2,1,47,50
-2015,784,Wilkes,3,4,31,38
-2015,1009,Central Okla.,4,10,34,48
-2015,785,Willamette,12,1,32,45
-2015,374,Lynchburg,1,6,29,36
-2015,11538,Fontbonne,0,2,36,38
-2015,786,William & Mary,6,4,43,53
-2015,30065,Lyndon St.,0,6,29,35
-2015,20794,Lynn,12,4,34,50
-2015,376,Macalester,0,0,39,39
-2015,236,Fordham,1,8,46,55
-2015,598,St. Cloud St.,5,0,41,46
-2015,377,MacMurray,0,0,39,39
-2015,1334,St. Edward's,14,6,31,51
-2015,9011,Fort Hays St.,3,7,35,45
-2015,380,Maine,4,12,39,55
-2015,1010,Central Wash.,9,9,32,50
-2015,30137,Malone,6,3,41,50
-2015,30120,William Jewell,5,1,44,50
-2015,17094,William Peace,1,9,21,31
-2015,132,Centre,0,3,30,33
-2015,1192,Manchester,0,0,36,36
-2015,381,Manhattan,2,8,45,55
-2015,382,Manhattanville,3,3,33,39
-2015,384,Mansfield,0,3,44,47
-2015,1194,Maranatha Baptist,0,0,22,22
-2015,533,Pace,0,4,40,44
-2015,1196,Marian (WI),0,0,37,37
-2015,601,St. John Fisher,2,5,32,39
-2015,385,Marietta,2,1,35,38
-2015,534,Pacific,1,13,37,51
-2015,603,St. John's (NY),5,6,45,56
-2015,386,Marist,0,6,40,46
-2015,789,Williams,0,0,30,30
-2015,2751,Pacific (OR),2,9,29,40
-2015,1297,Pacific Lutheran,10,4,25,39
-2015,1460,Wilmington (DE),3,3,41,47
-2015,1461,Wilmington (OH),0,1,38,39
-2015,535,Paine,3,12,35,50
-2015,238,Framingham St.,0,0,39,39
-2015,1199,Mars Hill,2,10,32,44
-2015,30072,St. Joseph's (Brkln),1,4,36,41
-2015,388,Marshall,4,7,44,55
-2015,1085,Francis Marion,10,6,31,47
-2015,604,St. Joseph's (IN),1,4,42,47
-2015,8597,Martin Luther,0,2,33,35
-2015,1340,St. Joseph's (L.I.),0,0,38,38
-2015,30075,Mary,2,9,37,48
-2015,605,St. Joseph's (ME),1,5,33,39
-2015,1462,Wingate,13,5,32,50
-2015,607,St. Lawrence,0,0,37,37
-2015,790,Winona St.,0,6,42,48
-2015,791,Winston-Salem,10,4,33,47
-2015,792,Winthrop,10,4,41,55
-2015,1203,Mary Hardin-Baylor,5,6,29,40
-2015,134,Chapman,4,6,30,40
-2015,390,Mary Washington,6,0,26,32
-2015,610,St. Mary's (CA),10,6,39,55
-2015,8911,Wis. Lutheran,0,0,40,40
-2015,392,Maryland,7,2,45,54
-2015,1013,Charleston (WV),0,0,42,42
-2015,30045,Palm Beach Atl.,7,7,34,48
 2015,239,Frank. & Marsh.,0,0,40,40
-2015,394,Marymount (VA),2,2,26,30
-2015,395,Maryville (MO),4,6,39,49
+2015,30164,Southern Va.,1,4,30,35
 2015,2694,Franklin,3,1,36,40
-2015,48,Charleston So.,7,4,42,53
-2015,396,Maryville (TN),8,5,25,38
-2015,397,Marywood,0,0,35,35
+2015,1379,Southern Vt.,1,1,34,36
 2015,241,Franklin Pierce,6,0,41,47
-2015,458,Charlotte,4,3,43,50
-2015,611,St. Mary's (MD),0,3,26,29
-2015,399,Mass. Maritime,2,3,31,36
+2015,30192,Southern Wesleyan,5,12,32,49
 2015,242,Fredonia,0,0,39,39
-2015,1346,St. Mary's (TX),14,4,30,48
-2015,400,Massachusetts,0,0,48,48
+2015,1182,Louisiana Col.,3,7,30,40
 2015,30147,Fresno Pacific,12,7,31,50
-2015,773,McDaniel,0,0,33,33
-2015,795,Wis.-La Crosse,0,0,40,40
-2015,798,Wis.-Oshkosh,0,0,38,38
-2015,799,Wis.-Parkside,1,1,42,44
-2015,614,St. Norbert,0,0,36,36
-2015,800,Wis.-Platteville,0,0,40,40
-2015,615,St. Olaf,0,0,38,38
+2015,366,Louisiana Tech,6,6,42,54
+2015,1305,Cairn,0,0,36,36
+2015,367,Louisville,10,5,43,58
+2015,105,Cal Lutheran,7,1,27,35
+2015,90,Cal Poly,4,8,42,54
 2015,96,Fresno St.,7,8,41,56
-2015,21323,Chestnut Hill,2,2,37,41
-2015,30138,McKendree,0,3,45,48
-2015,486,MCLA,0,0,34,34
+2015,778,Wheaton (IL),1,3,33,37
+2015,91,Cal Poly Pomona,14,4,32,50
+2015,92,Cal St. Dom. Hills,12,8,30,50
+2015,98,Cal St. East Bay,4,12,31,47
+2015,779,Wheaton (MA),0,0,45,45
+2015,97,Cal St. Fullerton,8,5,43,56
+2015,100,Cal St. L.A.,12,7,29,48
 2015,243,Frostburg St.,6,0,32,38
-2015,802,Wis.-Stevens Point,0,0,41,41
-2015,540,Penn,1,4,38,43
-2015,8530,McMurry,11,3,22,36
+2015,12799,Wheeling Jesuit,0,2,43,45
 2015,244,Furman,7,6,43,56
-2015,803,Wis.-Stout,0,0,39,39
-2015,402,McNeese St.,11,5,41,57
 2015,253,Ga. Southern,11,5,40,56
-2015,804,Wis.-Superior,0,0,41,41
-2015,30190,Penn College,0,0,38,38
 2015,1097,Ga. Southwestern,5,14,28,47
-2015,805,Wis.-Whitewater,0,0,40,40
+2015,2755,Southwest Baptist,4,7,36,47
 2015,245,Gallaudet,0,1,36,37
-2015,137,Chicago,0,0,41,41
 2015,246,Gannon,8,6,32,46
+2015,30055,Cal St. Monterey Bay,13,7,30,50
+2015,8736,Southwest Minn. St.,0,3,45,48
 2015,1092,Gardner-Webb,10,5,39,54
-2015,136,Chicago St.,2,8,46,56
+2015,93,Cal St. San B'dino,4,17,28,49
 2015,30084,Geneva,0,0,40,40
-2015,95,Chico St.,6,8,29,43
+2015,103,Cal St. Stanislaus,6,11,33,50
 2015,1094,George Fox,6,7,27,40
-2015,379,Me.-Farmington,0,0,37,37
+2015,995,Caldwell,0,0,40,40
 2015,248,George Mason,3,5,45,53
-2015,8875,Chowan,8,7,29,44
-2015,806,Wittenberg,0,0,38,38
-2015,139,Chris. Newport,5,1,25,31
 2015,249,George Washington,6,3,44,53
-2015,30040,Me.-Presque Isle,0,0,26,26
-2015,787,Wm. Paterson,0,0,38,38
-2015,1015,Christian Bros.,6,7,30,43
-2015,2915,Wofford,12,4,41,57
-2015,618,St. Scholastica,0,0,40,40
-2015,807,Wooster,0,0,37,37
-2015,140,Cincinnati,3,9,41,53
-2015,539,Penn St.,0,8,44,52
-2015,809,Worcester St.,0,0,38,38
-2015,30081,Penn St. Harrisburg,0,0,37,37
-2015,808,WPI,1,0,39,40
-2015,23725,Medaille,0,0,36,36
-2015,30114,Penn St.-Abington,0,0,35,35
+2015,107,California,9,3,42,54
+2015,533,Pace,0,4,40,44
+2015,534,Pacific,1,13,37,51
+2015,780,Whitman,2,8,24,34
+2015,8746,Southwestern (TX),4,4,33,41
+2015,2751,Pacific (OR),2,9,29,40
+2015,370,Loyola Marymount,9,6,37,52
+2015,8744,Southwestern Okla.,8,12,29,49
+2015,106,California (PA),0,0,46,46
+2015,1297,Pacific Lutheran,10,4,25,39
+2015,781,Whittier,2,12,29,43
 2015,251,Georgetown,3,7,41,51
-2015,810,Wright St.,6,6,42,54
-2015,25719,Penn St.-Altoona,0,1,38,39
-2015,538,Penn St.-Behrend,0,0,38,38
-2015,30044,Penn St.-Berks,0,0,32,32
-2015,620,St. Thomas (MN),0,0,39,39
-2015,141,Citadel,7,7,40,54
-2015,1348,St. Thomas Aquinas,0,0,50,50
-2015,541,Pepperdine,8,8,37,53
-2015,674,Stanford,9,8,39,56
-2015,675,Staten Island,0,0,41,41
+2015,365,LSU,15,1,40,56
+2015,535,Paine,3,12,35,50
+2015,23260,Spalding,0,0,34,34
+2015,30135,California Baptist,8,10,32,50
+2015,1454,Whitworth,8,5,25,38
+2015,89,Caltech,0,11,23,34
+2015,782,Wichita St.,4,9,42,55
+2015,114,Calvin,0,0,36,36
+2015,783,Widener,1,3,36,40
+2015,996,Cameron,7,10,35,52
+2015,115,Campbell,13,2,39,54
+2015,116,Canisius,5,7,46,58
 2015,257,Georgia,8,5,43,56
-2015,812,Xavier,4,8,42,54
-2015,676,Stephen F. Austin,4,10,40,54
-2015,404,Memphis,4,3,47,54
+2015,30045,Palm Beach Atl.,7,7,34,48
+2015,30177,Lubbock Christian,10,8,32,50
 2015,1096,Georgia College,5,10,33,48
-2015,813,Yale,0,1,41,42
+2015,372,Luther,0,0,40,40
 2015,254,Georgia St.,9,6,40,55
 2015,255,Georgia Tech,11,4,40,55
-2015,30058,Claflin,2,14,28,44
-2015,814,Yeshiva,0,0,25,25
-2015,678,Stetson,8,8,42,58
+2015,117,Capital,3,4,31,38
 2015,258,Gettysburg,0,0,39,39
-2015,542,Pfeiffer,11,8,26,45
+2015,374,Lynchburg,1,6,29,36
+2015,784,Wilkes,3,4,31,38
 2015,1098,Glenville St.,0,4,43,47
-2015,142,Claremont-M-S,0,15,20,35
-2015,143,Clarion,0,2,44,46
-2015,543,Philadelphia U.,0,0,41,41
-2015,406,Mercer,9,8,39,56
-2015,679,Stevens,2,0,38,40
-2015,724,Merchant Marine,0,0,34,34
-2015,21852,Stevenson,0,1,42,43
-2015,815,York (PA),3,1,38,42
-2015,680,Stillman,3,13,32,48
+2015,30065,Lyndon St.,0,6,29,35
+2015,785,Willamette,12,1,32,45
+2015,786,William & Mary,6,4,43,53
+2015,20794,Lynn,12,4,34,50
+2015,376,Macalester,0,0,39,39
+2015,118,Carleton,1,3,34,38
 2015,260,Gonzaga,7,8,38,53
-2015,407,Mercy,0,6,43,49
-2015,681,Stockton,0,0,29,29
 2015,1099,Gordon,1,2,35,38
-2015,682,Stonehill,7,1,41,49
-2015,408,Mercyhurst,2,0,40,42
+2015,540,Penn,1,4,38,43
+2015,377,MacMurray,0,0,39,39
+2015,30190,Penn College,0,0,38,38
+2015,380,Maine,4,12,39,55
+2015,539,Penn St.,0,8,44,52
+2015,30081,Penn St. Harrisburg,0,0,37,37
+2015,30120,William Jewell,5,1,44,50
+2015,30114,Penn St.-Abington,0,0,35,35
+2015,17094,William Peace,1,9,21,31
+2015,25719,Penn St.-Altoona,0,1,38,39
+2015,120,Carroll (WI),0,0,36,36
+2015,30137,Malone,6,3,41,50
+2015,538,Penn St.-Behrend,0,0,38,38
+2015,1000,Carson-Newman,9,9,31,49
+2015,30044,Penn St.-Berks,0,0,32,32
+2015,121,Carthage,0,0,37,37
+2015,541,Pepperdine,8,8,37,53
+2015,30191,Spring Hill,9,5,32,46
+2015,673,Springfield,0,0,40,40
+2015,122,Case,0,0,35,35
+2015,123,Castleton,2,2,37,41
+2015,1001,Catawba,14,4,32,50
+2015,789,Williams,0,0,30,30
+2015,1192,Manchester,0,0,36,36
+2015,124,Catholic,0,0,38,38
+2015,1460,Wilmington (DE),3,3,41,47
+2015,23624,Cazenovia,0,0,38,38
+2015,1461,Wilmington (OH),0,1,38,39
+2015,381,Manhattan,2,8,45,55
+2015,480,CCNY,0,0,36,36
+2015,542,Pfeiffer,11,8,26,45
+2015,382,Manhattanville,3,3,33,39
+2015,261,Grambling,2,12,36,50
+2015,384,Mansfield,0,3,44,47
+2015,1104,Grand Canyon,11,5,39,55
+2015,1194,Maranatha Baptist,0,0,22,22
+2015,543,Philadelphia U.,0,0,41,41
+2015,262,Grand Valley St.,5,3,38,46
+2015,1462,Wingate,13,5,32,50
+2015,30124,Cedarville,6,3,38,47
+2015,790,Winona St.,0,6,42,48
+2015,125,Centenary (LA),2,6,29,37
+2015,593,St. Anselm,3,10,35,48
+2015,12884,Centenary (NJ),0,0,33,33
+2015,791,Winston-Salem,10,4,33,47
 2015,21830,Piedmont,8,4,28,40
-2015,683,Stony Brook,2,7,42,51
+2015,126,Central (IA),0,0,40,40
+2015,1196,Marian (WI),0,0,37,37
+2015,1004,Central Ark.,5,3,42,50
+2015,385,Marietta,2,1,35,38
+2015,127,Central Conn. St.,0,0,51,51
+2015,792,Winthrop,10,4,41,55
+2015,386,Marist,0,6,40,46
+2015,8911,Wis. Lutheran,0,0,40,40
+2015,263,Greensboro,5,7,26,38
+2015,1111,Greenville,0,0,38,38
+2015,596,St. Bonaventure,2,1,47,50
+2015,129,Central Mich.,10,5,41,56
+2015,264,Grinnell,0,0,34,34
+2015,265,Grove City,4,4,32,40
+2015,1199,Mars Hill,2,10,32,44
+2015,130,Central Mo.,7,7,35,49
+2015,388,Marshall,4,7,44,55
+2015,795,Wis.-La Crosse,0,0,40,40
+2015,39,GRU Augusta,5,8,35,48
+2015,8597,Martin Luther,0,2,33,35
+2015,798,Wis.-Oshkosh,0,0,38,38
+2015,1315,Pitt.-Bradford,0,0,32,32
+2015,30075,Mary,2,9,37,48
+2015,799,Wis.-Parkside,1,1,42,44
+2015,11839,Pitt.-Greensburg,0,2,38,40
+2015,598,St. Cloud St.,5,0,41,46
+2015,1009,Central Okla.,4,10,34,48
+2015,800,Wis.-Platteville,0,0,40,40
+2015,546,Pitt.-Johnstown,0,10,38,48
+2015,1334,St. Edward's,14,6,31,51
+2015,1112,Guilford,4,9,25,38
+2015,1314,Pittsburg St.,3,9,33,45
+2015,266,Gust. Adolphus,0,0,38,38
+2015,545,Pittsburgh,4,8,44,56
+2015,12399,Gwynedd Mercy,0,5,31,36
+2015,547,Plattsburgh St.,3,3,31,37
+2015,267,Hamilton,0,0,36,36
+2015,548,Plymouth St.,0,0,36,36
+2015,268,Hamline,0,0,41,41
+2015,30149,Point Loma,13,6,30,49
+2015,269,Hampden-Sydney,3,4,26,33
+2015,802,Wis.-Stevens Point,0,0,41,41
+2015,803,Wis.-Stout,0,0,39,39
+2015,1203,Mary Hardin-Baylor,5,6,29,40
+2015,804,Wis.-Superior,0,0,41,41
+2015,390,Mary Washington,6,0,26,32
+2015,805,Wis.-Whitewater,0,0,40,40
+2015,392,Maryland,7,2,45,54
+2015,1010,Central Wash.,9,9,32,50
+2015,132,Centre,0,3,30,33
+2015,394,Marymount (VA),2,2,26,30
+2015,1115,Hanover,3,3,32,38
+2015,271,Hardin-Simmons,4,3,30,37
+2015,806,Wittenberg,0,0,38,38
+2015,1116,Harding,8,10,30,48
+2015,787,Wm. Paterson,0,0,38,38
+2015,395,Maryville (MO),4,6,39,49
+2015,272,Hartford,3,7,42,52
+2015,2915,Wofford,12,4,41,57
+2015,396,Maryville (TN),8,5,25,38
+2015,807,Wooster,0,0,37,37
+2015,809,Worcester St.,0,0,38,38
+2015,397,Marywood,0,0,35,35
+2015,549,Pomona-Pitzer,11,3,28,42
+2015,399,Mass. Maritime,2,3,31,36
+2015,551,Portland,4,15,36,55
+2015,134,Chapman,4,6,30,40
+2015,400,Massachusetts,0,0,48,48
+2015,1013,Charleston (WV),0,0,42,42
+2015,773,McDaniel,0,0,33,33
+2015,48,Charleston So.,7,4,42,53
+2015,458,Charlotte,4,3,43,50
+2015,1318,Post,4,8,37,49
+2015,275,Harvard,5,3,34,42
+2015,553,Prairie View,4,8,38,50
+2015,808,WPI,1,0,39,40
+2015,601,St. John Fisher,2,5,32,39
+2015,810,Wright St.,6,6,42,54
+2015,603,St. John's (NY),5,6,45,56
+2015,30138,McKendree,0,3,45,48
+2015,486,MCLA,0,0,34,34
+2015,1320,Presbyterian,10,3,43,56
+2015,21323,Chestnut Hill,2,2,37,41
+2015,8530,McMurry,11,3,22,36
+2015,402,McNeese St.,11,5,41,57
+2015,137,Chicago,0,0,41,41
+2015,554,Princeton,0,3,37,40
+2015,136,Chicago St.,2,8,46,56
+2015,555,Principia,0,0,35,35
+2015,379,Me.-Farmington,0,0,37,37
+2015,95,Chico St.,6,8,29,43
+2015,812,Xavier,4,8,42,54
+2015,30040,Me.-Presque Isle,0,0,26,26
+2015,8875,Chowan,8,7,29,44
+2015,23725,Medaille,0,0,36,36
+2015,139,Chris. Newport,5,1,25,31
+2015,813,Yale,0,1,41,42
+2015,1015,Christian Bros.,6,7,30,43
+2015,140,Cincinnati,3,9,41,53
+2015,30072,St. Joseph's (Brkln),1,4,36,41
+2015,604,St. Joseph's (IN),1,4,42,47
+2015,404,Memphis,4,3,47,54
+2015,1340,St. Joseph's (L.I.),0,0,38,38
+2015,141,Citadel,7,7,40,54
+2015,814,Yeshiva,0,0,25,25
+2015,605,St. Joseph's (ME),1,5,33,39
+2015,607,St. Lawrence,0,0,37,37
+2015,815,York (PA),3,1,38,42
 2015,30154,Young Harris,6,11,30,47
-2015,684,Suffolk,0,0,40,40
-2015,1390,Sul Ross St.,5,11,24,40
 2015,817,Youngstown St.,0,3,44,47
-2015,30165,SUNY Canton,0,0,39,39
-2015,168,SUNY Cortland,0,0,37,37
+2015,30058,Claflin,2,14,28,44
+2015,610,St. Mary's (CA),10,6,39,55
+2015,406,Mercer,9,8,39,56
+2015,142,Claremont-M-S,0,15,20,35
+2015,724,Merchant Marine,0,0,34,34
+2015,143,Clarion,0,2,44,46
+2015,407,Mercy,0,6,43,49
+2015,611,St. Mary's (MD),0,3,26,29
+2015,408,Mercyhurst,2,0,40,42
+2015,1346,St. Mary's (TX),14,4,30,48
+2015,614,St. Norbert,0,0,36,36
+2015,615,St. Olaf,0,0,38,38
 2015,410,Merrimack,2,0,38,40
 2015,411,Messiah,0,2,35,37
 2015,412,Methodist,8,5,27,40
 2015,413,Metro St.,5,7,34,46
 2015,415,Miami (FL),10,6,41,57
-2015,478,SUNY Maritime,1,4,30,35
 2015,414,Miami (OH),2,8,42,52
-2015,475,SUNY New Paltz,0,0,34,34
-2015,1315,Pitt.-Bradford,0,0,32,32
-2015,526,SUNY Oneonta,0,0,37,37
-2015,11839,Pitt.-Greensburg,0,2,38,40
-2015,9500,SUNY Poly,0,0,39,39
-2015,546,Pitt.-Johnstown,0,10,38,48
-2015,261,Grambling,2,12,36,50
-2015,1104,Grand Canyon,11,5,39,55
-2015,1314,Pittsburg St.,3,9,33,45
-2015,262,Grand Valley St.,5,3,38,46
-2015,545,Pittsburgh,4,8,44,56
-2015,685,Susquehanna,2,4,33,39
-2015,547,Plattsburgh St.,3,3,31,37
-2015,686,Swarthmore,0,0,36,36
-2015,548,Plymouth St.,0,0,36,36
-2015,30149,Point Loma,13,6,30,49
 2015,418,Michigan,10,6,39,55
-2015,263,Greensboro,5,7,26,38
+2015,618,St. Scholastica,0,0,40,40
 2015,416,Michigan St.,4,7,44,55
-2015,1111,Greenville,0,0,38,38
-2015,264,Grinnell,0,0,34,34
-2015,265,Grove City,4,4,32,40
-2015,39,GRU Augusta,5,8,35,48
-2015,1112,Guilford,4,9,25,38
-2015,266,Gust. Adolphus,0,0,38,38
-2015,12399,Gwynedd Mercy,0,5,31,36
-2015,267,Hamilton,0,0,36,36
-2015,268,Hamline,0,0,41,41
-2015,269,Hampden-Sydney,3,4,26,33
-2015,549,Pomona-Pitzer,11,3,28,42
-2015,551,Portland,4,15,36,55
-2015,1115,Hanover,3,3,32,38
-2015,1318,Post,4,8,37,49
-2015,271,Hardin-Simmons,4,3,30,37
-2015,553,Prairie View,4,8,38,50
-2015,1116,Harding,8,10,30,48
-2015,272,Hartford,3,7,42,52
-2015,1320,Presbyterian,10,3,43,56
-2015,275,Harvard,5,3,34,42
-2015,554,Princeton,0,3,37,40
-2015,555,Principia,0,0,35,35
+2015,620,St. Thomas (MN),0,0,39,39
+2015,1348,St. Thomas Aquinas,0,0,50,50
+2015,674,Stanford,9,8,39,56
+2015,675,Staten Island,0,0,41,41
+2015,676,Stephen F. Austin,4,10,40,54
+2015,678,Stetson,8,8,42,58
+2015,679,Stevens,2,0,38,40
+2015,21852,Stevenson,0,1,42,43
+2015,680,Stillman,3,13,32,48
+2015,681,Stockton,0,0,29,29
+2015,682,Stonehill,7,1,41,49
+2015,683,Stony Brook,2,7,42,51
+2015,684,Suffolk,0,0,40,40
+2015,1390,Sul Ross St.,5,11,24,40
+2015,30165,SUNY Canton,0,0,39,39
+2015,168,SUNY Cortland,0,0,37,37
+2015,478,SUNY Maritime,1,4,30,35
+2015,475,SUNY New Paltz,0,0,34,34
+2015,526,SUNY Oneonta,0,0,37,37
+2015,9500,SUNY Poly,0,0,39,39
+2015,685,Susquehanna,2,4,33,39
+2015,686,Swarthmore,0,0,36,36
