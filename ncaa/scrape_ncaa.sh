@@ -1,6 +1,6 @@
 #!/bin/bash
 
-scrapers/ncaa_schools.rb
+#scrapers/ncaa_schools.rb
 
 scrapers/ncaa_divisions.rb
 
