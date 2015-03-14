@@ -1,108 +1,108 @@
-[1] 1178918       9
+[1] 1179870       9
 [1] TRUE
-[1] 1178918       8
-start par. =  1 1 1 fn =  2351744 
+[1] 1179870       8
+start par. =  1 1 1 fn =  2353672 
 At return
-eval: 121 fn:      2327982.5 par: 0.443241 0.407128 0.151430
-start par. =  1 1 1 1 fn =  2438847 
+eval: 166 fn:      2329883.0 par: 0.442988 0.407163 0.151422
+start par. =  1 1 1 1 fn =  2440886 
 At return
-eval:  83 fn:      2320553.1 par: 0.357908 0.478890 0.440117 0.159189
+eval:  85 fn:      2322458.0 par: 0.357774 0.478595 0.440132 0.159165
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
      AIC      BIC   logLik deviance df.resid 
- 2320613  2320973 -1160277  2320553  1178888 
+ 2322518  2322877 -1161229  2322458  1179840 
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.2118  
- defense  (Intercept) 0.2834  
- offense  (Intercept) 0.2604  
- park     (Intercept) 0.0942  
- Residual             0.5918  
-Number of obs: 1178918, groups:  
-game_id, 589459; defense, 14473; offense, 14473; park, 971
+ game_id  (Intercept) 0.21172 
+ defense  (Intercept) 0.28322 
+ offense  (Intercept) 0.26046 
+ park     (Intercept) 0.09419 
+ Residual             0.59178 
+Number of obs: 1179870, groups:  
+game_id, 589935; defense, 14488; offense, 14488; park, 971
 Fixed Effects:
        (Intercept)            year1998            year1999            year2000  
-          1.893792            0.009661           -0.011161           -0.047572  
+          1.893979            0.009673           -0.011157           -0.047561  
           year2001            year2002            year2003            year2004  
-         -0.068656           -0.099583           -0.126310           -0.117314  
+         -0.068635           -0.099784           -0.126512           -0.117505  
           year2005            year2006            year2007            year2008  
-         -0.126259           -0.129089           -0.122263           -0.070529  
+         -0.126466           -0.129293           -0.122465           -0.070721  
           year2009            year2010            year2011            year2012  
-         -0.037369           -0.027694           -0.193106           -0.197652  
+         -0.037561           -0.027878           -0.193293           -0.197846  
           year2013            year2014            year2015           fieldnone  
-         -0.231676           -0.247140           -0.217036           -0.020051  
+         -0.231876           -0.247359           -0.221649           -0.020115  
 fieldpitching_home              h_div2              h_div3              p_div2  
-         -0.079099           -0.251604           -0.416819            0.249706  
+         -0.079117           -0.251390           -0.416843            0.249713  
             p_div3  
-          0.456475  
+          0.456488  
 Linear mixed model fit by maximum likelihood  ['lmerMod']
 Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
 
      AIC      BIC   logLik deviance df.resid 
- 2320613  2320973 -1160277  2320553  1178888 
+ 2322518  2322878 -1161229  2322458  1179840 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--3.9932 -0.5460  0.1099  0.6623  4.4644 
+-3.9929 -0.5462  0.1099  0.6623  4.4643 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.044856 0.2118  
- defense  (Intercept) 0.080306 0.2834  
- offense  (Intercept) 0.067829 0.2604  
- park     (Intercept) 0.008874 0.0942  
- Residual             0.350170 0.5918  
-Number of obs: 1178918, groups:  
-game_id, 589459; defense, 14473; offense, 14473; park, 971
+ game_id  (Intercept) 0.044827 0.21172 
+ defense  (Intercept) 0.080215 0.28322 
+ offense  (Intercept) 0.067840 0.26046 
+ park     (Intercept) 0.008872 0.09419 
+ Residual             0.350201 0.59178 
+Number of obs: 1179870, groups:  
+game_id, 589935; defense, 14488; offense, 14488; park, 971
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)         1.893792   0.022526   84.07
-year1998            0.009661   0.031253    0.31
-year1999           -0.011161   0.031683   -0.35
-year2000           -0.047572   0.031317   -1.52
-year2001           -0.068656   0.031718   -2.16
-year2002           -0.099583   0.026280   -3.79
-year2003           -0.126310   0.026224   -4.82
-year2004           -0.117314   0.026202   -4.48
-year2005           -0.126259   0.026187   -4.82
-year2006           -0.129089   0.026106   -4.94
-year2007           -0.122263   0.026096   -4.69
-year2008           -0.070529   0.026065   -2.71
-year2009           -0.037369   0.026033   -1.44
-year2010           -0.027694   0.026004   -1.06
-year2011           -0.193106   0.025987   -7.43
-year2012           -0.197652   0.025934   -7.62
-year2013           -0.231676   0.025939   -8.93
-year2014           -0.247140   0.025915   -9.54
-year2015           -0.217036   0.026768   -8.11
-fieldnone          -0.020051   0.094274   -0.21
-fieldpitching_home -0.079099   0.001245  -63.54
-h_div2             -0.251604   0.008645  -29.11
-h_div3             -0.416819   0.009079  -45.91
-p_div2              0.249706   0.008961   27.87
-p_div3              0.456475   0.009346   48.84
+(Intercept)         1.893979   0.022521   84.10
+year1998            0.009673   0.031245    0.31
+year1999           -0.011157   0.031675   -0.35
+year2000           -0.047561   0.031309   -1.52
+year2001           -0.068635   0.031710   -2.16
+year2002           -0.099784   0.026273   -3.80
+year2003           -0.126512   0.026217   -4.83
+year2004           -0.117505   0.026195   -4.49
+year2005           -0.126466   0.026180   -4.83
+year2006           -0.129293   0.026099   -4.95
+year2007           -0.122465   0.026089   -4.69
+year2008           -0.070721   0.026058   -2.71
+year2009           -0.037561   0.026027   -1.44
+year2010           -0.027878   0.025998   -1.07
+year2011           -0.193293   0.025980   -7.44
+year2012           -0.197846   0.025927   -7.63
+year2013           -0.231876   0.025932   -8.94
+year2014           -0.247359   0.025908   -9.55
+year2015           -0.221649   0.026684   -8.31
+fieldnone          -0.020115   0.094264   -0.21
+fieldpitching_home -0.079117   0.001244  -63.57
+h_div2             -0.251390   0.008644  -29.08
+h_div3             -0.416843   0.009077  -45.92
+p_div2              0.249713   0.008957   27.88
+p_div3              0.456488   0.009342   48.87
 Analysis of Variance Table
       Df  Sum Sq Mean Sq  F value
-year  18  166.24    9.24   26.375
-field  2 1554.82  777.41 2220.091
-h_div  2  197.86   98.93  282.518
-p_div  2  841.99  420.99 1202.253
+year  18  168.07    9.34   26.662
+field  2 1556.44  778.22 2222.206
+h_div  2  197.32   98.66  281.723
+p_div  2  842.81  421.41 1203.327
 Data: g
 Models:
 fit0: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) + 
 fit0:     (1 | defense)
 fit: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) + 
 fit:     (1 | defense) + (1 | game_id)
-     Df     AIC     BIC   logLik deviance  Chisq Chi Df Pr(>Chisq)    
-fit0 29 2328040 2328388 -1163991  2327982                             
-fit  30 2320613 2320973 -1160277  2320553 7429.3      1  < 2.2e-16 ***
+     Df     AIC     BIC   logLik deviance Chisq Chi Df Pr(>Chisq)    
+fit0 29 2329941 2330288 -1164941  2329883                            
+fit  30 2322518 2322877 -1161229  2322458  7425      1  < 2.2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
        chisq        ratio          rdf            p 
-3.624427e+05 3.074443e-01 1.178889e+06 1.000000e+00 
+3.627885e+05 3.074893e-01 1.179841e+06 1.000000e+00 
 [1] TRUE
