@@ -13,7 +13,7 @@ base_url = 'http://stats.ncaa.org'
 
 box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
 
-nthreads = 6
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
