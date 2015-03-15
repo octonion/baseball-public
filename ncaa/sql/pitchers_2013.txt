@@ -1,0 +1,24 @@
+ year |    player_name    |  team_name   | class_year | position | p_gs | p_ip  | p_so | p_bb | outs | adj_so9 | adj_bb9 | index 
+------+-------------------+--------------+------------+----------+------+-------+------+------+------+---------+---------+-------
+ 2013 | Gray, Jonathan    | Oklahoma     | Jr         | Pitcher  |   17 | 126.1 |  147 |   24 |  379 |   10.18 |    0.98 | 14.87
+ 2013 | Williams, Taylor  | Kent St      | Jr         | Pitcher  |   15 | 105.2 |  110 |   18 |  317 |    9.00 |    1.00 | 12.99
+ 2013 | McCain, Shane     | Troy         | Jr         | Pitcher  |   16 | 98.1  |  105 |   18 |  295 |    9.08 |    0.99 | 12.40
+ 2013 | Petree, Nick      | Missouri St  | Jr         | Pitcher  |   14 | 100.1 |  111 |   19 |  301 |    9.08 |    0.99 | 12.40
+ 2013 | Morris, Jesse     | Wofford      | Jr         | Pitcher  |   14 | 83.2  |  102 |   20 |  251 |   10.09 |    1.98 | 11.48
+ 2013 | Barnett, Andrew   | Gardner-Webb | Jr         | Pitcher  |   15 | 91.2  |   93 |   17 |  275 |    8.96 |    1.00 | 10.81
+ 2013 | White, Cameron    | Air Force    | Jr         | Pitcher  |   15 | 107   |   70 |    9 |  321 |    5.05 |    0.00 | 10.25
+ 2013 | Gonzalez, Alex    | Oral Roberts | Jr         | Pitcher  |   15 | 113.1 |  126 |   27 |  340 |   10.19 |    1.96 |  9.95
+ 2013 | Thurman, Andrew   | UC Irvine    | Jr         | Pitcher  |   14 | 100.1 |   91 |   19 |  301 |    8.27 |    0.97 |  8.35
+ 2013 | Vander Tuig, Nick | UCLA         | Jr         | Pitcher  |   19 | 129   |   93 |   18 |  387 |    6.24 |    0.96 |  8.25
+ 2013 | Schlitter, Craig  | Bryant       | Jr         | Pitcher  |   14 | 83.2  |   80 |   16 |  251 |    7.86 |    1.02 |  7.26
+ 2013 | Davis, Adam       | Delaware     | Jr         | Pitcher  |   14 | 97    |   74 |   15 |  291 |    6.02 |    1.00 |  7.12
+ 2013 | Batts, Mat        | UNCW         | Jr         | Pitcher  |   16 | 111.2 |  114 |   27 |  335 |    9.17 |    1.96 |  6.92
+ 2013 | Morales, Andrew   | UC Irvine    | Jr         | Pitcher  |   13 | 95.1  |   85 |   21 |  286 |    8.27 |    0.97 |  6.41
+ 2013 | Knapp, Ricky      | FGCU         | Jr         | Pitcher  |   14 | 102.2 |   74 |   15 |  308 |    5.98 |    1.00 |  5.88
+ 2013 | McGowin, Kyle     | Savannah St  | Jr         | Pitcher  |   15 | 120.1 |  134 |   31 |  361 |    9.71 |    2.06 |  5.46
+ 2013 | Radziewski, Bryan | Miami (FL)   | Jr         | Pitcher  |   14 | 91    |  109 |   30 |  273 |   10.40 |    1.92 |  5.42
+ 2013 | C. Smith, Clay    | Saint Louis  | Jr         | Pitcher  |   17 | 98    |   76 |   17 |  294 |    5.98 |    1.00 |  4.90
+ 2013 | Astin, Barrett    | Arkansas     | Jr         | Pitcher  |   14 | 90.2  |   74 |   20 |  272 |    7.20 |    0.97 |  4.14
+ 2013 | Thornhill, Nathan | Texas        | Jr         | Pitcher  |   13 | 85.1  |   60 |   15 |  256 |    6.15 |    0.97 |  3.84
+(20 rows)
+

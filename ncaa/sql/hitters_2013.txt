@@ -1,0 +1,24 @@
+ year |    player_name     |     team_name     | class_year |  position  | pa  | adj_obp |  slg  | adj_slg | index 
+------+--------------------+-------------------+------------+------------+-----+---------+-------+---------+-------
+ 2013 | Bryant, Kris       | San Diego         | Jr         | Third Base | 302 |   0.514 | 0.820 |   0.855 | 1.883
+ 2013 | Peterson, D.J      | New Mexico        | Jr         | Third Base | 273 |   0.518 | 0.807 |   0.792 | 1.828
+ 2013 | Dozier, Hunter     | Stephen F. Austin | Jr         | Infield    | 249 |   0.500 | 0.755 |   0.778 | 1.779
+ 2013 | Jagielo, Eric      | Notre Dame        | Jr         | Outfield   | 246 |   0.522 | 0.633 |   0.645 | 1.688
+ 2013 | Jackson, Joe       | Citadel           | Jr         | Catcher    | 281 |   0.504 | 0.658 |   0.660 | 1.667
+ 2013 | Payton, Mark       | Texas             | Jr         | Outfield   | 210 |   0.515 | 0.545 |   0.577 | 1.607
+ 2013 | Judge, Aaron       | Fresno St         | Jr         | Outfield   | 243 |   0.471 | 0.655 |   0.663 | 1.605
+ 2013 | Keller, Jeff       | Dartmouth         | Jr         | Outfield   | 166 |   0.455 | 0.702 |   0.688 | 1.598
+ 2013 | Yezzo, Jimmy       | Delaware          | Jr         | Infield    | 254 |   0.448 | 0.714 |   0.700 | 1.596
+ 2013 | Massoni, Craig     | Austin Peay       | Jr         | Outfield   | 282 |   0.470 | 0.661 |   0.648 | 1.588
+ 2013 | Oberste, Matt      | Oklahoma          | Jr         | Infield    | 283 |   0.476 | 0.622 |   0.634 | 1.586
+ 2013 | Renfroe, Hunter    | Mississippi St    | Jr         | Catcher    | 298 |   0.463 | 0.620 |   0.653 | 1.578
+ 2013 | Palka, Daniel      | Georgia Tech      | Jr         | First Base | 278 |   0.453 | 0.637 |   0.658 | 1.564
+ 2013 | Moran, Colin       | North Carolina    | Jr         | Third Base | 351 |   0.492 | 0.544 |   0.563 | 1.548
+ 2013 | Collins, Danny     | Troy              | Jr         | Infield    | 279 |   0.455 | 0.631 |   0.626 | 1.536
+ 2013 | Brown, Connor      | James Madison     | Jr         | Infield    | 224 |   0.471 | 0.592 |   0.590 | 1.532
+ 2013 | Armstrong, Patrick | UNLV              | Jr         | Infield    | 194 |   0.472 | 0.596 |   0.587 | 1.530
+ 2013 | Raffield, Chase    | Georgia St        | Jr         | Outfield   | 215 |   0.449 | 0.645 |   0.622 | 1.520
+ 2013 | Mancini, Trey      | Notre Dame        | Jr         | Infield    | 252 |   0.453 | 0.603 |   0.614 | 1.520
+ 2013 | Evans, Zane        | Georgia Tech      | Jr         | Catcher    | 278 |   0.453 | 0.590 |   0.609 | 1.515
+(20 rows)
+
