@@ -21,7 +21,7 @@ records_header = ["year","team_id","team_name","wins","losses","ties",
 game_xpath = "//table/tr[3]/td/form/table[2]/tr"
 record_xpath = "//table/tr[3]/td/form/table[1]/tr[2]"
 
-nthreads = 6
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3

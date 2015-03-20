@@ -42,7 +42,8 @@ create table ncaa.player_statistics (
 	p_earned_runs			integer,
 	p_bb				integer,
 	p_so				integer,
-	p_era				text
+	p_era				text,
+	primary key (team_id, year, player_id)
 );
 
 copy ncaa.player_statistics from '/tmp/ncaa_player_statistics.csv' with delimiter as '|' csv quote as '"';
