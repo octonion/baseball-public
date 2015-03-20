@@ -67,4 +67,34 @@ where year in (2015)
 and div_id=3
 order by rk asc;
 
+copy (
+select
+rank() over (order by str desc) as rk,
+school,div_id as div,str,park,ofs,dfs,sos
+from r
+where year in (2015)
+and div_id=1
+order by rk asc)
+to '/tmp/2015_d1.csv' csv header;
+
+copy (
+select
+rank() over (order by str desc) as rk,
+school,div_id as div,str,park,ofs,dfs,sos
+from r
+where year in (2015)
+and div_id=2
+order by rk asc)
+to '/tmp/2015_d2.csv' csv header;
+
+copy (
+select
+rank() over (order by str desc) as rk,
+school,div_id as div,str,park,ofs,dfs,sos
+from r
+where year in (2015)
+and div_id=3
+order by rk asc)
+to '/tmp/2015_d3.csv' csv header;
+
 commit;

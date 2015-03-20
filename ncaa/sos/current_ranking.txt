@@ -931,4 +931,7 @@ INSERT 0 918
  355 | Finlandia            |   3 | 0.102 | 0.969 | 0.474 | 1.941 | 0.672
 (355 rows)
 
+COPY 301
+COPY 262
+COPY 355
 COMMIT
