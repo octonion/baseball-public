@@ -2,8 +2,10 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 year = ARGV[0]
 division = ARGV[1]
@@ -67,7 +69,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       tries = 0
       begin
-        doc = Nokogiri::HTML(open(team_schedule_url))
+        doc = agent.get(team_schedule_url)
       rescue
         sleep_time += sleep_increment
         #print "sleep #{sleep_time} ... "
@@ -84,10 +86,10 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       print "#{i} #{year} #{team_name} ..."
 
-      doc.xpath(game_xpath).each do |game|
+      doc.search(game_xpath).each do |game|
 
         row = [year, year_id, team_id, team_name]
-        game.xpath("td").each_with_index do |element,k|
+        game.search("td").each_with_index do |element,k|
           case k
           when 0
             game_date = element.text.strip

@@ -2,8 +2,10 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 base_sleep = 0
 sleep_increment = 3
@@ -69,7 +71,7 @@ ncaa_teams.each do |team|
 
   tries = 0
   begin
-    doc = Nokogiri::HTML(open(stat_url))
+    doc = agent.get(stat_url)
   rescue
     sleep_time += sleep_increment
     print "sleep #{sleep_time} ... "
@@ -86,10 +88,10 @@ ncaa_teams.each do |team|
 
   print "#{year} #{team_name} ..."
 
-  doc.xpath(players_xpath).each do |player|
+  doc.search(players_xpath).each do |player|
 
     row = [year, year_id, division, team_id, team_name]
-    player.xpath("td").each_with_index do |element,i|
+    player.search("td").each_with_index do |element,i|
       case i
       when 1
         player_name = element.text.strip
@@ -129,10 +131,10 @@ ncaa_teams.each do |team|
   print " #{found_players} players, #{missing_id} missing ID"
 
   found_summaries = 0
-  doc.xpath(teams_xpath).each do |team|
+  doc.search(teams_xpath).each do |team|
 
     row = [year, year_id, team_id, team_name]
-    team.xpath("td").each_with_index do |element,i|
+    team.search("td").each_with_index do |element,i|
         field_string = element.text.strip
         row += [field_string]
     end

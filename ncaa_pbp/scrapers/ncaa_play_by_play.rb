@@ -2,8 +2,10 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 year = ARGV[0]
 division = ARGV[1]
@@ -75,7 +77,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
       tries = 0
       begin
-        page = Nokogiri::HTML(open(game_url))
+        page = Nokogiri::HTML(agent.get(game_url).body)
       rescue
         sleep_time += sleep_increment
 #        print "sleep #{sleep_time} ... "
@@ -97,11 +99,16 @@ game_ids.each_slice(gpt).with_index do |ids,i|
       page.xpath(play_xpath).each_with_index do |row,event_id|
 
         table = row.parent
+
         period_id = table.parent.xpath('table[position()>1 and @class="mytable"]').index(table)
 
         team_text = row.at_xpath('td[1]').text.strip.to_nil rescue nil
         score = row.at_xpath('td[2]').text.strip.to_nil rescue nil
         opponent_text = row.at_xpath('td[3]').text.strip.to_nil rescue nil
+
+#        team_text = row.at_xpath('td[1]').text.strip.to_nil rescue nil
+#        score = row.at_xpath('td[2]').text.strip.to_nil rescue nil
+#        opponent_text = row.at_xpath('td[3]').text.strip.to_nil rescue nil
 
         #team_event = nil
         #if not(team_text.nil?)
