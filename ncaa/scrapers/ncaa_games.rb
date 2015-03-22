@@ -9,8 +9,8 @@ agent.user_agent = 'Mozilla/5.0'
 url = "http://web1.ncaa.org/stats/exec/records"
 schools = CSV.read("csv/ncaa_schools.csv")
 
-first_year = 2014
-last_year = 2014
+first_year = 2015
+last_year = 2015
 
 #games_header = ["year","team_name","team_id","opponent_name","opponent_id",
 #                "game_date","team_score","opponent_score","location",
