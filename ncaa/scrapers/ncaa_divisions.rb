@@ -7,6 +7,8 @@ agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 
 agent.user_agent = 'Mozilla/5.0'
 
+agent.keep_alive = false
+
 #url = "http://web1.ncaa.org/stats/exec/records"
 #url = "http://web1.ncaa.org/stats/StatsSrv/careersearch"
 
