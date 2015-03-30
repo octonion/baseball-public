@@ -3,13 +3,15 @@
 require 'csv'
 require 'mechanize'
 
+bad = '%'
+
 class String
   def to_nil
     self.empty? ? nil : self
   end
 end
 
-games_url = "http://web1.ncaa.org/stats/exec/records"
+search_url = "http://web1.ncaa.org/stats/exec/records"
 
 games_header = ["year","team_name","team_id","opponent_name","opponent_id",
                 "game_date","team_score","opponent_score","location",
@@ -40,13 +42,13 @@ last_year = 2015
 
 (first_year..last_year).each do |year|
 
-  ncaa_games = CSV.open("csv/ncaa_games_mt_#{year}.csv",
+  games = CSV.open("csv/ncaa_games_mt_#{year}.csv",
                         "w", {:col_sep => ","})
-  ncaa_records = CSV.open("csv/ncaa_records_mt_#{year}.csv",
+  records = CSV.open("csv/ncaa_records_mt_#{year}.csv",
                           "w", {:col_sep => ","})
 
-  ncaa_games << games_header
-  ncaa_records << records_header
+  games << games_header
+  records << records_header
 
   threads = []
 
@@ -58,7 +60,7 @@ last_year = 2015
 
       agent.user_agent = 'Mozilla/5.0'
 
-      agent.get(games_url)
+      agent.get(search_url)
 
       #found = 0
       n_t = t_schools.size
@@ -74,7 +76,7 @@ last_year = 2015
         print "#{i}:#{j}/#{n_t} - #{year}/#{school_name}\n"
 
         begin
-          page = agent.post(games_url, {"academicYear" => "#{year}",
+          page = agent.post(search_url, {"academicYear" => "#{year}",
                               "orgId" => school_id,
                               "sportCode" => "MBA"})
         rescue
@@ -87,33 +89,52 @@ last_year = 2015
         end
 
         begin
-          page.parser.xpath(record_xpath).each do |row|
-            r = []
-            row.xpath("td").each do |d|
-              r += [d.text.strip]
+          page.parser.xpath(record_xpath).each do |tr|
+            row = [year,school_id]
+            tr.xpath("td").each do |td|
+              row += [td.text.strip]
             end
             team_count += 1
-            ncaa_records << [year,school_id]+r
+            records << row
           end
+          #records.flush
         end
 
-        page.parser.xpath(game_xpath).each do |row|
-          r = []
-          row.xpath("td").each do |d|
-            r += [d.text.strip,d.inner_html.strip]
+        page.parser.xpath(game_xpath).each do |tr|
+
+          row = []
+          tr.xpath("td").each do |td|
+
+            a = td.xpath("a").first
+            if not(a==nil)
+              text = a.inner_text
+              text = text.gsub(bad,"").strip
+              url = a.attributes["href"].value.strip
+            else
+              text = td.inner_text
+              text = text.gsub(bad,"").strip
+              url = nil
+            end
+            row += [text, url]
+
           end
-          if (r[0]=="Opponent")
+          if (row[0]=="Opponent")
             next
           end
-          opponent_id = r[1][/(\d+)/]
+          if not(row[1]==nil)
+            opponent_id = row[1][/(\d+)/]
+          else
+            opponent_id=nil
+          end
+
           game_count += 1
 
-          rr = [year,school_name,school_id,r[0],opponent_id,
-                r[2],r[4],r[6],r[8],r[10],r[12],r[14]]
+          rr = [year, school_name, school_id,row[0], opponent_id,
+                row[2],row[4],row[6],row[8],row[10],row[12],row[14]]
 
           rr.map!{ |e| e=='' ? nil : e }
 
-          ncaa_games << rr
+          games << rr
 
         end
 
@@ -122,7 +143,7 @@ last_year = 2015
   end
 
   threads.each(&:join)
-  ncaa_games.close
-  ncaa_records.close
+  games.close
+  records.close
 end
 

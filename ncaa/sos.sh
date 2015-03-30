@@ -21,5 +21,7 @@ psql baseball -f sos/schedule_factors.sql
 psql baseball -c "vacuum full verbose analyze ncaa._schedule_factors;"
 
 psql baseball -f sos/current_ranking.sql > sos/current_ranking.txt
+
 psql baseball -f sos/division_ranking.sql > sos/division_ranking.txt
+
 psql baseball -f sos/connectivity.sql > sos/connectivity.txt
