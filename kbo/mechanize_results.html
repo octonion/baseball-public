@@ -1,0 +1,1084 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link rel="shortcut icon" href="//image.koreabaseball.com/client/images/common/favicon.ico" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="keywords" content="kbo" /><meta name="author-date" content="20130308" /><meta http-equiv="x-ua-compatible" content="IE=9, Chrome" /><title>
+	선수등록현황 | 선수현황 | KBO
+</title><link type="text/css" rel="stylesheet" href="//image.koreabaseball.com/client/css/reset.css?version=201503111" /><link type="text/css" rel="stylesheet" href="//image.koreabaseball.com/client/css/common.css?version=201503262" /><link type="text/css" rel="stylesheet" href="//image.koreabaseball.com/client/css/jquery-ui.css" /><link type="text/css" rel="stylesheet" href="//image.koreabaseball.com/client/css/jquery.bxslider.css" />
+	<script type="text/javascript" src="//image.koreabaseball.com/client/js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="//image.koreabaseball.com/client/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="//image.koreabaseball.com/client/js/jquery.bxslider.min.js"></script>
+	<script type="text/javascript" src="//image.koreabaseball.com/client/js/common.js?version=20150305"></script>
+    <script type="text/javascript" src="//image.koreabaseball.com/client/js/rolling.js?version=20150305"></script>
+    
+<link type="text/css" rel="stylesheet" href="http://image.koreabaseball.com/client/css/sub.css?version=20150311"/>
+<link type="text/css" rel="stylesheet" href="http://image.koreabaseball.com/client/css/player.css?version=20150305"/>
+<link type="text/css" rel="stylesheet" href="http://image.koreabaseball.com/client/css/jquery-ui-theme.css" />
+
+<script type="text/javascript">
+    function fnSearchChange(teamId) {
+        $("#cphContainer_cphContents_hfSearchTeam").val(teamId);
+        __doPostBack('ctl00$ctl00$cphContainer$cphContents$btnSearch','')
+	}
+</script>
+
+
+    <script type="text/javascript">
+        function setPlayerSearch() {
+            var searchWord = encodeURI($('#txtSearchWord').val());
+            location.href = "/Player/Search.aspx?searchWord=" + searchWord;
+        }
+    </script>
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-15700655-14', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body>
+    <form method="post" action="Register.aspx" id="mainForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3CB9947C" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAfNAo7Kftydffcu/DYoJnnTEG4FQbqeMQMc81CqbOAKu5oD6je5p/DvCngJQnvqrfcTix4LolBN+04i7LsKS7ZuO/GmzYAyB/8S+jQLEyjvZTLjeDrPSz9QBWoiuGg97q/JoS5f1T9NhbVQDKOc+SIL/REAksexRJCsOmGxVKxX5iTwZekeVvYgOwGhmvAHiS8=" />
+        <div id="wrap">
+	        <!-- header -->
+
+	        <div id="header">
+		        <div class="row ">
+			        <div class="top_area">
+				        <ul class="top_menu">
+					        <li class="first-child"><a href="/" title="home"><img src="//image.koreabaseball.com/client/images/common/btn_home.png" alt="home" /></a></li>
+                            
+					            <li><a href="/Member/Login.aspx" title="로그인">로그인</a></li>
+					            <li><a href="/Member/Join/Accessterms.aspx" title="회원가입">회원가입</a></li>
+                            
+					        <li class="last"><a href="//eng.koreabaseball.com/" title="ENGLISH">ENGLISH</a></li>
+				        </ul>
+				        <span class="srch_player">
+                            <input name="ctl00$ctl00$txtSearchWord" type="text" id="txtSearchWord" PlaceHolder="선수검색" class="input01" />
+					        <input type="image" alt="선수검색하기" src="//image.koreabaseball.com/client/images/common/btn_srch.png" class="btn_srch" onclick="setPlayerSearch();return false;" />
+				        </span>
+			        </div>
+		        </div>
+		        <div class="row">
+			        <div class="wrapper03">
+				        
+				        <h1 class="logo"><a href="/Default.aspx">KBO</a></h1>
+                        <div class="kbo_history mgt30">
+					        <div class="row">
+					            <span class="title"><b>KBO</b> 역사속 오늘 | </span>
+					            <span class="date">3월 31일</span>
+					        </div>
+					        <div class="row flow_text bg_black mgt10">
+						        <ul id="HistoryItem">
+                                    
+							            <li><a href="/Etc/TodayHistory.aspx?searchDate=1990-03-31"><span class="point">90'</span>&nbsp;<b>쌍방울 레이더스 창...</b> 전라북도 연고의 제8구단인 ...</a>&nbsp;</li>
+                                    
+							            <li><a href="/Etc/TodayHistory.aspx?searchDate=1994-03-31"><span class="point">94'</span>&nbsp;<b>꿈의 구장 출반기념...</b> 프로야구 이미지를 담은 순수...</a>&nbsp;</li>
+                                    
+							            <li><a href="/Etc/TodayHistory.aspx?searchDate=2000-03-31"><span class="point">00'</span>&nbsp;<b>SK 와이번스 창단...</b> 쌍방울 레이더스가 모기업의 ...</a>&nbsp;</li>
+                                    
+							            <li><a href="/Etc/TodayHistory.aspx?searchDate=2005-03-31"><span class="point">05'</span>&nbsp;<b>한국야구 100주년...</b> 한국야구위원회와 대한야구협회...</a>&nbsp;</li>
+                                    
+							            <li><a href="/Etc/TodayHistory.aspx?searchDate=2009-03-31"><span class="point">09'</span>&nbsp;<b>프로야구 타이틀스폰...</b> ‘CJ마구마구 프로야구’ 공...</a>&nbsp;</li>
+                                    
+							            <li><a href="/Etc/TodayHistory.aspx?searchDate=2011-03-31"><span class="point">11'</span>&nbsp;<b>엔씨소프트 창단 기...</b> </a>&nbsp;</li>
+                                    
+					            </ul>
+						        <div class="btnControl">
+							        <a href="#" class="left"><img src="//image.koreabaseball.com/client/images/main/roll_prev.png" alt="Left" /></a>
+							        <a href="#" class="stop"><img src="//image.koreabaseball.com/client/images/main/roll_stop.png" alt="Stop" /></a>
+							        <a href="#" class="right"><img src="//image.koreabaseball.com/client/images/main/roll_next.png" alt="Right" /></a>
+						        </div>
+					        </div>
+				        </div>
+			        </div>
+		        </div>
+		        <div class="row">
+			        <div class="wrapper03">
+                        <!-- gnb -->
+				        <div class="gnb">
+					        <ul class="main">
+						        <li><a href="/Schedule/ScoreBoard/ScoreBoard.aspx"style="width:86px">경기일정/결과</a>
+							        <ul class="sub por01">
+								        <li><a href="/Schedule/ScoreBoard/ScoreBoard.aspx">스코어보드</a></li>
+								        <li><a href="/Schedule/GameList/General.aspx">경기일정/결과</a></li>
+                                        
+								        
+							        </ul>
+						        </li>
+						        <li><a href="/TeamRank/TeamRank.aspx">팀순위</a>
+							        <ul class="sub">
+								        <li><a href="/TeamRank/TeamRank.aspx" >팀순위</a></li>
+								        <li><a href="/TeamRank/GraphDaily.aspx" >팀별 순위변동 그래프</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Record/Main.aspx">기록실</a>
+							        <ul class="sub">
+								        <li><a href="/Record/Main.aspx" >기록실</a></li>
+			                            <li><a href="/Record/Etc/HitVsPit.aspx" >투수 vs 타자</a></li>
+			                            
+			                            <li><a href="/Record/Crowd/GraphTeam.aspx" >관중현황-KBO 정규시즌</a></li>
+			                            <li><a href="/Record/Crowd/History.aspx" >역대 관중현황</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Futures/Schedule/GameList.aspx" style="width:65px">퓨처스리그</a>
+							        <ul class="sub">
+								        <li><a href="/Futures/Schedule/GameList.aspx" >경기일정/결과</a></li>
+								        <li><a href="/Futures/TeamRank/North.aspx" >팀순위</a></li>
+								        <li><a href="/Futures/Main/Main.aspx" >기록실</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/History/Top/Hitter.aspx" style="width:65px">역대기록실</a>
+							        <ul class="sub">
+								        <li><a href="/History/Top/Hitter.aspx" >역대 최고기록 10걸</a></li>
+								        <li><a href="/History/Team/Year2010.aspx" >역대 구단성적</a></li>
+								        <li><a href="/History/Player/Hitter.aspx" >역대 타자</a></li>
+								        <li><a href="/History/Player/Pitcher.aspx" >역대 투수</a></li>
+								        <li><a href="/History/Etc/Award.aspx" >역대 개인수상</a></li>
+                                        <li><a href="/History/Etc/GoldenGlobe.aspx" >역대 골든글러브</a></li>
+								        <li><a href="/History/Etc/Amazing.aspx" >진기록 명기록</a></li>
+								        <li><a href="/History/Ebook/Ebook2014.aspx" >E-BOOK</a></li>
+								        <li><a href="/History/International/Asia.aspx" >국제대회</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/News/Main.aspx">NEWS</a>
+							        <ul class="sub">
+								        <li><a href="/News/Main.aspx" >NEWS</a></li>
+			                            <li><a href="/News/Notice/List.aspx" >KBO 보도자료</a></li>
+			                            <li><a href="/News/Preview/List.aspx">프리뷰</a></li>
+			                            <li><a href="/News/BreakingNews/List.aspx" >KBO 리그 속보</a></li>
+			                            <li><a href="/News/Interview/List.aspx" >스타 인터뷰</a></li>
+			                            <li><a href="/News/KboPhoto/List.aspx" >KBO PHOTO</a></li>
+			                            <li><a href="/News/ExpectationWeek/List.aspx" >주간 예상 달성기록</a></li>
+			                            <li><a href="/News/ExpectationDaily/List.aspx" >일간 예상 달성기록</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/KboTv/Highlight/List.aspx" style="width:52px">KBO TV</a>
+							        <ul class="sub">
+								        <li><a href="/KboTv/Highlight/List.aspx" >하이라이트</a></li>
+			                            <li><a href="/KboTv/MonthMvp/List.aspx" >월간 MVP</a></li>
+			                            <li><a href="/KboTv/Legend/List.aspx" >레전드 올스타 동영상</a></li>
+			                            <li><a href="/KboTv/Naver.aspx" >NAVER 스포츠</a></li>
+			                            <li><a href="/KboTv/Daum.aspx" >Daum 스포츠</a></li>
+			                            <li><a href="/KboTv/Crowd/List.aspx" >관중 돌파 감사영상</a></li>
+			                            <li><a href="/KboTv/VeteranInterview/List.aspx" >야구 원로 인터뷰</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Player/Search.aspx" style="width:52px">선수현황</a>
+							        <ul class="sub">
+								        <li><a href="/Player/Search.aspx" >선수조회</a></li>
+								        <li><a href="/Player/Register.aspx" >선수등록현황</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Board/Faq/List.aspx">게시판</a>
+							        <ul class="sub">
+								        <li><a href="/Board/Faq/List.aspx">자주하는 질문</a></li>
+			                            <li><a href="/Board/Qna/List.aspx">Q&amp;A 게시판</a></li>
+			                            <li><a href="/Board/Free/List.aspx">자유 게시판</a></li>
+								        <li><a href="/Board/Committee/List.aspx" >기록위원회 Q&amp;A 게시판</a></li>
+							        </ul>
+						        </li>
+					        </ul>
+					        <ul class="special">
+						        <li><a href="/About/Safe.aspx" class="gnb_about">ABOUT <strong>KBO</strong></a>
+							        <ul class="sub">
+                                        <li><a href="/About/Safe.aspx">SAFE 캠페인</a></li>
+								        <li><a href="/About/TeamInfo.aspx" >구단소개</a></li>
+                                        <li><a href="/About/Group/Activity.aspx" >조직 및 활동</a></li>
+								        <li><a href="/About/Kbop.aspx" >KBOP</a></li>
+								        <li><a href="/About/KboCi.aspx" >KBO CI</a></li>
+								        <li><a href="/About/CatchPhrase.aspx" >KBO 캐치프레이즈</a></li>
+								        <li><a href="/About/GameManage.aspx" >경기운영체제</a></li>
+								        <li><a href="/About/Map.aspx" >약도/관람료</a></li>
+								        <li><a href="/About/GameRule.aspx" >경기규칙</a></li>
+								        <li><a href="/About/TeamHistory.aspx" >각 구단 변천사</a></li>
+								        <li><a href="/About/Change2015.aspx" >2015 달라지는 점</a></li>
+								        <li><a href="/About/Service2014.aspx" >KBO 사회공헌 사업</a></li>
+								        <li><a href="/Committee/Organizationchart.aspx" >기록위원회</a></li>
+							        </ul>
+						        </li>
+						        <li class="last"><a href="/Mobile/Baseball2015.aspx" class="gnb_mobile">MOBILE</a></li>
+					        </ul>
+				        </div>
+                    
+                    <!-- 아시아시리즈 -->
+                    <!--
+                    <div class="gnb asia">
+                        <a href="#" class="s_menu"><strong>아시아</strong> 시리즈</a>
+					        <ul class="main">
+						        <li><a href="/Schedule/ScoreBoard/ScoreBoard.aspx"style="width:86px">경기일정/결과</a>
+							        <ul class="sub por01">
+								        <li><a href="/Schedule/ScoreBoard/ScoreBoard.aspx">스코어보드</a></li>
+								        <li><a href="/Schedule/GameList/General.aspx">경기일정/결과</a></li>
+								        <li><a href="/Schedule/Analysis/Main.aspx">전력분석</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/TeamRank/TeamRank.aspx">팀순위</a>
+							        <ul class="sub">
+								        <li><a href="/TeamRank/TeamRank.aspx" >팀순위</a></li>
+								        <li><a href="/TeamRank/GraphDaily.aspx" >팀별 순위변동 그래프</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Record/Main.aspx">기록실</a>
+							        <ul class="sub">
+								        <li><a href="/Record/Main.aspx" >기록실</a></li>
+			                            <li><a href="/Record/Etc/HitVsPit.aspx" >투수 vs 타자</a></li>
+			                            
+			                            <li><a href="/Record/Crowd/GraphTeam.aspx" >관중현황-KBO 정규시즌</a></li>
+			                            <li><a href="/Record/Crowd/History.aspx" >역대 관중현황</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Futures/Schedule/GameList.aspx" style="width:65px">퓨처스리그</a>
+							        <ul class="sub">
+								        <li><a href="/Futures/Schedule/GameList.aspx" >퓨처스 경기 일정/결과</a></li>
+								        <li><a href="/Futures/TeamRank/North.aspx" >퓨처스 팀순위</a></li>
+								        <li><a href="/Futures/Main/North.aspx" >퓨처스 기록실</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/History/Top/Hitter.aspx" style="width:65px">역대기록실</a>
+							        <ul class="sub">
+								        <li><a href="/History/Top/Hitter.aspx" >역대 최고기록 10걸</a></li>
+								        <li><a href="/History/Team/Year2010.aspx" >역대 구단성적</a></li>
+								        <li><a href="/History/Player/Hitter.aspx" >역대 타자</a></li>
+								        <li><a href="/History/Player/Pitcher.aspx" >역대 투수</a></li>
+								        <li><a href="/History/Etc/Award.aspx" >역대 개인수상</a></li>
+                                        <li><a href="/History/Etc/GoldenGlobe.aspx" >역대 골든글로브</a></li>
+								        <li><a href="/History/Etc/Amazing.aspx" >진기록 명기록</a></li>
+								        <li><a href="/History/Ebook/Ebook2014.aspx" >E-BOOK</a></li>
+								        <li><a href="/History/International/Asia.aspx" >국제대회</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/News/Main.aspx">NEWS</a>
+							        <ul class="sub">
+								        <li><a href="/News/Main.aspx" >NEWS</a></li>
+			                            <li><a href="/News/Notice/List.aspx" >KBO 보도자료</a></li>
+			                            <li><a href="/News/Preview/List.aspx">프리뷰</a></li>
+			                            <li><a href="/News/BreakingNews/List.aspx" >KBO 리그 속보</a></li>
+			                            <li><a href="/News/Interview/List.aspx" >스타 인터뷰</a></li>
+			                            <li><a href="/News/KboPhoto/List.aspx" >KBO PHOTO</a></li>
+			                            <li><a href="/News/ExpectationWeek/List.aspx" >주간 예상 달성기록</a></li>
+			                            <li><a href="/News/ExpectationDaily/List.aspx" >일간 예상 달성기록</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/KboTv/Highlight/List.aspx" style="width:47px">KBO TV</a>
+							        <ul class="sub">
+								        <li><a href="/KboTv/Highlight/List.aspx" >하이라이트</a></li>
+			                            <li><a href="/KboTv/MonthMvp/List.aspx" >월간 MVP</a></li>
+			                            <li><a href="/KboTv/Legend/List.aspx" >레전드 올스타 동영상</a></li>
+			                            <li><a href="/KboTv/Naver.aspx" >NAVER 스포츠</a></li>
+			                            <li><a href="/KboTv/Daum.aspx" >DAUM스포츠</a></li>
+			                            <li><a href="/KboTv/Crowd/List.aspx" >관중 돌파 감사영상</a></li>
+			                            <li><a href="/KboTv/VeteranInterview/List.aspx" >야구 원로 인터뷰</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Player/Search.aspx" style="width:52px">선수현황</a>
+							        <ul class="sub">
+								        <li><a href="/Player/Search.aspx" >선수조회</a></li>
+								        <li><a href="/Player/Register.aspx" >선수등록현황</a></li>
+							        </ul>
+						        </li>
+						        <li><a href="/Board/Faq/List.aspx">게시판</a>
+							        <ul class="sub">
+								        <li><a href="/Board/Faq/List.aspx">자주하는 질문</a></li>
+			                            <li><a href="/Board/Qna/List.aspx">Q&amp;A 게시판</a></li>
+			                            <li><a href="/Board/Free/List.aspx">자유 게시판</a></li>
+								        <li><a href="/Board/Committee/List.aspx" >기록위원회 Q&amp;A 게시판</a></li>
+							        </ul>
+						        </li>
+					        </ul>
+					        <ul class="special">
+						        <li><a href="/About/TeamInfo.aspx" class="gnb_about">About <strong>KBO</strong></a>
+							        <ul class="sub">
+								        <li><a href="/About/TeamInfo.aspx" >구단소개</a></li>
+                                        <li><a href="/About/Group/Activity.aspx" >조직 및 활동</a></li>
+								        <li><a href="/About/Kbop.aspx" >KBOP</a></li>
+								        <li><a href="/About/KboCi.aspx" >KBO CI</a></li>
+								        <li><a href="/About/CatchPhrase.aspx" >2015 캐치프레이즈</a></li>
+								        <li><a href="/About/GameManage.aspx" >경기운영체제</a></li>
+								        <li><a href="/About/Map.aspx" >약도,관람료</a></li>
+								        <li><a href="/About/GameRule.aspx" >경기규칙</a></li>
+								        <li><a href="/About/TeamHistory.aspx" >각 구단 변천사</a></li>
+								        <li><a href="/About/Change2015.aspx" >2015달라지는 점</a></li>
+								        <li><a href="/About/Service2014.aspx" >KBO 사회공헌 사업</a></li>
+								        <li><a href="/Committee/Organizationchart.aspx" >기록위원회</a></li>
+							        </ul>
+						        </li>
+						        <li class="last"><a href="/Mobile/Baseball2015.aspx" class="gnb_mobile">Mobile</a></li>
+					        </ul>
+				        </div>
+                        -->
+			         	<!-- 아시아 시리즈 -->
+			        </div>
+		        </div>
+	        </div>
+
+	        <!-- // header-->
+	        
+	        <!-- container -->
+	        <div id="container">
+                
+<div class="wrap">
+	<div id="lnb">
+		<h3 class="title"><img src="http://image.koreabaseball.com/client/images/common/lnb_title08.png" alt="선수현황" /></h3>
+		<ul>
+			<li><a href="/Player/Search.aspx">선수조회</a></li>
+			<li><a href="/Player/Register.aspx">선수등록현황</a></li>
+		</ul>
+	</div>
+	<!--lnb-->
+    
+<input type="hidden" name="ctl00$ctl00$cphContainer$cphContents$hfSearchTeam" id="cphContainer_cphContents_hfSearchTeam" value="WO" />
+<input type="hidden" name="ctl00$ctl00$cphContainer$cphContents$hfSearchDate" id="cphContainer_cphContents_hfSearchDate" value="2015-03-28" />
+<input type="submit" name="ctl00$ctl00$cphContainer$cphContents$btnSearch" value="" id="cphContainer_cphContents_btnSearch" style="display:none;" />
+
+<div id="contents" class="content01">
+	<!--sub title & location -->
+	<h3 class="sub_title"><img src="http://image.koreabaseball.com/client/images/common/img_sub_playereg.png" alt="선수등록현황" /></h3>
+	<div class="location">
+		<span><a href="/"><img src="http://image.koreabaseball.com/client/images/common/location_home.jpg" alt="홈" /></a></span>
+		<span><img src="http://image.koreabaseball.com/client/images/common/location_next_level.jpg" alt=">" /></span>
+		<span class="f_depth"><a href="/Player/Search.aspx">선수현황</a></span>
+		<span><img src="http://image.koreabaseball.com/client/images/common/location_next_level.jpg" alt=">" /></span>
+		<span class="l_depth">선수등록현황</span>
+	</div>
+	<!-- // sub title & location -->
+    <!-- banner -->
+    
+
+<div class="com_banner">
+    <ul class="sub_banner">
+		<li><img src="http://image.koreabaseball.com/client/images/common/img_banner_post.jpg?version=20150326" alt="2014 포스트시즌" /></li>
+        <li><img src="http://image.koreabaseball.com/client/images/common/img_banner_post.jpg?version=20150328"" alt="2014 포스트시즌" /></li>
+    </ul>
+    <div class="contron_area">
+			<span id="sp_prev10" class="sp_prev"></span>
+			<span id="sp_stop10" class="sp_stop"></span>
+			<span id="sp_next10" class="sp_next"></span>
+	</div>
+</div>
+<script type="text/javascript">
+    $('.sub_banner').bxSlider({
+        auto: true,
+        autoControls: true,
+        mode: 'vertical',
+        speed: 1000
+    });
+</script>
+    <!-- // banner -->
+    <div class="teams">
+        <ul>
+            
+                <li class="" data-id='SS'><a href="javascript:fnSearchChange('SS');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_SS.png" alt="삼성" /><span>삼성</span></a></li>
+            
+                <li class="" data-id='WO'><a href="javascript:fnSearchChange('WO');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_WO.png" alt="넥센" /><span>넥센</span></a></li>
+            
+                <li class="" data-id='NC'><a href="javascript:fnSearchChange('NC');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_NC.png" alt="NC" /><span>NC</span></a></li>
+            
+                <li class="" data-id='LG'><a href="javascript:fnSearchChange('LG');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_LG.png" alt="LG" /><span>LG</span></a></li>
+            
+                <li class="" data-id='SK'><a href="javascript:fnSearchChange('SK');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_SK.png" alt="SK" /><span>SK</span></a></li>
+            
+                <li class="" data-id='OB'><a href="javascript:fnSearchChange('OB');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_OB.png" alt="두산" /><span>두산</span></a></li>
+            
+                <li class="" data-id='LT'><a href="javascript:fnSearchChange('LT');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_LT.png" alt="롯데" /><span>롯데</span></a></li>
+            
+                <li class="" data-id='HT'><a href="javascript:fnSearchChange('HT');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_HT.png" alt="KIA" /><span>KIA</span></a></li>
+            
+                <li class="" data-id='HH'><a href="javascript:fnSearchChange('HH');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_HH.png" alt="한화" /><span>한화</span></a></li>
+            
+                <li class="" data-id='KT'><a href="javascript:fnSearchChange('KT');"><img src="http://image.koreabaseball.com/client/images/common/emblem/emblemN_KT.png" alt="kt" /><span>kt</span></a></li>
+            
+        </ul>
+    </div>
+    <!-- 날짜선택 -->
+    <div class="yeardate">
+		<span class="date_prev"><input type="image" name="ctl00$ctl00$cphContainer$cphContents$btnPreDate" id="cphContainer_cphContents_btnPreDate" src="http://image.koreabaseball.com/client/images/common/date_prev.jpg" alt="이전날짜" /></span>
+		<span class="date"><span id="cphContainer_cphContents_lblGameDate">2015.03.30(월)</span></span>
+		<span><input type="text" class="calendar blind02" /></span>
+		<span class="date_next"><input type="image" name="ctl00$ctl00$cphContainer$cphContents$btnNextDate" id="cphContainer_cphContents_btnNextDate" src="http://image.koreabaseball.com/client/images/common/date_next.jpg" alt="다음날짜" /></span>
+	</div>
+    <!-- // 날짜선택 -->
+
+    <!--선수 등록명단-->
+    <div class="row">
+        <h4 class="bul_history">넥센 히어로즈 선수등록명단</h4>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="120" />
+                <col width="120" />
+                <col width="166" />
+                <col width="157" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>감독</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>75</td>
+                        <td>류중일</td>
+                        <td>우투우타</td>
+                        <td>1963-04-28</td>
+                        <td>176cm, 74kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="120" />
+                <col width="120" />
+                <col width="166" />
+                <col width="157" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>코치</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>71</td>
+                        <td>김평호</td>
+                        <td>우투우타</td>
+                        <td>1963-12-23</td>
+                        <td>172cm, 75kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>73</td>
+                        <td>김재걸</td>
+                        <td>우투우타</td>
+                        <td>1972-09-07</td>
+                        <td>177cm, 70kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>78</td>
+                        <td>김용국</td>
+                        <td>우투우타</td>
+                        <td>1962-06-21</td>
+                        <td>176cm, 77kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>80</td>
+                        <td>김성래</td>
+                        <td>우투우타</td>
+                        <td>1961-12-03</td>
+                        <td>185cm, 87kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>82</td>
+                        <td>김태한</td>
+                        <td>좌투좌타</td>
+                        <td>1969-10-22</td>
+                        <td>181cm, 87kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>83</td>
+                        <td>강성우</td>
+                        <td>우투우타</td>
+                        <td>1970-01-05</td>
+                        <td>173cm, 80kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>86</td>
+                        <td>김한수</td>
+                        <td>우투우타</td>
+                        <td>1971-10-30</td>
+                        <td>186cm, 88kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>88</td>
+                        <td>카도쿠라</td>
+                        <td>우투우타</td>
+                        <td>1973-03-09</td>
+                        <td>191cm, 95kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="120" />
+                <col width="120" />
+                <col width="166" />
+                <col width="157" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>투수</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>13</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=76355&teamId=SS">장원삼</a></td>
+                        <td>좌투좌타</td>
+                        <td>1983-06-09</td>
+                        <td>181cm, 81kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>15</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=72649&teamId=SS">신용운</a></td>
+                        <td>우언우타</td>
+                        <td>1983-09-08</td>
+                        <td>180cm, 72kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>23</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=76455&teamId=SS">차우찬</a></td>
+                        <td>좌투좌타</td>
+                        <td>1987-05-31</td>
+                        <td>185cm, 80kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>28</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=72463&teamId=SS">안지만</a></td>
+                        <td>우투우타</td>
+                        <td>1983-10-01</td>
+                        <td>180cm, 83kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>29</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=77446&teamId=SS">백정현</a></td>
+                        <td>좌투좌타</td>
+                        <td>1987-07-13</td>
+                        <td>184cm, 80kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>37</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=95657&teamId=SS">임창용</a></td>
+                        <td>우언우타</td>
+                        <td>1976-06-04</td>
+                        <td>180cm, 75kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>44</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=65444&teamId=SS">피가로</a></td>
+                        <td>우투우타</td>
+                        <td>1984-07-07</td>
+                        <td>183cm, 79kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>45</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=99445&teamId=SS">권오준</a></td>
+                        <td>우언우타</td>
+                        <td>1980-03-09</td>
+                        <td>182cm, 80kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>49</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=71851&teamId=SS">김건한</a></td>
+                        <td>우투우타</td>
+                        <td>1981-03-26</td>
+                        <td>182cm, 82kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>61</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=74630&teamId=SS">박근홍</a></td>
+                        <td>좌투좌타</td>
+                        <td>1985-08-22</td>
+                        <td>180cm, 90kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="120" />
+                <col width="120" />
+                <col width="166" />
+                <col width="157" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>포수</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>20</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=97202&teamId=SS">진갑용</a></td>
+                        <td>우투우타</td>
+                        <td>1974-05-08</td>
+                        <td>182cm, 90kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>48</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=63440&teamId=SS">이흥련</a></td>
+                        <td>우투우타</td>
+                        <td>1989-05-16</td>
+                        <td>183cm, 85kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>56</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=79456&teamId=SS">이지영</a></td>
+                        <td>우투우타</td>
+                        <td>1986-02-27</td>
+                        <td>178cm, 83kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="120" />
+                <col width="120" />
+                <col width="166" />
+                <col width="157" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>내야수</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>0</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=64499&teamId=SS">김재현</a></td>
+                        <td>우투우타</td>
+                        <td>1991-08-30</td>
+                        <td>176cm, 73kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>3</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=60456&teamId=SS">백상원</a></td>
+                        <td>우투좌타</td>
+                        <td>1988-01-02</td>
+                        <td>177cm, 76kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>4</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=74158&teamId=SS">김태완</a></td>
+                        <td>우투우타</td>
+                        <td>1981-09-19</td>
+                        <td>174cm, 81kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>7</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=79402&teamId=SS">김상수</a></td>
+                        <td>우투우타</td>
+                        <td>1990-03-23</td>
+                        <td>175cm, 68kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>12</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=64440&teamId=SS">나바로</a></td>
+                        <td>우투우타</td>
+                        <td>1987-10-31</td>
+                        <td>183cm, 93kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>18</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=74465&teamId=SS">박석민</a></td>
+                        <td>우투우타</td>
+                        <td>1985-06-22</td>
+                        <td>178cm, 88kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>36</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=95436&teamId=SS">이승엽</a></td>
+                        <td>좌투좌타</td>
+                        <td>1976-08-18</td>
+                        <td>183cm, 87kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>65</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=62404&teamId=SS">구자욱</a></td>
+                        <td>우투좌타</td>
+                        <td>1993-02-12</td>
+                        <td>189cm, 75kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="120" />
+                <col width="120" />
+                <col width="166" />
+                <col width="157" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>외야수</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>24</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=70224&teamId=SS">강봉규</a></td>
+                        <td>우투우타</td>
+                        <td>1978-01-12</td>
+                        <td>183cm, 88kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>33</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=71432&teamId=SS">박한이</a></td>
+                        <td>좌투좌타</td>
+                        <td>1979-01-28</td>
+                        <td>182cm, 91kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>34</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=72443&teamId=SS">최형우</a></td>
+                        <td>우투좌타</td>
+                        <td>1983-12-16</td>
+                        <td>179cm, 86kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>58</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=62415&teamId=SS">박해민</a></td>
+                        <td>우투좌타</td>
+                        <td>1990-02-24</td>
+                        <td>180cm, 75kg</td>
+                    </tr>
+                
+                    <tr>
+                        <td>59</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=62409&teamId=SS">박찬도</a></td>
+                        <td>우투좌타</td>
+                        <td>1989-02-22</td>
+                        <td>185cm, 75kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+    </div>
+    <!-- 등록/말소 현황-->
+    <div class="row mgt35">
+        <h4 class="bul_history">넥센 히어로즈 등/말소 현황</h4>
+        <h5 class="bul_sub">등록</h5>
+            <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="110" />
+                <col width="110" />
+                <col width="110" />
+                <col width="146" />
+                <col width="137" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>선수명</th>
+                    <th>포지션</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <div id="cphContainer_cphContents_pnlEntryY">
+	
+                    <tr>
+                        <td colspan="6">당일 1군 등록된 선수가 없습니다.</td>
+                    </tr>
+                
+</div>
+            </tbody>
+        </table>
+
+        <h5 class="bul_sub">말소</h5>
+        <table class="tNData" summary="선수등록명단으로 등번호,포지션,투타유형,생년월일,체격,등록일수를나타냅니다" >
+            <colgroup>
+                <col width="80" />
+                <col width="110" />
+                <col width="110" />
+                <col width="110" />
+                <col width="146" />
+                <col width="137" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>등번호</th>
+                    <th>선수명</th>
+                    <th>포지션</th>
+                    <th>투타유형</th>
+                    <th>생년월일</th>
+                    <th>체격</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td>8</td>
+                        <td><a href="/Record/Player/PitcherDetail/Basic.aspx?playerId=78454&teamId=SS">우동균</a></td>
+                        <td>외야수</td>
+                        <td>우투좌타</td>
+                        <td>1989-12-03</td>
+                        <td>175cm, 68kg</td>
+                    </tr>
+                
+                
+            </tbody>
+        </table>
+    </div>
+
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".calendar").datepicker({
+            showOn: "button",
+            buttonImage: "http://image.koreabaseball.com/client/images/common/calendar.jpg",
+            buttonImageOnly: true,
+            buttonText: "Select date",
+            dateFormat: 'yy-mm-dd',
+            defaultDate: $("#cphContainer_cphContents_hfSearchDate").val(),
+            maxDate: 'today',
+            beforeShow: function (e) {
+                var i_offset = $(e).offset(); //클릭된 input의 위치값 체크
+                //console.log(i_offset);
+                setTimeout(function () {
+                    $('#ui-datepicker-div').css({ 'z-index': 9999 });
+                })
+            },
+            onSelect: function (selectedDate) {
+                $("#cphContainer_cphContents_hfSearchDate").val(selectedDate);
+                __doPostBack('ctl00$ctl00$cphContainer$cphContents$btnSearch','')
+            }
+        });
+        $(".tNData th:last-child,.tNData td:last-child").css("border-right", "0");
+    });
+    $(window).load(function(){
+        var cntTeam = $(".teams ul li").length;
+        var boxWidth = $(".teams ul").innerWidth();
+        var rWidth = boxWidth / cntTeam;
+        $(".teams ul li a").css("width",rWidth+"px");
+        $(".teams ul li.last a").css("width",rWidth-cntTeam+"px");
+    })
+
+</script>
+
+
+</div>
+
+	        </div>
+            
+	        <!-- // container -->
+
+	        <!-- footer -->
+	        <div id="footer">
+		        <div class="wrapper01">
+			        <div class="row">
+				        <div class="team_kbo">
+					        <ul>
+						        <li><a target="_blank" href="http://www.samsunglions.com/"><img src="http://image.koreabaseball.com/client/images/common/team_lions.png" alt="삼성" /></a></li>
+						        <li><a target="_blank" href="http://www.heroes-baseball.co.kr/"><img src="http://image.koreabaseball.com/client/images/common/team_heroes.png" alt="넥센" /></a></li>
+						        <li><a target="_blank" href="http://www.ncdinos.com/"><img src="http://image.koreabaseball.com/client/images/common/team_dinos.png" alt="NC" /></a></li>
+						        <li><a target="_blank" href="http://www.lgtwins.com/"><img src="http://image.koreabaseball.com/client/images/common/team_twins.png" alt="LG" /></a></li>
+						        <li><a target="_blank" href="http://www.sksports.net/Wyverns/main.asp"><img src="http://image.koreabaseball.com/client/images/common/team_wyvurns.png" alt="SK" /></a></li>
+						        <li><a target="_blank" href="http://www.doosanbears.com/"><img src="http://image.koreabaseball.com/client/images/common/team_bears.png" alt="두산" /></a></li>
+						        <li><a target="_blank" href="http://www.giantsclub.com/html/"><img src="http://image.koreabaseball.com/client/images/common/team_giants.png" alt="롯데" /></a></li>
+						        <li><a target="_blank" href="http://www.tigers.co.kr"><img src="http://image.koreabaseball.com/client/images/common/team_tigers.png" alt="기아" /></a></li>
+						        <li><a target="_blank" href="http://www.hanwhaeagles.co.kr/html/main/main.asp"><img src="http://image.koreabaseball.com/client/images/common/team_eagles.png" alt="한화" /></a></li>
+						        <li><a target="_blank" href="http://www.ktwiz.co.kr/sports/site/baseball/main.do"><img src="http://image.koreabaseball.com/client/images/common/team_wiz.png" alt="KT" /></a></li>
+					        </ul>
+				        </div>
+			        </div>
+		        </div>
+		        <div class="wrapper02">
+			        <div class="row">
+				        <div class="foo">
+					        <h2 class="sub_logo" onclick="javascript:location.href='/Etc/PressRelease.aspx';" style="cursor:pointer;">KBO</h2>
+					
+					        <div class="copyright">
+						        <div class="foo_menu">
+							        <ul>
+								        <li class="first"><a href="/About/TeamInfo.aspx">KBO소개</a></li>
+								        <li><a href="/Schedule/ScoreBoard/ScoreBoard.aspx">문자중계</a></li>
+								        <li><a href="/Board/Faq/List.aspx">고객질문</a></li>
+								        <li><a href="/Etc/SiteMap.aspx">사이트맵</a></li>
+								        <li><a href="/Etc/Privacy.aspx">개인정보보호정책</a></li>
+								        <li class="last"><a href="/Etc/Advertising.aspx">광고문의</a></li>
+							        </ul>
+						        </div>
+						        <div class="address">
+						        <p>(사)한국야구위원회 서울특별시 강남구 강남대로 278 TEL 02) 3460-4600</p>
+						        <p>본 사이트는 <strong>스포츠투아이㈜</strong>가 프로야구 팬을 위해 운영하는 KBO 공식 사이트입니다.</p>
+						        <p>Copyrightⓒ KBO, All Rights Reserved.</p>
+						        <span class="sign">
+							        <img src="http://image.koreabaseball.com/client/images/common/img_xhtml.png" alt="w3chtml" />
+							        <img src="http://image.koreabaseball.com/client/images/common/img_verisign.png" alt="verisign" />
+						        </span>
+						        </div>
+					        </div>
+					        <div class="verify">
+					        </div>
+				        </div>
+			        </div>
+		        </div>
+	        </div>
+	        <!-- // footer -->
+        </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+jQuery(function ($) {$('[data-id=WO]').parent().children().filter(':last').addClass('last');$('[data-id=WO]').addClass('on');$('[data-id=WO]').siblings().removeClass('on');});//]]>
+</script>
+</form>
+    
+    <script type="text/javascript">
+    //<![CDATA[
+	    $(document).ready(function () {
+	        var historybanner = new js_rolling(document.getElementById('HistoryItem'));
+            historybanner.set_direction(4);
+	        historybanner.time_dealy_pause = 0; //하나의 대상이 새로 시작할 때 멈추는 시간, 0 이면 적용 안함
+ 
+	        function bannerTop() {
+	            banner.move_up();
+	            banner.set_direction(1);
+	        }
+	        function bannerBottom() {
+	            banner.move_down();
+	            banner.set_direction(3);
+	        }
+	        function bannerRight() {
+	            banner.move_right();
+	            banner.set_direction(2);
+	        }
+	        function bannerLeft() {
+	            banner.move_left();
+	            banner.set_direction(4);
+	        }
+	        function bannerStop() {
+	            banner.stop();
+	        }
+	        function bannerPlay() {
+	            banner.resume();
+	        }
+ 
+	        function historybannerTop() {
+	            historybanner.move_up();
+	            historybanner.set_direction(1);
+	        }
+	        function historybannerBottom() {
+	            historybanner.move_down();
+	            historybanner.set_direction(3);
+	        }
+	        function historybannerRight() {
+	            historybanner.move_right();
+	            historybanner.set_direction(2);
+	        }
+	        function historybannerLeft() {
+	            historybanner.move_left();
+	            historybanner.set_direction(4);
+	        }
+	        function historybannerStop() {
+	            historybanner.stop();
+	        }
+	        function historybannerPlay() {
+	            historybanner.resume();
+ 
+	        }
+ 
+	        //연사
+	        $(".btnControl a").click(function (e) {
+	            e.preventDefault();
+	            if ($(this).hasClass("left")) {
+	                historybannerLeft();
+	            } else if ($(this).hasClass("right")) {
+	                historybannerRight();
+	            } else if ($(this).hasClass("playing")) {
+	                historybannerPlay();
+	                $(this).removeClass("playing");
+	                $(this).find("img").attr({
+	                    alt: "Stop",
+	                    src: "http://image.koreabaseball.com/client/images/main/roll_stop.png"
+	                });
+	            } else {
+	                historybannerStop();
+	                $(this).addClass("playing");
+	                $(this).find("img").attr({
+	                    alt: "Play",
+	                    src: "http://image.koreabaseball.com/client/images/main/roll_play.png"
+	                });
+	            }
+	        });
+
+
+	    });
+        // ]]>
+    </script>
+</body>
+</html>
