@@ -1,603 +1,603 @@
 year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
-2015	12080	26172	A&M-Corpus Chris	-	Totals	-	-	-	-	17	437	177	17	0.973	 	5	18	3	14	 
-2015	12080	26172	A&M-Corpus Chris	-	Opponent Totals	-	-	-	-	17	425	187	20	0.968	 	2	22	9	12	 
-2015	12080	2	Abilene Christian	-	Totals	-	-	-	-	17	454	160	28	0.956	 	4	24	7	15	 
-2015	12080	2	Abilene Christian	-	Opponent Totals	-	-	-	-	17	468	164	22	0.966	 	1	6	7	8	 
-2015	12080	721	Air Force	-	Totals	-	-	-	-	19	486	253	26	0.966	1	6	18	10	16	 
-2015	12080	721	Air Force	-	Opponent Totals	-	-	-	-	19	491	194	40	0.945	 	4	25	5	10	 
-2015	12080	5	Akron	-	Totals	-	-	-	-	17	431	183	21	0.967	 	6	13	8	13	 
-2015	12080	5	Akron	-	Opponent Totals	-	-	-	-	17	450	183	29	0.956	 	3	20	6	12	 
-2015	12080	8	Alabama	-	Totals	-	-	-	-	19	504	204	17	0.977	 	8	16	8	22	 
-2015	12080	8	Alabama	-	Opponent Totals	-	-	-	-	19	486	183	28	0.960	 	4	29	5	10	 
-2015	12080	6	Alabama A&M	-	Totals	-	-	-	-	20	492	176	36	0.949	 	8	32	8	10	 
-2015	12080	6	Alabama A&M	-	Opponent Totals	-	-	-	-	20	484	188	41	0.942	3	16	21	7	9	 
-2015	12080	7	Alabama St.	-	Totals	-	-	-	-	18	464	155	29	0.955	 	3	24	10	11	 
-2015	12080	7	Alabama St.	-	Opponent Totals	-	-	-	-	18	456	176	31	0.953	1	5	24	10	15	 
-2015	12080	14	Albany (NY)	-	Totals	-	-	-	-	11	277	113	28	0.933	 	4	15	7	9	 
-2015	12080	14	Albany (NY)	-	Opponent Totals	-	-	-	-	11	291	138	14	0.968	 	1	10	9	9	 
-2015	12080	17	Alcorn	-	Totals	-	-	-	-	19	476	151	61	0.911	2	8	43	8	11	 
-2015	12080	17	Alcorn	-	Opponent Totals	-	-	-	-	19	489	170	30	0.956	 	8	39	17	7	 
-2015	12080	27	Appalachian St.	-	Totals	-	-	-	-	20	516	216	26	0.966	1	6	29	5	11	 
-2015	12080	27	Appalachian St.	-	Opponent Totals	-	-	-	-	20	537	195	26	0.966	 	3	16	5	23	 
-2015	12080	29	Arizona	-	Totals	-	-	-	-	22	594	266	28	0.968	1	 	13	6	22	 
-2015	12080	29	Arizona	-	Opponent Totals	-	-	-	-	22	554	250	52	0.939	1	2	31	19	14	 
-2015	12080	28	Arizona St.	-	Totals	-	-	-	-	19	516	209	21	0.972	 	3	20	7	12	 
-2015	12080	28	Arizona St.	-	Opponent Totals	-	-	-	-	19	479	213	20	0.972	 	4	15	10	16	 
-2015	12080	2678	Ark.-Pine Bluff	-	Totals	-	-	-	-	14	361	122	17	0.966	1	4	37	2	9	 
-2015	12080	2678	Ark.-Pine Bluff	-	Opponent Totals	-	-	-	-	14	378	164	27	0.953	1	7	8	15	10	 
-2015	12080	31	Arkansas	-	Totals	-	-	-	-	20	527	217	20	0.974	1	6	23	8	24	 
-2015	12080	31	Arkansas	-	Opponent Totals	-	-	-	-	20	508	219	24	0.968	1	4	15	8	22	 
-2015	12080	30	Arkansas St.	-	Totals	-	-	-	-	17	459	168	27	0.959	 	3	10	5	14	 
-2015	12080	30	Arkansas St.	-	Opponent Totals	-	-	-	-	17	456	179	24	0.964	 	3	18	8	10	 
-2015	12080	725	Army	-	Totals	-	-	-	-	14	346	148	13	0.974	 	3	10	10	9	 
-2015	12080	725	Army	-	Opponent Totals	-	-	-	-	14	346	140	24	0.953	 	 	24	9	4	 
-2015	12080	37	Auburn	-	Totals	-	-	-	-	20	525	185	25	0.966	 	1	12	4	12	 
-2015	12080	37	Auburn	-	Opponent Totals	-	-	-	-	20	506	204	23	0.969	 	1	10	14	16	 
-2015	12080	43	Austin Peay	-	Totals	-	-	-	-	17	447	188	26	0.961	 	4	21	7	12	 
-2015	12080	43	Austin Peay	-	Opponent Totals	-	-	-	-	17	444	157	28	0.955	 	3	23	7	12	 
-2015	12080	77	BYU	-	Totals	-	-	-	-	22	570	228	22	0.973	 	9	19	8	19	 
-2015	12080	77	BYU	-	Opponent Totals	-	-	-	-	22	580	255	30	0.965	 	4	13	11	28	 
-2015	12080	94	Bakersfield	-	Totals	-	-	-	-	21	561	252	22	0.974	 	6	9	8	25	 
-2015	12080	94	Bakersfield	-	Opponent Totals	-	-	-	-	21	552	228	36	0.956	 	 	26	4	14	 
-2015	12080	47	Ball St.	-	Totals	-	-	-	-	19	512	157	25	0.964	 	2	11	7	11	 
-2015	12080	47	Ball St.	-	Opponent Totals	-	-	-	-	19	504	200	27	0.963	 	5	16	9	17	 
-2015	12080	51	Baylor	-	Totals	-	-	-	-	20	519	226	31	0.960	1	9	11	6	17	 
-2015	12080	51	Baylor	-	Opponent Totals	-	-	-	-	20	530	192	22	0.970	 	1	30	15	12	 
-2015	12080	14927	Belmont	-	Totals	-	-	-	-	17	450	181	32	0.952	 	1	16	10	10	 
-2015	12080	14927	Belmont	-	Opponent Totals	-	-	-	-	17	438	176	22	0.965	2	6	28	6	12	 
-2015	12080	61	Bethune-Cookman	-	Totals	-	-	-	-	23	612	252	40	0.956	 	11	21	15	21	 
-2015	12080	61	Bethune-Cookman	-	Opponent Totals	-	-	-	-	23	615	264	46	0.950	 	4	23	7	16	 
-2015	12080	62	Binghamton	-	Totals	-	-	-	-	12	291	99	24	0.942	 	1	9	5	6	 
-2015	12080	62	Binghamton	-	Opponent Totals	-	-	-	-	12	312	126	14	0.969	 	2	10	4	4	 
-2015	12080	67	Boston College	-	Totals	-	-	-	-	17	431	165	19	0.969	 	6	22	6	10	 
-2015	12080	67	Boston College	-	Opponent Totals	-	-	-	-	17	456	188	15	0.977	 	3	20	6	16	 
-2015	12080	71	Bowling Green	-	Totals	-	-	-	-	15	376	165	23	0.959	 	1	13	14	10	 
-2015	12080	71	Bowling Green	-	Opponent Totals	-	-	-	-	15	396	170	25	0.958	 	7	22	12	10	 
-2015	12080	72	Bradley	-	Totals	-	-	-	-	18	468	137	9	0.985	 	1	13	6	13	 
-2015	12080	72	Bradley	-	Opponent Totals	-	-	-	-	18	465	181	28	0.958	 	5	21	10	7	 
-2015	12080	80	Brown	-	Totals	-	-	-	-	11	279	120	21	0.950	 	4	29	5	11	 
-2015	12080	80	Brown	-	Opponent Totals	-	-	-	-	11	309	129	7	0.984	 	3	7	5	10	 
-2015	12080	81	Bryant	-	Totals	-	-	-	-	13	312	126	25	0.946	 	5	22	9	6	 
-2015	12080	81	Bryant	-	Opponent Totals	-	-	-	-	13	345	125	22	0.955	 	5	12	4	10	 
-2015	12080	83	Bucknell	-	Totals	-	-	-	-	15	402	184	27	0.956	 	6	25	4	18	 
-2015	12080	83	Bucknell	-	Opponent Totals	-	-	-	-	15	390	149	22	0.961	 	7	10	2	11	 
-2015	12080	86	Buffalo	-	Totals	-	-	-	-	13	309	111	15	0.966	 	3	33	8	6	 
-2015	12080	86	Buffalo	-	Opponent Totals	-	-	-	-	13	339	127	15	0.969	 	7	13	6	9	 
-2015	12080	87	Butler	-	Totals	-	-	-	-	19	481	212	20	0.972	 	2	29	7	15	 
-2015	12080	87	Butler	-	Opponent Totals	-	-	-	-	19	508	237	28	0.964	 	8	20	6	15	 
-2015	12080	101	CSUN	-	Totals	-	-	-	-	20	525	227	19	0.975	 	5	10	10	13	 
-2015	12080	101	CSUN	-	Opponent Totals	-	-	-	-	20	510	193	28	0.962	 	5	22	13	14	 
-2015	12080	90	Cal Poly	-	Totals	-	-	-	-	17	444	173	27	0.958	 	3	10	11	12	 
-2015	12080	90	Cal Poly	-	Opponent Totals	-	-	-	-	17	450	179	24	0.963	 	5	6	6	8	 
-2015	12080	97	Cal St. Fullerton	-	Totals	-	-	-	-	19	504	185	19	0.973	1	7	8	9	15	 
-2015	12080	97	Cal St. Fullerton	-	Opponent Totals	-	-	-	-	19	489	190	27	0.962	 	7	17	5	14	 
-2015	12080	107	California	-	Totals	-	-	-	-	20	537	210	23	0.970	 	2	9	6	19	 
-2015	12080	107	California	-	Opponent Totals	-	-	-	-	20	501	194	34	0.953	 	7	18	9	16	 
-2015	12080	115	Campbell	-	Totals	-	-	-	-	21	567	194	25	0.968	 	2	15	10	11	 
-2015	12080	115	Campbell	-	Opponent Totals	-	-	-	-	21	519	239	48	0.940	 	6	58	11	13	 
-2015	12080	116	Canisius	-	Totals	-	-	-	-	20	499	208	31	0.958	 	8	34	7	11	 
-2015	12080	116	Canisius	-	Opponent Totals	-	-	-	-	20	519	196	23	0.969	1	4	22	4	20	 
-2015	12080	1004	Central Ark.	-	Totals	-	-	-	-	15	399	161	13	0.977	1	1	11	5	14	 
-2015	12080	1004	Central Ark.	-	Opponent Totals	-	-	-	-	15	396	168	17	0.971	 	4	15	5	15	 
-2015	12080	127	Central Conn. St.	-	Totals	-	-	-	-	9	255	101	15	0.960	 	3	19	3	5	 
-2015	12080	127	Central Conn. St.	-	Opponent Totals	-	-	-	-	9	252	125	14	0.964	 	1	5	2	14	 
-2015	12080	129	Central Mich.	-	Totals	-	-	-	-	21	557	263	34	0.960	1	5	22	16	19	 
-2015	12080	129	Central Mich.	-	Opponent Totals	-	-	-	-	21	576	235	38	0.955	 	13	40	7	12	 
-2015	12080	48	Charleston So.	-	Totals	-	-	-	-	19	537	185	23	0.969	 	2	31	3	14	 
-2015	12080	48	Charleston So.	-	Opponent Totals	-	-	-	-	19	524	220	28	0.964	 	4	23	8	16	 
-2015	12080	458	Charlotte	-	Totals	-	-	-	-	15	399	160	23	0.960	 	5	15	6	12	 
-2015	12080	458	Charlotte	-	Opponent Totals	-	-	-	-	15	384	157	14	0.975	 	2	9	2	10	 
-2015	12080	136	Chicago St.	-	Totals	-	-	-	-	19	483	201	27	0.962	 	4	22	10	17	 
-2015	12080	136	Chicago St.	-	Opponent Totals	-	-	-	-	19	495	214	24	0.967	 	5	15	5	10	 
-2015	12080	140	Cincinnati	-	Totals	-	-	-	-	19	509	223	25	0.967	 	2	12	13	19	 
-2015	12080	140	Cincinnati	-	Opponent Totals	-	-	-	-	19	516	194	20	0.973	1	6	17	11	12	 
-2015	12080	141	Citadel	-	Totals	-	-	-	-	19	510	188	38	0.948	 	4	23	8	5	 
-2015	12080	141	Citadel	-	Opponent Totals	-	-	-	-	19	489	177	29	0.958	 	7	12	6	17	 
-2015	12080	147	Clemson	-	Totals	-	-	-	-	19	513	182	29	0.960	 	 	21	4	14	 
-2015	12080	147	Clemson	-	Opponent Totals	-	-	-	-	19	508	210	23	0.969	1	4	17	10	27	 
-2015	12080	149	Coastal Caro.	-	Totals	-	-	-	-	20	555	223	26	0.968	 	4	18	7	24	 
-2015	12080	149	Coastal Caro.	-	Opponent Totals	-	-	-	-	20	518	199	34	0.955	 	8	28	11	11	 
-2015	12080	1014	Col. of Charleston	-	Totals	-	-	-	-	16	426	172	18	0.971	 	9	17	1	9	 
-2015	12080	1014	Col. of Charleston	-	Opponent Totals	-	-	-	-	16	411	172	17	0.972	 	1	12	6	12	 
-2015	12080	158	Columbia	-	Totals	-	-	-	-	12	311	102	18	0.958	 	1	16	6	8	 
-2015	12080	158	Columbia	-	Opponent Totals	-	-	-	-	12	336	137	19	0.961	 	4	9	3	8	 
-2015	12080	165	Coppin St.	-	Totals	-	-	-	-	13	299	108	32	0.927	 	3	46	8	7	 
-2015	12080	165	Coppin St.	-	Opponent Totals	-	-	-	-	13	325	136	12	0.975	 	3	4	4	6	 
-2015	12080	167	Cornell	-	Totals	-	-	-	-	10	261	120	21	0.948	1	4	20	8	5	 
-2015	12080	167	Cornell	-	Opponent Totals	-	-	-	-	10	274	96	14	0.964	 	1	3	1	12	 
-2015	12080	169	Creighton	-	Totals	-	-	-	-	17	461	208	17	0.975	 	2	16	2	20	 
-2015	12080	169	Creighton	-	Opponent Totals	-	-	-	-	17	459	227	25	0.965	 	6	14	9	11	 
-2015	12080	1045	Dallas Baptist	-	Totals	-	-	-	-	18	483	186	16	0.977	 	3	8	8	18	 
-2015	12080	1045	Dallas Baptist	-	Opponent Totals	-	-	-	-	18	465	165	30	0.955	1	9	18	6	12	 
-2015	12080	172	Dartmouth	-	Totals	-	-	-	-	8	200	90	10	0.967	2	1	7	1	7	 
-2015	12080	172	Dartmouth	-	Opponent Totals	-	-	-	-	8	213	76	17	0.944	 	2	6	1	4	 
-2015	12080	173	Davidson	-	Totals	-	-	-	-	15	402	147	35	0.940	2	6	12	6	14	 
-2015	12080	173	Davidson	-	Opponent Totals	-	-	-	-	15	388	146	12	0.978	 	5	6	3	10	 
-2015	12080	175	Dayton	-	Totals	-	-	-	-	18	489	195	34	0.953	 	3	25	13	11	 
-2015	12080	175	Dayton	-	Opponent Totals	-	-	-	-	18	495	166	22	0.968	 	 	25	11	9	 
-2015	12080	180	Delaware	-	Totals	-	-	-	-	11	279	114	15	0.963	 	3	9	2	13	 
-2015	12080	180	Delaware	-	Opponent Totals	-	-	-	-	11	278	100	10	0.974	 	5	10	1	9	 
-2015	12080	178	Delaware St.	-	Totals	-	-	-	-	13	312	131	27	0.943	 	3	16	1	7	 
-2015	12080	178	Delaware St.	-	Opponent Totals	-	-	-	-	13	331	139	14	0.971	 	 	18	9	8	 
-2015	12080	193	Duke	-	Totals	-	-	-	-	19	516	224	20	0.974	 	4	18	8	16	 
-2015	12080	193	Duke	-	Opponent Totals	-	-	-	-	19	494	160	19	0.972	 	4	30	6	7	 
-2015	12080	196	East Carolina	-	Totals	-	-	-	-	21	564	279	30	0.966	 	2	8	9	26	 
-2015	12080	196	East Carolina	-	Opponent Totals	-	-	-	-	21	531	207	39	0.950	 	5	19	12	24	 
-2015	12080	198	East Tenn. St.	-	Totals	-	-	-	-	18	480	173	22	0.967	 	9	15	5	13	 
-2015	12080	198	East Tenn. St.	-	Opponent Totals	-	-	-	-	18	466	212	27	0.962	3	11	26	10	14	 
-2015	12080	201	Eastern Ill.	-	Totals	-	-	-	-	14	338	117	23	0.952	2	2	17	3	11	 
-2015	12080	201	Eastern Ill.	-	Opponent Totals	-	-	-	-	14	369	139	9	0.983	 	3	6	2	12	 
-2015	12080	202	Eastern Ky.	-	Totals	-	-	-	-	17	435	181	22	0.966	1	8	27	9	11	 
-2015	12080	202	Eastern Ky.	-	Opponent Totals	-	-	-	-	17	439	178	15	0.976	 	4	12	10	14	 
-2015	12080	204	Eastern Mich.	-	Totals	-	-	-	-	18	444	195	38	0.944	 	4	32	20	14	 
-2015	12080	204	Eastern Mich.	-	Opponent Totals	-	-	-	-	18	477	215	24	0.966	 	4	20	17	14	 
-2015	12080	1068	Elon	-	Totals	-	-	-	-	14	369	147	23	0.957	 	6	16	1	11	 
-2015	12080	1068	Elon	-	Opponent Totals	-	-	-	-	14	360	111	22	0.955	 	6	18	7	7	 
-2015	12080	219	Evansville	-	Totals	-	-	-	-	16	423	174	26	0.958	 	3	16	3	8	 
-2015	12080	219	Evansville	-	Opponent Totals	-	-	-	-	16	429	159	30	0.951	 	4	3	10	9	 
-2015	12080	28755	FGCU	-	Totals	-	-	-	-	20	540	213	31	0.960	 	7	26	4	7	 
-2015	12080	28755	FGCU	-	Opponent Totals	-	-	-	-	20	529	221	23	0.970	 	5	16	7	21	 
-2015	12080	231	FIU	-	Totals	-	-	-	-	21	552	248	30	0.964	 	4	20	11	14	 
-2015	12080	231	FIU	-	Opponent Totals	-	-	-	-	21	550	204	27	0.965	 	6	11	9	17	 
-2015	12080	220	Fairfield	-	Totals	-	-	-	-	10	240	112	15	0.959	 	1	20	3	10	 
-2015	12080	220	Fairfield	-	Opponent Totals	-	-	-	-	10	267	87	9	0.975	 	 	6	 	7	 
-2015	12080	222	Fairleigh Dickinson	-	Totals	-	-	-	-	10	246	122	18	0.953	 	2	21	7	7	 
-2015	12080	222	Fairleigh Dickinson	-	Opponent Totals	-	-	-	-	10	252	116	11	0.971	 	1	7	4	11	 
-2015	12080	229	Fla. Atlantic	-	Totals	-	-	-	-	21	582	195	33	0.959	 	4	16	5	10	 
-2015	12080	229	Fla. Atlantic	-	Opponent Totals	-	-	-	-	21	537	217	32	0.959	1	11	30	7	13	 
-2015	12080	235	Florida	-	Totals	-	-	-	-	22	591	249	13	0.985	 	10	15	7	16	 
-2015	12080	235	Florida	-	Opponent Totals	-	-	-	-	22	545	215	43	0.946	 	6	35	11	15	 
-2015	12080	228	Florida A&M	-	Totals	-	-	-	-	19	505	236	26	0.966	 	3	43	8	12	 
-2015	12080	228	Florida A&M	-	Opponent Totals	-	-	-	-	19	516	177	26	0.964	2	13	21	2	9	 
-2015	12080	234	Florida St.	-	Totals	-	-	-	-	22	582	219	37	0.956	1	2	18	1	17	 
-2015	12080	234	Florida St.	-	Opponent Totals	-	-	-	-	22	546	193	28	0.963	 	7	21	8	17	 
-2015	12080	236	Fordham	-	Totals	-	-	-	-	18	460	166	20	0.969	 	3	29	8	16	 
-2015	12080	236	Fordham	-	Opponent Totals	-	-	-	-	18	474	208	18	0.974	 	4	27	9	9	 
-2015	12080	96	Fresno St.	-	Totals	-	-	-	-	22	586	239	24	0.972	 	2	5	3	21	 
-2015	12080	96	Fresno St.	-	Opponent Totals	-	-	-	-	22	578	239	27	0.968	1	 	14	12	18	 
-2015	12080	244	Furman	-	Totals	-	-	-	-	19	524	223	25	0.968	 	2	21	3	17	 
-2015	12080	244	Furman	-	Opponent Totals	-	-	-	-	19	519	232	23	18.442	 	2	19	7	13	1
-2015	12080	253	Ga. Southern	-	Totals	-	-	-	-	21	560	222	43	0.948	 	3	12	8	14	 
-2015	12080	253	Ga. Southern	-	Opponent Totals	-	-	-	-	21	540	191	30	0.961	 	5	16	7	16	 
-2015	12080	1092	Gardner-Webb	-	Totals	-	-	-	-	20	546	231	23	0.971	 	2	22	14	14	 
-2015	12080	1092	Gardner-Webb	-	Opponent Totals	-	-	-	-	20	535	207	29	0.962	 	3	31	9	10	 
-2015	12080	248	George Mason	-	Totals	-	-	-	-	16	435	165	21	0.966	 	4	25	7	6	 
-2015	12080	248	George Mason	-	Opponent Totals	-	-	-	-	16	426	145	19	0.968	 	5	14	6	8	 
-2015	12080	249	George Washington	-	Totals	-	-	-	-	15	396	160	15	0.974	2	2	17	7	9	 
-2015	12080	249	George Washington	-	Opponent Totals	-	-	-	-	15	381	172	17	0.970	 	1	31	8	10	 
-2015	12080	251	Georgetown	-	Totals	-	-	-	-	15	384	156	27	0.952	1	2	12	2	9	 
-2015	12080	251	Georgetown	-	Opponent Totals	-	-	-	-	15	395	167	27	0.954	 	3	8	7	12	 
-2015	12080	257	Georgia	-	Totals	-	-	-	-	21	558	191	20	0.974	 	7	12	7	16	 
-2015	12080	257	Georgia	-	Opponent Totals	-	-	-	-	21	534	202	25	0.967	 	3	30	7	16	 
-2015	12080	254	Georgia St.	-	Totals	-	-	-	-	20	549	221	28	0.965	1	8	21	6	21	 
-2015	12080	254	Georgia St.	-	Opponent Totals	-	-	-	-	20	526	188	27	0.964	 	2	19	6	13	 
-2015	12080	255	Georgia Tech	-	Totals	-	-	-	-	20	549	218	18	0.977	 	1	10	16	14	 
-2015	12080	255	Georgia Tech	-	Opponent Totals	-	-	-	-	20	529	229	25	0.968	 	6	23	3	23	 
-2015	12080	260	Gonzaga	-	Totals	-	-	-	-	22	573	241	35	0.959	 	2	24	13	16	 
-2015	12080	260	Gonzaga	-	Opponent Totals	-	-	-	-	22	585	262	29	0.967	 	6	14	9	30	 
-2015	12080	261	Grambling	-	Totals	-	-	-	-	19	473	195	43	0.940	1	5	27	8	18	 
-2015	12080	261	Grambling	-	Opponent Totals	-	-	-	-	19	504	220	40	0.948	 	8	33	8	9	 
-2015	12080	1104	Grand Canyon	-	Totals	-	-	-	-	21	540	242	33	0.960	1	1	15	9	16	 
-2015	12080	1104	Grand Canyon	-	Opponent Totals	-	-	-	-	21	542	237	40	0.951	 	3	17	12	17	 
-2015	12080	272	Hartford	-	Totals	-	-	-	-	15	373	165	20	0.964	 	1	16	7	15	 
-2015	12080	272	Hartford	-	Opponent Totals	-	-	-	-	15	381	174	20	0.965	 	3	14	6	8	 
-2015	12080	275	Harvard	-	Totals	-	-	-	-	14	345	123	24	0.951	 	2	17	6	7	 
-2015	12080	275	Harvard	-	Opponent Totals	-	-	-	-	14	363	156	20	0.963	1	5	19	7	18	 
-2015	12080	277	Hawaii	-	Totals	-	-	-	-	21	555	227	26	0.968	 	3	27	13	18	 
-2015	12080	277	Hawaii	-	Opponent Totals	-	-	-	-	21	552	204	26	0.967	 	7	9	1	14	 
-2015	12080	19651	High Point	-	Totals	-	-	-	-	18	465	171	21	0.968	 	3	3	9	18	 
-2015	12080	19651	High Point	-	Opponent Totals	-	-	-	-	18	478	216	29	0.960	 	5	15	8	19	 
-2015	12080	283	Hofstra	-	Totals	-	-	-	-	13	324	122	19	0.959	 	6	24	2	9	 
-2015	12080	283	Hofstra	-	Opponent Totals	-	-	-	-	13	339	142	7	0.986	 	1	14	15	6	 
-2015	12080	285	Holy Cross	-	Totals	-	-	-	-	18	458	181	22	0.967	 	6	28	3	8	 
-2015	12080	285	Holy Cross	-	Opponent Totals	-	-	-	-	18	495	208	25	0.966	 	1	21	10	17	 
-2015	12080	288	Houston	-	Totals	-	-	-	-	21	573	251	34	0.960	 	6	18	9	17	 
-2015	12080	288	Houston	-	Opponent Totals	-	-	-	-	21	543	199	27	0.965	2	6	37	6	18	 
-2015	12080	287	Houston Baptist	-	Totals	-	-	-	-	20	528	217	26	0.966	 	2	20	5	14	 
-2015	12080	287	Houston Baptist	-	Opponent Totals	-	-	-	-	20	519	211	26	0.966	 	10	14	7	14	 
-2015	12080	308	IPFW	-	Totals	-	-	-	-	17	402	161	34	0.943	 	8	22	8	8	 
-2015	12080	308	IPFW	-	Opponent Totals	-	-	-	-	17	412	141	25	0.957	 	9	13	4	9	 
-2015	12080	302	Ill.-Chicago	-	Totals	-	-	-	-	14	360	148	13	0.975	 	5	23	4	6	 
-2015	12080	302	Ill.-Chicago	-	Opponent Totals	-	-	-	-	14	363	150	26	0.952	1	1	7	2	9	 
-2015	12080	301	Illinois	-	Totals	-	-	-	-	20	540	212	18	0.977	 	3	12	5	10	 
-2015	12080	301	Illinois	-	Opponent Totals	-	-	-	-	20	526	213	30	0.961	 	5	27	8	20	 
-2015	12080	299	Illinois St.	-	Totals	-	-	-	-	18	465	178	26	0.961	 	10	29	7	11	 
-2015	12080	299	Illinois St.	-	Opponent Totals	-	-	-	-	18	481	195	23	0.967	 	7	8	2	18	 
-2015	12080	2743	Incarnate Word	-	Totals	-	-	-	-	20	517	206	28	0.963	 	1	29	10	17	 
-2015	12080	2743	Incarnate Word	-	Opponent Totals	-	-	-	-	20	535	205	31	0.960	 	3	12	8	16	 
-2015	12080	306	Indiana	-	Totals	-	-	-	-	18	491	197	28	0.961	 	3	21	4	7	 
-2015	12080	306	Indiana	-	Opponent Totals	-	-	-	-	18	476	214	33	0.954	1	3	24	4	14	 
-2015	12080	305	Indiana St.	-	Totals	-	-	-	-	17	433	166	16	0.974	 	1	20	8	11	 
-2015	12080	305	Indiana St.	-	Opponent Totals	-	-	-	-	17	440	172	16	0.975	 	2	16	8	12	 
-2015	12080	310	Iona	-	Totals	-	-	-	-	19	447	158	20	0.968	 	6	41	10	6	 
-2015	12080	310	Iona	-	Opponent Totals	-	-	-	-	19	483	183	23	0.967	 	4	25	7	9	 
-2015	12080	312	Iowa	-	Totals	-	-	-	-	16	433	172	11	0.982	 	10	8	6	11	 
-2015	12080	312	Iowa	-	Opponent Totals	-	-	-	-	16	433	179	23	0.964	 	4	27	10	12	 
-2015	12080	314	Jackson St.	-	Totals	-	-	-	-	20	511	232	35	0.955	1	19	21	12	16	 
-2015	12080	314	Jackson St.	-	Opponent Totals	-	-	-	-	20	501	203	47	0.937	 	13	40	11	9	 
-2015	12080	316	Jacksonville	-	Totals	-	-	-	-	20	522	198	29	0.961	 	6	30	5	11	1
-2015	12080	316	Jacksonville	-	Opponent Totals	-	-	-	-	20	512	261	28	0.965	 	6	36	8	14	 
-2015	12080	315	Jacksonville St.	-	Totals	-	-	-	-	17	450	179	24	0.963	1	2	21	10	14	 
-2015	12080	315	Jacksonville St.	-	Opponent Totals	-	-	-	-	17	441	174	32	0.951	 	5	24	4	11	 
-2015	12080	317	James Madison	-	Totals	-	-	-	-	17	433	162	28	0.955	 	4	33	2	12	 
-2015	12080	317	James Madison	-	Opponent Totals	-	-	-	-	17	419	182	18	0.971	 	8	31	4	13	 
-2015	12080	328	Kansas	-	Totals	-	-	-	-	20	516	205	28	0.963	 	4	28	8	16	 
-2015	12080	328	Kansas	-	Opponent Totals	-	-	-	-	20	519	219	21	0.972	 	 	7	9	17	 
-2015	12080	327	Kansas St.	-	Totals	-	-	-	-	20	530	242	24	0.970	 	7	16	7	14	 
-2015	12080	327	Kansas St.	-	Opponent Totals	-	-	-	-	20	520	226	29	0.963	 	2	28	12	14	 
-2015	12080	1157	Kennesaw St.	-	Totals	-	-	-	-	19	504	211	36	0.952	 	6	34	4	16	 
-2015	12080	1157	Kennesaw St.	-	Opponent Totals	-	-	-	-	19	504	194	19	0.974	 	4	23	7	7	 
-2015	12080	331	Kent St.	-	Totals	-	-	-	-	15	412	135	23	0.960	 	 	37	7	7	 
-2015	12080	331	Kent St.	-	Opponent Totals	-	-	-	-	15	417	187	29	0.954	1	3	22	9	23	 
-2015	12080	334	Kentucky	-	Totals	-	-	-	-	20	542	216	25	0.968	 	1	23	5	17	 
-2015	12080	334	Kentucky	-	Opponent Totals	-	-	-	-	20	532	206	33	0.957	 	3	29	9	17	 
-2015	12080	361	LIU Brooklyn	-	Totals	-	-	-	-	12	313	120	17	0.962	 	2	19	4	12	 
-2015	12080	361	LIU Brooklyn	-	Opponent Totals	-	-	-	-	12	326	143	16	0.967	 	2	21	9	13	 
-2015	12080	365	LSU	-	Totals	-	-	-	-	22	609	209	26	0.969	1	 	20	10	12	 
-2015	12080	365	LSU	-	Opponent Totals	-	-	-	-	22	561	222	37	0.955	 	4	37	10	17	 
-2015	12080	340	La Salle	-	Totals	-	-	-	-	18	477	170	31	0.954	 	1	20	7	9	 
-2015	12080	340	La Salle	-	Opponent Totals	-	-	-	-	18	492	186	18	0.974	 	10	13	7	12	 
-2015	12080	671	La.-Lafayette	-	Totals	-	-	-	-	15	426	180	27	0.957	 	3	16	9	10	 
-2015	12080	671	La.-Lafayette	-	Opponent Totals	-	-	-	-	15	419	184	20	0.968	 	3	21	9	10	 
-2015	12080	498	La.-Monroe	-	Totals	-	-	-	-	18	477	202	28	0.960	 	4	29	9	13	 
-2015	12080	498	La.-Monroe	-	Opponent Totals	-	-	-	-	18	459	180	37	0.945	1	9	31	15	10	 
-2015	12080	342	Lafayette	-	Totals	-	-	-	-	6	153	62	4	0.982	 	3	7	3	5	 
-2015	12080	342	Lafayette	-	Opponent Totals	-	-	-	-	6	162	64	6	0.974	 	 	9	4	5	 
-2015	12080	346	Lamar	-	Totals	-	-	-	-	20	519	247	16	0.980	 	1	23	9	18	 
-2015	12080	346	Lamar	-	Opponent Totals	-	-	-	-	20	519	233	24	0.969	 	1	15	8	22	 
-2015	12080	352	Lehigh	-	Totals	-	-	-	-	13	344	134	29	0.943	 	1	19	8	10	 
-2015	12080	352	Lehigh	-	Opponent Totals	-	-	-	-	13	354	123	25	0.950	1	3	20	6	8	 
-2015	12080	355	Liberty	-	Totals	-	-	-	-	19	521	211	27	0.964	1	3	21	6	17	 
-2015	12080	355	Liberty	-	Opponent Totals	-	-	-	-	19	505	182	34	0.953	 	6	25	10	16	 
-2015	12080	28600	Lipscomb	-	Totals	-	-	-	-	17	447	207	21	0.969	 	4	15	11	7	 
-2015	12080	28600	Lipscomb	-	Opponent Totals	-	-	-	-	17	430	176	19	0.970	 	2	21	7	15	 
-2015	12080	99	Long Beach St.	-	Totals	-	-	-	-	17	453	197	24	0.964	1	1	10	8	11	 
-2015	12080	99	Long Beach St.	-	Opponent Totals	-	-	-	-	17	435	186	21	16.440	 	4	23	9	7	 
-2015	12080	363	Longwood	-	Totals	-	-	-	-	19	487	189	28	0.960	 	5	38	8	7	 
-2015	12080	363	Longwood	-	Opponent Totals	-	-	-	-	19	504	205	27	0.963	 	4	33	11	13	 
-2015	12080	366	Louisiana Tech	-	Totals	-	-	-	-	17	439	198	23	0.965	2	2	11	13	8	 
-2015	12080	366	Louisiana Tech	-	Opponent Totals	-	-	-	-	17	441	219	24	0.965	1	2	22	9	15	 
-2015	12080	367	Louisville	-	Totals	-	-	-	-	21	567	229	34	0.959	2	8	19	8	12	 
-2015	12080	367	Louisville	-	Opponent Totals	-	-	-	-	21	534	202	33	0.957	1	1	31	14	14	 
-2015	12080	370	Loyola Marymount	-	Totals	-	-	-	-	20	534	217	16	0.979	 	2	13	4	12	 
-2015	12080	370	Loyola Marymount	-	Opponent Totals	-	-	-	-	20	521	200	24	0.968	1	4	28	11	13	 
-2015	12080	380	Maine	-	Totals	-	-	-	-	21	541	191	30	0.961	 	1	39	7	7	 
-2015	12080	380	Maine	-	Opponent Totals	-	-	-	-	21	560	197	33	0.958	 	5	10	5	24	1
-2015	12080	381	Manhattan	-	Totals	-	-	-	-	15	363	154	21	0.961	 	3	13	8	8	 
-2015	12080	381	Manhattan	-	Opponent Totals	-	-	-	-	15	399	160	6	0.989	 	1	16	6	10	 
-2015	12080	386	Marist	-	Totals	-	-	-	-	9	260	107	11	0.971	 	1	8	3	10	1
-2015	12080	386	Marist	-	Opponent Totals	-	-	-	-	9	279	129	7	0.983	 	 	8	5	10	 
-2015	12080	388	Marshall	-	Totals	-	-	-	-	19	501	169	30	0.957	1	22	13	6	9	 
-2015	12080	388	Marshall	-	Opponent Totals	-	-	-	-	19	522	217	35	0.955	 	3	21	13	10	 
-2015	12080	392	Maryland	-	Totals	-	-	-	-	18	477	171	19	0.972	 	4	13	1	7	 
-2015	12080	392	Maryland	-	Opponent Totals	-	-	-	-	18	462	181	33	0.951	 	8	29	6	12	 
-2015	12080	400	Massachusetts	-	Totals	-	-	-	-	5	108	51	12	0.930	 	 	10	1	7	 
-2015	12080	400	Massachusetts	-	Opponent Totals	-	-	-	-	5	117	51	9	0.949	 	 	2	3	1	 
-2015	12080	402	McNeese St.	-	Totals	-	-	-	-	21	582	216	20	0.976	 	2	20	12	11	 
-2015	12080	402	McNeese St.	-	Opponent Totals	-	-	-	-	21	557	233	24	0.971	1	3	26	14	16	 
-2015	12080	404	Memphis	-	Totals	-	-	-	-	10	261	120	10	0.974	 	2	4	4	8	 
-2015	12080	404	Memphis	-	Opponent Totals	-	-	-	-	10	260	131	11	0.973	 	1	5	5	10	 
-2015	12080	406	Mercer	-	Totals	-	-	-	-	23	618	249	31	0.965	 	8	28	11	17	 
-2015	12080	406	Mercer	-	Opponent Totals	-	-	-	-	23	600	209	34	0.960	 	3	9	8	16	 
-2015	12080	415	Miami (FL)	-	Totals	-	-	-	-	22	585	239	32	0.963	 	3	19	9	16	 
-2015	12080	415	Miami (FL)	-	Opponent Totals	-	-	-	-	22	560	204	42	0.948	2	6	33	7	17	 
-2015	12080	414	Miami (OH)	-	Totals	-	-	-	-	16	397	144	24	0.958	 	3	24	6	9	 
-2015	12080	414	Miami (OH)	-	Opponent Totals	-	-	-	-	16	429	159	16	0.974	 	2	14	11	12	 
-2015	12080	418	Michigan	-	Totals	-	-	-	-	19	480	178	20	0.971	 	6	8	7	14	 
-2015	12080	418	Michigan	-	Opponent Totals	-	-	-	-	19	480	201	21	0.970	2	4	16	9	6	 
-2015	12080	416	Michigan St.	-	Totals	-	-	-	-	16	407	157	14	0.976	 	6	13	5	6	 
-2015	12080	416	Michigan St.	-	Opponent Totals	-	-	-	-	16	408	167	19	0.968	 	1	23	8	14	 
-2015	12080	419	Middle Tenn.	-	Totals	-	-	-	-	18	468	194	22	0.968	 	4	17	11	12	 
-2015	12080	419	Middle Tenn.	-	Opponent Totals	-	-	-	-	18	464	168	28	0.958	 	5	20	4	16	1
-2015	12080	797	Milwaukee	-	Totals	-	-	-	-	14	365	127	23	0.955	 	3	10	7	14	 
-2015	12080	797	Milwaukee	-	Opponent Totals	-	-	-	-	14	369	158	24	0.956	 	1	24	4	13	 
-2015	12080	428	Minnesota	-	Totals	-	-	-	-	17	440	170	18	0.971	 	7	17	3	12	 
-2015	12080	428	Minnesota	-	Opponent Totals	-	-	-	-	17	465	185	12	0.982	 	3	24	5	14	 
-2015	12080	430	Mississippi St.	-	Totals	-	-	-	-	23	624	326	23	0.976	1	3	15	15	28	 
-2015	12080	430	Mississippi St.	-	Opponent Totals	-	-	-	-	23	578	229	31	0.963	2	4	28	8	20	 
-2015	12080	432	Mississippi Val.	-	Totals	-	-	-	-	15	363	142	41	0.925	 	6	25	5	5	 
-2015	12080	432	Mississippi Val.	-	Opponent Totals	-	-	-	-	15	380	161	30	0.947	 	4	45	5	7	 
-2015	12080	434	Missouri	-	Totals	-	-	-	-	21	561	236	14	0.983	1	5	24	6	11	1
-2015	12080	434	Missouri	-	Opponent Totals	-	-	-	-	21	533	194	20	0.973	 	5	34	12	11	 
-2015	12080	669	Missouri St.	-	Totals	-	-	-	-	15	389	159	21	0.963	 	1	10	5	8	 
-2015	12080	669	Missouri St.	-	Opponent Totals	-	-	-	-	15	390	156	9	0.984	 	1	8	4	5	 
-2015	12080	439	Monmouth	-	Totals	-	-	-	-	14	345	145	16	0.968	 	3	16	8	12	 
-2015	12080	439	Monmouth	-	Opponent Totals	-	-	-	-	14	376	152	22	0.960	 	5	7	4	15	 
-2015	12080	444	Morehead St.	-	Totals	-	-	-	-	18	497	194	21	0.971	 	3	25	6	19	 
-2015	12080	444	Morehead St.	-	Opponent Totals	-	-	-	-	18	489	186	20	0.971	 	3	11	6	13	 
-2015	12080	450	Mt. St. Mary's	-	Totals	-	-	-	-	11	268	98	21	0.946	1	2	22	7	9	 
-2015	12080	450	Mt. St. Mary's	-	Opponent Totals	-	-	-	-	11	276	130	12	0.971	1	6	10	5	7	 
-2015	12080	454	Murray St.	-	Totals	-	-	-	-	20	515	204	22	0.970	 	1	25	7	11	 
-2015	12080	454	Murray St.	-	Opponent Totals	-	-	-	-	20	528	204	27	0.964	 	2	19	15	13	 
-2015	12080	488	N.C. A&T	-	Totals	-	-	-	-	16	396	156	34	0.942	 	1	29	9	8	 
-2015	12080	488	N.C. A&T	-	Opponent Totals	-	-	-	-	16	410	158	24	0.959	 	4	13	6	16	 
-2015	12080	489	N.C. Central	-	Totals	-	-	-	-	17	430	175	29	0.954	 	4	16	4	12	 
-2015	12080	489	N.C. Central	-	Opponent Totals	-	-	-	-	17	444	186	18	0.972	 	3	7	6	9	 
-2015	12080	471	NJIT	-	Totals	-	-	-	-	10	255	105	21	0.945	1	8	18	6	5	 
-2015	12080	471	NJIT	-	Opponent Totals	-	-	-	-	10	270	123	20	0.952	1	5	16	4	7	 
-2015	12080	477	NYIT	-	Totals	-	-	-	-	5	120	47	4	0.977	 	 	3	4	6	 
-2015	12080	477	NYIT	-	Opponent Totals	-	-	-	-	5	126	50	4	0.978	 	 	5	2	7	 
-2015	12080	726	Navy	-	Totals	-	-	-	-	19	493	178	28	0.960	 	3	11	6	8	 
-2015	12080	726	Navy	-	Opponent Totals	-	-	-	-	19	462	207	31	0.956	 	6	14	11	16	 
-2015	12080	463	Nebraska	-	Totals	-	-	-	-	20	531	220	15	0.980	 	1	10	5	19	 
-2015	12080	463	Nebraska	-	Opponent Totals	-	-	-	-	20	519	229	18	0.977	 	 	19	11	14	 
-2015	12080	466	Nevada	-	Totals	-	-	-	-	22	595	245	28	0.968	1	1	14	6	24	 
-2015	12080	466	Nevada	-	Opponent Totals	-	-	-	-	22	573	185	26	0.967	1	6	23	10	13	 
-2015	12080	473	New Mexico	-	Totals	-	-	-	-	18	477	238	18	0.975	 	5	13	8	21	 
-2015	12080	473	New Mexico	-	Opponent Totals	-	-	-	-	18	474	196	22	0.968	 	3	12	5	13	 
-2015	12080	472	New Mexico St.	-	Totals	-	-	-	-	19	502	206	39	0.948	2	1	33	11	17	 
-2015	12080	472	New Mexico St.	-	Opponent Totals	-	-	-	-	19	529	208	16	0.979	 	3	10	2	21	 
-2015	12080	474	New Orleans	-	Totals	-	-	-	-	20	538	229	32	0.960	 	6	35	9	14	 
-2015	12080	474	New Orleans	-	Opponent Totals	-	-	-	-	20	537	235	34	0.958	 	3	16	8	24	 
-2015	12080	482	Niagara	-	Totals	-	-	-	-	13	315	112	25	0.945	2	9	27	4	9	 
-2015	12080	482	Niagara	-	Opponent Totals	-	-	-	-	13	348	140	19	0.963	 	1	26	10	10	 
-2015	12080	483	Nicholls St.	-	Totals	-	-	-	-	20	537	232	36	0.955	 	4	18	10	13	 
-2015	12080	483	Nicholls St.	-	Opponent Totals	-	-	-	-	20	518	197	21	0.971	 	2	19	11	16	 
-2015	12080	485	Norfolk St.	-	Totals	-	-	-	-	12	286	102	26	0.937	 	5	20	6	6	 
-2015	12080	485	Norfolk St.	-	Opponent Totals	-	-	-	-	12	300	130	22	0.951	 	4	6	3	8	 
-2015	12080	457	North Carolina	-	Totals	-	-	-	-	20	536	189	33	0.956	 	9	21	10	12	 
-2015	12080	457	North Carolina	-	Opponent Totals	-	-	-	-	20	514	199	33	0.956	 	4	31	7	15	 
-2015	12080	490	North Carolina St.	-	Totals	-	-	-	-	18	471	173	22	0.967	 	5	10	8	22	 
-2015	12080	490	North Carolina St.	-	Opponent Totals	-	-	-	-	18	462	167	21	0.968	 	3	12	7	16	 
-2015	12080	494	North Dakota	-	Totals	-	-	-	-	15	369	152	33	0.940	1	1	15	3	10	 
-2015	12080	494	North Dakota	-	Opponent Totals	-	-	-	-	15	393	143	11	0.980	 	 	13	4	13	 
-2015	12080	493	North Dakota St.	-	Totals	-	-	-	-	16	405	158	30	0.949	 	9	30	10	16	 
-2015	12080	493	North Dakota St.	-	Opponent Totals	-	-	-	-	16	429	174	23	0.963	 	5	11	10	13	 
-2015	12080	2711	North Florida	-	Totals	-	-	-	-	21	578	251	15	0.982	 	 	19	4	19	 
-2015	12080	2711	North Florida	-	Opponent Totals	-	-	-	-	21	560	261	49	0.944	 	6	24	3	17	 
-2015	12080	500	Northeastern	-	Totals	-	-	-	-	16	399	154	25	0.957	 	2	11	5	15	 
-2015	12080	500	Northeastern	-	Opponent Totals	-	-	-	-	16	423	182	18	0.971	 	5	9	8	15	 
-2015	12080	502	Northern Colo.	-	Totals	-	-	-	-	14	348	139	27	0.947	 	3	16	9	6	 
-2015	12080	502	Northern Colo.	-	Opponent Totals	-	-	-	-	14	365	147	21	0.961	1	6	17	9	11	 
-2015	12080	503	Northern Ill.	-	Totals	-	-	-	-	18	460	196	26	0.962	 	1	14	5	18	 
-2015	12080	503	Northern Ill.	-	Opponent Totals	-	-	-	-	18	480	205	25	0.965	1	7	23	8	17	 
-2015	12080	505	Northern Ky.	-	Totals	-	-	-	-	18	470	203	37	0.948	 	3	36	4	18	 
-2015	12080	505	Northern Ky.	-	Opponent Totals	-	-	-	-	18	496	230	13	0.982	 	1	15	5	18	1
-2015	12080	509	Northwestern	-	Totals	-	-	-	-	17	423	184	24	0.962	 	3	17	11	11	 
-2015	12080	509	Northwestern	-	Opponent Totals	-	-	-	-	17	450	196	27	0.960	 	4	8	6	14	 
-2015	12080	508	Northwestern St.	-	Totals	-	-	-	-	20	551	242	27	0.967	1	 	21	11	14	 
-2015	12080	508	Northwestern St.	-	Opponent Totals	-	-	-	-	20	544	263	32	0.962	 	2	24	8	18	 
-2015	12080	513	Notre Dame	-	Totals	-	-	-	-	19	510	213	22	0.970	 	1	6	5	30	 
-2015	12080	513	Notre Dame	-	Opponent Totals	-	-	-	-	19	501	189	35	0.952	 	5	22	7	13	 
-2015	12080	514	Oakland	-	Totals	-	-	-	-	14	342	141	30	0.942	 	3	40	8	10	1
-2015	12080	514	Oakland	-	Opponent Totals	-	-	-	-	14	378	140	18	0.966	 	1	6	9	12	 
-2015	12080	519	Ohio	-	Totals	-	-	-	-	17	456	173	20	0.969	 	5	9	10	7	 
-2015	12080	519	Ohio	-	Opponent Totals	-	-	-	-	17	459	200	29	0.958	 	4	21	8	16	 
-2015	12080	518	Ohio St.	-	Totals	-	-	-	-	17	447	161	22	0.965	 	2	9	5	15	 
-2015	12080	518	Ohio St.	-	Opponent Totals	-	-	-	-	17	441	171	20	0.968	 	4	18	5	14	 
-2015	12080	522	Oklahoma	-	Totals	-	-	-	-	23	621	238	24	0.973	 	5	15	11	24	 
-2015	12080	522	Oklahoma	-	Opponent Totals	-	-	-	-	23	597	235	37	0.957	 	7	20	19	18	 
-2015	12080	521	Oklahoma St.	-	Totals	-	-	-	-	20	537	218	19	0.975	 	6	15	13	13	 
-2015	12080	521	Oklahoma St.	-	Opponent Totals	-	-	-	-	20	513	183	23	0.968	1	7	34	8	8	 
-2015	12080	523	Old Dominion	-	Totals	-	-	-	-	17	444	172	25	0.961	 	4	16	7	13	 
-2015	12080	523	Old Dominion	-	Opponent Totals	-	-	-	-	17	435	187	21	0.967	 	5	23	10	12	 
-2015	12080	433	Ole Miss	-	Totals	-	-	-	-	20	527	189	21	0.972	1	1	9	5	21	 
-2015	12080	433	Ole Miss	-	Opponent Totals	-	-	-	-	20	520	203	33	0.956	 	4	23	6	21	 
-2015	12080	464	Omaha	-	Totals	-	-	-	-	18	487	209	23	0.968	 	9	23	7	9	 
-2015	12080	464	Omaha	-	Opponent Totals	-	-	-	-	18	479	194	31	0.956	 	2	22	7	16	 
-2015	12080	527	Oral Roberts	-	Totals	-	-	-	-	19	510	173	26	0.963	 	8	11	9	15	 
-2015	12080	527	Oral Roberts	-	Opponent Totals	-	-	-	-	19	498	196	25	0.965	1	4	10	5	24	 
-2015	12080	529	Oregon	-	Totals	-	-	-	-	19	510	177	22	0.969	 	4	7	7	13	 
-2015	12080	529	Oregon	-	Opponent Totals	-	-	-	-	19	499	224	24	0.968	4	2	18	10	16	 
-2015	12080	528	Oregon St.	-	Totals	-	-	-	-	20	542	235	21	0.974	 	1	8	13	23	 
-2015	12080	528	Oregon St.	-	Opponent Totals	-	-	-	-	20	518	211	21	0.972	 	1	15	7	13	 
-2015	12080	534	Pacific	-	Totals	-	-	-	-	18	474	209	43	0.941	 	13	32	7	11	 
-2015	12080	534	Pacific	-	Opponent Totals	-	-	-	-	18	498	227	16	0.978	 	2	5	7	23	 
-2015	12080	540	Penn	-	Totals	-	-	-	-	9	222	99	21	0.939	 	5	12	4	5	 
-2015	12080	540	Penn	-	Opponent Totals	-	-	-	-	9	242	76	6	0.981	 	 	9	2	10	 
-2015	12080	539	Penn St.	-	Totals	-	-	-	-	16	407	180	29	0.953	 	6	31	12	21	 
-2015	12080	539	Penn St.	-	Opponent Totals	-	-	-	-	16	438	198	24	0.964	1	5	24	6	9	 
-2015	12080	541	Pepperdine	-	Totals	-	-	-	-	21	550	253	30	0.964	 	5	14	5	17	 
-2015	12080	541	Pepperdine	-	Opponent Totals	-	-	-	-	21	550	196	28	0.964	 	4	8	5	16	 
-2015	12080	545	Pittsburgh	-	Totals	-	-	-	-	19	528	229	35	0.956	 	11	19	12	11	 
-2015	12080	545	Pittsburgh	-	Opponent Totals	-	-	-	-	19	521	192	26	0.965	3	4	33	12	16	 
-2015	12080	551	Portland	-	Totals	-	-	-	-	23	577	282	28	0.968	 	2	33	7	17	 
-2015	12080	551	Portland	-	Opponent Totals	-	-	-	-	23	618	250	18	0.980	 	1	13	15	21	 
-2015	12080	553	Prairie View	-	Totals	-	-	-	-	19	492	186	51	0.930	 	4	36	6	14	 
-2015	12080	553	Prairie View	-	Opponent Totals	-	-	-	-	19	498	218	39	0.948	1	6	20	11	20	 
-2015	12080	1320	Presbyterian	-	Totals	-	-	-	-	18	478	182	20	0.971	 	 	22	9	13	 
-2015	12080	1320	Presbyterian	-	Opponent Totals	-	-	-	-	18	457	200	37	0.947	 	3	19	9	12	 
-2015	12080	554	Princeton	-	Totals	-	-	-	-	11	252	103	21	0.944	 	1	17	5	6	 
-2015	12080	554	Princeton	-	Opponent Totals	-	-	-	-	11	282	109	7	0.982	1	 	5	2	11	 
-2015	12080	559	Purdue	-	Totals	-	-	-	-	19	507	224	22	0.971	1	8	14	15	17	 
-2015	12080	559	Purdue	-	Opponent Totals	-	-	-	-	19	517	206	27	0.964	 	3	14	6	15	1
-2015	12080	562	Quinnipiac	-	Totals	-	-	-	-	14	339	139	19	0.962	 	5	20	8	13	 
-2015	12080	562	Quinnipiac	-	Opponent Totals	-	-	-	-	14	372	150	17	0.968	 	 	14	4	3	 
-2015	12080	563	Radford	-	Totals	-	-	-	-	19	482	198	27	0.962	1	5	16	12	16	 
-2015	12080	563	Radford	-	Opponent Totals	-	-	-	-	19	488	174	26	0.962	 	8	31	5	14	 
-2015	12080	572	Rhode Island	-	Totals	-	-	-	-	10	255	103	14	0.962	 	6	15	1	7	 
-2015	12080	572	Rhode Island	-	Opponent Totals	-	-	-	-	10	261	121	17	0.957	 	5	31	6	7	 
-2015	12080	574	Rice	-	Totals	-	-	-	-	22	593	246	31	0.964	1	4	11	6	19	 
-2015	12080	574	Rice	-	Opponent Totals	-	-	-	-	22	571	264	31	0.964	 	6	10	3	13	 
-2015	12080	575	Richmond	-	Totals	-	-	-	-	12	314	129	18	0.961	1	2	11	11	9	 
-2015	12080	575	Richmond	-	Opponent Totals	-	-	-	-	12	315	108	14	0.968	 	3	11	1	8	 
-2015	12080	576	Rider	-	Totals	-	-	-	-	14	367	155	25	0.954	1	3	23	8	11	 
-2015	12080	576	Rider	-	Opponent Totals	-	-	-	-	14	393	155	21	0.963	 	2	15	6	12	 
-2015	12080	587	Rutgers	-	Totals	-	-	-	-	12	297	99	21	0.950	1	1	10	6	7	 
-2015	12080	587	Rutgers	-	Opponent Totals	-	-	-	-	12	321	136	19	0.960	 	1	11	5	7	 
-2015	12080	660	SIUE	-	Totals	-	-	-	-	12	297	114	23	0.947	 	2	25	3	10	 
-2015	12080	660	SIUE	-	Opponent Totals	-	-	-	-	12	324	121	17	0.963	1	1	8	5	13	 
-2015	12080	102	Sacramento St.	-	Totals	-	-	-	-	19	509	223	15	0.980	 	2	17	21	16	 
-2015	12080	102	Sacramento St.	-	Opponent Totals	-	-	-	-	19	497	176	18	0.974	1	2	25	9	10	 
-2015	12080	590	Sacred Heart	-	Totals	-	-	-	-	12	316	136	20	0.958	1	2	24	5	8	 
-2015	12080	590	Sacred Heart	-	Opponent Totals	-	-	-	-	12	345	153	9	0.982	 	2	13	4	16	 
-2015	12080	606	Saint Joseph's	-	Totals	-	-	-	-	14	360	139	19	0.963	 	5	10	6	10	 
-2015	12080	606	Saint Joseph's	-	Opponent Totals	-	-	-	-	14	369	103	18	0.963	 	1	7	3	5	 
-2015	12080	609	Saint Louis	-	Totals	-	-	-	-	20	515	195	20	0.973	1	1	16	5	20	 
-2015	12080	609	Saint Louis	-	Opponent Totals	-	-	-	-	20	496	192	28	0.961	2	4	14	7	12	 
-2015	12080	617	Saint Peter's	-	Totals	-	-	-	-	9	198	94	15	0.951	 	1	11	2	9	 
-2015	12080	617	Saint Peter's	-	Opponent Totals	-	-	-	-	9	225	86	9	0.972	 	1	5	2	6	 
-2015	12080	624	Sam Houston St.	-	Totals	-	-	-	-	22	590	229	46	0.947	2	3	28	7	11	 
-2015	12080	624	Sam Houston St.	-	Opponent Totals	-	-	-	-	22	592	286	38	0.959	 	2	30	11	13	 
-2015	12080	625	Samford	-	Totals	-	-	-	-	16	415	195	28	0.956	 	3	17	9	16	 
-2015	12080	625	Samford	-	Opponent Totals	-	-	-	-	16	423	170	32	0.949	2	1	16	3	15	 
-2015	12080	627	San Diego	-	Totals	-	-	-	-	18	488	181	10	0.985	 	6	7	6	10	 
-2015	12080	627	San Diego	-	Opponent Totals	-	-	-	-	18	476	228	11	0.985	 	5	14	8	20	 
-2015	12080	626	San Diego St.	-	Totals	-	-	-	-	20	551	215	12	0.985	 	5	20	13	8	 
-2015	12080	626	San Diego St.	-	Opponent Totals	-	-	-	-	20	527	228	35	0.956	 	5	15	11	16	 
-2015	12080	629	San Francisco	-	Totals	-	-	-	-	18	479	183	19	0.972	 	3	10	9	11	 
-2015	12080	629	San Francisco	-	Opponent Totals	-	-	-	-	18	501	221	21	0.972	 	2	18	9	12	 
-2015	12080	630	San Jose St.	-	Totals	-	-	-	-	20	519	209	24	0.968	1	5	15	7	13	 
-2015	12080	630	San Jose St.	-	Opponent Totals	-	-	-	-	20	528	248	23	0.971	 	5	17	9	12	 
-2015	12080	631	Santa Clara	-	Totals	-	-	-	-	17	443	157	29	0.954	 	2	24	15	11	 
-2015	12080	631	Santa Clara	-	Opponent Totals	-	-	-	-	17	447	196	18	0.973	 	3	10	11	11	 
-2015	12080	632	Savannah St.	-	Totals	-	-	-	-	20	507	177	40	0.945	1	2	22	9	9	 
-2015	12080	632	Savannah St.	-	Opponent Totals	-	-	-	-	20	504	230	28	0.963	 	3	28	8	15	 
-2015	12080	1356	Seattle	-	Totals	-	-	-	-	20	516	199	26	0.965	 	3	22	13	9	 
-2015	12080	1356	Seattle	-	Opponent Totals	-	-	-	-	20	501	240	27	0.965	 	5	18	9	18	 
-2015	12080	635	Seton Hall	-	Totals	-	-	-	-	14	354	140	19	0.963	 	2	7	5	8	 
-2015	12080	635	Seton Hall	-	Opponent Totals	-	-	-	-	14	366	133	21	0.960	 	 	27	7	9	 
-2015	12080	639	Siena	-	Totals	-	-	-	-	14	321	132	24	0.950	1	5	13	4	8	 
-2015	12080	639	Siena	-	Opponent Totals	-	-	-	-	14	354	122	8	0.983	 	4	6	3	7	 
-2015	12080	646	South Ala.	-	Totals	-	-	-	-	20	544	204	22	0.971	 	2	21	9	16	 
-2015	12080	646	South Ala.	-	Opponent Totals	-	-	-	-	20	519	218	35	0.955	 	4	28	7	21	 
-2015	12080	648	South Carolina	-	Totals	-	-	-	-	21	573	242	28	0.967	1	3	15	8	22	 
-2015	12080	648	South Carolina	-	Opponent Totals	-	-	-	-	21	527	201	23	0.969	 	3	24	6	19	 
-2015	12080	649	South Dakota St.	-	Totals	-	-	-	-	17	422	167	22	0.964	 	2	21	11	14	 
-2015	12080	649	South Dakota St.	-	Opponent Totals	-	-	-	-	17	444	204	33	0.952	1	6	28	4	8	 
-2015	12080	651	South Fla.	-	Totals	-	-	-	-	21	567	212	36	0.956	 	6	21	7	15	 
-2015	12080	651	South Fla.	-	Opponent Totals	-	-	-	-	21	533	206	26	0.966	 	2	31	8	11	 
-2015	12080	654	Southeast Mo. St.	-	Totals	-	-	-	-	19	502	223	20	0.973	 	5	21	10	15	 
-2015	12080	654	Southeast Mo. St.	-	Opponent Totals	-	-	-	-	19	492	176	24	0.965	 	5	16	15	16	 
-2015	12080	655	Southeastern La.	-	Totals	-	-	-	-	22	574	222	35	0.958	 	5	13	8	18	 
-2015	12080	655	Southeastern La.	-	Opponent Totals	-	-	-	-	22	557	228	42	0.949	1	5	36	13	22	 
-2015	12080	657	Southern California	-	Totals	-	-	-	-	20	548	207	22	0.972	 	1	15	12	21	 
-2015	12080	657	Southern California	-	Opponent Totals	-	-	-	-	20	513	196	36	0.952	 	4	46	10	16	1
-2015	12080	659	Southern Ill.	-	Totals	-	-	-	-	19	483	212	20	0.972	 	7	21	10	15	 
-2015	12080	659	Southern Ill.	-	Opponent Totals	-	-	-	-	19	517	228	29	0.963	1	5	9	7	16	 
-2015	12080	664	Southern Miss.	-	Totals	-	-	-	-	19	495	210	23	0.968	 	1	15	8	21	 
-2015	12080	664	Southern Miss.	-	Opponent Totals	-	-	-	-	19	480	220	30	0.959	2	3	21	6	14	 
-2015	12080	665	Southern U.	-	Totals	-	-	-	-	13	333	138	26	0.948	1	10	27	6	10	 
-2015	12080	665	Southern U.	-	Opponent Totals	-	-	-	-	13	338	124	14	0.971	 	3	17	6	8	 
-2015	12080	596	St. Bonaventure	-	Totals	-	-	-	-	11	272	113	15	0.963	 	5	9	2	9	1
-2015	12080	596	St. Bonaventure	-	Opponent Totals	-	-	-	-	11	270	108	21	0.947	1	3	14	3	4	 
-2015	12080	603	St. John's (NY)	-	Totals	-	-	-	-	12	316	132	8	0.982	 	3	9	6	9	 
-2015	12080	603	St. John's (NY)	-	Opponent Totals	-	-	-	-	12	330	138	17	0.965	 	2	3	4	12	 
-2015	12080	610	St. Mary's (CA)	-	Totals	-	-	-	-	20	531	235	29	0.964	 	8	15	14	10	 
-2015	12080	610	St. Mary's (CA)	-	Opponent Totals	-	-	-	-	20	520	243	41	0.949	 	9	32	13	10	 
-2015	12080	674	Stanford	-	Totals	-	-	-	-	17	453	178	20	0.969	 	9	5	5	14	 
-2015	12080	674	Stanford	-	Opponent Totals	-	-	-	-	17	451	194	20	0.970	 	5	7	4	15	 
-2015	12080	676	Stephen F. Austin	-	Totals	-	-	-	-	22	579	225	36	0.957	1	3	31	8	13	 
-2015	12080	676	Stephen F. Austin	-	Opponent Totals	-	-	-	-	22	594	226	20	0.976	 	2	33	10	20	 
-2015	12080	678	Stetson	-	Totals	-	-	-	-	22	582	242	31	0.964	1	7	31	9	24	 
-2015	12080	678	Stetson	-	Opponent Totals	-	-	-	-	22	566	206	32	0.960	1	1	10	5	18	 
-2015	12080	683	Stony Brook	-	Totals	-	-	-	-	16	405	159	15	0.974	 	3	17	8	6	 
-2015	12080	683	Stony Brook	-	Opponent Totals	-	-	-	-	16	414	185	22	0.965	 	4	12	6	13	 
-2015	12080	698	TCU	-	Totals	-	-	-	-	18	490	202	10	0.986	 	5	8	4	9	 
-2015	12080	698	TCU	-	Opponent Totals	-	-	-	-	18	462	202	28	0.960	2	7	31	11	16	 
-2015	12080	694	Tennessee	-	Totals	-	-	-	-	16	416	165	25	0.959	1	4	9	9	13	 
-2015	12080	694	Tennessee	-	Opponent Totals	-	-	-	-	16	423	190	26	0.959	 	4	24	10	8	 
-2015	12080	692	Tennessee Tech	-	Totals	-	-	-	-	18	477	176	24	0.965	 	 	18	6	14	 
-2015	12080	692	Tennessee Tech	-	Opponent Totals	-	-	-	-	18	469	197	25	0.964	1	2	13	2	19	 
-2015	12080	536	Tex.-Pan American	-	Totals	-	-	-	-	18	477	191	18	0.974	 	2	14	5	18	1
-2015	12080	536	Tex.-Pan American	-	Opponent Totals	-	-	-	-	18	468	204	25	0.964	 	9	15	7	13	 
-2015	12080	703	Texas	-	Totals	-	-	-	-	20	531	239	19	0.976	 	6	14	5	21	 
-2015	12080	703	Texas	-	Opponent Totals	-	-	-	-	20	520	196	21	0.972	 	3	8	9	14	 
-2015	12080	697	Texas A&M	-	Totals	-	-	-	-	22	600	240	26	0.970	 	2	14	10	16	 
-2015	12080	697	Texas A&M	-	Opponent Totals	-	-	-	-	22	538	237	36	0.956	2	2	15	7	24	 
-2015	12080	699	Texas Southern	-	Totals	-	-	-	-	19	516	202	46	0.940	1	19	32	15	10	 
-2015	12080	699	Texas Southern	-	Opponent Totals	-	-	-	-	19	511	185	33	0.955	1	10	42	10	8	 
-2015	12080	670	Texas St.	-	Totals	-	-	-	-	20	540	262	41	0.951	1	15	42	13	21	 
-2015	12080	670	Texas St.	-	Opponent Totals	-	-	-	-	20	534	208	35	0.955	 	6	15	11	12	 
-2015	12080	700	Texas Tech	-	Totals	-	-	-	-	21	591	270	28	0.969	4	5	20	8	31	 
-2015	12080	700	Texas Tech	-	Opponent Totals	-	-	-	-	21	568	213	17	0.979	 	3	18	6	20	 
-2015	12080	702	Texas-Arlington	-	Totals	-	-	-	-	18	477	190	22	0.968	1	1	19	10	17	 
-2015	12080	702	Texas-Arlington	-	Opponent Totals	-	-	-	-	18	474	165	16	0.976	 	5	14	2	14	 
-2015	12080	709	Toledo	-	Totals	-	-	-	-	19	491	230	28	0.963	2	4	30	9	18	 
-2015	12080	709	Toledo	-	Opponent Totals	-	-	-	-	19	519	217	20	0.974	 	3	7	4	15	 
-2015	12080	711	Towson	-	Totals	-	-	-	-	16	402	203	49	0.925	 	8	33	5	18	 
-2015	12080	711	Towson	-	Opponent Totals	-	-	-	-	16	420	177	30	0.952	 	7	16	13	16	 
-2015	12080	716	Troy	-	Totals	-	-	-	-	19	508	223	30	0.961	3	3	16	3	16	 
-2015	12080	716	Troy	-	Opponent Totals	-	-	-	-	19	503	191	22	0.969	 	 	22	8	12	 
-2015	12080	718	Tulane	-	Totals	-	-	-	-	21	571	275	27	0.969	 	4	10	16	22	 
-2015	12080	718	Tulane	-	Opponent Totals	-	-	-	-	21	551	224	28	0.965	 	6	20	12	12	 
-2015	12080	9	UAB	-	Totals	-	-	-	-	18	453	208	18	0.973	1	1	15	4	17	 
-2015	12080	9	UAB	-	Opponent Totals	-	-	-	-	18	444	165	19	0.970	 	3	15	1	10	 
-2015	12080	32	UALR	-	Totals	-	-	-	-	15	390	161	15	0.973	 	4	19	19	4	 
-2015	12080	32	UALR	-	Opponent Totals	-	-	-	-	15	388	158	12	0.978	 	1	18	5	14	 
-2015	12080	108	UC Davis	-	Totals	-	-	-	-	21	564	260	24	0.972	 	1	17	13	17	 
-2015	12080	108	UC Davis	-	Opponent Totals	-	-	-	-	21	563	292	33	0.963	 	2	59	19	17	 
-2015	12080	109	UC Irvine	-	Totals	-	-	-	-	18	472	195	20	0.971	1	1	9	8	13	 
-2015	12080	109	UC Irvine	-	Opponent Totals	-	-	-	-	18	476	199	26	0.963	 	2	10	5	24	 
-2015	12080	111	UC Riverside	-	Totals	-	-	-	-	20	540	215	33	0.958	 	2	21	13	12	 
-2015	12080	111	UC Riverside	-	Opponent Totals	-	-	-	-	20	543	203	32	0.959	 	5	13	12	22	 
-2015	12080	104	UC Santa Barbara	-	Totals	-	-	-	-	18	487	203	16	0.977	2	2	5	9	14	 
-2015	12080	104	UC Santa Barbara	-	Opponent Totals	-	-	-	-	18	470	186	25	0.963	 	7	29	14	13	 
-2015	12080	128	UCF	-	Totals	-	-	-	-	22	579	225	26	0.969	 	3	13	5	19	 
-2015	12080	128	UCF	-	Opponent Totals	-	-	-	-	22	548	200	27	0.965	3	9	23	6	19	 
-2015	12080	110	UCLA	-	Totals	-	-	-	-	19	510	193	14	0.980	1	 	13	7	9	 
-2015	12080	110	UCLA	-	Opponent Totals	-	-	-	-	19	484	211	38	0.948	1	9	22	10	18	 
-2015	12080	164	UConn	-	Totals	-	-	-	-	18	474	172	18	0.973	 	3	13	11	14	 
-2015	12080	164	UConn	-	Opponent Totals	-	-	-	-	18	480	176	20	0.970	 	6	36	7	16	 
-2015	12080	391	UMBC	-	Totals	-	-	-	-	11	276	114	11	0.973	 	4	15	6	8	 
-2015	12080	391	UMBC	-	Opponent Totals	-	-	-	-	11	287	140	14	0.968	2	1	18	4	5	 
-2015	12080	393	UMES	-	Totals	-	-	-	-	18	444	186	29	0.956	 	5	26	5	9	 
-2015	12080	393	UMES	-	Opponent Totals	-	-	-	-	18	476	165	22	0.967	 	4	22	7	10	 
-2015	12080	368	UMass Lowell	-	Totals	-	-	-	-	12	297	139	17	0.962	 	1	13	2	9	 
-2015	12080	368	UMass Lowell	-	Opponent Totals	-	-	-	-	12	321	149	12	0.975	 	3	28	5	9	 
-2015	12080	456	UNC Asheville	-	Totals	-	-	-	-	20	537	249	31	0.962	1	7	19	9	26	 
-2015	12080	456	UNC Asheville	-	Opponent Totals	-	-	-	-	20	524	158	16	0.977	 	12	9	5	12	 
-2015	12080	459	UNC Greensboro	-	Totals	-	-	-	-	18	444	175	23	0.964	 	1	22	8	13	 
-2015	12080	459	UNC Greensboro	-	Opponent Totals	-	-	-	-	18	455	181	28	0.958	 	3	6	7	17	 
-2015	12080	460	UNCW	-	Totals	-	-	-	-	18	477	179	27	0.960	 	4	15	8	18	 
-2015	12080	460	UNCW	-	Opponent Totals	-	-	-	-	18	450	158	50	0.924	 	4	21	9	9	 
-2015	12080	465	UNLV	-	Totals	-	-	-	-	19	492	197	24	0.966	 	1	17	7	12	 
-2015	12080	465	UNLV	-	Opponent Totals	-	-	-	-	19	489	219	21	18.449	3	2	17	7	19	 
-2015	12080	10411	USC Upstate	-	Totals	-	-	-	-	15	399	128	20	0.963	 	2	13	7	5	 
-2015	12080	10411	USC Upstate	-	Opponent Totals	-	-	-	-	15	384	151	22	0.961	 	7	4	 	14	 
-2015	12080	695	UT Martin	-	Totals	-	-	-	-	17	435	162	24	0.961	 	7	21	11	6	 
-2015	12080	695	UT Martin	-	Opponent Totals	-	-	-	-	17	455	172	17	0.974	 	7	10	3	19	 
-2015	12080	706	UTSA	-	Totals	-	-	-	-	20	533	213	32	0.959	 	2	10	9	8	 
-2015	12080	706	UTSA	-	Opponent Totals	-	-	-	-	20	524	185	24	0.967	 	6	28	10	9	 
-2015	12080	732	Utah	-	Totals	-	-	-	-	19	485	204	30	0.958	1	1	20	8	12	 
-2015	12080	732	Utah	-	Opponent Totals	-	-	-	-	19	510	229	22	0.971	 	4	27	20	16	 
-2015	12080	30024	Utah Valley	-	Totals	-	-	-	-	20	507	208	36	0.952	 	6	38	12	17	 
-2015	12080	30024	Utah Valley	-	Opponent Totals	-	-	-	-	20	534	225	25	0.968	1	7	10	5	20	 
-2015	12080	740	VCU	-	Totals	-	-	-	-	18	482	171	15	0.978	 	6	20	5	12	 
-2015	12080	740	VCU	-	Opponent Totals	-	-	-	-	17	459	222	27	0.962	 	9	17	12	15	 
-2015	12080	741	VMI	-	Totals	-	-	-	-	7	180	90	13	0.954	 	2	5	2	6	 
-2015	12080	741	VMI	-	Opponent Totals	-	-	-	-	7	180	75	8	0.970	 	1	11	3	3	 
-2015	12080	735	Valparaiso	-	Totals	-	-	-	-	16	396	169	32	0.946	 	3	18	3	18	 
-2015	12080	735	Valparaiso	-	Opponent Totals	-	-	-	-	16	432	148	25	0.959	 	4	11	7	4	 
-2015	12080	736	Vanderbilt	-	Totals	-	-	-	-	21	587	228	22	0.974	 	3	8	9	20	 
-2015	12080	736	Vanderbilt	-	Opponent Totals	-	-	-	-	21	544	187	33	0.957	 	5	43	14	21	 
-2015	12080	739	Villanova	-	Totals	-	-	-	-	17	452	186	19	0.971	 	6	27	9	15	 
-2015	12080	739	Villanova	-	Opponent Totals	-	-	-	-	17	459	178	19	0.971	 	4	20	7	12	 
-2015	12080	746	Virginia	-	Totals	-	-	-	-	17	478	192	26	0.963	1	3	14	10	12	 
-2015	12080	746	Virginia	-	Opponent Totals	-	-	-	-	17	461	195	30	0.956	 	4	8	9	11	 
-2015	12080	742	Virginia Tech	-	Totals	-	-	-	-	21	561	219	28	0.965	 	7	10	7	16	 
-2015	12080	742	Virginia Tech	-	Opponent Totals	-	-	-	-	21	561	238	34	0.959	1	4	13	7	22	 
-2015	12080	748	Wagner	-	Totals	-	-	-	-	11	278	95	14	0.964	 	2	13	2	4	 
-2015	12080	748	Wagner	-	Opponent Totals	-	-	-	-	11	300	137	16	0.965	 	2	6	2	10	 
-2015	12080	749	Wake Forest	-	Totals	-	-	-	-	18	480	178	16	0.976	 	8	18	4	18	 
-2015	12080	749	Wake Forest	-	Opponent Totals	-	-	-	-	18	456	159	19	17.478	 	4	23	1	8	 
-2015	12080	756	Washington	-	Totals	-	-	-	-	19	504	197	18	0.975	1	2	6	7	18	 
-2015	12080	756	Washington	-	Opponent Totals	-	-	-	-	19	489	210	26	0.964	 	7	16	3	9	 
-2015	12080	754	Washington St.	-	Totals	-	-	-	-	19	495	185	19	0.973	 	4	30	10	22	 
-2015	12080	754	Washington St.	-	Opponent Totals	-	-	-	-	19	483	186	26	0.963	1	3	23	10	12	 
-2015	12080	768	West Virginia	-	Totals	-	-	-	-	17	461	170	23	0.965	 	7	16	6	19	 
-2015	12080	768	West Virginia	-	Opponent Totals	-	-	-	-	17	474	174	27	0.960	 	3	22	5	14	 
-2015	12080	769	Western Caro.	-	Totals	-	-	-	-	17	447	164	28	0.956	 	3	25	5	16	 
-2015	12080	769	Western Caro.	-	Opponent Totals	-	-	-	-	17	441	169	20	0.968	1	4	36	6	5	 
-2015	12080	771	Western Ill.	-	Totals	-	-	-	-	15	369	126	41	0.924	 	9	36	5	7	 
-2015	12080	771	Western Ill.	-	Opponent Totals	-	-	-	-	15	396	162	23	0.960	 	2	19	8	8	 
-2015	12080	772	Western Ky.	-	Totals	-	-	-	-	19	512	219	28	0.963	2	5	13	11	16	 
-2015	12080	772	Western Ky.	-	Opponent Totals	-	-	-	-	19	495	199	33	0.955	 	1	21	5	10	 
-2015	12080	774	Western Mich.	-	Totals	-	-	-	-	16	412	165	17	0.971	 	2	21	4	17	 
-2015	12080	774	Western Mich.	-	Opponent Totals	-	-	-	-	16	423	178	19	0.969	 	3	8	2	12	 
-2015	12080	782	Wichita St.	-	Totals	-	-	-	-	20	519	221	31	0.960	 	7	34	9	15	 
-2015	12080	782	Wichita St.	-	Opponent Totals	-	-	-	-	20	514	206	23	0.969	1	2	43	9	8	 
-2015	12080	786	William & Mary	-	Totals	-	-	-	-	12	312	139	15	0.968	 	1	16	1	9	 
-2015	12080	786	William & Mary	-	Opponent Totals	-	-	-	-	12	308	123	18	0.960	1	2	4	1	9	 
-2015	12080	792	Winthrop	-	Totals	-	-	-	-	20	541	181	21	0.972	 	7	24	6	10	 
-2015	12080	792	Winthrop	-	Opponent Totals	-	-	-	-	20	510	206	29	19.200	 	5	33	12	9	 
-2015	12080	2915	Wofford	-	Totals	-	-	-	-	19	507	196	27	0.963	 	2	13	8	11	 
-2015	12080	2915	Wofford	-	Opponent Totals	-	-	-	-	19	477	176	25	0.963	 	4	33	12	9	 
-2015	12080	810	Wright St.	-	Totals	-	-	-	-	18	470	208	21	0.970	 	 	17	12	16	1
-2015	12080	810	Wright St.	-	Opponent Totals	-	-	-	-	18	465	191	31	0.955	 	 	19	11	11	 
-2015	12080	812	Xavier	-	Totals	-	-	-	-	19	488	201	25	0.965	1	2	17	17	15	 
-2015	12080	812	Xavier	-	Opponent Totals	-	-	-	-	19	516	200	25	0.966	 	3	26	9	14	 
-2015	12080	813	Yale	-	Totals	-	-	-	-	10	264	127	10	0.975	 	2	24	4	4	 
-2015	12080	813	Yale	-	Opponent Totals	-	-	-	-	10	273	103	15	0.962	 	3	11	4	7	 
-2015	12080	817	Youngstown St.	-	Totals	-	-	-	-	11	285	132	20	0.954	 	8	23	2	9	 
-2015	12080	817	Youngstown St.	-	Opponent Totals	-	-	-	-	11	300	122	11	0.975	 	4	7	6	10	 
+2015	12080	26172	A&M-Corpus Chris	-	Totals	-	-	-	-	24	629	250	31	0.966	 	5	28	7	18	 
+2015	12080	26172	A&M-Corpus Chris	-	Opponent Totals	-	-	-	-	24	614	267	28	0.969	1	4	32	13	14	 
+2015	12080	2	Abilene Christian	-	Totals	-	-	-	-	25	655	237	44	0.953	 	10	34	9	18	 
+2015	12080	2	Abilene Christian	-	Opponent Totals	-	-	-	-	25	672	265	36	24.071	 	3	17	10	14	 
+2015	12080	721	Air Force	-	Totals	-	-	-	-	27	699	342	35	0.967	1	8	31	16	22	 
+2015	12080	721	Air Force	-	Opponent Totals	-	-	-	-	27	719	287	47	0.955	 	7	33	11	21	 
+2015	12080	5	Akron	-	Totals	-	-	-	-	25	641	254	30	0.968	 	6	22	15	19	 
+2015	12080	5	Akron	-	Opponent Totals	-	-	-	-	25	660	282	41	0.958	 	7	30	8	18	 
+2015	12080	8	Alabama	-	Totals	-	-	-	-	27	714	285	29	0.972	 	10	20	11	30	 
+2015	12080	8	Alabama	-	Opponent Totals	-	-	-	-	27	702	262	37	0.963	 	5	37	7	16	 
+2015	12080	6	Alabama A&M	-	Totals	-	-	-	-	30	749	279	55	0.949	 	11	50	11	19	 
+2015	12080	6	Alabama A&M	-	Opponent Totals	-	-	-	-	30	752	301	50	0.955	3	19	24	11	17	 
+2015	12080	7	Alabama St.	-	Totals	-	-	-	-	27	698	230	44	0.955	 	7	32	12	14	 
+2015	12080	7	Alabama St.	-	Opponent Totals	-	-	-	-	27	682	269	46	0.954	3	8	32	12	27	 
+2015	12080	14	Albany (NY)	-	Totals	-	-	-	-	13	331	135	30	0.940	 	4	18	9	11	 
+2015	12080	14	Albany (NY)	-	Opponent Totals	-	-	-	-	13	348	164	15	0.972	 	2	11	10	10	 
+2015	12080	17	Alcorn	-	Totals	-	-	-	-	27	667	226	83	0.915	2	12	67	13	19	 
+2015	12080	17	Alcorn	-	Opponent Totals	-	-	-	-	27	699	250	46	0.954	 	11	49	25	15	 
+2015	12080	27	Appalachian St.	-	Totals	-	-	-	-	29	755	308	36	0.967	1	6	33	8	19	 
+2015	12080	27	Appalachian St.	-	Opponent Totals	-	-	-	-	29	774	278	37	0.966	 	5	21	11	30	 
+2015	12080	29	Arizona	-	Totals	-	-	-	-	28	756	318	32	0.971	1	3	15	7	29	 
+2015	12080	29	Arizona	-	Opponent Totals	-	-	-	-	28	707	310	68	0.937	1	3	40	24	18	 
+2015	12080	28	Arizona St.	-	Totals	-	-	-	-	26	705	282	27	0.973	 	5	23	11	18	 
+2015	12080	28	Arizona St.	-	Opponent Totals	-	-	-	-	26	661	282	26	0.973	 	4	23	16	23	 
+2015	12080	2678	Ark.-Pine Bluff	-	Totals	-	-	-	-	22	569	210	29	0.964	2	4	55	5	16	 
+2015	12080	2678	Ark.-Pine Bluff	-	Opponent Totals	-	-	-	-	22	594	268	45	0.950	1	8	17	15	16	 
+2015	12080	31	Arkansas	-	Totals	-	-	-	-	28	743	312	27	0.975	1	6	33	14	30	 
+2015	12080	31	Arkansas	-	Opponent Totals	-	-	-	-	28	718	304	34	0.968	1	5	26	10	27	 
+2015	12080	30	Arkansas St.	-	Totals	-	-	-	-	26	709	245	33	0.967	 	4	24	9	20	 
+2015	12080	30	Arkansas St.	-	Opponent Totals	-	-	-	-	26	717	265	36	0.965	 	6	25	11	15	 
+2015	12080	725	Army	-	Totals	-	-	-	-	24	583	254	33	0.962	 	8	18	15	16	 
+2015	12080	725	Army	-	Opponent Totals	-	-	-	-	24	592	278	35	0.961	 	1	44	15	9	 
+2015	12080	37	Auburn	-	Totals	-	-	-	-	29	765	273	31	0.971	 	1	22	7	19	 
+2015	12080	37	Auburn	-	Opponent Totals	-	-	-	-	29	749	312	35	0.968	1	3	19	16	27	 
+2015	12080	43	Austin Peay	-	Totals	-	-	-	-	25	654	254	40	0.958	 	5	23	8	17	 
+2015	12080	43	Austin Peay	-	Opponent Totals	-	-	-	-	25	651	230	37	0.960	 	6	39	13	15	 
+2015	12080	77	BYU	-	Totals	-	-	-	-	28	714	290	28	0.973	 	9	23	10	23	 
+2015	12080	77	BYU	-	Opponent Totals	-	-	-	-	28	733	307	35	0.967	 	5	14	12	34	 
+2015	12080	94	Bakersfield	-	Totals	-	-	-	-	29	775	339	27	0.976	 	7	15	13	33	 
+2015	12080	94	Bakersfield	-	Opponent Totals	-	-	-	-	29	768	327	47	0.959	 	 	31	8	26	 
+2015	12080	47	Ball St.	-	Totals	-	-	-	-	27	728	236	31	0.969	 	3	15	12	16	 
+2015	12080	47	Ball St.	-	Opponent Totals	-	-	-	-	27	708	271	42	0.959	 	6	29	12	21	 
+2015	12080	51	Baylor	-	Totals	-	-	-	-	28	735	304	47	0.957	1	9	18	9	21	 
+2015	12080	51	Baylor	-	Opponent Totals	-	-	-	-	28	734	274	35	0.966	 	1	39	20	17	 
+2015	12080	14927	Belmont	-	Totals	-	-	-	-	25	663	278	49	0.951	 	2	23	12	18	 
+2015	12080	14927	Belmont	-	Opponent Totals	-	-	-	-	25	645	256	32	0.966	3	6	46	11	17	 
+2015	12080	61	Bethune-Cookman	-	Totals	-	-	-	-	32	849	349	62	0.951	 	12	28	21	32	 
+2015	12080	61	Bethune-Cookman	-	Opponent Totals	-	-	-	-	32	853	361	61	0.952	 	7	36	9	23	 
+2015	12080	62	Binghamton	-	Totals	-	-	-	-	16	393	141	27	0.952	 	3	17	6	11	 
+2015	12080	62	Binghamton	-	Opponent Totals	-	-	-	-	16	426	166	19	0.969	 	3	13	5	6	 
+2015	12080	67	Boston College	-	Totals	-	-	-	-	25	662	253	24	0.974	 	7	25	9	19	 
+2015	12080	67	Boston College	-	Opponent Totals	-	-	-	-	25	679	289	24	0.976	 	3	28	9	21	 
+2015	12080	71	Bowling Green	-	Totals	-	-	-	-	22	556	229	36	0.956	 	2	20	18	14	 
+2015	12080	71	Bowling Green	-	Opponent Totals	-	-	-	-	22	585	262	29	21.269	 	7	26	14	22	 
+2015	12080	72	Bradley	-	Totals	-	-	-	-	26	666	212	21	0.977	 	2	20	7	19	 
+2015	12080	72	Bradley	-	Opponent Totals	-	-	-	-	26	665	246	36	0.962	 	6	24	13	12	 
+2015	12080	80	Brown	-	Totals	-	-	-	-	20	501	204	33	0.955	 	11	42	8	17	 
+2015	12080	80	Brown	-	Opponent Totals	-	-	-	-	20	543	221	22	0.972	 	5	14	9	20	 
+2015	12080	81	Bryant	-	Totals	-	-	-	-	16	393	161	28	0.952	 	5	24	13	7	 
+2015	12080	81	Bryant	-	Opponent Totals	-	-	-	-	16	423	156	23	0.962	 	5	15	6	11	 
+2015	12080	83	Bucknell	-	Totals	-	-	-	-	25	654	292	41	0.958	 	7	30	4	23	 
+2015	12080	83	Bucknell	-	Opponent Totals	-	-	-	-	25	636	243	39	0.958	 	8	18	5	17	 
+2015	12080	86	Buffalo	-	Totals	-	-	-	-	18	447	159	25	0.960	 	5	46	10	9	 
+2015	12080	86	Buffalo	-	Opponent Totals	-	-	-	-	18	477	185	22	0.968	 	9	21	8	11	 
+2015	12080	87	Butler	-	Totals	-	-	-	-	27	694	288	27	0.973	 	3	40	10	19	 
+2015	12080	87	Butler	-	Opponent Totals	-	-	-	-	27	712	341	42	0.962	 	11	27	11	29	 
+2015	12080	101	CSUN	-	Totals	-	-	-	-	27	708	315	30	0.972	 	7	15	11	25	 
+2015	12080	101	CSUN	-	Opponent Totals	-	-	-	-	27	678	261	38	0.961	 	7	34	14	19	 
+2015	12080	90	Cal Poly	-	Totals	-	-	-	-	25	657	260	37	0.961	1	3	17	15	14	 
+2015	12080	90	Cal Poly	-	Opponent Totals	-	-	-	-	25	666	268	32	0.967	 	5	7	7	13	 
+2015	12080	97	Cal St. Fullerton	-	Totals	-	-	-	-	27	722	264	29	0.971	1	8	16	10	20	 
+2015	12080	97	Cal St. Fullerton	-	Opponent Totals	-	-	-	-	27	717	294	34	0.967	 	10	24	7	23	 
+2015	12080	107	California	-	Totals	-	-	-	-	27	720	298	32	0.970	 	3	19	9	29	 
+2015	12080	107	California	-	Opponent Totals	-	-	-	-	27	690	270	42	0.958	 	10	24	11	18	 
+2015	12080	115	Campbell	-	Totals	-	-	-	-	29	777	270	37	0.966	 	2	24	12	15	 
+2015	12080	115	Campbell	-	Opponent Totals	-	-	-	-	29	735	323	65	0.942	 	7	68	13	16	 
+2015	12080	116	Canisius	-	Totals	-	-	-	-	27	682	263	40	0.959	 	10	45	9	12	 
+2015	12080	116	Canisius	-	Opponent Totals	-	-	-	-	27	698	272	36	0.964	2	8	34	12	22	 
+2015	12080	1004	Central Ark.	-	Totals	-	-	-	-	23	611	231	24	0.972	1	1	13	6	23	 
+2015	12080	1004	Central Ark.	-	Opponent Totals	-	-	-	-	23	609	239	26	0.970	1	5	16	7	19	 
+2015	12080	127	Central Conn. St.	-	Totals	-	-	-	-	16	432	171	32	0.950	 	3	28	5	8	 
+2015	12080	127	Central Conn. St.	-	Opponent Totals	-	-	-	-	16	435	196	19	0.971	 	1	13	4	21	 
+2015	12080	129	Central Mich.	-	Totals	-	-	-	-	28	743	343	43	0.962	1	7	24	24	21	 
+2015	12080	129	Central Mich.	-	Opponent Totals	-	-	-	-	28	759	293	49	0.955	1	16	47	10	13	 
+2015	12080	48	Charleston So.	-	Totals	-	-	-	-	26	711	251	29	0.971	 	2	44	7	18	 
+2015	12080	48	Charleston So.	-	Opponent Totals	-	-	-	-	26	713	297	31	0.970	 	5	26	11	22	 
+2015	12080	458	Charlotte	-	Totals	-	-	-	-	23	600	241	36	0.959	 	6	20	7	15	 
+2015	12080	458	Charlotte	-	Opponent Totals	-	-	-	-	23	585	249	23	0.973	 	5	13	5	16	 
+2015	12080	136	Chicago St.	-	Totals	-	-	-	-	26	664	266	38	0.961	 	5	34	17	19	 
+2015	12080	136	Chicago St.	-	Opponent Totals	-	-	-	-	26	681	282	32	0.968	 	6	18	8	16	 
+2015	12080	140	Cincinnati	-	Totals	-	-	-	-	26	680	292	35	0.965	 	2	22	16	20	 
+2015	12080	140	Cincinnati	-	Opponent Totals	-	-	-	-	26	705	257	28	0.972	1	8	19	13	16	 
+2015	12080	141	Citadel	-	Totals	-	-	-	-	27	714	261	53	0.948	 	4	37	9	12	 
+2015	12080	141	Citadel	-	Opponent Totals	-	-	-	-	27	699	239	36	0.963	 	11	21	6	22	 
+2015	12080	147	Clemson	-	Totals	-	-	-	-	27	739	269	38	0.964	 	 	26	6	18	 
+2015	12080	147	Clemson	-	Opponent Totals	-	-	-	-	27	732	284	35	0.967	1	7	34	13	32	 
+2015	12080	149	Coastal Caro.	-	Totals	-	-	-	-	28	777	305	38	0.966	 	5	21	10	28	 
+2015	12080	149	Coastal Caro.	-	Opponent Totals	-	-	-	-	28	732	273	47	0.955	 	8	39	14	16	 
+2015	12080	1014	Col. of Charleston	-	Totals	-	-	-	-	25	669	280	33	0.966	 	11	28	4	16	 
+2015	12080	1014	Col. of Charleston	-	Opponent Totals	-	-	-	-	25	645	260	25	0.973	 	2	20	8	16	 
+2015	12080	158	Columbia	-	Totals	-	-	-	-	21	536	207	35	0.955	 	3	20	8	21	 
+2015	12080	158	Columbia	-	Opponent Totals	-	-	-	-	21	552	220	33	0.959	 	10	31	6	11	 
+2015	12080	165	Coppin St.	-	Totals	-	-	-	-	20	466	176	58	0.917	 	4	69	17	8	 
+2015	12080	165	Coppin St.	-	Opponent Totals	-	-	-	-	20	508	199	25	0.966	 	5	8	5	9	 
+2015	12080	167	Cornell	-	Totals	-	-	-	-	19	459	207	33	0.953	1	6	23	9	13	 
+2015	12080	167	Cornell	-	Opponent Totals	-	-	-	-	19	475	175	20	0.970	 	4	8	2	18	 
+2015	12080	169	Creighton	-	Totals	-	-	-	-	23	635	288	27	0.972	 	3	24	3	25	 
+2015	12080	169	Creighton	-	Opponent Totals	-	-	-	-	23	624	296	31	0.967	 	7	21	14	16	 
+2015	12080	1045	Dallas Baptist	-	Totals	-	-	-	-	23	615	237	21	0.976	 	4	10	10	20	 
+2015	12080	1045	Dallas Baptist	-	Opponent Totals	-	-	-	-	23	597	222	41	0.952	1	12	25	8	16	 
+2015	12080	172	Dartmouth	-	Totals	-	-	-	-	20	480	208	22	0.969	2	5	28	4	13	 
+2015	12080	172	Dartmouth	-	Opponent Totals	-	-	-	-	20	519	214	30	0.961	 	4	7	4	19	 
+2015	12080	173	Davidson	-	Totals	-	-	-	-	23	621	225	48	0.946	2	7	20	9	24	 
+2015	12080	173	Davidson	-	Opponent Totals	-	-	-	-	23	607	205	23	0.972	1	5	11	4	15	 
+2015	12080	175	Dayton	-	Totals	-	-	-	-	26	708	290	48	0.954	 	4	35	20	15	 
+2015	12080	175	Dayton	-	Opponent Totals	-	-	-	-	26	717	241	34	0.966	2	 	32	14	13	 
+2015	12080	180	Delaware	-	Totals	-	-	-	-	19	495	187	27	0.962	 	3	18	5	16	 
+2015	12080	180	Delaware	-	Opponent Totals	-	-	-	-	19	491	178	21	0.970	 	9	21	6	17	 
+2015	12080	178	Delaware St.	-	Totals	-	-	-	-	21	516	197	37	0.951	 	6	23	2	10	 
+2015	12080	178	Delaware St.	-	Opponent Totals	-	-	-	-	21	527	214	33	0.957	 	2	30	13	11	 
+2015	12080	193	Duke	-	Totals	-	-	-	-	29	781	328	37	0.968	1	7	27	15	19	 
+2015	12080	193	Duke	-	Opponent Totals	-	-	-	-	29	756	260	30	0.971	 	4	39	10	13	 
+2015	12080	196	East Carolina	-	Totals	-	-	-	-	29	777	371	42	0.965	 	3	17	16	32	 
+2015	12080	196	East Carolina	-	Opponent Totals	-	-	-	-	29	741	291	54	0.950	 	5	24	16	31	 
+2015	12080	198	East Tenn. St.	-	Totals	-	-	-	-	27	715	253	34	0.966	1	13	26	7	18	 
+2015	12080	198	East Tenn. St.	-	Opponent Totals	-	-	-	-	27	709	327	35	0.967	5	11	34	13	24	1
+2015	12080	201	Eastern Ill.	-	Totals	-	-	-	-	21	512	198	38	0.949	2	5	31	5	17	 
+2015	12080	201	Eastern Ill.	-	Opponent Totals	-	-	-	-	21	552	213	19	0.976	 	4	9	5	15	 
+2015	12080	202	Eastern Ky.	-	Totals	-	-	-	-	24	613	251	33	0.963	1	11	34	10	20	 
+2015	12080	202	Eastern Ky.	-	Opponent Totals	-	-	-	-	24	628	241	21	0.976	 	6	27	10	18	 
+2015	12080	204	Eastern Mich.	-	Totals	-	-	-	-	26	651	289	45	0.954	 	9	41	23	21	 
+2015	12080	204	Eastern Mich.	-	Opponent Totals	-	-	-	-	26	687	311	29	0.972	 	5	41	25	19	 
+2015	12080	1068	Elon	-	Totals	-	-	-	-	27	728	288	44	0.958	 	12	38	9	23	 
+2015	12080	1068	Elon	-	Opponent Totals	-	-	-	-	27	720	269	41	0.960	 	9	25	11	21	 
+2015	12080	219	Evansville	-	Totals	-	-	-	-	24	636	262	32	0.966	 	4	25	9	18	 
+2015	12080	219	Evansville	-	Opponent Totals	-	-	-	-	24	642	242	35	0.962	 	4	10	11	14	 
+2015	12080	28755	FGCU	-	Totals	-	-	-	-	29	777	291	42	0.962	 	8	38	5	10	 
+2015	12080	28755	FGCU	-	Opponent Totals	-	-	-	-	29	763	325	39	0.965	 	6	24	9	29	 
+2015	12080	231	FIU	-	Totals	-	-	-	-	29	763	331	37	0.967	 	9	30	13	19	 
+2015	12080	231	FIU	-	Opponent Totals	-	-	-	-	29	757	273	42	0.961	 	6	19	16	23	 
+2015	12080	220	Fairfield	-	Totals	-	-	-	-	18	443	194	23	0.965	 	3	39	9	13	 
+2015	12080	220	Fairfield	-	Opponent Totals	-	-	-	-	18	471	174	16	0.976	 	2	17	6	14	 
+2015	12080	222	Fairleigh Dickinson	-	Totals	-	-	-	-	15	360	160	25	0.954	1	2	34	10	8	 
+2015	12080	222	Fairleigh Dickinson	-	Opponent Totals	-	-	-	-	15	369	174	17	0.970	 	3	9	5	12	 
+2015	12080	229	Fla. Atlantic	-	Totals	-	-	-	-	29	810	285	48	0.958	 	7	24	6	17	 
+2015	12080	229	Fla. Atlantic	-	Opponent Totals	-	-	-	-	29	765	318	44	0.961	1	14	33	12	21	 
+2015	12080	235	Florida	-	Totals	-	-	-	-	30	801	328	21	0.982	 	10	22	11	21	 
+2015	12080	235	Florida	-	Opponent Totals	-	-	-	-	30	758	302	51	0.954	 	7	42	17	20	 
+2015	12080	228	Florida A&M	-	Totals	-	-	-	-	27	700	324	37	0.965	 	6	51	13	17	 
+2015	12080	228	Florida A&M	-	Opponent Totals	-	-	-	-	27	709	254	36	0.964	3	13	26	5	15	 
+2015	12080	234	Florida St.	-	Totals	-	-	-	-	30	795	290	49	0.957	1	5	20	2	20	 
+2015	12080	234	Florida St.	-	Opponent Totals	-	-	-	-	30	752	256	35	0.966	 	11	27	10	20	 
+2015	12080	236	Fordham	-	Totals	-	-	-	-	25	633	239	26	0.971	 	5	36	9	20	 
+2015	12080	236	Fordham	-	Opponent Totals	-	-	-	-	25	651	276	29	0.970	 	7	48	13	13	 
+2015	12080	96	Fresno St.	-	Totals	-	-	-	-	29	769	318	31	0.972	 	4	7	5	25	 
+2015	12080	96	Fresno St.	-	Opponent Totals	-	-	-	-	29	755	323	38	0.966	1	3	18	15	26	 
+2015	12080	244	Furman	-	Totals	-	-	-	-	26	707	294	32	0.969	 	3	27	6	19	 
+2015	12080	244	Furman	-	Opponent Totals	-	-	-	-	26	705	316	31	0.971	 	3	22	9	19	1
+2015	12080	253	Ga. Southern	-	Totals	-	-	-	-	30	812	327	58	0.952	 	8	17	11	25	 
+2015	12080	253	Ga. Southern	-	Opponent Totals	-	-	-	-	30	793	268	34	0.969	 	8	35	11	20	 
+2015	12080	1092	Gardner-Webb	-	Totals	-	-	-	-	29	786	332	31	0.973	 	6	27	16	26	 
+2015	12080	1092	Gardner-Webb	-	Opponent Totals	-	-	-	-	29	775	324	35	0.969	 	6	41	11	18	 
+2015	12080	248	George Mason	-	Totals	-	-	-	-	25	676	239	30	0.968	 	9	37	10	9	 
+2015	12080	248	George Mason	-	Opponent Totals	-	-	-	-	25	666	233	29	0.969	 	9	25	9	14	 
+2015	12080	249	George Washington	-	Totals	-	-	-	-	22	582	240	16	0.981	2	3	25	10	15	 
+2015	12080	249	George Washington	-	Opponent Totals	-	-	-	-	22	558	275	26	0.970	 	1	41	12	15	 
+2015	12080	251	Georgetown	-	Totals	-	-	-	-	23	597	251	38	0.957	1	2	25	7	14	 
+2015	12080	251	Georgetown	-	Opponent Totals	-	-	-	-	23	611	258	36	0.960	1	7	16	7	19	 
+2015	12080	257	Georgia	-	Totals	-	-	-	-	30	804	271	31	0.972	 	12	18	8	23	 
+2015	12080	257	Georgia	-	Opponent Totals	-	-	-	-	30	780	293	42	0.962	 	6	41	9	23	 
+2015	12080	254	Georgia St.	-	Totals	-	-	-	-	29	802	345	42	0.965	1	9	26	13	29	 
+2015	12080	254	Georgia St.	-	Opponent Totals	-	-	-	-	29	781	294	33	0.970	 	4	24	7	22	 
+2015	12080	255	Georgia Tech	-	Totals	-	-	-	-	28	756	312	25	0.977	 	1	31	21	24	 
+2015	12080	255	Georgia Tech	-	Opponent Totals	-	-	-	-	28	740	297	34	0.968	 	7	26	7	28	 
+2015	12080	260	Gonzaga	-	Totals	-	-	-	-	28	733	301	48	0.956	1	2	28	17	22	 
+2015	12080	260	Gonzaga	-	Opponent Totals	-	-	-	-	28	747	329	38	0.966	 	6	16	9	36	 
+2015	12080	261	Grambling	-	Totals	-	-	-	-	26	650	272	58	0.941	1	5	31	11	21	 
+2015	12080	261	Grambling	-	Opponent Totals	-	-	-	-	26	693	303	46	0.956	 	10	51	12	14	 
+2015	12080	1104	Grand Canyon	-	Totals	-	-	-	-	29	741	322	40	0.964	1	1	16	13	22	 
+2015	12080	1104	Grand Canyon	-	Opponent Totals	-	-	-	-	29	738	314	47	0.957	 	4	25	18	23	 
+2015	12080	272	Hartford	-	Totals	-	-	-	-	21	538	244	25	0.969	 	4	26	12	21	 
+2015	12080	272	Hartford	-	Opponent Totals	-	-	-	-	21	543	245	27	0.967	 	3	23	11	15	 
+2015	12080	275	Harvard	-	Totals	-	-	-	-	22	537	220	33	0.958	 	4	27	7	9	 
+2015	12080	275	Harvard	-	Opponent Totals	-	-	-	-	22	558	235	38	0.954	1	8	24	12	24	 
+2015	12080	277	Hawaii	-	Totals	-	-	-	-	26	684	285	28	0.972	 	4	32	13	21	 
+2015	12080	277	Hawaii	-	Opponent Totals	-	-	-	-	26	681	258	34	0.965	 	7	11	1	19	 
+2015	12080	19651	High Point	-	Totals	-	-	-	-	24	627	231	32	0.964	 	3	7	9	21	 
+2015	12080	19651	High Point	-	Opponent Totals	-	-	-	-	24	631	278	40	0.958	 	6	24	10	24	 
+2015	12080	283	Hofstra	-	Totals	-	-	-	-	22	570	233	26	0.969	 	9	30	7	22	 
+2015	12080	283	Hofstra	-	Opponent Totals	-	-	-	-	22	591	255	18	0.979	 	3	28	23	10	 
+2015	12080	285	Holy Cross	-	Totals	-	-	-	-	24	611	257	25	0.972	 	6	33	6	11	 
+2015	12080	285	Holy Cross	-	Opponent Totals	-	-	-	-	24	648	276	33	0.966	 	4	27	13	22	 
+2015	12080	288	Houston	-	Totals	-	-	-	-	29	786	329	43	0.963	 	10	24	10	24	 
+2015	12080	288	Houston	-	Opponent Totals	-	-	-	-	29	761	288	36	0.967	2	6	47	10	23	 
+2015	12080	287	Houston Baptist	-	Totals	-	-	-	-	27	710	273	33	0.968	 	2	21	5	18	 
+2015	12080	287	Houston Baptist	-	Opponent Totals	-	-	-	-	27	695	261	37	0.963	 	11	17	10	17	 
+2015	12080	308	IPFW	-	Totals	-	-	-	-	23	555	219	55	0.934	 	8	36	8	8	 
+2015	12080	308	IPFW	-	Opponent Totals	-	-	-	-	23	574	191	30	0.962	 	11	14	5	14	 
+2015	12080	302	Ill.-Chicago	-	Totals	-	-	-	-	22	579	247	18	0.979	 	7	28	9	17	 
+2015	12080	302	Ill.-Chicago	-	Opponent Totals	-	-	-	-	22	574	253	36	0.958	1	8	24	3	16	 
+2015	12080	301	Illinois	-	Totals	-	-	-	-	28	756	295	24	0.978	 	4	18	9	19	 
+2015	12080	301	Illinois	-	Opponent Totals	-	-	-	-	28	736	301	36	0.966	 	6	35	13	30	 
+2015	12080	299	Illinois St.	-	Totals	-	-	-	-	25	647	251	36	0.961	 	12	33	7	14	 
+2015	12080	299	Illinois St.	-	Opponent Totals	-	-	-	-	25	661	267	35	0.964	 	9	12	3	28	 
+2015	12080	2743	Incarnate Word	-	Totals	-	-	-	-	24	622	245	32	0.964	 	1	35	13	18	 
+2015	12080	2743	Incarnate Word	-	Opponent Totals	-	-	-	-	24	637	236	39	0.957	 	3	15	9	17	 
+2015	12080	306	Indiana	-	Totals	-	-	-	-	25	677	274	41	0.959	 	3	26	6	15	 
+2015	12080	306	Indiana	-	Opponent Totals	-	-	-	-	25	671	294	41	0.959	1	4	28	6	23	 
+2015	12080	305	Indiana St.	-	Totals	-	-	-	-	20	508	190	18	0.975	 	1	23	9	14	 
+2015	12080	305	Indiana St.	-	Opponent Totals	-	-	-	-	20	521	203	18	0.976	 	2	19	8	15	 
+2015	12080	310	Iona	-	Totals	-	-	-	-	26	627	224	29	0.967	1	9	44	17	7	 
+2015	12080	310	Iona	-	Opponent Totals	-	-	-	-	26	663	253	28	0.970	 	5	31	11	12	 
+2015	12080	312	Iowa	-	Totals	-	-	-	-	24	646	252	17	0.981	1	13	11	6	21	 
+2015	12080	312	Iowa	-	Opponent Totals	-	-	-	-	24	637	278	29	0.969	 	5	40	12	25	 
+2015	12080	314	Jackson St.	-	Totals	-	-	-	-	25	634	276	44	0.954	2	23	25	14	22	 
+2015	12080	314	Jackson St.	-	Opponent Totals	-	-	-	-	25	621	246	51	0.944	 	19	47	13	11	 
+2015	12080	316	Jacksonville	-	Totals	-	-	-	-	27	705	267	40	0.960	1	7	35	9	14	1
+2015	12080	316	Jacksonville	-	Opponent Totals	-	-	-	-	27	695	345	38	0.965	 	9	43	12	20	 
+2015	12080	315	Jacksonville St.	-	Totals	-	-	-	-	25	666	256	34	0.964	1	5	25	17	19	 
+2015	12080	315	Jacksonville St.	-	Opponent Totals	-	-	-	-	25	642	275	44	0.954	 	9	39	6	15	 
+2015	12080	317	James Madison	-	Totals	-	-	-	-	25	655	258	38	0.960	 	7	42	5	20	 
+2015	12080	317	James Madison	-	Opponent Totals	-	-	-	-	25	647	274	29	0.969	 	10	40	11	15	 
+2015	12080	328	Kansas	-	Totals	-	-	-	-	27	696	281	33	0.967	 	5	33	9	24	 
+2015	12080	328	Kansas	-	Opponent Totals	-	-	-	-	27	705	307	27	0.974	 	 	14	10	28	 
+2015	12080	327	Kansas St.	-	Totals	-	-	-	-	26	677	308	29	0.971	 	8	21	11	19	 
+2015	12080	327	Kansas St.	-	Opponent Totals	-	-	-	-	26	682	316	36	0.965	 	5	33	16	22	 
+2015	12080	1157	Kennesaw St.	-	Totals	-	-	-	-	28	747	293	47	0.957	1	6	49	6	24	 
+2015	12080	1157	Kennesaw St.	-	Opponent Totals	-	-	-	-	28	733	286	32	0.970	 	9	32	9	16	 
+2015	12080	331	Kent St.	-	Totals	-	-	-	-	24	646	215	36	0.960	 	2	55	12	10	 
+2015	12080	331	Kent St.	-	Opponent Totals	-	-	-	-	24	651	286	35	0.964	1	8	31	12	31	 
+2015	12080	334	Kentucky	-	Totals	-	-	-	-	28	767	317	46	0.959	 	1	35	7	29	 
+2015	12080	334	Kentucky	-	Opponent Totals	-	-	-	-	28	757	279	41	0.962	 	4	40	11	28	 
+2015	12080	361	LIU Brooklyn	-	Totals	-	-	-	-	20	499	186	28	0.961	 	4	24	9	16	 
+2015	12080	361	LIU Brooklyn	-	Opponent Totals	-	-	-	-	20	530	229	24	0.969	 	4	35	12	20	 
+2015	12080	365	LSU	-	Totals	-	-	-	-	29	813	278	29	0.974	1	1	30	12	19	 
+2015	12080	365	LSU	-	Opponent Totals	-	-	-	-	29	759	310	49	0.956	 	5	44	16	27	 
+2015	12080	340	La Salle	-	Totals	-	-	-	-	24	637	203	37	0.958	 	1	24	7	11	 
+2015	12080	340	La Salle	-	Opponent Totals	-	-	-	-	24	654	235	34	0.963	 	12	17	7	15	 
+2015	12080	671	La.-Lafayette	-	Totals	-	-	-	-	26	722	294	41	0.961	 	6	25	13	20	 
+2015	12080	671	La.-Lafayette	-	Opponent Totals	-	-	-	-	26	719	311	34	0.968	 	3	34	20	20	 
+2015	12080	498	La.-Monroe	-	Totals	-	-	-	-	25	657	285	44	0.955	 	6	41	16	21	 
+2015	12080	498	La.-Monroe	-	Opponent Totals	-	-	-	-	25	645	246	45	0.952	2	11	32	15	12	 
+2015	12080	342	Lafayette	-	Totals	-	-	-	-	15	371	138	21	0.960	 	8	18	8	10	 
+2015	12080	342	Lafayette	-	Opponent Totals	-	-	-	-	15	390	175	14	0.976	 	1	12	8	11	 
+2015	12080	346	Lamar	-	Totals	-	-	-	-	28	731	344	27	0.975	 	1	31	9	25	 
+2015	12080	346	Lamar	-	Opponent Totals	-	-	-	-	28	726	314	37	0.966	 	3	25	11	26	 
+2015	12080	352	Lehigh	-	Totals	-	-	-	-	22	560	244	43	0.949	 	4	41	13	14	 
+2015	12080	352	Lehigh	-	Opponent Totals	-	-	-	-	22	576	214	36	0.956	2	4	35	10	14	 
+2015	12080	355	Liberty	-	Totals	-	-	-	-	28	758	316	30	0.973	2	3	30	9	27	 
+2015	12080	355	Liberty	-	Opponent Totals	-	-	-	-	28	736	275	47	0.956	 	6	35	14	23	 
+2015	12080	28600	Lipscomb	-	Totals	-	-	-	-	26	687	323	25	0.976	1	4	22	13	17	 
+2015	12080	28600	Lipscomb	-	Opponent Totals	-	-	-	-	26	660	272	35	0.964	 	2	40	15	20	 
+2015	12080	99	Long Beach St.	-	Totals	-	-	-	-	24	648	288	33	0.966	2	1	16	12	18	 
+2015	12080	99	Long Beach St.	-	Opponent Totals	-	-	-	-	24	630	269	30	0.968	 	4	31	10	12	 
+2015	12080	363	Longwood	-	Totals	-	-	-	-	27	700	266	42	0.958	 	7	46	11	12	 
+2015	12080	363	Longwood	-	Opponent Totals	-	-	-	-	27	708	290	42	0.960	 	6	48	13	16	 
+2015	12080	366	Louisiana Tech	-	Totals	-	-	-	-	23	592	276	29	0.968	2	3	16	19	15	 
+2015	12080	366	Louisiana Tech	-	Opponent Totals	-	-	-	-	23	598	298	31	0.967	1	3	22	12	19	 
+2015	12080	367	Louisville	-	Totals	-	-	-	-	29	807	317	43	0.963	2	9	20	12	15	 
+2015	12080	367	Louisville	-	Opponent Totals	-	-	-	-	29	765	293	41	0.963	1	2	54	17	18	 
+2015	12080	370	Loyola Marymount	-	Totals	-	-	-	-	29	777	318	24	0.979	 	2	16	4	19	 
+2015	12080	370	Loyola Marymount	-	Opponent Totals	-	-	-	-	29	759	304	38	28.023	2	7	36	18	21	 
+2015	12080	380	Maine	-	Totals	-	-	-	-	22	565	202	33	0.959	 	1	42	8	10	 
+2015	12080	380	Maine	-	Opponent Totals	-	-	-	-	22	587	210	34	0.959	 	5	11	5	26	1
+2015	12080	381	Manhattan	-	Totals	-	-	-	-	23	573	263	37	0.958	 	4	17	16	13	 
+2015	12080	381	Manhattan	-	Opponent Totals	-	-	-	-	23	621	252	12	0.986	 	2	31	10	14	 
+2015	12080	386	Marist	-	Totals	-	-	-	-	18	494	201	16	0.977	 	1	14	8	14	1
+2015	12080	386	Marist	-	Opponent Totals	-	-	-	-	18	516	239	15	0.981	 	3	14	14	19	 
+2015	12080	388	Marshall	-	Totals	-	-	-	-	23	606	209	34	0.960	1	22	17	8	10	 
+2015	12080	388	Marshall	-	Opponent Totals	-	-	-	-	23	636	262	43	0.954	 	4	23	16	13	 
+2015	12080	392	Maryland	-	Totals	-	-	-	-	25	657	236	25	0.973	 	4	15	5	12	 
+2015	12080	392	Maryland	-	Opponent Totals	-	-	-	-	25	642	254	38	0.959	 	8	35	9	17	 
+2015	12080	400	Massachusetts	-	Totals	-	-	-	-	11	273	118	19	0.954	2	 	21	4	12	 
+2015	12080	400	Massachusetts	-	Opponent Totals	-	-	-	-	11	288	122	17	0.960	 	2	6	9	3	 
+2015	12080	402	McNeese St.	-	Totals	-	-	-	-	29	803	305	31	0.973	 	3	29	16	17	 
+2015	12080	402	McNeese St.	-	Opponent Totals	-	-	-	-	29	788	329	36	0.969	1	5	32	17	21	 
+2015	12080	404	Memphis	-	Totals	-	-	-	-	24	633	273	28	0.970	 	5	14	15	19	 
+2015	12080	404	Memphis	-	Opponent Totals	-	-	-	-	24	612	289	36	0.962	 	4	36	11	21	 
+2015	12080	406	Mercer	-	Totals	-	-	-	-	28	753	303	36	0.967	 	10	29	12	22	 
+2015	12080	406	Mercer	-	Opponent Totals	-	-	-	-	28	728	248	42	0.959	 	8	11	9	18	 
+2015	12080	415	Miami (FL)	-	Totals	-	-	-	-	29	774	320	40	0.965	 	3	25	11	21	 
+2015	12080	415	Miami (FL)	-	Opponent Totals	-	-	-	-	29	755	256	49	0.954	3	7	41	7	23	 
+2015	12080	414	Miami (OH)	-	Totals	-	-	-	-	24	610	212	36	0.958	 	8	37	10	12	 
+2015	12080	414	Miami (OH)	-	Opponent Totals	-	-	-	-	24	651	251	29	0.969	 	2	15	17	19	 
+2015	12080	418	Michigan	-	Totals	-	-	-	-	27	687	255	30	0.969	 	7	12	9	22	 
+2015	12080	418	Michigan	-	Opponent Totals	-	-	-	-	27	684	280	26	0.974	2	4	20	11	14	 
+2015	12080	416	Michigan St.	-	Totals	-	-	-	-	25	644	238	22	0.976	 	7	25	8	16	 
+2015	12080	416	Michigan St.	-	Opponent Totals	-	-	-	-	25	642	258	32	0.966	 	1	30	13	21	 
+2015	12080	419	Middle Tenn.	-	Totals	-	-	-	-	27	723	301	32	0.970	 	6	33	16	22	 
+2015	12080	419	Middle Tenn.	-	Opponent Totals	-	-	-	-	27	715	262	43	0.958	 	7	29	7	24	1
+2015	12080	797	Milwaukee	-	Totals	-	-	-	-	17	451	165	26	0.960	 	3	10	9	18	 
+2015	12080	797	Milwaukee	-	Opponent Totals	-	-	-	-	17	462	200	26	0.962	 	1	24	5	15	 
+2015	12080	428	Minnesota	-	Totals	-	-	-	-	23	605	247	27	0.969	 	7	23	5	18	 
+2015	12080	428	Minnesota	-	Opponent Totals	-	-	-	-	23	636	241	19	0.979	 	3	32	7	18	 
+2015	12080	430	Mississippi St.	-	Totals	-	-	-	-	31	835	428	33	0.975	1	4	19	16	36	 
+2015	12080	430	Mississippi St.	-	Opponent Totals	-	-	-	-	31	797	333	38	0.967	2	4	34	10	33	 
+2015	12080	432	Mississippi Val.	-	Totals	-	-	-	-	19	459	184	44	0.936	 	8	32	9	6	 
+2015	12080	432	Mississippi Val.	-	Opponent Totals	-	-	-	-	19	488	207	35	0.952	 	5	48	7	11	 
+2015	12080	434	Missouri	-	Totals	-	-	-	-	29	774	330	25	0.978	1	6	34	7	18	1
+2015	12080	434	Missouri	-	Opponent Totals	-	-	-	-	29	745	290	27	0.975	 	5	44	18	22	 
+2015	12080	669	Missouri St.	-	Totals	-	-	-	-	22	578	249	24	0.972	 	1	17	6	16	 
+2015	12080	669	Missouri St.	-	Opponent Totals	-	-	-	-	21	540	211	14	0.982	 	1	12	8	12	 
+2015	12080	439	Monmouth	-	Totals	-	-	-	-	17	438	184	20	0.969	 	3	22	11	13	 
+2015	12080	439	Monmouth	-	Opponent Totals	-	-	-	-	17	463	194	31	0.955	 	6	9	6	16	 
+2015	12080	444	Morehead St.	-	Totals	-	-	-	-	23	623	230	30	0.966	 	3	39	7	24	 
+2015	12080	444	Morehead St.	-	Opponent Totals	-	-	-	-	23	627	245	25	0.972	 	3	13	6	17	 
+2015	12080	450	Mt. St. Mary's	-	Totals	-	-	-	-	13	316	116	27	0.941	1	2	25	10	10	 
+2015	12080	450	Mt. St. Mary's	-	Opponent Totals	-	-	-	-	13	324	152	15	0.969	2	6	11	5	9	 
+2015	12080	454	Murray St.	-	Totals	-	-	-	-	29	749	296	33	0.969	 	2	36	10	15	 
+2015	12080	454	Murray St.	-	Opponent Totals	-	-	-	-	29	756	296	42	0.962	 	4	30	17	19	 
+2015	12080	488	N.C. A&T	-	Totals	-	-	-	-	25	613	259	53	0.943	2	2	44	13	19	 
+2015	12080	488	N.C. A&T	-	Opponent Totals	-	-	-	-	25	638	255	37	0.960	 	9	19	9	23	 
+2015	12080	489	N.C. Central	-	Totals	-	-	-	-	26	652	258	38	0.960	 	4	27	6	16	 
+2015	12080	489	N.C. Central	-	Opponent Totals	-	-	-	-	26	660	271	29	0.970	 	6	16	9	15	 
+2015	12080	471	NJIT	-	Totals	-	-	-	-	18	453	167	34	0.948	2	9	35	11	8	 
+2015	12080	471	NJIT	-	Opponent Totals	-	-	-	-	18	456	190	36	0.947	1	8	19	7	14	 
+2015	12080	477	NYIT	-	Totals	-	-	-	-	11	262	97	17	0.955	 	4	29	8	7	 
+2015	12080	477	NYIT	-	Opponent Totals	-	-	-	-	11	279	112	11	0.973	 	1	11	7	10	 
+2015	12080	726	Navy	-	Totals	-	-	-	-	29	760	289	42	0.962	 	3	15	9	16	 
+2015	12080	726	Navy	-	Opponent Totals	-	-	-	-	29	717	308	41	0.962	 	7	22	13	23	 
+2015	12080	463	Nebraska	-	Totals	-	-	-	-	28	765	306	19	0.983	 	3	12	7	25	 
+2015	12080	463	Nebraska	-	Opponent Totals	-	-	-	-	28	733	311	30	0.972	 	1	22	13	21	 
+2015	12080	466	Nevada	-	Totals	-	-	-	-	29	779	326	31	0.973	1	2	21	7	33	 
+2015	12080	466	Nevada	-	Opponent Totals	-	-	-	-	29	753	246	34	0.967	2	9	27	15	14	 
+2015	12080	473	New Mexico	-	Totals	-	-	-	-	26	693	342	29	0.973	 	7	22	13	28	 
+2015	12080	473	New Mexico	-	Opponent Totals	-	-	-	-	26	681	282	26	0.974	 	3	16	6	20	 
+2015	12080	472	New Mexico St.	-	Totals	-	-	-	-	26	672	275	49	0.951	2	1	42	13	24	 
+2015	12080	472	New Mexico St.	-	Opponent Totals	-	-	-	-	26	715	276	26	0.974	 	5	11	3	28	 
+2015	12080	474	New Orleans	-	Totals	-	-	-	-	28	751	317	42	0.962	1	6	44	11	20	 
+2015	12080	474	New Orleans	-	Opponent Totals	-	-	-	-	28	743	317	47	0.958	1	3	24	8	32	 
+2015	12080	482	Niagara	-	Totals	-	-	-	-	20	488	190	40	0.944	2	14	32	6	13	 
+2015	12080	482	Niagara	-	Opponent Totals	-	-	-	-	20	519	206	32	0.958	1	3	40	13	15	 
+2015	12080	483	Nicholls St.	-	Totals	-	-	-	-	27	719	306	43	0.960	 	4	19	13	23	 
+2015	12080	483	Nicholls St.	-	Opponent Totals	-	-	-	-	27	704	277	30	0.970	 	3	28	14	18	 
+2015	12080	485	Norfolk St.	-	Totals	-	-	-	-	16	382	129	28	0.948	 	5	25	7	6	 
+2015	12080	485	Norfolk St.	-	Opponent Totals	-	-	-	-	16	402	166	25	0.958	 	5	7	4	10	 
+2015	12080	457	North Carolina	-	Totals	-	-	-	-	28	756	248	38	0.964	 	10	21	12	18	 
+2015	12080	457	North Carolina	-	Opponent Totals	-	-	-	-	28	730	303	42	0.961	 	5	44	14	22	 
+2015	12080	490	North Carolina St.	-	Totals	-	-	-	-	27	729	280	34	0.967	 	6	12	9	29	 
+2015	12080	490	North Carolina St.	-	Opponent Totals	-	-	-	-	27	705	263	35	0.965	 	6	22	9	22	 
+2015	12080	494	North Dakota	-	Totals	-	-	-	-	21	505	203	37	0.950	1	1	21	7	11	 
+2015	12080	494	North Dakota	-	Opponent Totals	-	-	-	-	21	537	208	20	0.974	 	3	15	6	19	 
+2015	12080	493	North Dakota St.	-	Totals	-	-	-	-	22	552	223	43	0.947	 	10	38	13	25	 
+2015	12080	493	North Dakota St.	-	Opponent Totals	-	-	-	-	22	591	243	31	0.964	 	7	19	12	14	 
+2015	12080	2711	North Florida	-	Totals	-	-	-	-	31	839	371	22	0.982	 	 	31	7	29	 
+2015	12080	2711	North Florida	-	Opponent Totals	-	-	-	-	31	806	360	65	0.947	 	7	32	6	25	 
+2015	12080	500	Northeastern	-	Totals	-	-	-	-	25	639	255	35	0.962	 	5	24	11	20	 
+2015	12080	500	Northeastern	-	Opponent Totals	-	-	-	-	25	666	256	30	0.968	 	6	12	10	23	 
+2015	12080	502	Northern Colo.	-	Totals	-	-	-	-	22	555	226	48	0.942	 	7	23	14	13	 
+2015	12080	502	Northern Colo.	-	Opponent Totals	-	-	-	-	22	567	222	27	0.967	1	7	25	15	14	 
+2015	12080	503	Northern Ill.	-	Totals	-	-	-	-	27	694	318	33	0.968	 	2	28	6	30	 
+2015	12080	503	Northern Ill.	-	Opponent Totals	-	-	-	-	27	717	297	42	0.960	1	11	29	16	22	 
+2015	12080	505	Northern Ky.	-	Totals	-	-	-	-	23	605	258	39	0.957	 	4	40	5	20	 
+2015	12080	505	Northern Ky.	-	Opponent Totals	-	-	-	-	23	625	285	23	0.975	 	2	22	8	21	1
+2015	12080	509	Northwestern	-	Totals	-	-	-	-	27	705	302	46	0.956	 	4	41	16	24	 
+2015	12080	509	Northwestern	-	Opponent Totals	-	-	-	-	27	750	327	45	0.960	 	5	12	10	24	 
+2015	12080	508	Northwestern St.	-	Totals	-	-	-	-	25	683	302	35	0.966	1	 	25	12	21	 
+2015	12080	508	Northwestern St.	-	Opponent Totals	-	-	-	-	25	670	310	35	0.966	 	2	26	12	18	 
+2015	12080	513	Notre Dame	-	Totals	-	-	-	-	26	726	311	29	0.973	 	4	17	9	36	 
+2015	12080	513	Notre Dame	-	Opponent Totals	-	-	-	-	26	714	264	40	0.961	 	8	26	8	16	 
+2015	12080	514	Oakland	-	Totals	-	-	-	-	20	505	212	38	0.950	 	9	51	8	13	1
+2015	12080	514	Oakland	-	Opponent Totals	-	-	-	-	20	547	208	25	0.968	 	2	13	13	17	 
+2015	12080	519	Ohio	-	Totals	-	-	-	-	26	695	266	41	0.959	1	9	17	13	10	 
+2015	12080	519	Ohio	-	Opponent Totals	-	-	-	-	26	699	296	45	0.957	 	6	24	12	21	 
+2015	12080	518	Ohio St.	-	Totals	-	-	-	-	26	691	256	32	0.967	 	2	14	8	22	 
+2015	12080	518	Ohio St.	-	Opponent Totals	-	-	-	-	26	674	243	32	0.966	 	6	37	10	19	 
+2015	12080	522	Oklahoma	-	Totals	-	-	-	-	31	832	314	34	0.971	1	6	27	11	28	 
+2015	12080	522	Oklahoma	-	Opponent Totals	-	-	-	-	31	807	325	52	0.956	 	8	27	23	22	 
+2015	12080	521	Oklahoma St.	-	Totals	-	-	-	-	28	756	314	29	0.974	 	8	33	15	18	 
+2015	12080	521	Oklahoma St.	-	Opponent Totals	-	-	-	-	28	729	269	31	0.970	1	10	47	11	13	 
+2015	12080	523	Old Dominion	-	Totals	-	-	-	-	25	650	249	32	0.966	 	4	25	11	16	 
+2015	12080	523	Old Dominion	-	Opponent Totals	-	-	-	-	25	645	275	33	0.965	 	7	41	12	23	 
+2015	12080	433	Ole Miss	-	Totals	-	-	-	-	29	752	282	35	0.967	1	2	24	10	23	 
+2015	12080	433	Ole Miss	-	Opponent Totals	-	-	-	-	29	745	285	40	0.963	 	4	31	11	29	 
+2015	12080	464	Omaha	-	Totals	-	-	-	-	24	639	272	29	0.969	 	13	30	8	12	 
+2015	12080	464	Omaha	-	Opponent Totals	-	-	-	-	24	629	251	45	0.951	 	3	29	9	21	 
+2015	12080	527	Oral Roberts	-	Totals	-	-	-	-	27	717	239	32	0.968	 	9	12	11	18	 
+2015	12080	527	Oral Roberts	-	Opponent Totals	-	-	-	-	27	686	263	33	0.966	1	6	26	6	26	 
+2015	12080	529	Oregon	-	Totals	-	-	-	-	29	786	286	40	0.964	 	5	13	12	26	 
+2015	12080	529	Oregon	-	Opponent Totals	-	-	-	-	29	781	313	40	0.965	4	6	25	16	20	 
+2015	12080	528	Oregon St.	-	Totals	-	-	-	-	26	710	308	23	0.978	 	1	10	15	28	 
+2015	12080	528	Oregon St.	-	Opponent Totals	-	-	-	-	26	672	271	29	0.970	 	2	21	8	16	 
+2015	12080	534	Pacific	-	Totals	-	-	-	-	26	687	294	57	0.945	1	15	44	9	17	 
+2015	12080	534	Pacific	-	Opponent Totals	-	-	-	-	26	712	317	28	0.974	 	2	12	10	26	 
+2015	12080	540	Penn	-	Totals	-	-	-	-	16	399	169	28	0.953	 	6	14	10	8	 
+2015	12080	540	Penn	-	Opponent Totals	-	-	-	-	16	410	136	18	0.968	 	3	17	3	12	 
+2015	12080	539	Penn St.	-	Totals	-	-	-	-	22	578	249	38	0.956	 	6	36	15	27	 
+2015	12080	539	Penn St.	-	Opponent Totals	-	-	-	-	22	594	261	49	0.946	1	5	34	6	12	 
+2015	12080	541	Pepperdine	-	Totals	-	-	-	-	30	799	367	40	0.967	 	7	17	12	25	 
+2015	12080	541	Pepperdine	-	Opponent Totals	-	-	-	-	30	795	297	34	0.970	 	4	15	7	21	 
+2015	12080	545	Pittsburgh	-	Totals	-	-	-	-	27	733	304	46	0.958	 	13	27	15	17	 
+2015	12080	545	Pittsburgh	-	Opponent Totals	-	-	-	-	27	740	261	36	0.965	4	6	38	19	19	 
+2015	12080	551	Portland	-	Totals	-	-	-	-	30	771	369	38	0.968	 	3	40	10	24	 
+2015	12080	551	Portland	-	Opponent Totals	-	-	-	-	30	816	320	23	0.980	 	2	14	19	27	 
+2015	12080	553	Prairie View	-	Totals	-	-	-	-	27	667	255	66	0.933	 	6	56	11	17	 
+2015	12080	553	Prairie View	-	Opponent Totals	-	-	-	-	27	689	287	49	0.952	1	9	32	15	23	 
+2015	12080	1320	Presbyterian	-	Totals	-	-	-	-	25	675	241	27	0.971	 	 	29	9	15	 
+2015	12080	1320	Presbyterian	-	Opponent Totals	-	-	-	-	25	658	277	42	0.957	 	7	29	15	16	 
+2015	12080	554	Princeton	-	Totals	-	-	-	-	21	488	202	34	0.953	 	4	34	9	16	 
+2015	12080	554	Princeton	-	Opponent Totals	-	-	-	-	21	525	192	18	0.976	1	1	9	6	18	 
+2015	12080	559	Purdue	-	Totals	-	-	-	-	26	693	318	32	0.969	1	11	28	18	27	 
+2015	12080	559	Purdue	-	Opponent Totals	-	-	-	-	26	703	280	31	0.969	 	3	20	7	22	1
+2015	12080	562	Quinnipiac	-	Totals	-	-	-	-	22	543	210	27	0.965	 	7	27	8	20	 
+2015	12080	562	Quinnipiac	-	Opponent Totals	-	-	-	-	22	578	238	21	0.975	 	 	28	13	7	 
+2015	12080	563	Radford	-	Totals	-	-	-	-	27	701	282	36	0.965	3	5	25	15	21	 
+2015	12080	563	Radford	-	Opponent Totals	-	-	-	-	27	697	262	33	0.967	 	9	43	9	17	 
+2015	12080	572	Rhode Island	-	Totals	-	-	-	-	17	441	176	29	0.955	 	7	22	2	11	 
+2015	12080	572	Rhode Island	-	Opponent Totals	-	-	-	-	17	453	199	27	0.960	 	5	41	12	13	 
+2015	12080	574	Rice	-	Totals	-	-	-	-	31	827	343	44	0.964	1	6	21	8	25	 
+2015	12080	574	Rice	-	Opponent Totals	-	-	-	-	31	805	364	40	0.967	 	7	16	6	18	 
+2015	12080	575	Richmond	-	Totals	-	-	-	-	20	533	200	23	0.970	1	6	17	13	16	 
+2015	12080	575	Richmond	-	Opponent Totals	-	-	-	-	20	519	176	24	0.967	 	5	16	2	16	 
+2015	12080	576	Rider	-	Totals	-	-	-	-	19	493	216	33	0.956	1	3	28	10	16	 
+2015	12080	576	Rider	-	Opponent Totals	-	-	-	-	19	528	217	30	0.961	 	5	18	11	17	 
+2015	12080	587	Rutgers	-	Totals	-	-	-	-	25	636	224	34	0.962	1	2	20	13	18	 
+2015	12080	587	Rutgers	-	Opponent Totals	-	-	-	-	25	664	282	38	0.961	 	1	31	12	17	 
+2015	12080	660	SIUE	-	Totals	-	-	-	-	22	567	217	32	0.961	 	3	32	7	16	 
+2015	12080	660	SIUE	-	Opponent Totals	-	-	-	-	22	586	221	29	0.965	1	1	16	7	25	 
+2015	12080	102	Sacramento St.	-	Totals	-	-	-	-	27	719	301	28	0.973	 	4	20	23	21	 
+2015	12080	102	Sacramento St.	-	Opponent Totals	-	-	-	-	27	694	252	24	0.975	1	4	36	13	16	 
+2015	12080	590	Sacred Heart	-	Totals	-	-	-	-	18	469	209	28	0.960	1	3	30	9	12	 
+2015	12080	590	Sacred Heart	-	Opponent Totals	-	-	-	-	18	504	219	18	0.976	 	3	16	5	19	 
+2015	12080	606	Saint Joseph's	-	Totals	-	-	-	-	19	495	208	26	0.964	 	5	13	8	16	 
+2015	12080	606	Saint Joseph's	-	Opponent Totals	-	-	-	-	19	498	151	21	0.969	 	3	14	3	10	 
+2015	12080	609	Saint Louis	-	Totals	-	-	-	-	25	647	245	30	0.967	1	1	19	8	26	 
+2015	12080	609	Saint Louis	-	Opponent Totals	-	-	-	-	25	625	247	33	0.964	2	4	21	8	17	 
+2015	12080	617	Saint Peter's	-	Totals	-	-	-	-	17	396	174	24	0.960	 	2	30	8	15	 
+2015	12080	617	Saint Peter's	-	Opponent Totals	-	-	-	-	17	429	165	21	0.966	 	2	13	3	14	 
+2015	12080	624	Sam Houston St.	-	Totals	-	-	-	-	31	833	323	55	0.955	3	3	29	10	14	 
+2015	12080	624	Sam Houston St.	-	Opponent Totals	-	-	-	-	31	840	384	44	0.965	 	2	36	14	23	 
+2015	12080	625	Samford	-	Totals	-	-	-	-	25	652	291	41	0.958	 	4	27	15	21	 
+2015	12080	625	Samford	-	Opponent Totals	-	-	-	-	25	660	248	45	0.953	2	2	23	7	19	 
+2015	12080	627	San Diego	-	Totals	-	-	-	-	26	695	271	16	0.984	 	8	9	10	15	 
+2015	12080	627	San Diego	-	Opponent Totals	-	-	-	-	26	683	314	19	0.981	 	7	20	12	26	 
+2015	12080	626	San Diego St.	-	Totals	-	-	-	-	29	806	343	23	0.980	 	5	22	19	13	 
+2015	12080	626	San Diego St.	-	Opponent Totals	-	-	-	-	29	773	312	44	0.961	 	5	24	15	20	 
+2015	12080	629	San Francisco	-	Totals	-	-	-	-	29	771	305	32	0.971	 	3	17	17	16	 
+2015	12080	629	San Francisco	-	Opponent Totals	-	-	-	-	29	792	338	33	0.972	 	4	23	14	23	 
+2015	12080	630	San Jose St.	-	Totals	-	-	-	-	27	693	275	37	0.963	2	6	22	8	19	 
+2015	12080	630	San Jose St.	-	Opponent Totals	-	-	-	-	27	715	330	30	0.972	 	7	21	11	17	 
+2015	12080	631	Santa Clara	-	Totals	-	-	-	-	27	710	261	40	0.960	1	4	30	23	20	 
+2015	12080	631	Santa Clara	-	Opponent Totals	-	-	-	-	27	705	304	29	0.972	1	4	19	17	18	 
+2015	12080	632	Savannah St.	-	Totals	-	-	-	-	25	621	216	45	0.949	1	3	29	10	10	 
+2015	12080	632	Savannah St.	-	Opponent Totals	-	-	-	-	25	621	291	34	0.964	 	3	31	10	20	 
+2015	12080	1356	Seattle	-	Totals	-	-	-	-	26	687	271	37	0.963	 	3	25	17	15	 
+2015	12080	1356	Seattle	-	Opponent Totals	-	-	-	-	26	666	309	41	0.960	 	6	34	10	26	 
+2015	12080	635	Seton Hall	-	Totals	-	-	-	-	19	489	199	25	0.965	 	2	8	8	9	 
+2015	12080	635	Seton Hall	-	Opponent Totals	-	-	-	-	19	494	190	31	0.957	 	1	39	8	11	 
+2015	12080	639	Siena	-	Totals	-	-	-	-	18	425	189	27	0.958	1	5	15	8	10	 
+2015	12080	639	Siena	-	Opponent Totals	-	-	-	-	18	462	159	14	0.978	 	5	8	3	10	 
+2015	12080	646	South Ala.	-	Totals	-	-	-	-	29	796	292	26	0.977	 	3	27	9	23	 
+2015	12080	646	South Ala.	-	Opponent Totals	-	-	-	-	29	761	325	53	0.953	 	9	43	11	28	 
+2015	12080	648	South Carolina	-	Totals	-	-	-	-	29	798	326	34	0.971	1	4	21	10	28	 
+2015	12080	648	South Carolina	-	Opponent Totals	-	-	-	-	29	755	290	33	0.969	 	4	35	7	25	 
+2015	12080	649	South Dakota St.	-	Totals	-	-	-	-	20	516	203	29	0.961	 	2	23	13	15	 
+2015	12080	649	South Dakota St.	-	Opponent Totals	-	-	-	-	20	540	266	37	0.956	1	6	32	6	11	 
+2015	12080	651	South Fla.	-	Totals	-	-	-	-	30	804	305	44	0.962	 	8	27	11	21	 
+2015	12080	651	South Fla.	-	Opponent Totals	-	-	-	-	30	770	290	43	0.961	 	3	42	12	15	 
+2015	12080	654	Southeast Mo. St.	-	Totals	-	-	-	-	28	751	325	24	0.978	 	5	26	12	23	 
+2015	12080	654	Southeast Mo. St.	-	Opponent Totals	-	-	-	-	28	734	247	42	0.959	 	7	32	18	20	 
+2015	12080	655	Southeastern La.	-	Totals	-	-	-	-	30	787	308	46	0.960	1	8	23	11	20	 
+2015	12080	655	Southeastern La.	-	Opponent Totals	-	-	-	-	30	764	310	59	0.948	1	6	44	16	31	 
+2015	12080	657	Southern California	-	Totals	-	-	-	-	28	782	299	31	0.972	 	1	20	16	24	 
+2015	12080	657	Southern California	-	Opponent Totals	-	-	-	-	28	750	293	49	0.955	1	5	54	16	24	1
+2015	12080	659	Southern Ill.	-	Totals	-	-	-	-	27	677	286	37	0.963	1	7	25	15	23	 
+2015	12080	659	Southern Ill.	-	Opponent Totals	-	-	-	-	27	715	311	40	0.962	1	5	9	8	18	 
+2015	12080	664	Southern Miss.	-	Totals	-	-	-	-	26	682	305	27	0.973	 	5	15	13	31	 
+2015	12080	664	Southern Miss.	-	Opponent Totals	-	-	-	-	26	672	302	37	0.963	2	6	31	10	18	 
+2015	12080	665	Southern U.	-	Totals	-	-	-	-	22	576	231	38	0.955	1	15	45	14	16	 
+2015	12080	665	Southern U.	-	Opponent Totals	-	-	-	-	22	575	207	25	0.969	 	5	21	10	15	 
+2015	12080	596	St. Bonaventure	-	Totals	-	-	-	-	14	350	150	19	0.963	 	6	11	3	15	1
+2015	12080	596	St. Bonaventure	-	Opponent Totals	-	-	-	-	14	350	153	25	0.953	1	6	17	3	7	 
+2015	12080	603	St. John's (NY)	-	Totals	-	-	-	-	22	586	245	18	0.979	 	6	16	10	17	 
+2015	12080	603	St. John's (NY)	-	Opponent Totals	-	-	-	-	22	582	260	30	0.966	 	3	12	7	19	 
+2015	12080	610	St. Mary's (CA)	-	Totals	-	-	-	-	28	744	326	34	0.969	 	10	17	20	18	 
+2015	12080	610	St. Mary's (CA)	-	Opponent Totals	-	-	-	-	28	729	340	59	0.948	 	9	42	19	18	 
+2015	12080	674	Stanford	-	Totals	-	-	-	-	22	587	230	28	0.967	 	9	16	10	17	 
+2015	12080	674	Stanford	-	Opponent Totals	-	-	-	-	22	583	245	25	0.971	 	6	9	5	25	 
+2015	12080	676	Stephen F. Austin	-	Totals	-	-	-	-	28	738	285	43	0.960	2	3	39	12	17	 
+2015	12080	676	Stephen F. Austin	-	Opponent Totals	-	-	-	-	28	753	287	29	0.973	 	3	41	12	26	 
+2015	12080	678	Stetson	-	Totals	-	-	-	-	30	789	331	44	0.962	1	8	40	12	31	 
+2015	12080	678	Stetson	-	Opponent Totals	-	-	-	-	30	773	294	38	0.966	1	1	13	8	23	 
+2015	12080	683	Stony Brook	-	Totals	-	-	-	-	21	528	205	19	0.975	2	3	22	11	9	 
+2015	12080	683	Stony Brook	-	Opponent Totals	-	-	-	-	21	530	239	28	20.273	 	6	16	7	21	 
+2015	12080	698	TCU	-	Totals	-	-	-	-	26	715	276	19	0.981	 	7	15	6	14	 
+2015	12080	698	TCU	-	Opponent Totals	-	-	-	-	26	676	293	41	0.959	3	11	47	17	19	 
+2015	12080	694	Tennessee	-	Totals	-	-	-	-	24	626	222	42	0.953	1	7	18	10	16	 
+2015	12080	694	Tennessee	-	Opponent Totals	-	-	-	-	24	633	280	37	0.961	 	4	29	14	14	 
+2015	12080	692	Tennessee Tech	-	Totals	-	-	-	-	27	708	250	49	0.951	 	4	28	11	21	 
+2015	12080	692	Tennessee Tech	-	Opponent Totals	-	-	-	-	27	709	282	38	0.963	1	2	14	5	27	 
+2015	12080	536	Tex.-Pan American	-	Totals	-	-	-	-	26	687	269	37	0.963	 	4	31	7	26	1
+2015	12080	536	Tex.-Pan American	-	Opponent Totals	-	-	-	-	26	687	297	38	0.963	 	10	19	9	21	 
+2015	12080	703	Texas	-	Totals	-	-	-	-	29	789	356	29	0.975	 	8	19	8	31	 
+2015	12080	703	Texas	-	Opponent Totals	-	-	-	-	29	778	284	27	0.975	 	5	13	12	22	 
+2015	12080	697	Texas A&M	-	Totals	-	-	-	-	30	813	313	35	0.970	 	3	19	14	21	 
+2015	12080	697	Texas A&M	-	Opponent Totals	-	-	-	-	30	745	315	47	0.958	2	2	21	9	32	 
+2015	12080	699	Texas Southern	-	Totals	-	-	-	-	27	713	265	56	0.946	1	22	38	17	15	 
+2015	12080	699	Texas Southern	-	Opponent Totals	-	-	-	-	27	695	251	51	0.949	1	14	74	17	10	 
+2015	12080	670	Texas St.	-	Totals	-	-	-	-	28	754	335	46	0.959	1	20	58	16	26	 
+2015	12080	670	Texas St.	-	Opponent Totals	-	-	-	-	28	750	278	45	0.958	 	8	18	12	20	 
+2015	12080	700	Texas Tech	-	Totals	-	-	-	-	29	798	377	39	0.968	4	6	31	11	41	 
+2015	12080	700	Texas Tech	-	Opponent Totals	-	-	-	-	29	778	293	26	0.976	 	4	23	7	27	 
+2015	12080	702	Texas-Arlington	-	Totals	-	-	-	-	27	733	291	31	0.971	1	1	24	14	25	 
+2015	12080	702	Texas-Arlington	-	Opponent Totals	-	-	-	-	27	726	280	23	0.978	 	5	19	5	24	 
+2015	12080	709	Toledo	-	Totals	-	-	-	-	23	599	278	31	0.966	2	6	37	11	20	 
+2015	12080	709	Toledo	-	Opponent Totals	-	-	-	-	23	621	253	24	0.973	 	4	13	4	15	 
+2015	12080	711	Towson	-	Totals	-	-	-	-	25	645	306	65	0.936	 	12	44	7	23	 
+2015	12080	711	Towson	-	Opponent Totals	-	-	-	-	25	666	286	52	0.948	 	8	33	18	25	 
+2015	12080	716	Troy	-	Totals	-	-	-	-	23	616	287	36	0.962	3	3	18	3	23	 
+2015	12080	716	Troy	-	Opponent Totals	-	-	-	-	22	575	228	28	0.966	 	 	24	10	14	 
+2015	12080	718	Tulane	-	Totals	-	-	-	-	29	793	363	35	0.971	 	7	13	22	32	 
+2015	12080	718	Tulane	-	Opponent Totals	-	-	-	-	29	776	297	40	0.964	 	9	30	16	13	 
+2015	12080	9	UAB	-	Totals	-	-	-	-	27	690	316	26	0.975	1	4	20	9	31	 
+2015	12080	9	UAB	-	Opponent Totals	-	-	-	-	27	675	253	28	0.971	 	5	25	5	14	 
+2015	12080	32	UALR	-	Totals	-	-	-	-	24	615	247	25	0.972	 	5	29	21	11	 
+2015	12080	32	UALR	-	Opponent Totals	-	-	-	-	24	618	263	20	0.978	 	1	21	7	23	 
+2015	12080	108	UC Davis	-	Totals	-	-	-	-	26	705	330	27	0.975	 	4	21	14	22	 
+2015	12080	108	UC Davis	-	Opponent Totals	-	-	-	-	26	693	356	44	0.960	 	2	71	23	21	 
+2015	12080	109	UC Irvine	-	Totals	-	-	-	-	25	667	275	24	0.975	1	1	14	9	20	 
+2015	12080	109	UC Irvine	-	Opponent Totals	-	-	-	-	25	651	281	34	0.965	 	3	16	7	31	 
+2015	12080	111	UC Riverside	-	Totals	-	-	-	-	29	802	318	55	0.953	 	2	32	18	15	 
+2015	12080	111	UC Riverside	-	Opponent Totals	-	-	-	-	29	810	320	40	0.966	 	8	19	16	36	 
+2015	12080	104	UC Santa Barbara	-	Totals	-	-	-	-	26	709	301	23	0.978	2	5	8	11	22	 
+2015	12080	104	UC Santa Barbara	-	Opponent Totals	-	-	-	-	26	678	275	34	0.966	 	8	36	18	16	 
+2015	12080	128	UCF	-	Totals	-	-	-	-	30	792	309	33	0.971	 	5	16	11	24	 
+2015	12080	128	UCF	-	Opponent Totals	-	-	-	-	30	754	247	37	0.964	3	14	29	6	21	 
+2015	12080	110	UCLA	-	Totals	-	-	-	-	26	711	272	19	0.981	1	 	14	10	14	 
+2015	12080	110	UCLA	-	Opponent Totals	-	-	-	-	26	676	312	46	0.956	1	10	31	13	21	 
+2015	12080	164	UConn	-	Totals	-	-	-	-	27	711	261	24	0.976	 	4	21	12	20	 
+2015	12080	164	UConn	-	Opponent Totals	-	-	-	-	27	720	270	27	0.973	 	8	43	13	22	 
+2015	12080	391	UMBC	-	Totals	-	-	-	-	20	522	199	23	0.969	 	9	34	9	11	 
+2015	12080	391	UMBC	-	Opponent Totals	-	-	-	-	20	530	255	27	0.967	2	3	34	7	16	 
+2015	12080	393	UMES	-	Totals	-	-	-	-	26	645	260	37	0.961	 	7	30	7	13	 
+2015	12080	393	UMES	-	Opponent Totals	-	-	-	-	26	677	241	30	0.968	 	6	33	9	14	 
+2015	12080	368	UMass Lowell	-	Totals	-	-	-	-	17	419	185	21	0.966	 	2	17	3	18	 
+2015	12080	368	UMass Lowell	-	Opponent Totals	-	-	-	-	17	450	194	20	0.970	2	4	38	10	10	 
+2015	12080	456	UNC Asheville	-	Totals	-	-	-	-	29	777	349	43	0.963	1	8	33	12	33	 
+2015	12080	456	UNC Asheville	-	Opponent Totals	-	-	-	-	29	764	229	31	0.970	 	15	14	7	19	 
+2015	12080	459	UNC Greensboro	-	Totals	-	-	-	-	22	552	207	32	0.960	 	1	23	11	15	 
+2015	12080	459	UNC Greensboro	-	Opponent Totals	-	-	-	-	22	554	210	37	0.954	1	3	12	7	19	 
+2015	12080	460	UNCW	-	Totals	-	-	-	-	26	699	265	44	0.956	 	8	28	14	25	 
+2015	12080	460	UNCW	-	Opponent Totals	-	-	-	-	26	663	241	58	0.940	 	8	32	13	16	 
+2015	12080	465	UNLV	-	Totals	-	-	-	-	27	724	282	37	0.965	 	2	23	7	17	 
+2015	12080	465	UNLV	-	Opponent Totals	-	-	-	-	27	714	332	42	0.961	4	3	34	13	27	 
+2015	12080	10411	USC Upstate	-	Totals	-	-	-	-	29	762	255	32	0.969	 	7	36	10	14	 
+2015	12080	10411	USC Upstate	-	Opponent Totals	-	-	-	-	29	759	290	46	0.958	 	10	12	1	27	 
+2015	12080	695	UT Martin	-	Totals	-	-	-	-	25	656	237	37	0.960	1	9	36	15	12	 
+2015	12080	695	UT Martin	-	Opponent Totals	-	-	-	-	25	675	263	28	0.971	 	8	20	6	23	 
+2015	12080	706	UTSA	-	Totals	-	-	-	-	29	764	288	41	0.962	 	3	11	11	11	 
+2015	12080	706	UTSA	-	Opponent Totals	-	-	-	-	29	743	261	36	0.965	 	8	36	14	11	 
+2015	12080	732	Utah	-	Totals	-	-	-	-	26	656	276	39	0.960	1	4	29	11	14	 
+2015	12080	732	Utah	-	Opponent Totals	-	-	-	-	26	687	303	27	0.973	 	4	37	24	24	 
+2015	12080	30024	Utah Valley	-	Totals	-	-	-	-	24	621	263	41	0.956	 	6	44	15	20	 
+2015	12080	30024	Utah Valley	-	Opponent Totals	-	-	-	-	24	654	276	32	0.967	1	7	12	9	22	 
+2015	12080	740	VCU	-	Totals	-	-	-	-	27	722	257	25	0.975	 	9	25	7	16	 
+2015	12080	740	VCU	-	Opponent Totals	-	-	-	-	27	714	344	49	0.956	 	14	30	16	22	 
+2015	12080	741	VMI	-	Totals	-	-	-	-	21	534	252	37	0.955	 	4	25	10	11	 
+2015	12080	741	VMI	-	Opponent Totals	-	-	-	-	21	549	222	28	0.965	 	3	34	7	18	 
+2015	12080	735	Valparaiso	-	Totals	-	-	-	-	23	582	235	45	0.948	 	6	23	5	24	 
+2015	12080	735	Valparaiso	-	Opponent Totals	-	-	-	-	23	618	201	35	0.959	 	7	20	9	6	 
+2015	12080	736	Vanderbilt	-	Totals	-	-	-	-	29	803	314	34	0.970	 	5	11	10	25	 
+2015	12080	736	Vanderbilt	-	Opponent Totals	-	-	-	-	29	754	265	46	0.957	 	7	54	17	28	 
+2015	12080	739	Villanova	-	Totals	-	-	-	-	20	529	214	24	0.969	 	6	34	11	16	 
+2015	12080	739	Villanova	-	Opponent Totals	-	-	-	-	20	537	216	25	0.968	 	4	23	9	14	 
+2015	12080	746	Virginia	-	Totals	-	-	-	-	27	748	300	35	0.968	1	5	18	11	19	 
+2015	12080	746	Virginia	-	Opponent Totals	-	-	-	-	27	725	302	41	0.962	 	6	25	11	20	 
+2015	12080	742	Virginia Tech	-	Totals	-	-	-	-	30	812	317	36	0.969	 	13	18	10	27	1
+2015	12080	742	Virginia Tech	-	Opponent Totals	-	-	-	-	30	805	330	43	0.963	1	8	18	7	24	 
+2015	12080	748	Wagner	-	Totals	-	-	-	-	15	386	143	19	0.965	 	2	16	7	10	 
+2015	12080	748	Wagner	-	Opponent Totals	-	-	-	-	15	400	178	23	0.962	 	4	15	5	10	 
+2015	12080	749	Wake Forest	-	Totals	-	-	-	-	28	744	262	30	0.971	1	9	29	7	25	 
+2015	12080	749	Wake Forest	-	Opponent Totals	-	-	-	-	28	717	254	30	0.970	 	4	38	6	16	 
+2015	12080	756	Washington	-	Totals	-	-	-	-	27	754	301	27	0.975	1	3	9	11	29	 
+2015	12080	756	Washington	-	Opponent Totals	-	-	-	-	27	738	331	37	0.967	 	7	21	8	16	 
+2015	12080	754	Washington St.	-	Totals	-	-	-	-	27	703	280	31	0.969	 	5	38	12	28	 
+2015	12080	754	Washington St.	-	Opponent Totals	-	-	-	-	27	705	272	31	0.969	1	3	28	15	15	 
+2015	12080	768	West Virginia	-	Totals	-	-	-	-	26	698	269	31	0.969	 	8	18	13	27	 
+2015	12080	768	West Virginia	-	Opponent Totals	-	-	-	-	26	708	262	41	0.959	 	3	29	11	23	 
+2015	12080	769	Western Caro.	-	Totals	-	-	-	-	25	654	222	38	0.958	 	7	34	6	21	 
+2015	12080	769	Western Caro.	-	Opponent Totals	-	-	-	-	25	648	226	32	24.096	1	4	39	12	7	 
+2015	12080	771	Western Ill.	-	Totals	-	-	-	-	22	573	237	50	0.942	 	9	47	9	11	 
+2015	12080	771	Western Ill.	-	Opponent Totals	-	-	-	-	22	589	250	36	0.959	 	2	24	13	15	 
+2015	12080	772	Western Ky.	-	Totals	-	-	-	-	24	632	258	31	0.966	2	6	17	12	19	 
+2015	12080	772	Western Ky.	-	Opponent Totals	-	-	-	-	24	615	246	39	0.957	 	2	22	6	12	 
+2015	12080	774	Western Mich.	-	Totals	-	-	-	-	23	601	242	32	0.963	 	2	25	8	24	 
+2015	12080	774	Western Mich.	-	Opponent Totals	-	-	-	-	23	615	243	35	0.961	 	8	13	5	17	 
+2015	12080	782	Wichita St.	-	Totals	-	-	-	-	27	687	297	44	0.957	 	12	38	14	18	 
+2015	12080	782	Wichita St.	-	Opponent Totals	-	-	-	-	27	694	264	36	0.964	2	2	44	12	13	 
+2015	12080	786	William & Mary	-	Totals	-	-	-	-	24	622	273	32	0.965	 	4	25	7	16	 
+2015	12080	786	William & Mary	-	Opponent Totals	-	-	-	-	24	631	239	37	0.959	2	5	11	1	21	 
+2015	12080	792	Winthrop	-	Totals	-	-	-	-	27	724	252	26	0.974	 	8	31	8	15	 
+2015	12080	792	Winthrop	-	Opponent Totals	-	-	-	-	27	690	280	39	0.961	 	6	37	13	11	 
+2015	12080	2915	Wofford	-	Totals	-	-	-	-	31	816	318	41	0.965	 	5	20	10	21	 
+2015	12080	2915	Wofford	-	Opponent Totals	-	-	-	-	31	764	271	45	0.958	 	5	80	20	10	 
+2015	12080	810	Wright St.	-	Totals	-	-	-	-	25	668	288	29	0.971	 	 	19	14	20	1
+2015	12080	810	Wright St.	-	Opponent Totals	-	-	-	-	25	656	264	41	0.957	 	3	26	13	18	 
+2015	12080	812	Xavier	-	Totals	-	-	-	-	28	719	288	42	0.960	1	3	22	21	19	 
+2015	12080	812	Xavier	-	Opponent Totals	-	-	-	-	28	759	293	32	0.970	 	5	42	11	18	 
+2015	12080	813	Yale	-	Totals	-	-	-	-	16	408	179	17	0.972	 	2	33	8	9	 
+2015	12080	813	Yale	-	Opponent Totals	-	-	-	-	16	423	162	19	0.969	 	5	22	5	11	 
+2015	12080	817	Youngstown St.	-	Totals	-	-	-	-	21	552	230	32	0.961	 	13	42	5	12	 
+2015	12080	817	Youngstown St.	-	Opponent Totals	-	-	-	-	21	570	230	24	0.971	 	6	12	10	21	 
