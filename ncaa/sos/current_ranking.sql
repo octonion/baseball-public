@@ -97,4 +97,15 @@ and div_id=3
 order by rk asc)
 to '/tmp/2015_d3.csv' csv header;
 
+copy (
+select
+rank() over (order by str desc) as rk,
+school,
+'D'||div_id::text as div,
+str,park,ofs,dfs,sos
+from r
+where year in (2015)
+order by rk asc)
+to '/tmp/current_ranking.csv' csv header;
+
 commit;
