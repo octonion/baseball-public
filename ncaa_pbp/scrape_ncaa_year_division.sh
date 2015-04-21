@@ -7,14 +7,18 @@
 
 ./scrapers/ncaa_team_rosters.rb $1 $2
 
-./scrapers/ncaa_hitting_summaries.rb $1 $2
+./scrapers/ncaa_summaries_hitting.rb $1 $2
 
-./scrapers/ncaa_pitching_summaries.rb $1 $2
+./scrapers/ncaa_summaries_pitching.rb $1 $2
 
-./scrapers/ncaa_fielding_summaries.rb $1 $2
+./scrapers/ncaa_summaries_fielding.rb $1 $2
 
 ./scrapers/ncaa_team_schedules.rb $1 $2
 
-./scrapers/ncaa_games_box_scores.rb $1 $2
+./scrapers/ncaa_box_scores_hitting.rb $1 $2
+
+./scrapers/ncaa_box_scores_pitching.rb $1 $2
+
+./scrapers/ncaa_box_scores_fielding.rb $1 $2
 
 ./scrapers/ncaa_play_by_play.rb $1 $2
