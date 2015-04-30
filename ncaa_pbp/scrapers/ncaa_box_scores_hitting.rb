@@ -10,7 +10,16 @@ agent.user_agent = 'Mozilla/5.0'
 year = ARGV[0]
 division = ARGV[1]
 
-stat_id = 10780
+case year
+when 2015
+  stat_id = 10780
+when 2014
+  stat_id = 10460
+when 2013
+  stat_id = 10120
+when 2013
+  stat_id = 10081
+end
 
 class String
   def to_nil
@@ -78,11 +87,14 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
       sleep_time = base_sleep
 
+      #http://stats.ncaa.org/game/box_score/3038494?year_stat_category_id=10461
+
       game_url = 'http://stats.ncaa.org/game/box_score/%d?year_stat_category_id=%d' % [game_id, stat_id]
 
 #      print "Thread #{thread_id}, sleep #{sleep_time} ... "
 #      sleep sleep_time
 
+      p url
       tries = 0
       begin
         page = Nokogiri::HTML(agent.get(game_url).body)

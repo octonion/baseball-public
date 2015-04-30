@@ -11,7 +11,7 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-year = ARGV[0]
+year = ARGV[0].to_i
 division = ARGV[1]
 
 ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
@@ -40,7 +40,16 @@ ncaa_team_summaries << ["year", "year_id", "division_id",
 "ab", "r", "h", "d", "t", "tb", "hr", "rbi", "bb", "hbp",
 "sf", "sh", "k", "dp", "sb", "cs", "picked"]
 
-year_stat_id = 10782
+case year
+when 2015
+  year_stat_id = 10782
+when 2014
+  year_stat_id = 10462
+when 2013
+  year_stat_id = 10122
+when 2012
+  year_stat_id = 10084
+end
 
 # Base URL for relative team links
 

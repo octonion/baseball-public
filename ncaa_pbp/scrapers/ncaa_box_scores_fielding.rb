@@ -10,7 +10,16 @@ agent.user_agent = 'Mozilla/5.0'
 year = ARGV[0]
 division = ARGV[1]
 
-stat_id = 10782
+case year
+when 2015
+  stat_id = 10782
+when 2014
+  stat_id = 10462
+when 2013
+  stat_id = 10122
+when 2012
+  stat_id = 10084
+end
 
 class String
   def to_nil
