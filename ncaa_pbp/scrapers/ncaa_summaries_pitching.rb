@@ -15,8 +15,8 @@ year = ARGV[0].to_i
 division = ARGV[1]
 
 ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("csv/ncaa_player_pitching_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("csv/ncaa_team_pitching_summaries_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries_pitching_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries_pitching_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Headers for files
 

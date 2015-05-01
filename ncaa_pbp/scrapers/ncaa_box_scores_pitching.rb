@@ -52,7 +52,7 @@ ncaa_games_box_scores = CSV.open("csv/ncaa_box_scores_pitching_#{year}_#{divisio
 box_scores_header = [
 "game_id", "section_id", "player_id", "player_name", "player_url",
 "starter", "position", "app", "gs", "ip", "h", "r", "er", "bb", "so",
-"sho", "bf", "p-oab", "d_allowed", "t_allowed", "hr_allowed", "wp", "bk",
+"sho", "bf", "p_oab", "d_allowed", "t_allowed", "hr_allowed", "wp", "bk",
 "hb", "ibb", "inh_run", "inh_run_score", "sha", "sfa", "pitches",
 "go", "fo", "w", "l", "sv", "ord_appeared", "kl"]
 
