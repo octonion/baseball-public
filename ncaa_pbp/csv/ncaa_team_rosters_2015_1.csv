@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2015	12080	1	86	Buffalo	20	1641006.0	Abrunzo, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1641006.0	OF	Jr	31	28
 2015	12080	1	86	Buffalo	22	1321963.0	Bentley, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1321963.0	P	Sr	6	1
 2015	12080	1	86	Buffalo	31	1423939.0	Brennan, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1423939.0	C	Jr	3	3

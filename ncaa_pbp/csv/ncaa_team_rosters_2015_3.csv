@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2015	12080	3	1305	Cairn	3	1212117.0	Allen, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1212117.0	INF	So	0	0
 2015	12080	3	1305	Cairn	18	1656897.0	Boucher, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656897.0	SS	Fr	10	5
 2015	12080	3	1305	Cairn	33	1656908.0	Burlaga, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1656908.0	P	So	17	16

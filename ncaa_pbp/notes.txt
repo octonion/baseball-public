@@ -31,3 +31,9 @@ year_id = 11620
 hitting = 10460
 pitching = 10461
 fielding = 10462
+
+year = 2015
+year_id = 12080
+hitting = 10780
+pitching = 10781
+fielding = 10782

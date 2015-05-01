@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2013	11320	1	352	Lehigh	5	1205524.0	Abein, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=11320&stats_player_seq=1205524.0	OF	Jr	47	47
 2013	11320	1	352	Lehigh	1	1094658.0	Ball, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=11320&stats_player_seq=1094658.0	P	Sr	3	0
 2013	11320	1	352	Lehigh	17	1431392.0	Boswick, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=11320&stats_player_seq=1431392.0	P	Fr	7	3

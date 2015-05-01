@@ -7,7 +7,7 @@ require 'mechanize'
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
-year = ARGV[0]
+year = ARGV[0].to_i
 division = ARGV[1]
 
 case year
@@ -94,7 +94,6 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 #      print "Thread #{thread_id}, sleep #{sleep_time} ... "
 #      sleep sleep_time
 
-      p url
       tries = 0
       begin
         page = Nokogiri::HTML(agent.get(game_url).body)

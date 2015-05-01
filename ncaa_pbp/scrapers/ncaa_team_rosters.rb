@@ -30,7 +30,7 @@ ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters_#{year}_#{division}.csv","w"
 ncaa_team_rosters << ["year", "year_id", "division_id",
                       "team_id", "team_name", "jersey_number",
                       "player_id", "player_name", "player_url",
-                      "position", "height", "class_year",
+                      "position", "class_year",
                       "games_played", "games_started"]
 
 # Get team IDs

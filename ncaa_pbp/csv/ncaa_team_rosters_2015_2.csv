@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2015	12080	2	347	Lane	24	1545500.0	Clay, Dante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1545500.0	INF	So	18	18
 2015	12080	2	347	Lane	8	1322493.0	Coleman, Duke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1322493.0	C	Sr	12	12
 2015	12080	2	347	Lane	18	1655344.0	Davis, Malcolm	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1655344.0	INF	Fr	15	15

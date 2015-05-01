@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2014	11620	3	480	CCNY	41	1556675.0	Aprahamian, Ara	http://stats.ncaa.org/player?game_sport_year_ctl_id=11620&stats_player_seq=1556675.0	P	Fr	9	4
 2014	11620	3	480	CCNY	10	1556666.0	Aquino, Jose	http://stats.ncaa.org/player?game_sport_year_ctl_id=11620&stats_player_seq=1556666.0	P	So	10	8
 2014	11620	3	480	CCNY	13	1556668.0	Bethea, Richard	http://stats.ncaa.org/player?game_sport_year_ctl_id=11620&stats_player_seq=1556668.0	1B	Jr	27	27

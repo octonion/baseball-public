@@ -7,7 +7,7 @@ require 'mechanize'
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
 
-year = ARGV[0]
+year = ARGV[0].to_i
 division = ARGV[1]
 
 case year

@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2013	11320	3	480	CCNY	10	1442960.0	Bhatnager, Ajay	http://stats.ncaa.org/player?game_sport_year_ctl_id=11320&stats_player_seq=1442960.0	P	Jr	6	1
 2013	11320	3	480	CCNY	30	1439575.0	Collado, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=11320&stats_player_seq=1439575.0	P	Jr	11	6
 2013	11320	3	480	CCNY	12	1439566.0	Colon, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=11320&stats_player_seq=1439566.0	P	Fr	25	24

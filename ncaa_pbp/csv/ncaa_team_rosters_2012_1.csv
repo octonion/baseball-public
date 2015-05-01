@@ -1,4 +1,4 @@
-year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	height	class_year	games_played	games_started
+year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	player_url	position	class_year	games_played	games_started
 2012	10942	1	86	Buffalo	9	1094625.0	Baldock, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=10942&stats_player_seq=1094625.0	INF	Jr	31	30
 2012	10942	1	86	Buffalo	22	1321963.0	Bentley, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=10942&stats_player_seq=1321963.0	P	Fr	0	0
 2012	10942	1	86	Buffalo	8	1206154.0	Burke, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=10942&stats_player_seq=1206154.0	P	So	54	53
