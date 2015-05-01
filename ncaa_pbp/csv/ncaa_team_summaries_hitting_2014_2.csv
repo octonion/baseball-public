@@ -1,4 +1,4 @@
-year	year_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
 2014	11620	30123	Academy of Art	-	Totals	-	-	-	-	48	0.242	0.309	0.302	1,468	146	355	59	6	444	6	128	128	23	16	23	285	39	68	23	 
 2014	11620	30123	Academy of Art	-	Opponent Totals	-	-	-	-	48	0.279	0.378	0.370	1,529	299	426	80	9	566	14	255	211	53	30	42	176	32	87	22	 
 2014	11620	929	Adams St.	-	Totals	-	-	-	-	50	0.303	0.371	0.437	1,598	285	484	93	16	699	30	267	151	36	23	35	272	47	15	16	 

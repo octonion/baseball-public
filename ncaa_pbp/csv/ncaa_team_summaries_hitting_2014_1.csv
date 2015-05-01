@@ -1,4 +1,4 @@
-year	year_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
 2014	11620	26172	A&M-Corpus Chris	-	Totals	-	-	-	-	58	0.279	0.360	0.357	1,979	305	553	84	17	707	12	260	198	65	25	27	319	51	73	25	 
 2014	11620	26172	A&M-Corpus Chris	-	Opponent Totals	-	-	-	-	58	0.291	0.371	0.354	2,018	324	587	65	7	714	16	283	188	82	23	44	403	32	65	23	 
 2014	11620	2	Abilene Christian	-	Totals	-	-	-	-	54	0.270	0.351	0.335	1,787	246	482	65	12	598	9	208	181	53	17	46	345	37	57	34	 
