@@ -1,4 +1,4 @@
-year	year_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
 2013	11320	26172	A&M-Corpus Chris	-	Totals	-	-	-	-	1,928	553	0.287	0.355	 	0.373	311	81	11	21	269	161	54	18	26	347	50	58	33	 
 2013	11320	26172	A&M-Corpus Chris	-	Opponent Totals	-	-	-	-	1,923	532	0.277	0.358	 	0.347	293	65	13	15	266	180	77	22	38	390	47	48	27	 
 2013	11320	721	Air Force	-	Totals	-	-	-	-	1,857	524	0.282	0.352	 	0.394	283	122	10	22	249	146	64	20	33	395	44	51	25	 

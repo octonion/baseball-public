@@ -1,0 +1,740 @@
+year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	position	gp	gs	g	ba	obp	slg	ab	r	h	d	t	tb	hr	rbi	bb	hbp	sf	sh	k	dp	sb	cs	picked
+2013	11320	4	Adrian	-	Totals	-	-	-	-	1,100	480	86	0.948	 	9	28	19	33	 
+2013	11320	4	Adrian	-	Opponent Totals	-	-	-	-	1,080	447	84	0.948	1	16	55	14	27	 
+2013	11320	2798	Albertus Magnus	-	Totals	-	-	-	-	669	316	59	0.943	 	2	47	14	34	 
+2013	11320	2798	Albertus Magnus	-	Opponent Totals	-	-	-	-	685	247	48	0.951	 	6	33	9	42	 
+2013	11320	15	Albion	-	Totals	-	-	-	-	838	329	85	0.932	 	8	69	7	26	 
+2013	11320	15	Albion	-	Opponent Totals	-	-	-	-	852	331	63	0.949	 	11	77	10	24	 
+2013	11320	16	Albright	-	Totals	-	-	-	-	778	366	86	0.930	1	17	75	18	40	 
+2013	11320	16	Albright	-	Opponent Totals	-	-	-	-	792	310	55	0.952	2	13	35	9	20	 
+2013	11320	19	Allegheny	-	Totals	-	-	-	-	1,003	459	56	0.963	 	6	51	13	48	 
+2013	11320	19	Allegheny	-	Opponent Totals	-	-	-	-	980	418	61	0.958	 	5	58	24	35	 
+2013	11320	21	Alma	-	Totals	-	-	-	-	771	301	74	0.935	 	10	58	12	14	 
+2013	11320	21	Alma	-	Opponent Totals	-	-	-	-	777	382	50	0.959	 	4	56	12	22	 
+2013	11320	938	Alvernia	-	Totals	-	-	-	-	1,074	416	68	0.956	 	12	56	16	18	 
+2013	11320	938	Alvernia	-	Opponent Totals	-	-	-	-	1,033	415	97	0.937	2	9	87	21	35	 
+2013	11320	24	Amherst	-	Totals	-	-	-	-	979	454	56	0.962	 	6	55	14	32	 
+2013	11320	24	Amherst	-	Opponent Totals	-	-	-	-	964	448	70	0.953	 	12	85	23	46	 
+2013	11320	939	Anderson (IN)	-	Totals	-	-	-	-	1,100	427	73	0.954	1	13	67	26	32	 
+2013	11320	939	Anderson (IN)	-	Opponent Totals	-	-	-	-	1,095	460	73	0.955	 	7	32	14	37	 
+2013	11320	26	Anna Maria	-	Totals	-	-	-	-	733	291	61	0.944	 	7	44	16	22	 
+2013	11320	26	Anna Maria	-	Opponent Totals	-	-	-	-	749	343	55	0.952	 	7	49	19	28	 
+2013	11320	966	Arcadia	-	Totals	-	-	-	-	1,031	421	69	0.955	 	5	60	19	29	 
+2013	11320	966	Arcadia	-	Opponent Totals	-	-	-	-	1,024	432	86	0.944	 	1	40	17	30	 
+2013	11320	38	Augsburg	-	Totals	-	-	-	-	833	373	53	0.958	3	5	33	14	26	 
+2013	11320	38	Augsburg	-	Opponent Totals	-	-	-	-	820	402	61	0.952	2	6	50	14	30	 
+2013	11320	40	Augustana (IL)	-	Totals	-	-	-	-	1,161	496	64	0.963	1	14	43	13	37	1
+2013	11320	40	Augustana (IL)	-	Opponent Totals	-	-	-	-	1,124	462	95	0.943	 	15	47	13	22	1
+2013	11320	42	Aurora	-	Totals	-	-	-	-	981	401	74	0.949	 	18	36	22	28	 
+2013	11320	42	Aurora	-	Opponent Totals	-	-	-	-	970	406	76	0.948	 	17	67	19	28	 
+2013	11320	953	Austin	-	Totals	-	-	-	-	1,007	406	90	0.940	1	37	98	36	54	 
+2013	11320	953	Austin	-	Opponent Totals	-	-	-	-	1,031	391	64	0.957	 	19	50	20	57	 
+2013	11320	44	Averett	-	Totals	-	-	-	-	1,055	444	74	0.953	1	4	33	24	45	 
+2013	11320	44	Averett	-	Opponent Totals	-	-	-	-	1,039	449	78	0.950	 	10	61	23	39	 
+2013	11320	45	Babson	-	Totals	-	-	-	-	1,028	435	71	0.954	 	7	43	17	37	 
+2013	11320	45	Babson	-	Opponent Totals	-	-	-	-	1,018	426	71	0.953	3	15	80	29	25	 
+2013	11320	46	Baldwin Wallace	-	Totals	-	-	-	-	967	393	72	0.950	1	8	46	26	32	 
+2013	11320	46	Baldwin Wallace	-	Opponent Totals	-	-	-	-	962	402	84	0.942	 	14	106	28	23	 
+2013	11320	962	Bard	-	Totals	-	-	-	-	502	227	63	0.920	1	19	84	19	25	 
+2013	11320	962	Bard	-	Opponent Totals	-	-	-	-	510	209	39	0.949	 	10	30	15	19	 
+2013	11320	58	Baruch	-	Totals	-	-	-	-	927	436	70	0.951	 	17	106	14	29	 
+2013	11320	58	Baruch	-	Opponent Totals	-	-	-	-	930	385	79	0.943	 	16	92	28	30	 
+2013	11320	50	Bates	-	Totals	-	-	-	-	879	396	62	0.954	 	9	63	12	71	 
+2013	11320	50	Bates	-	Opponent Totals	-	-	-	-	889	381	60	0.955	 	7	30	18	38	 
+2013	11320	26107	Becker	-	Totals	-	-	-	-	877	356	91	0.931	 	13	90	14	27	 
+2013	11320	26107	Becker	-	Opponent Totals	-	-	-	-	905	397	70	0.949	1	6	85	31	36	 
+2013	11320	53	Beloit	-	Totals	-	-	-	-	794	329	64	0.946	1	6	65	5	24	 
+2013	11320	53	Beloit	-	Opponent Totals	-	-	-	-	804	352	47	0.961	 	4	36	12	25	 
+2013	11320	296	Benedictine (IL)	-	Totals	-	-	-	-	1,135	503	75	0.956	1	17	35	20	36	1
+2013	11320	296	Benedictine (IL)	-	Opponent Totals	-	-	-	-	1,107	436	89	0.945	 	14	73	15	31	 
+2013	11320	973	Berry	-	Totals	-	-	-	-	1,038	429	110	0.930	 	13	86	14	42	 
+2013	11320	973	Berry	-	Opponent Totals	-	-	-	-	1,051	532	82	0.951	2	13	92	20	63	 
+2013	11320	59	Bethany (WV)	-	Totals	-	-	-	-	877	355	65	0.950	 	9	61	21	29	 
+2013	11320	59	Bethany (WV)	-	Opponent Totals	-	-	-	-	894	426	67	0.952	 	3	29	12	42	 
+2013	11320	30038	Bethany Lutheran	-	Totals	-	-	-	-	748	306	56	0.950	 	6	40	11	17	 
+2013	11320	30038	Bethany Lutheran	-	Opponent Totals	-	-	-	-	746	304	56	0.949	 	11	26	11	18	 
+2013	11320	60	Bethel (MN)	-	Totals	-	-	-	-	832	408	56	0.957	1	6	41	7	27	 
+2013	11320	60	Bethel (MN)	-	Opponent Totals	-	-	-	-	817	338	58	0.952	 	10	32	7	28	1
+2013	11320	28593	Birmingham-So.	-	Totals	-	-	-	-	1,160	501	78	0.955	 	6	67	20	85	 
+2013	11320	28593	Birmingham-So.	-	Opponent Totals	-	-	-	-	1,132	471	90	0.947	 	15	61	17	73	 
+2013	11320	64	Blackburn	-	Totals	-	-	-	-	831	334	63	0.949	1	6	69	13	30	 
+2013	11320	64	Blackburn	-	Opponent Totals	-	-	-	-	848	403	60	0.954	1	7	77	22	39	 
+2013	11320	987	Bluffton	-	Totals	-	-	-	-	984	412	64	0.956	 	5	40	17	29	 
+2013	11320	987	Bluffton	-	Opponent Totals	-	-	-	-	970	342	87	0.938	4	6	25	9	27	 
+2013	11320	69	Bowdoin	-	Totals	-	-	-	-	903	340	56	0.957	 	8	37	11	21	 
+2013	11320	69	Bowdoin	-	Opponent Totals	-	-	-	-	889	408	59	0.956	 	10	76	10	51	 
+2013	11320	73	Brandeis	-	Totals	-	-	-	-	903	418	71	0.949	 	10	60	12	21	1
+2013	11320	73	Brandeis	-	Opponent Totals	-	-	-	-	895	429	58	0.958	2	6	22	9	35	 
+2013	11320	75	Bridgewater (VA)	-	Totals	-	-	-	-	1,239	530	75	0.959	1	8	53	29	64	 
+2013	11320	75	Bridgewater (VA)	-	Opponent Totals	-	-	-	-	1,210	488	83	0.953	 	15	72	20	55	 
+2013	11320	76	Bridgewater St.	-	Totals	-	-	-	-	799	335	48	0.959	1	7	52	7	27	 
+2013	11320	76	Bridgewater St.	-	Opponent Totals	-	-	-	-	801	359	47	0.961	 	6	47	14	27	 
+2013	11320	78	Brockport	-	Totals	-	-	-	-	972	463	53	0.964	 	3	31	23	33	 
+2013	11320	78	Brockport	-	Opponent Totals	-	-	-	-	966	404	60	0.958	1	10	47	21	25	 
+2013	11320	84	Buena Vista	-	Totals	-	-	-	-	1,033	424	63	0.959	1	9	35	16	33	 
+2013	11320	84	Buena Vista	-	Opponent Totals	-	-	-	-	1,023	440	65	38.313	 	5	43	17	43	 
+2013	11320	480	CCNY	-	Totals	-	-	-	-	727	291	119	0.895	 	6	146	3	14	 
+2013	11320	480	CCNY	-	Opponent Totals	-	-	-	-	765	295	62	0.945	 	13	50	17	29	 
+2013	11320	1305	Cairn	-	Totals	-	-	-	-	934	358	97	0.930	 	23	105	21	21	 
+2013	11320	1305	Cairn	-	Opponent Totals	-	-	-	-	957	387	71	0.950	1	28	70	15	19	 
+2013	11320	105	Cal Lutheran	-	Totals	-	-	-	-	1,152	522	63	0.964	 	10	41	25	54	 
+2013	11320	105	Cal Lutheran	-	Opponent Totals	-	-	-	-	1,109	448	87	0.947	 	21	60	20	81	 
+2013	11320	89	Caltech	-	Totals	-	-	-	-	704	239	85	0.917	 	14	63	15	17	 
+2013	11320	89	Caltech	-	Opponent Totals	-	-	-	-	734	297	36	0.966	1	7	30	12	40	 
+2013	11320	114	Calvin	-	Totals	-	-	-	-	889	405	66	0.951	 	9	51	10	16	 
+2013	11320	114	Calvin	-	Opponent Totals	-	-	-	-	905	368	72	0.946	 	9	59	15	26	 
+2013	11320	117	Capital	-	Totals	-	-	-	-	939	436	50	0.965	 	5	43	19	40	1
+2013	11320	117	Capital	-	Opponent Totals	-	-	-	-	941	371	39	0.971	 	10	60	7	36	 
+2013	11320	118	Carleton	-	Totals	-	-	-	-	819	356	63	0.949	2	8	19	20	43	 
+2013	11320	118	Carleton	-	Opponent Totals	-	-	-	-	820	333	69	0.944	 	10	29	15	52	 
+2013	11320	120	Carroll (WI)	-	Totals	-	-	-	-	830	312	75	0.938	 	7	56	14	19	 
+2013	11320	120	Carroll (WI)	-	Opponent Totals	-	-	-	-	830	357	62	0.950	 	9	67	15	26	 
+2013	11320	121	Carthage	-	Totals	-	-	-	-	982	439	44	0.970	 	14	34	16	32	 
+2013	11320	121	Carthage	-	Opponent Totals	-	-	-	-	992	477	49	0.968	 	13	27	11	42	 
+2013	11320	122	Case	-	Totals	-	-	-	-	1,098	487	58	0.965	 	7	24	19	41	 
+2013	11320	122	Case	-	Opponent Totals	-	-	-	-	1,089	456	78	0.952	 	7	30	16	43	 
+2013	11320	123	Castleton	-	Totals	-	-	-	-	974	461	55	0.963	1	8	49	16	85	1
+2013	11320	123	Castleton	-	Opponent Totals	-	-	-	-	963	478	76	0.950	 	15	99	34	61	 
+2013	11320	124	Catholic	-	Totals	-	-	-	-	1,077	475	86	0.947	 	3	36	23	35	 
+2013	11320	124	Catholic	-	Opponent Totals	-	-	-	-	1,050	469	75	0.953	 	9	55	24	35	 
+2013	11320	23624	Cazenovia	-	Totals	-	-	-	-	774	298	97	0.917	 	21	99	13	20	 
+2013	11320	23624	Cazenovia	-	Opponent Totals	-	-	-	-	795	331	72	0.940	 	14	32	10	29	 
+2013	11320	125	Centenary (LA)	-	Totals	-	-	-	-	1,035	431	71	0.954	1	11	35	20	32	 
+2013	11320	125	Centenary (LA)	-	Opponent Totals	-	-	-	-	1,008	401	94	0.937	1	23	78	30	33	 
+2013	11320	12884	Centenary (NJ)	-	Totals	-	-	-	-	942	419	71	0.950	1	13	77	25	31	 
+2013	11320	12884	Centenary (NJ)	-	Opponent Totals	-	-	-	-	932	378	50	0.963	 	15	34	14	17	 
+2013	11320	126	Central (IA)	-	Totals	-	-	-	-	999	447	75	0.951	 	12	48	13	44	 
+2013	11320	126	Central (IA)	-	Opponent Totals	-	-	-	-	991	441	69	0.954	 	10	47	14	58	 
+2013	11320	132	Centre	-	Totals	-	-	-	-	928	413	67	0.952	1	21	57	29	37	 
+2013	11320	132	Centre	-	Opponent Totals	-	-	-	-	942	421	70	0.951	 	7	66	18	39	 
+2013	11320	134	Chapman	-	Totals	-	-	-	-	1,003	441	60	0.960	1	7	52	20	34	 
+2013	11320	134	Chapman	-	Opponent Totals	-	-	-	-	1,006	465	80	0.948	 	5	41	16	29	 
+2013	11320	137	Chicago	-	Totals	-	-	-	-	835	389	64	0.950	 	10	58	11	32	 
+2013	11320	137	Chicago	-	Opponent Totals	-	-	-	-	833	343	67	0.946	1	8	28	12	16	 
+2013	11320	139	Chris. Newport	-	Totals	-	-	-	-	1,114	405	61	0.961	1	11	66	19	26	 
+2013	11320	139	Chris. Newport	-	Opponent Totals	-	-	-	-	1,087	433	66	0.958	 	14	52	17	40	 
+2013	11320	142	Claremont-M-S	-	Totals	-	-	-	-	908	401	62	0.955	3	9	74	21	64	 
+2013	11320	142	Claremont-M-S	-	Opponent Totals	-	-	-	-	932	377	60	0.956	 	4	38	16	44	 
+2013	11320	145	Clark (MA)	-	Totals	-	-	-	-	805	347	65	0.947	1	19	55	20	12	1
+2013	11320	145	Clark (MA)	-	Opponent Totals	-	-	-	-	820	350	48	0.961	 	9	41	16	31	 
+2013	11320	146	Clarkson	-	Totals	-	-	-	-	841	387	50	0.961	 	7	37	24	27	 
+2013	11320	146	Clarkson	-	Opponent Totals	-	-	-	-	857	417	56	0.958	 	7	48	8	33	 
+2013	11320	722	Coast Guard	-	Totals	-	-	-	-	1,023	472	70	0.955	3	12	29	30	64	 
+2013	11320	722	Coast Guard	-	Opponent Totals	-	-	-	-	1,008	479	83	0.947	 	11	46	15	92	 
+2013	11320	150	Coe	-	Totals	-	-	-	-	1,010	477	67	0.957	 	5	16	15	39	 
+2013	11320	150	Coe	-	Opponent Totals	-	-	-	-	985	417	76	0.949	2	12	68	9	27	 
+2013	11320	151	Colby	-	Totals	-	-	-	-	780	309	74	0.936	1	12	68	15	34	 
+2013	11320	151	Colby	-	Opponent Totals	-	-	-	-	800	396	53	0.958	1	12	49	32	50	 
+2013	11320	152	Colby-Sawyer	-	Totals	-	-	-	-	831	374	66	0.948	 	10	31	19	63	 
+2013	11320	152	Colby-Sawyer	-	Opponent Totals	-	-	-	-	831	327	50	0.959	 	5	67	31	51	 
+2013	11320	24400	Concordia (TX)	-	Totals	-	-	-	-	1,074	531	58	0.965	 	8	41	10	26	 
+2013	11320	24400	Concordia (TX)	-	Opponent Totals	-	-	-	-	1,059	443	62	0.960	 	13	62	19	29	 
+2013	11320	160	Concordia Chicago	-	Totals	-	-	-	-	1,182	524	56	0.968	2	3	38	19	46	 
+2013	11320	160	Concordia Chicago	-	Opponent Totals	-	-	-	-	1,129	539	98	0.945	 	21	68	20	37	 
+2013	11320	1036	Concordia Wisconsin	-	Totals	-	-	-	-	1,033	424	79	0.949	1	15	77	17	23	 
+2013	11320	1036	Concordia Wisconsin	-	Opponent Totals	-	-	-	-	1,043	513	67	0.959	 	19	45	11	35	 
+2013	11320	161	Concordia-M'head	-	Totals	-	-	-	-	726	305	36	0.966	 	6	33	12	17	 
+2013	11320	161	Concordia-M'head	-	Opponent Totals	-	-	-	-	725	303	32	0.970	 	3	20	6	10	 
+2013	11320	166	Cornell College	-	Totals	-	-	-	-	826	344	80	0.936	 	8	63	7	30	 
+2013	11320	166	Cornell College	-	Opponent Totals	-	-	-	-	830	350	51	0.959	 	7	26	13	30	 
+2013	11320	30111	Covenant	-	Totals	-	-	-	-	1,069	522	84	0.950	1	11	100	23	69	 
+2013	11320	30111	Covenant	-	Opponent Totals	-	-	-	-	1,049	432	67	0.957	 	15	130	49	65	 
+2013	11320	30035	Crown (MN)	-	Totals	-	-	-	-	543	209	77	0.907	1	19	40	7	7	 
+2013	11320	30035	Crown (MN)	-	Opponent Totals	-	-	-	-	564	221	41	0.950	 	6	21	12	14	 
+2013	11320	170	Curry	-	Totals	-	-	-	-	792	354	56	0.953	2	8	86	12	32	 
+2013	11320	170	Curry	-	Opponent Totals	-	-	-	-	823	374	54	0.957	1	5	26	10	22	 
+2013	11320	1059	D'Youville	-	Totals	-	-	-	-	573	238	80	0.910	 	12	65	10	21	 
+2013	11320	1059	D'Youville	-	Opponent Totals	-	-	-	-	603	270	37	0.959	 	9	20	10	37	 
+2013	11320	1044	Dallas	-	Totals	-	-	-	-	1,010	367	68	0.953	 	24	68	14	23	 
+2013	11320	1044	Dallas	-	Opponent Totals	-	-	-	-	1,018	421	76	0.950	 	16	96	32	29	 
+2013	11320	2691	Daniel Webster	-	Totals	-	-	-	-	965	467	46	0.969	 	18	88	17	40	 
+2013	11320	2691	Daniel Webster	-	Opponent Totals	-	-	-	-	940	377	65	0.953	3	15	81	19	15	 
+2013	11320	177	DePauw	-	Totals	-	-	-	-	943	446	54	0.963	1	5	59	12	41	 
+2013	11320	177	DePauw	-	Opponent Totals	-	-	-	-	962	397	51	0.964	 	6	39	18	40	 
+2013	11320	20	DeSales	-	Totals	-	-	-	-	1,069	465	86	0.947	 	11	61	13	42	 
+2013	11320	20	DeSales	-	Opponent Totals	-	-	-	-	1,040	460	93	0.942	 	6	105	26	26	 
+2013	11320	1050	Defiance	-	Totals	-	-	-	-	904	379	59	0.956	 	9	65	13	25	 
+2013	11320	1050	Defiance	-	Opponent Totals	-	-	-	-	903	443	76	0.947	7	8	55	19	25	 
+2013	11320	179	Delaware Valley	-	Totals	-	-	-	-	879	370	63	0.952	 	11	91	13	31	 
+2013	11320	179	Delaware Valley	-	Opponent Totals	-	-	-	-	874	396	84	33.794	 	8	46	20	18	 
+2013	11320	182	Denison	-	Totals	-	-	-	-	1,056	435	80	0.949	 	5	57	23	33	 
+2013	11320	182	Denison	-	Opponent Totals	-	-	-	-	1,033	461	85	0.946	 	19	72	28	24	 
+2013	11320	185	Dickinson	-	Totals	-	-	-	-	983	386	86	0.941	 	16	94	33	37	 
+2013	11320	185	Dickinson	-	Opponent Totals	-	-	-	-	993	405	73	0.950	1	20	111	12	48	 
+2013	11320	1332	Dominican (IL)	-	Totals	-	-	-	-	1,024	389	86	0.943	1	2	49	14	19	 
+2013	11320	1332	Dominican (IL)	-	Opponent Totals	-	-	-	-	1,047	438	79	0.949	 	17	81	17	23	1
+2013	11320	190	Drew	-	Totals	-	-	-	-	969	433	75	0.949	1	8	64	17	14	 
+2013	11320	190	Drew	-	Opponent Totals	-	-	-	-	976	405	93	0.937	1	20	55	15	22	 
+2013	11320	192	Dubuque	-	Totals	-	-	-	-	805	356	63	0.949	 	3	38	8	37	 
+2013	11320	192	Dubuque	-	Opponent Totals	-	-	-	-	826	349	50	0.959	 	5	25	16	18	 
+2013	11320	195	Earlham	-	Totals	-	-	-	-	991	453	86	0.944	1	12	57	29	39	 
+2013	11320	195	Earlham	-	Opponent Totals	-	-	-	-	1,016	422	65	0.957	1	16	70	22	32	 
+2013	11320	1062	East Tex. Baptist	-	Totals	-	-	-	-	1,021	417	81	0.947	 	13	57	16	35	 
+2013	11320	1062	East Tex. Baptist	-	Opponent Totals	-	-	-	-	1,029	401	94	0.938	7	13	45	10	24	 
+2013	11320	203	East. Mennonite	-	Totals	-	-	-	-	972	384	70	0.951	 	12	86	12	17	1
+2013	11320	203	East. Mennonite	-	Opponent Totals	-	-	-	-	990	454	80	0.948	1	12	48	13	31	 
+2013	11320	8968	Eastern	-	Totals	-	-	-	-	828	367	61	0.951	 	8	46	15	23	 
+2013	11320	8968	Eastern	-	Opponent Totals	-	-	-	-	830	325	63	33.300	 	12	68	14	25	 
+2013	11320	200	Eastern Conn. St.	-	Totals	-	-	-	-	1,140	489	70	0.959	 	11	64	20	54	 
+2013	11320	200	Eastern Conn. St.	-	Opponent Totals	-	-	-	-	1,112	506	95	0.945	 	15	84	21	61	 
+2013	11320	1064	Eastern Nazarene	-	Totals	-	-	-	-	774	314	66	0.943	1	13	74	15	17	 
+2013	11320	1064	Eastern Nazarene	-	Opponent Totals	-	-	-	-	788	323	65	0.945	1	11	62	21	38	 
+2013	11320	1066	Edgewood	-	Totals	-	-	-	-	948	453	83	0.944	 	8	63	26	38	1
+2013	11320	1066	Edgewood	-	Opponent Totals	-	-	-	-	966	425	94	0.937	3	8	55	15	22	 
+2013	11320	211	Elizabethtown	-	Totals	-	-	-	-	891	357	62	0.953	 	6	56	14	29	 
+2013	11320	211	Elizabethtown	-	Opponent Totals	-	-	-	-	904	399	63	0.954	 	9	48	15	30	 
+2013	11320	212	Elmhurst	-	Totals	-	-	-	-	932	422	74	0.948	 	12	59	10	33	 
+2013	11320	212	Elmhurst	-	Opponent Totals	-	-	-	-	934	340	62	0.954	3	4	36	14	30	 
+2013	11320	532	Elms	-	Totals	-	-	-	-	948	400	84	0.941	 	12	43	22	24	 
+2013	11320	532	Elms	-	Opponent Totals	-	-	-	-	949	429	94	0.936	 	16	50	12	28	 
+2013	11320	214	Emerson	-	Totals	-	-	-	-	619	299	76	0.924	 	11	65	22	20	 
+2013	11320	214	Emerson	-	Opponent Totals	-	-	-	-	662	287	41	0.959	3	3	36	15	18	 
+2013	11320	217	Emory	-	Totals	-	-	-	-	995	372	67	0.953	1	3	50	34	74	 
+2013	11320	217	Emory	-	Opponent Totals	-	-	-	-	988	373	55	0.961	 	7	98	19	66	 
+2013	11320	216	Emory & Henry	-	Totals	-	-	-	-	908	365	77	0.943	 	8	56	24	48	 
+2013	11320	216	Emory & Henry	-	Opponent Totals	-	-	-	-	943	363	69	0.950	2	12	37	27	73	 
+2013	11320	8981	Endicott	-	Totals	-	-	-	-	1,211	621	58	0.969	 	20	41	26	56	 
+2013	11320	8981	Endicott	-	Opponent Totals	-	-	-	-	1,169	569	75	46.924	2	11	111	42	40	 
+2013	11320	218	Eureka	-	Totals	-	-	-	-	792	289	78	0.933	2	16	151	10	15	 
+2013	11320	218	Eureka	-	Opponent Totals	-	-	-	-	810	299	66	0.944	 	14	14	8	29	 
+2013	11320	221	FDU-Florham	-	Totals	-	-	-	-	964	429	80	0.946	1	8	69	26	32	 
+2013	11320	221	FDU-Florham	-	Opponent Totals	-	-	-	-	976	351	69	0.951	 	6	34	5	28	 
+2013	11320	27892	Farmingdale St.	-	Totals	-	-	-	-	1,077	447	75	0.953	 	8	50	25	38	 
+2013	11320	27892	Farmingdale St.	-	Opponent Totals	-	-	-	-	1,044	497	73	0.955	 	21	178	32	23	 
+2013	11320	225	Ferrum	-	Totals	-	-	-	-	916	399	69	0.950	2	8	32	14	20	 
+2013	11320	225	Ferrum	-	Opponent Totals	-	-	-	-	918	374	59	0.956	 	3	26	13	20	 
+2013	11320	30032	Finlandia	-	Totals	-	-	-	-	477	189	71	0.904	1	4	61	13	17	 
+2013	11320	30032	Finlandia	-	Opponent Totals	-	-	-	-	527	192	41	0.946	1	16	20	3	18	 
+2013	11320	227	Fitchburg St.	-	Totals	-	-	-	-	848	392	77	0.942	1	4	44	9	35	 
+2013	11320	227	Fitchburg St.	-	Opponent Totals	-	-	-	-	862	372	71	0.946	 	9	47	9	30	1
+2013	11320	11538	Fontbonne	-	Totals	-	-	-	-	1,029	407	100	0.935	2	6	54	33	75	 
+2013	11320	11538	Fontbonne	-	Opponent Totals	-	-	-	-	1,032	424	94	0.939	2	16	53	28	67	 
+2013	11320	238	Framingham St.	-	Totals	-	-	-	-	898	425	64	0.954	2	9	62	24	40	 
+2013	11320	238	Framingham St.	-	Opponent Totals	-	-	-	-	908	422	87	0.939	2	13	28	10	35	 
+2013	11320	239	Frank. & Marsh.	-	Totals	-	-	-	-	1,122	466	61	0.963	 	15	60	25	87	 
+2013	11320	239	Frank. & Marsh.	-	Opponent Totals	-	-	-	-	1,116	473	76	0.954	2	13	69	31	78	 
+2013	11320	2694	Franklin	-	Totals	-	-	-	-	1,124	492	86	0.949	2	16	54	14	49	 
+2013	11320	2694	Franklin	-	Opponent Totals	-	-	-	-	1,115	447	81	0.951	3	6	90	17	63	 
+2013	11320	242	Fredonia	-	Totals	-	-	-	-	818	372	57	0.954	 	15	35	16	24	 
+2013	11320	242	Fredonia	-	Opponent Totals	-	-	-	-	826	361	57	0.954	 	9	36	14	23	 
+2013	11320	243	Frostburg St.	-	Totals	-	-	-	-	962	437	70	0.952	 	6	53	11	36	 
+2013	11320	243	Frostburg St.	-	Opponent Totals	-	-	-	-	953	394	79	0.945	 	11	55	7	28	 
+2013	11320	245	Gallaudet	-	Totals	-	-	-	-	930	396	79	0.944	 	6	49	21	24	 
+2013	11320	245	Gallaudet	-	Opponent Totals	-	-	-	-	923	403	83	0.941	 	2	54	18	16	 
+2013	11320	30084	Geneva	-	Totals	-	-	-	-	780	301	62	0.946	1	11	62	8	15	1
+2013	11320	30084	Geneva	-	Opponent Totals	-	-	-	-	785	365	58	0.952	 	5	23	11	19	 
+2013	11320	1094	George Fox	-	Totals	-	-	-	-	1,022	455	52	0.966	 	4	18	18	23	 
+2013	11320	1094	George Fox	-	Opponent Totals	-	-	-	-	1,000	434	86	0.943	 	12	43	14	44	 
+2013	11320	258	Gettysburg	-	Totals	-	-	-	-	1,107	453	61	0.962	2	14	32	13	45	 
+2013	11320	258	Gettysburg	-	Opponent Totals	-	-	-	-	1,079	460	80	0.951	 	5	46	12	28	 
+2013	11320	1099	Gordon	-	Totals	-	-	-	-	804	353	76	0.938	 	 	32	13	23	 
+2013	11320	1099	Gordon	-	Opponent Totals	-	-	-	-	813	340	54	0.955	1	8	61	15	17	 
+2013	11320	263	Greensboro	-	Totals	-	-	-	-	1,008	434	78	0.949	 	6	56	41	49	 
+2013	11320	263	Greensboro	-	Opponent Totals	-	-	-	-	1,018	462	72	0.954	2	14	42	48	65	 
+2013	11320	1111	Greenville	-	Totals	-	-	-	-	831	354	78	0.938	1	6	45	17	40	 
+2013	11320	1111	Greenville	-	Opponent Totals	-	-	-	-	841	347	69	0.945	 	13	49	17	40	 
+2013	11320	264	Grinnell	-	Totals	-	-	-	-	847	405	80	0.940	 	9	43	9	24	 
+2013	11320	264	Grinnell	-	Opponent Totals	-	-	-	-	864	362	55	0.957	 	11	49	13	23	 
+2013	11320	265	Grove City	-	Totals	-	-	-	-	606	277	61	0.935	 	7	26	19	15	 
+2013	11320	265	Grove City	-	Opponent Totals	-	-	-	-	630	274	38	26.885	1	9	12	5	22	 
+2013	11320	1112	Guilford	-	Totals	-	-	-	-	1,011	422	51	0.966	1	11	53	23	51	 
+2013	11320	1112	Guilford	-	Opponent Totals	-	-	-	-	988	476	77	0.950	 	7	56	18	44	 
+2013	11320	266	Gust. Adolphus	-	Totals	-	-	-	-	750	285	64	0.942	1	6	32	6	16	 
+2013	11320	266	Gust. Adolphus	-	Opponent Totals	-	-	-	-	765	342	45	0.961	 	8	22	10	30	 
+2013	11320	12399	Gwynedd Mercy	-	Totals	-	-	-	-	903	389	72	0.947	 	10	45	12	22	1
+2013	11320	12399	Gwynedd Mercy	-	Opponent Totals	-	-	-	-	904	381	81	0.941	1	19	102	29	33	 
+2013	11320	267	Hamilton	-	Totals	-	-	-	-	848	381	87	0.934	 	18	99	24	38	 
+2013	11320	267	Hamilton	-	Opponent Totals	-	-	-	-	855	394	72	0.945	 	7	83	21	48	 
+2013	11320	268	Hamline	-	Totals	-	-	-	-	767	314	50	0.956	1	4	25	13	19	 
+2013	11320	268	Hamline	-	Opponent Totals	-	-	-	-	753	327	51	0.955	 	13	39	12	18	 
+2013	11320	269	Hampden-Sydney	-	Totals	-	-	-	-	1,070	487	68	0.958	3	14	55	14	28	 
+2013	11320	269	Hampden-Sydney	-	Opponent Totals	-	-	-	-	1,056	433	65	0.958	 	10	34	23	27	 
+2013	11320	1115	Hanover	-	Totals	-	-	-	-	948	393	60	0.957	2	6	50	13	24	 
+2013	11320	1115	Hanover	-	Opponent Totals	-	-	-	-	958	381	67	0.952	 	9	22	11	29	 
+2013	11320	271	Hardin-Simmons	-	Totals	-	-	-	-	1,008	385	61	0.958	 	4	22	11	40	 
+2013	11320	271	Hardin-Simmons	-	Opponent Totals	-	-	-	-	996	397	55	0.962	1	11	33	5	34	 
+2013	11320	276	Haverford	-	Totals	-	-	-	-	992	433	60	0.960	 	17	39	10	31	 
+2013	11320	276	Haverford	-	Opponent Totals	-	-	-	-	969	369	74	0.948	 	13	146	29	30	 
+2013	11320	278	Heidelberg	-	Totals	-	-	-	-	996	414	69	0.953	 	8	48	20	73	 
+2013	11320	278	Heidelberg	-	Opponent Totals	-	-	-	-	995	420	65	0.956	 	7	47	21	39	 
+2013	11320	1124	Hendrix	-	Totals	-	-	-	-	1,036	426	62	0.959	2	6	55	25	45	 
+2013	11320	1124	Hendrix	-	Opponent Totals	-	-	-	-	1,026	435	85	0.945	 	10	59	12	57	 
+2013	11320	8398	Hilbert	-	Totals	-	-	-	-	696	327	108	0.905	 	39	94	17	21	 
+2013	11320	8398	Hilbert	-	Opponent Totals	-	-	-	-	740	312	49	0.955	 	15	52	13	25	1
+2013	11320	281	Hiram	-	Totals	-	-	-	-	844	366	72	0.944	 	6	48	37	39	 
+2013	11320	281	Hiram	-	Opponent Totals	-	-	-	-	853	326	62	0.950	 	6	46	11	60	 
+2013	11320	286	Hope	-	Totals	-	-	-	-	903	368	64	0.952	1	9	42	14	34	 
+2013	11320	286	Hope	-	Opponent Totals	-	-	-	-	890	362	62	0.953	 	11	36	9	19	 
+2013	11320	2741	Howard Payne	-	Totals	-	-	-	-	919	365	72	0.947	1	9	56	13	25	 
+2013	11320	2741	Howard Payne	-	Opponent Totals	-	-	-	-	903	377	58	0.957	1	9	39	20	26	 
+2013	11320	1130	Huntingdon	-	Totals	-	-	-	-	1,131	453	51	0.969	 	7	37	12	41	 
+2013	11320	1130	Huntingdon	-	Opponent Totals	-	-	-	-	1,096	400	97	0.939	2	15	65	26	36	 
+2013	11320	1133	Husson	-	Totals	-	-	-	-	1,004	444	66	0.956	 	8	41	14	49	 
+2013	11320	1133	Husson	-	Opponent Totals	-	-	-	-	979	427	87	0.942	1	14	84	21	45	 
+2013	11320	300	Ill. Wesleyan	-	Totals	-	-	-	-	1,229	501	66	0.963	 	8	24	28	40	 
+2013	11320	300	Ill. Wesleyan	-	Opponent Totals	-	-	-	-	1,208	529	74	0.959	 	13	30	9	47	 
+2013	11320	297	Illinois Col.	-	Totals	-	-	-	-	788	328	56	0.952	 	19	47	14	27	 
+2013	11320	297	Illinois Col.	-	Opponent Totals	-	-	-	-	789	312	56	0.952	1	8	59	11	20	 
+2013	11320	303	Immaculata	-	Totals	-	-	-	-	784	307	48	0.958	1	20	64	17	11	 
+2013	11320	303	Immaculata	-	Opponent Totals	-	-	-	-	792	336	65	0.946	 	5	82	25	18	 
+2013	11320	313	Ithaca	-	Totals	-	-	-	-	1,262	537	71	0.962	 	9	32	27	48	 
+2013	11320	313	Ithaca	-	Opponent Totals	-	-	-	-	1,206	514	104	0.943	3	14	98	19	52	 
+2013	11320	320	John Carroll	-	Totals	-	-	-	-	1,047	448	72	0.954	 	14	64	15	49	 
+2013	11320	320	John Carroll	-	Opponent Totals	-	-	-	-	1,037	450	80	0.949	 	7	60	12	24	1
+2013	11320	321	John Jay	-	Totals	-	-	-	-	867	352	73	0.943	1	11	129	37	31	 
+2013	11320	321	John Jay	-	Opponent Totals	-	-	-	-	924	443	100	0.932	 	12	167	34	28	 
+2013	11320	322	Johns Hopkins	-	Totals	-	-	-	-	1,245	535	67	0.964	1	5	42	27	67	 
+2013	11320	322	Johns Hopkins	-	Opponent Totals	-	-	-	-	1,189	444	65	0.962	 	13	71	22	51	 
+2013	11320	22626	Johnson & Wales (RI)	-	Totals	-	-	-	-	940	385	75	0.946	2	6	60	6	32	 
+2013	11320	22626	Johnson & Wales (RI)	-	Opponent Totals	-	-	-	-	915	429	89	0.938	 	12	101	23	25	 
+2013	11320	325	Juniata	-	Totals	-	-	-	-	857	332	92	0.928	 	9	93	24	39	 
+2013	11320	325	Juniata	-	Opponent Totals	-	-	-	-	893	365	61	0.954	 	9	38	16	35	 
+2013	11320	326	Kalamazoo	-	Totals	-	-	-	-	810	407	74	0.943	 	17	54	13	26	 
+2013	11320	326	Kalamazoo	-	Opponent Totals	-	-	-	-	848	387	76	0.942	3	5	32	20	28	 
+2013	11320	329	Kean	-	Totals	-	-	-	-	1,391	668	57	0.973	 	15	70	36	43	 
+2013	11320	329	Kean	-	Opponent Totals	-	-	-	-	1,341	667	119	0.944	 	9	125	44	49	 
+2013	11320	330	Keene St.	-	Totals	-	-	-	-	1,069	456	59	0.963	 	30	84	11	37	 
+2013	11320	330	Keene St.	-	Opponent Totals	-	-	-	-	1,074	484	58	0.964	 	10	89	15	40	 
+2013	11320	335	Kenyon	-	Totals	-	-	-	-	849	353	56	0.955	2	10	51	6	28	 
+2013	11320	335	Kenyon	-	Opponent Totals	-	-	-	-	844	335	63	0.949	 	8	49	14	28	 
+2013	11320	1159	Keuka	-	Totals	-	-	-	-	640	265	72	0.926	 	12	81	12	38	 
+2013	11320	1159	Keuka	-	Opponent Totals	-	-	-	-	662	285	58	0.942	 	20	28	16	38	 
+2013	11320	30047	Keystone	-	Totals	-	-	-	-	1,146	441	76	0.954	1	18	43	20	33	 
+2013	11320	30047	Keystone	-	Opponent Totals	-	-	-	-	1,106	475	76	0.954	1	15	95	26	41	 
+2013	11320	336	King's (PA)	-	Totals	-	-	-	-	650	292	43	0.956	1	1	40	13	17	 
+2013	11320	336	King's (PA)	-	Opponent Totals	-	-	-	-	636	295	54	0.945	 	8	35	9	16	 
+2013	11320	337	Knox	-	Totals	-	-	-	-	917	413	53	0.962	1	11	92	6	28	 
+2013	11320	337	Knox	-	Opponent Totals	-	-	-	-	914	402	66	0.952	1	7	56	13	18	 
+2013	11320	1163	La Roche	-	Totals	-	-	-	-	1,043	420	67	0.956	 	7	46	15	32	 
+2013	11320	1163	La Roche	-	Opponent Totals	-	-	-	-	1,009	447	100	0.936	 	11	75	18	32	 
+2013	11320	341	La Verne	-	Totals	-	-	-	-	1,016	385	66	0.955	 	3	28	15	73	 
+2013	11320	341	La Verne	-	Opponent Totals	-	-	-	-	994	487	60	0.961	2	10	26	16	91	 
+2013	11320	1162	LaGrange	-	Totals	-	-	-	-	1,183	510	81	0.954	1	8	58	32	79	 
+2013	11320	1162	LaGrange	-	Opponent Totals	-	-	-	-	1,175	514	86	0.952	 	5	90	29	75	 
+2013	11320	1164	Lakeland	-	Totals	-	-	-	-	796	292	80	0.932	1	11	70	13	23	 
+2013	11320	1164	Lakeland	-	Opponent Totals	-	-	-	-	813	370	50	0.959	1	11	32	10	27	 
+2013	11320	30085	Lancaster Bible	-	Totals	-	-	-	-	626	271	89	0.910	1	36	77	18	19	 
+2013	11320	30085	Lancaster Bible	-	Opponent Totals	-	-	-	-	656	258	53	0.945	 	15	33	12	28	 
+2013	11320	8486	Lasell	-	Totals	-	-	-	-	765	286	38	0.965	1	25	60	24	23	 
+2013	11320	348	Lawrence	-	Totals	-	-	-	-	841	384	64	0.950	 	8	54	12	26	 
+2013	11320	348	Lawrence	-	Opponent Totals	-	-	-	-	847	330	45	0.963	1	6	55	13	22	 
+2013	11320	8490	LeTourneau	-	Totals	-	-	-	-	931	345	61	0.954	 	7	27	17	28	 
+2013	11320	8490	LeTourneau	-	Opponent Totals	-	-	-	-	926	396	70	0.950	 	11	51	8	41	 
+2013	11320	351	Lebanon Valley	-	Totals	-	-	-	-	862	386	68	0.948	1	15	62	17	20	 
+2013	11320	351	Lebanon Valley	-	Opponent Totals	-	-	-	-	870	364	93	0.930	2	9	41	14	38	 
+2013	11320	279	Lehman	-	Totals	-	-	-	-	808	371	88	0.931	 	20	89	34	31	 
+2013	11320	279	Lehman	-	Opponent Totals	-	-	-	-	806	340	79	0.936	2	16	68	11	44	 
+2013	11320	24317	Lesley	-	Totals	-	-	-	-	680	252	66	0.934	 	7	75	7	19	 
+2013	11320	24317	Lesley	-	Opponent Totals	-	-	-	-	677	266	57	0.943	 	15	28	11	27	 
+2013	11320	22235	Lewis & Clark	-	Totals	-	-	-	-	1,019	395	108	0.929	 	8	88	25	13	 
+2013	11320	22235	Lewis & Clark	-	Opponent Totals	-	-	-	-	1,047	466	60	0.962	 	10	24	8	41	 
+2013	11320	1179	Linfield	-	Totals	-	-	-	-	1,350	566	54	0.973	1	2	16	15	88	 
+2013	11320	1179	Linfield	-	Opponent Totals	-	-	-	-	1,294	522	89	0.953	 	7	100	30	57	 
+2013	11320	364	Loras	-	Totals	-	-	-	-	956	414	70	0.951	 	11	29	22	28	 
+2013	11320	364	Loras	-	Opponent Totals	-	-	-	-	972	413	69	0.953	 	20	62	21	25	 
+2013	11320	1182	Louisiana Col.	-	Totals	-	-	-	-	1,136	429	85	0.948	2	15	51	15	22	 
+2013	11320	1182	Louisiana Col.	-	Opponent Totals	-	-	-	-	1,108	500	73	0.957	 	10	61	12	32	 
+2013	11320	372	Luther	-	Totals	-	-	-	-	748	327	52	0.954	 	4	33	19	32	 
+2013	11320	372	Luther	-	Opponent Totals	-	-	-	-	762	351	49	0.958	 	4	29	14	35	 
+2013	11320	374	Lynchburg	-	Totals	-	-	-	-	920	429	48	0.966	3	10	26	27	47	 
+2013	11320	374	Lynchburg	-	Opponent Totals	-	-	-	-	917	359	55	0.959	 	7	26	15	46	 
+2013	11320	30065	Lyndon St.	-	Totals	-	-	-	-	635	234	70	0.925	 	20	86	12	13	 
+2013	11320	30065	Lyndon St.	-	Opponent Totals	-	-	-	-	683	299	47	0.954	 	6	5	4	36	 
+2013	11320	486	MCLA	-	Totals	-	-	-	-	654	277	59	0.940	 	4	53	17	32	 
+2013	11320	486	MCLA	-	Opponent Totals	-	-	-	-	684	297	40	0.961	 	2	29	12	19	 
+2013	11320	398	MIT	-	Totals	-	-	-	-	1,024	463	65	0.958	 	5	42	15	75	 
+2013	11320	398	MIT	-	Opponent Totals	-	-	-	-	1,005	377	68	0.953	 	9	39	22	34	 
+2013	11320	20220	MSOE	-	Totals	-	-	-	-	815	344	55	0.955	 	10	67	10	22	 
+2013	11320	20220	MSOE	-	Opponent Totals	-	-	-	-	833	341	69	0.944	1	25	53	8	26	 
+2013	11320	377	MacMurray	-	Totals	-	-	-	-	847	367	79	0.939	 	9	51	9	39	 
+2013	11320	377	MacMurray	-	Opponent Totals	-	-	-	-	878	373	58	0.956	 	11	22	16	39	 
+2013	11320	376	Macalester	-	Totals	-	-	-	-	838	351	74	0.941	 	14	46	8	20	 
+2013	11320	376	Macalester	-	Opponent Totals	-	-	-	-	863	333	64	0.949	1	7	44	15	29	 
+2013	11320	1192	Manchester	-	Totals	-	-	-	-	1,257	523	70	0.962	1	10	30	16	38	 
+2013	11320	1192	Manchester	-	Opponent Totals	-	-	-	-	1,208	505	107	0.941	1	9	87	25	34	 
+2013	11320	382	Manhattanville	-	Totals	-	-	-	-	1,010	409	80	0.947	 	11	103	18	33	 
+2013	11320	382	Manhattanville	-	Opponent Totals	-	-	-	-	1,044	493	55	0.965	 	16	96	19	30	 
+2013	11320	1194	Maranatha Baptist	-	Totals	-	-	-	-	628	222	95	0.899	 	50	173	4	12	 
+2013	11320	1194	Maranatha Baptist	-	Opponent Totals	-	-	-	-	672	256	32	0.967	 	9	13	3	18	 
+2013	11320	1196	Marian (WI)	-	Totals	-	-	-	-	897	397	74	0.946	 	12	35	15	29	 
+2013	11320	1196	Marian (WI)	-	Opponent Totals	-	-	-	-	902	413	72	0.948	1	7	59	25	41	1
+2013	11320	385	Marietta	-	Totals	-	-	-	-	1,196	538	69	0.962	 	2	16	21	35	 
+2013	11320	385	Marietta	-	Opponent Totals	-	-	-	-	1,151	478	106	0.939	 	7	63	27	33	1
+2013	11320	8597	Martin Luther	-	Totals	-	-	-	-	626	248	44	0.952	 	13	47	18	9	 
+2013	11320	8597	Martin Luther	-	Opponent Totals	-	-	-	-	632	275	55	0.943	 	7	14	11	27	1
+2013	11320	1203	Mary Hardin-Baylor	-	Totals	-	-	-	-	1,055	433	94	0.941	1	22	87	19	26	 
+2013	11320	1203	Mary Hardin-Baylor	-	Opponent Totals	-	-	-	-	1,036	359	80	0.946	1	11	42	21	16	 
+2013	11320	390	Mary Washington	-	Totals	-	-	-	-	976	435	50	0.966	2	4	35	16	35	 
+2013	11320	390	Mary Washington	-	Opponent Totals	-	-	-	-	972	487	63	0.959	 	3	44	17	44	 
+2013	11320	396	Maryville (TN)	-	Totals	-	-	-	-	1,025	446	88	0.944	1	13	83	29	51	 
+2013	11320	396	Maryville (TN)	-	Opponent Totals	-	-	-	-	1,033	414	75	0.951	1	6	67	38	64	 
+2013	11320	397	Marywood	-	Totals	-	-	-	-	699	329	58	0.947	1	3	46	13	29	 
+2013	11320	397	Marywood	-	Opponent Totals	-	-	-	-	702	323	45	0.958	 	8	35	8	16	 
+2013	11320	399	Mass. Maritime	-	Totals	-	-	-	-	683	273	61	0.940	2	10	45	19	14	 
+2013	11320	399	Mass. Maritime	-	Opponent Totals	-	-	-	-	687	356	54	0.951	 	5	53	20	22	 
+2013	11320	773	McDaniel	-	Totals	-	-	-	-	962	353	69	0.950	2	7	52	26	71	 
+2013	11320	773	McDaniel	-	Opponent Totals	-	-	-	-	948	425	62	0.957	1	18	43	16	60	 
+2013	11320	379	Me.-Farmington	-	Totals	-	-	-	-	671	274	63	0.938	 	9	48	20	39	 
+2013	11320	379	Me.-Farmington	-	Opponent Totals	-	-	-	-	691	303	61	0.942	1	7	24	14	58	 
+2013	11320	30040	Me.-Presque Isle	-	Totals	-	-	-	-	584	234	64	0.927	 	14	83	10	12	 
+2013	11320	30040	Me.-Presque Isle	-	Opponent Totals	-	-	-	-	637	272	37	0.961	 	9	24	8	25	 
+2013	11320	23725	Medaille	-	Totals	-	-	-	-	609	269	54	0.942	 	15	56	10	19	1
+2013	11320	23725	Medaille	-	Opponent Totals	-	-	-	-	641	298	43	0.956	 	10	29	9	25	 
+2013	11320	724	Merchant Marine	-	Totals	-	-	-	-	881	371	67	0.949	 	13	76	26	70	 
+2013	11320	724	Merchant Marine	-	Opponent Totals	-	-	-	-	879	397	76	0.944	 	10	95	27	38	 
+2013	11320	411	Messiah	-	Totals	-	-	-	-	901	401	80	0.942	2	22	53	14	37	 
+2013	11320	411	Messiah	-	Opponent Totals	-	-	-	-	925	394	77	0.945	 	15	74	28	25	 
+2013	11320	412	Methodist	-	Totals	-	-	-	-	1,220	499	91	0.950	 	14	47	24	56	 
+2013	11320	412	Methodist	-	Opponent Totals	-	-	-	-	1,213	533	88	0.952	6	10	66	17	46	 
+2013	11320	420	Middlebury	-	Totals	-	-	-	-	723	295	77	0.930	 	6	57	10	57	 
+2013	11320	420	Middlebury	-	Opponent Totals	-	-	-	-	734	299	61	0.944	 	1	34	12	39	 
+2013	11320	424	Millikin	-	Totals	-	-	-	-	852	396	63	0.952	 	4	40	19	27	 
+2013	11320	424	Millikin	-	Opponent Totals	-	-	-	-	863	363	59	0.954	 	4	17	6	25	 
+2013	11320	426	Millsaps	-	Totals	-	-	-	-	1,350	569	95	0.953	4	9	68	23	73	 
+2013	11320	426	Millsaps	-	Opponent Totals	-	-	-	-	1,306	544	108	0.945	 	11	99	31	54	 
+2013	11320	1226	Minn.-Morris	-	Totals	-	-	-	-	563	199	54	0.934	 	6	45	12	18	 
+2013	11320	1226	Minn.-Morris	-	Opponent Totals	-	-	-	-	582	258	63	0.930	1	3	27	10	15	 
+2013	11320	16142	Misericordia	-	Totals	-	-	-	-	1,244	521	70	0.962	 	12	40	18	33	 
+2013	11320	16142	Misericordia	-	Opponent Totals	-	-	-	-	1,199	506	99	0.945	 	18	97	28	36	 
+2013	11320	429	Mississippi Col.	-	Totals	-	-	-	-	972	437	51	0.965	 	8	53	13	29	 
+2013	11320	429	Mississippi Col.	-	Opponent Totals	-	-	-	-	967	445	62	0.958	 	13	56	16	32	 
+2013	11320	30042	Mitchell	-	Totals	-	-	-	-	904	385	80	0.942	1	17	62	16	59	 
+2013	11320	30042	Mitchell	-	Opponent Totals	-	-	-	-	894	406	96	0.931	 	9	103	23	37	 
+2013	11320	438	Monmouth (IL)	-	Totals	-	-	-	-	707	263	60	0.942	1	11	38	21	21	 
+2013	11320	438	Monmouth (IL)	-	Opponent Totals	-	-	-	-	731	323	63	0.944	1	8	13	3	32	 
+2013	11320	442	Montclair St.	-	Totals	-	-	-	-	978	450	62	0.958	 	5	41	11	43	 
+2013	11320	442	Montclair St.	-	Opponent Totals	-	-	-	-	990	393	64	0.956	1	5	23	12	43	 
+2013	11320	443	Moravian	-	Totals	-	-	-	-	1,077	469	80	0.951	 	7	40	19	23	 
+2013	11320	443	Moravian	-	Opponent Totals	-	-	-	-	1,071	513	103	0.939	 	13	75	21	32	 
+2013	11320	30036	Mount Aloysius	-	Totals	-	-	-	-	915	403	53	0.961	 	12	48	10	31	 
+2013	11320	30036	Mount Aloysius	-	Opponent Totals	-	-	-	-	915	419	69	0.951	 	22	90	20	20	 
+2013	11320	452	Mount Union	-	Totals	-	-	-	-	959	399	54	0.962	 	10	58	18	45	 
+2013	11320	452	Mount Union	-	Opponent Totals	-	-	-	-	956	346	74	0.946	 	13	79	15	51	 
+2013	11320	8567	Mt. St. Joseph	-	Totals	-	-	-	-	941	392	80	0.943	3	11	61	14	27	 
+2013	11320	8567	Mt. St. Joseph	-	Opponent Totals	-	-	-	-	964	430	68	0.953	 	6	29	17	48	 
+2013	11320	1468	Mt. St. Mary (NY)	-	Totals	-	-	-	-	789	329	56	0.952	 	10	108	31	45	 
+2013	11320	1468	Mt. St. Mary (NY)	-	Opponent Totals	-	-	-	-	795	345	60	0.950	 	8	92	12	43	 
+2013	11320	451	Mt. St. Vincent	-	Totals	-	-	-	-	778	322	90	0.924	 	18	122	22	18	 
+2013	11320	451	Mt. St. Vincent	-	Opponent Totals	-	-	-	-	816	301	82	0.932	1	16	102	17	28	 
+2013	11320	453	Muhlenberg	-	Totals	-	-	-	-	1,026	436	91	0.941	3	15	74	21	48	 
+2013	11320	453	Muhlenberg	-	Opponent Totals	-	-	-	-	1,024	417	93	0.939	 	6	83	14	59	 
+2013	11320	455	Muskingum	-	Totals	-	-	-	-	898	379	90	0.934	 	8	56	18	20	 
+2013	11320	455	Muskingum	-	Opponent Totals	-	-	-	-	922	420	57	0.959	2	7	26	13	44	 
+2013	11320	491	N.C. Wesleyan	-	Totals	-	-	-	-	1,143	460	73	0.956	 	8	57	28	66	 
+2013	11320	491	N.C. Wesleyan	-	Opponent Totals	-	-	-	-	1,132	530	68	0.961	3	9	31	26	74	1
+2013	11320	462	Neb. Wesleyan	-	Totals	-	-	-	-	751	307	45	0.959	 	11	43	22	20	 
+2013	11320	462	Neb. Wesleyan	-	Opponent Totals	-	-	-	-	769	342	53	0.954	 	9	41	14	19	 
+2013	11320	1254	Neumann	-	Totals	-	-	-	-	1,090	464	66	0.959	2	4	80	19	41	 
+2013	11320	1254	Neumann	-	Opponent Totals	-	-	-	-	1,069	442	100	0.938	1	10	97	32	27	 
+2013	11320	467	New England Col.	-	Totals	-	-	-	-	589	269	75	0.920	1	9	61	8	35	 
+2013	11320	467	New England Col.	-	Opponent Totals	-	-	-	-	615	230	43	0.952	1	11	10	5	44	1
+2013	11320	319	New Jersey City	-	Totals	-	-	-	-	1,011	416	86	0.943	 	9	93	20	21	 
+2013	11320	319	New Jersey City	-	Opponent Totals	-	-	-	-	1,023	477	86	0.946	4	7	88	34	33	 
+2013	11320	21772	Newbury	-	Totals	-	-	-	-	800	319	62	0.948	1	18	86	16	15	 
+2013	11320	21772	Newbury	-	Opponent Totals	-	-	-	-	833	374	64	0.950	 	17	60	18	21	 
+2013	11320	484	Nichols	-	Totals	-	-	-	-	786	337	80	0.933	 	11	64	16	19	 
+2013	11320	484	Nichols	-	Opponent Totals	-	-	-	-	825	325	44	0.963	 	7	31	13	31	 
+2013	11320	492	North Central (IL)	-	Totals	-	-	-	-	913	383	59	0.956	 	8	28	10	25	 
+2013	11320	492	North Central (IL)	-	Opponent Totals	-	-	-	-	922	369	64	0.953	 	10	14	8	32	 
+2013	11320	30039	North Central (MN)	-	Totals	-	-	-	-	487	203	116	0.856	 	19	79	7	19	 
+2013	11320	30039	North Central (MN)	-	Opponent Totals	-	-	-	-	524	201	32	0.958	 	9	6	6	24	 
+2013	11320	496	North Park	-	Totals	-	-	-	-	1,107	500	69	0.959	 	12	46	13	47	 
+2013	11320	496	North Park	-	Opponent Totals	-	-	-	-	1,103	488	74	0.956	 	7	61	21	45	 
+2013	11320	1267	Northland	-	Totals	-	-	-	-	684	286	74	0.929	1	11	25	11	16	 
+2013	11320	1267	Northland	-	Opponent Totals	-	-	-	-	688	297	53	0.949	 	9	48	14	31	 
+2013	11320	30031	Northwestern-St. Paul	-	Totals	-	-	-	-	797	363	58	0.952	 	18	54	8	24	 
+2013	11320	30031	Northwestern-St. Paul	-	Opponent Totals	-	-	-	-	802	340	93	27.731	3	18	47	10	36	 
+2013	11320	511	Norwich	-	Totals	-	-	-	-	627	273	60	0.938	1	15	73	9	32	 
+2013	11320	511	Norwich	-	Opponent Totals	-	-	-	-	658	272	61	0.938	 	13	34	23	17	 
+2013	11320	515	Oberlin	-	Totals	-	-	-	-	1,012	418	78	0.948	 	8	54	24	43	 
+2013	11320	515	Oberlin	-	Opponent Totals	-	-	-	-	1,021	467	69	0.956	1	10	39	18	47	 
+2013	11320	516	Occidental	-	Totals	-	-	-	-	1,116	505	78	0.954	1	6	36	17	99	 
+2013	11320	516	Occidental	-	Opponent Totals	-	-	-	-	1,089	420	65	0.959	 	17	95	33	63	 
+2013	11320	2713	Oglethorpe	-	Totals	-	-	-	-	1,022	413	92	0.940	1	8	90	27	67	 
+2013	11320	2713	Oglethorpe	-	Opponent Totals	-	-	-	-	1,040	388	82	0.946	2	10	56	20	61	 
+2013	11320	517	Ohio Northern	-	Totals	-	-	-	-	926	346	67	0.950	 	12	56	16	28	1
+2013	11320	517	Ohio Northern	-	Opponent Totals	-	-	-	-	937	408	67	0.953	 	10	37	9	45	 
+2013	11320	520	Ohio Wesleyan	-	Totals	-	-	-	-	907	392	70	0.949	2	4	52	19	30	 
+2013	11320	520	Ohio Wesleyan	-	Opponent Totals	-	-	-	-	900	400	64	0.953	 	7	21	14	32	 
+2013	11320	524	Old Westbury	-	Totals	-	-	-	-	1,026	354	71	0.951	 	16	105	20	34	 
+2013	11320	524	Old Westbury	-	Opponent Totals	-	-	-	-	999	495	97	0.939	 	25	212	43	34	 
+2013	11320	525	Olivet	-	Totals	-	-	-	-	889	398	61	0.955	1	1	62	18	41	 
+2013	11320	525	Olivet	-	Opponent Totals	-	-	-	-	891	437	75	0.947	 	10	33	22	38	 
+2013	11320	530	Oswego St.	-	Totals	-	-	-	-	1,037	476	66	0.958	 	8	63	22	37	 
+2013	11320	530	Oswego St.	-	Opponent Totals	-	-	-	-	1,029	470	75	0.952	 	9	48	19	30	 
+2013	11320	531	Otterbein	-	Totals	-	-	-	-	1,006	416	67	0.955	 	10	40	19	26	 
+2013	11320	531	Otterbein	-	Opponent Totals	-	-	-	-	1,009	396	68	0.954	 	8	72	11	35	 
+2013	11320	23008	Ozarks (AR)	-	Totals	-	-	-	-	1,009	387	75	0.949	1	9	61	11	33	 
+2013	11320	23008	Ozarks (AR)	-	Opponent Totals	-	-	-	-	1,006	439	64	0.958	2	7	15	7	31	 
+2013	11320	2751	Pacific (OR)	-	Totals	-	-	-	-	1,049	479	64	0.960	2	8	53	20	51	 
+2013	11320	2751	Pacific (OR)	-	Opponent Totals	-	-	-	-	1,070	432	56	0.964	1	4	39	20	55	 
+2013	11320	1297	Pacific Lutheran	-	Totals	-	-	-	-	1,052	388	57	0.962	 	10	40	14	33	 
+2013	11320	1297	Pacific Lutheran	-	Opponent Totals	-	-	-	-	1,050	379	44	0.970	1	4	37	14	24	 
+2013	11320	30081	Penn St. Harrisburg	-	Totals	-	-	-	-	966	399	60	0.958	 	10	40	17	27	 
+2013	11320	30081	Penn St. Harrisburg	-	Opponent Totals	-	-	-	-	939	435	85	0.942	 	11	50	16	19	 
+2013	11320	30114	Penn St.-Abington	-	Totals	-	-	-	-	1,043	463	72	0.954	 	6	35	32	33	 
+2013	11320	30114	Penn St.-Abington	-	Opponent Totals	-	-	-	-	1,033	473	84	0.947	1	11	93	49	52	 
+2013	11320	25719	Penn St.-Altoona	-	Totals	-	-	-	-	850	389	75	0.943	 	10	78	27	40	 
+2013	11320	25719	Penn St.-Altoona	-	Opponent Totals	-	-	-	-	884	378	64	0.952	 	15	33	14	15	 
+2013	11320	538	Penn St.-Behrend	-	Totals	-	-	-	-	955	391	48	0.966	 	10	21	13	24	 
+2013	11320	538	Penn St.-Behrend	-	Opponent Totals	-	-	-	-	922	433	72	0.950	 	13	70	20	26	 
+2013	11320	30044	Penn St.-Berks	-	Totals	-	-	-	-	847	369	70	0.946	 	13	67	12	43	 
+2013	11320	30044	Penn St.-Berks	-	Opponent Totals	-	-	-	-	856	337	73	0.942	 	8	57	15	20	 
+2013	11320	21830	Piedmont	-	Totals	-	-	-	-	1,175	531	83	0.954	2	14	51	26	77	 
+2013	11320	21830	Piedmont	-	Opponent Totals	-	-	-	-	1,176	453	71	0.958	1	16	86	35	39	 
+2013	11320	1315	Pitt.-Bradford	-	Totals	-	-	-	-	763	322	67	0.942	 	10	63	21	19	 
+2013	11320	1315	Pitt.-Bradford	-	Opponent Totals	-	-	-	-	768	282	58	0.948	1	9	33	13	29	 
+2013	11320	11839	Pitt.-Greensburg	-	Totals	-	-	-	-	897	429	68	0.951	 	8	53	18	19	 
+2013	11320	11839	Pitt.-Greensburg	-	Opponent Totals	-	-	-	-	901	371	84	0.938	 	4	70	22	20	 
+2013	11320	547	Plattsburgh St.	-	Totals	-	-	-	-	885	377	63	0.952	1	12	51	22	28	 
+2013	11320	547	Plattsburgh St.	-	Opponent Totals	-	-	-	-	893	412	58	0.957	2	9	38	25	19	 
+2013	11320	548	Plymouth St.	-	Totals	-	-	-	-	927	415	58	0.959	 	14	49	22	51	 
+2013	11320	548	Plymouth St.	-	Opponent Totals	-	-	-	-	938	411	51	0.964	 	16	38	14	48	 
+2013	11320	481	Polytechnic (NY)	-	Totals	-	-	-	-	494	200	111	0.862	2	19	136	7	15	 
+2013	11320	481	Polytechnic (NY)	-	Opponent Totals	-	-	-	-	539	191	43	0.944	1	7	12	13	14	 
+2013	11320	549	Pomona-Pitzer	-	Totals	-	-	-	-	1,160	491	89	0.949	2	12	55	15	75	 
+2013	11320	549	Pomona-Pitzer	-	Opponent Totals	-	-	-	-	1,138	428	91	0.945	 	12	40	10	63	 
+2013	11320	30034	Presentation	-	Totals	-	-	-	-	529	200	49	0.937	 	4	29	13	24	 
+2013	11320	30034	Presentation	-	Opponent Totals	-	-	-	-	551	217	42	22.878	 	6	11	3	28	 
+2013	11320	555	Principia	-	Totals	-	-	-	-	625	233	105	0.891	 	27	85	8	12	 
+2013	11320	555	Principia	-	Opponent Totals	-	-	-	-	664	227	44	0.953	1	8	37	8	14	 
+2013	11320	557	Puget Sound	-	Totals	-	-	-	-	1,055	435	71	0.955	 	2	42	15	29	 
+2013	11320	557	Puget Sound	-	Opponent Totals	-	-	-	-	1,072	446	71	0.955	 	11	32	14	38	 
+2013	11320	30029	Purchase	-	Totals	-	-	-	-	948	442	61	0.958	 	9	69	19	43	 
+2013	11320	30029	Purchase	-	Opponent Totals	-	-	-	-	955	378	87	0.939	 	12	131	28	20	 
+2013	11320	564	Ramapo	-	Totals	-	-	-	-	1,249	506	86	0.953	4	11	72	25	44	 
+2013	11320	564	Ramapo	-	Opponent Totals	-	-	-	-	1,233	531	78	0.958	 	17	62	15	31	 
+2013	11320	565	Randolph-Macon	-	Totals	-	-	-	-	1,145	451	77	0.954	1	6	47	11	62	 
+2013	11320	565	Randolph-Macon	-	Opponent Totals	-	-	-	-	1,141	458	56	0.966	1	8	38	16	38	 
+2013	11320	567	Redlands	-	Totals	-	-	-	-	1,056	447	71	0.955	 	21	57	13	44	 
+2013	11320	567	Redlands	-	Opponent Totals	-	-	-	-	1,041	422	70	0.954	 	11	48	23	44	1
+2013	11320	570	Rensselaer	-	Totals	-	-	-	-	1,113	522	72	0.958	 	13	61	26	26	 
+2013	11320	570	Rensselaer	-	Opponent Totals	-	-	-	-	1,096	489	81	0.951	 	13	81	20	31	 
+2013	11320	571	Rhode Island Col.	-	Totals	-	-	-	-	879	356	75	0.943	 	10	69	19	31	 
+2013	11320	571	Rhode Island Col.	-	Opponent Totals	-	-	-	-	898	376	55	0.959	 	10	34	6	27	 
+2013	11320	573	Rhodes	-	Totals	-	-	-	-	1,078	469	67	0.958	 	26	96	16	35	 
+2013	11320	573	Rhodes	-	Opponent Totals	-	-	-	-	1,066	405	62	0.960	1	26	83	17	50	 
+2013	11320	681	Richard Stockton	-	Totals	-	-	-	-	1,063	425	68	0.956	1	5	56	21	21	1
+2013	11320	681	Richard Stockton	-	Opponent Totals	-	-	-	-	1,052	507	86	0.948	 	13	82	12	34	 
+2013	11320	577	Ripon	-	Totals	-	-	-	-	1,020	414	48	0.968	 	8	33	20	38	 
+2013	11320	577	Ripon	-	Opponent Totals	-	-	-	-	1,024	466	94	0.941	 	11	32	12	41	 
+2013	11320	18422	Rivier	-	Totals	-	-	-	-	800	261	87	0.924	 	17	91	15	10	 
+2013	11320	18422	Rivier	-	Opponent Totals	-	-	-	-	834	353	45	0.963	 	7	37	10	34	 
+2013	11320	578	Roanoke	-	Totals	-	-	-	-	991	455	84	0.945	 	24	53	17	42	 
+2013	11320	578	Roanoke	-	Opponent Totals	-	-	-	-	988	414	82	0.945	 	13	39	12	22	 
+2013	11320	581	Rochester (NY)	-	Totals	-	-	-	-	994	441	47	0.968	1	3	39	30	33	 
+2013	11320	581	Rochester (NY)	-	Opponent Totals	-	-	-	-	997	510	67	0.957	 	6	71	25	47	 
+2013	11320	580	Rochester Inst.	-	Totals	-	-	-	-	927	433	59	0.958	 	4	75	12	37	 
+2013	11320	580	Rochester Inst.	-	Opponent Totals	-	-	-	-	938	465	58	0.960	 	6	51	16	32	 
+2013	11320	582	Rockford	-	Totals	-	-	-	-	1,033	473	90	0.944	 	9	33	19	34	 
+2013	11320	582	Rockford	-	Opponent Totals	-	-	-	-	1,048	415	86	0.944	2	11	57	14	34	 
+2013	11320	583	Roger Williams	-	Totals	-	-	-	-	930	406	50	0.964	 	8	48	18	29	 
+2013	11320	583	Roger Williams	-	Opponent Totals	-	-	-	-	923	412	80	0.943	 	12	77	19	32	 
+2013	11320	585	Rose-Hulman	-	Totals	-	-	-	-	986	474	68	0.955	3	8	42	11	53	 
+2013	11320	585	Rose-Hulman	-	Opponent Totals	-	-	-	-	992	434	55	0.963	 	10	21	13	50	 
+2013	11320	259	Rowan	-	Totals	-	-	-	-	1,218	538	69	0.962	 	14	58	10	43	 
+2013	11320	259	Rowan	-	Opponent Totals	-	-	-	-	1,191	505	100	0.944	 	15	72	19	37	 
+2013	11320	586	Rust	-	Totals	-	-	-	-	236	67	63	0.828	 	4	43	 	11	 
+2013	11320	586	Rust	-	Opponent Totals	-	-	-	-	264	94	20	0.947	 	3	10	1	2	 
+2013	11320	588	Rutgers-Camden	-	Totals	-	-	-	-	1,074	421	93	0.941	 	11	65	21	51	 
+2013	11320	588	Rutgers-Camden	-	Opponent Totals	-	-	-	-	1,068	443	72	0.955	1	12	81	23	70	 
+2013	11320	589	Rutgers-Newark	-	Totals	-	-	-	-	1,040	442	73	0.953	 	13	76	22	33	 
+2013	11320	589	Rutgers-Newark	-	Opponent Totals	-	-	-	-	1,085	442	62	0.961	 	14	32	10	50	 
+2013	11320	168	SUNY Cortland	-	Totals	-	-	-	-	1,224	542	44	0.976	3	16	35	26	34	 
+2013	11320	168	SUNY Cortland	-	Opponent Totals	-	-	-	-	1,185	479	94	0.947	 	21	85	36	43	 
+2013	11320	478	SUNY Maritime	-	Totals	-	-	-	-	858	334	97	0.925	 	12	89	26	19	 
+2013	11320	478	SUNY Maritime	-	Opponent Totals	-	-	-	-	853	347	88	0.932	 	12	58	21	34	 
+2013	11320	475	SUNY New Paltz	-	Totals	-	-	-	-	851	351	39	0.969	 	11	44	24	25	 
+2013	11320	475	SUNY New Paltz	-	Opponent Totals	-	-	-	-	855	432	40	0.970	 	5	48	18	36	 
+2013	11320	526	SUNY Oneonta	-	Totals	-	-	-	-	877	406	71	0.948	1	7	78	16	24	 
+2013	11320	526	SUNY Oneonta	-	Opponent Totals	-	-	-	-	912	372	56	0.958	1	12	51	21	24	 
+2013	11320	9500	SUNY Poly	-	Totals	-	-	-	-	754	308	78	0.932	 	9	47	28	39	 
+2013	11320	9500	SUNY Poly	-	Opponent Totals	-	-	-	-	767	326	64	0.945	 	14	60	15	61	 
+2013	11320	602	Saint John's (MN)	-	Totals	-	-	-	-	746	343	54	0.953	 	6	35	10	27	1
+2013	11320	602	Saint John's (MN)	-	Opponent Totals	-	-	-	-	743	290	46	0.957	 	2	41	4	22	 
+2013	11320	612	Saint Mary's (MN)	-	Totals	-	-	-	-	818	364	46	0.963	 	4	30	11	31	 
+2013	11320	612	Saint Mary's (MN)	-	Opponent Totals	-	-	-	-	816	371	56	0.955	 	4	59	19	25	 
+2013	11320	30064	Saint Vincent	-	Totals	-	-	-	-	921	416	59	0.958	 	8	41	16	32	 
+2013	11320	30064	Saint Vincent	-	Opponent Totals	-	-	-	-	929	392	65	0.953	 	9	33	21	53	1
+2013	11320	621	Salem St.	-	Totals	-	-	-	-	949	410	42	0.970	3	13	54	11	34	 
+2013	11320	621	Salem St.	-	Opponent Totals	-	-	-	-	935	428	54	0.962	3	12	72	18	26	 
+2013	11320	622	Salisbury	-	Totals	-	-	-	-	1,033	491	50	0.968	 	7	37	14	51	 
+2013	11320	622	Salisbury	-	Opponent Totals	-	-	-	-	976	416	77	0.948	 	7	64	13	29	 
+2013	11320	623	Salve Regina	-	Totals	-	-	-	-	940	375	84	0.940	 	7	53	16	25	 
+2013	11320	623	Salve Regina	-	Opponent Totals	-	-	-	-	915	422	88	0.938	 	16	96	18	29	 
+2013	11320	1355	Schreiner	-	Totals	-	-	-	-	960	384	66	0.953	 	20	74	10	28	 
+2013	11320	1355	Schreiner	-	Opponent Totals	-	-	-	-	990	414	71	0.952	 	5	17	8	37	 
+2013	11320	633	Scranton	-	Totals	-	-	-	-	1,011	446	72	0.953	 	11	63	11	24	 
+2013	11320	633	Scranton	-	Opponent Totals	-	-	-	-	1,021	440	88	0.943	 	10	48	14	39	 
+2013	11320	652	Sewanee	-	Totals	-	-	-	-	816	351	70	0.943	2	17	84	15	39	 
+2013	11320	652	Sewanee	-	Opponent Totals	-	-	-	-	827	372	73	0.943	 	4	48	14	60	 
+2013	11320	637	Shenandoah	-	Totals	-	-	-	-	984	418	58	0.960	1	7	29	17	39	 
+2013	11320	637	Shenandoah	-	Opponent Totals	-	-	-	-	954	409	87	0.940	 	18	50	24	23	 
+2013	11320	641	Simpson	-	Totals	-	-	-	-	990	455	56	0.963	 	13	52	19	70	 
+2013	11320	641	Simpson	-	Opponent Totals	-	-	-	-	1,000	427	61	0.959	 	9	28	19	58	 
+2013	11320	642	Skidmore	-	Totals	-	-	-	-	890	375	67	0.950	 	9	92	14	30	 
+2013	11320	642	Skidmore	-	Opponent Totals	-	-	-	-	902	404	62	0.955	 	8	66	24	36	 
+2013	11320	662	Southern Me.	-	Totals	-	-	-	-	1,473	660	81	0.963	1	5	30	21	62	 
+2013	11320	662	Southern Me.	-	Opponent Totals	-	-	-	-	1,428	616	114	0.947	1	13	138	34	52	 
+2013	11320	1379	Southern Vt.	-	Totals	-	-	-	-	798	348	63	0.948	1	9	71	25	31	 
+2013	11320	1379	Southern Vt.	-	Opponent Totals	-	-	-	-	823	343	55	0.955	1	13	87	17	36	 
+2013	11320	8746	Southwestern (TX)	-	Totals	-	-	-	-	975	369	128	0.913	3	27	118	27	27	 
+2013	11320	8746	Southwestern (TX)	-	Opponent Totals	-	-	-	-	1,014	385	69	30.645	2	12	75	25	23	 
+2013	11320	23260	Spalding	-	Totals	-	-	-	-	1,101	462	66	0.959	1	23	28	23	47	 
+2013	11320	23260	Spalding	-	Opponent Totals	-	-	-	-	1,084	430	123	0.925	 	30	121	26	26	 
+2013	11320	673	Springfield	-	Totals	-	-	-	-	786	364	50	0.958	 	7	41	20	33	 
+2013	11320	673	Springfield	-	Opponent Totals	-	-	-	-	791	323	61	0.948	2	11	31	6	27	 
+2013	11320	601	St. John Fisher	-	Totals	-	-	-	-	990	385	57	0.960	 	5	56	12	40	 
+2013	11320	601	St. John Fisher	-	Opponent Totals	-	-	-	-	959	375	81	0.943	 	9	72	34	22	 
+2013	11320	30072	St. Joseph's (Brkln)	-	Totals	-	-	-	-	774	338	64	0.946	 	7	40	30	22	 
+2013	11320	30072	St. Joseph's (Brkln)	-	Opponent Totals	-	-	-	-	786	339	100	0.918	1	6	64	10	41	 
+2013	11320	1340	St. Joseph's (L.I.)	-	Totals	-	-	-	-	947	411	63	0.956	 	12	84	17	27	 
+2013	11320	1340	St. Joseph's (L.I.)	-	Opponent Totals	-	-	-	-	932	431	52	0.963	 	5	49	19	32	 
+2013	11320	605	St. Joseph's (ME)	-	Totals	-	-	-	-	1,051	449	76	0.952	3	14	39	18	62	 
+2013	11320	605	St. Joseph's (ME)	-	Opponent Totals	-	-	-	-	1,028	442	76	0.951	2	25	33	13	52	 
+2013	11320	607	St. Lawrence	-	Totals	-	-	-	-	883	433	42	0.969	 	2	56	16	42	 
+2013	11320	607	St. Lawrence	-	Opponent Totals	-	-	-	-	884	373	43	0.967	5	7	52	10	35	 
+2013	11320	611	St. Mary's (MD)	-	Totals	-	-	-	-	853	356	57	0.955	1	10	64	19	23	 
+2013	11320	611	St. Mary's (MD)	-	Opponent Totals	-	-	-	-	870	397	47	0.964	 	5	22	6	49	 
+2013	11320	614	St. Norbert	-	Totals	-	-	-	-	991	433	61	0.959	 	7	21	8	32	 
+2013	11320	614	St. Norbert	-	Opponent Totals	-	-	-	-	979	391	79	37.869	 	12	111	16	26	 
+2013	11320	615	St. Olaf	-	Totals	-	-	-	-	718	303	54	0.950	 	4	26	6	35	 
+2013	11320	615	St. Olaf	-	Opponent Totals	-	-	-	-	717	286	52	0.951	 	9	35	5	23	 
+2013	11320	618	St. Scholastica	-	Totals	-	-	-	-	956	432	61	0.958	 	6	18	20	64	 
+2013	11320	618	St. Scholastica	-	Opponent Totals	-	-	-	-	930	379	100	0.929	 	33	76	17	31	 
+2013	11320	620	St. Thomas (MN)	-	Totals	-	-	-	-	896	348	31	0.976	 	8	13	11	32	 
+2013	11320	620	St. Thomas (MN)	-	Opponent Totals	-	-	-	-	857	334	69	0.945	1	3	65	18	25	 
+2013	11320	675	Staten Island	-	Totals	-	-	-	-	936	385	61	0.956	1	12	103	23	44	 
+2013	11320	675	Staten Island	-	Opponent Totals	-	-	-	-	901	404	94	0.933	 	11	192	43	24	 
+2013	11320	679	Stevens	-	Totals	-	-	-	-	977	429	38	0.974	 	6	61	23	41	 
+2013	11320	679	Stevens	-	Opponent Totals	-	-	-	-	964	409	65	0.955	 	16	94	28	25	 
+2013	11320	21852	Stevenson	-	Totals	-	-	-	-	1,021	458	81	0.948	2	5	35	18	39	 
+2013	11320	21852	Stevenson	-	Opponent Totals	-	-	-	-	1,002	484	102	0.936	 	10	60	21	38	 
+2013	11320	684	Suffolk	-	Totals	-	-	-	-	1,013	447	72	0.953	 	14	53	14	59	 
+2013	11320	684	Suffolk	-	Opponent Totals	-	-	-	-	987	404	75	0.949	 	21	61	17	43	 
+2013	11320	1390	Sul Ross St.	-	Totals	-	-	-	-	837	352	63	0.950	1	4	52	17	27	 
+2013	11320	1390	Sul Ross St.	-	Opponent Totals	-	-	-	-	879	360	63	0.952	1	15	29	10	22	 
+2013	11320	685	Susquehanna	-	Totals	-	-	-	-	893	397	84	0.939	 	17	66	24	31	 
+2013	11320	685	Susquehanna	-	Opponent Totals	-	-	-	-	916	385	73	0.947	 	11	62	18	25	 
+2013	11320	686	Swarthmore	-	Totals	-	-	-	-	953	428	79	0.946	2	4	45	26	42	 
+2013	11320	686	Swarthmore	-	Opponent Totals	-	-	-	-	936	403	66	0.953	 	11	59	23	65	 
+2013	11320	712	TCNJ	-	Totals	-	-	-	-	1,016	470	87	0.945	4	9	55	10	22	 
+2013	11320	712	TCNJ	-	Opponent Totals	-	-	-	-	1,016	442	86	0.944	 	12	65	14	27	 
+2013	11320	1400	Texas Lutheran	-	Totals	-	-	-	-	1,197	463	45	0.974	 	7	38	28	38	 
+2013	11320	1400	Texas Lutheran	-	Opponent Totals	-	-	-	-	1,166	496	76	0.956	1	11	96	16	39	 
+2013	11320	23121	Texas-Dallas	-	Totals	-	-	-	-	1,035	431	62	0.959	1	8	78	15	30	 
+2013	11320	23121	Texas-Dallas	-	Opponent Totals	-	-	-	-	1,036	402	51	0.966	 	11	35	18	32	 
+2013	11320	30028	Texas-Tyler	-	Totals	-	-	-	-	1,191	494	38	0.978	1	6	28	8	41	 
+2013	11320	30028	Texas-Tyler	-	Opponent Totals	-	-	-	-	1,141	439	66	0.960	 	14	60	17	27	 
+2013	11320	707	Thiel	-	Totals	-	-	-	-	1,026	441	84	0.946	 	8	29	26	35	 
+2013	11320	707	Thiel	-	Opponent Totals	-	-	-	-	1,011	414	86	0.943	 	12	51	6	50	 
+2013	11320	2758	Thomas (ME)	-	Totals	-	-	-	-	868	347	63	0.951	1	23	60	25	56	 
+2013	11320	2758	Thomas (ME)	-	Opponent Totals	-	-	-	-	885	379	74	0.945	 	25	30	14	61	 
+2013	11320	1402	Thomas More	-	Totals	-	-	-	-	1,175	510	70	0.960	 	3	54	17	47	 
+2013	11320	1402	Thomas More	-	Opponent Totals	-	-	-	-	1,163	474	81	0.953	 	20	31	13	43	 
+2013	11320	28749	Transylvania	-	Totals	-	-	-	-	1,011	446	69	0.955	 	12	38	23	44	 
+2013	11320	28749	Transylvania	-	Opponent Totals	-	-	-	-	1,017	453	68	0.956	 	13	56	11	45	 
+2013	11320	30037	Trine	-	Totals	-	-	-	-	989	424	82	0.945	1	8	39	13	18	 
+2013	11320	30037	Trine	-	Opponent Totals	-	-	-	-	981	471	101	0.935	1	11	57	15	18	 
+2013	11320	713	Trinity (CT)	-	Totals	-	-	-	-	951	407	77	0.946	1	13	55	23	53	 
+2013	11320	713	Trinity (CT)	-	Opponent Totals	-	-	-	-	944	363	69	0.950	1	17	74	14	40	 
+2013	11320	715	Trinity (TX)	-	Totals	-	-	-	-	1,268	532	70	0.963	1	10	50	32	52	 
+2013	11320	715	Trinity (TX)	-	Opponent Totals	-	-	-	-	1,216	515	98	0.946	 	15	85	23	48	 
+2013	11320	717	Tufts	-	Totals	-	-	-	-	832	394	43	0.966	2	7	37	26	25	 
+2013	11320	717	Tufts	-	Opponent Totals	-	-	-	-	820	368	57	0.954	2	6	48	19	40	1
+2013	11320	401	UMass Boston	-	Totals	-	-	-	-	1,017	428	100	0.935	1	16	61	16	37	 
+2013	11320	401	UMass Boston	-	Opponent Totals	-	-	-	-	1,026	408	56	0.962	 	18	82	23	34	 
+2013	11320	656	UMass Dartmouth	-	Totals	-	-	-	-	995	402	66	0.955	2	11	69	17	42	1
+2013	11320	656	UMass Dartmouth	-	Opponent Totals	-	-	-	-	1,012	383	76	0.948	2	19	42	11	33	1
+2013	11320	727	Union (NY)	-	Totals	-	-	-	-	936	394	65	0.953	 	7	58	16	19	 
+2013	11320	727	Union (NY)	-	Opponent Totals	-	-	-	-	918	433	84	0.941	 	10	94	22	23	 
+2013	11320	730	Ursinus	-	Totals	-	-	-	-	876	386	64	0.952	 	8	60	17	37	 
+2013	11320	730	Ursinus	-	Opponent Totals	-	-	-	-	909	385	43	0.968	 	4	21	21	41	 
+2013	11320	733	Utica	-	Totals	-	-	-	-	728	305	78	0.930	 	14	57	24	27	 
+2013	11320	733	Utica	-	Opponent Totals	-	-	-	-	761	308	53	32.496	2	12	51	17	22	 
+2013	11320	745	Va. Wesleyan	-	Totals	-	-	-	-	867	349	56	0.956	 	1	42	17	22	 
+2013	11320	745	Va. Wesleyan	-	Opponent Totals	-	-	-	-	882	376	42	0.968	 	4	60	19	23	 
+2013	11320	737	Vassar	-	Totals	-	-	-	-	954	489	58	0.961	3	13	53	22	40	 
+2013	11320	737	Vassar	-	Opponent Totals	-	-	-	-	956	352	36	0.973	 	9	48	9	23	 
+2013	11320	808	WPI	-	Totals	-	-	-	-	867	379	85	0.936	 	7	50	33	31	 
+2013	11320	808	WPI	-	Opponent Totals	-	-	-	-	877	351	62	0.952	 	10	35	14	32	 
+2013	11320	747	Wabash	-	Totals	-	-	-	-	920	371	76	0.944	 	3	50	19	35	 
+2013	11320	747	Wabash	-	Opponent Totals	-	-	-	-	934	409	58	0.959	2	9	80	29	38	1
+2013	11320	750	Wartburg	-	Totals	-	-	-	-	1,106	493	62	0.963	 	9	36	19	34	 
+2013	11320	750	Wartburg	-	Opponent Totals	-	-	-	-	1,069	515	97	0.942	 	11	41	16	36	 
+2013	11320	751	Wash. & Jeff.	-	Totals	-	-	-	-	1,134	474	68	0.959	 	5	32	12	65	 
+2013	11320	751	Wash. & Jeff.	-	Opponent Totals	-	-	-	-	1,108	525	94	0.946	 	7	63	36	46	 
+2013	11320	752	Wash. & Lee	-	Totals	-	-	-	-	916	430	53	0.962	 	11	54	7	43	 
+2013	11320	752	Wash. & Lee	-	Opponent Totals	-	-	-	-	894	331	66	0.949	3	9	30	10	26	 
+2013	11320	753	Washington Col.	-	Totals	-	-	-	-	1,011	396	90	0.940	 	5	64	15	26	 
+2013	11320	753	Washington Col.	-	Opponent Totals	-	-	-	-	1,028	421	79	0.948	3	12	101	35	35	 
+2013	11320	755	Washington-St. Louis	-	Totals	-	-	-	-	1,003	405	62	0.958	 	16	41	16	41	 
+2013	11320	755	Washington-St. Louis	-	Opponent Totals	-	-	-	-	979	433	60	0.959	 	15	85	12	35	1
+2013	11320	1434	Waynesburg	-	Totals	-	-	-	-	906	372	59	0.956	 	17	39	12	26	 
+2013	11320	1434	Waynesburg	-	Opponent Totals	-	-	-	-	902	395	64	0.953	1	9	60	14	27	 
+2013	11320	759	Webster	-	Totals	-	-	-	-	1,250	503	87	0.953	 	9	30	9	46	 
+2013	11320	759	Webster	-	Opponent Totals	-	-	-	-	1,212	533	104	0.944	 	24	139	41	42	 
+2013	11320	762	Wentworth	-	Totals	-	-	-	-	702	279	43	0.958	1	7	42	10	20	 
+2013	11320	762	Wentworth	-	Opponent Totals	-	-	-	-	714	299	68	0.937	 	8	34	12	18	 
+2013	11320	763	Wesley	-	Totals	-	-	-	-	967	436	51	0.965	 	5	42	11	33	 
+2013	11320	763	Wesley	-	Opponent Totals	-	-	-	-	972	370	56	0.960	 	5	62	13	34	 
+2013	11320	764	Wesleyan (CT)	-	Totals	-	-	-	-	1,039	482	77	0.952	1	9	51	32	60	 
+2013	11320	764	Wesleyan (CT)	-	Opponent Totals	-	-	-	-	1,026	460	101	0.936	 	5	58	15	50	 
+2013	11320	770	Western Conn. St.	-	Totals	-	-	-	-	958	379	74	0.948	1	11	88	18	33	 
+2013	11320	770	Western Conn. St.	-	Opponent Totals	-	-	-	-	971	402	66	0.954	 	8	49	11	36	 
+2013	11320	775	Western New Eng.	-	Totals	-	-	-	-	1,197	585	66	0.964	 	6	45	23	36	 
+2013	11320	775	Western New Eng.	-	Opponent Totals	-	-	-	-	1,158	518	83	0.953	4	9	63	12	51	 
+2013	11320	777	Westfield St.	-	Totals	-	-	-	-	915	443	76	0.947	 	21	71	19	21	 
+2013	11320	777	Westfield St.	-	Opponent Totals	-	-	-	-	898	372	85	0.937	 	14	46	21	38	 
+2013	11320	1450	Westminster (MO)	-	Totals	-	-	-	-	807	312	53	0.955	1	23	47	18	31	 
+2013	11320	1450	Westminster (MO)	-	Opponent Totals	-	-	-	-	785	329	56	0.952	2	17	40	14	59	 
+2013	11320	1451	Westminster (PA)	-	Totals	-	-	-	-	840	386	75	0.942	1	17	49	19	34	 
+2013	11320	1451	Westminster (PA)	-	Opponent Totals	-	-	-	-	858	379	60	0.954	 	14	50	11	21	 
+2013	11320	778	Wheaton (IL)	-	Totals	-	-	-	-	1,040	481	43	0.973	 	10	44	12	36	 
+2013	11320	778	Wheaton (IL)	-	Opponent Totals	-	-	-	-	1,068	485	68	0.958	 	11	65	29	33	1
+2013	11320	779	Wheaton (MA)	-	Totals	-	-	-	-	1,144	522	46	0.973	 	7	35	11	46	 
+2013	11320	779	Wheaton (MA)	-	Opponent Totals	-	-	-	-	1,108	539	78	0.955	1	5	56	21	70	 
+2013	11320	780	Whitman	-	Totals	-	-	-	-	964	394	69	0.952	 	13	52	18	26	 
+2013	11320	780	Whitman	-	Opponent Totals	-	-	-	-	991	390	51	0.964	1	8	48	14	28	 
+2013	11320	781	Whittier	-	Totals	-	-	-	-	956	382	61	0.956	 	4	20	15	34	1
+2013	11320	781	Whittier	-	Opponent Totals	-	-	-	-	961	386	62	0.956	 	11	46	13	32	 
+2013	11320	1454	Whitworth	-	Totals	-	-	-	-	1,065	438	82	0.948	 	11	62	12	42	 
+2013	11320	1454	Whitworth	-	Opponent Totals	-	-	-	-	1,085	490	70	0.957	 	9	40	34	40	 
+2013	11320	783	Widener	-	Totals	-	-	-	-	975	435	81	0.946	 	7	26	20	35	 
+2013	11320	783	Widener	-	Opponent Totals	-	-	-	-	986	455	78	0.949	 	11	59	22	29	 
+2013	11320	784	Wilkes	-	Totals	-	-	-	-	830	337	55	0.955	 	11	64	15	23	 
+2013	11320	784	Wilkes	-	Opponent Totals	-	-	-	-	821	336	61	0.950	 	9	39	14	21	 
+2013	11320	785	Willamette	-	Totals	-	-	-	-	1,065	435	72	0.954	 	7	58	11	33	 
+2013	11320	785	Willamette	-	Opponent Totals	-	-	-	-	1,074	441	64	0.959	 	7	66	23	27	 
+2013	11320	789	Williams	-	Totals	-	-	-	-	928	422	79	0.945	 	4	98	13	28	 
+2013	11320	789	Williams	-	Opponent Totals	-	-	-	-	929	412	68	0.952	 	4	53	18	46	 
+2013	11320	1461	Wilmington (OH)	-	Totals	-	-	-	-	804	311	89	0.926	 	9	91	14	24	 
+2013	11320	1461	Wilmington (OH)	-	Opponent Totals	-	-	-	-	850	335	42	0.966	 	4	21	14	33	 
+2013	11320	8911	Wis. Lutheran	-	Totals	-	-	-	-	923	422	69	0.951	 	15	75	11	33	1
+2013	11320	8911	Wis. Lutheran	-	Opponent Totals	-	-	-	-	917	420	85	0.940	 	12	110	23	24	 
+2013	11320	795	Wis.-La Crosse	-	Totals	-	-	-	-	1,061	533	82	0.951	 	18	31	9	43	 
+2013	11320	795	Wis.-La Crosse	-	Opponent Totals	-	-	-	-	1,058	456	86	0.946	1	11	41	20	33	 
+2013	11320	798	Wis.-Oshkosh	-	Totals	-	-	-	-	885	408	83	0.940	 	3	39	11	73	 
+2013	11320	798	Wis.-Oshkosh	-	Opponent Totals	-	-	-	-	878	339	67	0.948	 	10	17	7	39	 
+2013	11320	800	Wis.-Platteville	-	Totals	-	-	-	-	996	445	64	0.957	 	15	62	19	37	 
+2013	11320	800	Wis.-Platteville	-	Opponent Totals	-	-	-	-	1,038	461	59	0.962	 	8	25	10	46	 
+2013	11320	802	Wis.-Stevens Point	-	Totals	-	-	-	-	1,359	601	72	0.965	 	10	26	22	50	 
+2013	11320	802	Wis.-Stevens Point	-	Opponent Totals	-	-	-	-	1,315	584	106	0.947	 	17	81	17	35	 
+2013	11320	803	Wis.-Stout	-	Totals	-	-	-	-	924	394	70	0.950	 	11	34	15	27	 
+2013	11320	803	Wis.-Stout	-	Opponent Totals	-	-	-	-	944	444	63	0.957	 	5	26	11	34	 
+2013	11320	804	Wis.-Superior	-	Totals	-	-	-	-	940	422	77	0.946	1	7	38	8	37	 
+2013	11320	804	Wis.-Superior	-	Opponent Totals	-	-	-	-	951	413	66	0.954	1	9	30	8	43	 
+2013	11320	805	Wis.-Whitewater	-	Totals	-	-	-	-	1,164	519	74	0.958	1	9	29	10	38	 
+2013	11320	805	Wis.-Whitewater	-	Opponent Totals	-	-	-	-	1,113	500	78	0.954	 	12	54	20	40	 
+2013	11320	806	Wittenberg	-	Totals	-	-	-	-	895	395	62	0.954	 	15	46	22	43	1
+2013	11320	806	Wittenberg	-	Opponent Totals	-	-	-	-	885	408	66	0.951	1	8	79	24	37	 
+2013	11320	787	Wm. Paterson	-	Totals	-	-	-	-	1,047	475	60	0.962	 	12	62	21	37	 
+2013	11320	787	Wm. Paterson	-	Opponent Totals	-	-	-	-	1,016	483	61	0.961	3	6	66	20	36	 
+2013	11320	807	Wooster	-	Totals	-	-	-	-	1,162	474	75	0.956	1	8	25	15	32	 
+2013	11320	807	Wooster	-	Opponent Totals	-	-	-	-	1,126	469	87	0.948	 	12	61	25	30	 
+2013	11320	809	Worcester St.	-	Totals	-	-	-	-	965	419	64	0.956	1	23	91	5	38	 
+2013	11320	809	Worcester St.	-	Opponent Totals	-	-	-	-	967	456	58	0.961	1	10	37	11	38	 
+2013	11320	814	Yeshiva	-	Totals	-	-	-	-	582	211	125	0.864	1	30	134	18	10	 
+2013	11320	814	Yeshiva	-	Opponent Totals	-	-	-	-	621	233	57	0.937	 	4	52	14	13	 
+2013	11320	815	York (PA)	-	Totals	-	-	-	-	1,066	454	78	0.951	 	8	42	21	36	 
+2013	11320	815	York (PA)	-	Opponent Totals	-	-	-	-	1,064	457	47	0.970	2	8	29	16	53	 
