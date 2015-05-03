@@ -11,6 +11,7 @@ create table ncaa_pbp.play_by_play (
 	opponent_score	      integer,
 	score		      text,
 	opponent_text	      text
+--	primary key (game_id, period_id, event_id)
 );
 
 --truncate table ncaa_pbp.play_by_play;

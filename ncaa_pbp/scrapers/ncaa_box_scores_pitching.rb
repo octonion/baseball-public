@@ -17,7 +17,7 @@ when 2014
   stat_id = 10461
 when 2013
   stat_id = 10121
-when 2013
+when 2012
   stat_id = 10083
 end
 
@@ -104,7 +104,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
         page = Nokogiri::HTML(agent.get(game_url).body)
       rescue
         sleep_time += sleep_increment
-#        print "sleep #{sleep_time} ... "
+        #print "sleep #{sleep_time} ... "
         sleep sleep_time
         tries += 1
         if (tries > retries)

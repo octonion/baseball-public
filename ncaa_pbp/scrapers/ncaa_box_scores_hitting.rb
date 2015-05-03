@@ -17,8 +17,8 @@ when 2014
   stat_id = 10460
 when 2013
   stat_id = 10120
-when 2013
-  stat_id = 10081
+when 2012
+  stat_id = 10082
 end
 
 class String

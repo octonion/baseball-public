@@ -1,1151 +1,2905 @@
 year,team_name,division_id,count
 2013,North Carolina,1,70
-2013,Mississippi St.,1,64
+2012,Oklahoma,1,65
 2013,Elon,1,64
+2012,South Carolina,1,64
+2013,Mississippi St.,1,64
+2012,Arkansas,1,63
+2012,Baylor,1,63
 2014,Texas Tech,1,63
+2012,Florida,1,63
+2012,Mississippi St.,1,63
 2013,LSU,1,63
+2012,Vanderbilt,1,63
 2014,Oklahoma St.,1,62
 2014,Louisville,1,62
-2014,Florida,1,61
-2013,Wichita St.,1,61
-2013,South Carolina,1,61
+2012,Austin Peay,1,61
 2013,Troy,1,61
+2012,Florida St.,1,61
+2013,South Carolina,1,61
+2014,Florida,1,61
 2013,Austin Peay,1,61
+2013,Wichita St.,1,61
 2013,Kansas St.,1,60
 2013,Florida St.,1,60
-2014,Vanderbilt,1,59
-2013,Georgia Tech,1,59
+2012,Texas A&M,1,60
+2012,Ohio St.,1,59
 2013,La.-Lafayette,1,59
-2014,Stetson,1,59
+2014,Vanderbilt,1,59
+2014,La.-Lafayette,1,59
 2013,South Ala.,1,59
 2014,Jacksonville St.,1,59
+2013,Georgia Tech,1,59
 2014,Dallas Baptist,1,59
 2013,Coastal Caro.,1,59
+2012,UCF,1,59
 2014,TCU,1,59
-2014,La.-Lafayette,1,59
-2013,UTSA,1,58
-2014,Campbell,1,58
-2013,Sacramento St.,1,58
+2014,Stetson,1,59
 2013,Southern Ill.,1,58
-2014,Oklahoma,1,58
-2014,Michigan,1,58
+2013,Sacramento St.,1,58
+2013,UTSA,1,58
 2013,Oklahoma,1,58
-2013,Houston,1,57
-2013,Dallas Baptist,1,57
-2013,Charlotte,1,57
+2014,Oklahoma,1,58
+2012,Western Ky.,1,58
+2014,Campbell,1,58
+2014,Michigan,1,58
 2014,Miami (FL),1,57
+2012,Oklahoma St.,1,57
+2012,La.-Monroe,1,57
+2013,Charlotte,1,57
+2012,Memphis,1,57
+2012,South Ala.,1,57
+2012,Missouri,1,57
 2013,Kennesaw St.,1,57
 2013,North Carolina St.,1,57
-2014,Kansas,1,56
+2013,Dallas Baptist,1,57
+2013,Houston,1,57
+2012,Tulane,1,56
+2014,Ga. Southern,1,56
+2014,Texas St.,1,56
 2013,Florida,1,56
+2014,LSU,1,56
+2014,Kansas,1,56
+2013,Virginia Tech,1,56
+2013,Texas St.,1,56
+2014,Florida St.,1,56
+2013,UCLA,1,56
+2013,Citadel,1,56
+2014,Nebraska,1,56
+2012,North Carolina St.,1,56
+2012,Pepperdine,1,56
+2014,Mississippi St.,1,56
 2014,McNeese St.,1,56
 2014,Col. of Charleston,1,56
-2013,Citadel,1,56
-2014,Texas St.,1,56
-2014,Mississippi St.,1,56
-2013,Virginia Tech,1,56
-2014,Ga. Southern,1,56
-2013,Texas St.,1,56
-2014,LSU,1,56
-2014,Florida St.,1,56
-2014,Nebraska,1,56
-2013,UCLA,1,56
-2014,South Carolina,1,55
+2013,Tennessee Tech,1,55
 2014,Arkansas,1,55
-2013,Auburn,1,55
 2014,Ohio St.,1,55
 2014,Alabama,1,55
-2013,Oklahoma St.,1,55
-2013,Tennessee Tech,1,55
-2014,Texas,1,55
+2012,Kentucky,1,55
+2014,South Carolina,1,55
+2012,High Point,1,55
+2012,Maryland,1,55
+2012,Kansas St.,1,55
 2014,Missouri St.,1,55
-2013,CSUN,1,54
-2013,Texas A&M,1,54
-2013,Mercer,1,54
-2014,Southeastern La.,1,54
-2014,Tennessee Tech,1,54
-2013,Vanderbilt,1,54
+2013,Oklahoma St.,1,55
+2014,Texas,1,55
+2012,Belmont,1,55
+2012,Kansas,1,55
+2012,Middle Tenn.,1,55
+2013,Auburn,1,55
 2013,Kansas,1,54
-2014,Southern Ind.,2,54
+2012,Col. of Charleston,1,54
+2013,Mercer,1,54
+2013,Texas A&M,1,54
+2012,Furman,1,54
+2013,Vanderbilt,1,54
+2014,Southeastern La.,1,54
+2012,Michigan St.,1,54
 2013,East Tenn. St.,1,54
-2013,Bakersfield,1,53
-2014,Georgia Tech,1,53
-2014,San Jose St.,1,53
+2013,CSUN,1,54
+2012,East Carolina,1,54
+2014,Tennessee Tech,1,54
+2014,Southern Ind.,2,54
 2014,Bakersfield,1,53
-2014,Southern Miss.,1,53
-2013,Eastern Ky.,1,53
-2013,UC Santa Barbara,1,53
-2013,Southern Miss.,1,53
-2014,Sacramento St.,1,53
-2013,Campbell,1,53
+2012,Nevada,1,53
+2014,Georgia Tech,1,53
+2012,Troy,1,53
+2012,Murray St.,1,53
+2012,Arkansas St.,1,53
+2013,Bakersfield,1,53
+2012,Georgia Tech,1,53
 2013,Louisville,1,53
 2013,East Carolina,1,53
+2012,Lipscomb,1,53
+2014,Sacramento St.,1,53
 2013,Oregon St.,1,53
-2013,Stetson,1,53
+2012,Coastal Caro.,1,53
 2013,Jacksonville St.,1,53
+2013,UC Santa Barbara,1,53
+2012,Valparaiso,1,53
+2013,Stetson,1,53
+2013,Eastern Ky.,1,53
 2014,Kentucky,1,53
-2014,UTSA,1,52
-2013,Ga. Southern,1,52
-2013,Alabama,1,52
+2014,Southern Miss.,1,53
+2012,Dayton,1,53
+2012,Central Mich.,1,53
+2014,San Jose St.,1,53
+2012,Nebraska,1,53
+2013,Campbell,1,53
+2013,Southern Miss.,1,53
+2012,Louisville,1,52
 2013,Furman,1,52
-2013,UC Davis,1,52
-2014,North Carolina,1,52
-2014,North Carolina St.,1,52
-2013,Lipscomb,1,52
-2013,Long Beach St.,1,52
-2014,Nicholls St.,1,52
-2014,Citadel,1,52
-2013,Arkansas,1,52
-2014,Southern Ill.,1,52
+2012,Charlotte,1,52
+2013,Alabama,1,52
 2014,Winthrop,1,52
+2014,Citadel,1,52
+2014,UTSA,1,52
+2013,Lipscomb,1,52
+2014,Nicholls St.,1,52
+2012,Sacramento St.,1,52
+2014,Southern Ill.,1,52
+2012,FGCU,1,52
+2013,Ga. Southern,1,52
+2012,Dallas Baptist,1,52
+2012,Indiana St.,1,52
 2013,FGCU,1,52
-2013,Tulane,1,52
 2014,East Carolina,1,52
-2013,Lamar,1,51
-2014,Stanford,1,51
-2014,Northern Ill.,1,51
-2014,Eastern Ill.,1,51
-2014,USC Upstate,1,51
-2013,Kentucky,1,51
-2013,Western Ky.,1,51
-2013,UC Irvine,1,51
-2014,Auburn,1,51
-2013,Memphis,1,51
-2014,Kansas St.,1,51
-2014,Baylor,1,51
-2014,Northwestern St.,1,51
-2013,Michigan,1,51
-2013,Oral Roberts,1,51
-2014,Rutgers,1,51
-2013,Tampa,2,51
+2013,UC Davis,1,52
+2013,Arkansas,1,52
+2012,Cal Poly,1,52
+2012,Texas Tech,1,52
+2014,North Carolina,1,52
+2012,UTSA,1,52
+2013,Long Beach St.,1,52
+2012,Southern Ill.,1,52
+2014,North Carolina St.,1,52
+2012,Alabama,1,52
+2013,Tulane,1,52
+2012,LSU,1,52
 2013,St. Mary's (CA),1,51
-2014,Michigan St.,1,51
-2013,Bryant,1,51
-2013,UCF,1,51
+2014,Northern Ill.,1,51
+2013,UC Irvine,1,51
+2012,Evansville,1,51
 2013,Miami (FL),1,51
-2013,Southeast Mo. St.,1,51
+2012,Southern Miss.,1,51
+2013,Michigan,1,51
+2014,Rutgers,1,51
+2014,Michigan St.,1,51
 2013,USC Upstate,1,51
-2013,Nebraska,1,50
-2013,Cal Poly,1,50
-2014,Pittsburgh,1,50
-2014,Murray St.,1,50
-2014,Wake Forest,1,50
-2014,Jacksonville,1,50
-2014,Radford,1,50
+2013,Western Ky.,1,51
+2013,Oral Roberts,1,51
+2014,Eastern Ill.,1,51
+2012,Wichita St.,1,51
+2013,Southeast Mo. St.,1,51
+2013,Lamar,1,51
+2012,Duke,1,51
+2014,USC Upstate,1,51
+2013,Memphis,1,51
+2014,Northwestern St.,1,51
+2014,Stanford,1,51
+2014,Auburn,1,51
+2013,Kentucky,1,51
+2013,UCF,1,51
+2013,Tampa,2,51
+2014,Baylor,1,51
+2012,Ga. Southern,1,51
+2013,Bryant,1,51
+2014,Kansas St.,1,51
+2012,USC Upstate,1,51
+2012,Butler,1,50
+2012,Tennessee Tech,1,50
 2013,Wofford,1,50
-2013,Middle Tenn.,1,50
-2014,Wofford,1,50
 2014,Appalachian St.,1,50
+2012,TCU,1,50
 2014,Memphis,1,50
-2013,UALR,1,50
+2012,SIUE,1,50
 2014,UC San Diego,2,50
-2014,Western Ky.,1,50
+2014,Wake Forest,1,50
 2014,Minnesota,1,50
-2014,Lamar,1,49
-2013,Col. of Charleston,1,49
-2013,San Jose St.,1,49
+2014,Wofford,1,50
+2013,Middle Tenn.,1,50
+2013,Nebraska,1,50
+2014,Jacksonville,1,50
+2013,Cal Poly,1,50
+2014,Radford,1,50
+2014,Western Ky.,1,50
+2014,Murray St.,1,50
+2012,Elon,1,50
+2012,Southeast Mo. St.,1,50
+2014,Pittsburgh,1,50
+2013,UALR,1,50
+2012,New Mexico,1,50
 2014,Coastal Caro.,1,49
-2014,Texas A&M,1,49
-2014,High Point,1,49
-2013,Youngstown St.,1,49
-2014,Nevada,1,49
-2013,Baylor,1,49
-2013,Murray St.,1,49
+2014,Lamar,1,49
 2014,Missouri,1,49
-2014,Evansville,1,49
+2012,Appalachian St.,1,49
+2013,Baylor,1,49
+2012,Fla. Atlantic,1,49
+2013,Youngstown St.,1,49
+2012,Northern Colo.,1,49
+2014,Texas A&M,1,49
+2013,Murray St.,1,49
+2014,High Point,1,49
+2014,Nevada,1,49
+2013,San Jose St.,1,49
+2012,Eastern Ky.,1,49
+2012,Virginia Tech,1,49
+2012,Tennessee,1,49
+2012,Wofford,1,49
 2014,Mercer,1,49
-2013,Northern Ky.,1,48
-2013,Indiana,1,48
-2014,Miami (OH),1,48
-2014,Indiana,1,48
-2013,Wright St.,1,48
+2013,Col. of Charleston,1,49
+2012,Michigan,1,49
+2012,Purdue,1,49
+2012,UALR,1,49
+2012,UNCW,1,49
+2014,Evansville,1,49
 2014,South Fla.,1,48
-2014,South Ala.,1,48
-2014,West Virginia,1,48
-2013,Wake Forest,1,48
-2014,Southeast Mo. St.,1,48
-2014,Illinois,1,48
-2013,Arkansas St.,1,48
-2014,Arkansas St.,1,48
-2014,Charlotte,1,48
-2013,Tennessee,1,48
-2014,Maryland,1,48
-2014,Oregon St.,1,48
-2013,Loyola Marymount,1,48
-2013,Notre Dame,1,48
-2014,Incarnate Word,1,48
-2014,Fresno Pacific,2,48
 2013,Louisiana Tech,1,48
-2013,West Virginia,1,48
-2014,Oral Roberts,1,48
+2014,Charlotte,1,48
+2014,Illinois,1,48
+2012,A&M-Corpus Chris,1,48
+2012,Nicholls St.,1,48
+2013,Arkansas St.,1,48
+2014,Incarnate Word,1,48
 2013,Texas Tech,1,48
-2013,Stanford,1,47
-2014,Old Dominion,1,47
-2014,Belmont,1,47
-2014,Northwestern,1,47
+2014,Maryland,1,48
+2012,UCLA,1,48
+2014,South Ala.,1,48
+2014,Miami (OH),1,48
+2014,Oral Roberts,1,48
+2014,Southeast Mo. St.,1,48
+2014,West Virginia,1,48
+2012,William & Mary,1,48
+2013,Loyola Marymount,1,48
+2014,Indiana,1,48
+2013,Tennessee,1,48
+2012,Kent St.,1,48
+2012,Missouri St.,1,48
+2013,Northern Ky.,1,48
+2012,Radford,1,48
+2012,Texas,1,48
+2014,Oregon St.,1,48
+2014,Arkansas St.,1,48
+2013,Notre Dame,1,48
+2013,Wright St.,1,48
+2014,Fresno Pacific,2,48
+2012,Creighton,1,48
+2013,Wake Forest,1,48
+2012,Pacific,1,48
+2013,Indiana,1,48
+2012,Stephen F. Austin,1,48
+2013,West Virginia,1,48
+2012,Gardner-Webb,1,48
 2013,Illinois,1,47
-2013,Alabama St.,1,47
-2013,VMI,1,47
-2014,Bethune-Cookman,1,47
-2013,High Point,1,47
-2013,La.-Monroe,1,47
-2014,La.-Monroe,1,47
-2013,A&M-Corpus Chris,1,47
-2013,Missouri St.,1,47
-2014,Tampa,2,47
-2013,Tex. A&M-Kingsville,2,47
 2014,Tennessee,1,47
-2014,UNLV,1,47
+2014,Belmont,1,47
 2014,Furman,1,47
-2014,Air Force,1,47
-2013,Texas,1,47
+2013,Missouri St.,1,47
+2013,Tex. A&M-Kingsville,2,47
+2012,Bakersfield,1,47
+2014,La.-Monroe,1,47
 2013,Delta St.,2,47
+2013,Texas,1,47
+2012,Seattle,1,47
+2014,Bethune-Cookman,1,47
+2012,Auburn,1,47
+2013,High Point,1,47
+2012,Wake Forest,1,47
+2014,Tampa,2,47
+2014,Old Dominion,1,47
+2012,Stetson,1,47
+2012,Monmouth,1,47
+2013,VMI,1,47
+2013,La.-Monroe,1,47
+2012,UT Martin,1,47
+2013,Stanford,1,47
+2013,Alabama St.,1,47
+2012,Loyola Marymount,1,47
+2012,Saint Louis,1,47
+2014,Northwestern,1,47
+2014,Air Force,1,47
+2012,UC Santa Barbara,1,47
+2013,A&M-Corpus Chris,1,47
+2012,Miami (OH),1,47
+2014,UNLV,1,47
+2012,Houston,1,46
+2015,Oklahoma,1,46
+2013,Tex.-Pan American,1,46
+2013,Arizona,1,46
+2014,Pacific,1,46
+2014,Elon,1,46
+2012,UNLV,1,46
+2012,Towson,1,46
+2012,UNCG,1,46
+2013,UC Riverside,1,46
+2012,Oregon St.,1,46
+2012,La.-Lafayette,1,46
 2013,Sonoma St.,2,46
-2014,New Orleans,1,46
+2013,UNCW,1,46
+2012,Rhode Island,1,46
+2013,UConn,1,46
+2013,Appalachian St.,1,46
+2014,Wichita St.,1,46
 2013,McNeese St.,1,46
 2013,Western Ore.,2,46
-2013,Tex.-Pan American,1,46
-2013,UConn,1,46
-2014,Wichita St.,1,46
-2013,Appalachian St.,1,46
-2013,UNCW,1,46
-2014,Pacific,1,46
-2013,UC Riverside,1,46
-2013,Arizona,1,46
-2014,Elon,1,46
-2013,Ohio St.,1,45
-2014,Tulane,1,45
-2014,Utah Valley,1,45
-2014,East Tenn. St.,1,45
-2014,Central Mich.,1,45
-2013,SIUE,1,45
-2013,New Orleans,1,45
+2014,New Orleans,1,46
+2012,Jacksonville St.,1,46
 2013,Nevada,1,45
-2014,Kent St.,1,45
-2014,Loyola Marymount,1,45
-2013,Missouri,1,45
-2014,UCLA,1,45
-2014,Alabama St.,1,45
-2014,Tex.-Pan American,1,45
-2014,Notre Dame,1,45
-2014,UCF,1,45
-2013,Pepperdine,1,45
-2013,VCU,1,45
-2013,Hawaii,1,45
 2013,Southern California,1,45
-2013,Winthrop,1,45
+2015,Mississippi St.,1,45
+2013,VCU,1,45
+2012,VCU,1,45
 2013,Duke,1,45
 2013,West Tex. A&M,2,45
+2014,Tulane,1,45
+2014,East Tenn. St.,1,45
+2014,Tex.-Pan American,1,45
+2014,Notre Dame,1,45
 2014,Houston,1,45
-2014,Valparaiso,1,44
-2014,William & Mary,1,44
-2013,Valdosta St.,2,44
-2014,Youngstown St.,1,44
-2013,Indiana St.,1,44
-2014,Virginia Tech,1,44
-2013,Monmouth,1,44
-2013,Portland,1,44
-2013,UT Martin,1,44
-2013,West Florida,2,44
-2013,Western Caro.,1,44
+2014,Central Mich.,1,45
+2013,Winthrop,1,45
+2014,Alabama St.,1,45
+2014,Loyola Marymount,1,45
+2014,Utah Valley,1,45
+2012,Western Caro.,1,45
+2014,UCF,1,45
+2013,Missouri,1,45
+2013,Pepperdine,1,45
+2012,Portland,1,45
+2012,CSUN,1,45
+2013,New Orleans,1,45
+2013,Hawaii,1,45
+2012,Washington St.,1,45
+2014,UCLA,1,45
+2013,Ohio St.,1,45
+2014,Kent St.,1,45
+2013,SIUE,1,45
 2014,Ill.-Chicago,1,44
-2014,Arizona,1,44
-2014,Central Ark.,1,44
+2013,West Florida,2,44
+2015,UC San Diego,2,44
+2012,Fordham,1,44
 2014,Austin Peay,1,44
-2014,Troy,1,43
-2014,Milwaukee,1,43
-2013,Lynn,2,43
+2012,Winthrop,1,44
+2012,Long Beach St.,1,44
+2014,Virginia Tech,1,44
+2013,Indiana St.,1,44
+2012,VMI,1,44
+2014,Arizona,1,44
+2015,Arkansas,1,44
+2013,Monmouth,1,44
+2012,Southeastern La.,1,44
+2012,UC Davis,1,44
+2013,UT Martin,1,44
+2012,Illinois,1,44
+2015,Southeastern La.,1,44
+2015,UCF,1,44
+2012,North Carolina,1,44
+2013,Western Caro.,1,44
+2012,Louisiana Tech,1,44
+2012,UC Irvine,1,44
+2014,Valparaiso,1,44
+2014,Youngstown St.,1,44
+2015,South Carolina,1,44
+2012,Utah Valley,1,44
+2014,Central Ark.,1,44
+2012,Tex.-Pan American,1,44
+2013,Valdosta St.,2,44
+2012,Eastern Mich.,1,44
+2014,William & Mary,1,44
+2012,Youngstown St.,1,44
+2013,Portland,1,44
+2015,Bethune-Cookman,1,44
 2014,North Florida,1,43
-2014,Southern California,1,43
+2015,San Fran. St.,2,43
 2013,Morehead St.,1,43
+2012,George Washington,1,43
+2014,Western Caro.,1,43
+2012,Santa Clara,1,43
+2014,Milwaukee,1,43
+2013,New Mexico St.,1,43
+2015,East Tenn. St.,1,43
+2015,Emporia St.,2,43
+2014,Cal St. L.A.,2,43
 2014,Morehead St.,1,43
-2014,Wright St.,1,43
 2013,Valparaiso,1,43
-2014,San Fran. St.,2,43
 2014,King (TN),2,43
-2014,Creighton,1,43
+2015,Wofford,1,43
+2014,Cal Poly,1,43
+2014,San Fran. St.,2,43
+2012,Wright St.,1,43
+2015,LSU,1,43
+2014,Troy,1,43
+2015,Shippensburg,2,43
 2013,Villanova,1,43
 2014,Louisiana Tech,1,43
-2014,Cal Poly,1,43
-2014,Cal St. L.A.,2,43
+2013,Lynn,2,43
+2012,East Tenn. St.,1,43
+2015,East Carolina,1,43
+2015,Stetson,1,43
+2015,Texas A&M,1,43
+2012,Villanova,1,43
+2015,Houston,1,43
+2015,High Point,1,43
+2015,Texas St.,1,43
+2015,Fla. Atlantic,1,43
+2014,Creighton,1,43
+2012,North Florida,1,43
+2012,Ball St.,1,43
+2014,Wright St.,1,43
 2013,Northwestern St.,1,43
-2014,Western Caro.,1,43
-2013,New Mexico St.,1,43
-2013,Azusa Pacific,2,42
-2013,Cal St. Monterey Bay,2,42
-2013,Dixie St.,2,42
-2013,UNCG,1,42
-2014,Lynn,2,42
-2014,Academy of Art,2,42
-2014,UNCW,1,42
-2014,Harding,2,42
-2013,Maryland,1,42
-2013,Chicago St.,1,42
+2014,Southern California,1,43
+2012,Rutgers,1,43
+2012,Texas St.,1,42
 2013,Shippensburg,2,42
-2014,St. Mary's (CA),1,42
-2013,Washington St.,1,42
+2012,Marshall,1,42
+2014,Hawaii,1,42
+2014,Harding,2,42
 2014,Christian Bros.,2,42
-2013,Angelo St.,2,42
-2013,Evansville,1,42
-2013,Towson,1,42
-2013,Rutgers,1,42
+2015,Ga. Southern,1,42
 2014,FIU,1,42
+2014,St. Mary's (CA),1,42
+2013,Azusa Pacific,2,42
+2013,Washington St.,1,42
+2014,James Madison,1,42
+2012,Penn St.,1,42
+2012,Gonzaga,1,42
+2013,Rutgers,1,42
+2012,Wagner,1,42
+2013,Maryland,1,42
 2014,Canisius,1,42
 2014,Northeastern St.,2,42
 2014,West Tex. A&M,2,42
 2014,Seton Hill,2,42
-2013,George Washington,1,42
-2014,James Madison,1,42
-2014,Hawaii,1,42
+2013,Evansville,1,42
 2013,Southeastern La.,1,42
-2014,Charleston So.,1,41
-2013,Houston Baptist,1,41
-2014,Houston Baptist,1,41
-2013,Georgia College,2,41
-2013,North Florida,1,41
-2013,Utah Valley,1,41
-2014,Liberty,1,41
+2013,Dixie St.,2,42
+2012,Houston Baptist,1,42
+2015,Auburn,1,42
+2013,George Washington,1,42
+2012,Indiana,1,42
+2013,Chicago St.,1,42
+2012,Citadel,1,42
+2013,Cal St. Monterey Bay,2,42
+2014,UNCW,1,42
+2014,Lynn,2,42
+2015,Nebraska,1,42
+2015,Virginia Tech,1,42
+2013,Towson,1,42
+2012,Mercer,1,42
+2014,Academy of Art,2,42
+2013,Angelo St.,2,42
+2013,UNCG,1,42
+2015,Rutgers,1,42
+2015,Texas Tech,1,41
 2013,California,1,41
-2014,Chicago St.,1,41
-2014,UT Martin,1,41
 2013,Presbyterian,1,41
-2013,Northern Ill.,1,41
+2014,Liberty,1,41
+2015,Central Mo.,2,41
+2013,Gardner-Webb,1,41
+2015,La.-Monroe,1,41
+2012,Canisius,1,41
+2013,Houston Baptist,1,41
+2015,Arizona,1,41
+2013,North Florida,1,41
 2013,Eastern Mich.,1,41
 2014,Washington St.,1,41
+2015,TCU,1,41
+2015,Illinois,1,41
+2014,Charleston So.,1,41
 2014,Eastern Ky.,1,41
-2013,Gardner-Webb,1,41
-2013,Stony Brook,1,40
-2014,Kennesaw St.,1,40
-2013,Fla. Atlantic,1,40
-2014,N.C. A&T,1,40
-2013,Pittsburgh,1,40
-2014,Cal St. Monterey Bay,2,40
-2014,Presbyterian,1,40
-2014,UC Davis,1,40
-2014,Azusa Pacific,2,40
-2013,Radford,1,40
-2013,Xavier,1,40
+2015,Kansas,1,41
+2015,Sonoma St.,2,41
+2012,San Jose St.,1,41
+2014,UT Martin,1,41
+2014,Houston Baptist,1,41
+2013,Utah Valley,1,41
+2015,Mercer,1,41
+2014,Chicago St.,1,41
+2012,North Dakota St.,1,41
+2013,Georgia College,2,41
+2015,Miami (FL),1,41
+2015,Georgia Tech,1,41
+2012,Xavier,1,41
+2015,FGCU,1,41
+2015,Coastal Caro.,1,41
+2015,USC Upstate,1,41
+2015,Col. of Charleston,1,41
+2015,La.-Lafayette,1,41
+2012,Georgia St.,1,41
+2015,Jacksonville St.,1,41
+2015,Oklahoma St.,1,41
+2015,Tulane,1,41
+2015,Cal Poly Pomona,2,41
+2013,Northern Ill.,1,41
 2014,Dixie St.,2,40
+2014,Kennesaw St.,1,40
+2012,Navy,1,40
+2015,FIU,1,40
 2013,San Diego,1,40
-2013,Northeastern St.,2,40
-2013,Eastern Ill.,1,40
-2013,Bethune-Cookman,1,40
-2013,McKendree,2,40
-2013,St. Edward's,2,40
 2013,Mont. St. Billings,2,40
+2015,South Ala.,1,40
+2012,Oakland,1,40
+2015,Elon,1,40
+2013,Fla. Atlantic,1,40
 2013,Michigan St.,1,40
-2014,Southwest Minn. St.,2,40
+2013,Bethune-Cookman,1,40
+2012,Presbyterian,1,40
+2015,Wake Forest,1,40
+2015,Towson,1,40
+2013,Eastern Ill.,1,40
+2013,Xavier,1,40
+2013,Stony Brook,1,40
 2014,Gonzaga,1,40
-2014,N.M. Highlands,2,39
-2014,FGCU,1,39
-2013,Marshall,1,39
-2013,Bentley,2,39
-2014,Fairleigh Dickinson,1,39
-2013,Mo. Western St.,2,39
-2013,Academy of Art,2,39
-2013,BYU,1,39
-2013,Seattle,1,39
-2013,Barton,2,39
-2013,Texas-Arlington,1,39
-2013,Akron,1,39
-2014,Penn St.,1,39
-2013,Central Mo.,2,39
-2013,Point Loma,2,39
-2014,Limestone,2,39
-2013,Pacific,1,39
-2014,Bowling Green,1,39
-2013,Colorado Mesa,2,39
-2014,Utah,1,39
+2012,Minnesota,1,40
+2015,Washington St.,1,40
+2014,Presbyterian,1,40
+2012,Western Mich.,1,40
+2013,Radford,1,40
+2015,Florida,1,40
+2015,Louisville,1,40
+2012,Lamar,1,40
+2013,Northeastern St.,2,40
+2013,Pittsburgh,1,40
+2014,N.C. A&T,1,40
+2012,UAB,1,40
+2014,Southwest Minn. St.,2,40
+2014,Azusa Pacific,2,40
+2014,Cal St. Monterey Bay,2,40
+2015,Citadel,1,40
+2015,Campbell,1,40
+2013,St. Edward's,2,40
+2015,Angelo St.,2,40
+2015,McNeese St.,1,40
+2015,Navy,1,40
+2013,McKendree,2,40
+2014,UC Davis,1,40
+2015,Baylor,1,40
+2012,Alabama St.,1,40
+2015,A&M-Corpus Chris,1,39
 2013,California (PA),2,39
-2013,Mo. Southern St.,2,39
+2015,Presbyterian,1,39
+2015,Nicholls St.,1,39
+2015,Austin Peay,1,39
+2013,Colorado Mesa,2,39
+2015,Seton Hill,2,39
+2015,St. Mary's (CA),1,39
+2013,BYU,1,39
+2015,UNCW,1,39
+2012,Milwaukee,1,39
+2013,Barton,2,39
+2015,Kentucky,1,39
+2015,Cal St. East Bay,2,39
+2014,Utah,1,39
+2015,Mississippi Col.,2,39
+2014,Fairleigh Dickinson,1,39
+2013,Central Mo.,2,39
+2012,McNeese St.,1,39
+2015,Air Force,1,39
+2013,Point Loma,2,39
 2014,Middle Tenn.,1,39
+2015,Tex.-Pan American,1,39
+2013,Mo. Western St.,2,39
+2015,North Carolina,1,39
+2013,Mo. Southern St.,2,39
+2013,Seattle,1,39
+2013,Texas-Arlington,1,39
+2014,N.M. Highlands,2,39
 2013,Air Force,1,39
+2014,Penn St.,1,39
+2014,FGCU,1,39
+2013,Akron,1,39
+2013,Pacific,1,39
+2013,Marshall,1,39
+2015,Appalachian St.,1,39
+2014,Bowling Green,1,39
 2014,Sonoma St.,2,39
+2013,Bentley,2,39
+2015,Cal St. Dom. Hills,2,39
+2013,Academy of Art,2,39
+2014,Limestone,2,39
+2013,TCU,1,38
+2012,James Madison,1,38
+2012,Northern Ill.,1,38
+2015,San Francisco,1,38
+2015,Tennessee Tech,1,38
+2012,Bethune-Cookman,1,38
+2015,Tex. A&M-Kingsville,2,38
+2013,Purdue,1,38
+2014,Western Ore.,2,38
+2014,Cal St. Stanislaus,2,38
+2015,Wright St.,1,38
+2014,Indiana St.,1,38
+2013,Nicholls St.,1,38
+2014,Lipscomb,1,38
+2015,Washburn,2,38
+2014,Indianapolis,2,38
+2015,Michigan,1,38
+2014,Texas-Arlington,1,38
+2015,Western Ky.,1,38
+2014,Fla. Southern,2,38
 2014,Saint Louis,1,38
 2013,Marist,1,38
-2014,Southern Ark.,2,38
+2015,Furman,1,38
 2014,Eckerd,2,38
-2014,Lee,2,38
-2013,Purdue,1,38
-2013,James Madison,1,38
-2013,TCU,1,38
-2014,Texas-Arlington,1,38
-2014,Lipscomb,1,38
-2014,Cal St. Stanislaus,2,38
-2014,Indiana St.,1,38
-2014,Fla. Southern,2,38
+2015,Charlotte,1,38
+2015,Southern Ark.,2,38
 2014,New Mexico,1,38
-2013,Nicholls St.,1,38
-2014,Indianapolis,2,38
+2014,Southern Ark.,2,38
+2015,Cal St. L.A.,2,38
+2013,James Madison,1,38
 2014,SIUE,1,38
-2014,Western Ore.,2,38
+2014,Lee,2,38
+2015,Southern Miss.,1,38
 2014,Point Loma,2,38
-2014,Fla. Atlantic,1,37
-2013,Jacksonville,1,37
-2014,Shippensburg,2,37
-2013,UNC Pembroke,2,37
-2013,Central Wash.,2,37
-2014,Purdue,1,37
-2014,San Francisco,1,37
-2013,Navy,1,37
-2013,Washburn,2,37
+2015,Vanderbilt,1,38
 2014,Colorado Mesa,2,37
+2015,Indiana St.,1,37
+2015,Sacramento St.,1,37
+2014,Shippensburg,2,37
+2015,Arizona St.,1,37
 2013,Eastern N.M.,2,37
-2014,Eastern N.M.,2,37
-2013,Cal St. Fullerton,1,37
-2013,New Mexico,1,37
-2014,Truman,2,37
-2014,Buffalo,1,37
-2013,Francis Marion,2,37
-2014,George Washington,1,37
-2013,Incarnate Word,2,37
-2014,Bellarmine,2,37
+2015,Old Dominion,1,37
 2014,Iowa,1,37
-2013,Utah,1,36
-2013,Miami (OH),1,36
-2013,Penn St.,1,36
-2013,San Diego St.,1,36
-2013,Holy Cross,1,36
-2014,Barton,2,36
-2013,Central Ark.,1,36
-2013,Wagner,1,36
-2014,Francis Marion,2,36
-2014,Savannah St.,1,36
-2014,Grand Valley St.,2,36
-2013,Massachusetts,1,36
-2014,BYU,1,36
+2014,Fla. Atlantic,1,37
+2015,Oregon St.,1,37
+2015,Southeast Mo. St.,1,37
+2014,Truman,2,37
+2015,New Orleans,1,37
+2015,Abilene Christian,1,37
+2014,Bellarmine,2,37
+2014,Purdue,1,37
+2015,North Florida,1,37
+2013,Cal St. Fullerton,1,37
+2015,Purdue,1,37
+2013,Francis Marion,2,37
+2013,UNC Pembroke,2,37
+2015,Notre Dame,1,37
+2015,North Georgia,2,37
+2013,Central Wash.,2,37
+2012,Boston College,1,37
+2015,New Mexico,1,37
+2013,Washburn,2,37
+2015,West Tex. A&M,2,37
+2015,Troy,1,37
+2015,North Carolina St.,1,37
+2015,Cal St. Stanislaus,2,37
+2014,San Francisco,1,37
+2015,Loyola Marymount,1,37
+2014,Eastern N.M.,2,37
+2014,George Washington,1,37
+2013,Jacksonville,1,37
+2015,Cal St. Monterey Bay,2,37
+2013,New Mexico,1,37
+2013,Incarnate Word,2,37
+2013,Navy,1,37
+2015,Valdosta St.,2,37
+2013,Kean,3,37
+2014,Buffalo,1,37
 2013,George Mason,1,36
-2014,Augustana (SD),2,36
+2015,Dixie St.,2,36
+2012,Fairleigh Dickinson,1,36
+2012,St. Mary's (CA),1,36
+2013,Massachusetts,1,36
+2013,Holy Cross,1,36
+2015,Florida St.,1,36
+2015,Stephen F. Austin,1,36
+2014,Francis Marion,2,36
+2015,Azusa Pacific,2,36
+2013,Wagner,1,36
+2012,La Salle,1,36
+2013,Miami (OH),1,36
 2014,Florida Tech,2,36
-2014,Towson,1,35
-2013,Concord,2,35
-2013,Charleston So.,1,35
-2014,Bradley,1,35
-2014,Abilene Christian,1,35
-2013,Fresno St.,1,35
-2013,Creighton,1,35
+2013,Central Ark.,1,36
+2015,Lipscomb,1,36
+2014,BYU,1,36
+2015,South Fla.,1,36
+2014,Grand Valley St.,2,36
+2013,Penn St.,1,36
+2015,King (TN),2,36
+2015,Fresno Pacific,2,36
+2013,San Diego St.,1,36
+2014,Barton,2,36
+2014,Augustana (SD),2,36
+2014,Savannah St.,1,36
+2015,Sam Houston St.,1,36
+2012,Stanford,1,36
+2013,Utah,1,36
 2014,Northern Ky.,1,35
-2013,Flagler,2,35
-2013,Hartford,1,35
+2015,UNLV,1,35
+2015,Northeastern St.,2,35
+2015,Winthrop,1,35
+2014,Abilene Christian,1,35
+2013,Creighton,1,35
 2013,Cal St. L.A.,2,35
-2014,Ala.-Huntsville,2,35
-2013,Columbus St.,2,35
-2013,California Baptist,2,35
+2013,Hartford,1,35
+2015,Missouri S&T,2,35
 2013,Central Mich.,1,35
+2015,Murray St.,1,35
+2013,Charleston So.,1,35
+2015,UAB,1,35
+2015,Creighton,1,35
+2013,Fresno St.,1,35
+2012,Massachusetts,1,35
+2015,Alabama,1,35
+2015,UCLA,1,35
+2015,California (PA),2,35
+2015,Southwest Baptist,2,35
+2015,Houston Baptist,1,35
+2015,Boston College,1,35
+2015,Prairie View,1,35
+2013,Concord,2,35
+2013,Flagler,2,35
+2015,Illinois St.,1,35
+2015,N.M. Highlands,2,35
+2015,Gardner-Webb,1,35
+2014,Ala.-Huntsville,2,35
+2015,Memphis,1,35
+2015,Pacific,1,35
+2013,Columbus St.,2,35
+2014,Bradley,1,35
+2012,Notre Dame,1,35
+2014,Towson,1,35
+2013,California Baptist,2,35
 2014,Portland,1,35
-2014,Navy,1,34
-2013,Florida Tech,2,34
-2013,Franklin Pierce,2,34
-2013,Arkansas Tech,2,34
-2014,Hofstra,1,34
-2014,Central Mo.,2,34
-2013,Christian Bros.,2,34
-2014,Fordham,1,34
-2013,La Salle,1,34
+2015,Southern California,1,35
+2012,Northwestern St.,1,35
+2015,Metro St.,2,34
 2014,Flagler,2,34
+2015,Bakersfield,1,34
+2013,La Salle,1,34
+2013,Franklin Pierce,2,34
+2015,Mo. Southern St.,2,34
+2013,Christian Bros.,2,34
 2013,Southern Ark.,2,34
+2015,Augustana (SD),2,34
+2015,Indianapolis,2,34
+2012,Akron,1,34
+2014,Navy,1,34
+2015,Erskine,2,34
 2014,Barry,2,34
+2015,Cincinnati,1,34
+2013,Saint Louis,1,34
+2014,Hofstra,1,34
+2015,Wichita St.,1,34
+2015,Eastern N.M.,2,34
 2014,Ark.-Monticello,2,34
-2013,Fairleigh Dickinson,1,34
+2015,Missouri St.,1,34
+2015,Kansas St.,1,34
 2014,VMI,1,34
 2014,Boston College,1,34
-2013,Saint Louis,1,34
-2014,UNC Pembroke,2,33
-2014,McKendree,2,33
-2014,Cedarville,2,33
-2014,Fort Hays St.,2,33
-2013,Truman,2,33
-2013,Saint Martin's,2,33
-2013,Iona,1,33
-2013,NJIT,1,33
-2013,Delaware St.,1,33
-2014,Southwestern Okla.,2,33
-2013,UMBC,1,33
-2014,St. Anselm,2,33
-2014,Xavier,1,33
-2013,Millersville,2,33
-2013,Belmont,1,33
+2015,Radford,1,34
+2014,Fordham,1,34
+2013,Arkansas Tech,2,34
+2013,Oberlin,3,34
+2015,Canisius,1,34
+2015,Cameron,2,34
+2012,Fresno St.,1,34
+2015,Northwestern St.,1,34
+2015,Penn St.,1,34
+2012,BYU,1,34
+2015,Dallas Baptist,1,34
+2013,Florida Tech,2,34
+2015,Gonzaga,1,34
+2014,Central Mo.,2,34
+2012,North Dakota,1,34
+2015,Incarnate Word,1,34
+2013,Fairleigh Dickinson,1,34
+2015,Hawaii,1,34
+2015,Point Loma,2,33
 2014,Emporia St.,2,33
-2014,Angelo St.,2,33
+2012,Mt. St. Mary's,1,33
+2015,West Virginia,1,33
+2014,Xavier,1,33
+2015,Iowa,1,33
+2013,Millersville,2,33
+2012,Temple,1,33
+2014,Fort Hays St.,2,33
 2014,Sam Houston St.,1,33
+2014,Cedarville,2,33
+2014,Angelo St.,2,33
+2015,BYU,1,33
+2015,Northern Ky.,1,33
+2013,Truman,2,33
+2014,McKendree,2,33
+2013,UMBC,1,33
+2015,Arkansas St.,1,33
+2015,Lee,2,33
+2015,Michigan St.,1,33
+2014,Southwestern Okla.,2,33
+2015,Northern Ill.,1,33
+2015,Oakland,1,33
+2012,Bryant,1,33
+2015,Southern Ill.,1,33
+2013,Delaware St.,1,33
+2015,UTSA,1,33
+2012,Hofstra,1,33
+2015,Utah,1,33
+2015,Morehead St.,1,33
+2013,Iona,1,33
+2015,Barton,2,33
+2014,Union (NY),3,33
+2013,Belmont,1,33
+2014,St. Anselm,2,33
+2014,UNC Pembroke,2,33
+2015,James Madison,1,33
+2015,Bradley,1,33
+2013,Saint Martin's,2,33
+2013,NJIT,1,33
 2014,Central Okla.,2,33
-2014,Siena,1,32
-2013,Wilmington (DE),2,32
-2014,N.C. Central,1,32
-2013,Harding,2,32
-2014,Virginia,1,32
-2013,Mount Olive,2,32
-2014,California (PA),2,32
-2013,Coppin St.,1,32
-2014,Duke,1,32
-2014,Holy Cross,1,32
+2014,Oberlin,3,32
 2013,Tex. Permian Basin,2,32
+2015,UC Davis,1,32
+2013,Wilmington (DE),2,32
+2014,Holy Cross,1,32
+2012,Fairfield,1,32
+2014,California (PA),2,32
+2014,Virginia,1,32
 2014,Hartford,1,32
-2013,Butler,1,32
+2013,UNLV,1,32
+2015,McKendree,2,32
+2013,Cal St. East Bay,2,32
+2013,Oregon,1,32
+2012,Iona,1,32
+2015,Alabama St.,1,32
+2013,Sacred Heart,1,32
+2015,Slippery Rock,2,32
+2012,Ill.-Chicago,1,32
+2014,LIU Brooklyn,1,32
+2014,Siena,1,32
+2014,Northwestern Okla.,2,32
+2015,Ohio St.,1,32
 2013,Wingate,2,32
 2014,Saint Martin's,2,32
+2014,Duke,1,32
+2012,Northeastern,1,32
 2013,Metro St.,2,32
-2013,Rhode Island,1,32
-2014,Columbia,1,32
-2013,UNLV,1,32
+2014,N.C. Central,1,32
 2014,Franklin Pierce,2,32
-2013,Sacred Heart,1,32
-2013,Oregon,1,32
-2013,Cal St. East Bay,2,32
-2014,Northwestern Okla.,2,32
-2014,LIU Brooklyn,1,32
-2014,North Dakota,1,31
-2013,Missouri S&T,2,31
-2014,Seattle,1,31
-2013,Bradley,1,31
-2014,Eastern Mich.,1,31
-2013,Northwestern,1,31
-2013,Iowa,1,31
-2013,Southwest Baptist,2,31
-2014,Iona,1,31
-2014,San Diego St.,1,31
-2014,UNC Asheville,1,31
-2014,Western Mich.,1,31
-2013,Young Harris,2,31
-2013,Ark.-Monticello,2,31
-2013,New Haven,2,31
+2015,Cal Poly,1,32
+2015,Wingate,2,32
+2015,Ala.-Huntsville,2,32
+2015,Eastern Mich.,1,32
+2015,Texas,1,32
+2014,Columbia,1,32
+2013,Mount Olive,2,32
+2013,Butler,1,32
+2015,Missouri,1,32
+2013,Coppin St.,1,32
+2013,Rhode Island,1,32
+2013,Harding,2,32
+2012,Marist,1,32
 2014,Bentley,2,31
-2013,Gonzaga,1,31
 2013,Seton Hill,2,31
-2014,Davis & Elkins,2,31
-2014,Villanova,1,31
+2015,Longwood,1,31
+2015,Stanford,1,31
+2015,Barry,2,31
+2013,Young Harris,2,31
+2014,San Diego St.,1,31
+2015,Tennessee,1,31
+2015,Utah Valley,1,31
+2015,Flagler,2,31
+2013,Northwestern,1,31
+2013,Bradley,1,31
+2015,UT Martin,1,31
 2014,Millersville,2,31
 2013,LIU Brooklyn,1,31
-2013,Southern Ind.,2,30
-2013,Illinois St.,1,30
-2014,Concordia-St. Paul,2,30
-2014,Marist,1,30
-2013,Catawba,2,30
-2014,Oakland,1,30
-2014,Cal Poly Pomona,2,30
-2014,Fresno St.,1,30
+2015,Louisiana Tech,1,31
+2012,Western Ill.,1,31
+2014,Western Mich.,1,31
+2013,Southwest Baptist,2,31
+2012,Samford,1,31
+2014,Wheaton (MA),3,31
+2013,Gonzaga,1,31
+2015,Santa Clara,1,31
+2015,Winona St.,2,31
+2015,Columbia,1,31
+2014,Eastern Mich.,1,31
+2015,Hartford,1,31
+2013,Mississippi Col.,3,31
+2012,Delaware St.,1,31
+2014,North Dakota,1,31
+2014,Villanova,1,31
+2013,Ark.-Monticello,2,31
+2014,Iona,1,31
+2013,Iowa,1,31
+2015,Milwaukee,1,31
+2014,Davis & Elkins,2,31
+2012,LIU Brooklyn,1,31
+2015,Tampa,2,31
+2015,San Jose St.,1,31
+2014,UNC Asheville,1,31
+2015,Northeastern,1,31
+2013,Missouri S&T,2,31
+2015,Holy Cross,1,31
+2012,Siena,1,31
+2012,Eastern Ill.,1,31
+2015,Hofstra,1,31
+2013,Salisbury,3,31
+2015,N.C. A&T,1,31
+2014,Seattle,1,31
+2013,New Haven,2,31
+2013,Ramapo,3,31
+2015,Minnesota,1,31
 2013,Longwood,1,30
-2014,Missouri S&T,2,30
-2014,Central Wash.,2,30
-2013,Milwaukee,1,30
-2014,Young Harris,2,30
-2014,Monmouth,1,30
+2014,Marist,1,30
 2013,Limestone,2,30
-2014,Dartmouth,1,30
-2014,Northern St.,2,30
+2012,Miami (FL),1,30
+2015,Southern Nazarene,2,30
+2015,Seattle,1,30
+2014,Concordia-St. Paul,2,30
+2014,Concordia (TX),3,30
 2013,Fresno Pacific,2,30
-2014,Cincinnati,1,29
-2013,Quincy,2,29
-2014,Manhattan,1,29
+2015,Stony Brook,1,30
+2012,Toledo,1,30
+2012,George Mason,1,30
+2014,Vassar,3,30
+2014,Young Harris,2,30
+2013,Southern Ind.,2,30
+2012,N.C. Central,1,30
+2013,Catawba,2,30
+2014,Missouri S&T,2,30
+2015,Ole Miss,1,30
+2014,Fresno St.,1,30
+2013,Rhodes,3,30
+2014,Cal Poly Pomona,2,30
+2015,Adelphi,2,30
+2015,Bellarmine,2,30
+2015,Central Wash.,2,30
+2014,Monmouth,1,30
+2014,Oakland,1,30
+2013,Milwaukee,1,30
+2012,Bowling Green,1,30
+2014,Northern St.,2,30
+2015,Bowling Green,1,30
+2015,Pitt.-Johnstown,2,30
+2014,Central Wash.,2,30
+2015,Manhattan,1,30
+2014,Dartmouth,1,30
+2012,Central Ark.,1,30
+2015,UALR,1,30
+2013,Illinois St.,1,30
+2013,Dominican (IL),3,30
+2015,George Washington,1,30
+2014,Dominican (IL),3,30
+2012,Omaha,1,30
+2014,California Baptist,2,29
+2015,Okla. Panhandle,2,29
 2013,San Francisco,1,29
 2014,North Greenville,2,29
-2013,Canisius,1,29
-2014,California Baptist,2,29
-2013,UAB,1,29
+2015,Villanova,1,29
 2014,Trevecca Nazarene,2,29
+2015,LIU Post,2,29
+2014,Cincinnati,1,29
 2013,Liberty,1,29
+2014,Manhattan,1,29
+2015,Saint Louis,1,29
+2015,Spring Hill,2,29
+2015,Valparaiso,1,29
+2013,West Ala.,2,29
+2015,Eastern Ky.,1,29
+2013,Adrian,3,29
+2014,Alcorn,1,29
 2013,Washington,1,29
 2013,Temple,1,29
-2014,Alcorn,1,29
 2014,Cal St. East Bay,2,29
-2013,West Ala.,2,29
-2013,Boston College,1,28
-2013,Cal Poly Pomona,2,28
-2013,Colo. Christian,2,28
-2013,Norfolk St.,1,28
-2014,Concord,2,28
+2015,Monmouth,1,29
+2014,Salisbury,3,29
+2015,Duke,1,29
+2015,Francis Marion,2,29
+2015,VMI,1,29
+2015,Western Ore.,2,29
+2013,UAB,1,29
+2012,Lafayette,1,29
+2013,Quincy,2,29
+2013,Canisius,1,29
+2015,Minn.-Crookston,2,29
+2015,West Ga.,2,28
+2015,Concordia-St. Paul,2,28
 2014,Ole Miss,1,28
-2013,Fort Hays St.,2,28
-2014,Southwest Baptist,2,28
-2014,Minn.-Crookston,2,28
-2014,Lubbock Christian,2,28
+2013,East Tex. Baptist,3,28
+2014,Adrian,3,28
+2014,Kean,3,28
+2013,Cal Poly Pomona,2,28
+2015,Young Harris,2,28
+2015,Brown,1,28
 2014,Felician,2,28
+2012,Dartmouth,1,28
+2015,Pepperdine,1,28
+2014,Concord,2,28
 2013,Southwest Minn. St.,2,28
-2014,Mo. Western St.,2,27
-2013,Ill.-Chicago,1,27
-2013,North Georgia,2,27
-2013,Augustana (SD),2,27
-2013,Stephen F. Austin,1,27
-2013,Dartmouth,1,27
-2014,Southern Nazarene,2,27
-2013,Siena,1,27
-2014,Rogers St.,2,27
+2015,New Mexico St.,1,28
+2013,Colo. Christian,2,28
+2015,Newman,2,28
+2012,Air Force,1,28
+2014,Southwest Baptist,2,28
+2013,Boston College,1,28
+2014,Minn.-Crookston,2,28
+2015,Northwestern,1,28
+2012,UC Riverside,1,28
+2013,Norfolk St.,1,28
+2015,Kean,3,28
+2013,Texas-Tyler,3,28
+2013,Fort Hays St.,2,28
+2014,Lubbock Christian,2,28
+2012,St. Bonaventure,1,27
+2015,Savannah St.,1,27
+2013,Benedictine (IL),3,27
 2014,Wagner,1,27
-2014,St. Joseph's (IN),2,27
+2015,Colorado Mesa,2,27
+2012,Yale,1,27
+2015,Kent St.,1,27
+2012,Manhattan,1,27
+2014,Mo. Western St.,2,27
+2015,Oswego St.,3,27
+2013,Ithaca,3,27
 2013,Northwest Mo. St.,2,27
+2015,Fort Hays St.,2,27
+2015,Davidson,1,27
+2014,St. Joseph's (IN),2,27
+2014,Rochester (NY),3,27
+2013,Stevens,3,27
+2015,Xavier,1,27
+2013,Augustana (SD),2,27
+2013,North Georgia,2,27
+2013,Concordia Chicago,3,27
+2014,Southern Nazarene,2,27
+2012,Coppin St.,1,27
+2013,Ill.-Chicago,1,27
 2013,Kent St.,1,27
-2014,Kutztown,2,27
+2013,Dartmouth,1,27
 2014,Bloomsburg,2,27
-2014,Valdosta St.,2,26
-2013,West Ga.,2,26
-2013,Coker,2,26
-2013,Saint Rose,2,26
-2013,Indianapolis,2,26
-2014,Stephen F. Austin,1,26
-2013,McMurry,2,26
-2014,Yale,1,26
-2014,Toledo,1,26
+2015,Hawaii Pacific,2,27
+2013,Worcester St.,3,27
+2014,Rogers St.,2,27
+2015,Gannon,2,27
+2015,Liberty,1,27
+2013,Siena,1,27
+2015,UMES,1,27
+2015,North Greenville,2,27
+2012,Hawaii,1,27
+2014,Kutztown,2,27
+2013,Stephen F. Austin,1,27
+2013,Alvernia,3,27
+2013,Concordia Wisconsin,3,27
+2015,Millersville,2,27
+2015,South Dakota St.,1,27
+2012,UConn,1,27
+2015,Neb.-Kearney,2,27
 2013,Seton Hall,1,26
-2014,Tex. A&M Int'l,2,26
-2014,Holy Names,2,26
+2014,Yale,1,26
+2013,West Ga.,2,26
+2012,UNC Asheville,1,26
+2015,Alvernia,3,26
 2014,Fairfield,1,26
+2013,McMurry,2,26
+2013,Indianapolis,2,26
+2012,Texas-Arlington,1,26
+2014,Marietta,3,26
+2014,Valdosta St.,2,26
+2015,Nevada,1,26
+2013,Coker,2,26
+2014,Wooster,3,26
+2013,Edgewood,3,26
+2015,Nova Southeastern,2,26
+2015,UNC Asheville,1,26
+2015,George Mason,1,26
+2014,Benedictine (IL),3,26
+2014,Ohio,1,26
+2012,Columbia,1,26
+2012,Sacred Heart,1,26
+2014,Stephen F. Austin,1,26
+2015,Anderson (SC),2,26
+2014,Tex. A&M Int'l,2,26
 2014,A&M-Corpus Chris,1,26
+2015,Lewis,2,26
+2014,Case,3,26
+2013,Saint Rose,2,26
+2013,Kutztown,2,26
+2015,Concord,2,26
+2015,Southern Ind.,2,26
 2013,Cal St. San B'dino,2,26
 2014,Georgetown,1,26
-2014,Ohio,1,26
-2013,Kutztown,2,26
-2013,Rice,1,25
-2014,Illinois St.,1,25
-2014,Nova Southeastern,2,25
-2013,Saint Peter's,1,25
-2014,Gardner-Webb,1,25
-2014,Texas Southern,1,25
-2013,Samford,1,25
-2014,Cal St. Dom. Hills,2,25
-2014,UConn,1,25
-2013,Pfeiffer,2,25
-2013,Fla. Southern,2,25
-2014,Hawaii Pacific,2,25
-2014,Gannon,2,25
-2014,UMBC,1,25
-2013,Arizona St.,1,25
-2013,Niagara,1,25
-2014,Rice,1,25
-2014,Grand Canyon,1,25
+2014,Toledo,1,26
+2014,Holy Names,2,26
+2012,St. John's (NY),1,26
+2015,Youngstown St.,1,26
+2015,Minot St.,2,26
+2013,Endicott,3,26
+2013,Wooster,3,25
+2015,San Diego,1,25
 2013,Emporia St.,2,25
-2013,Abilene Christian,2,25
+2014,UMBC,1,25
+2015,Rochester (NY),3,25
+2012,Morehead St.,1,25
+2015,Indiana,1,25
+2015,Ouachita Baptist,2,25
+2015,Western Ill.,1,25
+2012,Richmond,1,25
+2014,Texas Southern,1,25
+2012,West Virginia,1,25
+2015,Fla. Southern,2,25
+2012,Oregon,1,25
+2013,New Jersey City,3,25
+2013,Rice,1,25
+2012,Delaware,1,25
+2014,Gardner-Webb,1,25
+2014,Nova Southeastern,2,25
+2015,Neb. Wesleyan,3,25
+2015,Franklin Pierce,2,25
+2014,Montclair St.,3,25
+2014,UConn,1,25
+2015,William & Mary,1,25
+2013,Fla. Southern,2,25
+2014,Gannon,2,25
+2014,Illinois St.,1,25
+2013,Samford,1,25
+2013,Niagara,1,25
 2013,Fairfield,1,25
-2014,Chico St.,2,24
-2013,Chico St.,2,24
-2014,Oregon,1,24
-2014,Columbus St.,2,24
-2014,New Haven,2,24
-2013,Okla. Panhandle,2,24
-2013,Ole Miss,1,24
-2013,Merrimack,2,24
-2014,Dowling,2,24
-2014,Massachusetts,1,24
-2014,Metro St.,2,24
-2013,Felician,2,24
+2014,Rice,1,25
+2014,Hawaii Pacific,2,25
+2013,Saint Peter's,1,25
+2013,Arizona St.,1,25
+2014,Rhodes,3,25
+2014,Cal St. Dom. Hills,2,25
+2015,Brevard,2,25
+2015,Lafayette,1,25
+2014,Grand Canyon,1,25
+2013,Abilene Christian,2,25
+2015,Harvard,1,25
+2013,Pfeiffer,2,25
+2015,Concordia (TX),3,24
+2015,Akron,1,24
 2014,Arizona St.,1,24
-2014,Norfolk St.,1,24
+2015,Georgetown,1,24
+2012,Illinois St.,1,24
+2014,Metro St.,2,24
+2013,Husson,3,24
+2013,Texas Lutheran,3,24
+2014,Massachusetts,1,24
+2015,Bryant,1,24
+2015,Seton Hall,1,24
+2013,Ole Miss,1,24
 2014,St. Edward's,2,24
-2013,Columbia,1,24
-2013,Concordia-St. Paul,2,24
-2014,Washburn,2,24
 2014,UC Irvine,1,24
-2014,UMass Lowell,1,23
-2014,Tex. A&M-Kingsville,2,23
-2013,Sam Houston St.,1,23
+2015,Marshall,1,24
+2014,Columbus St.,2,24
+2012,Kennesaw St.,1,24
+2013,Columbia,1,24
+2015,Ramapo,3,24
+2015,Marist,1,24
+2015,Mansfield,2,24
+2015,Southern U.,1,24
+2014,Washburn,2,24
+2015,Mont. St. Billings,2,24
+2012,IPFW,1,24
+2013,Thiel,3,24
+2015,Central Mich.,1,24
+2014,Chico St.,2,24
+2015,Chestnut Hill,2,24
+2015,Ill.-Chicago,1,24
+2015,Portland,1,24
+2013,Felician,2,24
+2014,Oregon,1,24
+2014,Norfolk St.,1,24
+2015,Western Mich.,1,24
+2014,New Haven,2,24
+2015,Bemidji St.,2,24
+2015,Georgia College,2,24
+2014,Dowling,2,24
+2015,Rogers St.,2,24
+2014,Concordia Chicago,3,24
+2015,Southwest Minn. St.,2,24
+2013,Concordia-St. Paul,2,24
+2013,Okla. Panhandle,2,24
+2013,Merrimack,2,24
+2013,Chico St.,2,24
 2013,Virginia,1,23
-2013,Dayton,1,23
-2013,Alcorn,1,23
-2013,St. Bonaventure,1,23
-2014,Erskine,2,23
-2014,Akron,1,23
-2014,Pepperdine,1,23
 2014,Wayne St. (MI),2,23
-2014,St. Thomas Aquinas,2,23
-2013,Gannon,2,23
-2014,Mo. Southern St.,2,23
+2012,NJIT,1,23
+2012,San Diego St.,1,23
+2015,Kennesaw St.,1,23
 2014,Mississippi Val.,1,23
+2015,Bloomsburg,2,23
+2015,Charleston So.,1,23
+2012,Southern Utah,1,23
+2014,St. Thomas Aquinas,2,23
+2015,Fordham,1,23
+2014,Pepperdine,1,23
+2013,Sam Houston St.,1,23
+2014,Mo. Southern St.,2,23
+2015,Ark.-Monticello,2,23
+2015,Wagner,1,23
+2013,St. Bonaventure,1,23
+2014,Tex. A&M-Kingsville,2,23
+2014,Edgewood,3,23
+2015,Chico St.,2,23
+2013,Gannon,2,23
+2015,N.C. Central,1,23
+2014,UMass Lowell,1,23
+2014,Akron,1,23
+2015,Dowling,2,23
 2014,UAB,1,23
-2013,Hofstra,1,22
-2014,Cal St. San B'dino,2,22
-2014,Omaha,1,22
+2014,Rochester Inst.,3,23
+2015,Kutztown,2,23
+2012,Liberty,1,23
+2015,Central Okla.,2,23
+2012,South Dakota St.,1,23
+2015,Vassar,3,23
+2013,Alcorn,1,23
+2012,Davidson,1,23
+2014,Erskine,2,23
+2014,Old Westbury,3,23
+2013,Dayton,1,23
+2012,Ole Miss,1,23
+2013,TCNJ,3,22
+2013,Saint Leo,2,22
+2015,Limestone,2,22
+2013,Trine,3,22
+2012,California,1,22
+2012,Rider,1,22
 2013,Maine,1,22
-2014,North Dakota St.,1,22
-2013,UNC Asheville,1,22
-2014,Wis.-Parkside,2,22
-2014,Ball St.,1,22
 2013,King (TN),2,22
+2015,Ark.-Pine Bluff,1,22
+2014,Ramapo,3,22
+2014,North Dakota St.,1,22
+2014,Thiel,3,22
+2013,Johnson & Wales (RI),3,22
+2012,Stony Brook,1,22
+2015,Dominican (IL),3,22
+2014,UVa-Wise,2,22
 2013,Rollins,2,22
 2014,Mercyhurst,2,22
+2015,McMurry,3,22
+2013,Centenary (NJ),3,22
+2015,Allegheny,3,22
+2015,Bentley,2,22
+2015,Widener,3,22
 2014,Bemidji St.,2,22
-2014,Wingate,2,22
+2014,Omaha,1,22
+2012,Cal St. Fullerton,1,22
+2015,Oberlin,3,22
+2013,Hofstra,1,22
+2015,California,1,22
+2015,Miami (OH),1,22
+2014,Ball St.,1,22
 2013,San Fran. St.,2,22
-2014,UVa-Wise,2,22
-2013,Saint Leo,2,22
-2014,LIU Post,2,21
+2013,Brockport,3,22
+2013,UNC Asheville,1,22
+2014,Central (IA),3,22
+2014,Wis.-Parkside,2,22
+2014,Wingate,2,22
+2015,Arkansas Tech,2,22
+2013,Rockford,3,22
+2015,Quinnipiac,1,22
+2015,Wash. & Jeff.,3,22
+2014,Cal St. San B'dino,2,22
+2015,Harding,2,22
+2015,Alcorn,1,22
+2012,Chicago St.,1,22
+2015,Manhattanville,3,21
 2014,Harvard,1,21
-2013,Chestnut Hill,2,21
-2014,Mount Olive,2,21
-2013,NYIT,1,21
-2013,Florida A&M,1,21
-2014,Seton Hall,1,21
-2013,North Dakota,1,21
-2013,Ala.-Huntsville,2,21
-2013,Central Okla.,2,21
-2013,St. Anselm,2,21
-2013,Lock Haven,2,21
-2014,Northeastern,1,21
-2014,Delaware,1,21
+2012,Saint Peter's,1,21
+2015,SUNY Oneonta,3,21
+2012,Pittsburgh,1,21
+2015,Delta St.,2,21
+2015,Southwestern Okla.,2,21
+2015,Massachusetts,1,21
+2015,Cal St. San B'dino,2,21
 2014,Quinnipiac,1,21
+2013,UMass Boston,3,21
+2014,Seton Hall,1,21
+2015,Texas-Tyler,3,21
+2014,Northeastern,1,21
+2014,LIU Post,2,21
+2015,Albany (NY),1,21
+2015,Pittsburg St.,2,21
+2015,Grand Canyon,1,21
+2013,Manhattanville,3,21
+2013,Kenyon,3,21
+2015,Washington,1,21
+2015,Mount Olive,2,21
+2015,North Dakota St.,1,21
+2013,Rutgers-Newark,3,21
+2012,FIU,1,21
+2013,NYIT,1,21
+2012,Bradley,1,21
+2014,Mount Olive,2,21
+2014,Gallaudet,3,21
+2015,Iona,1,21
+2015,Dartmouth,1,21
+2013,DeSales,3,21
+2014,Allegheny,3,21
+2012,Campbell,1,21
+2013,Lock Haven,2,21
+2012,Cincinnati,1,21
+2015,Ball St.,1,21
+2013,Ala.-Huntsville,2,21
+2014,Stevens,3,21
+2015,Maryland,1,21
+2014,Manhattanville,3,21
+2014,Immaculata,3,21
+2013,St. Anselm,2,21
+2013,Central Okla.,2,21
+2014,Delaware,1,21
+2014,New Jersey City,3,21
+2013,Florida A&M,1,21
+2012,Alcorn,1,21
+2014,Willamette,3,21
+2013,North Dakota,1,21
+2015,Saint Michael's,2,21
 2014,Cameron,2,21
-2013,N.M. Highlands,2,20
-2013,Bellarmine,2,20
-2014,Northern Colo.,1,20
-2013,Mississippi Val.,1,20
-2013,FIU,1,20
+2013,Chestnut Hill,2,21
+2015,Virginia,1,21
+2014,St. Joseph's (Brkln),3,21
 2013,Mercyhurst,2,20
-2013,Georgia,1,20
-2014,Palm Beach Atl.,2,20
-2013,Ball St.,1,20
-2014,Southern U.,1,20
-2013,Quinnipiac,1,20
-2014,Grambling,1,20
-2013,Hawaii Hilo,2,20
+2015,Felician,2,20
+2015,Mary,2,20
+2015,SUNY Cortland,3,20
+2013,FIU,1,20
 2013,UMES,1,20
-2013,Colorado St.-Pueblo,2,20
-2013,Princeton,1,20
+2015,Willamette,3,20
+2013,Ball St.,1,20
+2015,UNC Pembroke,2,20
+2013,N.M. Highlands,2,20
+2014,DeSales,3,20
+2013,Georgia,1,20
+2015,Edgewood,3,20
+2013,Quinnipiac,1,20
+2014,Northern Colo.,1,20
+2015,UConn,1,20
+2013,Wentworth,3,20
+2014,Grambling,1,20
 2013,Davidson,1,20
+2015,Academy of Art,2,20
+2013,Hawaii Hilo,2,20
+2013,Bellarmine,2,20
+2012,New Mexico St.,1,20
+2014,Palm Beach Atl.,2,20
+2014,Southern U.,1,20
 2013,Northeastern,1,20
-2014,Southeastern Okla.,2,19
-2014,Samford,1,19
-2013,Northern Colo.,1,19
-2014,New Mexico St.,1,19
-2014,Lincoln (MO),2,19
-2013,Northwest Nazarene,2,19
-2014,Salem Int'l,2,19
-2014,Minn. St. Mankato,2,19
-2014,UALR,1,19
+2013,Montclair St.,3,20
+2013,Princeton,1,20
+2013,Mass. Maritime,3,20
+2012,Arizona St.,1,20
+2015,Salisbury,3,20
+2015,Lock Haven,2,20
+2015,Christian Bros.,2,20
+2012,Mississippi Val.,1,20
+2014,Dubuque,3,20
+2013,Colorado St.-Pueblo,2,20
+2013,Mississippi Val.,1,20
+2014,Mississippi Col.,3,20
+2015,Lamar,1,19
 2014,Slippery Rock,2,19
-2014,Arkansas Tech,2,19
-2013,Barry,2,19
+2013,Skidmore,3,19
+2015,Rice,1,19
+2012,Ark.-Pine Bluff,1,19
+2014,New Mexico St.,1,19
 2014,Belmont Abbey,2,19
+2015,Lincoln (MO),2,19
+2012,Princeton,1,19
+2013,Rochester (NY),3,19
 2014,Wilmington (DE),2,19
-2013,Minn.-Crookston,2,19
+2013,Northwest Nazarene,2,19
+2014,UALR,1,19
+2014,Arkansas Tech,2,19
+2015,Hamline,3,19
+2015,Gallaudet,3,19
+2015,Marietta,3,19
+2012,Buffalo,1,19
 2014,Winona St.,2,19
 2014,Saint Joseph's,1,19
-2014,Ohio Dominican,2,18
-2014,Longwood,1,18
-2014,Quincy,2,18
-2014,Davidson,1,18
-2014,Marshall,1,18
-2014,Colorado St.-Pueblo,2,18
-2014,George Mason,1,18
-2013,Nova Southeastern,2,18
-2013,Bloomsburg,2,18
-2013,Ohio,1,18
-2014,Bryant,1,18
-2014,Lindenwood (MO),2,18
-2014,Jackson St.,1,18
-2014,Cal St. Fullerton,1,18
+2014,Salem Int'l,2,19
+2013,Hendrix,3,19
+2014,Lincoln (MO),2,19
+2015,Holy Names,2,19
+2014,Samford,1,19
+2013,Willamette,3,19
+2013,Northern Colo.,1,19
+2014,Southeastern Okla.,2,19
+2013,Chris. Newport,3,19
+2013,Barry,2,19
+2015,Albright,3,19
+2015,Bethany Lutheran,3,19
+2014,Skidmore,3,19
+2013,Arcadia,3,19
+2015,Wis.-Parkside,2,19
+2015,Fresno St.,1,19
+2015,St. Mary's (TX),2,19
+2013,Minn.-Crookston,2,19
+2015,Mo. Western St.,2,19
+2014,Minn. St. Mankato,2,19
+2015,Northwest Nazarene,2,19
+2013,Brandeis,3,18
+2015,DeSales,3,18
+2015,Western Caro.,1,18
 2013,Georgetown,1,18
+2013,Neumann,3,18
+2014,George Mason,1,18
+2012,Rice,1,18
+2015,California Baptist,2,18
+2014,Jackson St.,1,18
+2014,Quincy,2,18
+2014,SUNY Oneonta,3,18
+2014,Cal St. Fullerton,1,18
+2015,Middle Tenn.,1,18
+2015,Union (TN),2,18
+2012,Quinnipiac,1,18
+2012,Arizona,1,18
+2015,Texas-Arlington,1,18
+2014,Wesley,3,18
+2015,Elizabethtown,3,18
+2015,LIU Brooklyn,1,18
+2012,Central Conn. St.,1,18
+2015,San Diego St.,1,18
+2013,Ohio,1,18
+2015,SUNY Maritime,3,18
+2015,Eastern Ill.,1,18
+2015,Lubbock Christian,2,18
+2014,CCNY,3,18
+2014,Bryant,1,18
+2015,Old Westbury,3,18
+2015,Grambling,1,18
+2012,Brown,1,18
 2013,Minnesota,1,18
-2013,Texas Southern,1,17
-2014,South Dakota St.,1,17
-2014,Prairie View,1,17
-2014,St. John's (NY),1,17
+2015,American Int'l,2,18
+2015,Alabama A&M,1,18
+2013,Nova Southeastern,2,18
+2012,Virginia,1,18
+2012,Charleston So.,1,18
+2015,Montclair St.,3,18
+2013,DePauw,3,18
+2015,Ill.-Springfield,2,18
+2014,Ohio Dominican,2,18
+2014,Marshall,1,18
+2015,Coe,3,18
+2014,Mass. Maritime,3,18
+2013,Bloomsburg,2,18
+2015,Macalester,3,18
+2012,NYIT,1,18
+2014,Lindenwood (MO),2,18
+2014,Colorado St.-Pueblo,2,18
+2014,Longwood,1,18
+2012,Saint Joseph's,1,18
+2015,Clarion,2,18
+2013,Misericordia,3,18
+2015,St. Anselm,2,18
+2014,Davidson,1,18
 2013,Mt. St. Mary's,1,17
-2013,Le Moyne,2,17
-2013,Bucknell,1,17
-2013,Western Mich.,1,17
-2014,Chestnut Hill,2,17
-2014,Saint Leo,2,17
-2014,California,1,17
+2015,Southern Wesleyan,2,17
+2015,Saint Rose,2,17
+2012,Southern California,1,17
 2013,Indiana (PA),2,17
+2014,California,1,17
+2014,Franklin,3,17
+2015,Le Moyne,2,17
+2012,Utah,1,17
+2015,Lindenwood (MO),2,17
+2013,Bucknell,1,17
+2015,UVa-Wise,2,17
+2015,Frostburg St.,3,17
+2014,Bethany (WV),3,17
+2014,Chestnut Hill,2,17
+2015,Northwest Mo. St.,2,17
+2013,Augsburg,3,17
+2014,Prairie View,1,17
+2014,South Dakota St.,1,17
+2013,Santa Clara,1,17
+2012,San Diego,1,17
+2013,Texas Southern,1,17
+2013,Calvin,3,17
+2013,Lake Erie,2,17
+2015,Molloy,2,17
+2014,Saint Leo,2,17
+2013,SUNY Oneonta,3,17
+2013,Salve Regina,3,17
+2014,Hawaii Hilo,2,17
+2015,New Jersey City,3,17
+2012,Sam Houston St.,1,17
+2013,Pitt.-Greensburg,3,17
+2015,Elmira,3,17
+2013,Olivet,3,17
+2013,Le Moyne,2,17
+2014,St. John's (NY),1,17
+2015,Samford,1,17
 2013,Saint Michael's,2,17
 2014,Tarleton St.,2,17
-2014,Hawaii Hilo,2,17
-2013,Santa Clara,1,17
-2013,Lake Erie,2,17
+2013,Case,3,17
 2014,Clarion,2,17
-2014,Alderson Broaddus,2,16
-2014,Long Beach St.,1,16
+2013,Western Mich.,1,17
 2013,Albany (NY),1,16
-2014,Santa Clara,1,16
-2014,Molloy,2,16
-2013,N.C. A&T,1,16
-2013,UC San Diego,2,16
-2014,VCU,1,16
-2014,Minn. Duluth,2,16
-2013,Findlay,2,16
+2015,Georgia,1,16
 2014,UC Santa Barbara,1,16
-2013,Rider,1,16
-2014,Georgia College,2,16
-2013,Alderson Broaddus,2,16
-2013,Richmond,1,16
+2013,Farmingdale St.,3,16
+2013,N.C. A&T,1,16
+2014,Clemson,1,16
+2012,N.C. A&T,1,16
+2014,Bluffton,3,16
+2015,Cedarville,2,16
+2014,Santa Clara,1,16
+2015,Belmont Abbey,2,16
+2013,Findlay,2,16
+2013,Hardin-Simmons,3,16
+2014,Waynesburg,3,16
+2013,Stevenson,3,16
+2014,Utica,3,16
+2014,Minn. Duluth,2,16
+2014,VCU,1,16
+2015,Misericordia,3,16
+2013,Brown,1,16
+2013,Wis.-Platteville,3,16
+2013,UC San Diego,2,16
+2014,Niagara,1,16
+2015,Chris. Newport,3,16
+2014,Georgia,1,16
 2014,Binghamton,1,16
+2013,Hawaii Pacific,2,16
+2015,Saint Joseph's,1,16
+2015,Mississippi Val.,1,16
+2013,Richmond,1,16
+2015,Clemson,1,16
+2014,Long Beach St.,1,16
+2012,Seton Hall,1,16
+2012,Holy Cross,1,16
+2013,North Ala.,2,16
+2015,Wesley,3,16
+2012,Jacksonville,1,16
+2013,Linfield,3,16
+2015,Moravian,3,16
+2014,Georgia College,2,16
+2014,Ark.-Pine Bluff,1,16
 2013,Cornell,1,16
 2014,Dayton,1,16
-2014,Georgia,1,16
-2014,Clemson,1,16
-2013,Hawaii Pacific,2,16
-2013,North Ala.,2,16
-2014,Niagara,1,16
-2013,Brown,1,16
-2014,Ark.-Pine Bluff,1,16
-2014,CSUN,1,15
-2013,Saint Joseph's,1,15
-2013,William & Mary,1,15
-2013,Slippery Rock,2,15
+2015,Delaware,1,16
+2013,Alderson Broaddus,2,16
+2015,Central Ark.,1,16
+2014,Alderson Broaddus,2,16
+2012,Northwestern,1,16
+2012,Clemson,1,16
+2013,Rider,1,16
+2015,Wayne St. (NE),2,16
+2014,Molloy,2,16
+2014,Elizabethtown,3,15
+2013,UMass Lowell,2,15
+2013,Plattsburgh St.,3,15
+2014,UMass Boston,3,15
+2013,Lafayette,1,15
+2015,Northwestern Okla.,2,15
+2013,Immaculata,3,15
+2014,Wentworth,3,15
+2015,Immaculata,3,15
+2012,Georgia,1,15
+2013,Rochester Inst.,3,15
+2014,Gwynedd Mercy,3,15
+2015,Ithaca,3,15
+2015,UMBC,1,15
+2015,St. Mary's (MD),3,15
+2012,Oral Roberts,1,15
+2014,Marian (WI),3,15
+2013,Cameron,2,15
+2013,Saginaw Valley,2,15
+2015,Toledo,1,15
+2015,Wheeling Jesuit,2,15
 2014,Adams St.,2,15
 2013,Clemson,1,15
-2013,Binghamton,1,15
-2013,Saginaw Valley,2,15
-2013,Mansfield,2,15
-2013,Lafayette,1,15
-2013,Cameron,2,15
+2013,Ohio Northern,3,15
+2015,Drew,3,15
 2013,East Stroudsburg,2,15
-2014,Indiana (PA),2,15
-2013,Bowling Green,1,15
+2015,Stevenson,3,15
 2014,Butler,1,15
-2013,Central Conn. St.,1,15
+2014,Augsburg,3,15
+2015,Binghamton,1,15
+2013,Mansfield,2,15
+2012,San Francisco,1,15
+2015,SIUE,1,15
+2015,Rider,1,15
+2013,Slippery Rock,2,15
+2014,Minn.-Morris,3,15
 2014,San Diego,1,15
+2015,Oregon,1,15
+2013,William & Mary,1,15
+2013,Binghamton,1,15
 2013,Montevallo,2,15
 2014,Mary,2,15
-2013,UMass Lowell,2,15
-2014,Hillsdale,2,15
+2014,Stevenson,3,15
+2015,Carson-Newman,2,15
+2014,Buena Vista,3,15
+2013,Saint Joseph's,1,15
 2013,St. John's (NY),1,15
+2013,Bowling Green,1,15
+2014,Coe,3,15
+2015,Adams St.,2,15
+2015,Truman,2,15
+2015,Fairfield,1,15
+2014,CSUN,1,15
 2014,Sacred Heart,1,15
+2015,West Florida,2,15
+2015,Lebanon Valley,3,15
+2015,Mass. Maritime,3,15
+2014,Indiana (PA),2,15
+2013,Central Conn. St.,1,15
+2014,Hillsdale,2,15
+2015,Pittsburgh,1,15
+2012,Ohio,1,15
+2013,N.C. Central,1,14
+2015,Bucknell,1,14
+2013,Savannah St.,1,14
+2014,Chris. Newport,3,14
+2013,Palm Beach Atl.,2,14
+2014,La Salle,1,14
+2014,SUNY New Paltz,3,14
+2013,Shorter,2,14
 2014,Rider,1,14
+2015,Piedmont,3,14
+2013,Hamline,3,14
 2013,Tarleton St.,2,14
-2013,Pace,2,14
-2014,Montevallo,2,14
+2013,Marywood,3,14
 2013,Clarion,2,14
+2014,Saint John's (MN),3,14
+2013,Pace,2,14
+2015,Butler,1,14
+2015,Chicago St.,1,14
+2012,Florida A&M,1,14
+2013,St. Mary's (TX),2,14
+2013,South Fla.,1,14
+2012,Old Dominion,1,14
+2015,Minn.-Morris,3,14
+2014,Florida A&M,1,14
+2012,Harvard,1,14
+2015,Skidmore,3,14
+2015,Central Conn. St.,1,14
+2012,Norfolk St.,1,14
+2013,Jackson St.,1,14
+2015,Mercyhurst,2,14
 2013,West Chester,2,14
 2013,Georgia St.,1,14
-2013,Grand Canyon,2,14
-2013,Ark.-Pine Bluff,1,14
-2014,Georgia St.,1,14
-2013,South Fla.,1,14
-2013,Alabama A&M,1,14
-2013,GRU Augusta,2,14
-2013,Shorter,2,14
+2015,Belmont,1,14
 2013,Manhattan,1,14
-2013,Savannah St.,1,14
-2013,Jackson St.,1,14
-2014,North Ala.,2,14
+2014,Ohio Northern,3,14
+2015,Jackson St.,1,14
+2015,Dayton,1,14
+2014,Kenyon,3,14
+2015,Stonehill,2,14
+2014,Bridgewater (VA),3,14
+2013,Grand Canyon,2,14
+2013,GRU Augusta,2,14
+2014,Neumann,3,14
+2013,Alma,3,14
+2013,Ark.-Pine Bluff,1,14
+2015,North Central (IL),3,14
 2013,Stillman,2,14
-2013,Palm Beach Atl.,2,14
 2014,Pitt.-Johnstown,2,14
-2013,Delaware,1,14
+2015,Indiana (PA),2,14
 2013,Neb.-Kearney,2,14
-2014,Florida A&M,1,14
-2014,La Salle,1,14
-2013,St. Mary's (TX),2,14
-2013,N.C. Central,1,14
-2013,East Central,2,13
-2014,Washington,1,13
-2014,Lewis,2,13
-2014,Southern N.H.,2,13
-2014,Maine,1,13
-2014,Drury,2,13
-2013,Lindenwood (MO),2,13
-2013,William Jewell,2,13
+2013,Alabama A&M,1,14
+2014,North Ala.,2,14
+2015,Georgia St.,1,14
+2014,Hendrix,3,14
+2013,Delaware,1,14
+2014,Montevallo,2,14
+2014,Georgia St.,1,14
 2013,Lincoln (MO),2,13
-2013,North Greenville,2,13
+2013,East Central,2,13
+2013,Bridgewater St.,3,13
+2015,Adrian,3,13
+2015,Northern Colo.,1,13
+2014,Ithaca,3,13
+2012,Army West Point,1,13
+2014,Washington,1,13
+2014,Neb. Wesleyan,3,13
+2014,Lewis,2,13
 2013,Assumption,2,13
-2014,Stony Brook,1,13
-2014,Assumption,2,13
-2013,Pittsburg St.,2,13
-2014,Brown,1,13
+2015,Cal St. Fullerton,1,13
+2015,Rowan,3,13
+2015,Pfeiffer,2,13
 2014,UNC Greensboro,1,13
+2015,Averett,3,13
+2015,UNC Greensboro,1,13
 2013,Bemidji St.,2,13
-2014,St. Bonaventure,1,12
-2013,Fordham,1,12
-2014,East Central,2,12
+2013,North Greenville,2,13
+2013,Allegheny,3,13
+2014,Stony Brook,1,13
+2013,William Jewell,2,13
+2014,Plattsburgh St.,3,13
+2014,Gettysburg,3,13
+2013,Denison,3,13
+2015,Wilmington (DE),2,13
+2013,Lindenwood (MO),2,13
+2014,Southern N.H.,2,13
+2014,Alvernia,3,13
+2015,Niagara,1,13
+2012,Alabama A&M,1,13
+2015,Sioux Falls,2,13
+2014,Drury,2,13
+2014,Brown,1,13
+2015,Princeton,1,13
+2013,Rowan,3,13
+2014,Maine,1,13
+2014,Texas-Dallas,3,13
+2013,Presentation,3,13
+2013,Pittsburg St.,2,13
+2012,Hartford,1,13
+2014,Hope,3,13
+2015,Saint Martin's,2,13
+2015,CSUN,1,13
+2014,Assumption,2,13
+2015,Wooster,3,13
+2014,Loras,3,13
+2014,St. Joseph's (ME),3,12
+2015,William Jewell,2,12
+2015,Neumann,3,12
+2015,Penn St. Harrisburg,3,12
+2012,Cornell,1,12
+2013,Wash. & Lee,3,12
+2015,Hawaii Hilo,2,12
+2015,Glenville St.,2,12
+2015,UC Riverside,1,12
 2014,Henderson St.,2,12
-2014,McMurry,2,12
-2014,Rockhurst,2,12
-2013,Stonehill,2,12
-2013,Adelphi,2,12
-2014,NYIT,1,12
+2015,Assumption,2,12
 2014,Mont. St. Billings,2,12
-2014,Army,1,12
-2014,St. Cloud St.,2,12
+2013,Bluffton,3,12
+2014,Lafayette,1,12
+2015,Southeastern Okla.,2,12
+2014,Princeton,1,12
+2015,FDU-Florham,3,12
+2012,Iowa,1,12
+2015,Salem Int'l,2,12
+2013,Stonehill,2,12
+2015,NJIT,1,12
+2014,McMurry,2,12
+2013,Elizabethtown,3,12
 2014,Saint Rose,2,12
+2013,Regis (CO),2,12
+2013,Pitt.-Bradford,3,12
+2015,Plattsburgh St.,3,12
+2014,Newman,2,12
+2015,Wabash,3,12
+2013,Wis.-Parkside,2,12
+2013,Fordham,1,12
+2015,Jacksonville,1,12
+2015,Yale,1,12
+2013,Wesley,3,12
+2014,NJIT,1,12
+2014,Delta St.,2,12
+2014,Army,1,12
+2014,John Carroll,3,12
+2015,SUNY New Paltz,3,12
+2015,Northern St.,2,12
+2014,Rockhurst,2,12
+2015,Colorado Mines,2,12
+2015,Gettysburg,3,12
+2014,Lebanon Valley,3,12
+2015,Southern N.H.,2,12
+2015,Davis & Elkins,2,12
 2013,Paine,2,12
 2013,Belmont Abbey,2,12
-2013,Regis (CO),2,12
-2014,Lafayette,1,12
-2014,Delta St.,2,12
+2015,Augsburg,3,12
+2015,UNCG,1,12
+2013,Marian (WI),3,12
+2015,Florida A&M,1,12
+2014,St. Cloud St.,2,12
+2015,LeMoyne-Owen,2,12
+2014,NYIT,1,12
+2015,Cornell,1,12
+2014,St. Bonaventure,1,12
+2012,UMBC,1,12
 2014,West Florida,2,12
-2014,NJIT,1,12
-2014,Newman,2,12
-2014,Princeton,1,12
-2013,Wis.-Parkside,2,12
-2014,Upper Iowa,2,11
-2014,Minot St.,2,11
-2013,Henderson St.,2,11
-2013,St. Thomas Aquinas,2,11
-2014,Saint Michael's,2,11
-2014,Coppin St.,1,11
-2013,Newman,2,11
-2014,Ill.-Springfield,2,11
-2013,Penn,1,11
+2015,Evansville,1,12
+2014,East Central,2,12
+2013,Adelphi,2,12
 2013,Cincinnati,1,11
+2015,Kenyon,3,11
 2014,Wayne St. (NE),2,11
-2013,Erskine,2,11
-2014,Pfeiffer,2,11
-2014,IPFW,1,11
-2014,UMES,1,11
-2014,Rollins,2,11
-2014,Notre Dame (OH),2,11
-2014,Stonehill,2,11
+2015,Mars Hill,2,11
+2015,Upper Iowa,2,11
 2013,Bloomfield,2,11
-2013,Old Dominion,1,10
-2013,Grambling,1,10
-2014,Colo. Christian,2,10
-2014,Penn,1,10
-2014,Delaware St.,1,10
-2013,Minn. Duluth,2,10
-2014,Pittsburg St.,2,10
-2014,Findlay,2,10
-2014,Le Moyne,2,10
+2014,Denison,3,11
+2013,Newman,2,11
+2013,Erskine,2,11
+2015,Concordia Chicago,3,11
+2013,Clarkson,3,11
+2015,Philadelphia U.,2,11
+2014,Coppin St.,1,11
+2015,Tarleton St.,2,11
+2013,Millsaps,3,11
+2013,Eastern,3,11
+2012,Savannah St.,1,11
+2015,Rollins,2,11
+2014,Saint Michael's,2,11
+2013,Keystone,3,11
+2013,Gwynedd Mercy,3,11
+2014,Pfeiffer,2,11
+2015,Gwynedd Mercy,3,11
+2014,Stonehill,2,11
+2014,UMES,1,11
+2014,Upper Iowa,2,11
+2015,Oral Roberts,1,11
+2014,Albion,3,11
+2014,Ill.-Springfield,2,11
+2014,Minot St.,2,11
+2013,Penn,1,11
+2015,La Salle,1,11
+2015,Lincoln Memorial,2,11
+2014,St. Lawrence,3,11
+2013,Albion,3,11
+2012,Washington,1,11
+2015,Manchester,3,11
+2014,IPFW,1,11
+2014,Thomas More,3,11
+2015,NYIT,1,11
+2015,Merrimack,2,11
+2013,LeTourneau,3,11
+2015,Siena,1,11
+2015,Linfield,3,11
+2014,Rollins,2,11
+2013,Oswego St.,3,11
+2015,TCNJ,3,11
+2013,Neb. Wesleyan,3,11
+2013,St. Thomas Aquinas,2,11
+2015,Caldwell,2,11
+2014,Notre Dame (OH),2,11
+2015,Bloomfield,2,11
+2013,Gettysburg,3,11
+2013,Henderson St.,2,11
+2015,LeTourneau,3,11
+2012,Albany (NY),1,11
+2015,Saint Leo,2,11
+2015,North Ala.,2,11
+2015,UMass Lowell,1,10
+2014,Tiffin,2,10
+2015,Lehigh,1,10
 2013,Grand Valley St.,2,10
-2014,Saint Peter's,1,10
-2013,Armstrong,2,10
-2014,Temple,1,10
-2013,Ill.-Springfield,2,10
-2014,West Ala.,2,10
-2013,Colorado Mines,2,10
-2013,Buffalo,1,10
+2013,Albright,3,10
+2015,DePauw,3,10
+2015,Coppin St.,1,10
 2014,Albany (NY),1,10
+2014,Colo. Christian,2,10
+2015,Sacred Heart,1,10
+2014,Findlay,2,10
+2014,Hamline,3,10
+2015,Bethany (WV),3,10
+2014,Saint Peter's,1,10
+2014,Temple,1,10
+2014,Alabama A&M,1,10
+2013,Minn. Duluth,2,10
+2013,FDU-Florham,3,10
+2015,Delaware St.,1,10
+2014,West Ala.,2,10
+2013,Wis. Lutheran,3,10
+2013,Buffalo,1,10
+2012,Penn,1,10
+2012,UMES,1,10
+2013,Colorado Mines,2,10
+2015,Maine,1,10
+2014,Wartburg,3,10
+2013,Old Dominion,1,10
+2014,Delaware St.,1,10
+2015,Buena Vista,3,10
+2015,Colo. Christian,2,10
+2013,Birmingham-So.,3,10
+2013,Grambling,1,10
+2013,Armstrong,2,10
+2015,Stevens,3,10
+2015,Pace,2,10
+2014,Neb.-Kearney,2,10
+2015,Bridgeport,2,10
+2015,Calvin,3,10
+2015,West Chester,2,10
+2014,Penn,1,10
+2012,Binghamton,1,10
+2015,Rhode Island,1,10
+2012,Niagara,1,10
+2015,Shorter,2,10
+2014,Worcester St.,3,10
+2015,Montevallo,2,10
+2015,Army,1,10
 2013,Fairmont St.,2,10
 2013,Yale,1,10
-2014,Neb.-Kearney,2,10
-2014,Tiffin,2,10
-2014,Alabama A&M,1,10
-2014,St. Mary's (TX),2,9
-2013,Harvard,1,9
-2013,Cal St. Stanislaus,2,9
-2013,Lincoln Memorial,2,9
-2013,Adams St.,2,9
-2014,Dominican (NY),2,9
-2013,Western Ill.,1,9
-2014,Albany St. (GA),2,9
-2013,Lincoln (PA),2,9
-2014,Ark.-Fort Smith,2,9
-2013,Lander,2,9
-2014,Armstrong,2,9
-2013,Chowan,2,9
-2014,Northwest Mo. St.,2,9
-2014,Rhode Island,1,9
-2014,Lock Haven,2,9
-2014,Adelphi,2,9
-2013,Toledo,1,9
-2013,Maryville (MO),2,9
-2013,Lenoir-Rhyne,2,9
-2014,Mt. St. Mary's,1,9
-2014,William Jewell,2,9
-2014,Ouachita Baptist,2,9
-2013,Ohio Dominican,2,9
+2015,Ohio Valley,2,10
+2013,Ill.-Springfield,2,10
+2015,Minn. Duluth,2,10
+2014,Le Moyne,2,10
+2015,Bard,3,10
+2014,Pittsburg St.,2,10
+2015,Mt. St. Mary's,1,10
+2014,Endicott,3,10
+2013,Maranatha Baptist,3,10
+2015,Colorado St.-Pueblo,2,10
+2014,Clarkson,3,9
+2014,Eastern,3,9
+2015,Loras,3,9
+2013,SUNY New Paltz,3,9
 2013,St. Cloud St.,2,9
-2014,West Virginia St.,2,9
-2014,Cornell,1,9
-2014,Richmond,1,9
-2014,Queens (NY),2,9
+2013,Lander,2,9
+2015,Tiffin,2,9
+2014,Rowan,3,9
+2015,Mo.-St. Louis,2,9
+2014,William Jewell,2,9
+2013,MSOE,3,9
+2014,Widener,3,9
+2013,Harvard,1,9
 2013,Ga. Southwestern,2,9
-2013,Philadelphia U.,2,9
+2015,New Haven,2,9
+2013,Chowan,2,9
+2014,Lock Haven,2,9
+2013,Cal St. Stanislaus,2,9
+2015,Penn,1,9
+2014,Dominican (NY),2,9
+2014,St. Mary's (TX),2,9
+2014,Queens (NY),2,9
+2013,Aurora,3,9
+2014,Mt. St. Mary's,1,9
 2014,Ashland,2,9
+2015,St. Thomas Aquinas,2,9
+2014,Drew,3,9
+2014,West Virginia St.,2,9
+2014,Ouachita Baptist,2,9
+2015,Henderson St.,2,9
+2013,Western Ill.,1,9
+2014,Armstrong,2,9
+2015,Hood,3,9
+2013,Lincoln Memorial,2,9
+2013,Hope,3,9
+2013,Maryville (MO),2,9
+2015,Regis (CO),2,9
+2015,King's (PA),3,9
+2014,Northwest Mo. St.,2,9
+2013,Ohio Dominican,2,9
+2014,Adelphi,2,9
+2013,Ozarks (AR),3,9
+2014,Cornell,1,9
+2013,Toledo,1,9
+2014,Misericordia,3,9
+2013,St. John Fisher,3,9
+2013,Pacific Lutheran,3,9
+2013,Lenoir-Rhyne,2,9
+2015,Rensselaer,3,9
+2012,Bucknell,1,9
+2014,Brockport,3,9
+2015,VCU,1,9
+2014,MSOE,3,9
+2013,Philadelphia U.,2,9
+2015,Eastern,3,9
+2015,Southern Conn. St.,2,9
+2014,Ark.-Fort Smith,2,9
+2014,Richmond,1,9
+2015,Mercy,2,9
+2013,Lincoln (PA),2,9
+2015,Maryville (MO),2,9
+2015,Queens (NY),2,9
+2014,Albany St. (GA),2,9
+2013,Adams St.,2,9
+2015,Emmanuel (GA),2,9
+2014,Rhode Island,1,9
 2013,Notre Dame (OH),2,8
-2013,Union (TN),2,8
-2014,S.C. Aiken,2,8
-2014,Bucknell,1,8
-2013,Southern U.,1,8
-2014,Concordia (NY),2,8
-2014,Wheeling Jesuit,2,8
-2013,Drury,2,8
-2014,East Stroudsburg,2,8
-2014,UC Riverside,1,8
-2014,Walsh,2,8
-2014,Bridgeport,2,8
+2013,Western New Eng.,3,8
+2015,UC Irvine,1,8
 2014,Okla. Christian,2,8
-2014,West Chester,2,8
-2014,Central Conn. St.,1,8
-2014,American Int'l,2,8
-2014,Mansfield,2,8
+2015,St. Cloud St.,2,8
+2014,SUNY Poly,3,8
+2015,Ohio,1,8
+2015,Ga. Southwestern,2,8
+2015,Norfolk St.,1,8
+2014,Rockford,3,8
+2014,Bridgeport,2,8
+2013,Texas-Dallas,3,8
+2014,Oswego St.,3,8
+2014,TCNJ,3,8
+2013,Stockton,3,8
+2015,Florida Tech,2,8
+2013,Castleton,3,8
+2013,Drury,2,8
+2015,Okla. Christian,2,8
+2014,S.C. Aiken,2,8
+2014,Texas-Tyler,3,8
+2015,Lewis & Clark,3,8
+2013,Widener,3,8
+2015,Clarkson,3,8
+2013,Lebanon Valley,3,8
+2015,St. Edward's,2,8
+2013,USciences,2,8
+2015,St. Joseph's (ME),3,8
+2014,SUNY Cortland,3,8
+2014,Concordia (NY),2,8
+2014,Wheaton (IL),3,8
+2012,Lehigh,1,8
+2015,Texas Southern,1,8
 2014,Regis (CO),2,8
-2014,West Liberty,2,8
-2013,Ark.-Fort Smith,2,8
-2014,Northwest Nazarene,2,8
-2013,Brevard,2,8
+2015,North Dakota,1,8
+2013,Union (TN),2,8
+2013,Southern U.,1,8
 2013,Tex. A&M Int'l,2,8
+2015,York (PA),3,8
+2014,East Stroudsburg,2,8
+2014,Mansfield,2,8
+2015,Rochester Inst.,3,8
+2013,Ky. Wesleyan,2,8
+2014,Bard,3,8
+2014,West Liberty,2,8
+2015,West Liberty,2,8
+2014,Central Conn. St.,1,8
+2014,Walsh,2,8
+2015,Texas-Dallas,3,8
 2013,American Int'l,2,8
+2013,Yeshiva,3,8
+2014,Northwest Nazarene,2,8
+2013,Southern Me.,3,8
+2015,Newberry,2,8
+2013,John Carroll,3,8
+2013,Fredonia,3,8
+2014,Linfield,3,8
+2013,Ark.-Fort Smith,2,8
 2013,Army West Point,1,8
 2014,West Ga.,2,8
-2013,Ky. Wesleyan,2,8
-2013,USciences,2,8
+2013,Coe,3,8
+2014,Wis. Lutheran,3,8
+2013,Brevard,2,8
+2015,Gordon,3,8
+2014,Farmingdale St.,3,8
+2014,Bucknell,1,8
+2015,UC Santa Barbara,1,8
+2014,West Chester,2,8
+2014,UC Riverside,1,8
+2014,American Int'l,2,8
+2014,Eureka,3,8
+2014,Calvin,3,8
+2014,Wheeling Jesuit,2,8
+2015,Trevecca Nazarene,2,8
 2013,Cal St. Dom. Hills,2,8
-2014,Lander,2,7
-2014,North Georgia,2,7
+2014,Arcadia,3,8
+2014,Bridgewater St.,3,7
 2014,Tex. Permian Basin,2,7
-2013,Prairie View,1,7
-2013,Eckerd,2,7
+2013,Gordon,3,7
+2015,Richmond,1,7
+2015,Grand Valley St.,2,7
+2013,Old Westbury,3,7
+2015,Scranton,3,7
+2014,North Georgia,2,7
+2015,East Stroudsburg,2,7
+2013,Oakland,1,7
+2014,Lander,2,7
+2013,Wittenberg,3,7
+2015,Rockhurst,2,7
+2014,Birmingham-So.,3,7
+2013,Frostburg St.,3,7
+2014,Wm. Paterson,3,7
+2014,Concordia Wisconsin,3,7
+2015,Babson,3,7
+2014,St. Joseph's (L.I.),3,7
+2015,Howard Payne,3,7
+2015,Lander,2,7
+2015,Hardin-Simmons,3,7
 2013,Post,2,7
-2013,Salem Int'l,2,7
-2014,Brevard,2,7
-2013,Lehigh,1,7
-2014,Ohio Valley,2,7
-2013,Albany St. (GA),2,7
+2013,Medaille,3,7
+2013,Bridgewater (VA),3,7
+2015,Kalamazoo,3,7
 2014,Catawba,2,7
 2014,Maryville (MO),2,7
-2013,Northern St.,2,7
-2013,Tusculum,2,7
-2013,Southern Conn. St.,2,7
-2013,South Dakota St.,1,7
-2013,Ashland,2,7
+2012,Maine,1,7
+2014,St. Thomas (MN),3,7
+2014,Ohio Valley,2,7
+2015,IPFW,1,7
+2014,North Central (IL),3,7
+2015,Eckerd,2,7
+2015,Catawba,2,7
 2014,USciences,2,7
+2015,Miles,2,7
+2013,Southern Conn. St.,2,7
 2013,St. Joseph's (IN),2,7
+2013,South Dakota St.,1,7
 2013,Carson-Newman,2,7
-2013,Southeastern Okla.,2,7
-2014,Lake Erie,2,7
-2014,Fairmont St.,2,7
+2015,Post,2,7
+2014,King's (PA),3,7
 2014,Lincoln Memorial,2,7
-2013,Oakland,1,7
-2014,Lenoir-Rhyne,2,6
-2014,Southern Conn. St.,2,6
-2014,Paine,2,6
-2014,Post,2,6
-2014,Lehigh,1,6
-2013,Tuskegee,2,6
-2014,Ky. Wesleyan,2,6
-2014,GRU Augusta,2,6
-2014,Philadelphia U.,2,6
-2014,Sioux Falls,2,6
+2015,Saint Peter's,1,7
+2014,Lake Erie,2,7
+2013,Southeastern Okla.,2,7
+2013,St. Joseph's (ME),3,7
+2014,Howard Payne,3,7
+2014,Baruch,3,7
+2013,Utica,3,7
+2015,Wayne St. (MI),2,7
+2013,Hiram,3,7
+2013,Northern St.,2,7
+2013,Salem Int'l,2,7
+2013,Wm. Paterson,3,7
+2013,Albany St. (GA),2,7
+2013,Puget Sound,3,7
+2013,Lehigh,1,7
+2015,Long Beach St.,1,7
+2014,Austin,3,7
+2015,Tex. A&M Int'l,2,7
+2013,Eckerd,2,7
+2014,East Tex. Baptist,3,7
+2013,Ohio Wesleyan,3,7
+2013,Kalamazoo,3,7
+2013,Prairie View,1,7
+2015,Fairleigh Dickinson,1,7
+2013,Rutgers-Camden,3,7
+2015,Findlay,2,7
+2014,Brevard,2,7
+2013,Fitchburg St.,3,7
+2013,Wilkes,3,7
+2014,MIT,3,7
+2013,Eastern Conn. St.,3,7
+2013,Tusculum,2,7
+2015,Shepherd,2,7
+2014,Wash. & Jeff.,3,7
+2013,Ashland,2,7
+2015,Hendrix,3,7
+2013,Framingham St.,3,7
+2014,LeTourneau,3,7
+2014,Fairmont St.,2,7
+2012,Southern U.,1,6
+2015,Fredonia,3,6
+2015,GRU Augusta,2,6
+2015,East Central,2,6
 2014,LeMoyne-Owen,2,6
-2013,Benedict,2,6
-2013,S.C. Aiken,2,6
-2013,Minn. St. Mankato,2,6
-2014,Urbana,2,6
-2013,Mo.-St. Louis,2,6
-2013,Winona St.,2,6
+2014,Ky. Wesleyan,2,6
+2015,Messiah,3,6
+2014,Lewis & Clark,3,6
+2014,Philadelphia U.,2,6
 2013,LeMoyne-Owen,2,6
-2014,Saint Augustine's,2,6
-2013,Sioux Falls,2,6
-2014,Merrimack,2,6
+2013,Eureka,3,6
+2015,Mount Aloysius,3,6
+2014,Keuka,3,6
+2013,Minn. St. Mankato,2,6
+2015,Whitman,3,6
+2012,Prairie View,1,6
+2015,Olivet,3,6
+2014,Grove City,3,6
+2014,Lenoir-Rhyne,2,6
+2014,Westminster (PA),3,6
+2013,Mo.-St. Louis,2,6
+2014,Staten Island,3,6
+2014,Lehigh,1,6
+2014,Pacific Lutheran,3,6
+2013,Penn St.-Behrend,3,6
+2015,Anna Maria,3,6
+2015,Medaille,3,6
+2013,Baldwin Wallace,3,6
+2012,Longwood,1,6
 2013,Southern Nazarene,2,6
-2014,Oakland City,2,6
-2014,Ga. Southwestern,2,6
-2013,Newberry,2,6
+2014,Hiram,3,6
+2015,Ark.-Fort Smith,2,6
 2014,Malone,2,6
-2014,Pace,2,6
+2014,Urbana,2,6
+2013,WPI,3,6
+2013,Winona St.,2,6
+2014,Baldwin Wallace,3,6
+2013,Union (NY),3,6
+2015,St. John's (NY),1,6
+2013,Washington-St. Louis,3,6
+2014,GRU Augusta,2,6
+2015,St. John Fisher,3,6
+2014,Paine,2,6
+2015,Gust. Adolphus,3,6
+2013,Sioux Falls,2,6
 2014,Glenville St.,2,6
+2014,Rutgers-Newark,3,6
+2013,Newberry,2,6
+2015,Pacific Lutheran,3,6
+2013,Berry,3,6
+2013,Lewis & Clark,3,6
+2015,Palm Beach Atl.,2,6
+2015,USciences,2,6
+2014,Southern Me.,3,6
+2014,Anderson (IN),3,6
+2014,Ga. Southwestern,2,6
+2014,Transylvania,3,6
+2014,Sioux Falls,2,6
+2015,Ky. Wesleyan,2,6
+2015,Wilkes,3,6
+2013,Colby-Sawyer,3,6
+2015,Tex. Permian Basin,2,6
+2013,Randolph-Macon,3,6
+2014,Lehman,3,6
 2014,Mo.-St. Louis,2,6
-2014,Coker,2,5
-2013,Urbana,2,5
-2013,Glenville St.,2,5
-2013,Minot St.,2,5
-2013,Omaha,1,5
-2014,Mercy,2,5
-2013,Wayne St. (NE),2,5
+2012,Georgetown,1,6
+2014,Post,2,6
+2013,Tuskegee,2,6
+2015,St. Joseph's (IN),2,6
+2014,Merrimack,2,6
+2015,Charleston (WV),2,6
+2014,Saint Mary's (MN),3,6
+2015,Minn. St. Mankato,2,6
+2013,Scranton,3,6
+2013,Bethel (MN),3,6
+2014,Saint Augustine's,2,6
+2015,Louisiana Col.,3,6
+2013,S.C. Aiken,2,6
+2015,Quincy,2,6
+2014,Ohio Wesleyan,3,6
+2013,Benedict,2,6
+2014,Pace,2,6
+2014,Southern Conn. St.,2,6
+2012,South Fla.,1,6
+2015,Martin Luther,3,6
+2015,Concordia Wisconsin,3,6
+2013,Westfield St.,3,6
+2013,Cairn,3,6
+2014,Moravian,3,6
+2013,York (PA),3,6
+2015,Catholic,3,6
+2015,Brockport,3,6
+2015,Omaha,1,6
+2012,Jackson St.,1,6
+2014,DePauw,3,6
+2014,Oakland City,2,6
+2012,Texas Southern,1,6
+2014,Rutgers-Camden,3,6
+2013,Whitman,3,6
+2013,Wash. & Jeff.,3,6
+2015,Arcadia,3,6
+2013,Schreiner,3,6
+2014,St. Olaf,3,6
+2013,Wis.-Superior,3,6
+2015,West Va. Wesleyan,2,6
+2015,Lake Erie,2,6
 2013,Bridgeport,2,5
-2013,Dominican (NY),2,5
-2013,Lewis,2,5
+2013,D'Youville,3,5
+2015,CCNY,3,5
+2015,Armstrong,2,5
+2015,Alderson Broaddus,2,5
+2013,Salem St.,3,5
+2013,King's (PA),3,5
+2014,St. Mary's (MD),3,5
+2015,Rivier,3,5
+2015,Carleton,3,5
+2013,McDaniel,3,5
+2015,Crown (MN),3,5
+2015,Lynn,2,5
+2014,Millsaps,3,5
+2014,Rensselaer,3,5
+2014,FDU-Florham,3,5
+2013,Emory,3,5
+2014,Johns Hopkins,3,5
+2015,Nyack,2,5
+2015,Marymount (VA),3,5
+2013,St. Mary's (MD),3,5
+2015,Fairmont St.,2,5
+2014,Keystone,3,5
+2013,Drew,3,5
+2014,Maranatha Baptist,3,5
+2014,Chicago,3,5
+2013,Emerson,3,5
+2013,Glenville St.,2,5
 2014,Tusculum,2,5
-2014,Saginaw Valley,2,5
+2015,Farmingdale St.,3,5
+2013,SUNY Cortland,3,5
 2014,Union (TN),2,5
-2014,Bluefield St.,2,5
-2013,Molloy,2,5
+2014,Ozarks (AR),3,5
+2014,Macalester,3,5
+2015,Coker,2,5
 2013,West Va. Wesleyan,2,5
+2015,Wartburg,3,5
+2014,Kalamazoo,3,5
+2015,St. Thomas (MN),3,5
+2013,Johns Hopkins,3,5
+2014,Finlandia,3,5
+2015,Lenoir-Rhyne,2,5
+2014,Mercy,2,5
+2014,Defiance,3,5
+2015,East. Mennonite,3,5
+2014,Penn St.-Berks,3,5
+2013,Bethany (WV),3,5
+2013,Concordia (TX),3,5
+2015,Columbus St.,2,5
+2013,Mary Washington,3,5
+2014,Babson,3,5
+2013,Nichols,3,5
+2013,Rensselaer,3,5
+2015,Aurora,3,5
 2013,West Virginia St.,2,5
 2013,Anderson (SC),2,5
-2014,UNCG,1,5
+2015,Capital,3,5
+2015,Central (IA),3,5
+2015,Rutgers-Newark,3,5
+2013,Huntingdon,3,5
+2014,Bluefield St.,2,5
+2014,Coker,2,5
+2013,Anna Maria,3,5
+2013,Wayne St. (NE),2,5
+2013,Heidelberg,3,5
+2015,Keystone,3,5
+2015,St. Bonaventure,1,5
+2014,SUNY Maritime,3,5
+2015,Case,3,5
+2015,St. Lawrence,3,5
+2015,Stockton,3,5
+2013,Molloy,2,5
+2013,Loras,3,5
+2014,Susquehanna,3,5
+2013,Staten Island,3,5
+2013,Omaha,1,5
+2013,Minot St.,2,5
+2013,Dominican (NY),2,5
+2013,North Central (IL),3,5
+2015,Lakeland,3,5
+2013,MIT,3,5
+2015,Hope,3,5
 2013,Ohio Valley,2,5
-2013,Concordia (NY),2,4
-2014,Rhodes,3,4
-2014,Shorter,2,4
-2014,Mars Hill,2,4
-2014,Tuskegee,2,4
-2013,Wheeling Jesuit,2,4
-2013,Southwestern Okla.,2,4
-2013,Hillsdale,2,4
-2014,Stillman,2,4
-2014,Nyack,2,4
-2013,Charleston (WV),2,4
-2013,Ouachita Baptist,2,4
-2013,Northwood (MI),2,4
-2014,Shepherd,2,4
-2013,IPFW,1,4
-2014,Western Ill.,1,4
-2013,Miles,2,4
-2014,Colorado Mines,2,4
-2014,Okla. Panhandle,2,4
-2014,Chowan,2,4
-2013,Winston-Salem,2,4
+2014,Western New Eng.,3,5
+2013,Roger Williams,3,5
+2015,Thiel,3,5
+2012,UNC Greensboro,1,5
+2015,Eastern Conn. St.,3,5
+2013,Urbana,2,5
+2015,Maryville (TN),3,5
+2013,Lewis,2,5
+2015,Ohio Dominican,2,5
+2014,Marywood,3,5
+2014,UNCG,1,5
+2013,Saint John's (MN),3,5
+2014,Saginaw Valley,2,5
+2014,Puget Sound,3,4
+2013,MCLA,3,4
+2013,Delaware Valley,3,4
 2014,West Va. Wesleyan,2,4
-2013,North Dakota St.,1,3
-2013,Saint Augustine's,2,3
-2013,Malone,2,3
-2013,Pacific Lutheran,3,3
-2013,Mars Hill,2,3
-2013,West Liberty,2,3
-2013,Oakland City,2,3
+2015,Claflin,2,4
+2014,Tuskegee,2,4
+2014,St. John Fisher,3,4
+2015,Purchase,3,4
+2015,John Jay,3,4
+2013,IPFW,1,4
+2014,Mars Hill,2,4
+2014,Wilkes,3,4
+2013,Western Conn. St.,3,4
+2014,Chowan,2,4
+2015,North Central (MN),3,4
+2014,Shorter,2,4
+2013,Babson,3,4
+2014,Westfield St.,3,4
+2015,Juniata,3,4
+2015,Albion,3,4
+2014,Hanover,3,4
+2015,Covenant,3,4
+2013,Wheeling Jesuit,2,4
+2014,North Park,3,4
+2013,Southwestern Okla.,2,4
+2015,Mt. St. Vincent,3,4
+2013,Northwood (MI),2,4
+2014,Luther,3,4
+2014,Framingham St.,3,4
+2015,Wittenberg,3,4
+2014,Heidelberg,3,4
+2014,Yeshiva,3,4
+2015,Buffalo,1,4
+2013,Messiah,3,4
+2013,Carleton,3,4
+2014,Okla. Panhandle,2,4
+2013,Va. Wesleyan,3,4
+2015,Cazenovia,3,4
+2013,Merchant Marine,3,4
+2013,Thomas (ME),3,4
+2014,Castleton,3,4
+2013,Ouachita Baptist,2,4
+2014,Messiah,3,4
+2015,Waynesburg,3,4
+2015,Mount Union,3,4
+2014,Bethel (MN),3,4
+2013,Maryville (TN),3,4
+2015,Alma,3,4
+2015,Methodist,3,4
+2015,Ozarks (AR),3,4
+2015,NYU,3,4
+2014,Marymount (VA),3,4
+2013,Centre,3,4
+2015,Urbana,2,4
+2013,Penn St.-Abington,3,4
+2014,Swarthmore,3,4
+2014,Nyack,2,4
+2015,Valley Forge,3,4
+2014,Crown (MN),3,4
+2013,Louisiana Col.,3,4
+2013,Springfield,3,4
+2015,Wis.-Stout,3,4
+2013,Rivier,3,4
+2015,Centenary (LA),3,4
+2015,Merchant Marine,3,4
+2014,Sewanee,3,4
+2015,St. Scholastica,3,4
+2015,Tuskegee,2,4
+2014,Amherst,3,4
+2013,Frank. & Marsh.,3,4
+2014,Oglethorpe,3,4
+2015,Pitt.-Bradford,3,4
+2013,UMass Dartmouth,3,4
+2013,Purchase,3,4
+2015,Mt. St. Mary (NY),3,4
+2013,St. Norbert,3,4
+2015,Bridgewater St.,3,4
+2013,Winston-Salem,2,4
+2014,Manchester,3,4
+2015,Bluefield St.,2,4
+2014,Emerson,3,4
+2014,Whitworth,3,4
+2013,Hillsdale,2,4
+2015,Lynchburg,3,4
+2015,Ohio Northern,3,4
+2014,Lynchburg,3,4
+2014,Cazenovia,3,4
+2015,Ohio Wesleyan,3,4
+2015,Framingham St.,3,4
+2013,Wis.-La Crosse,3,4
+2015,Pacific (OR),3,4
+2015,Dominican (NY),2,4
+2015,East Tex. Baptist,3,4
+2013,Me.-Presque Isle,3,4
+2013,Ill. Wesleyan,3,4
+2014,Colorado Mines,2,4
+2014,La Roche,3,4
+2013,Marietta,3,4
+2015,Lehman,3,4
+2014,Eastern Conn. St.,3,4
+2015,Susquehanna,3,4
+2014,Shepherd,2,4
+2014,LaGrange,3,4
+2014,Ill. Wesleyan,3,4
+2013,Dallas,3,4
+2014,Texas Lutheran,3,4
+2014,Western Ill.,1,4
+2014,Mary Washington,3,4
+2014,Geneva,3,4
+2014,Randolph-Macon,3,4
+2014,Penn St.-Abington,3,4
+2013,Miles,2,4
+2014,Mt. St. Mary (NY),3,4
+2013,Lasell,3,4
+2015,West Ala.,2,4
+2014,Sul Ross St.,3,4
+2013,Blackburn,3,4
+2015,Rutgers-Camden,3,4
+2015,Millikin,3,4
+2014,Stillman,2,4
+2013,Concordia (NY),2,4
+2015,Centenary (NJ),3,4
+2014,Trinity (TX),3,4
+2014,Centenary (NJ),3,4
+2013,Austin,3,4
+2015,Me.-Presque Isle,3,4
+2013,Charleston (WV),2,4
+2015,Trine,3,4
+2013,Wheaton (MA),3,4
+2014,Lakeland,3,4
+2013,Mt. St. Mary (NY),3,3
 2014,Caldwell,2,3
-2014,Claflin,2,3
-2014,Lane,2,3
-2013,Nyack,2,3
-2013,Caldwell,2,3
-2013,Bluefield St.,2,3
+2014,WPI,3,3
+2015,Illinois Col.,3,3
+2014,Emory,3,3
+2014,UMass Dartmouth,3,3
+2014,Cairn,3,3
+2014,Albright,3,3
+2014,Mt. St. Vincent,3,3
+2015,Rockford,3,3
+2013,Methodist,3,3
+2013,Chapman,3,3
+2014,Fredonia,3,3
+2015,SUNY Poly,3,3
+2013,West Liberty,2,3
+2013,Mount Union,3,3
+2015,Washington-St. Louis,3,3
+2015,WPI,3,3
+2015,Augustana (IL),3,3
+2014,North Central (MN),3,3
+2015,Wash. & Lee,3,3
+2015,Utica,3,3
+2015,Ill. Wesleyan,3,3
+2013,Hampden-Sydney,3,3
+2013,North Dakota St.,1,3
+2013,Trinity (CT),3,3
+2015,S.C. Aiken,2,3
+2013,Becker,3,3
+2015,Saginaw Valley,2,3
+2013,Illinois Col.,3,3
+2015,Southern Va.,3,3
+2014,Pacific (OR),3,3
+2013,Mars Hill,2,3
 2013,Wayne St. (MI),2,3
-2013,Pitt.-Johnstown,2,2
-2014,Edgewood,3,2
-2013,Shaw,2,2
-2014,Newberry,2,2
-2013,Upper Iowa,2,2
-2014,Bridgewater (VA),3,2
-2014,Augsburg,3,2
-2013,Claflin,2,2
-2013,Saint John's (MN),3,2
-2013,Eureka,3,2
-2013,Shepherd,2,2
-2014,Carson-Newman,2,2
-2013,Tiffin,2,2
-2013,Walsh,2,2
-2013,Rockhurst,2,2
-2013,MacMurray,3,2
+2014,MCLA,3,3
+2013,Trinity (TX),3,3
+2014,Principia,3,3
+2013,Whitworth,3,3
+2015,William Peace,3,3
+2015,Mt. St. Joseph,3,3
+2015,Albany St. (GA),2,3
+2013,Nyack,2,3
+2013,St. Joseph's (L.I.),3,3
+2015,Finlandia,3,3
+2015,Wm. Paterson,3,3
+2013,Franklin,3,3
+2014,Mt. St. Joseph,3,3
+2013,Sul Ross St.,3,3
+2013,Westminster (PA),3,3
+2015,Swarthmore,3,3
+2014,Rose-Hulman,3,3
+2015,North Park,3,3
+2015,Paine,2,3
+2013,Roanoke,3,3
+2013,Rose-Hulman,3,3
+2015,Salem St.,3,3
+2015,Penn St.-Berks,3,3
+2015,Northland,3,3
+2013,Piedmont,3,3
+2013,Manchester,3,3
+2013,Lehman,3,3
+2015,Maranatha Baptist,3,3
+2013,Wilmington (OH),3,3
+2013,Curry,3,3
+2014,Capital,3,3
+2015,Tusculum,2,3
+2013,Otterbein,3,3
+2014,Elmhurst,3,3
+2013,Malone,2,3
+2014,Penn St. Harrisburg,3,3
+2014,Martin Luther,3,3
+2013,Muhlenberg,3,3
+2013,Lakeland,3,3
+2014,Olivet,3,3
+2013,Bluefield St.,2,3
+2013,Oakland City,2,3
+2015,Concordia-M'head,3,3
+2015,Wis. Lutheran,3,3
+2013,Bates,3,3
+2013,Saint Augustine's,2,3
+2015,D'Youville,3,3
+2013,Middlebury,3,3
+2014,Becker,3,3
+2015,Kentucky St.,2,3
+2014,St. Scholastica,3,3
+2014,Carthage,3,3
+2013,Penn St. Harrisburg,3,3
+2014,Lane,2,3
+2014,Rivier,3,3
+2015,Cornell College,3,3
+2014,Hardin-Simmons,3,3
+2013,George Fox,3,3
+2013,Saint Mary's (MN),3,3
+2014,Plymouth St.,3,3
+2014,Northland,3,3
+2014,Keene St.,3,3
+2013,Polytechnic (NY),3,3
+2015,Occidental,3,3
+2015,Ursinus,3,3
+2015,Walsh,2,3
+2015,Penn St.-Behrend,3,3
+2014,Haverford,3,3
+2015,Haverford,3,3
+2013,Gallaudet,3,3
+2014,Frostburg St.,3,3
+2015,Lincoln (PA),2,3
+2015,Chowan,2,3
+2015,Saint John's (MN),3,3
+2014,Middlebury,3,3
+2015,Malone,2,3
+2015,Saint Mary's (MN),3,3
+2015,Endicott,3,3
+2014,York (PA),3,3
+2015,Houghton,3,3
+2013,Baruch,3,3
+2014,Alma,3,3
+2015,N.C. Wesleyan,3,3
+2014,Claflin,2,3
+2015,Fitchburg St.,3,3
+2014,Covenant,3,3
+2013,Ripon,3,3
+2013,Earlham,3,3
+2014,Stockton,3,3
+2015,Whitworth,3,3
+2015,Hanover,3,3
+2014,Williams,3,3
+2013,Centenary (LA),3,3
+2014,Lasell,3,3
+2014,Piedmont,3,3
+2015,Northwestern-St. Paul,3,3
+2013,Chicago,3,3
+2013,Caldwell,2,3
+2014,Daniel Webster,3,3
+2015,Schreiner,3,3
+2014,George Fox,3,3
 2014,Northwood (MI),2,2
-2014,Charleston (WV),2,2
-2014,Lincoln (PA),2,2
-2014,Anderson (SC),2,2
-2014,Puget Sound,3,2
-2013,Davis & Elkins,2,2
+2015,Stillman,2,2
+2015,Dickinson,3,2
+2014,Gust. Adolphus,3,2
+2015,Randolph-Macon,3,2
+2015,Penn St.-Abington,3,2
+2013,Shaw,2,2
 2013,Clark Atlanta,2,2
-2013,Baldwin Wallace,3,1
-2013,Wis. Lutheran,3,1
-2013,Ill. Wesleyan,3,1
-2014,Chapman,3,1
-2013,DePauw,3,1
+2014,Muskingum,3,2
+2015,Va. Wesleyan,3,2
+2014,Trine,3,2
+2014,Scranton,3,2
+2015,John Carroll,3,2
+2015,Suffolk,3,2
+2013,Lancaster Bible,3,2
+2013,Tiffin,2,2
+2014,Northwestern-St. Paul,3,2
+2014,Wis.-Superior,3,2
+2013,Juniata,3,2
+2013,Vassar,3,2
+2014,Fitchburg St.,3,2
+2014,Muhlenberg,3,2
+2014,Albertus Magnus,3,2
+2015,Plymouth St.,3,2
+2015,Hiram,3,2
+2013,Beloit,3,2
+2015,Roanoke,3,2
+2013,Webster,3,2
+2014,Bates,3,2
+2014,Greenville,3,2
+2014,Aurora,3,2
+2013,Bowdoin,3,2
+2013,Mary Hardin-Baylor,3,2
+2014,Newberry,2,2
+2013,Pitt.-Johnstown,2,2
+2013,Capital,3,2
+2015,Trinity (CT),3,2
+2015,Emerson,3,2
+2015,Lancaster Bible,3,2
+2015,Notre Dame (OH),2,2
+2013,East. Mennonite,3,2
+2013,Susquehanna,3,2
+2014,Ripon,3,2
+2013,Penn St.-Altoona,3,2
+2015,Marian (WI),3,2
+2014,Millikin,3,2
+2014,Frank. & Marsh.,3,2
+2015,Benedictine (IL),3,2
+2013,Amherst,3,2
+2014,Me.-Farmington,3,2
+2013,Eastern Nazarene,3,2
+2013,Wis.-Stevens Point,3,2
+2014,Gordon,3,2
+2015,Westminster (PA),3,2
+2013,John Jay,3,2
+2013,Plymouth St.,3,2
+2013,Wis.-Stout,3,2
+2013,Southwestern (TX),3,2
+2015,Claremont-M-S,3,2
+2014,Tufts,3,2
+2015,Wentworth,3,2
+2015,Mary Hardin-Baylor,3,2
+2015,Washington Col.,3,2
+2014,McDaniel,3,2
+2014,Lyndon St.,3,2
+2014,Illinois Col.,3,2
+2015,Lesley,3,2
+2015,Westfield St.,3,2
+2015,Baruch,3,2
+2013,Suffolk,3,2
+2015,Heidelberg,3,2
+2015,Yeshiva,3,2
+2013,Dubuque,3,2
+2014,Johnson & Wales (RI),3,2
+2014,Westminster (MO),3,2
+2015,Hillsdale,2,2
+2014,Saint Vincent,3,2
+2013,Swarthmore,3,2
+2014,Roanoke,3,2
+2015,Saint Augustine's,2,2
+2014,Hamilton,3,2
+2013,Gust. Adolphus,3,2
+2013,Northland,3,2
+2014,Rhode Island Col.,3,2
+2014,Delaware Valley,3,2
+2015,West Virginia St.,2,2
+2013,Haverford,3,2
+2013,Mt. St. Vincent,3,2
+2014,Juniata,3,2
+2015,Newbury,3,2
+2013,CCNY,3,2
+2014,Merchant Marine,3,2
+2014,Springfield,3,2
+2013,Walsh,2,2
+2015,George Fox,3,2
+2013,Bethany Lutheran,3,2
+2015,Western Conn. St.,3,2
+2015,Clark (MA),3,2
+2015,Trinity (TX),3,2
+2015,Norwich,3,2
+2014,Salve Regina,3,2
+2014,Charleston (WV),2,2
+2013,Carthage,3,2
+2013,SUNY Maritime,3,2
+2013,Coast Guard,3,2
+2013,Saint Vincent,3,2
+2013,Rust,3,2
+2013,Wartburg,3,2
+2015,McDaniel,3,2
+2014,Lincoln (PA),2,2
+2013,Albertus Magnus,3,2
+2015,Emory,3,2
+2013,Minn.-Morris,3,2
+2015,MacMurray,3,2
+2013,Finlandia,3,2
+2013,Davis & Elkins,2,2
+2012,Grambling,1,2
+2014,Carson-Newman,2,2
+2013,Waynesburg,3,2
+2013,Me.-Farmington,3,2
+2013,Rockhurst,2,2
+2015,Drury,2,2
+2015,Virginia St.,2,2
+2013,Claflin,2,2
+2013,Daniel Webster,3,2
+2015,Curry,3,2
+2013,Wheaton (IL),3,2
+2013,St. Joseph's (Brkln),3,2
+2015,St. Joseph's (Brkln),3,2
+2014,Purchase,3,2
+2014,Anderson (SC),2,2
+2014,Washington Col.,3,2
+2013,Geneva,3,2
+2015,Middlebury,3,2
+2014,Baptist Bible (PA),3,2
+2015,Earlham,3,2
+2014,Wis.-Whitewater,3,2
+2013,Mitchell,3,2
+2015,Delaware Valley,3,2
+2014,Washington-St. Louis,3,2
+2015,Union (NY),3,2
+2013,Shepherd,2,2
+2015,Bowdoin,3,2
+2013,Upper Iowa,2,2
+2015,Albertus Magnus,3,2
+2013,Rhode Island Col.,3,2
+2015,Otterbein,3,2
+2013,Simpson,3,2
+2013,MacMurray,3,2
+2014,Brandeis,3,2
+2015,MCLA,3,2
+2014,Maryville (TN),3,2
+2014,Wis.-Platteville,3,2
+2015,Daniel Webster,3,2
+2015,Bates,3,2
+2014,Suffolk,3,2
+2014,Wash. & Lee,3,2
+2014,Thomas (ME),3,2
+2015,Lawrence,3,2
+2015,Bethel (MN),3,1
+2015,Frank. & Marsh.,3,1
+2015,Hampden-Sydney,3,1
+2015,Thomas More,3,1
+2015,Principia,3,1
+2015,Shenandoah,3,1
+2013,Lyndon St.,3,1
+2015,Franklin,3,1
 2014,Winston-Salem,2,1
-2014,Illinois Col.,3,1
-2013,Whitworth,3,1
-2013,Anna Maria,3,1
-2014,Albion,3,1
-2014,Wheaton (IL),3,1
-2013,Mercy,2,1
-2013,Edgewood,3,1
-2013,Illinois Col.,3,1
-2013,Washington-St. Louis,3,1
-2013,Otterbein,3,1
-2013,Wilmington (OH),3,1
-2013,Albright,3,1
-2013,Kalamazoo,3,1
-2014,Ill. Wesleyan,3,1
-2014,Pacific Lutheran,3,1
-2013,Calvin,3,1
-2014,Concordia-M'head,3,1
-2014,MSOE,3,1
-2014,Ohio Northern,3,1
-2014,Miles,2,1
+2014,Whitman,3,1
+2013,LaGrange,3,1
+2013,Greensboro,3,1
+2014,Southwestern (TX),3,1
+2014,East. Mennonite,3,1
+2015,UMass Dartmouth,3,1
+2015,Eastern Nazarene,3,1
+2013,Martin Luther,3,1
+2015,Brandeis,3,1
+2014,Norwich,3,1
+2015,Defiance,3,1
+2014,Penn St.-Behrend,3,1
+2015,Williams,3,1
+2015,Amherst,3,1
+2014,Earlham,3,1
+2013,North Park,3,1
 2014,Clark Atlanta,2,1
-2013,UNC Greensboro,1,1
-2014,Benedict,2,1
-2013,Rhodes,3,1
-2013,Olivet,3,1
-2013,Concordia Chicago,3,1
+2014,MacMurray,3,1
 2013,Cedarville,2,1
-2013,Rockford,3,1
-2013,Chicago,3,1
-2013,Amherst,3,1
-2014,Farmingdale St.,3,1
-2014,Bloomfield,2,1
-2014,Louisiana Col.,3,1
-2014,Albright,3,1
-2013,Earlham,3,1
-2013,Carroll (WI),3,1
-2013,Maryville (TN),3,1
-2013,Immaculata,3,1
-2014,Wis. Lutheran,3,1
+2013,Colby,3,1
+2015,Millsaps,3,1
+2013,Muskingum,3,1
 2013,LIU Post,2,1
+2015,Ripon,3,1
+2013,SUNY Poly,3,1
+2014,Mount Aloysius,3,1
+2015,Wheaton (MA),3,1
+2015,Concordia (NY),2,1
+2014,Catholic,3,1
+2015,Huntingdon,3,1
+2015,Elmhurst,3,1
+2014,Medaille,3,1
+2015,Johns Hopkins,3,1
+2013,Moravian,3,1
+2015,Lasell,3,1
+2014,Bethany Lutheran,3,1
+2015,Keuka,3,1
+2013,Central (IA),3,1
+2014,Webster,3,1
+2014,Greensboro,3,1
+2015,Mary Washington,3,1
+2015,Anderson (IN),3,1
+2013,Mercy,2,1
+2013,Principia,3,1
+2014,D'Youville,3,1
+2013,Keene St.,3,1
+2014,Roger Williams,3,1
+2015,Luther,3,1
+2014,Otterbein,3,1
+2013,Catholic,3,1
+2013,Keuka,3,1
+2015,Marywood,3,1
+2015,Geneva,3,1
+2015,Guilford,3,1
+2015,Eureka,3,1
+2015,Salve Regina,3,1
+2013,Defiance,3,1
+2015,Pitt.-Greensburg,3,1
+2013,Anderson (IN),3,1
+2015,MIT,3,1
+2015,Mitchell,3,1
+2014,Claremont-M-S,3,1
+2014,Louisiana Col.,3,1
+2014,Shenandoah,3,1
+2014,Guilford,3,1
+2013,La Roche,3,1
+2015,Ashland,2,1
+2015,St. Joseph's (L.I.),3,1
+2014,Newbury,3,1
+2013,Carroll (WI),3,1
+2015,Whittier,3,1
+2015,Wis.-La Crosse,3,1
+2013,Monmouth (IL),3,1
+2013,Covenant,3,1
+2013,Wesleyan (CT),3,1
+2015,Muskingum,3,1
+2013,Elmhurst,3,1
+2014,Benedict,2,1
+2014,Dickinson,3,1
+2014,Va. Wesleyan,3,1
+2014,Mount Union,3,1
+2015,Southwestern (TX),3,1
+2013,St. Olaf,3,1
+2014,Pomona-Pitzer,3,1
+2014,Chapman,3,1
+2015,Elms,3,1
+2013,St. Lawrence,3,1
+2014,Clark (MA),3,1
+2014,Concordia-M'head,3,1
+2014,Wis.-Stout,3,1
+2015,Grove City,3,1
+2015,Northwood (MI),2,1
+2013,Averett,3,1
+2014,Polytechnic (NY),3,1
+2015,Grinnell,3,1
+2014,Husson,3,1
+2015,Wilmington (OH),3,1
+2015,Oakland City,2,1
+2013,Newbury,3,1
+2015,Oglethorpe,3,1
+2015,Chapman,3,1
+2015,Wheaton (IL),3,1
+2014,Coast Guard,3,1
+2014,Wis.-La Crosse,3,1
+2013,Northwestern-St. Paul,3,1
+2015,Southern Me.,3,1
+2014,Centre,3,1
+2015,Birmingham-So.,3,1
+2015,Sewanee,3,1
+2013,Grove City,3,1
+2015,Wis.-Superior,3,1
+2013,Transylvania,3,1
+2015,Muhlenberg,3,1
+2014,N.C. Wesleyan,3,1
+2013,Dickinson,3,1
+2013,Thomas More,3,1
+2013,Spalding,3,1
+2015,Springfield,3,1
+2014,Salem St.,3,1
+2013,Wis.-Whitewater,3,1
+2015,Colby-Sawyer,3,1
+2015,Saint Vincent,3,1
+2015,Becker,3,1
+2014,Hampden-Sydney,3,1
+2014,Mary Hardin-Baylor,3,1
+2014,Bloomfield,2,1
+2013,UNC Greensboro,1,1
+2013,Tufts,3,1
+2014,Schreiner,3,1
+2015,Webster,3,1
+2015,Coast Guard,3,1
+2013,Cal Lutheran,3,1
+2015,Winston-Salem,2,1
+2014,Penn St.-Altoona,3,1
+2014,Wis.-Stevens Point,3,1
+2014,Miles,2,1
+2012,Army,1,1
+2015,Western New Eng.,3,1
