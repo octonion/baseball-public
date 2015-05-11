@@ -27,13 +27,13 @@ schedule_strength::numeric(4,3) as sos
 from naia._schedule_factors sf
 left outer join naia.teams t
   on (t.team_id,t.year)=(sf.team_id,sf.year)
-where sf.year in (2014)
+where sf.year in (2015)
 order by str desc);
 
 select
 rk,team,year,str,park,ofs,dfs,sos
 from r
-where year in (2014)
+where year in (2015)
 order by rk asc;
 
 commit;
