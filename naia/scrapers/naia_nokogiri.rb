@@ -24,7 +24,7 @@ sg="MBA"
 
 teams = CSV.read("csv/teams.csv")
 
-first_year = 2012
+first_year = 2015
 last_year = 2015
 
 (first_year..last_year).each do |year|

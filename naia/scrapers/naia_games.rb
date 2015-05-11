@@ -26,7 +26,7 @@ sg="MBA"
 
 #&sea=NAIMBA_2011&conference=NAIMBA1_AMEC"
 
-first_year = 2012
+first_year = 2015
 last_year = 2015
 
 (first_year..last_year).each do |year|

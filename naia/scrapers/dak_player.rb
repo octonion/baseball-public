@@ -23,7 +23,7 @@ reports = ["ba_stp_b_bat_overall","ba_stp_b_Baserun_overall",
 
 teams = CSV.read("players/teams.csv")
 
-first_year = 2011
+first_year = 2015
 last_year = 2015
 
 (first_year..last_year).each do |year|
