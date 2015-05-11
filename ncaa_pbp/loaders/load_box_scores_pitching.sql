@@ -12,7 +12,7 @@ create table ncaa_pbp.box_scores_pitching (
        position					text,
        app					integer,
        gs					integer,
-       ip					integer,
+       ip					text,
        h					integer,
        r					integer,
        er					integer,

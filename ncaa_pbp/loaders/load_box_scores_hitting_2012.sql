@@ -1,8 +1,8 @@
 begin;
 
-drop table if exists ncaa_pbp.box_scores_hitting;
+--drop table if exists ncaa_pbp.box_scores_hitting;
 
-create table ncaa_pbp.box_scores_hitting (
+create temporary table bsh (
        game_id					integer,
        section_id				integer,
        player_id				integer,
@@ -10,13 +10,11 @@ create table ncaa_pbp.box_scores_hitting (
        player_url				text,
        starter					boolean,
        position					text,
-       g					integer,
        ab					integer,
        r					integer,
        h					integer,
        d					integer,
        t					integer,
-       tb					integer,
        hr					integer,
        rbi					integer,
        bb					integer,
@@ -28,12 +26,23 @@ create table ncaa_pbp.box_scores_hitting (
        sb					integer,
        cs					integer,
        picked					integer
-       
--- This will fail if the two teams are in different divisions
--- Best fix?
 --       primary key (game_id, section_id, player_name, position)
+
 );
 
-copy ncaa_pbp.box_scores_hitting from '/tmp/box_scores.csv' with delimiter as E'\t' csv;
+copy bsh from '/tmp/box_scores.csv' with delimiter as E'\t' csv;
+
+insert into ncaa_pbp.box_scores_hitting
+(game_id,section_id,player_id,player_name,player_url,starter,position,
+ g,ab,r,h,d,t,tb,hr,rbi,bb,hbp,sf,sh,k,dp,sb,cs,picked)
+(
+select
+game_id,section_id,player_id,player_name,player_url,starter,position,
+1 as g,
+ab,r,h,d,t,
+coalesce(h,0)+coalesce(d,0)+2*coalesce(t,0)+3*coalesce(hr,0) as tb,
+hr,rbi,bb,hbp,sf,sh,k,dp,sb,cs,picked
+from bsh
+);
 
 commit;

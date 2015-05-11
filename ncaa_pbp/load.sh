@@ -37,12 +37,32 @@ rm /tmp/rosters.csv
 
 # Box scores - hitting
 
-#cp csv/ncaa_box_scores_hitting_*.csv.gz /tmp
-#gzip -d /tmp/ncaa_box_scores_hitting_*.csv.gz
-#tail -q -n+2 /tmp/ncaa_box_scores_hitting_*.csv >> /tmp/box_scores.csv
-#psql baseball -f loaders/load_box_scores_hitting.sql
-#rm /tmp/box_scores.csv
-#rm /tmp/ncaa_box_scores_hitting_*.csv
+# 2014-2015
+
+cp csv/ncaa_box_scores_hitting_201[45]*.csv.gz /tmp
+gzip -d /tmp/ncaa_box_scores_hitting_*.csv.gz
+tail -q -n+2 /tmp/ncaa_box_scores_hitting_*.csv >> /tmp/box_scores.csv
+psql baseball -f loaders/load_box_scores_hitting.sql
+rm /tmp/box_scores.csv
+rm /tmp/ncaa_box_scores_hitting_*.csv
+
+# 2013
+
+cp csv/ncaa_box_scores_hitting_2013*.csv.gz /tmp
+gzip -d /tmp/ncaa_box_scores_hitting_*.csv.gz
+tail -q -n+2 /tmp/ncaa_box_scores_hitting_*.csv >> /tmp/box_scores.csv
+psql baseball -f loaders/load_box_scores_hitting_2013.sql
+rm /tmp/box_scores.csv
+rm /tmp/ncaa_box_scores_hitting_*.csv
+
+# 2012
+
+cp csv/ncaa_box_scores_hitting_2012*.csv.gz /tmp
+gzip -d /tmp/ncaa_box_scores_hitting_*.csv.gz
+tail -q -n+2 /tmp/ncaa_box_scores_hitting_*.csv >> /tmp/box_scores.csv
+psql baseball -f loaders/load_box_scores_hitting_2012.sql
+rm /tmp/box_scores.csv
+rm /tmp/ncaa_box_scores_hitting_*.csv
 
 # Box scores - pitching
 
