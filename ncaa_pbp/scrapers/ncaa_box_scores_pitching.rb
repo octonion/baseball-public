@@ -161,7 +161,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
               player_url = base_url+link_url
 
             end
-          when 1
+          when 1,4
             field_values += [element.text.strip]
           else
             field_values += [element.text.strip.to_i]
