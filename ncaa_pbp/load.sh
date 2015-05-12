@@ -99,7 +99,17 @@ psql baseball -f loaders/load_box_scores_fielding_2012-2013.sql
 rm /tmp/box_scores.csv
 rm /tmp/ncaa_box_scores_fielding_*.csv
 
-# Player summaries pitching
+# Player summaries - hitting 2014-2015
+
+tail -q -n+2 csv/ncaa_player_summaries_hitting_201[45]*.csv >> /tmp/player_summaries.csv
+#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
+#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
+rpl -q '""' '' /tmp/player_summaries.csv
+rpl -q ' ' '' /tmp/player_summaries.csv
+psql baseball -f loaders/load_player_summaries_hitting.sql
+rm /tmp/player_summaries.csv
+
+# Player summaries - pitching
 
 tail -q -n+2 csv/ncaa_player_summaries_pitching_*.csv >> /tmp/player_summaries.csv
 #rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
