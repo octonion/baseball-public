@@ -1,13 +1,104 @@
-select player_name,
-(go::float/fo::float)::numeric(4,3) as go_fo
-from ncaa_pbp.player_summaries_pitching p
-join ncaa_pbp.teams t
-  on (t.team_id,t.year)=(p.team_id,p.year)
-where go is not null
-and fo is not null
-and go+fo>=100
-and p.year=2015
-and t.division_id=1
-order by go_fo desc
-limit 100;
+    player_name     | go_fo 
+--------------------+-------
+ Anderson, Jack     | 4.476
+ Moseley, Ryan      | 4.292
+ Freeman, Michael   | 4.219
+ Richman, Jason     | 3.423
+ Mitchell, Ross     | 3.407
+ Thome, Andrew      | 3.400
+ Koerner, Brody     | 3.231
+ Dennis, Will       | 2.978
+ Holtmann, Bryant   | 2.938
+ Wolfe, Jacob       | 2.909
+ DeVries, Jacob     | 2.829
+ Bisacca, Alex      | 2.828
+ Brown, Preston     | 2.811
+ Strain, Connor     | 2.789
+ Angelle, Chase     | 2.750
+ Taylor, Corey      | 2.724
+ Davis, Evan        | 2.667
+ Vance, Ross        | 2.634
+ Mulholland, Casey  | 2.610
+ Kent, Matt         | 2.571
+ Ledford, Alex      | 2.563
+ Peterson, David    | 2.556
+ Portland, Matt     | 2.553
+ Kerr, Austin       | 2.515
+ Manuppelli, Zac    | 2.500
+ Monaghan, Trent    | 2.467
+ Anderson, Tanner   | 2.448
+ Taccolini, Dominic | 2.444
+ Seyler, Mark       | 2.438
+ Susi, Brett        | 2.424
+ Danton, Matt       | 2.418
+ Froom, Ryan        | 2.387
+ Dunning, Dane      | 2.387
+ Maier, Bill        | 2.383
+ Murphy, Jimmy      | 2.375
+ Houck, Tanner      | 2.365
+ Schneider, Carson  | 2.344
+ Kelzer, Jake       | 2.342
+ Haan, Brett        | 2.342
+ De Leon, Lane      | 2.333
+ Lawler, Lee        | 2.324
+ Damron, Ty         | 2.303
+ Knutson, Jordan    | 2.300
+ Solter, Matt       | 2.289
+ Frati, Logan       | 2.275
+ Muhammad, Yahya    | 2.268
+ Clancy, Tyler      | 2.245
+ Johnson, Drasen    | 2.242
+ Burnette, Travis   | 2.229
+ Luna, Alex         | 2.225
+ Lucchesi, Joey     | 2.222
+ Repavich, Jake     | 2.220
+ Waddell, Brandon   | 2.211
+ Hamlin, Cody       | 2.200
+ Naile, James       | 2.190
+ Buettgen, Noah     | 2.182
+ Wallace, Mike      | 2.182
+ Vanderslice, Pat   | 2.174
+ Lieske, Johnny     | 2.167
+ Tate, Dillon       | 2.160
+ Greenberg, Ben     | 2.146
+ Boyd, Jimmy        | 2.135
+ Lyons, Jared       | 2.130
+ Edwards, Jayme     | 2.121
+ Friedrichs, Kyle   | 2.100
+ Fischer, Corey     | 2.091
+ Jones, Connor      | 2.073
+ Talley, Christian  | 2.061
+ King, Garett       | 2.057
+ Clowers, Shawn     | 2.047
+ Raven, Rayne       | 2.043
+ Hough, Bryson      | 2.037
+ Castano, Daniel    | 2.037
+ Neumann, Ben       | 2.020
+ Brewster, LJ       | 2.017
+ Boardman, Toller   | 2.000
+ Andreychik, Andrew | 2.000
+ Brown, Zack        | 2.000
+ Laster, Lucas      | 2.000
+ Barbery, Brandon   | 2.000
+ Askew, Ryan        | 1.971
+ Mason, Aaron       | 1.971
+ Camacho, Joseph    | 1.957
+ Jax, Griffin       | 1.954
+ McClain, Reggie    | 1.946
+ Headean, Will      | 1.938
+ Carroll, Dalton    | 1.934
+ Fernandez, Danny   | 1.933
+ Castellani, Mike   | 1.930
+ Sheller, Walker    | 1.930
+ Cordy, Max         | 1.929
+ Cofer, Jackson     | 1.925
+ McCord, Rocky      | 1.922
+ Gibbs, Emerson     | 1.922
+ Galbraith, Laetten | 1.911
+ Butler, B.J.       | 1.905
+ Moreland, Jacob    | 1.889
+ Crouse, Cody       | 1.885
+ Naderer, Andrew    | 1.880
+ Seibold, Alex      | 1.875
+(100 rows)
 
