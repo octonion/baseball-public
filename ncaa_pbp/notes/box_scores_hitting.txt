@@ -1,0 +1,16 @@
+
+2015:
+
+Player	Pos	G	AB	R	H	2B	3B	TB	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+
+2014:
+
+Player	Pos	G	AB	R	H	2B	3B	TB	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+
+2013:
+
+Player	Pos	AB	H	TB	R	2B	3B	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+
+2012:
+
+Player	Pos	AB	R	H	2B	3B	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked

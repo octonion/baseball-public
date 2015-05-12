@@ -1,0 +1,16 @@
+
+2015:
+
+Jersey	Player	Yr	Pos	GP	GS	G	BA	OBPct	SlgPct	AB	R	H	2B	3B	TB	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+
+2014:
+
+Jersey	Player	Yr	Pos	GP	GS	G	BA	OBPct	SlgPct	AB	R	H	2B	3B	TB	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+
+2013:
+
+Jersey	Player	Yr	Pos	GP	GS	AB	H	BA	OBPct	TB	SlgPct	R	2B	3B	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+
+2012:
+
+Jersey	Player	Yr	Pos	GP	GS	BA	OBPct	SlgPct	AB	R	H	2B	3B	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
