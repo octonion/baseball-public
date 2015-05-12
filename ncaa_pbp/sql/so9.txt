@@ -1,0 +1,105 @@
+        name         | cl |        team        | so  |  ip  | outs | so9  | bb9 | go_fo 
+---------------------+----+--------------------+-----+------+------+------+-----+-------
+ Hall, Matt          | Jr | Missouri St.       | 124 | 90.1 |  271 | 12.4 | 3.3 |  1.09
+ Fulmer, Carson      | Jr | Vanderbilt         | 118 | 86.2 |  260 | 12.3 | 3.4 |  0.87
+ Gillingham, Luke    | Jr | Navy               | 111 | 83.1 |  250 | 12.0 | 1.5 |  0.97
+ Derby, Bubba        | Jr | San Diego St.      | 111 | 83.1 |  250 | 12.0 | 3.2 |  1.82
+ Saldivar, Santos    | Sr | Southern U.        | 104 | 78.0 |  234 | 12.0 | 3.0 |  0.86
+ Belicek, Trevor     | Sr | A&M-Corpus Chris   | 105 | 78.2 |  236 | 12.0 | 2.3 |  0.86
+ Degano, Jeff        | Jr | Indiana St.        | 120 | 91.1 |  274 | 11.8 | 2.8 |  1.17
+ Leftwich, Luke      | Jr | Wofford            | 101 | 77.2 |  233 | 11.7 | 2.7 |  1.29
+ Rivera, Mariano     | Jr | Iona               | 101 | 78.1 |  235 | 11.6 | 2.6 |  1.02
+ Reeves, James       | Jr | Citadel            |  99 | 77.2 |  233 | 11.5 | 2.4 |  0.83
+ Clarke, Taylor      | Jr | Col. of Charleston | 117 | 92.2 |  278 | 11.4 | 1.3 |  0.70
+ McKay, Brendan      | Fr | Louisville         |  88 | 71.0 |  213 | 11.2 | 3.5 |  0.86
+ Fraudin, Matt       | Sr | Gardner-Webb       | 104 | 84.0 |  252 | 11.1 | 2.7 |  1.69
+ Kmiec, Sam          | Jr | Winthrop           |  89 | 73.1 |  220 | 10.9 | 2.3 |  1.03
+ Lauer, Eric         | So | Kent St.           |  90 | 74.2 |  224 | 10.8 | 2.4 |  1.16
+ Harris, Jon         | Jr | Missouri St.       |  99 | 82.1 |  247 | 10.8 | 3.2 |  1.59
+ Hansen, Alec        | So | Oklahoma           |  89 | 74.0 |  222 | 10.8 | 4.4 |  1.51
+ Shawaryn, Mike      | So | Maryland           | 108 | 89.2 |  269 | 10.8 | 1.7 |  0.97
+ Marks, Bret         | Sr | Tennessee          |  84 | 70.0 |  210 | 10.8 | 3.1 |  0.76
+ Crohan, Matt        | So | Winthrop           |  81 | 67.2 |  203 | 10.8 | 3.2 |  0.90
+ Genger, Skyler      | Jr | Seattle            | 102 | 85.2 |  257 | 10.7 | 2.7 |  1.18
+ Jensen-Clagg, Nick  | Jr | Kent St.           |  95 | 80.0 |  240 | 10.7 | 3.8 |  0.89
+ Miller, Evan        | Fr | IPFW               |  84 | 71.2 |  215 | 10.5 | 4.4 |  1.14
+ Herget, Jimmy       | Jr | South Fla.         | 100 | 86.0 |  258 | 10.5 | 3.2 |  0.83
+ Hill, Kevin         | Sr | South Ala.         |  86 | 74.2 |  224 | 10.4 | 3.1 |  1.18
+ Outman, Matt        | Jr | Norfolk St.        |  78 | 68.1 |  205 | 10.3 | 4.1 |  0.69
+ Robinett, Alex      | Sr | Army               |  92 | 80.2 |  242 | 10.3 | 1.8 |  1.25
+ Biegalski, Boomer   | So | Florida St.        |  93 | 81.1 |  244 | 10.3 | 3.2 |  0.96
+ Hill, David         | Jr | San Diego          | 109 | 96.1 |  289 | 10.2 | 2.9 |  1.35
+ Nesselt, Jimmy      | Sr | East Tenn. St.     |  94 | 83.0 |  249 | 10.2 | 2.7 |  0.88
+ Kaprielian, James   | Jr | UCLA               |  94 | 83.2 |  251 | 10.1 | 2.5 |  1.36
+ Cross, Carson       | Sr | UConn              | 103 | 92.0 |  276 | 10.1 | 2.2 |  0.77
+ Macaluso, Eddie     | Sr | Iona               |  85 | 76.1 |  229 | 10.0 | 1.8 |  0.71
+ Kennedy, Brett      | Jr | Fordham            |  83 | 75.1 |  226 |  9.9 | 1.9 |  1.71
+ Jones, Connor       | So | Virginia           |  81 | 73.1 |  220 |  9.9 | 4.7 |  2.07
+ Palmer, Cameron     | Sr | Toledo             |  79 | 71.2 |  215 |  9.9 | 4.5 |  0.81
+ Tomasovich, Andrew  | Jr | Charleston So.     |  84 | 77.1 |  232 |  9.8 | 2.6 |  1.16
+ Myers, Aaron        | Sr | Longwood           | 102 | 93.2 |  281 |  9.8 | 2.9 |  0.99
+ Romero, Seth        | Fr | Houston            |  73 | 67.0 |  201 |  9.8 | 2.4 |  1.09
+ Lundeen, Dalton     | Jr | Valparaiso         |  83 | 77.1 |  232 |  9.7 | 2.0 |  0.79
+ Lange, Alex         | Fr | LSU                |  82 | 76.0 |  228 |  9.7 | 3.8 |  1.19
+ Hilyer, Jordan      | Jr | Kennesaw St.       |  85 | 79.0 |  237 |  9.7 | 4.0 |  1.13
+ Long, Grayson       | Jr | Texas A&M          |  78 | 73.0 |  219 |  9.6 | 4.1 |  0.68
+ Mahoney, Kolton     | Jr | BYU                |  80 | 75.0 |  225 |  9.6 | 4.0 |  1.19
+ Lucchesi, Joey      | Jr | Southeast Mo. St.  |  85 | 79.2 |  239 |  9.6 | 4.7 |  2.22
+ Hunt, Dustin        | So | Northeastern       |  77 | 72.1 |  217 |  9.6 | 3.0 |  0.97
+ Adcock, Brett       | So | Michigan           |  72 | 68.0 |  204 |  9.5 | 5.6 |  1.00
+ Friedrichs, Kyle    | Sr | Long Beach St.     |  92 | 87.0 |  261 |  9.5 | 1.0 |  2.10
+ Quillen, Aaron      | Jr | Belmont            |  71 | 67.2 |  203 |  9.4 | 3.1 |  1.00
+ Tate, Dillon        | Jr | UC Santa Barbara   |  92 | 88.1 |  265 |  9.4 | 2.6 |  2.16
+ Zeuch, T.J.         | So | Pittsburgh         |  83 | 80.1 |  241 |  9.3 | 2.6 |  1.59
+ Burnes, Corbin      | So | St. Mary's (CA)    |  85 | 82.0 |  246 |  9.3 | 3.4 |  0.92
+ Bowers, Heath       | Sr | Campbell           |  86 | 84.0 |  252 |  9.2 | 2.1 |  1.42
+ Inghram, Jason      | Sr | William & Mary     |  72 | 70.1 |  211 |  9.2 | 3.1 |  1.35
+ Headean, Will       | Jr | Illinois St.       |  77 | 75.2 |  227 |  9.2 | 4.9 |  1.94
+ Murray, Michael     | Jr | FGCU               |  89 | 88.0 |  264 |  9.1 | 1.1 |  0.82
+ Setzer, Trey        | Sr | La.-Monroe         |  72 | 71.1 |  214 |  9.1 | 3.8 |  1.32
+ Welmon, Colin       | Sr | Loyola Marymount   |  82 | 80.2 |  242 |  9.1 | 2.3 |  1.58
+ Peterson, David     | Fr | Oregon             |  69 | 69.1 |  208 |  9.0 | 3.2 |  2.56
+ Fontenot, Kaleb Jon | Jr | McNeese St.        |  81 | 80.2 |  242 |  9.0 | 2.8 |  1.36
+ Duchene, Kevin      | Jr | Illinois           |  76 | 76.0 |  228 |  9.0 | 0.9 |  1.63
+ Gorman, John        | Sr | Boston College     |  71 | 71.0 |  213 |  9.0 | 3.2 |  1.21
+ Young, Alex         | Jr | TCU                |  68 | 68.0 |  204 |  9.0 | 2.3 |  1.19
+ Eshelman, Thomas    | Jr | Cal St. Fullerton  |  95 | 96.1 |  289 |  8.9 | 0.6 |  1.06
+ Lipscomb, Cole      | Jr | Auburn             |  72 | 73.0 |  219 |  8.9 | 2.6 |  0.75
+ Dwyer, Heath        | Sr | VCU                |  69 | 69.2 |  209 |  8.9 | 2.3 |  1.77
+ Maton, Phil         | Sr | Louisiana Tech     |  80 | 82.0 |  246 |  8.8 | 2.0 |  0.84
+ Rodgers, Zach       | Sr | UCF                |  84 | 86.0 |  258 |  8.8 | 3.5 |  0.95
+ Lyons, Jared        | Sr | Liberty            |  75 | 77.0 |  231 |  8.8 | 1.5 |  2.13
+ Altamirano, Xavier  | Jr | Oral Roberts       |  75 | 77.0 |  231 |  8.8 | 1.6 |  0.78
+ DeVries, Jacob      | So | Air Force          |  72 | 73.1 |  220 |  8.8 | 5.4 |  2.83
+ Crownover, Matthew  | Jr | Clemson            |  86 | 88.0 |  264 |  8.8 | 3.1 |  0.53
+ Bramlett, Brady     | So | Ole Miss           |  71 | 72.1 |  217 |  8.8 | 2.5 |  0.47
+ Fairbanks, Peter    | Jr | Missouri           |  67 | 69.1 |  208 |  8.7 | 3.1 |  1.16
+ Copping, Calvin     | Jr | CSUN               |  75 | 77.2 |  233 |  8.7 | 3.0 |  1.82
+ Cedotal, Kyle       | Jr | Southeastern La.   |  83 | 86.0 |  258 |  8.7 | 1.7 |  1.86
+ Mazza, Domenic      | Jr | UC Santa Barbara   |  66 | 68.1 |  205 |  8.7 | 2.9 |  0.75
+ Barragan, James     | Sr | Bakersfield        |  78 | 80.2 |  242 |  8.7 | 3.5 |  0.85
+ Solter, Matt        | Sr | Furman             |  74 | 77.2 |  233 |  8.6 | 3.2 |  2.29
+ Krauth, Ben         | Jr | Kansas             |  82 | 86.0 |  258 |  8.6 | 4.0 |  1.21
+ Pirro, Matt         | Sr | Wake Forest        |  64 | 67.0 |  201 |  8.6 | 6.4 |  1.22
+ Raynor, Evan        | Jr | Charleston So.     |  72 | 75.1 |  226 |  8.6 | 2.4 |  1.04
+ Baumann, Michael    | Fr | Jacksonville       |  72 | 75.1 |  226 |  8.6 | 2.9 |  1.21
+ Funkhouser, Kyle    | Jr | Louisville         |  83 | 87.1 |  262 |  8.6 | 3.7 |  1.24
+ Camacho, Joseph     | Jr | Alabama St.        |  72 | 76.2 |  230 |  8.5 | 2.0 |  1.96
+ Smith, Matthew      | Jr | Georgetown         |  66 | 70.0 |  210 |  8.5 | 3.0 |  1.15
+ Johnson, Jake       | Jr | Southeastern La.   |  78 | 82.2 |  248 |  8.5 | 2.8 |  1.00
+ Lantrip, Andrew     | So | Houston            |  86 | 90.2 |  272 |  8.5 | 1.7 |  0.84
+ Borne, Grant        | Jr | Nicholls St.       |  77 | 82.1 |  247 |  8.4 | 3.8 |  1.34
+ Bentley, Ian        | Jr | NJIT               |  66 | 70.1 |  211 |  8.4 | 1.7 |  0.96
+ Elliott, Jake       | So | Oklahoma           |  75 | 80.0 |  240 |  8.4 | 3.4 |  1.09
+ Winkelman, Alex     | Jr | Southeast Mo. St.  |  80 | 85.1 |  256 |  8.4 | 4.4 |  1.15
+ Raven, Rayne        | Jr | CSUN               |  70 | 74.2 |  224 |  8.4 | 3.0 |  2.04
+ Bergen, Travis      | Jr | Kennesaw St.       |  80 | 86.0 |  258 |  8.4 | 2.5 |  1.28
+ Bailey, Brandon     | So | Gonzaga            |  87 | 93.1 |  280 |  8.4 | 2.6 |  0.89
+ Istler, Andrew      | Sr | Duke               |  76 | 81.0 |  243 |  8.4 | 1.8 |  1.63
+ Kalish, Jake        | Sr | George Mason       |  72 | 77.0 |  231 |  8.4 | 1.5 |  1.01
+ Clark, Ryan         | Jr | UNC Greensboro     |  77 | 83.2 |  251 |  8.3 | 3.9 |  0.72
+ Taccolini, Dominic  | So | Arkansas           |  62 | 67.1 |  202 |  8.3 | 4.7 |  2.44
+ Conlon, PJ          | Jr | San Diego          |  77 | 83.2 |  251 |  8.3 | 2.6 |  1.01
+(100 rows)
+
+COPY 100
