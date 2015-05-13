@@ -10,8 +10,8 @@ create table ncaa_pbp.teams (
 	team_id		      integer,
         team_name	      text,
 	team_url	      text,
-	primary key (sport_code, year_id, team_id),
-	unique (sport_code, year, team_id)
+	primary key (sport_code,year_id,team_id),
+	unique (sport_code,year,team_id)
 );
 
 copy ncaa_pbp.teams from '/tmp/teams.csv' with delimiter as E'\t' csv;
