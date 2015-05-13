@@ -1,16 +1,16 @@
-player,team,year,g,ab,hits,ba,park,s_park,s_def
-Keith Hagman,New Mexico,1980,63,227,125,551,1.336,1.09,0.958
-Greg Daniels,Alcorn St,1983,32,101,55,545,1.101,1.024,1.114
-Marteese Robinson,Seton Hall,1987,55,238,126,529,0.898,0.98,1.008
-Jim Browne,Drexel,1985,35,108,57,528,1.145,1.041,1.02
-Dave Magadan,Alabama,1983,56,217,114,525,0.939,0.986,0.924
-Ira Smith,Md-East Shore,1990,27,77,40,519,,,
-Jeff Trout,Delaware,1983,53,189,98,519,1.159,1.039,1.03
-John Buszka,Buffalo,1976,41,116,60,517,,,
-John Van Arnhem,Virginia Tech,1971,26,95,49,516,,,
-Jack Upton,Colorado St,1979,46,162,82,506,,,
-Sam Tolisano,Iona,1983,20,81,41,506,0.95,0.986,1.072
-Scott Goins,Winthrop,1987,43,194,98,505,0.965,0.998,0.984
-Andrew Rumpelt,Hofstra,1985,30,121,61,504,,,
-Todd Barkalow,UNI,1986,42,122,61,500,,,
-Ron Dziezgowski,Duquesne,1991,33,88,44,500,,,
+player,team,year,g,ab,hits,ba,park,s_park,s_def,adj_ba,year_run,yadj_ba
+Keith Hagman,New Mexico,1980,63,227,125,551,1.336,1.09,0.958,539.2070915726,6.22,539.2070915726
+Greg Daniels,Alcorn St,1983,32,101,55,545,,,,,,
+Marteese Robinson,Seton Hall,1987,55,238,126,529,0.898,0.98,1.008,532.2459532755,6.72,512.0624431091
+Jim Browne,Drexel,1985,35,108,57,528,,,,,,
+Dave Magadan,Alabama,1983,56,217,114,525,0.939,0.986,0.924,550.0280783405,6.44,540.5515524782
+Ira Smith,Md-East Shore,1990,27,77,40,519,,,,,,
+Jeff Trout,Delaware,1983,53,189,98,519,1.159,1.039,1.03,501.6963850119,6.44,493.0525739869
+John Buszka,Buffalo,1976,41,116,60,517,,,,,,
+John Van Arnhem,Virginia Tech,1971,26,95,49,516,,,,,,
+Jack Upton,Colorado St,1979,46,162,82,506,,,,,,
+Sam Tolisano,Iona,1983,20,81,41,506,0.95,0.986,1.072,492.16946594,6.44,483.689795799
+Scott Goins,Winthrop,1987,43,194,98,505,0.965,0.998,0.984,509.5989896261,6.72,490.2742839621
+Andrew Rumpelt,Hofstra,1985,30,121,61,504,,,,,,
+Todd Barkalow,UNI,1986,42,122,61,500,,,,,,
+Ron Dziezgowski,Duquesne,1991,33,88,44,500,,,,,,
