@@ -246,3 +246,7 @@ psql baseball -f cleaning/add_pk_pbp.sql
 psql baseball -f cleaning/add_pk_bsh.sql
 psql baseball -f cleaning/add_pk_bsp.sql
 psql baseball -f cleaning/add_pk_bsf.sql
+
+# Create pitch strings table
+
+psql baseball -f loaders/create_pitch_strings.sql
