@@ -140,10 +140,16 @@ psql baseball -f loaders/load_play_by_play.sql
 rm /tmp/play_by_play.csv
 rm /tmp/ncaa_games_play_by_play_*.csv
 
-# Remove play-by-play duplicate rows
+# Remove duplicate rows
 
 psql baseball -f cleaning/deduplicate_pbp.sql
+psql baseball -f cleaning/deduplicate_bsh.sql
+psql baseball -f cleaning/deduplicate_bsp.sql
+psql baseball -f cleaning/deduplicate_bsf.sql
 
-# Add play-by-play primary key
+# Add primary keys
 
 psql baseball -f cleaning/add_pk_pbp.sql
+psql baseball -f cleaning/add_pk_bsh.sql
+psql baseball -f cleaning/add_pk_bsp.sql
+psql baseball -f cleaning/add_pk_bsf.sql
