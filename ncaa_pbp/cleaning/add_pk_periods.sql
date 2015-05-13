@@ -1,3 +1,4 @@
+begin;
 
 -- Add primary key to deduplicated periods table
 
@@ -8,3 +9,5 @@ add primary key (game_id,section_id);
 
 alter table ncaa_pbp.periods
 add unique (game_id,team_id);
+
+commit;

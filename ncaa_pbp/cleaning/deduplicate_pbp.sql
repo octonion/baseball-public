@@ -14,5 +14,3 @@ where pbp.ctid <>
 drop index ncaa_pbp.pk_idx;
 
 commit;
-
-
