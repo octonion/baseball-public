@@ -1,5 +1,6 @@
 select
 player_name as name,
+position as po,
 class_year as cl,
 t.team_name as team,
 (ab+bb+hbp) as pa,
@@ -19,6 +20,7 @@ limit 100;
 copy (
 select
 player_name as name,
+position as po,
 class_year as cl,
 t.team_name as team,
 (ab+bb+hbp) as pa,
