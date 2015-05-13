@@ -42,7 +42,7 @@ select
 year,year_id,division_id,team_id,team_name,jersey_number,
 player_id,player_name,player_url,class_year,position,
 gp,gs,
-1 as g,
+NULL as g,
 po,a,e,fpct,ci,pb,sba,csb,idp,tp
 from psf
 );

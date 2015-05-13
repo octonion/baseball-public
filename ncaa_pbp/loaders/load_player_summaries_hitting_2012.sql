@@ -1,8 +1,6 @@
 begin;
 
-drop table if exists ncaa_pbp.player_summaries_hitting;
-
-create table ncaa_pbp.player_summaries_hitting (
+create temporary table psh (
        year					integer,
        year_id					integer,
        division_id				integer,
@@ -16,7 +14,6 @@ create table ncaa_pbp.player_summaries_hitting (
        position					text,
        gp					integer,
        gs					integer,
-       g					integer,
        ba					float,
        obp					float,
        slg					float,
@@ -25,7 +22,6 @@ create table ncaa_pbp.player_summaries_hitting (
        h					integer,
        d					integer,
        t					integer,
-       tb					integer,
        hr					integer,
        rbi					integer,
        bb					integer,
@@ -41,6 +37,22 @@ create table ncaa_pbp.player_summaries_hitting (
        unique (year,player_id)
 );
 
-copy ncaa_pbp.player_summaries_hitting from '/tmp/player_summaries.csv' with delimiter as E'\t' csv;
+copy psh from '/tmp/player_summaries.csv' with delimiter as E'\t' csv;
+
+insert into ncaa_pbp.player_summaries_hitting
+(year,year_id,division_id,team_id,team_name,jersey_number,
+ player_id,player_name,player_url,class_year,position,
+ gp,gs,g,ba,obp,slg,ab,r,h,d,t,tb,hr,rbi,bb,hbp,sf,sh,k,dp,sb,cs,picked)
+(
+select
+year,year_id,division_id,team_id,team_name,jersey_number,
+player_id,player_name,player_url,class_year,position,
+gp,gs,
+NULL as g,
+ba,obp,slg,ab,r,h,d,t,
+coalesce(h,0)+coalesce(d,0)+2*coalesce(t,0)+3*coalesce(hr,0) as tb,
+hr,rbi,bb,hbp,sf,sh,k,dp,sb,cs,picked
+from psh
+);
 
 commit;
