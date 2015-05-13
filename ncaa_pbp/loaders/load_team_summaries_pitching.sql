@@ -14,7 +14,7 @@ create table ncaa_pbp.team_summaries_pitching (
        gp					integer,
        gs					integer,
        app					integer,
-       gs2					integer,
+       gs2					text,
        era					float,
        ip					text,
        h					integer,

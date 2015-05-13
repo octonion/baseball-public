@@ -4,9 +4,14 @@
 begin;
 
 update ncaa_pbp.team_summaries_pitching
-set bf = replace(bf, ',', ''),
+set gs2 = replace(gs2, ',', ''),
+    bf = replace(bf, ',', ''),
     p_oab = replace(p_oab, ',', ''),
     pitches = replace(pitches, ',', '');
+
+alter table ncaa_pbp.team_summaries_pitching
+  alter column gs2
+    type integer using (gs2::integer);
 
 alter table ncaa_pbp.team_summaries_pitching
   alter column bf
