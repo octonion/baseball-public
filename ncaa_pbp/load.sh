@@ -119,9 +119,18 @@ rpl -q ' ' '' /tmp/player_summaries.csv
 psql baseball -f loaders/load_player_summaries_pitching.sql
 rm /tmp/player_summaries.csv
 
-# Remove commas from 'pitches' column, convert to integer
+# Team summaries - pitching
 
-psql baseball -f cleaning/ps_pitches.sql
+tail -q -n+2 csv/ncaa_team_summaries_pitching_*.csv >> /tmp/team_summaries.csv
+rpl -q '""' '' /tmp/team_summaries.csv
+rpl -q ' ' '' /tmp/team_summaries.csv
+psql baseball -f loaders/load_team_summaries_pitching.sql
+rm /tmp/team_summaries.csv
+
+# Remove commas from some pitching columns, convert to integer
+
+psql baseball -f cleaning/commas_psp.sql
+psql baseball -f cleaning/commas_tsp.sql
 
 # Game periods
 
