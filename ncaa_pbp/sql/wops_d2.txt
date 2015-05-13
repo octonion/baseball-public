@@ -1,0 +1,105 @@
+         name         | cl  |        team         | pa  | bb_p  | so_p  | wops  
+----------------------+-----+---------------------+-----+-------+-------+-------
+ Sell, Nick           | Sr  | Seton Hill          | 207 | 0.159 | 0.097 | 2.185
+ Uhl, Ryan            | Sr  | Indiana (PA)        | 180 | 0.183 | 0.117 | 2.157
+ Eads, Taylor         | Sr  | Spring Hill         | 164 | 0.177 | 0.104 | 2.092
+ Albertson, Will      | Jr  | Catawba             | 242 | 0.087 | 0.079 | 2.006
+ Newman, Hunter       | Jr  | Trevecca Nazarene   | 247 | 0.158 | 0.057 | 1.993
+ Cuthrell, Collins    | Sr  | UNC Pembroke        | 245 | 0.139 | 0.127 | 1.940
+ Tice, Dylan          | Sr  | West Chester        | 173 | 0.145 | 0.023 | 1.934
+ Wilson, Matt         | Sr  | Shepherd            | 202 | 0.084 | 0.084 | 1.876
+ Miller, Chris        | Jr  | Seton Hill          | 167 | 0.126 | 0.078 | 1.875
+ Garcia, Justin       | Jr  | Nova Southeastern   | 216 | 0.111 | 0.157 | 1.869
+ Baur, Albert         | Sr  | Newberry            | 243 | 0.115 | 0.095 | 1.816
+ Jackson, Jhalan      | Jr  | Fla. Southern       | 201 | 0.080 | 0.154 | 1.809
+ Rainey, Tanner       | Sr  | West Ala.           | 193 | 0.166 | 0.202 | 1.807
+ Simbeck, Colton      | Sr  | Ala.-Huntsville     | 151 | 0.079 | 0.265 | 1.796
+ Floros, William      | Jr  | Spring Hill         | 157 | 0.197 | 0.089 | 1.787
+ Morozowski, Jason    | Jr  | Mount Olive         | 236 | 0.085 | 0.127 | 1.770
+ Montville, Mike      | Sr  | Southern N.H.       | 152 | 0.204 | 0.138 | 1.765
+ Rubino, Matt         | Sr  | Francis Marion      | 215 | 0.130 | 0.126 | 1.741
+ Urbania, Adam        | Sr  | Slippery Rock       | 199 | 0.080 | 0.085 | 1.740
+ Wojciechowski, Alex  | Jr  | Minn. Duluth        | 219 | 0.114 | 0.169 | 1.729
+ Hardy, Clint         | So  | GRU Augusta         | 162 | 0.074 | 0.105 | 1.728
+ Czarnecki, Kevin     | Sr  | Fort Hays St.       | 198 | 0.111 | 0.167 | 1.727
+ Rall, Jesse          | Jr  | Mo. Southern St.    | 192 | 0.115 | 0.198 | 1.721
+ Long, Dean           | Sr  | Emporia St.         | 239 | 0.079 | 0.163 | 1.721
+ Young, Kamran        | Sr  | Cal St. Dom. Hills  | 225 | 0.164 | 0.133 | 1.711
+ Tracy, Chandler      | Sr  | Saint Martin's      | 182 | 0.203 | 0.220 | 1.707
+ Waletich, Max        | Sr  | Minn. St. Mankato   | 173 | 0.081 | 0.052 | 1.707
+ Jurgella, Mike       | Sr  | St. Cloud St.       | 221 | 0.113 | 0.063 | 1.704
+ Paris, Troy          | Jr  | Ky. Wesleyan        | 213 | 0.127 | 0.070 | 1.699
+ Koehler, Joe         | Jr  | Mount Olive         | 186 | 0.134 | 0.151 | 1.693
+ Spitz, Thomas        | Sr  | Wingate             | 267 | 0.142 | 0.101 | 1.689
+ Sarty, Jonathan      | So  | Shepherd            | 184 | 0.049 | 0.109 | 1.688
+ Mock, Austin         | Sr  | Indiana (PA)        | 184 | 0.136 | 0.190 | 1.686
+ Peters, Matt         | Sr  | California (PA)     | 180 | 0.089 | 0.078 | 1.685
+ Burden, Tyler        | Jr  | Chowan              | 165 | 0.091 | 0.145 | 1.683
+ Kennedy, Jake        | So  | Shippensburg        | 197 | 0.162 | 0.254 | 1.677
+ Goines, Sam          | Sr  | Wilmington (DE)     | 188 | 0.138 | 0.069 | 1.670
+ Martin, Daniel       | Jr  | Azusa Pacific       | 221 | 0.090 | 0.140 | 1.667
+ Gouge, Michael       | Jr  | Valdosta St.        | 213 | 0.108 | 0.183 | 1.666
+ Allen, Austin        | Jr  | Florida Tech        | 201 | 0.100 | 0.080 | 1.664
+ Jones, Alex          | Jr  | Spring Hill         | 164 | 0.098 | 0.085 | 1.664
+ Farley, Grant        | So  | Minn. Duluth        | 193 | 0.093 | 0.166 | 1.660
+ Marcus, David        | Jr  | California (PA)     | 176 | 0.102 | 0.136 | 1.659
+ Stoltzfus, Dan       | Jr  | Millersville        | 188 | 0.090 | 0.160 | 1.659
+ Castleberry, Patrick | Sr  | Arkansas Tech       | 209 | 0.120 | 0.072 | 1.657
+ Hoffman, Chris       | Jr  | Mo. Southern St.    | 212 | 0.099 | 0.189 | 1.656
+ Lawing, Weston       | Sr  | Lander              | 169 | 0.130 | 0.124 | 1.656
+ Wolfe, Spencer       | Sr  | Shepherd            | 188 | 0.149 | 0.080 | 1.652
+ Fife, Alex           | Jr  | Colorado Mesa       | 215 | 0.140 | 0.070 | 1.652
+ Stubbs, Austin       | Sr  | Southwest Minn. St. | 206 | 0.107 | 0.160 | 1.646
+ Walters, Tyler       | Fr  | Slippery Rock       | 184 | 0.060 | 0.114 | 1.645
+ Fennell, Mick        | Jr  | California (PA)     | 191 | 0.068 | 0.042 | 1.643
+ McClellan, Mike      | Jr  | Columbus St.        | 219 | 0.105 | 0.174 | 1.636
+ Houston, Blake       | Sr  | Catawba             | 242 | 0.194 | 0.120 | 1.630
+ Taylor, Drew         | Jr  | GRU Augusta         | 194 | 0.082 | 0.175 | 1.629
+ Harris, Justin       | Sr  | Emporia St.         | 246 | 0.085 | 0.114 | 1.624
+ Haskins, Matthew     | Sr  | Montevallo          | 224 | 0.116 | 0.156 | 1.620
+ Poldroo, Erik        | Sr  | Concordia (NY)      | 152 | 0.125 | 0.145 | 1.620
+ Spini, Nick          | Sr  | East Central        | 153 | 0.098 | 0.078 | 1.612
+ Sponseller, Lee      | So  | Ohio Dominican      | 196 | 0.163 | 0.117 | 1.612
+ Jones, Hayden        | Jr  | Valdosta St.        | 211 | 0.095 | 0.066 | 1.611
+ Summerfield, David   | So  | Millersville        | 192 | 0.104 | 0.089 | 1.611
+ Goihl, Jack          | Sr  | Augustana (SD)      | 215 | 0.107 | 0.107 | 1.610
+ Kreiling, Andrew     | Sr  | Pittsburg St.       | 195 | 0.144 | 0.128 | 1.610
+ Brock, Chandler      | Sr  | Ala.-Huntsville     | 207 | 0.116 | 0.121 | 1.607
+ Brodbeck, Andrew     | Sr  | Flagler             | 223 | 0.166 | 0.108 | 1.604
+ Wagner, Michael      | Sr  | Colorado St.-Pueblo | 212 | 0.108 | 0.075 | 1.600
+ James, Stephen       | Sr  | Ashland             | 226 | 0.093 | 0.124 | 1.600
+ Tewes, Luke          | Sr  | Drury               | 221 | 0.100 | 0.140 | 1.598
+ Vanisi, Andrew       | Sr  | Rogers St.          | 184 | 0.076 | 0.103 | 1.595
+ Overstreet, Brandon  | Sr  | Erskine             | 238 | 0.076 | 0.122 | 1.594
+ Knudson, Steven      | Jr  | Montevallo          | 224 | 0.147 | 0.263 | 1.591
+ Brower, Jordan       | Sr  | Azusa Pacific       | 204 | 0.074 | 0.123 | 1.584
+ Bielec, Kasey        | Sr  | Central Wash.       | 200 | 0.100 | 0.105 | 1.584
+ Hoffman, Zak         | Jr  | St. Cloud St.       | 204 | 0.064 | 0.152 | 1.583
+ Sandlin, Jake        | Sr  | Georgia College     | 240 | 0.104 | 0.167 | 1.582
+ Miller, Brody        | Sr  | Mont. St. Billings  | 237 | 0.152 | 0.143 | 1.580
+ Rothermich, Wade     | Sr  | Lindenwood (MO)     | 222 | 0.117 | 0.153 | 1.580
+ Staton, Allen        | Sr  | North Greenville    | 227 | 0.106 | 0.079 | 1.577
+ Binger, Christian    | Jr  | Southwest Baptist   | 199 | 0.166 | 0.141 | 1.572
+ Bugner, Tyler        | So  | Newman              | 215 | 0.140 | 0.079 | 1.571
+ Chavez, Matthew      | Sr  | N.M. Highlands      | 189 | 0.122 | 0.148 | 1.571
+ Rodriguez, Vinny     | Sr  | Montevallo          | 205 | 0.127 | 0.156 | 1.571
+ Bollig, Dillion      | Jr  | Adams St.           | 221 | 0.118 | 0.136 | 1.570
+ Chavarria, Antonio   | Jr  | California Baptist  | 218 | 0.115 | 0.106 | 1.567
+ Diminio, Anthony     | Jr  | Belmont Abbey       | 209 | 0.067 | 0.086 | 1.567
+ Roberts, Jay         | N/A | North Greenville    | 189 | 0.222 | 0.238 | 1.566
+ Berg, Bryce          | Sr  | Augustana (SD)      | 160 | 0.100 | 0.131 | 1.566
+ Eberhardt, Jonathan  | Jr  | Ky. Wesleyan        | 225 | 0.124 | 0.129 | 1.565
+ Shelton, Bryson      | So  | Trevecca Nazarene   | 192 | 0.172 | 0.146 | 1.564
+ Hatcher, Tyler       | Sr  | Central Okla.       | 159 | 0.075 | 0.220 | 1.564
+ Holgate, Mitch       | Jr  | West Ala.           | 202 | 0.134 | 0.193 | 1.563
+ Glaude, David        | So  | Mo. Western St.     | 204 | 0.157 | 0.127 | 1.563
+ Baytop, Jason        | Jr  | Saint Augustine's   | 173 | 0.052 | 0.145 | 1.562
+ Lorenz, Lucas        | Fr  | Northern St.        | 207 | 0.043 | 0.150 | 1.561
+ Carolina, Rayshelon  | Jr  | Mars Hill           | 175 | 0.189 | 0.091 | 1.560
+ Koziol, Dennon       | Sr  | Ky. Wesleyan        | 215 | 0.126 | 0.093 | 1.556
+ Schroeder, Dillon    | Sr  | Neb.-Kearney        | 162 | 0.062 | 0.111 | 1.556
+ Borup, John          | Jr  | Lynn                | 209 | 0.105 | 0.120 | 1.552
+ Smith, Zach          | Sr  | Erskine             | 233 | 0.069 | 0.069 | 1.550
+(100 rows)
+
+COPY 100
