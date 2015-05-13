@@ -102,8 +102,6 @@ rm /tmp/ncaa_box_scores_fielding_*.csv
 # Player summaries - hitting 2014-2015
 
 tail -q -n+2 csv/ncaa_player_summaries_hitting_201[45]*.csv >> /tmp/player_summaries.csv
-#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
-#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
 rpl -q '""' '' /tmp/player_summaries.csv
 rpl -q ' ' '' /tmp/player_summaries.csv
 psql baseball -f loaders/load_player_summaries_hitting.sql
@@ -112,8 +110,6 @@ rm /tmp/player_summaries.csv
 # Player summaries - pitching
 
 tail -q -n+2 csv/ncaa_player_summaries_pitching_*.csv >> /tmp/player_summaries.csv
-#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
-#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
 rpl -q '""' '' /tmp/player_summaries.csv
 rpl -q ' ' '' /tmp/player_summaries.csv
 psql baseball -f loaders/load_player_summaries_pitching.sql
@@ -122,12 +118,28 @@ rm /tmp/player_summaries.csv
 # Player summaries - fielding 2014-2015
 
 tail -q -n+2 csv/ncaa_player_summaries_fielding_201[45]*.csv >> /tmp/player_summaries.csv
-#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
-#rpl -e '\t-\t' '\t\t' /tmp/player_summaries.csv
 rpl -q '""' '' /tmp/player_summaries.csv
 rpl -q ' ' '' /tmp/player_summaries.csv
 psql baseball -f loaders/load_player_summaries_fielding.sql
 rm /tmp/player_summaries.csv
+
+# Player summaries - fielding 2012-2013
+
+tail -q -n+2 csv/ncaa_player_summaries_fielding_201[23]*.csv >> /tmp/player_summaries.csv
+rpl -q '""' '' /tmp/player_summaries.csv
+rpl -q ' ' '' /tmp/player_summaries.csv
+psql baseball -f loaders/load_player_summaries_fielding_2012-2013.sql
+rm /tmp/player_summaries.csv
+
+# Team summaries - hitting 2014-2015
+
+tail -q -n+2 csv/ncaa_team_summaries_hitting_201[45]*.csv >> /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -q '""' '' /tmp/team_summaries.csv
+rpl -q ' ' '' /tmp/team_summaries.csv
+psql baseball -f loaders/load_team_summaries_hitting.sql
+rm /tmp/team_summaries.csv
 
 # Team summaries - pitching
 
@@ -149,9 +161,20 @@ rpl -q ' ' '' /tmp/team_summaries.csv
 psql baseball -f loaders/load_team_summaries_fielding.sql
 rm /tmp/team_summaries.csv
 
-# Remove commas from some pitching columns, convert to integer
+# Team summaries - fielding 2012-2013
+
+tail -q -n+2 csv/ncaa_team_summaries_fielding_201[23]*.csv >> /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -q '""' '' /tmp/team_summaries.csv
+rpl -q ' ' '' /tmp/team_summaries.csv
+psql baseball -f loaders/load_team_summaries_fielding_2012-2013.sql
+rm /tmp/team_summaries.csv
+
+# Remove commas from some columns, convert to integer
 
 psql baseball -f cleaning/commas_psp.sql
+psql baseball -f cleaning/commas_tsh.sql
 psql baseball -f cleaning/commas_tsp.sql
 psql baseball -f cleaning/commas_tsf.sql
 

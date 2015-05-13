@@ -18,12 +18,12 @@ create table ncaa_pbp.team_summaries_hitting (
        ba					float,
        obp					float,
        slg					float,
-       ab					integer,
+       ab					text,
        r					integer,
        h					integer,
        d					integer,
        t					integer,
-       tb					integer,
+       tb					text,
        hr					integer,
        rbi					integer,
        bb					integer,
@@ -35,8 +35,8 @@ create table ncaa_pbp.team_summaries_hitting (
        sb					integer,
        cs					integer,
        picked					integer,
-       primary key (year, team_id),
-       unique (year_id, team_id)
+       primary key (year_id,team_id,player_name),
+       unique (year,team_id,player_name)
 );
 
 copy ncaa_pbp.team_summaries_hitting from '/tmp/team_summaries.csv' with delimiter as E'\t' csv;

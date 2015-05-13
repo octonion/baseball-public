@@ -36,10 +36,9 @@ create table ncaa_pbp.player_summaries_hitting (
        dp					integer,
        sb					integer,
        cs					integer,
-       picked					integer
-
---       primary key (year, team_id, player_name)
---       unique (year_id, team_id, player_id)
+       picked					integer,
+       primary key (year_id, player_id),
+       unique (year, player_id)
 );
 
 copy ncaa_pbp.player_summaries_hitting from '/tmp/player_summaries.csv' with delimiter as E'\t' csv;
