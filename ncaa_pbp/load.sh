@@ -142,13 +142,15 @@ rm /tmp/ncaa_games_play_by_play_*.csv
 
 # Remove duplicate rows
 
+psql baseball -f cleaning/deduplicate_periods.sql
 psql baseball -f cleaning/deduplicate_pbp.sql
 psql baseball -f cleaning/deduplicate_bsh.sql
 psql baseball -f cleaning/deduplicate_bsp.sql
 psql baseball -f cleaning/deduplicate_bsf.sql
 
-# Add primary keys
+# Add primary keys and constraints
 
+psql baseball -f cleaning/add_pk_periods.sql
 psql baseball -f cleaning/add_pk_pbp.sql
 psql baseball -f cleaning/add_pk_bsh.sql
 psql baseball -f cleaning/add_pk_bsp.sql
