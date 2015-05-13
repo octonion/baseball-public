@@ -14,7 +14,6 @@ create temporary table tsh (
        gs					integer,
        ba					float,
        obp					float,
-       tb					text,
        slg					float,
        ab					text,
        r					integer,
