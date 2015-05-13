@@ -1,25 +1,23 @@
 begin;
 
-create temporary table psh (
+create temporary table tsh (
        year					integer,
        year_id					integer,
-       division_id				integer,
+--       division_id				integer,
        team_id					integer,
        team_name				text,
        jersey_number				text,
-       player_id				integer,
        player_name				text,
-       player_url				text,
        class_year				text,
        position					text,
        gp					integer,
        gs					integer,
 --       g					integer,
-       ab					integer,
+       ab					text,
        h					integer,
        ba					float,
        obp					float,
-       tb					integer,
+       tb					text,
        slg					float,
        r					integer,
        d					integer,
@@ -35,24 +33,24 @@ create temporary table psh (
        sb					integer,
        cs					integer,
        picked					integer,
-       primary key (year_id,player_id),
-       unique (year,player_id)
+       primary key (year_id,team_id,player_name),
+       unique (year,team_id,player_name)
 );
 
-copy psh from '/tmp/player_summaries.csv' with delimiter as E'\t' csv;
+copy tsh from '/tmp/team_summaries.csv' with delimiter as E'\t' csv;
 
-insert into ncaa_pbp.player_summaries_hitting
-(year,year_id,division_id,team_id,team_name,jersey_number,
- player_id,player_name,player_url,class_year,position,
+insert into ncaa_pbp.team_summaries_hitting
+(year,year_id,team_id,team_name,jersey_number,
+ player_name,class_year,position,
  gp,gs,g,ba,obp,slg,ab,r,h,d,t,tb,hr,rbi,bb,hbp,sf,sh,k,dp,sb,cs,picked)
 (
 select
-year,year_id,division_id,team_id,team_name,jersey_number,
-player_id,player_name,player_url,class_year,position,
+year,year_id,team_id,team_name,jersey_number,
+player_name,class_year,position,
 gp,gs,
 NULL as g,
 ba,obp,slg,ab,r,h,d,t,tb,hr,rbi,bb,hbp,sf,sh,k,dp,sb,cs,picked
-from psh
+from tsh
 );
 
 commit;

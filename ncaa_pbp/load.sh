@@ -157,6 +157,26 @@ rpl -q ' ' '' /tmp/team_summaries.csv
 psql baseball -f loaders/load_team_summaries_hitting.sql
 rm /tmp/team_summaries.csv
 
+# Team summaries - hitting 2013
+
+tail -q -n+2 csv/ncaa_team_summaries_hitting_2013*.csv >> /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -q '""' '' /tmp/team_summaries.csv
+rpl -q ' ' '' /tmp/team_summaries.csv
+psql baseball -f loaders/load_team_summaries_hitting_2013.sql
+rm /tmp/team_summaries.csv
+
+# Team summaries - hitting 2012
+
+tail -q -n+2 csv/ncaa_team_summaries_hitting_2012*.csv >> /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -e '\t-\t' '\t\t' /tmp/team_summaries.csv
+rpl -q '""' '' /tmp/team_summaries.csv
+rpl -q ' ' '' /tmp/team_summaries.csv
+psql baseball -f loaders/load_team_summaries_hitting_2012.sql
+rm /tmp/team_summaries.csv
+
 # Team summaries - pitching
 
 tail -q -n+2 csv/ncaa_team_summaries_pitching_*.csv >> /tmp/team_summaries.csv
