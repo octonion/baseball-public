@@ -17,7 +17,7 @@ where pitches > 0
 --and ts.year in (2013,2014)
 ) r
 group by year,team_name,division_id
-order by count(*) desc;
+order by team_name,year;
 
 copy
 (
@@ -38,7 +38,7 @@ where pitches > 0
 --and t.year in (2013,2014)
 ) r
 group by year,team_name,division_id
-order by count(*) desc)
+order by team_name,year)
 to '/tmp/pitch_strings.csv' csv header;
 
 commit;
