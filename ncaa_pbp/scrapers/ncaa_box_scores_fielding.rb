@@ -70,6 +70,10 @@ game_ids.compact!
 game_ids.sort!
 game_ids.uniq!
 
+# Randomize
+
+game_ids.shuffle!
+
 #game_ids = game_ids[0..199]
 
 n = game_ids.size

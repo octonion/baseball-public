@@ -7,26 +7,26 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	3	Adelphi	-	Opponent Totals	-	-	-	-	41	1,093	474	64	0.961	1	10	44	20	29	 
 2015	12080	10	Ala.-Huntsville	-	Totals	-	-	-	-	48	1,159	465	50	0.970	2	18	25	18	35	 
 2015	12080	10	Ala.-Huntsville	-	Opponent Totals	-	-	-	-	48	1,113	396	69	0.956	1	9	50	13	25	 
-2015	12080	13	Albany St. (GA)	-	Totals	-	-	-	-	45	1,035	376	112	0.926	3	26	122	16	18	 
-2015	12080	13	Albany St. (GA)	-	Opponent Totals	-	-	-	-	45	1,056	474	77	0.952	 	20	124	26	17	 
+2015	12080	13	Albany St. (GA)	-	Totals	-	-	-	-	46	1,059	382	114	0.927	3	27	126	16	18	 
+2015	12080	13	Albany St. (GA)	-	Opponent Totals	-	-	-	-	46	1,083	488	79	0.952	 	20	124	26	18	 
 2015	12080	934	Alderson Broaddus	-	Totals	-	-	-	-	50	1,142	455	71	0.957	1	15	34	26	36	 
 2015	12080	934	Alderson Broaddus	-	Opponent Totals	-	-	-	-	50	1,127	429	88	0.946	2	15	53	14	33	 
 2015	12080	22	American Int'l	-	Totals	-	-	-	-	38	939	407	92	0.936	 	17	94	14	29	1
 2015	12080	22	American Int'l	-	Opponent Totals	-	-	-	-	38	945	346	57	36.446	 	17	80	20	30	 
 2015	12080	13028	Anderson (SC)	-	Totals	-	-	-	-	50	1,208	466	84	0.952	1	15	64	24	41	 
 2015	12080	13028	Anderson (SC)	-	Opponent Totals	-	-	-	-	50	1,229	453	73	0.958	1	9	18	15	36	 
-2015	12080	25	Angelo St.	-	Totals	-	-	-	-	52	1,275	457	56	0.969	 	4	34	29	25	 
-2015	12080	25	Angelo St.	-	Opponent Totals	-	-	-	-	52	1,229	492	79	0.956	1	14	54	28	33	 
+2015	12080	25	Angelo St.	-	Totals	-	-	-	-	53	1,302	467	57	0.969	 	4	34	29	27	 
+2015	12080	25	Angelo St.	-	Opponent Totals	-	-	-	-	53	1,256	499	79	0.957	1	14	54	29	34	 
 2015	12080	30105	Ark.-Fort Smith	-	Totals	-	-	-	-	49	1,116	429	40	0.975	 	8	31	14	32	 
 2015	12080	30105	Ark.-Fort Smith	-	Opponent Totals	-	-	-	-	49	1,100	431	76	0.953	 	15	43	15	34	 
 2015	12080	8411	Ark.-Monticello	-	Totals	-	-	-	-	34	839	357	38	0.969	 	5	29	20	16	 
 2015	12080	8411	Ark.-Monticello	-	Opponent Totals	-	-	-	-	34	841	280	44	0.962	1	7	28	12	30	 
 2015	12080	947	Arkansas Tech	-	Totals	-	-	-	-	50	1,203	502	64	0.964	 	7	26	21	46	 
 2015	12080	947	Arkansas Tech	-	Opponent Totals	-	-	-	-	50	1,182	544	77	0.957	3	18	46	17	42	 
-2015	12080	33	Armstrong	-	Totals	-	-	-	-	47	1,254	428	73	0.958	 	10	46	14	30	 
-2015	12080	33	Armstrong	-	Opponent Totals	-	-	-	-	47	1,210	519	100	0.945	 	13	50	10	51	 
-2015	12080	35	Ashland	-	Totals	-	-	-	-	53	1,325	537	81	0.958	2	15	29	12	46	 
-2015	12080	35	Ashland	-	Opponent Totals	-	-	-	-	53	1,285	572	76	0.961	 	10	58	13	32	 
+2015	12080	33	Armstrong	-	Totals	-	-	-	-	48	1,281	435	74	0.959	 	10	46	15	30	 
+2015	12080	33	Armstrong	-	Opponent Totals	-	-	-	-	48	1,232	527	105	0.944	 	14	52	10	51	 
+2015	12080	35	Ashland	-	Totals	-	-	-	-	54	1,352	551	82	0.959	2	16	30	12	47	 
+2015	12080	35	Ashland	-	Opponent Totals	-	-	-	-	54	1,315	582	78	0.961	 	10	59	13	33	 
 2015	12080	36	Assumption	-	Totals	-	-	-	-	39	994	410	68	0.954	 	22	76	19	33	 
 2015	12080	36	Assumption	-	Opponent Totals	-	-	-	-	39	1,032	416	60	0.960	1	9	26	11	37	 
 2015	12080	41	Augustana (SD)	-	Totals	-	-	-	-	54	1,253	557	87	0.954	 	5	26	11	54	 
@@ -75,8 +75,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	995	Caldwell	-	Opponent Totals	-	-	-	-	38	1,013	442	48	0.968	 	8	27	18	31	 
 2015	12080	106	California (PA)	-	Totals	-	-	-	-	47	991	404	36	0.975	1	6	31	13	25	 
 2015	12080	106	California (PA)	-	Opponent Totals	-	-	-	-	47	991	386	53	0.963	1	7	67	11	26	 
-2015	12080	30135	California Baptist	-	Totals	-	-	-	-	50	1,298	580	75	0.962	 	30	30	16	46	 
-2015	12080	30135	California Baptist	-	Opponent Totals	-	-	-	-	50	1,287	535	66	0.965	1	14	57	17	37	 
+2015	12080	30135	California Baptist	-	Totals	-	-	-	-	51	1,325	591	75	0.962	 	30	30	16	47	 
+2015	12080	30135	California Baptist	-	Opponent Totals	-	-	-	-	51	1,311	545	67	0.965	1	14	57	17	38	 
 2015	12080	996	Cameron	-	Totals	-	-	-	-	48	1,133	435	69	0.958	1	11	47	26	23	 
 2015	12080	996	Cameron	-	Opponent Totals	-	-	-	-	48	1,152	473	63	0.963	 	8	38	24	28	 
 2015	12080	1000	Carson-Newman	-	Totals	-	-	-	-	46	1,179	516	62	0.965	 	10	23	15	31	 
@@ -111,12 +111,12 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	1023	Coker	-	Opponent Totals	-	-	-	-	44	1,097	446	59	0.963	1	32	64	21	32	 
 2015	12080	11403	Colo. Christian	-	Totals	-	-	-	-	51	1,180	483	74	0.957	 	16	77	21	43	 
 2015	12080	11403	Colo. Christian	-	Opponent Totals	-	-	-	-	51	1,221	514	75	0.959	7	11	49	22	45	 
-2015	12080	11416	Colorado Mesa	-	Totals	-	-	-	-	54	1,324	563	75	0.962	4	2	45	14	48	 
-2015	12080	11416	Colorado Mesa	-	Opponent Totals	-	-	-	-	54	1,268	549	90	0.953	3	19	67	27	36	 
+2015	12080	11416	Colorado Mesa	-	Totals	-	-	-	-	56	1,381	590	77	0.962	4	2	46	14	52	 
+2015	12080	11416	Colorado Mesa	-	Opponent Totals	-	-	-	-	56	1,325	565	92	0.954	3	19	68	27	36	 
 2015	12080	155	Colorado Mines	-	Totals	-	-	-	-	44	1,049	409	72	0.953	1	8	34	26	36	 
 2015	12080	155	Colorado Mines	-	Opponent Totals	-	-	-	-	44	1,075	457	70	0.956	2	7	55	12	42	 
-2015	12080	2720	Colorado St.-Pueblo	-	Totals	-	-	-	-	53	1,282	544	66	0.965	1	13	52	14	48	 
-2015	12080	2720	Colorado St.-Pueblo	-	Opponent Totals	-	-	-	-	53	1,234	529	71	0.961	 	8	71	18	46	1
+2015	12080	2720	Colorado St.-Pueblo	-	Totals	-	-	-	-	54	1,309	551	66	0.966	1	13	52	15	49	 
+2015	12080	2720	Colorado St.-Pueblo	-	Opponent Totals	-	-	-	-	54	1,261	539	72	0.962	 	8	71	18	48	1
 2015	12080	159	Columbus St.	-	Totals	-	-	-	-	49	1,268	560	72	0.962	 	2	35	14	42	 
 2015	12080	159	Columbus St.	-	Opponent Totals	-	-	-	-	49	1,231	517	82	0.955	1	12	60	8	40	 
 2015	12080	1028	Concord	-	Totals	-	-	-	-	52	1,149	487	73	0.957	 	8	36	19	32	 
@@ -129,12 +129,12 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	174	Davis & Elkins	-	Opponent Totals	-	-	-	-	42	963	443	55	0.962	 	10	35	21	29	 
 2015	12080	181	Delta St.	-	Totals	-	-	-	-	43	1,057	424	55	0.964	 	6	23	14	35	 
 2015	12080	181	Delta St.	-	Opponent Totals	-	-	-	-	43	1,050	435	71	0.954	 	10	36	14	42	 
-2015	12080	30095	Dixie St.	-	Totals	-	-	-	-	48	1,238	535	50	0.973	2	14	42	21	29	 
-2015	12080	30095	Dixie St.	-	Opponent Totals	-	-	-	-	48	1,203	571	83	0.955	 	10	41	26	38	 
+2015	12080	30095	Dixie St.	-	Totals	-	-	-	-	49	1,262	545	51	0.973	2	14	42	21	30	 
+2015	12080	30095	Dixie St.	-	Opponent Totals	-	-	-	-	49	1,230	582	83	0.956	 	10	41	26	39	 
 2015	12080	8956	Dominican (NY)	-	Totals	-	-	-	-	45	1,174	447	91	0.947	 	18	93	27	18	 
 2015	12080	8956	Dominican (NY)	-	Opponent Totals	-	-	-	-	45	1,188	531	92	0.949	2	10	93	32	32	1
-2015	12080	2692	Dowling	-	Totals	-	-	-	-	41	1,038	461	63	0.960	 	9	49	19	28	 
-2015	12080	2692	Dowling	-	Opponent Totals	-	-	-	-	41	1,015	441	70	0.954	3	10	73	20	27	 
+2015	12080	2692	Dowling	-	Totals	-	-	-	-	44	1,113	490	67	0.960	 	9	57	22	30	 
+2015	12080	2692	Dowling	-	Opponent Totals	-	-	-	-	44	1,096	481	72	0.956	3	10	76	21	32	 
 2015	12080	1057	Drury	-	Totals	-	-	-	-	54	1,301	574	70	0.964	 	16	34	19	48	 
 2015	12080	1057	Drury	-	Opponent Totals	-	-	-	-	54	1,283	547	72	0.962	1	19	55	14	52	 
 2015	12080	8965	East Central	-	Totals	-	-	-	-	36	861	333	47	0.962	 	7	31	15	32	 
@@ -161,14 +161,14 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	233	Fla. Southern	-	Opponent Totals	-	-	-	-	45	1,155	414	70	0.957	 	12	34	7	37	 
 2015	12080	30092	Flagler	-	Totals	-	-	-	-	47	1,222	441	50	0.971	1	5	41	16	33	 
 2015	12080	30092	Flagler	-	Opponent Totals	-	-	-	-	47	1,189	438	71	0.958	 	9	63	16	26	 
-2015	12080	230	Florida Tech	-	Totals	-	-	-	-	47	1,236	498	61	0.966	1	4	47	7	41	 
-2015	12080	230	Florida Tech	-	Opponent Totals	-	-	-	-	47	1,191	500	77	0.956	 	9	59	14	56	 
+2015	12080	230	Florida Tech	-	Totals	-	-	-	-	48	1,260	507	64	0.965	1	5	47	8	41	 
+2015	12080	230	Florida Tech	-	Opponent Totals	-	-	-	-	48	1,218	507	82	0.955	 	9	59	14	57	 
 2015	12080	9011	Fort Hays St.	-	Totals	-	-	-	-	47	1,106	495	88	0.948	 	9	63	13	37	 
 2015	12080	9011	Fort Hays St.	-	Opponent Totals	-	-	-	-	47	1,123	418	67	0.958	2	6	39	16	34	 
 2015	12080	1085	Francis Marion	-	Totals	-	-	-	-	47	1,236	394	86	0.950	1	21	43	16	23	 
 2015	12080	1085	Francis Marion	-	Opponent Totals	-	-	-	-	47	1,221	488	86	0.952	3	23	47	16	40	 
-2015	12080	241	Franklin Pierce	-	Totals	-	-	-	-	48	1,290	561	54	0.972	 	8	36	18	43	 
-2015	12080	241	Franklin Pierce	-	Opponent Totals	-	-	-	-	48	1,204	507	112	0.939	 	23	204	36	25	 
+2015	12080	241	Franklin Pierce	-	Totals	-	-	-	-	50	1,344	586	57	0.971	 	8	41	21	44	 
+2015	12080	241	Franklin Pierce	-	Opponent Totals	-	-	-	-	50	1,258	527	114	0.940	 	23	208	39	27	 
 2015	12080	30147	Fresno Pacific	-	Totals	-	-	-	-	50	1,303	539	61	0.968	2	9	39	19	46	 
 2015	12080	30147	Fresno Pacific	-	Opponent Totals	-	-	-	-	50	1,290	548	80	0.958	5	19	60	20	37	 
 2015	12080	39	GRU Augusta	-	Totals	-	-	-	-	45	1,188	506	71	0.960	 	11	33	18	30	 
@@ -177,8 +177,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	1097	Ga. Southwestern	-	Opponent Totals	-	-	-	-	47	1,268	531	72	0.962	 	9	47	16	36	 
 2015	12080	246	Gannon	-	Totals	-	-	-	-	44	893	378	58	0.956	 	7	58	25	25	 
 2015	12080	246	Gannon	-	Opponent Totals	-	-	-	-	44	915	372	44	0.967	 	4	57	18	15	 
-2015	12080	1096	Georgia College	-	Totals	-	-	-	-	50	1,296	565	50	0.974	 	7	43	10	41	 
-2015	12080	1096	Georgia College	-	Opponent Totals	-	-	-	-	50	1,266	395	73	0.958	 	9	67	22	27	 
+2015	12080	1096	Georgia College	-	Totals	-	-	-	-	51	1,320	572	53	0.973	 	7	45	10	41	 
+2015	12080	1096	Georgia College	-	Opponent Totals	-	-	-	-	51	1,293	404	73	0.959	 	9	67	23	29	 
 2015	12080	1098	Glenville St.	-	Totals	-	-	-	-	49	985	441	87	0.942	 	13	69	30	50	 
 2015	12080	1098	Glenville St.	-	Opponent Totals	-	-	-	-	49	1,014	426	64	0.957	 	5	62	18	49	 
 2015	12080	262	Grand Valley St.	-	Totals	-	-	-	-	50	1,191	518	72	0.960	1	13	45	11	34	 
@@ -221,8 +221,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	349	Le Moyne	-	Opponent Totals	-	-	-	-	36	905	385	52	0.961	 	6	71	20	23	 
 2015	12080	350	LeMoyne-Owen	-	Totals	-	-	-	-	29	579	230	77	0.913	 	9	83	16	11	 
 2015	12080	350	LeMoyne-Owen	-	Opponent Totals	-	-	-	-	29	625	251	44	0.952	 	11	27	4	20	 
-2015	12080	30013	Lee	-	Totals	-	-	-	-	50	1,221	528	48	0.973	 	4	15	22	46	 
-2015	12080	30013	Lee	-	Opponent Totals	-	-	-	-	50	1,189	480	58	0.966	 	11	46	22	37	 
+2015	12080	30013	Lee	-	Totals	-	-	-	-	53	1,296	563	50	0.974	 	4	15	22	49	 
+2015	12080	30013	Lee	-	Opponent Totals	-	-	-	-	53	1,258	503	66	0.964	 	11	52	22	38	 
 2015	12080	1170	Lenoir-Rhyne	-	Totals	-	-	-	-	48	1,167	365	72	0.955	2	17	54	6	27	 
 2015	12080	1170	Lenoir-Rhyne	-	Opponent Totals	-	-	-	-	48	1,150	411	80	0.951	 	16	33	8	36	 
 2015	12080	354	Lewis	-	Totals	-	-	-	-	47	1,128	469	61	0.963	 	12	51	15	37	 
@@ -241,8 +241,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	360	Lock Haven	-	Opponent Totals	-	-	-	-	37	785	346	47	0.960	 	7	21	11	22	 
 2015	12080	30177	Lubbock Christian	-	Totals	-	-	-	-	48	1,178	527	89	0.950	1	12	50	13	42	 
 2015	12080	30177	Lubbock Christian	-	Opponent Totals	-	-	-	-	48	1,166	423	91	0.946	 	10	25	9	33	 
-2015	12080	20794	Lynn	-	Totals	-	-	-	-	48	1,248	461	80	0.955	1	15	76	17	32	 
-2015	12080	20794	Lynn	-	Opponent Totals	-	-	-	-	48	1,219	434	89	0.949	2	6	65	15	40	 
+2015	12080	20794	Lynn	-	Totals	-	-	-	-	49	1,272	467	81	0.955	1	15	77	17	33	 
+2015	12080	20794	Lynn	-	Opponent Totals	-	-	-	-	49	1,246	443	91	0.949	2	6	65	15	41	 
 2015	12080	30137	Malone	-	Totals	-	-	-	-	51	1,227	481	105	0.942	1	11	43	15	27	 
 2015	12080	30137	Malone	-	Opponent Totals	-	-	-	-	51	1,203	512	107	0.941	 	12	38	16	46	 
 2015	12080	384	Mansfield	-	Totals	-	-	-	-	40	861	350	59	0.954	 	11	72	11	26	 
@@ -257,16 +257,16 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	30138	McKendree	-	Opponent Totals	-	-	-	-	48	1,173	500	53	0.969	1	8	25	10	42	 
 2015	12080	407	Mercy	-	Totals	-	-	-	-	41	1,009	417	81	0.946	 	11	89	30	20	 
 2015	12080	407	Mercy	-	Opponent Totals	-	-	-	-	41	1,037	442	66	0.957	 	15	75	22	23	 
-2015	12080	408	Mercyhurst	-	Totals	-	-	-	-	44	986	389	42	0.970	 	12	25	13	23	 
-2015	12080	408	Mercyhurst	-	Opponent Totals	-	-	-	-	44	948	456	60	0.959	 	6	56	17	24	 
+2015	12080	408	Mercyhurst	-	Totals	-	-	-	-	45	1,013	406	42	0.971	 	12	25	14	22	 
+2015	12080	408	Mercyhurst	-	Opponent Totals	-	-	-	-	45	974	465	58	0.961	 	6	54	19	25	 
 2015	12080	410	Merrimack	-	Totals	-	-	-	-	35	912	318	77	0.941	 	12	42	16	21	 
 2015	12080	410	Merrimack	-	Opponent Totals	-	-	-	-	35	917	409	75	0.946	 	16	64	22	25	 
 2015	12080	413	Metro St.	-	Totals	-	-	-	-	50	1,209	496	50	0.972	 	6	41	31	33	 
 2015	12080	413	Metro St.	-	Opponent Totals	-	-	-	-	50	1,196	471	61	0.965	1	10	51	17	34	 
 2015	12080	422	Miles	-	Totals	-	-	-	-	44	950	367	73	0.947	 	17	74	16	26	 
 2015	12080	422	Miles	-	Opponent Totals	-	-	-	-	44	966	432	83	0.944	 	18	46	13	25	 
-2015	12080	423	Millersville	-	Totals	-	-	-	-	51	1,143	490	45	0.973	 	14	23	8	37	 
-2015	12080	423	Millersville	-	Opponent Totals	-	-	-	-	51	1,090	441	90	0.944	 	12	81	14	25	 
+2015	12080	423	Millersville	-	Totals	-	-	-	-	52	1,170	499	46	0.973	 	14	24	8	37	 
+2015	12080	423	Millersville	-	Opponent Totals	-	-	-	-	52	1,117	453	90	0.946	 	12	81	15	28	 
 2015	12080	427	Minn. Duluth	-	Totals	-	-	-	-	51	1,181	533	53	0.970	1	10	25	16	42	 
 2015	12080	427	Minn. Duluth	-	Opponent Totals	-	-	-	-	51	1,154	461	81	0.952	1	19	69	19	33	 
 2015	12080	383	Minn. St. Mankato	-	Totals	-	-	-	-	48	1,122	437	61	0.962	 	 	25	19	31	 
@@ -293,8 +293,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	1238	Montevallo	-	Opponent Totals	-	-	-	-	47	1,232	452	77	0.956	 	11	59	22	20	 
 2015	12080	445	Morehouse	-	Totals	-	-	-	-	31	662	289	71	0.931	 	12	135	27	26	 
 2015	12080	445	Morehouse	-	Opponent Totals	-	-	-	-	31	673	269	66	0.935	 	30	104	19	31	 
-2015	12080	1245	Mount Olive	-	Totals	-	-	-	-	51	1,260	439	62	0.965	 	15	36	11	41	 
-2015	12080	1245	Mount Olive	-	Opponent Totals	-	-	-	-	51	1,226	422	85	0.951	 	18	114	14	33	 
+2015	12080	1245	Mount Olive	-	Totals	-	-	-	-	52	1,287	448	64	0.964	 	15	36	11	43	 
+2015	12080	1245	Mount Olive	-	Opponent Totals	-	-	-	-	52	1,250	432	86	0.951	 	18	114	14	33	 
 2015	12080	8577	N.M. Highlands	-	Totals	-	-	-	-	46	1,085	488	54	0.967	 	8	32	23	37	 
 2015	12080	8577	N.M. Highlands	-	Opponent Totals	-	-	-	-	46	1,090	421	57	0.964	 	14	33	20	38	 
 2015	12080	1156	Neb.-Kearney	-	Totals	-	-	-	-	50	1,167	472	61	0.964	 	14	39	12	38	 
@@ -335,16 +335,16 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	30119	Ohio Dominican	-	Opponent Totals	-	-	-	-	48	1,149	457	75	0.955	1	19	38	19	36	 
 2015	12080	15207	Ohio Valley	-	Totals	-	-	-	-	46	1,071	454	72	0.955	 	7	74	24	27	 
 2015	12080	15207	Ohio Valley	-	Opponent Totals	-	-	-	-	46	1,088	460	79	0.951	1	7	40	20	22	 
-2015	12080	30179	Okla. Christian	-	Totals	-	-	-	-	48	1,132	458	64	0.961	1	13	42	17	44	 
-2015	12080	30179	Okla. Christian	-	Opponent Totals	-	-	-	-	48	1,098	444	68	0.958	1	14	42	11	24	 
+2015	12080	30179	Okla. Christian	-	Totals	-	-	-	-	50	1,186	477	67	0.961	1	13	42	18	45	 
+2015	12080	30179	Okla. Christian	-	Opponent Totals	-	-	-	-	50	1,149	459	70	0.958	1	14	44	13	25	 
 2015	12080	24342	Okla. Panhandle	-	Totals	-	-	-	-	49	1,141	487	132	0.925	 	20	92	15	42	 
 2015	12080	24342	Okla. Panhandle	-	Opponent Totals	-	-	-	-	49	1,178	516	60	0.966	 	10	58	24	43	 
 2015	12080	1289	Ouachita Baptist	-	Totals	-	-	-	-	42	1,033	431	49	0.968	 	14	23	10	41	 
 2015	12080	1289	Ouachita Baptist	-	Opponent Totals	-	-	-	-	42	1,004	398	62	0.958	 	14	23	14	36	 
 2015	12080	533	Pace	-	Totals	-	-	-	-	39	1,036	431	56	0.963	2	7	59	30	28	1
 2015	12080	533	Pace	-	Opponent Totals	-	-	-	-	39	1,038	429	57	0.963	 	7	22	10	37	 
-2015	12080	535	Paine	-	Totals	-	-	-	-	42	901	334	94	0.929	1	25	84	17	30	 
-2015	12080	535	Paine	-	Opponent Totals	-	-	-	-	42	908	352	73	0.945	 	26	93	9	24	 
+2015	12080	535	Paine	-	Totals	-	-	-	-	43	923	342	99	0.927	1	26	86	17	30	 
+2015	12080	535	Paine	-	Opponent Totals	-	-	-	-	43	935	359	74	0.946	 	26	93	10	24	 
 2015	12080	30045	Palm Beach Atl.	-	Totals	-	-	-	-	51	1,346	527	100	0.949	1	13	69	30	31	 
 2015	12080	30045	Palm Beach Atl.	-	Opponent Totals	-	-	-	-	51	1,321	552	92	0.953	 	12	97	27	41	 
 2015	12080	542	Pfeiffer	-	Totals	-	-	-	-	48	1,179	480	64	0.963	1	5	41	15	21	 
@@ -361,8 +361,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	1318	Post	-	Opponent Totals	-	-	-	-	39	981	385	61	0.957	 	7	36	10	28	 
 2015	12080	560	Queens (NY)	-	Totals	-	-	-	-	35	875	377	63	0.952	 	8	55	23	20	 
 2015	12080	560	Queens (NY)	-	Opponent Totals	-	-	-	-	35	893	356	64	0.951	1	12	64	16	21	 
-2015	12080	561	Quincy	-	Totals	-	-	-	-	54	1,311	531	65	0.966	1	5	67	22	45	 
-2015	12080	561	Quincy	-	Opponent Totals	-	-	-	-	54	1,266	524	77	0.959	4	10	60	24	46	 
+2015	12080	561	Quincy	-	Totals	-	-	-	-	56	1,368	551	72	0.964	1	5	70	23	47	 
+2015	12080	561	Quincy	-	Opponent Totals	-	-	-	-	56	1,320	550	79	0.959	4	12	62	24	48	 
 2015	12080	568	Regis (CO)	-	Totals	-	-	-	-	50	1,214	508	73	0.959	4	25	60	18	36	 
 2015	12080	568	Regis (CO)	-	Opponent Totals	-	-	-	-	50	1,237	480	76	0.958	 	16	65	34	38	 
 2015	12080	1328	Rockhurst	-	Totals	-	-	-	-	50	1,191	548	71	0.961	 	10	60	17	44	 
@@ -391,12 +391,12 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	628	San Fran. St.	-	Opponent Totals	-	-	-	-	48	1,216	552	56	0.969	2	9	28	21	48	 
 2015	12080	30063	Seton Hill	-	Totals	-	-	-	-	53	1,178	511	49	0.972	 	13	16	8	37	 
 2015	12080	30063	Seton Hill	-	Opponent Totals	-	-	-	-	53	1,130	482	85	0.950	 	17	130	40	26	 
-2015	12080	10870	Shepherd	-	Totals	-	-	-	-	50	1,055	401	66	0.957	1	11	25	10	32	 
-2015	12080	10870	Shepherd	-	Opponent Totals	-	-	-	-	50	1,012	379	57	0.961	 	29	53	18	29	 
+2015	12080	10870	Shepherd	-	Totals	-	-	-	-	51	1,084	415	69	0.956	1	11	26	10	32	 
+2015	12080	10870	Shepherd	-	Opponent Totals	-	-	-	-	51	1,042	398	57	0.962	 	30	54	18	32	 
 2015	12080	638	Shippensburg	-	Totals	-	-	-	-	50	1,090	430	70	0.956	1	15	48	19	32	 
 2015	12080	638	Shippensburg	-	Opponent Totals	-	-	-	-	50	1,092	406	58	0.963	 	17	57	20	24	 
-2015	12080	30151	Shorter	-	Totals	-	-	-	-	42	1,022	349	66	0.954	 	17	73	9	18	 
-2015	12080	30151	Shorter	-	Opponent Totals	-	-	-	-	42	1,032	407	62	0.959	1	9	26	8	29	 
+2015	12080	30151	Shorter	-	Totals	-	-	-	-	43	1,043	359	68	0.954	 	17	73	9	18	 
+2015	12080	30151	Shorter	-	Opponent Totals	-	-	-	-	43	1,053	418	65	0.958	1	9	26	8	30	 
 2015	12080	30128	Sioux Falls	-	Totals	-	-	-	-	50	1,116	546	99	0.944	1	17	55	21	55	 
 2015	12080	30128	Sioux Falls	-	Opponent Totals	-	-	-	-	50	1,171	517	69	0.961	 	11	43	19	52	 
 2015	12080	643	Slippery Rock	-	Totals	-	-	-	-	47	1,027	418	76	0.950	1	10	32	17	26	 
@@ -411,8 +411,8 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	658	Southern Conn. St.	-	Opponent Totals	-	-	-	-	37	964	424	59	0.959	 	11	69	23	25	 
 2015	12080	661	Southern Ind.	-	Totals	-	-	-	-	49	1,216	494	81	0.955	 	10	44	19	36	 
 2015	12080	661	Southern Ind.	-	Opponent Totals	-	-	-	-	49	1,205	462	82	0.953	 	14	68	22	30	 
-2015	12080	468	Southern N.H.	-	Totals	-	-	-	-	42	1,113	394	68	0.957	 	21	68	15	25	 
-2015	12080	468	Southern N.H.	-	Opponent Totals	-	-	-	-	42	1,086	382	75	0.951	1	28	90	27	24	 
+2015	12080	468	Southern N.H.	-	Totals	-	-	-	-	43	1,140	400	69	0.957	 	22	69	16	25	 
+2015	12080	468	Southern N.H.	-	Opponent Totals	-	-	-	-	43	1,113	386	76	0.952	1	28	91	27	24	 
 2015	12080	30152	Southern Nazarene	-	Totals	-	-	-	-	38	895	361	69	0.948	2	1	38	21	25	 
 2015	12080	30152	Southern Nazarene	-	Opponent Totals	-	-	-	-	38	916	384	46	0.966	 	3	28	14	27	 
 2015	12080	30192	Southern Wesleyan	-	Totals	-	-	-	-	48	1,181	431	98	0.943	2	11	98	26	31	 
@@ -429,22 +429,22 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	593	St. Anselm	-	Opponent Totals	-	-	-	-	35	920	344	50	0.962	 	7	35	9	29	 
 2015	12080	598	St. Cloud St.	-	Totals	-	-	-	-	53	1,254	530	63	0.966	 	7	15	14	46	 
 2015	12080	598	St. Cloud St.	-	Opponent Totals	-	-	-	-	53	1,201	529	111	0.940	 	16	44	19	40	 
-2015	12080	1334	St. Edward's	-	Totals	-	-	-	-	51	1,253	558	67	0.964	1	8	20	24	46	 
-2015	12080	1334	St. Edward's	-	Opponent Totals	-	-	-	-	51	1,200	523	81	0.955	 	9	39	10	44	 
+2015	12080	1334	St. Edward's	-	Totals	-	-	-	-	53	1,310	579	69	0.965	1	8	20	25	47	 
+2015	12080	1334	St. Edward's	-	Opponent Totals	-	-	-	-	53	1,257	550	82	0.957	 	9	40	11	47	 
 2015	12080	604	St. Joseph's (IN)	-	Totals	-	-	-	-	47	1,139	450	53	0.968	 	12	57	16	19	 
 2015	12080	604	St. Joseph's (IN)	-	Opponent Totals	-	-	-	-	47	1,130	397	68	0.957	 	16	34	19	32	 
-2015	12080	1346	St. Mary's (TX)	-	Totals	-	-	-	-	52	1,300	511	68	0.964	1	9	31	19	35	1
-2015	12080	1346	St. Mary's (TX)	-	Opponent Totals	-	-	-	-	52	1,263	531	109	0.943	1	8	65	15	39	 
-2015	12080	1348	St. Thomas Aquinas	-	Totals	-	-	-	-	45	1,164	490	63	0.963	 	19	73	15	30	 
-2015	12080	1348	St. Thomas Aquinas	-	Opponent Totals	-	-	-	-	45	1,145	505	85	0.951	 	13	87	30	20	 
+2015	12080	1346	St. Mary's (TX)	-	Totals	-	-	-	-	53	1,327	519	70	0.963	1	9	32	19	35	1
+2015	12080	1346	St. Mary's (TX)	-	Opponent Totals	-	-	-	-	53	1,290	546	110	0.943	1	8	65	15	40	 
+2015	12080	1348	St. Thomas Aquinas	-	Totals	-	-	-	-	46	1,191	500	64	0.964	 	19	73	16	31	 
+2015	12080	1348	St. Thomas Aquinas	-	Opponent Totals	-	-	-	-	46	1,172	521	88	0.951	 	13	91	32	21	 
 2015	12080	680	Stillman	-	Totals	-	-	-	-	36	822	343	67	0.946	 	14	40	10	18	 
 2015	12080	680	Stillman	-	Opponent Totals	-	-	-	-	36	833	366	77	0.940	3	18	40	6	26	 
-2015	12080	682	Stonehill	-	Totals	-	-	-	-	47	1,252	531	77	0.959	2	23	78	14	30	 
-2015	12080	682	Stonehill	-	Opponent Totals	-	-	-	-	47	1,230	458	105	0.941	 	17	83	21	26	 
-2015	12080	689	Tampa	-	Totals	-	-	-	-	42	1,109	424	59	0.963	3	16	34	7	32	 
-2015	12080	689	Tampa	-	Opponent Totals	-	-	-	-	42	1,070	375	67	0.956	 	17	47	11	33	 
-2015	12080	1395	Tarleton St.	-	Totals	-	-	-	-	46	1,113	450	62	0.962	2	6	34	15	40	 
-2015	12080	1395	Tarleton St.	-	Opponent Totals	-	-	-	-	46	1,114	432	52	0.967	 	8	41	31	24	 
+2015	12080	682	Stonehill	-	Totals	-	-	-	-	48	1,279	549	79	0.959	2	23	79	14	33	 
+2015	12080	682	Stonehill	-	Opponent Totals	-	-	-	-	48	1,254	469	106	0.942	 	17	85	21	26	 
+2015	12080	689	Tampa	-	Totals	-	-	-	-	49	1,301	501	74	0.961	3	23	46	7	42	 
+2015	12080	689	Tampa	-	Opponent Totals	-	-	-	-	49	1,250	443	84	0.953	 	23	54	15	37	 
+2015	12080	1395	Tarleton St.	-	Totals	-	-	-	-	47	1,137	456	63	0.962	2	6	35	15	40	 
+2015	12080	1395	Tarleton St.	-	Opponent Totals	-	-	-	-	47	1,141	442	54	0.967	 	8	41	31	26	 
 2015	12080	30090	Tex. A&M Int'l	-	Totals	-	-	-	-	47	1,117	499	97	0.943	 	14	84	18	34	 
 2015	12080	30090	Tex. A&M Int'l	-	Opponent Totals	-	-	-	-	47	1,143	505	38	0.977	1	9	32	23	52	 
 2015	12080	696	Tex. A&M-Kingsville	-	Totals	-	-	-	-	52	1,267	509	71	0.962	 	5	28	13	36	 
@@ -455,14 +455,14 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	1403	Tiffin	-	Opponent Totals	-	-	-	-	46	1,130	424	76	0.953	1	19	33	9	45	1
 2015	12080	30002	Trevecca Nazarene	-	Totals	-	-	-	-	54	1,322	444	87	0.953	 	9	37	11	33	 
 2015	12080	30002	Trevecca Nazarene	-	Opponent Totals	-	-	-	-	54	1,281	452	91	0.950	2	14	109	21	32	 
-2015	12080	499	Truman	-	Totals	-	-	-	-	51	1,219	583	59	0.968	1	8	17	19	48	 
-2015	12080	499	Truman	-	Opponent Totals	-	-	-	-	51	1,215	499	83	0.954	1	10	69	19	42	 
+2015	12080	499	Truman	-	Totals	-	-	-	-	52	1,246	593	59	0.969	1	8	17	19	49	 
+2015	12080	499	Truman	-	Opponent Totals	-	-	-	-	52	1,242	517	86	0.953	1	10	70	19	44	 
 2015	12080	12830	Tusculum	-	Totals	-	-	-	-	52	1,313	532	79	0.959	 	20	47	8	42	 
 2015	12080	12830	Tusculum	-	Opponent Totals	-	-	-	-	52	1,288	498	95	0.949	 	13	42	12	34	 
 2015	12080	720	Tuskegee	-	Totals	-	-	-	-	38	832	289	67	0.944	1	22	47	15	13	 
 2015	12080	720	Tuskegee	-	Opponent Totals	-	-	-	-	38	840	348	71	0.944	 	14	84	18	13	 
-2015	12080	112	UC San Diego	-	Totals	-	-	-	-	52	1,324	526	53	0.972	 	8	31	14	44	 
-2015	12080	112	UC San Diego	-	Opponent Totals	-	-	-	-	52	1,292	493	76	0.959	 	13	47	9	41	 
+2015	12080	112	UC San Diego	-	Totals	-	-	-	-	54	1,375	544	59	0.970	 	10	32	14	46	 
+2015	12080	112	UC San Diego	-	Opponent Totals	-	-	-	-	54	1,343	515	79	0.959	 	13	49	9	43	 
 2015	12080	537	UNC Pembroke	-	Totals	-	-	-	-	51	1,354	484	62	0.967	 	16	72	8	28	 
 2015	12080	537	UNC Pembroke	-	Opponent Totals	-	-	-	-	51	1,301	538	125	0.936	 	17	73	25	39	 
 2015	12080	28594	USciences	-	Totals	-	-	-	-	32	796	338	59	0.951	 	25	53	27	21	 
@@ -487,32 +487,32 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_name	class_year	
 2015	12080	757	Wayne St. (MI)	-	Opponent Totals	-	-	-	-	50	1,199	508	90	0.950	4	8	58	10	39	 
 2015	12080	1433	Wayne St. (NE)	-	Totals	-	-	-	-	51	1,197	436	87	0.949	 	14	53	13	29	 
 2015	12080	1433	Wayne St. (NE)	-	Opponent Totals	-	-	-	-	51	1,204	518	76	0.958	 	8	20	9	35	 
-2015	12080	358	West Ala.	-	Totals	-	-	-	-	49	1,194	451	53	0.969	 	11	25	8	35	 
-2015	12080	358	West Ala.	-	Opponent Totals	-	-	-	-	49	1,144	434	75	0.955	1	17	61	27	18	 
-2015	12080	765	West Chester	-	Totals	-	-	-	-	39	872	397	59	0.956	2	10	25	14	40	 
-2015	12080	765	West Chester	-	Opponent Totals	-	-	-	-	39	842	273	68	0.943	 	7	27	6	27	 
+2015	12080	358	West Ala.	-	Totals	-	-	-	-	50	1,221	465	55	0.968	 	11	25	8	36	 
+2015	12080	358	West Ala.	-	Opponent Totals	-	-	-	-	50	1,168	440	77	0.954	1	18	65	27	18	 
+2015	12080	765	West Chester	-	Totals	-	-	-	-	40	899	409	59	0.957	2	10	25	15	43	 
+2015	12080	765	West Chester	-	Opponent Totals	-	-	-	-	40	869	282	69	0.943	 	7	28	6	27	 
 2015	12080	11740	West Florida	-	Totals	-	-	-	-	48	1,208	527	54	0.970	1	8	17	12	32	 
 2015	12080	11740	West Florida	-	Opponent Totals	-	-	-	-	48	1,169	562	80	0.956	1	13	76	26	38	 
 2015	12080	766	West Ga.	-	Totals	-	-	-	-	48	1,195	531	55	0.969	1	9	29	17	41	 
 2015	12080	766	West Ga.	-	Opponent Totals	-	-	-	-	48	1,169	497	97	0.945	 	19	58	20	34	 
 2015	12080	1438	West Liberty	-	Totals	-	-	-	-	49	1,040	460	59	0.962	 	6	61	17	37	 
 2015	12080	1438	West Liberty	-	Opponent Totals	-	-	-	-	49	1,040	408	67	0.956	1	25	45	14	24	 
-2015	12080	767	West Tex. A&M	-	Totals	-	-	-	-	53	1,294	580	79	0.960	 	12	27	26	50	 
-2015	12080	767	West Tex. A&M	-	Opponent Totals	-	-	-	-	53	1,285	517	78	0.959	 	6	19	17	36	 
+2015	12080	767	West Tex. A&M	-	Totals	-	-	-	-	54	1,321	595	79	0.960	 	12	27	27	50	 
+2015	12080	767	West Tex. A&M	-	Opponent Totals	-	-	-	-	54	1,312	530	80	0.958	 	6	19	18	37	 
 2015	12080	9630	West Va. Wesleyan	-	Totals	-	-	-	-	39	814	334	59	0.951	1	3	36	14	20	 
 2015	12080	9630	West Va. Wesleyan	-	Opponent Totals	-	-	-	-	39	830	377	58	0.954	 	9	12	13	28	 
-2015	12080	1439	West Virginia St.	-	Totals	-	-	-	-	48	1,044	510	59	0.963	 	6	30	13	36	 
-2015	12080	1439	West Virginia St.	-	Opponent Totals	-	-	-	-	48	1,019	461	72	0.954	 	18	48	14	27	 
+2015	12080	1439	West Virginia St.	-	Totals	-	-	-	-	50	1,098	540	59	0.965	 	7	31	15	39	 
+2015	12080	1439	West Virginia St.	-	Opponent Totals	-	-	-	-	50	1,075	488	77	0.953	 	18	49	14	27	 
 2015	12080	1446	Western Ore.	-	Totals	-	-	-	-	53	1,289	547	56	0.970	 	13	31	11	49	 
 2015	12080	1446	Western Ore.	-	Opponent Totals	-	-	-	-	53	1,303	532	74	0.961	1	10	42	19	36	 
 2015	12080	12799	Wheeling Jesuit	-	Totals	-	-	-	-	41	874	374	59	0.955	2	25	62	11	26	 
 2015	12080	12799	Wheeling Jesuit	-	Opponent Totals	-	-	-	-	41	886	370	65	0.951	1	9	77	21	33	 
-2015	12080	30120	William Jewell	-	Totals	-	-	-	-	54	1,295	575	55	0.971	1	16	25	15	58	 
-2015	12080	30120	William Jewell	-	Opponent Totals	-	-	-	-	54	1,268	519	80	0.957	 	24	47	23	36	 
-2015	12080	1460	Wilmington (DE)	-	Totals	-	-	-	-	45	1,193	511	70	0.961	 	3	39	16	38	 
-2015	12080	1460	Wilmington (DE)	-	Opponent Totals	-	-	-	-	45	1,164	585	104	0.944	 	17	92	26	47	 
-2015	12080	1462	Wingate	-	Totals	-	-	-	-	56	1,422	523	88	0.957	2	23	56	17	44	 
-2015	12080	1462	Wingate	-	Opponent Totals	-	-	-	-	56	1,408	490	88	0.956	 	15	55	15	36	 
+2015	12080	30120	William Jewell	-	Totals	-	-	-	-	56	1,349	605	59	0.971	1	17	27	15	61	 
+2015	12080	30120	William Jewell	-	Opponent Totals	-	-	-	-	56	1,322	539	85	0.956	 	24	49	24	38	 
+2015	12080	1460	Wilmington (DE)	-	Totals	-	-	-	-	46	1,220	515	71	0.961	 	3	40	16	38	 
+2015	12080	1460	Wilmington (DE)	-	Opponent Totals	-	-	-	-	46	1,191	591	105	0.944	 	18	93	27	47	 
+2015	12080	1462	Wingate	-	Totals	-	-	-	-	58	1,473	541	89	0.958	2	23	56	17	44	 
+2015	12080	1462	Wingate	-	Opponent Totals	-	-	-	-	58	1,459	507	90	0.956	 	17	56	15	38	 
 2015	12080	790	Winona St.	-	Totals	-	-	-	-	52	1,201	467	81	0.954	 	8	33	25	35	 
 2015	12080	790	Winona St.	-	Opponent Totals	-	-	-	-	52	1,216	522	78	0.957	 	6	19	13	50	 
 2015	12080	791	Winston-Salem	-	Totals	-	-	-	-	54	1,241	500	90	0.951	 	7	33	15	30	 
