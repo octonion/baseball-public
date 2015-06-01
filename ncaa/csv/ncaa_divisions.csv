@@ -1772,12 +1772,6 @@ MBA,Babson,45,Babson,"javascript:showTeamPage(-100, 2012, 'MBA', 3, 45);",2012,3
 MBA,Babson,45,Babson,"javascript:showTeamPage(-100, 2013, 'MBA', 3, 45);",2013,3,2012-13,Baseball,III
 MBA,Babson,45,Babson,"javascript:showTeamPage(-100, 2014, 'MBA', 3, 45);",2014,3,2013-14,Baseball,III
 MBA,Babson,45,Babson,"javascript:showTeamPage(-100, 2015, 'MBA', 3, 45);",2015,3,2014-15,Baseball,III
-MBA,Bakersfield,94,Bakersfield,"javascript:showTeamPage(-100, 2010, 'MBA', 1, 94);",2010,1,2009-10,Baseball,I
-MBA,Bakersfield,94,Bakersfield,"javascript:showTeamPage(-100, 2011, 'MBA', 1, 94);",2011,1,2010-11,Baseball,I
-MBA,Bakersfield,94,Bakersfield,"javascript:showTeamPage(-100, 2012, 'MBA', 1, 94);",2012,1,2011-12,Baseball,I
-MBA,Bakersfield,94,Bakersfield,"javascript:showTeamPage(-100, 2013, 'MBA', 1, 94);",2013,1,2012-13,Baseball,I
-MBA,Bakersfield,94,Bakersfield,"javascript:showTeamPage(-100, 2014, 'MBA', 1, 94);",2014,1,2013-14,Baseball,I
-MBA,Bakersfield,94,Bakersfield,"javascript:showTeamPage(-100, 2015, 'MBA', 1, 94);",2015,1,2014-15,Baseball,I
 MBA,Baldwin Wallace,46,Baldwin Wallace,"javascript:showTeamPage(-100, 1969, 'MBA', 2, 46);",1969,2,1968-69,Baseball,II
 MBA,Baldwin Wallace,46,Baldwin Wallace,"javascript:showTeamPage(-100, 1970, 'MBA', 2, 46);",1970,2,1969-70,Baseball,II
 MBA,Baldwin Wallace,46,Baldwin Wallace,"javascript:showTeamPage(-100, 1971, 'MBA', 2, 46);",1971,2,1970-71,Baseball,II
@@ -6435,6 +6429,12 @@ MBA,Crown (MN),30035,Crown (MN),"javascript:showTeamPage(-100, 2012, 'MBA', 3, 3
 MBA,Crown (MN),30035,Crown (MN),"javascript:showTeamPage(-100, 2013, 'MBA', 3, 30035);",2013,3,2012-13,Baseball,III
 MBA,Crown (MN),30035,Crown (MN),"javascript:showTeamPage(-100, 2014, 'MBA', 3, 30035);",2014,3,2013-14,Baseball,III
 MBA,Crown (MN),30035,Crown (MN),"javascript:showTeamPage(-100, 2015, 'MBA', 3, 30035);",2015,3,2014-15,Baseball,III
+MBA,CSU Bakersfield,94,CSU Bakersfield,"javascript:showTeamPage(-100, 2010, 'MBA', 1, 94);",2010,1,2009-10,Baseball,I
+MBA,CSU Bakersfield,94,CSU Bakersfield,"javascript:showTeamPage(-100, 2011, 'MBA', 1, 94);",2011,1,2010-11,Baseball,I
+MBA,CSU Bakersfield,94,CSU Bakersfield,"javascript:showTeamPage(-100, 2012, 'MBA', 1, 94);",2012,1,2011-12,Baseball,I
+MBA,CSU Bakersfield,94,CSU Bakersfield,"javascript:showTeamPage(-100, 2013, 'MBA', 1, 94);",2013,1,2012-13,Baseball,I
+MBA,CSU Bakersfield,94,CSU Bakersfield,"javascript:showTeamPage(-100, 2014, 'MBA', 1, 94);",2014,1,2013-14,Baseball,I
+MBA,CSU Bakersfield,94,CSU Bakersfield,"javascript:showTeamPage(-100, 2015, 'MBA', 1, 94);",2015,1,2014-15,Baseball,I
 MBA,CSUN,101,CSUN,"javascript:showTeamPage(-100, 1965, 'MBA', 1, 101);",1965,1,1964-65,Baseball,I
 MBA,CSUN,101,CSUN,"javascript:showTeamPage(-100, 1967, 'MBA', 1, 101);",1967,1,1966-67,Baseball,I
 MBA,CSUN,101,CSUN,"javascript:showTeamPage(-100, 1968, 'MBA', 1, 101);",1968,1,1967-68,Baseball,I

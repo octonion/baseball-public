@@ -68,7 +68,6 @@
 30146,Azusa Pacific
 45,Babson
 506059,Baker
-94,Bakersfield
 46,Baldwin Wallace
 47,Ball St.
 500367,Baptist Bible (PA)
@@ -150,8 +149,8 @@
 98,Cal St. East Bay
 97,Cal St. Fullerton
 100,Cal St. L.A.
-506122,Cal St. Monterey Bay
 30055,Cal St. Monterey Bay
+506122,Cal St. Monterey Bay
 93,Cal St. San B'dino
 103,Cal St. Stanislaus
 995,Caldwell
@@ -190,8 +189,8 @@
 129,Central Mich.
 130,Central Mo.
 1009,Central Okla.
-30049,Central St. (OH)
 506028,Central St. (OH)
+30049,Central St. (OH)
 1010,Central Wash.
 132,Centre
 1012,Chadron St.
@@ -267,6 +266,7 @@
 30111,Covenant
 169,Creighton
 30035,Crown (MN)
+94,CSU Bakersfield
 101,CSUN
 506032,Culver-Stockton
 170,Curry
