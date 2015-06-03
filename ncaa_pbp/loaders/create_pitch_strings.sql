@@ -1,6 +1,8 @@
 
 begin;
 
+drop table if exists ncaa_pbp.pitch_strings;
+
 create table ncaa_pbp.pitch_strings (
        game_id		      integer,
        period_id	      integer,
