@@ -1,105 +1,105 @@
-         name          | cl |       team        | pa  | bb_p  | so_p  | wops  
------------------------+----+-------------------+-----+-------+-------+-------
- Kaczmarski, Kevin     | Sr | Evansville        | 201 | 0.124 | 0.109 | 1.845
- Craig, Will           | So | Wake Forest       | 218 | 0.170 | 0.092 | 1.774
- Benintendi, Andrew    | So | Arkansas          | 211 | 0.161 | 0.118 | 1.763
- Dewees, Donnie        | Jr | North Florida     | 243 | 0.111 | 0.049 | 1.745
- Happ, Ian             | Jr | Cincinnati        | 221 | 0.208 | 0.213 | 1.688
- Byler, Austin         | Sr | Nevada            | 252 | 0.206 | 0.206 | 1.677
- Ferguson, Drew        | Sr | Belmont           | 239 | 0.109 | 0.092 | 1.676
- Gray, Logan           | So | Austin Peay       | 180 | 0.133 | 0.244 | 1.674
- Gould, Charley        | Jr | William & Mary    | 198 | 0.121 | 0.136 | 1.660
- Stewart, DJ           | Jr | Florida St.       | 239 | 0.259 | 0.155 | 1.651
- Rodriguez, Melvin     | Sr | Jackson St.       | 234 | 0.124 | 0.056 | 1.643
- Robinson, Chris       | Sr | Morehead St.      | 240 | 0.096 | 0.104 | 1.621
- Bauml, Cole           | Sr | Northern Ky.      | 173 | 0.098 | 0.145 | 1.609
- Lewis, Kyle           | So | Mercer            | 203 | 0.074 | 0.172 | 1.608
- Koenig, Sam           | Sr | Milwaukee         | 223 | 0.130 | 0.175 | 1.605
- Landon, Logan         | Sr | Tex.-Pan American | 216 | 0.139 | 0.130 | 1.604
- Boehm, Jeff           | Sr | Ill.-Chicago      | 211 | 0.147 | 0.142 | 1.600
- Rivera, Cesar         | Sr | Alabama St.       | 224 | 0.125 | 0.129 | 1.594
- Sweeney, Kane         | Sr | Morehead St.      | 251 | 0.183 | 0.163 | 1.593
- Beaty, Matt           | Sr | Belmont           | 240 | 0.113 | 0.058 | 1.593
- Park, Jensen          | Sr | Northern Colo.    | 168 | 0.060 | 0.089 | 1.582
- George, Zach          | Sr | Arkansas St.      | 231 | 0.165 | 0.108 | 1.574
- Martin, Kyle          | Sr | South Carolina    | 226 | 0.159 | 0.111 | 1.562
- Sanger, Brendon       | Jr | Fla. Atlantic     | 232 | 0.190 | 0.091 | 1.561
- Dini, Nick            | Sr | Wagner            | 194 | 0.134 | 0.036 | 1.558
- Rivera, Nick          | Jr | FGCU              | 215 | 0.158 | 0.126 | 1.557
- Korenblatt, Justin    | Sr | La Salle          | 173 | 0.150 | 0.145 | 1.557
- Nowlin, Kyle          | Jr | Eastern Ky.       | 207 | 0.150 | 0.208 | 1.553
- DeJong, Paul          | Jr | Illinois St.      | 221 | 0.122 | 0.190 | 1.552
- Falcone, Joey         | Sr | Columbia          | 187 | 0.107 | 0.203 | 1.551
- Wright, Aaron         | Sr | UNC Greensboro    | 195 | 0.138 | 0.241 | 1.549
- Dacey, Matt           | Jr | Richmond          | 204 | 0.162 | 0.206 | 1.543
- Fullerton, Tyler      | Jr | Belmont           | 219 | 0.100 | 0.119 | 1.542
- Alas, TJ              | Jr | Eastern Ky.       | 164 | 0.091 | 0.183 | 1.539
- York, Trey            | Jr | East Tenn. St.    | 222 | 0.104 | 0.176 | 1.539
- Lynch, Nick           | Sr | UC Davis          | 217 | 0.097 | 0.097 | 1.533
- Kerian, David         | Sr | Illinois          | 198 | 0.141 | 0.116 | 1.529
- Thompson, David       | Jr | Miami (FL)        | 233 | 0.146 | 0.099 | 1.527
- Lowe, Brandon         | So | Maryland          | 248 | 0.133 | 0.093 | 1.520
- Garza, Robert         | Sr | Texas Southern    | 163 | 0.117 | 0.147 | 1.519
- Turbin, Drew          | Sr | Dallas Baptist    | 204 | 0.147 | 0.181 | 1.519
- Ghelfi, Mitch         | Jr | Milwaukee         | 170 | 0.135 | 0.118 | 1.516
- Trosclair, Stefan     | Jr | La.-Lafayette     | 195 | 0.108 | 0.154 | 1.514
- Panas, Connor         | Sr | Canisius          | 236 | 0.119 | 0.140 | 1.513
- Howell, Ryan          | Jr | Nevada            | 244 | 0.139 | 0.193 | 1.510
- Marshall, Patrick     | Sr | Radford           | 208 | 0.168 | 0.173 | 1.509
- Kingery, Scott        | Jr | Arizona           | 221 | 0.041 | 0.059 | 1.507
- Gruber, Cole          | Jr | Omaha             | 186 | 0.167 | 0.156 | 1.505
- Stewart, Christin     | Jr | Tennessee         | 198 | 0.121 | 0.172 | 1.501
- Swilling, Hunter      | So | Samford           | 234 | 0.107 | 0.188 | 1.497
- Howell, Caleb         | Sr | Eastern Ill.      | 196 | 0.133 | 0.071 | 1.496
- Nau, Mitchell         | Sr | Texas A&M         | 221 | 0.127 | 0.122 | 1.487
- Tubbs, Tucker         | Sr | Memphis           | 217 | 0.111 | 0.101 | 1.486
- Brooks, Trenton       | So | Nevada            | 230 | 0.161 | 0.096 | 1.486
- Collins, Zack         | So | Miami (FL)        | 232 | 0.177 | 0.190 | 1.484
- Friend, Jordan        | Sr | Alabama A&M       | 178 | 0.129 | 0.202 | 1.484
- Pacchioli, Justin     | Sr | Lehigh            | 211 | 0.152 | 0.104 | 1.483
- Godinez, Chris        | Jr | Bradley           | 167 | 0.210 | 0.132 | 1.483
- Petrongolo, Paschal   | Jr | Jacksonville St.  | 229 | 0.144 | 0.245 | 1.476
- Plaisted, James       | Sr | Wofford           | 231 | 0.156 | 0.212 | 1.474
- Swanson, Dansby       | Jr | Vanderbilt        | 233 | 0.146 | 0.155 | 1.474
- Greager, Bryce        | Jr | Nevada            | 201 | 0.129 | 0.199 | 1.473
- Daniels, David        | Sr | Davidson          | 203 | 0.138 | 0.163 | 1.473
- Miller, Anderson      | Jr | Western Ky.       | 213 | 0.183 | 0.188 | 1.473
- Laurino, Steve        | Sr | Marist            | 188 | 0.112 | 0.149 | 1.472
- Dailey, Charles       | Sr | Delaware St.      | 177 | 0.102 | 0.186 | 1.472
- Rios, Edwin           | Jr | FIU               | 224 | 0.143 | 0.156 | 1.471
- Thomas, Jake          | Sr | Binghamton        | 166 | 0.151 | 0.127 | 1.470
- Garzillo, Mike        | Jr | Lehigh            | 203 | 0.079 | 0.163 | 1.470
- Edens, Austin         | Fr | Samford           | 206 | 0.112 | 0.189 | 1.469
- Egli, Nick            | So | Belmont           | 182 | 0.148 | 0.214 | 1.467
- Dalbec, Bobby         | So | Arizona           | 220 | 0.127 | 0.232 | 1.465
- Pierson, Michael      | Sr | Appalachian St.   | 233 | 0.176 | 0.116 | 1.465
- Newell, Nick          | Sr | Morehead St.      | 232 | 0.060 | 0.082 | 1.465
- Collins, Nicholas     | Jr | Georgetown        | 210 | 0.095 | 0.086 | 1.463
- Bader, Harrison       | Jr | Florida           | 213 | 0.131 | 0.164 | 1.461
- Rinn, Robby           | Jr | Bryant            | 187 | 0.096 | 0.075 | 1.461
- Gonzalez, Chris       | So | Delaware St.      | 169 | 0.130 | 0.154 | 1.460
- Trent, Sean           | Jr | Navy              | 230 | 0.065 | 0.117 | 1.460
- Iriart, Chris         | Jr | Houston           | 226 | 0.093 | 0.243 | 1.460
- White, Mikey          | Jr | Alabama           | 230 | 0.104 | 0.174 | 1.457
- Bryant, Hunter        | Sr | UNC Asheville     | 226 | 0.124 | 0.204 | 1.454
- Rea, Wes              | Sr | Mississippi St.   | 192 | 0.208 | 0.156 | 1.454
- Hendrix, Jeff         | Jr | Oregon St.        | 215 | 0.153 | 0.144 | 1.453
- Shelby, Javon         | So | Kentucky          | 224 | 0.156 | 0.205 | 1.452
- Iskenderian, George   | Jr | Miami (FL)        | 230 | 0.139 | 0.143 | 1.452
- Fuhrman, Michael      | Jr | Niagara           | 172 | 0.145 | 0.134 | 1.451
- Krill, Ryan           | Sr | Michigan St.      | 209 | 0.115 | 0.120 | 1.450
- Peavey, Scotty        | Sr | Alcorn            | 212 | 0.061 | 0.146 | 1.449
- Miller, Lee           | Jr | Davidson          | 197 | 0.107 | 0.183 | 1.449
- Voss, Cory            | Fr | New Mexico        | 192 | 0.125 | 0.208 | 1.448
- Robinson, Dillon      | Sr | BYU               | 199 | 0.126 | 0.191 | 1.448
- Mele, Louis           | So | NYIT              | 152 | 0.039 | 0.138 | 1.448
- Kozuch, Matthew       | So | Fordham           | 196 | 0.184 | 0.194 | 1.447
- Ogren, Joe            | Jr | Bucknell          | 202 | 0.134 | 0.124 | 1.446
- Hallum, Cole          | Jr | Campbell          | 167 | 0.090 | 0.186 | 1.445
- Bingel, Brandon       | So | Bryant            | 165 | 0.103 | 0.152 | 1.445
- Biocic, PJ            | Sr | Alabama St.       | 217 | 0.143 | 0.074 | 1.445
- Olmedo-Barrera, David | Jr | Cal St. Fullerton | 176 | 0.119 | 0.227 | 1.444
- Copeland, Garrett     | So | Austin Peay       | 231 | 0.143 | 0.139 | 1.444
+        name         | cl |       team        | pa  | bb_p  | so_p  | wops  
+---------------------+----+-------------------+-----+-------+-------+-------
+ Kaczmarski, Kevin   | Sr | Evansville        | 219 | 0.128 | 0.105 | 1.832
+ Benintendi, Andrew  | So | Arkansas          | 247 | 0.162 | 0.117 | 1.722
+ Dewees, Donnie      | Jr | North Florida     | 283 | 0.106 | 0.057 | 1.715
+ Craig, Will         | So | Wake Forest       | 236 | 0.174 | 0.102 | 1.694
+ Gray, Logan         | So | Austin Peay       | 180 | 0.133 | 0.244 | 1.674
+ Byler, Austin       | Sr | Nevada            | 272 | 0.199 | 0.210 | 1.666
+ George, Zach        | Sr | Arkansas St.      | 271 | 0.192 | 0.103 | 1.658
+ Ferguson, Drew      | Sr | Belmont           | 278 | 0.112 | 0.086 | 1.657
+ Happ, Ian           | Jr | Cincinnati        | 249 | 0.197 | 0.197 | 1.656
+ Gould, Charley      | Jr | William & Mary    | 199 | 0.121 | 0.141 | 1.652
+ Robinson, Chris     | Sr | Morehead St.      | 274 | 0.102 | 0.113 | 1.632
+ Beaty, Matt         | Sr | Belmont           | 277 | 0.116 | 0.061 | 1.606
+ Dini, Nick          | Sr | Wagner            | 215 | 0.140 | 0.033 | 1.603
+ Trosclair, Stefan   | Jr | La.-Lafayette     | 240 | 0.096 | 0.146 | 1.600
+ Stewart, DJ         | Jr | Florida St.       | 270 | 0.244 | 0.156 | 1.597
+ Boehm, Jeff         | Sr | Ill.-Chicago      | 240 | 0.150 | 0.154 | 1.593
+ Sweeney, Kane       | Sr | Morehead St.      | 287 | 0.181 | 0.160 | 1.587
+ Panas, Connor       | Sr | Canisius          | 287 | 0.108 | 0.129 | 1.585
+ Rodriguez, Melvin   | Sr | Jackson St.       | 253 | 0.119 | 0.055 | 1.583
+ Thompson, David     | Jr | Miami (FL)        | 269 | 0.152 | 0.089 | 1.577
+ Landon, Logan       | Sr | Tex.-Pan American | 226 | 0.133 | 0.133 | 1.575
+ Nowlin, Kyle        | Jr | Eastern Ky.       | 222 | 0.153 | 0.212 | 1.566
+ Koenig, Sam         | Sr | Milwaukee         | 271 | 0.137 | 0.185 | 1.565
+ Sanger, Brendon     | Jr | Fla. Atlantic     | 273 | 0.187 | 0.103 | 1.565
+ Rivera, Cesar       | Sr | Alabama St.       | 240 | 0.121 | 0.133 | 1.560
+ Park, Jensen        | Sr | Northern Colo.    | 189 | 0.058 | 0.090 | 1.560
+ Korenblatt, Justin  | Sr | La Salle          | 173 | 0.150 | 0.145 | 1.557
+ Bauml, Cole         | Sr | Northern Ky.      | 191 | 0.115 | 0.147 | 1.553
+ Kerian, David       | Sr | Illinois          | 227 | 0.137 | 0.110 | 1.548
+ Lewis, Kyle         | So | Mercer            | 240 | 0.075 | 0.163 | 1.547
+ Edens, Austin       | Fr | Samford           | 247 | 0.121 | 0.178 | 1.546
+ Martin, Kyle        | Sr | South Carolina    | 247 | 0.158 | 0.109 | 1.545
+ Alas, TJ            | Jr | Eastern Ky.       | 179 | 0.095 | 0.201 | 1.540
+ Collins, Zack       | So | Miami (FL)        | 266 | 0.184 | 0.203 | 1.535
+ Falcone, Joey       | Sr | Columbia          | 195 | 0.113 | 0.200 | 1.534
+ Swanson, Dansby     | Jr | Vanderbilt        | 278 | 0.137 | 0.147 | 1.530
+ Rivera, Nick        | Jr | FGCU              | 245 | 0.163 | 0.139 | 1.524
+ Marshall, Patrick   | Sr | Radford           | 240 | 0.167 | 0.175 | 1.524
+ Godinez, Chris      | Jr | Bradley           | 196 | 0.224 | 0.128 | 1.522
+ Stewart, Christin   | Jr | Tennessee         | 220 | 0.127 | 0.173 | 1.519
+ Fullerton, Tyler    | Jr | Belmont           | 251 | 0.100 | 0.112 | 1.515
+ Garzillo, Mike      | Jr | Lehigh            | 226 | 0.080 | 0.177 | 1.513
+ Ferguson, Collin    | Sr | St. Mary's (CA)   | 258 | 0.167 | 0.182 | 1.503
+ Turbin, Drew        | Sr | Dallas Baptist    | 247 | 0.154 | 0.178 | 1.501
+ Dacey, Matt         | Jr | Richmond          | 237 | 0.148 | 0.207 | 1.500
+ Wright, Aaron       | Sr | UNC Greensboro    | 212 | 0.132 | 0.245 | 1.498
+ Howell, Caleb       | Sr | Eastern Ill.      | 215 | 0.126 | 0.070 | 1.497
+ Krill, Ryan         | Sr | Michigan St.      | 240 | 0.113 | 0.125 | 1.493
+ Taylor, Demetre     | Jr | Eastern Ill.      | 180 | 0.067 | 0.133 | 1.492
+ Bozarth, Michael    | Jr | Saint Louis       | 175 | 0.091 | 0.114 | 1.492
+ Morman, Michael     | Sr | Richmond          | 249 | 0.064 | 0.141 | 1.491
+ Olenski, Greg       | Sr | Delaware          | 150 | 0.073 | 0.213 | 1.486
+ York, Trey          | Jr | East Tenn. St.    | 243 | 0.103 | 0.181 | 1.485
+ Howell, Ryan        | Jr | Nevada            | 263 | 0.137 | 0.194 | 1.484
+ Brooks, Trenton     | So | Nevada            | 249 | 0.157 | 0.100 | 1.483
+ Thomas, Jake        | Sr | Binghamton        | 178 | 0.163 | 0.124 | 1.477
+ Ravert, Joey        | Jr | La Salle          | 152 | 0.079 | 0.237 | 1.476
+ Gruber, Cole        | Jr | Omaha             | 211 | 0.152 | 0.156 | 1.476
+ Friend, Jordan      | Sr | Alabama A&M       | 182 | 0.126 | 0.198 | 1.473
+ Pierson, Michael    | Sr | Appalachian St.   | 237 | 0.173 | 0.118 | 1.472
+ Rawe, Brandon       | Sr | Morehead St.      | 293 | 0.109 | 0.140 | 1.470
+ Greager, Bryce      | Jr | Nevada            | 220 | 0.132 | 0.209 | 1.470
+ Clement, Kyle       | Sr | La.-Lafayette     | 180 | 0.067 | 0.117 | 1.469
+ Tinkham, Ryan       | Jr | Wichita St.       | 256 | 0.125 | 0.164 | 1.468
+ Mack, Quinnton      | Sr | New Mexico St.    | 207 | 0.145 | 0.145 | 1.467
+ Rios, Edwin         | Jr | FIU               | 255 | 0.153 | 0.145 | 1.464
+ Lynch, Nick         | Sr | UC Davis          | 246 | 0.085 | 0.114 | 1.462
+ Cooper, Ryan        | Sr | Elon              | 233 | 0.112 | 0.112 | 1.462
+ Jones, Cody         | Sr | TCU               | 245 | 0.139 | 0.122 | 1.459
+ DeJong, Paul        | Jr | Illinois St.      | 245 | 0.114 | 0.204 | 1.459
+ Petrongolo, Paschal | Jr | Jacksonville St.  | 260 | 0.131 | 0.235 | 1.458
+ Robinson, Dillon    | Sr | BYU               | 234 | 0.124 | 0.192 | 1.456
+ Gonzalez, Chris     | So | Delaware St.      | 187 | 0.123 | 0.150 | 1.455
+ Garza, Robert       | Sr | Texas Southern    | 188 | 0.117 | 0.133 | 1.454
+ Gunsolus, Mitchell  | Sr | Gonzaga           | 244 | 0.135 | 0.131 | 1.454
+ Swilling, Hunter    | So | Samford           | 276 | 0.101 | 0.214 | 1.452
+ Hallum, Cole        | Jr | Campbell          | 192 | 0.083 | 0.167 | 1.451
+ Daniels, David      | Sr | Davidson          | 235 | 0.128 | 0.174 | 1.449
+ Mele, Louis         | So | NYIT              | 152 | 0.039 | 0.138 | 1.448
+ Lowe, Brandon       | So | Maryland          | 280 | 0.125 | 0.100 | 1.448
+ Tobias, Josh        | Sr | Florida           | 219 | 0.082 | 0.128 | 1.447
+ Detmer, Tyler       | Sr | Ill.-Chicago      | 246 | 0.093 | 0.138 | 1.447
+ Ogren, Joe          | Jr | Bucknell          | 202 | 0.134 | 0.124 | 1.446
+ Laurino, Steve      | Sr | Marist            | 215 | 0.107 | 0.149 | 1.445
+ Copeland, Garrett   | So | Austin Peay       | 240 | 0.150 | 0.133 | 1.444
+ Fuhrman, Michael    | Jr | Niagara           | 187 | 0.144 | 0.144 | 1.442
+ Ghelfi, Mitch       | Jr | Milwaukee         | 215 | 0.126 | 0.144 | 1.440
+ Hendrix, Jeff       | Jr | Oregon St.        | 253 | 0.142 | 0.146 | 1.439
+ Zoellner, Jack      | So | New Mexico        | 207 | 0.140 | 0.198 | 1.439
+ Biocic, PJ          | Sr | Alabama St.       | 228 | 0.140 | 0.079 | 1.437
+ Sequeira, Anthony   | Sr | Oral Roberts      | 247 | 0.117 | 0.206 | 1.433
+ Nunez, Julio        | Sr | Alabama A&M       | 238 | 0.113 | 0.202 | 1.433
+ Shaw, Chris         | Jr | Boston College    | 167 | 0.120 | 0.156 | 1.433
+ Iskenderian, George | Jr | Miami (FL)        | 260 | 0.131 | 0.142 | 1.431
+ Pacchioli, Justin   | Sr | Lehigh            | 231 | 0.156 | 0.104 | 1.431
+ Kaiser, Greg        | Jr | IPFW              | 206 | 0.029 | 0.180 | 1.431
+ Nau, Mitchell       | Sr | Texas A&M         | 241 | 0.116 | 0.129 | 1.430
+ Hill, Logan         | Jr | Troy              | 239 | 0.100 | 0.121 | 1.429
+ Follis, Tyler       | Sr | North Dakota      | 210 | 0.086 | 0.143 | 1.429
+ Miller, Lee         | Jr | Davidson          | 226 | 0.102 | 0.181 | 1.429
 (100 rows)
 
 COPY 100
