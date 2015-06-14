@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 require "hpricot"
-require "rest-open-uri"
+#require "rest-open-uri"
 require "csv"
 
 user_agent = "Mozilla/5.0"
