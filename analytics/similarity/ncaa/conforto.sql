@@ -6,7 +6,7 @@ year,
 comp_name,
 comp_year,
 rank,
-d
+d::numeric(4,2)
 from
 ncaa._weighted_hitter_similarity
 where name like '%Conforto%'
