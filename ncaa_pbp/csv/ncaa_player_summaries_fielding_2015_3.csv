@@ -2275,14 +2275,13 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2015	12080	3	177	DePauw	14	1327413	Meixner, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327413	Sr	OF	36	31	36	45	5	3	0.943	 	 	 	 	 	 
 2015	12080	3	177	DePauw	4	1448909	Italiano, Lucas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1448909	Jr	C	36	36	36	44	3	2	0.959	 	 	 	 	1	 
 2015	12080	3	177	DePauw	30	1665539	Hammel, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665539	So	INF	36	30	36	21	27	4	0.923	 	 	9	1	5	 
+2015	12080	3	177	DePauw	26	1447569	Einertson, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1447569	Jr	INF	35	34	35	280	19	2	0.993	 	 	 	 	18	 
 2015	12080	3	177	DePauw	11	1327412	Allee, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327412	Sr	C	33	27	33	150	23	2	0.989	 	3	41	6	1	 
 2015	12080	3	177	DePauw	2	1539111	Pittard, Reid	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539111	So	C	33	23	33	42	67	9	0.924	 	 	 	 	10	 
-2015	12080	3	177	DePauw	26	1665529	Einertson, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665529	Fr	OF	28	20	28	167	8	 	1.000	 	 	 	 	9	 
 2015	12080	3	177	DePauw	21	1539105	Stewart, Tate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539105	So	INF	27	24	27	23	55	8	0.907	 	 	 	 	3	 
 2015	12080	3	177	DePauw	20	1539107	Thompson, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539107	So	OF	25	19	25	21	4	2	0.926	 	 	 	 	 	 
 2015	12080	3	177	DePauw	5	1539112	Hurston, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539112	So	OF	23	6	23	69	1	1	0.986	 	 	 	 	4	 
 2015	12080	3	177	DePauw	22	1539106	Horvath, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539106	So	P	20	1	20	 	4	1	0.800	 	 	5	1	 	 
-2015	12080	3	177	DePauw	26	1447569	Einertson, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1447569	Jr	INF	19	18	19	121	11	2	0.985	 	 	 	 	9	 
 2015	12080	3	177	DePauw	13	1327414	Dorsett, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327414	Sr	C	18	12	18	63	6	2	0.972	 	2	11	2	 	 
 2015	12080	3	177	DePauw	37	1665544	Gbur, Johnny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665544	Fr	INF	17	12	17	18	31	12	0.803	 	 	 	 	8	 
 2015	12080	3	177	DePauw	9	1665527	Okazaki, Rick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665527	So	C	16	4	16	22	6	4	0.875	 	1	5	1	 	 
@@ -2290,9 +2289,10 @@ year	year_id	division_id	team_id	team_name	jersey_number	player_id	player_name	p
 2015	12080	3	177	DePauw	18	1539103	Quinn, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539103	So	P	15	5	15	1	7	2	0.800	 	 	7	 	 	 
 2015	12080	3	177	DePauw	7	1327434	McCreary, Nicholas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327434	Sr	P	14	0	14	 	3	1	0.750	 	 	1	1	 	 
 2015	12080	3	177	DePauw	38	1327433	Steele, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327433	Sr	P	13	0	13	1	2	1	0.750	 	 	3	 	 	 
+2015	12080	3	177	DePauw	15	1665529	Einertson, Collin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665529	Fr	OF	12	4	12	8	 	 	1.000	 	 	 	 	 	 
 2015	12080	3	177	DePauw	19	1665531	Holt, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665531	Fr	P	11	1	11	 	3	 	1.000	 	 	7	 	 	 
-2015	12080	3	177	DePauw	33	1327430	Peck, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327430	Sr	P	10	9	10	5	16	 	1.000	 	 	8	6	 	 
 2015	12080	3	177	DePauw	32	1448298	Spector, Wyatt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1448298	Jr	P	10	9	10	2	21	1	0.958	 	 	6	4	1	 
+2015	12080	3	177	DePauw	33	1327430	Peck, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1327430	Sr	P	10	9	10	5	16	 	1.000	 	 	8	6	 	 
 2015	12080	3	177	DePauw	35	1665542	Comer, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665542	Fr	INF	9	0	9	 	4	 	1.000	 	 	3	 	 	 
 2015	12080	3	177	DePauw	40	1665546	Raupach, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1665546	Fr	OF	9	0	9	 	 	 	""	 	 	 	 	 	 
 2015	12080	3	177	DePauw	8	1539109	Cohen, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12080&stats_player_seq=1539109	So	OF	8	2	8	2	 	 	1.000	 	 	 	 	 	 
