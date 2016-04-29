@@ -20,8 +20,8 @@ base_batting_url = "http://www.baseball-reference.com/leagues/MLB"
 
 table_xpath = '//table[@class="sortable  stats_table" and not(@data-freeze)]/tbody/tr'
 
-first_year = 2015
-last_year = 2015
+first_year = ARGV[0]
+last_year = ARGV[1]
 
 reports.each do |report|
 

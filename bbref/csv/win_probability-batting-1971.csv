@@ -1,0 +1,901 @@
+1971	1	Hank Aaron	http://www.baseball-reference.com/players/a/aaronha01.shtml	aaronha01	37	573	ATL	62.5	6.4	570	7.0	16.3	-9.3	1.11	6.4	-0.1	64.8	6.4	0.95	68.7	3.97	7
+1971	2	Tommie Aaron	http://www.baseball-reference.com/players/a/aaronto01.shtml	aaronto01	31	56	ATL	-3.8	-0.4	56	-0.7	0.4	-1.1	.93	-0.5	-0.2	-4.3	-0.4	0.94	-5.3	1.76	6
+1971	3	Ted Abernathy	http://www.baseball-reference.com/players/a/abernte02.shtml	abernte02	38	14	KCR	-2.7	-0.3	14	-0.1	0.1	-0.1	.40	-0.3	0.1	-2.8	-0.3	0.94	-2.9		0
+1971	4	Ed Acosta#	http://www.baseball-reference.com/players/a/acosted01.shtml	acosted01	27	17	SDP	-4.4	-0.5	17	-0.4	0.0	-0.4	.91	-0.4	-0.0	-5.7	-0.6	1.19	-4.5		0
+1971	5	Tommie Agee	http://www.baseball-reference.com/players/a/ageeto01.shtml	ageeto01	28	482	NYM	15.1	1.6	525	0.8	10.0	-9.1	1.10	1.7	-0.9	13.8	1.5	0.98	16.6	3.50	6
+1971	6	Jack Aker	http://www.baseball-reference.com/players/a/akerja01.shtml	akerja01	30	6	NYY	-0.8	-0.1	6	-0.0	0.0	-0.0	.85	-0.1	0.0	-1.0	-0.1	1.02	-1.1		0
+1971	7	Doyle Alexander	http://www.baseball-reference.com/players/a/alexado01.shtml	alexado01	20	37	LAD	-0.8	-0.1	37	-0.1	0.4	-0.5	.81	-0.2	0.0	-2.4	-0.3	1.10	-1.4		0
+1971	8	Bernie Allen*	http://www.baseball-reference.com/players/a/allenbe01.shtml	allenbe01	32	262	WSA	5.7	0.6	268	1.0	5.1	-4.2	1.04	0.6	0.3	7.0	0.8	0.95	7.4	1.78	32
+1971	9	Dick Allen	http://www.baseball-reference.com/players/a/allendi01.shtml	allendi01	29	649	LAD	40.6	4.2	667	3.7	14.1	-10.4	1.03	4.3	-0.8	35.4	3.8	1.00	44.4	1.98	3
+1971	10	Lloyd Allen	http://www.baseball-reference.com/players/a/allenll01.shtml	allenll01	21	17	CAL	0.3	0.0	17	-0.1	0.2	-0.3	1.00	-0.0	-0.0	-0.9	-0.1	0.81	-0.5		0
+1971	11	Gene Alley	http://www.baseball-reference.com/players/a/alleyge01.shtml	alleyge01	30	389	PIT	-10.7	-1.1	403	-0.6	5.7	-6.3	.96	-0.5	-0.1	-9.4	-1.0	0.97	-4.4	1.75	4
+1971	12	Sandy Alomar#	http://www.baseball-reference.com/players/a/alomasa01.shtml	alomasa01	27	739	CAL	-15.9	-1.7	798	1.3	13.5	-12.2	1.03	-0.5	1.8	6.6	0.7	0.92	-3.0		0
+1971	13	Felipe Alou	http://www.baseball-reference.com/players/a/aloufe01.shtml	aloufe01	36	510	TOT	8.5	0.9	529	0.7	10.4	-9.7	1.12	1.1	-0.5	10.1	1.1	1.01	10.9	1.88	19
+1971	14	Felipe Alou	http://www.baseball-reference.com/players/a/aloufe01.shtml	aloufe01	36	9	OAK	-0.2	-0.0	10	-0.2	0.1	-0.3	1.35	-0.1	-0.0	-0.1	-0.0	1.00	-0.2		0
+1971	15	Felipe Alou	http://www.baseball-reference.com/players/a/aloufe01.shtml	aloufe01	36	501	NYY	8.7	0.9	519	0.9	10.3	-9.4	1.12	1.1	-0.4	10.2	1.1	1.01	11.2	1.88	19
+1971	16	Jesus Alou	http://www.baseball-reference.com/players/a/alouje01.shtml	alouje01	29	455	HOU	-6.3	-0.7	445	-1.0	7.5	-8.5	1.08	-0.8	-0.2	-0.1	-0.0	0.93	-6.4	1.87	17
+1971	17	Matty Alou*	http://www.baseball-reference.com/players/a/alouma01.shtml	alouma01	32	660	STL	10.4	1.1	701	3.1	13.6	-10.5	1.04	1.3	1.7	26.2	2.7	0.99	18.7	3.00	7
+1971	18	Luis Alvarado	http://www.baseball-reference.com/players/a/alvarlu01.shtml	alvarlu01	22	278	CHW	-19.4	-2.1	284	-1.9	3.0	-4.9	.95	-1.7	-0.3	-16.4	-1.7	0.93	-18.6	1.39	9
+1971	19	Brant Alyea	http://www.baseball-reference.com/players/a/alyeabr01.shtml	alyeabr01	30	188	MIN	-10.2	-1.1	190	-1.6	2.4	-4.0	1.21	-1.1	-0.2	-11.9	-1.2	1.02	-10.6	1.87	25
+1971	20	Dwain Anderson	http://www.baseball-reference.com/players/a/anderdw01.shtml	anderdw01	23	43	OAK	0.9	0.1	44	0.1	0.9	-0.8	1.16	-0.0	0.1	1.3	0.1	0.89	0.4	0.75	1
+1971	21	Mike Anderson	http://www.baseball-reference.com/players/a/andermi01.shtml	andermi01	20	103	PHI	1.3	0.1	103	-0.4	1.6	-2.0	1.16	-0.0	-0.4	-0.9	-0.1	1.00	-0.4		0
+1971	22	Mike Andrews	http://www.baseball-reference.com/players/a/andremi01.shtml	andremi01	27	408	CHW	19.4	2.0	423	1.9	8.4	-6.5	1.03	2.5	-0.6	21.6	2.2	0.97	26.0	2.21	12
+1971	23	Luis Aparicio	http://www.baseball-reference.com/players/a/aparilu01.shtml	aparilu01	37	541	BOS	-25.8	-2.8	557	-0.8	9.2	-9.9	1.05	-2.0	1.3	-9.3	-0.9	0.92	-18.8	1.48	2
+1971	24	Steve Arlin	http://www.baseball-reference.com/players/a/arlinst01.shtml	arlinst01	25	83	SDP	-10.4	-1.1	82	-1.2	0.5	-1.7	.92	-1.0	-0.3	-12.3	-1.4	1.03	-10.1		0
+1971	25	Chris Arnold	http://www.baseball-reference.com/players/a/arnolch01.shtml	arnolch01	23	14	SFG	0.0	0.0	14	0.1	0.4	-0.3	1.22	0.2	-0.1	0.4	0.0	1.02	1.6	1.28	3
+1971	26	Rudy Arroyo*	http://www.baseball-reference.com/players/a/arroyru01.shtml	arroyru01	21	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.06	-0.0	-0.0	-0.1	-0.0	0.38	-0.2		0
+1971	27	Bob Aspromonte	http://www.baseball-reference.com/players/a/asprobo01.shtml	asprobo01	33	377	NYM	-14.7	-1.6	383	-1.8	5.5	-7.4	1.06	-1.6	-0.1	-14.8	-1.6	0.96	-14.4	1.99	7
+1971	28	Rick Auerbach	http://www.baseball-reference.com/players/a/auerbri01.shtml	auerbri01	21	263	MIL	-14.6	-1.6	274	-0.9	3.5	-4.4	1.00	-1.2	0.3	-10.0	-1.1	0.93	-12.2		0
+1971	29	Rick Austin	http://www.baseball-reference.com/players/a/austiri01.shtml	austiri01	24	1	CLE	-0.3	-0.0	1	-0.0	0.0	-0.0	.33	-0.0	0.0	-0.2	-0.0	0.60	-0.3		0
+1971	30	Stan Bahnsen	http://www.baseball-reference.com/players/b/bahnsst01.shtml	bahnsst01	26	88	NYY	-9.8	-1.1	90	-0.7	0.7	-1.5	.87	-0.9	0.1	-7.4	-0.8	0.92	-9.5		0
+1971	31	Bob Bailey	http://www.baseball-reference.com/players/b/bailebo01.shtml	bailebo01	28	654	MON	12.6	1.3	677	1.3	12.8	-11.4	1.10	1.4	-0.2	14.2	1.5	1.01	15.8	0.63	0
+1971	32	Dusty Baker	http://www.baseball-reference.com/players/b/bakerdu01.shtml	bakerdu01	22	64	ATL	-5.4	-0.6	65	-0.3	0.8	-1.1	.99	-0.5	0.2	-3.9	-0.4	0.88	-4.8	1.51	13
+1971	33	Frank Baker*	http://www.baseball-reference.com/players/b/bakerfr02.shtml	bakerfr02	27	196	CLE	-11.4	-1.2	201	-0.2	3.6	-3.7	1.10	-1.0	0.9	-2.0	-0.2	1.04	-9.1	1.68	23
+1971	34	Frank Baker*	http://www.baseball-reference.com/players/b/bakerfr03.shtml	bakerfr03	24	98	NYY	-6.1	-0.6	101	-0.6	0.8	-1.4	.80	-0.6	-0.2	-5.1	-0.6	0.86	-4.9	2.21	1
+1971	35	Mark Ballinger	http://www.baseball-reference.com/players/b/ballima01.shtml	ballima01	22	5	CLE	-0.6	-0.1	5	-0.1	0.0	-0.1	.47	-0.1	-0.1	-0.6	-0.1	0.66	-0.7		0
+1971	36	Sal Bando	http://www.baseball-reference.com/players/b/bandosa01.shtml	bandosa01	27	643	OAK	28.9	3.0	662	2.8	13.6	-10.8	1.04	3.3	-0.5	29.6	3.1	1.01	39.5		0
+1971	37	Ernie Banks	http://www.baseball-reference.com/players/b/bankser01.shtml	bankser01	40	92	CHC	-5.8	-0.6	92	-0.9	0.9	-1.8	.95	-0.5	-0.4	-6.7	-0.7	0.94	-4.8	1.32	18
+1971	38	Steve Barber	http://www.baseball-reference.com/players/b/barbest02.shtml	barbest02	23	5	MIN	-1.3	-0.1	5	-0.1	0.0	-0.1	.82	-0.1	0.0	-1.5	-0.2	1.11	-1.3		0
+1971	39	Steve Barber*	http://www.baseball-reference.com/players/b/barbest01.shtml	barbest01	33	14	ATL	-1.7	-0.2	14	-0.1	0.0	-0.2	.47	-0.2	-0.1	-1.4	-0.1	0.78	-1.8		0
+1971	40	Jim Barr	http://www.baseball-reference.com/players/b/barrji01.shtml	barrji01	23	5	SFG	-1.0	-0.1	5	-0.1	0.0	-0.1	.65	-0.1	0.0	-0.9	-0.1	0.73	-1.2		0
+1971	41	Bob Barton	http://www.baseball-reference.com/players/b/bartobo01.shtml	bartobo01	29	413	SDP	-2.4	-0.3	406	-0.8	6.5	-7.3	1.04	-1.1	0.4	-11.8	-1.3	0.93	-10.6	4.29	3
+1971	42	John Bateman	http://www.baseball-reference.com/players/b/batemjo01.shtml	batemjo01	30	526	MON	-16.9	-1.8	525	-2.5	7.8	-10.3	1.03	-1.4	-1.0	-21.6	-2.3	1.02	-16.8	1.36	4
+1971	43	Don Baylor	http://www.baseball-reference.com/players/b/baylodo01.shtml	baylodo01	22	5	BAL	0.5	0.0	5	0.1	0.1	-0.0	.76	0.0	0.1	0.9	0.1	1.16	0.3		0
+1971	44	Jim Beauchamp	http://www.baseball-reference.com/players/b/beaucji01.shtml	beaucji01	31	175	STL	-5.7	-0.6	182	0.7	4.1	-3.4	1.17	0.0	0.6	-3.1	-0.3	1.00	-0.8	1.43	32
+1971	45	Glenn Beckert	http://www.baseball-reference.com/players/b/beckegl01.shtml	beckegl01	30	570	CHC	5.2	0.5	585	0.1	9.3	-9.2	.97	0.9	-0.8	8.5	0.8	0.93	9.3	1.37	2
+1971	46	Mark Belanger	http://www.baseball-reference.com/players/b/belanma01.shtml	belanma01	27	590	BAL	1.9	0.2	612	-1.0	8.1	-9.2	.93	0.0	-1.1	5.1	0.5	0.97	0.8	2.42	1
+1971	47	Jerry Bell#	http://www.baseball-reference.com/players/b/bellje01.shtml	bellje01	23	1	MIL	0.0	0.0	1	-0.0	0.0	-0.0	.39	-0.0	-0.0	-0.1	-0.0	0.37	-0.2		0
+1971	48	Johnny Bench	http://www.baseball-reference.com/players/b/benchjo01.shtml	benchjo01	23	613	CIN	3.1	0.3	615	-0.2	11.3	-11.4	1.03	0.8	-1.0	-4.5	-0.5	0.95	11.7	3.26	2
+1971	49	Juan Beniquez	http://www.baseball-reference.com/players/b/beniqju01.shtml	beniqju01	21	63	BOS	-1.3	-0.1	67	-0.7	0.7	-1.3	1.03	-0.1	-0.6	-3.0	-0.3	1.00	-1.1		0
+1971	50	Ken Berry	http://www.baseball-reference.com/players/b/berryke01.shtml	berryke01	30	325	CAL	-11.1	-1.2	333	-2.0	4.9	-6.9	1.12	-1.1	-0.7	-15.6	-1.7	0.96	-11.6	2.29	10
+1971	51	Kurt Bevacqua	http://www.baseball-reference.com/players/b/bevacku01.shtml	bevacku01	24	145	CLE	-11.2	-1.2	147	-1.2	1.5	-2.8	1.01	-1.3	0.1	-10.3	-1.1	0.91	-10.2	1.30	15
+1971	52	Larry Biittner*	http://www.baseball-reference.com/players/b/biittla01.shtml	biittla01	25	189	WSA	-3.7	-0.4	191	0.2	3.7	-3.5	1.04	-0.2	0.4	-2.2	-0.2	0.95	-3.3	0.83	19
+1971	53	Jack Billingham	http://www.baseball-reference.com/players/b/billija01.shtml	billija01	28	81	HOU	-12.1	-1.3	76	-1.3	0.4	-1.7	1.03	-1.2	-0.0	-13.0	-1.4	1.02	-13.2		0
+1971	54	Dick Billings	http://www.baseball-reference.com/players/b/billidi01.shtml	billidi01	28	380	WSA	-6.6	-0.7	395	0.0	7.7	-7.7	1.11	-0.4	0.4	0.8	0.1	1.03	-3.8	1.77	24
+1971	55	Paul Blair	http://www.baseball-reference.com/players/b/blairpa01.shtml	blairpa01	27	555	BAL	-3.0	-0.3	582	0.5	10.3	-9.8	1.01	0.2	0.2	-2.4	-0.3	1.00	1.8	1.48	4
+1971	56	Wade Blasingame*	http://www.baseball-reference.com/players/b/blasiwa01.shtml	blasiwa01	27	59	HOU	-1.0	-0.1	60	-0.0	0.9	-0.9	1.00	-0.0	-0.0	0.2	0.0	0.97	-0.1		0
+1971	57	Steve Blass	http://www.baseball-reference.com/players/b/blassst01.shtml	blassst01	29	92	PIT	-13.9	-1.5	93	-1.1	0.4	-1.6	.85	-1.3	-0.0	-13.7	-1.5	0.96	-13.9		0
+1971	58	Curt Blefary*	http://www.baseball-reference.com/players/b/blefacu01.shtml	blefacu01	27	157	TOT	-1.4	-0.1	161	-0.0	3.1	-3.2	1.21	0.1	-0.1	0.4	0.0	0.91	1.7	1.61	27
+1971	59	Curt Blefary*	http://www.baseball-reference.com/players/b/blefacu01.shtml	blefacu01	27	39	NYY	-1.8	-0.2	39	-0.6	0.6	-1.2	1.39	-0.0	-0.4	-2.7	-0.3	0.96	-0.4	2.25	11
+1971	60	Curt Blefary*	http://www.baseball-reference.com/players/b/blefacu01.shtml	blefacu01	27	118	OAK	0.4	0.0	122	0.6	2.6	-2.0	1.16	0.1	0.4	3.1	0.3	0.89	2.2	1.18	16
+1971	61	Ron Blomberg*	http://www.baseball-reference.com/players/b/blombro01.shtml	blombro01	22	216	NYY	10.4	1.1	224	0.3	3.9	-3.6	1.08	0.8	-0.5	6.2	0.7	1.07	7.0	1.39	11
+1971	62	Vida Blue#	http://www.baseball-reference.com/players/b/bluevi01.shtml	bluevi01	21	121	OAK	-15.5	-1.7	123	-1.2	1.0	-2.2	.96	-1.7	0.5	-15.1	-1.6	0.98	-16.4		0
+1971	63	Bert Blyleven	http://www.baseball-reference.com/players/b/blylebe01.shtml	blylebe01	20	100	MIN	-14.5	-1.6	102	-1.4	0.6	-1.9	.93	-1.4	-0.1	-15.4	-1.6	0.99	-13.6		0
+1971	64	John Boccabella	http://www.baseball-reference.com/players/b/boccajo01.shtml	boccajo01	30	195	MON	-6.0	-0.6	198	0.5	3.7	-3.2	.97	-0.5	1.0	-4.1	-0.4	0.98	-4.7	1.02	5
+1971	65	Len Boehmer	http://www.baseball-reference.com/players/b/boehmle01.shtml	boehmle01	30	5	NYY	-1.3	-0.1	5	-0.1	0.0	-0.1	1.25	-0.1	0.0	-1.4	-0.2	1.17	-1.2	1.36	2
+1971	66	Bobby Bolin	http://www.baseball-reference.com/players/b/bolinbo01.shtml	bolinbo01	32	12	BOS	-1.1	-0.1	12	-0.1	0.0	-0.1	.54	-0.1	-0.0	-1.4	-0.1	0.75	-1.2		0
+1971	67	Bobby Bonds	http://www.baseball-reference.com/players/b/bondsbo01.shtml	bondsbo01	25	691	SFG	35.2	3.6	741	5.6	17.3	-11.7	1.06	5.2	0.2	54.8	5.7	0.96	53.6	2.67	3
+1971	68	Bill Bonham	http://www.baseball-reference.com/players/b/bonhabi01.shtml	bonhabi01	22	12	CHC	-1.8	-0.2	12	-0.2	0.0	-0.2	.83	-0.1	-0.1	-1.5	-0.2	0.95	-1.8		0
+1971	69	Dick Bosman	http://www.baseball-reference.com/players/b/bosmadi01.shtml	bosmadi01	27	88	WSA	-11.0	-1.2	88	-1.0	0.6	-1.6	.90	-1.0	-0.1	-10.5	-1.2	0.96	-9.9		0
+1971	70	Dave Boswell	http://www.baseball-reference.com/players/b/bosweda01.shtml	bosweda01	26	5	TOT	-0.2	-0.0	5	-0.0	0.1	-0.1	1.12	0.1	-0.1	-0.3	-0.0	1.12	0.4		0
+1971	71	Dave Boswell	http://www.baseball-reference.com/players/b/bosweda01.shtml	bosweda01	26	5	BAL	-0.2	-0.0	5	-0.0	0.1	-0.1	1.12	0.1	-0.1	-0.3	-0.0	1.12	0.4		0
+1971	72	Ken Boswell*	http://www.baseball-reference.com/players/b/bosweke01.shtml	bosweke01	25	436	NYM	1.4	0.2	447	-0.2	7.9	-8.1	1.08	-0.0	-0.2	4.9	0.5	0.97	2.0	2.53	7
+1971	73	Pat Bourque*	http://www.baseball-reference.com/players/b/bourqpa01.shtml	bourqpa01	24	41	CHC	-2.7	-0.3	41	-0.3	0.8	-1.1	1.32	-0.1	-0.2	-4.1	-0.4	1.00	-1.4	2.39	3
+1971	74	Larry Bowa#	http://www.baseball-reference.com/players/b/bowala01.shtml	bowala01	25	696	PHI	-29.5	-3.1	741	-1.7	11.2	-12.9	1.10	-2.5	1.0	-21.2	-2.2	0.95	-25.0		0
+1971	75	Clete Boyer	http://www.baseball-reference.com/players/b/boyercl02.shtml	boyercl02	34	108	ATL	-0.3	-0.0	109	0.6	2.6	-2.0	1.10	0.2	0.4	7.5	0.8	0.99	3.0	1.06	3
+1971	76	Buddy Bradford	http://www.baseball-reference.com/players/b/bradfbu01.shtml	bradfbu01	26	162	TOT	-5.2	-0.5	174	-0.4	2.4	-2.8	.96	-0.4	0.0	1.2	0.1	0.94	-3.2	0.55	14
+1971	77	Buddy Bradford	http://www.baseball-reference.com/players/b/bradfbu01.shtml	bradfbu01	26	44	CLE	-2.8	-0.3	45	-0.3	0.7	-1.0	1.13	-0.3	0.1	-2.7	-0.3	0.94	-3.4	1.06	2
+1971	78	Buddy Bradford	http://www.baseball-reference.com/players/b/bradfbu01.shtml	bradfbu01	26	118	CIN	-2.4	-0.2	129	-0.1	1.7	-1.8	.90	-0.1	0.0	3.9	0.4	0.94	0.2	0.47	12
+1971	79	Tom Bradley	http://www.baseball-reference.com/players/b/bradlto01.shtml	bradlto01	24	104	CHW	-13.4	-1.4	105	-0.8	0.8	-1.6	.79	-1.1	0.1	-9.2	-1.0	0.94	-10.2		0
+1971	80	Ron Brand	http://www.baseball-reference.com/players/b/brandro01.shtml	brandro01	31	61	MON	-4.9	-0.5	60	-0.1	0.9	-1.0	1.12	-0.3	0.3	-2.9	-0.3	0.92	-4.7	1.14	15
+1971	81	Bucky Brandon	http://www.baseball-reference.com/players/b/brandbu01.shtml	brandbu01	30	15	PHI	-2.0	-0.2	16	-0.3	0.0	-0.3	1.22	-0.2	-0.0	-2.3	-0.2	0.96	-2.2		0
+1971	82	Steve Braun*	http://www.baseball-reference.com/players/b/braunst01.shtml	braunst01	23	402	MIN	-0.3	-0.0	416	0.5	7.4	-6.8	1.04	0.6	-0.1	8.6	0.9	0.96	8.7	1.17	27
+1971	83	Angel Bravo*	http://www.baseball-reference.com/players/b/bravoan01.shtml	bravoan01	28	73	TOT	-5.0	-0.5	73	-0.2	1.6	-1.8	1.52	-0.3	0.1	-3.1	-0.3	0.96	-3.7	1.73	38
+1971	84	Angel Bravo*	http://www.baseball-reference.com/players/b/bravoan01.shtml	bravoan01	28	5	CIN	-0.6	-0.1	5	-0.1	0.0	-0.1	1.11	-0.0	-0.0	-0.4	-0.0	0.78	-0.5	1.11	5
+1971	85	Angel Bravo*	http://www.baseball-reference.com/players/b/bravoan01.shtml	bravoan01	28	68	SDP	-4.4	-0.5	68	-0.1	1.6	-1.7	1.55	-0.2	0.1	-2.8	-0.3	0.97	-3.2	1.82	33
+1971	86	Jim Breazeale*	http://www.baseball-reference.com/players/b/breazji01.shtml	breazji01	21	22	ATL	-1.8	-0.2	21	-0.2	0.3	-0.5	1.47	-0.2	0.0	-1.2	-0.1	1.09	-1.2	2.13	4
+1971	87	Danny Breeden	http://www.baseball-reference.com/players/b/breedda01.shtml	breedda01	29	79	CHC	-7.1	-0.8	79	-0.6	0.8	-1.4	.94	-0.9	0.2	-7.6	-0.8	1.02	-8.7		0
+1971	88	Hal Breeden	http://www.baseball-reference.com/players/b/breedha01.shtml	breedha01	27	39	CHC	-4.4	-0.5	39	-0.5	0.3	-0.8	.96	-0.5	0.0	-5.6	-0.6	1.00	-5.2	1.04	14
+1971	89	Ken Brett*	http://www.baseball-reference.com/players/b/brettke01.shtml	brettke01	22	11	BOS	-1.3	-0.1	11	-0.1	0.1	-0.2	.92	-0.1	-0.0	-1.3	-0.1	0.85	-1.2		0
+1971	90	Jim Brewer*	http://www.baseball-reference.com/players/b/breweji01.shtml	breweji01	33	9	LAD	-0.1	-0.0	9	0.0	0.1	-0.1	.63	-0.0	0.0	-0.0	-0.0	0.86	0.0		0
+1971	91	John Briggs*	http://www.baseball-reference.com/players/b/briggjo02.shtml	briggjo02	27	482	TOT	22.0	2.3	489	2.9	10.7	-7.8	1.07	2.2	0.5	21.0	2.2	0.97	19.5	1.53	10
+1971	92	John Briggs*	http://www.baseball-reference.com/players/b/briggjo02.shtml	briggjo02	27	28	PHI	-0.5	-0.1	28	-0.1	0.4	-0.5	1.12	0.0	-0.1	2.3	0.2	1.06	0.1	2.19	3
+1971	93	John Briggs*	http://www.baseball-reference.com/players/b/briggjo02.shtml	briggjo02	27	454	MIL	22.5	2.4	461	3.0	10.3	-7.3	1.07	2.2	0.5	18.6	2.0	0.96	19.4	1.25	7
+1971	94	Nelson Briles	http://www.baseball-reference.com/players/b/brilene01.shtml	brilene01	27	44	PIT	-0.3	-0.0	44	-0.0	0.4	-0.4	.60	-0.2	0.2	-0.5	-0.1	0.89	0.5		0
+1971	95	Chuck Brinkman	http://www.baseball-reference.com/players/b/brinkch01.shtml	brinkch01	26	24	CHW	-1.4	-0.2	26	-0.0	0.4	-0.4	1.04	-0.1	0.1	-0.4	-0.0	0.90	-0.9	0.54	1
+1971	96	Ed Brinkman	http://www.baseball-reference.com/players/b/brinked01.shtml	brinked01	29	589	DET	-28.6	-3.0	601	-2.8	7.3	-10.1	.95	-2.8	-0.1	-30.8	-3.2	0.96	-30.6		0
+1971	97	Jim Britton	http://www.baseball-reference.com/players/b/brittji02.shtml	brittji02	27	10	MON	-2.4	-0.2	10	-0.2	0.0	-0.2	.88	-0.2	-0.0	-2.5	-0.3	0.96	-2.5		0
+1971	98	Pete Broberg	http://www.baseball-reference.com/players/b/brobepe01.shtml	brobepe01	21	48	WSA	-5.6	-0.6	48	-0.5	0.4	-0.9	.93	-0.5	-0.1	-4.9	-0.6	0.97	-5.0		0
+1971	99	Lou Brock*	http://www.baseball-reference.com/players/b/brocklo01.shtml	brocklo01	32	721	STL	24.7	2.6	818	3.1	14.7	-11.7	1.00	4.9	-1.8	36.3	3.7	0.98	42.4	2.78	2
+1971	100	Gates Brown*	http://www.baseball-reference.com/players/b/brownga01.shtml	brownga01	32	218	DET	16.0	1.7	228	2.0	6.0	-4.0	1.19	2.4	-0.7	17.1	1.7	0.96	25.2	2.05	26
+1971	101	Ike Brown	http://www.baseball-reference.com/players/b/brownik01.shtml	brownik01	29	132	DET	4.9	0.5	137	0.2	2.6	-2.4	1.11	0.5	-0.3	5.8	0.6	0.95	10.0	1.59	19
+1971	102	Jackie Brown	http://www.baseball-reference.com/players/b/brownja01.shtml	brownja01	28	15	WSA	-2.4	-0.2	16	-0.1	0.2	-0.3	.90	-0.2	0.1	-0.9	-0.1	0.89	-1.7		0
+1971	103	Larry Brown	http://www.baseball-reference.com/players/b/brownla01.shtml	brownla01	31	254	TOT	-21.4	-2.3	259	-2.4	2.9	-5.3	1.05	-1.9	-0.3	-17.4	-1.9	0.97	-19.3	1.16	8
+1971	104	Larry Brown	http://www.baseball-reference.com/players/b/brownla01.shtml	brownla01	31	54	CLE	-3.9	-0.4	54	-0.6	0.7	-1.3	1.17	-0.3	-0.2	-0.8	-0.1	0.91	-3.0		0
+1971	105	Larry Brown	http://www.baseball-reference.com/players/b/brownla01.shtml	brownla01	31	200	OAK	-17.5	-1.9	205	-1.8	2.1	-3.9	1.01	-1.6	-0.2	-16.6	-1.8	0.99	-16.3	1.16	8
+1971	106	Ollie Brown	http://www.baseball-reference.com/players/b/brownol02.shtml	brownol02	27	542	SDP	6.2	0.6	537	1.6	10.9	-9.3	1.10	0.4	1.1	14.3	1.5	0.94	6.6	1.33	9
+1971	107	Oscar Brown	http://www.baseball-reference.com/players/b/brownos01.shtml	brownos01	25	46	ATL	-2.5	-0.3	42	-0.4	0.6	-1.0	1.05	-0.0	-0.3	-1.9	-0.2	1.08	-1.7	0.98	10
+1971	108	Byron Browne	http://www.baseball-reference.com/players/b/brownby01.shtml	brownby01	28	76	PHI	-1.1	-0.1	76	-0.8	1.2	-2.0	1.42	-0.2	-0.4	-3.5	-0.4	0.99	0.7	1.43	27
+1971	109	George Brunet	http://www.baseball-reference.com/players/b/brunege01.shtml	brunege01	36	3	STL	-0.1	-0.0	3	0.0	0.0	-0.0	.91	-0.0	0.0	-0.5	-0.0	1.23	-0.1		0
+1971	110	Ron Bryant#	http://www.baseball-reference.com/players/b/bryanro01.shtml	bryanro01	23	53	SFG	-5.1	-0.5	53	0.1	0.8	-0.7	.90	-0.4	0.5	-1.1	-0.1	0.98	-3.8		0
+1971	111	Steve Brye	http://www.baseball-reference.com/players/b/bryest01.shtml	bryest01	22	115	MIN	-5.6	-0.6	122	-0.7	1.6	-2.2	.99	-0.5	-0.2	-3.9	-0.4	0.95	-3.9		0
+1971	112	Bill Buckner*	http://www.baseball-reference.com/players/b/bucknbi01.shtml	bucknbi01	21	383	LAD	-3.0	-0.3	395	1.9	7.6	-5.7	.99	-0.1	2.1	10.0	1.1	0.98	0.4	1.48	17
+1971	113	Don Buford#	http://www.baseball-reference.com/players/b/bufordo01.shtml	bufordo01	34	549	BAL	36.1	3.7	582	3.8	11.3	-7.4	.98	3.8	0.2	40.3	4.2	0.96	40.7	1.84	8
+1971	114	Wally Bunker	http://www.baseball-reference.com/players/b/bunkewa01.shtml	bunkewa01	26	10	KCR	-2.0	-0.2	10	-0.2	0.1	-0.2	.82	-0.2	0.0	-1.8	-0.2	0.80	-2.1		0
+1971	115	Jim Bunning	http://www.baseball-reference.com/players/b/bunniji01.shtml	bunniji01	39	30	PHI	-3.1	-0.3	30	-0.4	0.3	-0.8	1.17	-0.3	-0.1	-4.1	-0.4	0.94	-3.1	3.80	2
+1971	116	Bill Burbach	http://www.baseball-reference.com/players/b/burbabi01.shtml	burbabi01	23	2	NYY	-0.5	-0.1	2	-0.1	0.0	-0.1	1.63	-0.1	-0.0	-1.3	-0.1	2.09	-0.6		0
+1971	117	Bob Burda*	http://www.baseball-reference.com/players/b/burdabo01.shtml	burdabo01	32	83	STL	0.9	0.1	83	0.3	1.8	-1.6	1.29	0.1	0.1	4.3	0.4	1.11	2.1	1.53	48
+1971	118	Tom Burgmeier*	http://www.baseball-reference.com/players/b/burgmto01.shtml	burgmto01	27	21	KCR	-0.5	-0.1	22	0.2	0.4	-0.2	.56	-0.0	0.4	-0.7	-0.1	0.93	-0.5		0
+1971	119	Jeff Burroughs	http://www.baseball-reference.com/players/b/burroje01.shtml	burroje01	20	204	WSA	0.3	0.0	207	0.8	4.1	-3.3	.99	0.7	0.1	7.8	0.8	1.02	7.1	1.15	8
+1971	120	Ray Busse	http://www.baseball-reference.com/players/b/bussera01.shtml	bussera01	22	37	HOU	-3.4	-0.4	18	-0.1	0.2	-0.3	1.08	-0.2	0.1	-0.8	-0.1	1.14	-1.8	0.39	2
+1971	121	Bill Butler*	http://www.baseball-reference.com/players/b/butlebi02.shtml	butlebi02	24	13	KCR	-2.4	-0.3	13	-0.2	0.0	-0.3	1.05	-0.2	0.0	-2.9	-0.3	1.05	-2.6		0
+1971	122	Les Cain*	http://www.baseball-reference.com/players/c/cainle01.shtml	cainle01	23	58	DET	-7.3	-0.8	58	-0.7	0.4	-1.1	.93	-0.6	-0.1	-7.5	-0.8	0.96	-6.9	0.01	1
+1971	123	Mike Caldwell	http://www.baseball-reference.com/players/c/caldwmi01.shtml	caldwmi01	22	1	SDP	0.9	0.1	1	0.0	0.0	0.0	.44	0.1	-0.0	0.2	0.0	0.38	0.6		0
+1971	124	Johnny Callison*	http://www.baseball-reference.com/players/c/callijo01.shtml	callijo01	32	333	CHC	-10.8	-1.2	341	-0.6	4.9	-5.6	.99	-0.7	0.1	-1.9	-0.2	0.97	-3.9	1.63	14
+1971	125	Lou Camilli#	http://www.baseball-reference.com/players/c/camillo01.shtml	camillo01	24	89	CLE	-7.1	-0.8	89	-1.1	0.7	-1.8	.98	-0.6	-0.5	-10.4	-1.1	0.90	-7.2	2.25	4
+1971	126	Bert Campaneris	http://www.baseball-reference.com/players/c/campabe01.shtml	campabe01	29	609	OAK	-20.2	-2.2	670	0.8	10.9	-10.1	.99	-0.5	1.3	8.2	0.9	0.95	-3.5	0.58	1
+1971	127	Dave Campbell	http://www.baseball-reference.com/players/c/campbda01.shtml	campbda01	29	414	SDP	-6.9	-0.7	436	-0.1	7.1	-7.2	1.06	-0.5	0.4	-5.1	-0.6	0.94	-4.5	1.46	1
+1971	128	Chris Cannizzaro	http://www.baseball-reference.com/players/c/cannich01.shtml	cannich01	33	309	TOT	-8.2	-0.9	310	-2.0	3.8	-5.8	.98	-0.8	-1.2	-14.4	-1.4	1.00	-7.4	0.47	2
+1971	129	Chris Cannizzaro	http://www.baseball-reference.com/players/c/cannich01.shtml	cannich01	33	75	SDP	-1.9	-0.2	76	-0.3	1.1	-1.4	1.00	-0.3	-0.0	-1.0	-0.1	0.99	-1.9	0.47	2
+1971	130	Chris Cannizzaro	http://www.baseball-reference.com/players/c/cannich01.shtml	cannich01	33	234	CHC	-6.3	-0.7	234	-1.7	2.7	-4.3	.98	-0.6	-1.1	-13.4	-1.3	1.00	-5.5	0.75	0
+1971	131	Buzz Capra	http://www.baseball-reference.com/players/c/caprabu01.shtml	caprabu01	23	1	NYM	-0.3	-0.0	1	-0.0	0.0	-0.0	.32	-0.0	-0.0	-0.2	-0.0	0.74	-0.3		0
+1971	132	Bernie Carbo*	http://www.baseball-reference.com/players/c/carbobe01.shtml	carbobe01	23	369	CIN	1.5	0.2	373	1.0	7.1	-6.0	1.05	0.4	0.6	1.7	0.2	0.93	2.7	1.37	12
+1971	133	Jose Cardenal	http://www.baseball-reference.com/players/c/cardejo02.shtml	cardejo02	27	559	TOT	-7.7	-0.8	594	0.6	10.8	-10.2	1.07	-0.6	1.1	6.9	0.7	1.02	-1.3	1.68	10
+1971	134	Jose Cardenal	http://www.baseball-reference.com/players/c/cardejo02.shtml	cardejo02	27	339	STL	-4.4	-0.5	355	0.6	6.4	-5.8	1.04	-0.4	1.0	4.2	0.4	1.04	0.3	1.57	8
+1971	135	Jose Cardenal	http://www.baseball-reference.com/players/c/cardejo02.shtml	cardejo02	27	220	MIL	-3.2	-0.3	239	-0.0	4.4	-4.4	1.12	-0.2	0.2	2.6	0.3	0.99	-1.7	2.11	2
+1971	136	Leo Cardenas	http://www.baseball-reference.com/players/c/cardele01.shtml	cardele01	32	624	MIN	4.3	0.4	637	1.6	12.2	-10.7	1.06	1.3	0.2	10.0	1.0	0.99	12.6	2.85	1
+1971	137	Rod Carew*	http://www.baseball-reference.com/players/c/carewro01.shtml	carewro01	25	632	MIN	4.0	0.4	657	1.9	12.5	-10.6	1.04	1.3	0.5	16.4	1.7	0.98	13.9	1.68	3
+1971	138	Steve Carlton*	http://www.baseball-reference.com/players/c/carltst01.shtml	carltst01	26	107	STL	-10.5	-1.1	107	-0.9	0.8	-1.8	.81	-1.2	-0.0	-9.4	-1.0	1.01	-11.2		0
+1971	139	Don Carrithers	http://www.baseball-reference.com/players/c/carrido01.shtml	carrido01	21	21	SFG	-1.5	-0.2	23	0.0	0.5	-0.4	1.09	-0.0	0.0	1.2	0.1	1.14	-0.1		0
+1971	140	Clay Carroll	http://www.baseball-reference.com/players/c/carrocl02.shtml	carrocl02	30	13	CIN	-1.8	-0.2	13	-0.1	0.0	-0.1	.46	-0.2	0.1	-2.6	-0.3	1.04	-2.3		0
+1971	141	Paul Casanova	http://www.baseball-reference.com/players/c/casanpa01.shtml	casanpa01	29	329	WSA	-19.8	-2.1	336	-2.0	4.9	-6.9	1.08	-1.9	0.0	-21.2	-2.4	0.98	-19.2	2.10	8
+1971	142	Dave Cash	http://www.baseball-reference.com/players/c/cashda01.shtml	cashda01	23	532	PIT	-0.3	-0.0	565	0.9	9.3	-8.5	.94	0.9	0.1	10.2	1.1	0.92	7.7	1.24	4
+1971	143	Norm Cash*	http://www.baseball-reference.com/players/c/cashno01.shtml	cashno01	36	523	DET	28.7	3.0	526	3.2	10.9	-7.7	.98	3.0	0.4	40.4	4.1	0.97	36.2	0.88	7
+1971	144	Danny Cater	http://www.baseball-reference.com/players/c/caterda01.shtml	caterda01	31	456	NYY	-4.0	-0.4	462	0.8	9.8	-8.9	1.17	-0.4	1.1	-3.3	-0.4	1.05	-3.5	1.81	10
+1971	145	Cesar Cedeno	http://www.baseball-reference.com/players/c/cedence01.shtml	cedence01	20	649	HOU	-3.9	-0.4	666	1.6	12.9	-11.3	1.12	0.7	0.8	12.8	1.4	0.98	7.9	1.90	4
+1971	146	Orlando Cepeda	http://www.baseball-reference.com/players/c/cepedor01.shtml	cepedor01	33	276	ATL	7.6	0.8	283	1.3	7.1	-5.8	1.17	0.4	0.7	1.6	0.2	1.01	4.9	3.40	8
+1971	147	Ron Cey	http://www.baseball-reference.com/players/c/ceyro01.shtml	ceyro01	23	2	LAD	-0.5	-0.1	2	-0.1	0.0	-0.1	3.49	-0.0	0.0	-1.2	-0.1	2.00	-0.6	3.49	2
+1971	148	Chris Chambliss*	http://www.baseball-reference.com/players/c/chambch01.shtml	chambch01	22	458	CLE	1.9	0.2	466	0.3	8.1	-7.8	1.02	0.6	-0.3	10.0	1.0	0.95	8.5	1.57	3
+1971	149	Bill Champion	http://www.baseball-reference.com/players/c/champbi01.shtml	champbi01	23	27	PHI	-4.5	-0.5	27	-0.4	0.3	-0.6	1.08	-0.4	0.0	-3.1	-0.3	0.99	-3.5		0
+1971	150	Dean Chance	http://www.baseball-reference.com/players/c/chancde01.shtml	chancde01	30	22	DET	-5.7	-0.6	22	-0.5	0.0	-0.5	.86	-0.5	-0.0	-4.6	-0.5	0.83	-5.4		0
+1971	151	Darrel Chaney#	http://www.baseball-reference.com/players/c/chaneda01.shtml	chaneda01	23	25	CIN	-3.7	-0.4	26	-0.5	0.2	-0.7	1.10	-0.4	-0.1	-5.0	-0.6	1.03	-4.0	0.16	1
+1971	152	Rich Chiles*	http://www.baseball-reference.com/players/c/chileri01.shtml	chileri01	21	128	HOU	-4.5	-0.5	116	-0.3	2.6	-2.9	1.39	-0.5	0.2	-2.6	-0.3	1.04	-2.4	1.67	37
+1971	153	Bruce Christensen*	http://www.baseball-reference.com/players/c/chrisbr01.shtml	chrisbr01	23	71	CAL	-1.2	-0.1	73	-0.4	1.0	-1.4	1.18	-0.1	-0.2	0.1	0.0	0.95	-1.0	0.91	7
+1971	154	Jim Clark	http://www.baseball-reference.com/players/c/clarkji03.shtml	clarkji03	24	20	CLE	-1.5	-0.2	20	-0.2	0.1	-0.3	.86	-0.1	-0.1	-1.9	-0.2	0.87	-1.5	0.65	6
+1971	155	Rickey Clark	http://www.baseball-reference.com/players/c/clarkri01.shtml	clarkri01	25	16	CAL	-0.9	-0.1	16	-0.1	0.1	-0.3	1.04	-0.1	-0.0	-1.3	-0.1	0.90	-1.3		0
+1971	156	Ron Clark	http://www.baseball-reference.com/players/c/clarkro02.shtml	clarkro02	28	2	OAK	0.1	0.0	2	0.1	0.1	-0.0	1.50	0.0	0.0	0.2	0.0	0.86	0.2	1.50	1
+1971	157	Horace Clarke#	http://www.baseball-reference.com/players/c/clarkho01.shtml	clarkho01	31	696	NYY	-9.8	-1.0	733	-0.6	11.3	-12.0	1.01	-0.5	-0.2	-1.3	-0.1	0.92	-4.7	1.15	4
+1971	158	Roberto Clemente	http://www.baseball-reference.com/players/c/clemero01.shtml	clemero01	36	553	PIT	27.8	2.9	562	5.7	14.0	-8.3	.98	3.9	1.9	42.1	4.3	0.96	37.5	2.28	9
+1971	159	Lance Clemons*	http://www.baseball-reference.com/players/c/clemola01.shtml	clemola01	23	9	KCR	1.4	0.2	9	0.1	0.2	-0.2	.88	0.3	-0.2	0.5	0.1	0.87	2.1		0
+1971	160	Donn Clendenon	http://www.baseball-reference.com/players/c/clenddo01.shtml	clenddo01	35	288	NYM	0.2	0.0	293	0.2	6.6	-6.4	1.24	0.3	-0.1	-3.1	-0.3	1.00	3.4	1.89	27
+1971	161	Reggie Cleveland	http://www.baseball-reference.com/players/c/clevere01.shtml	clevere01	23	88	STL	-10.6	-1.1	88	-1.2	0.6	-1.8	.96	-1.2	-0.1	-9.9	-1.0	0.99	-11.6		0
+1971	162	Ty Cline*	http://www.baseball-reference.com/players/c/clinety01.shtml	clinety01	32	118	CIN	-4.0	-0.4	125	-0.8	1.6	-2.5	1.26	-0.3	-0.3	-5.8	-0.6	1.02	-2.8	1.77	37
+1971	163	Gene Clines	http://www.baseball-reference.com/players/c/clinege01.shtml	clinege01	24	300	PIT	4.9	0.5	329	2.1	6.7	-4.5	1.05	1.0	1.0	17.0	1.7	0.96	11.1	1.48	18
+1971	164	Tony Cloninger	http://www.baseball-reference.com/players/c/clonito01.shtml	clonito01	30	29	CIN	-1.4	-0.2	29	-0.1	0.2	-0.3	.51	-0.1	-0.0	-0.7	-0.1	0.86	-1.1		0
+1971	165	Al Closter*	http://www.baseball-reference.com/players/c/clostal01.shtml	clostal01	28	7	NYY	-1.5	-0.2	7	-0.1	0.0	-0.1	.38	-0.2	-0.0	-1.8	-0.2	1.09	-1.7		0
+1971	166	Nate Colbert	http://www.baseball-reference.com/players/c/colbena01.shtml	colbena01	25	639	SDP	23.9	2.5	629	2.5	13.7	-11.2	1.08	2.3	0.0	26.2	2.8	0.93	31.5	1.71	3
+1971	167	Vince Colbert	http://www.baseball-reference.com/players/c/colbevi01.shtml	colbevi01	25	33	CLE	-4.0	-0.4	33	-0.4	0.1	-0.5	.83	-0.4	-0.1	-4.8	-0.5	0.99	-4.1		0
+1971	168	Joe Coleman	http://www.baseball-reference.com/players/c/colemjo05.shtml	colemjo05	24	112	DET	-16.6	-1.8	114	-1.3	0.7	-2.0	.86	-1.6	0.1	-18.8	-2.0	0.96	-17.5		0
+1971	169	Kevin Collins*	http://www.baseball-reference.com/players/c/collike01.shtml	collike01	24	41	DET	-0.7	-0.1	41	-0.1	0.9	-0.9	1.30	-0.1	0.0	-0.4	-0.0	1.07	0.3	1.50	30
+1971	170	Dave Concepcion	http://www.baseball-reference.com/players/c/conceda01.shtml	conceda01	23	354	CIN	-24.5	-2.6	372	-1.9	4.3	-6.1	.93	-1.8	-0.2	-21.7	-2.4	0.95	-20.3	0.32	1
+1971	171	Billy Conigliaro	http://www.baseball-reference.com/players/c/conigbi01.shtml	conigbi01	23	380	BOS	0.6	0.1	390	1.3	7.9	-6.6	1.01	0.2	1.1	-0.6	-0.1	0.94	2.1	0.87	4
+1971	172	Tony Conigliaro	http://www.baseball-reference.com/players/c/conigto01.shtml	conigto01	26	292	CAL	-5.8	-0.6	299	-1.3	4.4	-5.8	1.04	-0.4	-0.9	-10.5	-1.2	0.92	-4.2	0.31	2
+1971	173	Ron Cook*	http://www.baseball-reference.com/players/c/cookro02.shtml	cookro02	23	8	HOU	-0.6	-0.1	8	-0.2	0.0	-0.2	1.15	-0.1	-0.1	-1.3	-0.1	0.92	-0.8		0
+1971	174	Danny Coombs	http://www.baseball-reference.com/players/c/coombda01.shtml	coombda01	29	17	SDP	-0.6	-0.1	18	0.0	0.4	-0.4	1.23	0.0	-0.0	-0.2	-0.0	1.13	0.3		0
+1971	175	Cecil Cooper*	http://www.baseball-reference.com/players/c/coopece01.shtml	coopece01	21	49	BOS	2.1	0.2	55	0.3	1.0	-0.7	.95	0.3	-0.1	2.1	0.2	1.05	3.1	1.84	3
+1971	176	Ray Corbin	http://www.baseball-reference.com/players/c/corbira01.shtml	corbira01	22	40	MIN	-3.3	-0.4	40	-0.4	0.4	-0.7	.98	-0.3	-0.1	-3.1	-0.3	0.91	-2.8		0
+1971	177	Pat Corrales	http://www.baseball-reference.com/players/c/corrapa01.shtml	corrapa01	30	102	CIN	-9.0	-1.0	102	-0.5	1.2	-1.6	.91	-1.0	0.4	-7.8	-0.9	1.05	-9.8	4.82	1
+1971	178	Billy Cowan	http://www.baseball-reference.com/players/c/cowanbi01.shtml	cowanbi01	32	182	CAL	0.0	0.0	184	0.9	5.2	-4.3	1.45	0.2	0.4	2.6	0.3	1.05	1.6	2.48	34
+1971	179	Casey Cox	http://www.baseball-reference.com/players/c/coxca01.shtml	coxca01	29	28	WSA	-4.8	-0.5	28	-0.3	0.1	-0.5	.89	-0.5	0.1	-2.8	-0.3	0.83	-4.4		0
+1971	180	Willie Crawford*	http://www.baseball-reference.com/players/c/crawfwi01.shtml	crawfwi01	24	376	LAD	10.1	1.1	390	1.1	6.9	-5.8	.95	1.5	-0.3	12.2	1.3	1.01	14.4	1.38	19
+1971	181	Terry Crowley*	http://www.baseball-reference.com/players/c/crowlte01.shtml	crowlte01	24	26	BAL	-2.1	-0.2	26	-0.4	0.2	-0.7	1.21	-0.2	-0.1	-3.8	-0.4	1.11	-2.2	1.41	9
+1971	182	Jose Cruz*	http://www.baseball-reference.com/players/c/cruzjo01.shtml	cruzjo01	23	346	STL	11.1	1.2	361	0.5	5.7	-5.3	.93	1.2	-0.7	3.7	0.4	0.97	12.2	0.16	2
+1971	183	Mike Cuellar*	http://www.baseball-reference.com/players/c/cuellmi01.shtml	cuellmi01	34	117	BAL	-18.1	-2.0	117	-1.8	0.7	-2.5	.95	-1.6	-0.3	-19.2	-2.1	1.05	-16.2		0
+1971	184	Tim Cullen	http://www.baseball-reference.com/players/c/culleti01.shtml	culleti01	29	443	WSA	-26.6	-2.8	449	-3.2	4.8	-7.9	.96	-2.8	-0.5	-25.6	-2.8	0.96	-25.3	0.56	1
+1971	185	Ray Culp	http://www.baseball-reference.com/players/c/culpra01.shtml	culpra01	29	91	BOS	-10.9	-1.2	91	-0.9	0.8	-1.7	1.03	-1.1	0.3	-10.8	-1.1	0.98	-11.8		0
+1971	186	George Culver	http://www.baseball-reference.com/players/c/culvege01.shtml	culvege01	27	14	HOU	-2.1	-0.2	14	-0.2	0.0	-0.3	.91	-0.2	-0.1	-1.5	-0.2	0.92	-2.2		0
+1971	187	John Cumberland	http://www.baseball-reference.com/players/c/cumbejo01.shtml	cumbejo01	24	61	SFG	-10.0	-1.1	61	-1.0	0.2	-1.2	.87	-1.0	-0.2	-10.6	-1.1	1.02	-9.9		0
+1971	188	John Curtis*	http://www.baseball-reference.com/players/c/curtijo01.shtml	curtijo01	23	9	BOS	-1.7	-0.2	10	-0.2	0.0	-0.2	.96	-0.1	-0.1	-2.6	-0.3	1.08	-2.4		0
+1971	189	Bruce Dal Canton	http://www.baseball-reference.com/players/d/dalcabr01.shtml	dalcabr01	30	53	KCR	-8.8	-1.0	53	-0.9	0.1	-1.0	.83	-0.9	-0.1	-8.5	-0.9	1.03	-8.7		0
+1971	190	Clay Dalrymple*	http://www.baseball-reference.com/players/d/dalrycl01.shtml	dalrycl01	34	67	BAL	1.4	0.1	69	0.1	1.3	-1.2	1.31	0.2	-0.1	2.8	0.3	0.98	2.2	1.40	3
+1971	191	Bobby Darwin	http://www.baseball-reference.com/players/d/darwibo01.shtml	darwibo01	28	22	LAD	0.5	0.0	22	-0.2	0.3	-0.5	1.03	0.1	-0.2	0.3	0.0	0.98	-0.1	1.15	7
+1971	192	Vic Davalillo*	http://www.baseball-reference.com/players/d/davalvi01.shtml	davalvi01	34	312	PIT	-3.0	-0.3	328	0.3	5.8	-5.5	1.06	0.2	0.1	3.9	0.4	0.94	2.2	1.73	27
+1971	193	Jerry DaVanon	http://www.baseball-reference.com/players/d/davanje01.shtml	davanje01	25	94	BAL	-1.2	-0.1	97	-0.6	1.1	-1.7	.93	-0.0	-0.6	-3.6	-0.4	1.03	-1.0	0.55	1
+1971	194	Brock Davis*	http://www.baseball-reference.com/players/d/davisbr02.shtml	davisbr02	27	344	CHC	-9.6	-1.0	353	0.3	5.6	-5.3	.98	-0.8	1.1	2.7	0.3	0.97	-3.9	1.01	10
+1971	195	Tommy Davis	http://www.baseball-reference.com/players/d/davisto02.shtml	davisto02	32	238	OAK	6.1	0.6	251	3.0	7.3	-4.3	1.25	1.1	1.2	15.9	1.7	1.07	10.2	2.72	28
+1971	196	Willie Davis*	http://www.baseball-reference.com/players/d/daviswi02.shtml	daviswi02	31	672	LAD	15.8	1.6	710	1.5	12.2	-10.7	.94	1.6	-0.0	20.2	2.2	0.95	19.2	3.13	3
+1971	197	Boots Day*	http://www.baseball-reference.com/players/d/daybo01.shtml	daybo01	23	422	MON	-0.6	-0.1	444	0.2	7.2	-7.0	1.05	0.1	0.1	2.3	0.2	1.00	1.1	1.39	15
+1971	198	Tommy Dean	http://www.baseball-reference.com/players/d/deanto01.shtml	deanto01	25	80	SDP	-10.6	-1.1	74	-0.5	0.9	-1.4	1.01	-0.9	0.5	-10.3	-1.1	0.96	-9.4	1.49	2
+1971	199	Joe Decker	http://www.baseball-reference.com/players/d/deckejo01.shtml	deckejo01	24	10	CHC	-0.1	-0.0	10	-0.1	0.1	-0.2	1.04	-0.0	-0.0	-1.2	-0.1	1.12	-0.3		0
+1971	200	Rick Dempsey	http://www.baseball-reference.com/players/d/dempsri01.shtml	dempsri01	21	14	MIN	0.2	0.0	15	-0.1	0.1	-0.3	.95	-0.0	-0.1	-0.7	-0.1	0.80	-0.3		0
+1971	201	Bill Denehy#	http://www.baseball-reference.com/players/d/denehbi01.shtml	denehbi01	25	6	DET	0.4	0.0	6	-0.0	0.0	-0.1	1.07	0.0	-0.0	-0.4	-0.0	0.88	0.2		0
+1971	202	Bob Didier#	http://www.baseball-reference.com/players/d/didiebo01.shtml	didiebo01	22	171	ATL	-13.0	-1.4	174	-1.1	1.8	-2.9	1.03	-1.3	0.2	-7.1	-0.7	0.91	-12.4	2.17	2
+1971	203	Larry Dierker	http://www.baseball-reference.com/players/d/dierkla01.shtml	dierkla01	24	58	HOU	-10.4	-1.1	58	-0.9	0.2	-1.1	.76	-0.9	-0.3	-8.2	-0.9	0.93	-8.7		0
+1971	204	Dick Dietz	http://www.baseball-reference.com/players/d/dietzdi01.shtml	dietzdi01	29	558	SFG	23.0	2.4	567	4.6	13.8	-9.2	1.14	2.8	1.2	32.9	3.4	1.02	31.3	2.32	9
+1971	205	Chuck Dobson	http://www.baseball-reference.com/players/d/dobsoch01.shtml	dobsoch01	27	76	OAK	-4.8	-0.5	76	0.1	1.0	-0.9	.79	-0.4	0.6	-1.4	-0.2	1.01	-3.8		0
+1971	206	Pat Dobson	http://www.baseball-reference.com/players/d/dobsopa01.shtml	dobsopa01	29	107	BAL	-15.6	-1.7	107	-1.4	0.4	-1.8	.84	-1.6	-0.1	-12.6	-1.4	0.94	-15.5		0
+1971	207	Al Downing	http://www.baseball-reference.com/players/d/downial01.shtml	downial01	30	106	LAD	-9.1	-1.0	106	-0.9	0.8	-1.7	.82	-1.1	-0.0	-7.9	-0.9	0.97	-9.9		0
+1971	208	Denny Doyle*	http://www.baseball-reference.com/players/d/doylede01.shtml	doylede01	27	368	PHI	-16.5	-1.8	376	-1.3	6.0	-7.3	1.09	-1.5	0.3	-14.0	-1.5	0.93	-15.6	1.24	3
+1971	209	Moe Drabowsky	http://www.baseball-reference.com/players/d/drabomo01.shtml	drabomo01	35	6	STL	-0.9	-0.1	6	-0.1	0.0	-0.1	.81	-0.1	-0.1	-0.4	-0.0	0.84	-0.9		0
+1971	210	Dick Drago	http://www.baseball-reference.com/players/d/dragodi01.shtml	dragodi01	26	92	KCR	-9.0	-1.0	93	-0.6	0.8	-1.4	.80	-0.8	0.1	-7.6	-0.8	0.98	-8.8		0
+1971	211	Frank Duffy	http://www.baseball-reference.com/players/d/duffyfr01.shtml	duffyfr01	24	46	TOT	-4.9	-0.5	46	-0.2	0.9	-1.0	1.22	-0.4	0.3	-5.2	-0.6	1.10	-4.4	1.67	9
+1971	212	Frank Duffy	http://www.baseball-reference.com/players/d/duffyfr01.shtml	duffyfr01	24	17	CIN	-1.2	-0.1	17	-0.1	0.3	-0.4	1.32	-0.1	0.1	-1.9	-0.2	0.93	-1.2	0.95	2
+1971	213	Frank Duffy	http://www.baseball-reference.com/players/d/duffyfr01.shtml	duffyfr01	24	29	SFG	-3.7	-0.4	29	-0.1	0.5	-0.6	1.16	-0.3	0.2	-3.3	-0.4	1.20	-3.2	1.87	7
+1971	214	Tom Dukes	http://www.baseball-reference.com/players/d/dukesto01.shtml	dukesto01	28	7	BAL	-0.7	-0.1	7	-0.1	0.0	-0.1	.42	-0.1	-0.1	0.4	0.0	1.00	-0.2		0
+1971	215	Dave Duncan	http://www.baseball-reference.com/players/d/duncada01.shtml	duncada01	25	398	OAK	1.4	0.2	408	1.4	7.3	-6.0	.89	0.9	0.6	3.6	0.4	0.96	11.4	0.22	1
+1971	216	Steve Dunning	http://www.baseball-reference.com/players/d/dunnist01.shtml	dunnist01	22	68	CLE	-5.2	-0.6	69	-0.4	0.8	-1.2	1.04	-0.5	0.1	-3.7	-0.4	1.02	-4.8		0
+1971	217	Duffy Dyer	http://www.baseball-reference.com/players/d/dyerdu01.shtml	dyerdu01	25	185	NYM	-5.6	-0.6	187	-0.4	3.2	-3.6	1.15	-0.6	0.3	-2.8	-0.3	0.99	-5.3	2.88	9
+1971	218	Don Eddy	http://www.baseball-reference.com/players/e/eddydo01.shtml	eddydo01	24	1	CHW	0.8	0.1	1	0.0	0.0	0.0	.38	0.1	0.0	0.4	0.0	0.60	0.7		0
+1971	219	Johnny Edwards*	http://www.baseball-reference.com/players/e/edwarjo01.shtml	edwarjo01	33	345	HOU	-11.5	-1.2	340	-0.3	5.9	-6.2	1.10	-1.1	0.8	-7.3	-0.8	0.95	-9.6	1.80	7
+1971	220	Tom Egan	http://www.baseball-reference.com/players/e/eganto01.shtml	eganto01	25	281	CHW	0.7	0.1	286	0.8	5.4	-4.6	.99	0.8	-0.0	6.9	0.7	0.94	8.8	1.46	10
+1971	221	Dock Ellis#	http://www.baseball-reference.com/players/e/ellisdo01.shtml	ellisdo01	26	95	PIT	-7.3	-0.8	100	-0.0	1.3	-1.3	.93	-0.6	0.6	-3.1	-0.3	1.17	-6.5		0
+1971	222	John Ellis	http://www.baseball-reference.com/players/e/ellisjo01.shtml	ellisjo01	22	271	NYY	-1.0	-0.1	272	-0.3	5.5	-5.7	1.21	-0.2	-0.1	-0.5	-0.1	1.08	-0.5	1.85	15
+1971	223	Rob Ellis	http://www.baseball-reference.com/players/e/ellisro01.shtml	ellisro01	20	129	MIL	-7.9	-0.8	132	-0.8	1.6	-2.4	1.03	-0.8	0.0	-7.8	-0.8	0.99	-8.4	1.03	4
+1971	224	Dick Ellsworth*	http://www.baseball-reference.com/players/e/ellswdi01.shtml	ellswdi01	31	1	MIL	-0.3	-0.0	1	-0.0	0.0	-0.0	.03	-0.0	-0.0	-0.3	-0.0	1.17	-0.3		0
+1971	225	Mike Epstein*	http://www.baseball-reference.com/players/e/epstemi01.shtml	epstemi01	28	502	TOT	16.1	1.7	510	1.9	9.5	-7.6	.98	1.8	0.1	15.0	1.6	0.96	17.8	1.48	9
+1971	226	Mike Epstein*	http://www.baseball-reference.com/players/e/epstemi01.shtml	epstemi01	28	101	WSA	0.9	0.1	102	0.5	2.2	-1.7	1.12	0.1	0.3	1.3	0.1	0.96	0.3		0
+1971	227	Mike Epstein*	http://www.baseball-reference.com/players/e/epstemi01.shtml	epstemi01	28	401	OAK	15.2	1.6	408	1.4	7.3	-5.9	.94	1.7	-0.2	13.7	1.5	0.96	17.5	1.48	9
+1971	228	Frank Estrada	http://www.baseball-reference.com/players/e/estrafr01.shtml	estrafr01	23	2	NYM	0.2	0.0	2	0.0	0.0	0.0	.00	0.0		-0.2	-0.0	0.73	0.0		0
+1971	229	Andy Etchebarren	http://www.baseball-reference.com/players/e/etchean01.shtml	etchean01	28	243	BAL	2.6	0.3	246	-0.5	3.6	-4.1	.97	0.3	-0.8	0.9	0.1	1.00	2.3	1.46	5
+1971	230	Darrell Evans*	http://www.baseball-reference.com/players/e/evansda01.shtml	evansda01	24	305	ATL	4.8	0.5	306	1.7	6.3	-4.6	1.04	1.3	0.3	14.7	1.5	0.98	13.7	2.06	10
+1971	231	Bill Fahey*	http://www.baseball-reference.com/players/f/faheybi01.shtml	faheybi01	21	8	WSA	-2.1	-0.2	8	-0.1	0.0	-0.1	.74	-0.2	0.0	-1.4	-0.2	0.82	-1.8		0
+1971	232	Jim Fairey*	http://www.baseball-reference.com/players/f/faireji01.shtml	faireji01	26	220	MON	-8.1	-0.8	232	0.5	4.2	-3.7	1.10	-0.4	0.9	-3.4	-0.4	1.01	-4.8	1.11	36
+1971	233	Ron Fairly*	http://www.baseball-reference.com/players/f/fairlro01.shtml	fairlro01	32	542	MON	16.2	1.7	545	1.7	10.4	-8.7	1.03	1.5	0.2	24.0	2.5	1.01	20.5	1.48	17
+1971	234	Carmen Fanzone	http://www.baseball-reference.com/players/f/fanzoca01.shtml	fanzoca01	29	45	CHC	-2.8	-0.3	46	-0.2	0.6	-0.8	.99	-0.2	-0.0	-1.2	-0.1	0.93	-0.6	1.72	2
+1971	235	Ed Farmer	http://www.baseball-reference.com/players/f/farmeed01.shtml	farmeed01	21	16	CLE	-2.8	-0.3	16	-0.2	0.0	-0.3	.70	-0.3	-0.0	-2.9	-0.3	0.96	-3.1		0
+1971	236	Joe Ferguson	http://www.baseball-reference.com/players/f/fergujo01.shtml	fergujo01	24	115	LAD	-2.7	-0.3	118	-0.6	1.6	-2.2	1.02	-0.4	-0.2	-2.1	-0.2	0.90	-2.8	2.17	2
+1971	237	Frank Fernandez	http://www.baseball-reference.com/players/f/fernafr01.shtml	fernafr01	28	105	TOT	-1.7	-0.2	106	0.1	1.9	-1.8	1.07	0.1	-0.1	1.8	0.1	1.00	1.1	1.41	14
+1971	238	Frank Fernandez	http://www.baseball-reference.com/players/f/fernafr01.shtml	fernafr01	28	47	TOT	-5.0	-0.5	48	-0.5	0.6	-1.1	1.28	-0.4	0.0	-3.4	-0.4	1.08	-4.2	1.57	12
+1971	239	Frank Fernandez	http://www.baseball-reference.com/players/f/fernafr01.shtml	fernafr01	28	10	OAK	-0.9	-0.1	10	0.0	0.1	-0.1	.70	-0.1	0.1	0.5	0.1	0.73	-0.7	0.15	1
+1971	240	Frank Fernandez	http://www.baseball-reference.com/players/f/fernafr01.shtml	fernafr01	28	37	WSA	-4.1	-0.4	38	-0.5	0.5	-1.0	1.44	-0.3	-0.0	-3.9	-0.4	1.17	-3.5	1.70	11
+1971	241	Frank Fernandez	http://www.baseball-reference.com/players/f/fernafr01.shtml	fernafr01	28	58	CHC	3.3	0.3	58	0.6	1.3	-0.7	.90	0.6	0.1	5.2	0.5	0.93	5.3	0.46	2
+1971	242	Al Ferrara	http://www.baseball-reference.com/players/f/ferraal01.shtml	ferraal01	31	59	TOT	-2.7	-0.3	59	-0.6	1.1	-1.7	1.29	0.1	-0.5	-2.6	-0.3	0.94	-0.5	1.44	37
+1971	243	Al Ferrara	http://www.baseball-reference.com/players/f/ferraal01.shtml	ferraal01	31	22	SDP	-0.8	-0.1	22	0.3	0.6	-0.3	1.04	-0.0	0.3	-1.1	-0.1	0.92	-1.1	1.14	12
+1971	244	Al Ferrara	http://www.baseball-reference.com/players/f/ferraal01.shtml	ferraal01	31	37	CIN	-1.8	-0.2	37	-0.8	0.6	-1.4	1.44	0.1	-0.7	-1.5	-0.2	0.95	0.6	1.58	25
+1971	245	Rollie Fingers	http://www.baseball-reference.com/players/f/fingero01.shtml	fingero01	24	39	OAK	-3.2	-0.3	39	-0.3	0.2	-0.6	.86	-0.3	-0.1	-3.6	-0.4	0.90	-3.1		0
+1971	246	Mike Fiore*	http://www.baseball-reference.com/players/f/fioremi01.shtml	fioremi01	26	75	BOS	-3.3	-0.4	79	-0.3	1.2	-1.5	1.13	-0.2	-0.1	-3.7	-0.4	0.97	-2.3	1.39	33
+1971	247	Eddie Fisher	http://www.baseball-reference.com/players/f/fisheed02.shtml	fisheed02	34	19	CAL	-2.7	-0.3	19	-0.2	0.0	-0.2	.75	-0.3	0.0	-2.8	-0.3	0.89	-2.8		0
+1971	248	Carlton Fisk	http://www.baseball-reference.com/players/f/fiskca01.shtml	fiskca01	23	49	BOS	1.4	0.2	49	0.1	1.0	-0.9	1.08	0.2	-0.1	0.9	0.1	0.94	3.0		0
+1971	249	Al Fitzmorris#	http://www.baseball-reference.com/players/f/fitzmal01.shtml	fitzmal01	25	47	KCR	-3.1	-0.3	48	-0.3	0.4	-0.8	.86	-0.4	0.0	-3.7	-0.4	0.88	-3.5		0
+1971	250	Curt Flood	http://www.baseball-reference.com/players/f/floodcu01.shtml	floodcu01	33	40	WSA	-2.2	-0.2	42	0.3	0.9	-0.6	1.09	-0.2	0.5	0.6	0.1	0.96	-1.3	2.51	1
+1971	251	Bobby Floyd	http://www.baseball-reference.com/players/f/floydbo01.shtml	floydbo01	27	73	KCR	-6.5	-0.7	74	-0.2	0.6	-0.8	.67	-0.4	0.1	-3.2	-0.3	0.86	-4.2	0.31	3
+1971	252	Tim Foli	http://www.baseball-reference.com/players/f/foliti01.shtml	foliti01	20	312	NYM	-15.7	-1.7	320	-1.9	3.8	-5.7	1.04	-1.6	-0.3	-11.1	-1.2	0.98	-15.0	2.05	2
+1971	253	Ted Ford	http://www.baseball-reference.com/players/f/fordte01.shtml	fordte01	24	206	CLE	-18.7	-2.0	214	-0.7	3.4	-4.1	1.07	-1.2	0.5	-7.2	-0.7	0.93	-11.4	1.30	19
+1971	254	Ken Forsch	http://www.baseball-reference.com/players/f/forscke01.shtml	forscke01	24	63	HOU	-8.8	-0.9	56	-0.8	0.2	-1.0	.84	-0.9	-0.1	-9.8	-1.1	0.96	-9.4		0
+1971	255	Terry Forster*	http://www.baseball-reference.com/players/f/forstte01.shtml	forstte01	19	5	CHW	0.5	0.0	6	0.1	0.2	-0.1	1.21	0.1	-0.1	0.4	0.0	1.14	1.2		0
+1971	256	Ray Fosse	http://www.baseball-reference.com/players/f/fossera01.shtml	fossera01	24	530	CLE	-2.0	-0.2	547	0.3	9.5	-9.2	1.02	0.4	-0.1	8.3	0.8	0.95	3.3	2.17	5
+1971	257	Alan Foster	http://www.baseball-reference.com/players/f/fosteal01.shtml	fosteal01	24	60	CLE	-11.8	-1.3	61	-0.8	0.3	-1.0	.95	-1.1	0.3	-10.6	-1.1	0.97	-11.5		0
+1971	258	George Foster	http://www.baseball-reference.com/players/f/fostege01.shtml	fostege01	22	514	TOT	-3.8	-0.4	535	-2.6	8.0	-10.6	1.08	-0.5	-1.9	-3.5	-0.4	1.02	0.1	1.78	9
+1971	259	George Foster	http://www.baseball-reference.com/players/f/fostege01.shtml	fostege01	22	112	SFG	-0.4	-0.0	115	-1.1	1.5	-2.7	1.21	0.0	-0.9	-7.3	-0.8	1.10	-0.3	1.51	7
+1971	260	George Foster	http://www.baseball-reference.com/players/f/fostege01.shtml	fostege01	22	402	CIN	-3.5	-0.4	420	-1.4	6.5	-7.9	1.04	-0.5	-0.9	3.8	0.4	1.00	0.4	2.73	2
+1971	261	Leo Foster	http://www.baseball-reference.com/players/f/fostele01.shtml	fostele01	20	10	ATL	-2.7	-0.3	10	-0.2	0.0	-0.2	.88	-0.3	0.0	-5.3	-0.6	1.24	-3.6	0.58	2
+1971	262	Roy Foster	http://www.baseball-reference.com/players/f/fostero01.shtml	fostero01	25	439	CLE	1.4	0.1	449	-1.0	7.5	-8.4	1.06	0.0	-1.0	-6.6	-0.7	0.96	3.5	1.43	21
+1971	263	Joe Foy	http://www.baseball-reference.com/players/f/foyjo01.shtml	foyjo01	28	158	WSA	1.4	0.2	165	-0.2	3.1	-3.3	1.30	0.1	-0.2	-0.9	-0.1	1.11	0.9	1.27	4
+1971	264	Jay Franklin	http://www.baseball-reference.com/players/f/frankja02.shtml	frankja02	18	1	SDP	-0.2	-0.0	1	-0.0	0.0	-0.0	1.24	-0.0	-0.0	-0.3	-0.0	1.07	-0.3		0
+1971	265	Roger Freed	http://www.baseball-reference.com/players/f/freedro01.shtml	freedro01	25	401	PHI	-9.1	-1.0	409	0.0	7.2	-7.1	1.11	-1.1	1.2	-3.7	-0.4	0.93	-10.2	1.16	13
+1971	266	Bill Freehan	http://www.baseball-reference.com/players/f/freehbi01.shtml	freehbi01	29	586	DET	17.9	1.9	601	1.3	11.4	-10.1	1.00	1.6	-0.3	16.8	1.7	0.98	19.5	0.63	4
+1971	267	Jim Fregosi	http://www.baseball-reference.com/players/f/fregoji01.shtml	fregoji01	29	399	CAL	-3.2	-0.3	403	-0.2	7.4	-7.5	1.19	-0.0	-0.1	-1.9	-0.2	0.96	-1.7	2.83	10
+1971	268	Jim French*	http://www.baseball-reference.com/players/f/frencji01.shtml	frencji01	29	49	WSA	-3.0	-0.3	51	-0.8	0.6	-1.4	1.19	-0.4	-0.3	-5.4	-0.6	1.02	-3.3		0
+1971	269	Danny Frisella*	http://www.baseball-reference.com/players/f/friseda01.shtml	friseda01	25	15	NYM	-0.9	-0.1	16	0.0	0.3	-0.2	1.25	-0.1	0.1	-2.4	-0.3	1.20	-1.4		0
+1971	270	Woodie Fryman	http://www.baseball-reference.com/players/f/frymawo01.shtml	frymawo01	31	43	PHI	-4.3	-0.4	44	-0.4	0.2	-0.7	.85	-0.5	0.0	-5.3	-0.6	0.97	-5.3		0
+1971	271	Tito Fuentes#	http://www.baseball-reference.com/players/f/fuentti01.shtml	fuentti01	27	672	SFG	-13.7	-1.4	695	-0.5	11.5	-12.0	1.09	-1.1	0.7	-10.7	-1.1	0.98	-13.9	2.84	1
+1971	272	Phil Gagliano	http://www.baseball-reference.com/players/g/gagliph01.shtml	gagliph01	29	81	BOS	3.0	0.3	83	1.5	2.7	-1.1	1.22	0.5	0.8	10.2	1.0	0.98	5.4	1.63	22
+1971	273	Al Gallagher	http://www.baseball-reference.com/players/g/gallaal01.shtml	gallaal01	25	479	SFG	2.8	0.3	484	1.4	9.5	-8.1	1.09	1.0	0.3	12.7	1.3	1.03	11.2	1.16	9
+1971	274	Oscar Gamble*	http://www.baseball-reference.com/players/g/gamblos01.shtml	gamblos01	21	309	PHI	-10.8	-1.1	317	-0.7	5.0	-5.7	1.12	-0.8	0.1	-11.6	-1.2	0.96	-8.9	1.86	13
+1971	275	Rob Gardner	http://www.baseball-reference.com/players/g/gardnro01.shtml	gardnro01	26	2	TOT	0.2	0.0	2	0.0	0.0	-0.0	.68	0.0	0.0	0.2	0.0	0.73	0.2		0
+1971	276	Rob Gardner	http://www.baseball-reference.com/players/g/gardnro01.shtml	gardnro01	26	2	OAK	0.2	0.0	2	0.0	0.0	-0.0	.68	0.0	0.0	0.2	0.0	0.73	0.2		0
+1971	277	Mike Garman	http://www.baseball-reference.com/players/g/garmami01.shtml	garmami01	21	6	BOS	-0.2	-0.0	7	0.0	0.1	-0.1	1.00	-0.0	0.0	-0.5	-0.1	0.83	-0.3		0
+1971	278	Ralph Garr*	http://www.baseball-reference.com/players/g/garrra01.shtml	garrra01	25	693	ATL	19.2	2.0	744	3.4	14.2	-10.9	1.02	2.6	0.7	18.7	1.9	0.93	23.4	4.22	1
+1971	279	Adrian Garrett*	http://www.baseball-reference.com/players/g/garread01.shtml	garread01	28	26	OAK	-0.7	-0.1	26	-0.1	0.3	-0.4	1.09	-0.0	-0.1	-0.0	-0.0	0.95	0.1	1.73	6
+1971	280	Greg Garrett#	http://www.baseball-reference.com/players/g/garregr01.shtml	garregr01	24	3	CIN	-0.0	0.0	3	-0.1	0.0	-0.1	1.30	-0.0	-0.0	-0.4	-0.0	0.97	-0.1		0
+1971	281	Wayne Garrett*	http://www.baseball-reference.com/players/g/garrewa01.shtml	garrewa01	23	235	NYM	-10.0	-1.1	241	-1.1	2.7	-3.8	.93	-0.6	-0.6	-4.1	-0.4	0.89	-7.0	0.31	2
+1971	282	Gil Garrido	http://www.baseball-reference.com/players/g/garrigi01.shtml	garrigi01	30	143	ATL	-8.0	-0.8	146	-0.8	2.1	-2.9	1.15	-0.9	0.2	-2.3	-0.2	0.95	-7.3	3.14	9
+1971	283	Steve Garvey	http://www.baseball-reference.com/players/g/garvest01.shtml	garvest01	22	249	LAD	-1.7	-0.2	254	-0.2	4.3	-4.5	.99	-0.2	0.0	-3.7	-0.4	1.01	-1.8	0.69	2
+1971	284	Rod Gaspar#	http://www.baseball-reference.com/players/g/gasparo01.shtml	gasparo01	25	20	SDP	-1.9	-0.2	11	-0.0	0.3	-0.3	1.99	-0.1	0.1	-0.1	-0.0	1.20	-0.7	1.99	8
+1971	285	Cito Gaston	http://www.baseball-reference.com/players/g/gastoci01.shtml	gastoci01	27	547	SDP	-11.3	-1.2	534	1.2	11.0	-9.8	1.03	0.7	0.4	2.2	0.2	0.91	4.1	1.70	9
+1971	286	Gary Gentry	http://www.baseball-reference.com/players/g/gentrga01.shtml	gentrga01	24	75	NYM	-14.1	-1.5	75	-1.4	0.2	-1.6	.91	-1.4	-0.1	-13.8	-1.5	0.95	-14.6		0
+1971	287	Cesar Geronimo*	http://www.baseball-reference.com/players/g/geronce01.shtml	geronce01	23	88	HOU	-3.7	-0.4	86	-0.0	1.8	-1.8	1.23	-0.3	0.3	-0.7	-0.1	0.91	-2.7	1.73	10
+1971	288	Joe Gibbon	http://www.baseball-reference.com/players/g/gibbojo01.shtml	gibbojo01	36	2	CIN	-0.2	-0.0	2	-0.0	0.0	-0.0	.05	-0.1	0.0	-0.6	-0.1	1.67	-0.4		0
+1971	289	Jake Gibbs*	http://www.baseball-reference.com/players/g/gibbsja01.shtml	gibbsja01	32	224	NYY	-6.9	-0.7	230	0.0	4.1	-4.0	1.11	-0.2	0.2	-1.2	-0.1	1.00	-4.0	2.09	16
+1971	290	Bob Gibson	http://www.baseball-reference.com/players/g/gibsobo01.shtml	gibsobo01	35	95	STL	-8.6	-0.9	96	-0.5	1.0	-1.4	.75	-0.8	0.2	-6.7	-0.7	0.97	-8.3		0
+1971	291	Russ Gibson	http://www.baseball-reference.com/players/g/gibsoru01.shtml	gibsoru01	32	59	SFG	-4.4	-0.5	59	-0.5	0.8	-1.4	1.10	-0.4	-0.1	-2.7	-0.3	0.95	-3.7	4.02	2
+1971	292	Gus Gil	http://www.baseball-reference.com/players/g/gilgu01.shtml	gilgu01	32	44	MIL	-1.0	-0.1	46	-0.1	0.7	-0.7	1.18	0.0	-0.1	2.1	0.2	0.97	0.8	2.57	4
+1971	293	Bill Gilbreth*	http://www.baseball-reference.com/players/g/gilbrbi01.shtml	gilbrbi01	23	11	DET	-1.5	-0.2	11	-0.1	0.1	-0.1	.67	-0.2	0.0	-1.5	-0.2	0.99	-1.6		0
+1971	294	Dave Giusti	http://www.baseball-reference.com/players/g/giustda01.shtml	giustda01	31	18	PIT	-3.5	-0.4	18	-0.0	0.1	-0.1	.27	-0.3	0.1	-1.4	-0.1	0.87	-2.6		0
+1971	295	Fred Gladding*	http://www.baseball-reference.com/players/g/gladdfr01.shtml	gladdfr01	35	2	HOU	-0.5	-0.1	2	-0.1	0.0	-0.1	.98	-0.1	0.0	-0.5	-0.1	0.75	-0.6		0
+1971	296	Bill Gogolewski*	http://www.baseball-reference.com/players/g/gogolbi01.shtml	gogolbi01	23	38	WSA	-3.4	-0.4	38	-0.3	0.4	-0.8	1.01	-0.4	0.0	-3.0	-0.3	1.08	-3.8		0
+1971	297	Tony Gonzalez*	http://www.baseball-reference.com/players/g/gonzato01.shtml	gonzato01	34	351	CAL	-5.7	-0.6	354	1.0	7.3	-6.2	1.11	-0.3	1.2	1.9	0.2	0.96	-1.8	1.53	30
+1971	298	Ed Goodson*	http://www.baseball-reference.com/players/g/goodsed01.shtml	goodsed01	23	44	SFG	-4.1	-0.4	44	-0.6	0.4	-0.9	.94	-0.5	-0.1	-5.3	-0.6	0.90	-5.2	1.23	7
+1971	299	Jim Gosger*	http://www.baseball-reference.com/players/g/gosgeji01.shtml	gosgeji01	28	115	MON	-9.9	-1.0	113	-1.6	1.3	-2.8	1.23	-0.8	-0.5	-11.0	-1.2	1.02	-9.2	1.79	23
+1971	300	Billy Grabarkewitz	http://www.baseball-reference.com/players/g/grababi01.shtml	grababi01	25	90	LAD	1.8	0.2	95	-0.0	1.8	-1.8	1.25	-0.1	0.1	-1.8	-0.2	1.08	-0.5	1.66	11
+1971	301	Wayne Granger	http://www.baseball-reference.com/players/g/grangwa01.shtml	grangwa01	27	9	CIN	0.2	0.0	8	-0.0	0.0	-0.1	.38	0.0	-0.1	0.2	0.0	0.72	1.7		0
+1971	302	Mudcat Grant	http://www.baseball-reference.com/players/g/grantmu01.shtml	grantmu01	35	14	TOT	-0.0	-0.0	14	-0.1	0.2	-0.3	1.04	-0.0	-0.1	-0.4	-0.0	0.98	-0.7		0
+1971	303	Mudcat Grant	http://www.baseball-reference.com/players/g/grantmu01.shtml	grantmu01	35	9	PIT	0.0	0.0	9	-0.0	0.2	-0.2	1.11	-0.0	-0.0	0.4	0.0	0.87	-0.3		0
+1971	304	Mudcat Grant	http://www.baseball-reference.com/players/g/grantmu01.shtml	grantmu01	35	5	OAK	-0.1	-0.0	5	-0.1	0.0	-0.1	.90	-0.0	-0.1	-0.7	-0.1	1.17	-0.4		0
+1971	305	Dick Green	http://www.baseball-reference.com/players/g/greendi01.shtml	greendi01	30	538	OAK	-4.4	-0.5	545	0.0	8.7	-8.7	.95	-0.7	0.7	-12.2	-1.3	0.99	-5.4	0.24	1
+1971	306	Bill Greif	http://www.baseball-reference.com/players/g/greifbi01.shtml	greifbi01	21	3	HOU	-0.1	-0.0	3	-0.0	0.0	-0.0	.55	-0.0	-0.0	-0.1	-0.0	0.69	-0.1		0
+1971	307	Bobby Grich	http://www.baseball-reference.com/players/g/grichbo01.shtml	grichbo01	22	35	BAL	1.3	0.1	38	0.3	1.0	-0.7	1.38	0.3	-0.1	4.3	0.4	1.22	2.8		0
+1971	308	Doug Griffin	http://www.baseball-reference.com/players/g/griffdo01.shtml	griffdo01	24	526	BOS	-21.8	-2.3	547	-1.2	7.2	-8.4	.93	-1.8	0.5	-15.5	-1.6	0.90	-18.9	0.41	1
+1971	309	Tom Griffin	http://www.baseball-reference.com/players/g/griffto02.shtml	griffto02	23	10	HOU	-1.3	-0.1	10	-0.3	0.1	-0.4	1.55	-0.2	-0.0	-2.8	-0.3	1.12	-2.0		0
+1971	310	Ross Grimsley*	http://www.baseball-reference.com/players/g/grimsro02.shtml	grimsro02	21	60	CIN	-7.7	-0.8	61	-0.5	0.5	-1.0	.80	-0.6	0.0	-6.1	-0.7	0.98	-6.9		0
+1971	311	Jerry Grote	http://www.baseball-reference.com/players/g/groteje01.shtml	groteje01	28	450	NYM	-0.1	-0.0	460	-1.3	7.4	-8.7	1.07	-0.2	-1.0	-6.7	-0.7	1.00	-3.7	4.22	4
+1971	312	Joe Grzenda	http://www.baseball-reference.com/players/g/grzenjo01.shtml	grzenjo01	34	9	WSA	-1.0	-0.1	9	-0.1	0.0	-0.1	.69	-0.1	0.0	-0.8	-0.1	1.06	-0.9		0
+1971	313	Don Gullett	http://www.baseball-reference.com/players/g/gulledo01.shtml	gulledo01	20	82	CIN	-11.7	-1.2	79	-0.9	0.4	-1.3	.77	-1.1	-0.1	-13.8	-1.5	0.99	-12.2		0
+1971	314	Larry Gura#	http://www.baseball-reference.com/players/g/gurala01.shtml	gurala01	23	1	CHC	-0.3	-0.0	1	-0.0	0.0	-0.0	.40	-0.0	0.0	-0.1	-0.0	0.38	-0.2		0
+1971	315	Cesar Gutierrez	http://www.baseball-reference.com/players/g/gutiece01.shtml	gutiece01	28	39	DET	-4.5	-0.5	41	-0.5	0.4	-0.9	1.02	-0.3	-0.2	-1.7	-0.2	1.03	-2.5	0.85	9
+1971	316	Santiago Guzman	http://www.baseball-reference.com/players/g/guzmasa01.shtml	guzmasa01	21	2	STL	-0.3	-0.0	2	-0.0	0.0	-0.0	1.62	-0.0	0.0	-0.3	-0.0	1.04	-0.3		0
+1971	317	Rich Hacker#	http://www.baseball-reference.com/players/h/hackeri01.shtml	hackeri01	23	37	MON	-4.4	-0.5	37	-0.4	0.3	-0.7	1.02	-0.4	-0.0	-3.2	-0.3	0.93	-4.0		0
+1971	318	Joe Hague*	http://www.baseball-reference.com/players/h/haguejo01.shtml	haguejo01	27	443	STL	0.7	0.1	449	-0.3	6.2	-6.5	.87	-0.5	0.2	-2.8	-0.3	0.99	-1.9	2.16	17
+1971	319	Don Hahn	http://www.baseball-reference.com/players/h/hahndo01.shtml	hahndo01	22	203	NYM	-5.1	-0.5	212	-0.8	3.1	-3.9	1.08	-0.5	-0.2	-7.8	-0.8	0.98	-5.9	0.87	8
+1971	320	Dick Hall	http://www.baseball-reference.com/players/h/halldi01.shtml	halldi01	40	6	BAL	0.5	0.1	6	-0.0	0.0	-0.1	.48	0.0	-0.1	-0.1	-0.0	0.81	-0.1		0
+1971	321	Tom Hall*	http://www.baseball-reference.com/players/h/hallto01.shtml	hallto01	23	36	MIN	-1.8	-0.2	36	-0.1	0.4	-0.5	.84	-0.3	0.1	-2.8	-0.3	1.00	-2.3		0
+1971	322	Tom Haller*	http://www.baseball-reference.com/players/h/halleto01.shtml	halleto01	34	234	LAD	3.4	0.4	240	0.7	4.4	-3.7	1.02	0.0	0.6	4.7	0.5	1.04	1.2	1.85	17
+1971	323	Roger Hambright	http://www.baseball-reference.com/players/h/hambrro01.shtml	hambrro01	22	2	NYY	0.2	0.0	2	0.0	0.0	-0.0	.80	0.1	-0.0	1.1	0.1	1.84	0.6		0
+1971	324	Steve Hamilton*	http://www.baseball-reference.com/players/h/hamilst01.shtml	hamilst01	36	2	SFG	-0.5	-0.1	2	-0.0	0.0	-0.0	1.00	-0.0	0.0	-0.9	-0.1	1.73	-0.5		0
+1971	325	Pete Hamm	http://www.baseball-reference.com/players/h/hammpe01.shtml	hammpe01	23	12	MIN	-0.4	-0.0	12	-0.1	0.1	-0.2	.73	-0.0	-0.1	-1.0	-0.1	0.90	-0.7		0
+1971	326	Rich Hand	http://www.baseball-reference.com/players/h/handri01.shtml	handri01	22	19	CLE	-2.6	-0.3	21	-0.2	0.3	-0.4	1.18	-0.2	0.0	-1.5	-0.1	0.98	-1.7		0
+1971	327	Bill Hands	http://www.baseball-reference.com/players/h/handsbi01.shtml	handsbi01	31	87	CHC	-12.6	-1.4	88	-0.9	0.7	-1.6	.94	-1.2	0.2	-10.6	-1.1	0.95	-12.2		0
+1971	328	Jim Hannan	http://www.baseball-reference.com/players/h/hannaji01.shtml	hannaji01	31	5	TOT	-1.3	-0.1	5	-0.1	0.0	-0.1	.97	-0.1	0.0	-1.5	-0.2	1.16	-1.3		0
+1971	329	Jim Hannan	http://www.baseball-reference.com/players/h/hannaji01.shtml	hannaji01	31	2	DET	-0.5	-0.1	2	-0.0	0.0	-0.0	.95	-0.1	-0.0	-0.5	-0.1	1.03	-0.5		0
+1971	330	Jim Hannan	http://www.baseball-reference.com/players/h/hannaji01.shtml	hannaji01	31	3	MIL	-0.8	-0.1	3	-0.1	0.0	-0.1	.99	-0.1	0.0	-0.9	-0.1	1.24	-0.8		0
+1971	331	Ron Hansen	http://www.baseball-reference.com/players/h/hansero02.shtml	hansero02	33	159	NYY	-9.3	-1.0	160	-1.3	2.3	-3.6	1.16	-0.8	-0.4	-7.7	-0.8	1.05	-8.0	1.75	22
+1971	332	Jim Hardin	http://www.baseball-reference.com/players/h/hardiji01.shtml	hardiji01	27	4	TOT	-1.0	-0.1	4	-0.1	0.0	-0.1	.63	-0.1	0.0	-0.9	-0.1	0.88	-1.0		0
+1971	333	Jim Hardin	http://www.baseball-reference.com/players/h/hardiji01.shtml	hardiji01	27	4	NYY	-1.0	-0.1	4	-0.1	0.0	-0.1	.63	-0.1	0.0	-0.9	-0.1	0.88	-1.0		0
+1971	334	Steve Hargan	http://www.baseball-reference.com/players/h/hargast01.shtml	hargast01	28	33	CLE	-7.3	-0.8	33	-0.8	0.1	-0.8	.96	-0.8	-0.0	-7.4	-0.8	0.84	-8.0		0
+1971	335	Terry Harmon	http://www.baseball-reference.com/players/h/harmote01.shtml	harmote01	27	248	PHI	-14.8	-1.6	260	-0.2	4.2	-4.4	1.08	-0.8	0.6	-5.6	-0.6	0.94	-7.2	2.62	0
+1971	336	Tommy Harper	http://www.baseball-reference.com/players/h/harpeto01.shtml	harpeto01	30	653	MIL	3.9	0.4	705	1.7	12.5	-10.8	1.03	1.2	0.4	13.9	1.5	0.94	12.2	2.15	4
+1971	337	Toby Harrah	http://www.baseball-reference.com/players/h/harrato01.shtml	harrato01	22	428	WSA	-12.3	-1.3	454	-1.0	6.6	-7.7	1.05	-1.1	0.1	-15.8	-1.7	0.97	-13.7	0.27	4
+1971	338	Bud Harrelson#	http://www.baseball-reference.com/players/h/harrebu01.shtml	harrebu01	27	618	NYM	-14.2	-1.5	666	0.9	11.1	-10.3	1.04	-0.8	1.6	-2.3	-0.2	0.94	-8.0		0
+1971	339	Ken Harrelson	http://www.baseball-reference.com/players/h/harreke01.shtml	harreke01	29	187	CLE	-7.4	-0.8	190	-0.1	3.3	-3.3	1.06	-0.4	0.4	-3.2	-0.3	0.96	-2.5	1.35	5
+1971	340	Buddy Harris	http://www.baseball-reference.com/players/h/harribu03.shtml	harribu03	22	2	HOU	-0.5	-0.1	2	-0.0	0.0	-0.0	.37	-0.1	0.0	-0.5	-0.1	0.69	-0.7		0
+1971	341	Chuck Harrison	http://www.baseball-reference.com/players/h/harrich02.shtml	harrich02	30	158	KCR	-7.7	-0.8	160	0.4	2.9	-2.5	1.01	-0.5	0.9	-0.8	-0.1	0.97	-4.9	1.76	11
+1971	342	Jim Ray Hart	http://www.baseball-reference.com/players/h/hartji01.shtml	hartji01	29	45	SFG	0.9	0.1	47	0.3	1.3	-1.0	1.21	0.2	0.1	1.2	0.1	0.92	2.3	1.27	23
+1971	343	Andy Hassler*	http://www.baseball-reference.com/players/h/hasslan01.shtml	hasslan01	19	6	CAL	-1.3	-0.1	6	-0.1	0.0	-0.1	1.07	-0.1	0.0	-1.1	-0.1	0.87	-1.3		0
+1971	344	Hal Haydel	http://www.baseball-reference.com/players/h/haydeha01.shtml	haydeha01	26	3	MIN	-0.1	-0.0	3	0.0	0.0	-0.0	.47	-0.0	0.0	-0.1	-0.0	0.61	-0.1		0
+1971	345	Fran Healy	http://www.baseball-reference.com/players/h/healyfr02.shtml	healyfr02	24	108	SFG	2.6	0.3	111	-0.3	2.0	-2.2	1.15	0.2	-0.4	4.8	0.5	1.01	3.5	2.05	22
+1971	346	Richie Hebner*	http://www.baseball-reference.com/players/h/hebneri01.shtml	hebneri01	23	434	PIT	12.0	1.2	449	1.0	8.8	-7.8	1.02	1.9	-1.0	22.6	2.3	1.00	24.3	1.21	8
+1971	347	Mike Hedlund	http://www.baseball-reference.com/players/h/hedlumi01.shtml	hedlumi01	24	75	KCR	-12.8	-1.4	75	-1.1	0.6	-1.7	1.07	-1.1	0.1	-12.3	-1.3	0.96	-11.9		0
+1971	348	Mike Hegan*	http://www.baseball-reference.com/players/h/heganmi01.shtml	heganmi01	28	216	TOT	0.2	0.0	223	-0.2	3.4	-3.6	1.06	0.3	-0.5	2.3	0.2	0.93	3.6	1.26	21
+1971	349	Mike Hegan*	http://www.baseball-reference.com/players/h/heganmi01.shtml	heganmi01	28	154	MIL	2.3	0.2	160	-0.1	2.2	-2.3	.98	0.4	-0.6	3.9	0.4	0.94	5.2	1.87	5
+1971	350	Mike Hegan*	http://www.baseball-reference.com/players/h/heganmi01.shtml	heganmi01	28	62	OAK	-2.1	-0.2	63	-0.0	1.2	-1.3	1.25	-0.1	0.1	-1.6	-0.2	0.90	-1.6	1.07	16
+1971	351	Jack Heidemann	http://www.baseball-reference.com/players/h/heideja01.shtml	heideja01	21	260	CLE	-21.8	-2.3	265	-1.3	3.1	-4.4	.92	-1.8	0.3	-16.5	-1.7	0.92	-18.5		0
+1971	352	Bob Heise	http://www.baseball-reference.com/players/h/heisebo01.shtml	heisebo01	24	209	TOT	-12.2	-1.3	214	-1.8	2.7	-4.5	1.08	-1.5	-0.2	-14.5	-1.6	0.97	-15.2	1.43	10
+1971	353	Bob Heise	http://www.baseball-reference.com/players/h/heisebo01.shtml	heisebo01	24	11	SFG	-2.9	-0.3	11	-0.4	0.0	-0.4	1.14	-0.3	-0.0	-3.0	-0.3	1.01	-2.9	2.18	5
+1971	354	Bob Heise	http://www.baseball-reference.com/players/h/heisebo01.shtml	heisebo01	24	198	MIL	-9.3	-1.0	203	-1.4	2.7	-4.1	1.07	-1.2	-0.1	-11.5	-1.2	0.97	-12.2	0.68	5
+1971	355	Tommy Helms	http://www.baseball-reference.com/players/h/helmsto01.shtml	helmsto01	30	589	CIN	-15.4	-1.6	597	-1.6	8.5	-10.1	1.01	-1.9	0.3	-16.2	-1.8	0.96	-20.1	2.89	1
+1971	356	Ken Henderson#	http://www.baseball-reference.com/players/h/hendeke01.shtml	hendeke01	25	598	SFG	21.1	2.2	635	2.6	12.3	-9.7	1.07	2.7	-0.2	25.5	2.7	0.99	27.6	0.96	2
+1971	357	George Hendrick	http://www.baseball-reference.com/players/h/hendrge01.shtml	hendrge01	21	121	OAK	-7.0	-0.8	123	-0.2	2.0	-2.2	1.01	-0.5	0.3	-6.7	-0.7	1.00	-6.1	1.22	5
+1971	358	Elrod Hendricks*	http://www.baseball-reference.com/players/h/hendrel01.shtml	hendrel01	30	361	BAL	2.6	0.3	366	-0.1	6.1	-6.2	.97	0.5	-0.6	0.2	0.0	1.04	5.0	1.76	11
+1971	359	Phil Hennigan	http://www.baseball-reference.com/players/h/henniph01.shtml	henniph01	25	10	CLE	-1.0	-0.1	10	-0.0	0.0	-0.1	.38	0.0	-0.1	0.2	0.0	0.86	-0.0		0
+1971	360	Ron Herbel	http://www.baseball-reference.com/players/h/herbero01.shtml	herbero01	33	11	ATL	-2.2	-0.2	11	-0.1	0.0	-0.1	.61	-0.2	0.0	-1.8	-0.2	0.82	-2.2		0
+1971	361	Enzo Hernandez	http://www.baseball-reference.com/players/h/hernaen01.shtml	hernaen01	22	618	SDP	-26.4	-2.8	640	-3.0	7.9	-10.9	1.02	-2.0	-0.9	-20.5	-2.3	0.93	-17.7		0
+1971	362	Jackie Hernandez	http://www.baseball-reference.com/players/h/hernaja01.shtml	hernaja01	30	255	PIT	-14.1	-1.5	259	-0.1	3.6	-3.7	.83	-0.7	0.5	-3.5	-0.4	0.97	-6.3	4.89	1
+1971	363	Ramon Hernandez#	http://www.baseball-reference.com/players/h/hernara01.shtml	hernara01	30	2	PIT	0.2	0.0	2	0.0	0.0	-0.0	.08	0.0	0.0	0.5	0.1	1.13	0.4		0
+1971	364	Ed Herrmann*	http://www.baseball-reference.com/players/h/herrmed01.shtml	herrmed01	24	344	CHW	-4.9	-0.5	350	-0.4	5.1	-5.4	.93	-0.1	-0.3	-3.5	-0.4	0.96	-0.6	2.54	7
+1971	365	Mike Hershberger	http://www.baseball-reference.com/players/h/hershmi01.shtml	hershmi01	31	214	CHW	2.8	0.3	225	-0.3	3.1	-3.4	.96	0.4	-0.7	4.8	0.5	0.96	3.9	1.45	20
+1971	366	Jack Hiatt	http://www.baseball-reference.com/players/h/hiattja01.shtml	hiattja01	28	214	HOU	6.8	0.7	218	0.9	4.6	-3.7	1.18	0.5	0.3	6.8	0.7	0.97	5.3	2.19	7
+1971	367	Jim Hickman	http://www.baseball-reference.com/players/h/hickmji02.shtml	hickmji02	34	444	CHC	6.5	0.7	449	0.7	9.0	-8.3	1.07	1.0	-0.4	4.7	0.5	1.03	9.5	1.50	12
+1971	368	Dennis Higgins	http://www.baseball-reference.com/players/h/higgide01.shtml	higgide01	31	1	STL	-0.3	-0.0	1	0.0	0.0	0.0	.00	0.0		-0.2	-0.0	0.86	-0.2		0
+1971	369	Chuck Hinton	http://www.baseball-reference.com/players/h/hintoch01.shtml	hintoch01	37	167	CLE	-2.2	-0.2	169	0.3	3.5	-3.2	1.12	0.0	0.3	-3.4	-0.3	0.96	-0.6	1.58	43
+1971	370	Rich Hinton*	http://www.baseball-reference.com/players/h/hintori01.shtml	hintori01	24	3	CHW	-0.3	-0.0	4	-0.1	0.0	-0.1	2.91	-0.0	-0.0	-0.5	-0.1	1.37	-0.3	3.23	0
+1971	371	Gene Hiser*	http://www.baseball-reference.com/players/h/hiserge01.shtml	hiserge01	22	34	CHC	-2.4	-0.2	36	-0.0	0.4	-0.4	.80	-0.2	0.2	-1.8	-0.2	0.83	-1.6	0.67	5
+1971	372	Larry Hisle	http://www.baseball-reference.com/players/h/hislela01.shtml	hislela01	24	82	PHI	-5.9	-0.6	84	-0.7	1.2	-2.0	1.26	-0.6	-0.0	-10.0	-1.1	1.11	-6.4	0.78	5
+1971	373	Gomer Hodge#	http://www.baseball-reference.com/players/h/hodgego01.shtml	hodgego01	27	90	CLE	-6.2	-0.7	91	-0.1	2.4	-2.5	1.61	-0.6	0.5	-9.9	-1.0	1.11	-7.1	1.66	68
+1971	374	Joe Hoerner	http://www.baseball-reference.com/players/h/hoernjo01.shtml	hoernjo01	34	10	PHI	-1.9	-0.2	10	-0.2	0.0	-0.2	.59	-0.2	-0.1	-2.6	-0.3	1.07	-2.3		0
+1971	375	Jim Holt*	http://www.baseball-reference.com/players/h/holtji01.shtml	holtji01	27	362	MIN	-14.1	-1.5	374	-0.6	5.8	-6.4	1.03	-0.7	0.2	-1.9	-0.2	0.97	-4.3	1.58	13
+1971	376	Ken Holtzman	http://www.baseball-reference.com/players/h/holtzke01.shtml	holtzke01	25	75	CHC	-9.9	-1.1	75	-1.0	0.6	-1.6	1.02	-0.9	-0.1	-10.7	-1.1	0.98	-9.6		0
+1971	377	Burt Hooton	http://www.baseball-reference.com/players/h/hootobu01.shtml	hootobu01	21	8	CHC	-1.6	-0.2	8	-0.1	0.0	-0.1	.60	-0.1	-0.0	-1.6	-0.2	0.97	-1.5		0
+1971	378	Gail Hopkins*	http://www.baseball-reference.com/players/h/hopkiga01.shtml	hopkiga01	28	339	KCR	11.5	1.2	343	0.9	6.3	-5.5	1.07	1.2	-0.4	15.1	1.6	0.98	14.1	1.82	17
+1971	379	Joe Horlen	http://www.baseball-reference.com/players/h/horlejo01.shtml	horlejo01	33	43	CHW	-7.8	-0.8	43	-0.5	0.1	-0.6	.70	-0.8	0.1	-6.2	-0.7	0.81	-7.8		0
+1971	380	Willie Horton	http://www.baseball-reference.com/players/h/hortowi01.shtml	hortowi01	28	498	DET	18.9	2.0	508	1.8	10.7	-9.0	1.10	1.8	-0.2	19.4	2.0	0.99	20.9	1.07	2
+1971	381	Tim Hosley	http://www.baseball-reference.com/players/h/hosleti01.shtml	hosleti01	24	16	DET	-0.2	-0.0	16	0.1	0.5	-0.3	1.12	-0.1	0.2	0.8	0.1	1.15	-0.8	0.71	4
+1971	382	Ken Hottman	http://www.baseball-reference.com/players/h/hottmke01.shtml	hottmke01	23	17	CHW	-2.5	-0.3	17	-0.1	0.1	-0.2	.79	-0.3	0.1	-2.0	-0.2	0.82	-2.5	0.89	1
+1971	383	Tom House*	http://www.baseball-reference.com/players/h/houseto01.shtml	houseto01	24	5	ATL	0.1	0.0	6	0.0	0.1	-0.0	.54	0.0	0.0	0.8	0.1	0.94	0.4		0
+1971	384	Steve Hovley*	http://www.baseball-reference.com/players/h/hovlest01.shtml	hovlest01	26	36	OAK	-1.5	-0.2	38	-0.1	0.6	-0.7	1.42	-0.2	0.1	-1.1	-0.1	1.02	-1.4	1.87	10
+1971	385	Frank Howard	http://www.baseball-reference.com/players/h/howarfr01.shtml	howarfr01	34	633	WSA	33.1	3.4	640	2.8	13.2	-10.4	1.05	2.9	-0.2	25.0	2.7	0.97	32.5	1.91	5
+1971	386	Larry Howard	http://www.baseball-reference.com/players/h/howarla01.shtml	howarla01	26	68	HOU	-1.7	-0.2	50	0.2	1.1	-1.0	1.12	-0.1	0.3	1.6	0.2	1.07	-0.9	2.04	2
+1971	387	Jim Howarth*	http://www.baseball-reference.com/players/h/howarji01.shtml	howarji01	24	16	SFG	0.2	0.0	16	-0.1	0.2	-0.3	1.06	0.0	-0.1	0.3	0.0	0.90	0.2	1.49	1
+1971	388	Terry Humphrey	http://www.baseball-reference.com/players/h/humphte01.shtml	humphte01	21	26	MON	-2.8	-0.3	26	-0.1	0.2	-0.3	.61	-0.3	0.1	-3.3	-0.4	0.92	-3.1	0.10	1
+1971	389	Randy Hundley	http://www.baseball-reference.com/players/h/hundlra01.shtml	hundlra01	29	21	CHC	-0.3	-0.0	21	0.0	0.3	-0.2	.76	-0.1	0.1	0.3	0.0	0.80	-0.6	2.71	1
+1971	390	Ron Hunt	http://www.baseball-reference.com/players/h/huntro01.shtml	huntro01	30	638	MON	19.4	2.0	655	2.7	11.5	-8.8	.95	2.8	0.0	28.6	3.0	0.91	29.9	0.82	5
+1971	391	Buddy Hunter	http://www.baseball-reference.com/players/h/huntebu01.shtml	huntebu01	23	11	BOS	0.0	0.0	11	0.0	0.2	-0.1	.81	-0.0	0.1	-0.2	-0.0	0.80	-0.1	0.98	1
+1971	392	Catfish Hunter	http://www.baseball-reference.com/players/h/hunteca01.shtml	hunteca01	25	109	OAK	2.0	0.2	112	0.4	2.0	-1.5	.90	0.1	0.4	3.7	0.4	0.97	2.1	4.35	1
+1971	393	Steve Huntz#	http://www.baseball-reference.com/players/h/huntzst01.shtml	huntzst01	25	96	CHW	-4.0	-0.4	98	0.1	1.9	-1.7	1.04	-0.2	0.3	-3.9	-0.4	0.98	-2.3	1.68	12
+1971	394	Mike Ivie	http://www.baseball-reference.com/players/i/iviemi01.shtml	iviemi01	18	19	SDP	2.2	0.2	17	0.3	0.5	-0.2	1.09	0.2	0.1	1.0	0.1	1.05	0.9		0
+1971	395	Grant Jackson#	http://www.baseball-reference.com/players/j/jacksgr01.shtml	jacksgr01	28	24	BAL	-2.7	-0.3	25	0.0	0.5	-0.5	1.07	-0.0	0.1	-2.4	-0.3	1.02	-0.8		0
+1971	396	Mike Jackson*	http://www.baseball-reference.com/players/j/jacksmi01.shtml	jacksmi01	25	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.19	-0.0	-0.0	-0.2	-0.0	0.74	-0.3		0
+1971	397	Reggie Jackson*	http://www.baseball-reference.com/players/j/jacksre01.shtml	jacksre01	25	642	OAK	31.9	3.3	682	3.7	14.5	-10.7	.98	4.4	-0.6	28.5	3.0	0.91	44.1	1.49	5
+1971	398	Sonny Jackson*	http://www.baseball-reference.com/players/j/jacksso01.shtml	jacksso01	26	593	ATL	-20.4	-2.2	607	-0.4	9.4	-9.8	1.02	-1.2	0.8	-15.1	-1.5	0.92	-13.6	1.57	2
+1971	399	Pat Jacquez	http://www.baseball-reference.com/players/j/jacqupa01.shtml	jacqupa01	24	1	CHW	-0.3	-0.0	1	-0.0	0.0	-0.0	.08	-0.0	-0.0	-0.2	-0.0	0.74	-0.3		0
+1971	400	Cleo James	http://www.baseball-reference.com/players/j/jamescl01.shtml	jamescl01	30	172	CHC	-0.4	-0.0	188	0.9	3.7	-2.8	1.07	0.4	0.4	10.1	1.0	0.96	4.8	1.72	3
+1971	401	Gerry Janeski	http://www.baseball-reference.com/players/j/janesje01.shtml	janesje01	25	17	WSA	-1.0	-0.1	17	-0.2	0.1	-0.3	.86	-0.1	-0.1	-1.4	-0.2	0.81	-1.4		0
+1971	402	Pat Jarvis	http://www.baseball-reference.com/players/j/jarvipa01.shtml	jarvipa01	30	53	ATL	-8.4	-0.9	52	-0.6	0.4	-1.0	1.03	-0.7	0.1	-7.8	-0.8	1.09	-7.7		0
+1971	403	Julian Javier	http://www.baseball-reference.com/players/j/javieju01.shtml	javieju01	34	276	STL	-9.4	-1.0	283	-0.7	4.4	-5.1	.99	-0.8	0.1	-4.2	-0.4	1.00	-7.2	1.75	9
+1971	404	Fergie Jenkins	http://www.baseball-reference.com/players/j/jenkife01.shtml	jenkife01	28	132	CHC	-0.4	-0.0	133	-0.3	2.2	-2.5	1.02	0.1	-0.4	-2.6	-0.3	1.02	0.6		0
+1971	405	Garry Jestadt	http://www.baseball-reference.com/players/j/jestaga01.shtml	jestaga01	24	207	TOT	-0.1	-0.0	193	-1.3	2.9	-4.2	1.15	-0.0	-1.1	-5.2	-0.6	1.00	-2.0	0.89	4
+1971	406	Garry Jestadt	http://www.baseball-reference.com/players/j/jestaga01.shtml	jestaga01	24	3	CHC	-0.8	-0.1	3	-0.0	0.0	-0.0	.15	-0.1	0.0	-0.7	-0.1	0.90	-0.8	0.22	2
+1971	407	Garry Jestadt	http://www.baseball-reference.com/players/j/jestaga01.shtml	jestaga01	24	204	SDP	0.7	0.1	190	-1.3	2.9	-4.2	1.17	0.0	-1.1	-4.5	-0.5	1.00	-1.2	1.57	2
+1971	408	Johnny Jeter	http://www.baseball-reference.com/players/j/jeterjo01.shtml	jeterjo01	26	79	SDP	1.6	0.2	68	0.3	1.2	-1.0	1.06	0.4	-0.1	2.0	0.2	0.96	3.2	3.98	1
+1971	409	Tommy John	http://www.baseball-reference.com/players/j/johnto01.shtml	johnto01	28	81	CHW	-10.2	-1.1	81	-1.4	0.3	-1.7	.97	-1.1	-0.4	-11.3	-1.2	0.94	-11.6		0
+1971	410	Alex Johnson	http://www.baseball-reference.com/players/j/johnsal01.shtml	johnsal01	28	261	CAL	-4.8	-0.5	272	-0.6	4.1	-4.7	1.04	-0.5	0.0	1.5	0.2	0.91	-3.5	2.07	5
+1971	411	Bart Johnson	http://www.baseball-reference.com/players/j/johnsba01.shtml	johnsba01	21	61	CHW	-6.5	-0.7	62	-0.1	0.7	-0.8	.82	-0.5	0.4	-3.2	-0.3	1.01	-4.7		0
+1971	412	Bob Johnson*	http://www.baseball-reference.com/players/j/johnsbo03.shtml	johnsbo03	28	60	PIT	-8.0	-0.8	60	-0.9	0.4	-1.3	.98	-0.8	-0.1	-6.6	-0.7	0.92	-7.6		0
+1971	413	Davey Johnson	http://www.baseball-reference.com/players/j/johnsda02.shtml	johnsda02	28	574	BAL	17.1	1.8	589	3.6	12.8	-9.2	1.05	2.1	1.4	23.7	2.5	1.01	21.5	0.03	1
+1971	414	Deron Johnson	http://www.baseball-reference.com/players/j/johnsde01.shtml	johnsde01	32	660	PHI	26.5	2.8	663	2.5	14.9	-12.4	1.16	2.7	-0.5	23.0	2.4	0.99	29.9	0.36	3
+1971	415	Frank Johnson	http://www.baseball-reference.com/players/j/johnsfr03.shtml	johnsfr03	28	53	SFG	-8.6	-0.9	53	-1.6	0.6	-2.2	1.71	-0.8	-0.1	-11.1	-1.2	1.15	-8.9	2.74	21
+1971	416	Jerry Johnson	http://www.baseball-reference.com/players/j/johnsje01.shtml	johnsje01	27	15	SFG	-1.6	-0.2	15	-0.3	0.0	-0.3	1.01	-0.2	-0.1	-2.1	-0.2	0.83	-2.1		0
+1971	417	Jay Johnstone*	http://www.baseball-reference.com/players/j/johnsja01.shtml	johnsja01	25	436	CHW	4.4	0.5	460	0.0	7.3	-7.3	.94	0.5	-0.4	3.1	0.3	0.95	7.3	1.34	10
+1971	418	Cleon Jones	http://www.baseball-reference.com/players/j/jonescl01.shtml	jonescl01	28	568	NYM	29.7	3.1	586	2.6	12.7	-10.1	1.05	3.3	-0.8	25.7	2.7	0.95	34.1	1.46	5
+1971	419	Dalton Jones*	http://www.baseball-reference.com/players/j/jonesda03.shtml	jonesda03	27	148	DET	-1.7	-0.2	155	-0.5	2.5	-3.1	1.17	0.1	-0.6	-1.7	-0.2	1.00	1.4	1.76	45
+1971	420	Gary Jones*	http://www.baseball-reference.com/players/j/jonesga01.shtml	jonesga01	26	1	NYY	-0.2	-0.0	1	-0.0	0.0	-0.0	.86	-0.0	-0.0	-0.2	-0.0	0.86	-0.2		0
+1971	421	Mack Jones*	http://www.baseball-reference.com/players/j/jonesma01.shtml	jonesma01	32	108	MON	-3.4	-0.4	112	-0.6	1.7	-2.2	1.07	-0.3	-0.2	-4.6	-0.5	1.02	-1.6	1.34	16
+1971	422	Mike Jorgensen*	http://www.baseball-reference.com/players/j/jorgemi01.shtml	jorgemi01	22	132	NYM	-1.6	-0.2	135	-0.1	2.0	-2.1	.93	-0.2	0.1	-6.0	-0.6	0.95	-2.9	0.99	13
+1971	423	Duane Josephson	http://www.baseball-reference.com/players/j/josepdu01.shtml	josepdu01	29	331	BOS	-6.1	-0.6	338	-0.3	5.9	-6.2	1.00	-0.5	0.3	0.4	0.0	0.95	-5.7	3.00	5
+1971	424	Von Joshua*	http://www.baseball-reference.com/players/j/joshuvo01.shtml	joshuvo01	23	7	LAD	-1.8	-0.2	7	-0.0	0.1	-0.1	.56	-0.0	0.0	-0.2	-0.0	0.93	-0.5	0.79	5
+1971	425	Jim Kaat*	http://www.baseball-reference.com/players/k/kaatji01.shtml	kaatji01	32	102	MIN	-12.1	-1.3	105	-1.0	1.0	-2.0	.97	-1.0	-0.0	-13.1	-1.4	1.04	-11.3	0.66	3
+1971	426	Al Kaline	http://www.baseball-reference.com/players/k/kalinal01.shtml	kalinal01	36	501	DET	29.3	3.0	514	2.7	10.2	-7.5	.98	2.9	-0.2	33.3	3.4	0.93	33.9	1.57	12
+1971	427	Steve Kealey	http://www.baseball-reference.com/players/k/kealest01.shtml	kealest01	24	11	CHW	-0.3	-0.0	12	-0.1	0.1	-0.2	.77	-0.1	-0.1	0.3	0.0	1.15	-0.4		0
+1971	428	Mike Kekich	http://www.baseball-reference.com/players/k/kekicmi01.shtml	kekicmi01	26	62	NYY	-6.8	-0.7	62	-0.6	0.5	-1.1	.98	-0.9	0.2	-5.9	-0.6	0.98	-8.4		0
+1971	429	Dick Kelley	http://www.baseball-reference.com/players/k/kelledi01.shtml	kelledi01	31	3	SDP	-0.0	0.0	4	-0.1	0.0	-0.1	.62	0.0	-0.1	0.1	0.0	1.02	0.1		0
+1971	430	Tom Kelley	http://www.baseball-reference.com/players/k/kelleto01.shtml	kelleto01	27	45	ATL	-10.2	-1.1	42	-0.7	0.1	-0.9	.89	-1.0	0.1	-8.4	-0.9	0.87	-9.5		0
+1971	431	Pat Kelly*	http://www.baseball-reference.com/players/k/kellypa01.shtml	kellypa01	26	252	CHW	7.3	0.8	279	2.3	5.6	-3.3	.93	1.0	1.5	16.1	1.7	0.91	11.8	1.85	7
+1971	432	Fred Kendall	http://www.baseball-reference.com/players/k/kendafr01.shtml	kendafr01	22	120	SDP	-10.8	-1.1	108	-0.6	1.5	-2.1	1.07	-0.5	-0.1	-6.3	-0.7	0.95	-5.0	0.73	5
+1971	433	John Kennedy	http://www.baseball-reference.com/players/k/kennejo03.shtml	kennejo03	30	296	BOS	-1.3	-0.1	300	0.4	5.4	-5.0	.99	0.4	-0.0	0.8	0.1	0.93	1.2	0.14	2
+1971	434	Jerry Kenney*	http://www.baseball-reference.com/players/k/kenneje01.shtml	kenneje01	26	395	NYY	3.4	0.4	423	-0.2	6.2	-6.4	1.00	0.3	-0.5	4.3	0.5	0.92	5.4	1.87	4
+1971	435	Joe Keough*	http://www.baseball-reference.com/players/k/keougjo01.shtml	keougjo01	25	392	KCR	-7.0	-0.7	403	-1.1	5.4	-6.5	.94	-0.5	-0.7	-6.4	-0.7	0.98	-4.4	2.29	10
+1971	436	Don Kessinger#	http://www.baseball-reference.com/players/k/kessido01.shtml	kessido01	28	687	CHC	-24.6	-2.6	718	-0.3	10.6	-10.8	.97	-1.8	1.5	-12.5	-1.2	0.93	-18.3	0.94	2
+1971	437	Mike Kilkenny	http://www.baseball-reference.com/players/k/kilkemi01.shtml	kilkemi01	26	25	DET	-5.0	-0.5	25	-0.3	0.1	-0.4	.87	-0.4	0.1	-2.6	-0.3	0.81	-4.2		0
+1971	438	Harmon Killebrew	http://www.baseball-reference.com/players/k/killeha01.shtml	killeha01	35	624	MIN	30.5	3.2	633	3.2	14.2	-10.9	1.12	2.7	0.2	43.2	4.4	1.02	37.3	3.03	4
+1971	439	Hal King*	http://www.baseball-reference.com/players/k/kingha01.shtml	kingha01	27	233	ATL	-4.6	-0.5	230	-1.0	4.0	-5.0	1.15	-0.9	0.1	-8.8	-0.9	1.01	-8.2	2.07	24
+1971	440	Dave Kingman	http://www.baseball-reference.com/players/k/kingmda01.shtml	kingmda01	22	128	SFG	7.1	0.7	134	1.2	3.1	-1.8	1.00	0.8	0.4	9.3	1.0	0.97	10.3	1.50	8
+1971	441	Clay Kirby	http://www.baseball-reference.com/players/k/kirbycl01.shtml	kirbycl01	23	97	SDP	-14.0	-1.5	92	-1.2	0.7	-1.9	1.03	-1.3	0.1	-11.9	-1.3	0.98	-12.5		0
+1971	442	Ed Kirkpatrick*	http://www.baseball-reference.com/players/k/kirkped01.shtml	kirkped01	26	423	KCR	-6.9	-0.7	432	-0.8	6.1	-6.9	.94	-0.9	0.0	-8.3	-0.9	0.95	-6.9	0.93	9
+1971	443	Bruce Kison	http://www.baseball-reference.com/players/k/kisonbr01.shtml	kisonbr01	21	34	PIT	-5.7	-0.6	34	-0.5	0.2	-0.6	.78	-0.5	-0.1	-5.6	-0.6	0.98	-4.9		0
+1971	444	Ron Klimkowski	http://www.baseball-reference.com/players/k/klimkro01.shtml	klimkro01	27	6	OAK	0.5	0.0	6	-0.0	0.1	-0.1	1.66	0.0	-0.1	0.5	0.1	1.05	0.5		0
+1971	445	Steve Kline	http://www.baseball-reference.com/players/k/klinest01.shtml	klinest01	23	75	NYY	-8.6	-0.9	76	-0.7	0.6	-1.3	.88	-0.9	0.1	-7.6	-0.8	0.90	-8.9		0
+1971	446	Bobby Knoop	http://www.baseball-reference.com/players/k/knoopbo01.shtml	knoopbo01	32	180	KCR	-8.5	-0.9	183	-0.5	2.6	-3.1	1.02	-0.7	0.2	-4.3	-0.5	0.90	-6.1	1.67	16
+1971	447	Darold Knowles*	http://www.baseball-reference.com/players/k/knowlda01.shtml	knowlda01	29	10	TOT	-1.9	-0.2	10	-0.2	0.0	-0.2	.85	-0.2	-0.0	-1.7	-0.2	0.86	-1.7		0
+1971	448	Darold Knowles*	http://www.baseball-reference.com/players/k/knowlda01.shtml	knowlda01	29	2	WSA	-0.5	-0.1	2	-0.1	0.0	-0.1	1.25	-0.1	-0.0	-0.6	-0.1	1.23	-0.5		0
+1971	449	Darold Knowles*	http://www.baseball-reference.com/players/k/knowlda01.shtml	knowlda01	29	8	OAK	-1.4	-0.1	8	-0.1	0.0	-0.1	.75	-0.1	-0.0	-1.0	-0.1	0.76	-1.2		0
+1971	450	Pete Koegel	http://www.baseball-reference.com/players/k/koegepe01.shtml	koegepe01	23	33	TOT	-1.5	-0.2	33	-0.2	0.7	-0.8	1.57	-0.2	0.1	-1.4	-0.2	1.13	-2.1	1.61	4
+1971	451	Pete Koegel	http://www.baseball-reference.com/players/k/koegepe01.shtml	koegepe01	23	5	MIL	-0.1	-0.0	5	-0.1	0.0	-0.1	1.26	-0.0	-0.0	-0.5	-0.1	1.03	-0.3	0.56	1
+1971	452	Pete Koegel	http://www.baseball-reference.com/players/k/koegepe01.shtml	koegepe01	23	28	PHI	-1.4	-0.2	28	-0.1	0.6	-0.7	1.62	-0.2	0.1	-1.0	-0.1	1.15	-1.8	1.96	3
+1971	453	Cal Koonce	http://www.baseball-reference.com/players/k/kooncca01.shtml	kooncca01	30	2	BOS	0.0	0.0	2	0.0	0.0	0.0	1.10	0.0	0.0	0.1	0.0	1.04	-0.1		0
+1971	454	Jerry Koosman	http://www.baseball-reference.com/players/k/koosmje01.shtml	koosmje01	28	60	NYM	-5.9	-0.6	62	-0.6	0.6	-1.2	1.09	-0.8	0.2	-9.0	-1.0	1.05	-7.3		0
+1971	455	Andy Kosco	http://www.baseball-reference.com/players/k/koscoan01.shtml	koscoan01	29	290	MIL	-4.5	-0.5	297	-0.5	5.3	-5.8	1.12	-0.1	-0.3	-2.6	-0.3	0.98	0.6	2.19	29
+1971	456	Ed Kranepool*	http://www.baseball-reference.com/players/k/kraneed01.shtml	kraneed01	26	467	NYM	12.2	1.3	477	0.7	8.8	-8.1	1.08	1.4	-0.8	16.2	1.7	1.00	17.4	1.85	8
+1971	457	Lew Krausse	http://www.baseball-reference.com/players/k/krausle02.shtml	krausle02	28	53	MIL	-9.5	-1.0	53	-0.7	0.3	-1.0	.94	-0.7	-0.1	-6.7	-0.7	0.96	-7.4		0
+1971	458	Ted Kubiak#	http://www.baseball-reference.com/players/k/kubiate01.shtml	kubiate01	29	395	TOT	-2.8	-0.3	408	-0.9	6.4	-7.3	1.14	-0.2	-0.6	-4.3	-0.5	1.00	-2.0	1.84	13
+1971	459	Ted Kubiak#	http://www.baseball-reference.com/players/k/kubiate01.shtml	kubiate01	29	311	MIL	-3.4	-0.4	319	-0.8	4.9	-5.7	1.13	-0.2	-0.5	-7.2	-0.8	1.00	-3.7	1.83	6
+1971	460	Ted Kubiak#	http://www.baseball-reference.com/players/k/kubiate01.shtml	kubiate01	29	84	STL	0.7	0.1	89	-0.1	1.5	-1.6	1.18	0.1	-0.1	3.0	0.3	1.00	1.7	1.86	7
+1971	461	Art Kusnyer	http://www.baseball-reference.com/players/k/kusnyar01.shtml	kusnyar01	25	13	CAL	-1.8	-0.2	13	-0.2	0.2	-0.4	1.31	-0.2	0.0	-2.6	-0.3	1.04	-1.9		0
+1971	462	Tony La Russa	http://www.baseball-reference.com/players/l/larusto01.shtml	larusto01	26	16	TOT	-2.2	-0.2	17	-0.1	0.1	-0.2	.71	-0.2	0.1	-2.2	-0.2	0.83	-2.8	0.58	6
+1971	463	Tony La Russa	http://www.baseball-reference.com/players/l/larusto01.shtml	larusto01	26	8	OAK	-2.1	-0.2	9	-0.1	0.0	-0.1	.61	-0.2	-0.0	-0.8	-0.1	0.78	-1.5	0.58	6
+1971	464	Tony La Russa	http://www.baseball-reference.com/players/l/larusto01.shtml	larusto01	26	8	ATL	-0.1	-0.0	8	-0.0	0.1	-0.1	.83	-0.1	0.1	-1.4	-0.1	0.89	-1.3		0
+1971	465	Coco Laboy	http://www.baseball-reference.com/players/l/laboyco01.shtml	laboyco01	30	162	MON	-5.7	-0.6	162	-0.4	2.2	-2.6	.94	-0.4	-0.0	-4.4	-0.5	0.94	-5.1	0.92	14
+1971	466	Joe Lahoud*	http://www.baseball-reference.com/players/l/lahoujo01.shtml	lahoujo01	24	301	BOS	2.9	0.3	310	-0.4	4.9	-5.3	.98	0.7	-1.0	4.0	0.4	0.92	6.4	1.42	29
+1971	467	John Lamb	http://www.baseball-reference.com/players/l/lambjo01.shtml	lambjo01	24	1	PIT	-0.3	-0.0	1	-0.0	0.0	-0.0	1.65	-0.0	0.0	-0.1	-0.0	0.60	-0.2		0
+1971	468	Ray Lamb	http://www.baseball-reference.com/players/l/lambra01.shtml	lambra01	26	49	CLE	-8.2	-0.9	50	-0.8	0.2	-0.9	.81	-0.8	-0.2	-10.5	-1.1	1.02	-8.7		0
+1971	469	Gene Lamont*	http://www.baseball-reference.com/players/l/lamonge01.shtml	lamonge01	24	15	DET	-3.3	-0.4	15	-0.2	0.1	-0.2	.87	-0.2	0.1	-2.5	-0.3	0.98	-2.8		0
+1971	470	Marv Lane	http://www.baseball-reference.com/players/l/lanema01.shtml	lanema01	21	15	DET	-2.0	-0.2	16	-0.2	0.0	-0.2	.58	-0.2	-0.1	-2.2	-0.2	0.82	-2.2	0.15	2
+1971	471	Hal Lanier	http://www.baseball-reference.com/players/l/lanieha01.shtml	lanieha01	28	227	SFG	-10.0	-1.0	229	-0.9	3.2	-4.1	1.02	-1.2	0.3	-11.5	-1.2	1.03	-9.9	1.77	3
+1971	472	Rimp Lanier*	http://www.baseball-reference.com/players/l/lanieri01.shtml	lanieri01	22	5	PIT	-0.7	-0.1	5	-0.0	0.0	-0.1	.72	-0.1	0.0	-0.2	-0.0	0.62	-0.5	0.72	4
+1971	473	Dave LaRoche*	http://www.baseball-reference.com/players/l/larocda01.shtml	larocda01	23	13	CAL	-1.7	-0.2	13	-0.1	0.1	-0.2	.74	-0.2	0.0	-1.7	-0.2	0.81	-1.9		0
+1971	474	Bill Lee*	http://www.baseball-reference.com/players/l/leebi03.shtml	leebi03	24	27	BOS	-2.3	-0.2	27	-0.2	0.2	-0.4	.80	-0.2	0.0	-1.3	-0.1	0.86	-2.1		0
+1971	475	Leron Lee*	http://www.baseball-reference.com/players/l/leele02.shtml	leele02	23	307	TOT	3.2	0.3	311	0.7	6.2	-5.4	1.12	-0.0	0.7	1.0	0.1	0.93	-1.5	1.61	26
+1971	476	Leron Lee*	http://www.baseball-reference.com/players/l/leele02.shtml	leele02	23	32	STL	-1.2	-0.1	33	0.1	0.7	-0.5	.99	-0.0	0.2	-2.5	-0.3	0.98	-1.6	1.50	17
+1971	477	Leron Lee*	http://www.baseball-reference.com/players/l/leele02.shtml	leele02	23	275	SDP	4.4	0.5	278	0.6	5.5	-4.9	1.13	0.0	0.5	3.5	0.4	0.92	0.1	1.82	9
+1971	478	Jim Lefebvre#	http://www.baseball-reference.com/players/l/lefebji01.shtml	lefebji01	29	437	LAD	1.5	0.2	440	-0.1	8.3	-8.4	1.10	0.3	-0.4	10.1	1.1	1.05	5.8	2.13	15
+1971	479	Denny Lemaster	http://www.baseball-reference.com/players/l/lemasde01.shtml	lemasde01	32	7	HOU	-0.8	-0.1	7	-0.0	0.0	-0.0	.40	-0.1	0.0	-0.9	-0.1	0.74	-1.0		0
+1971	480	Eddie Leon	http://www.baseball-reference.com/players/l/leoned01.shtml	leoned01	24	476	CLE	-14.6	-1.6	486	-2.5	6.6	-9.1	1.02	-1.7	-0.8	-12.8	-1.3	0.96	-14.7	2.30	3
+1971	481	Dave Leonhard	http://www.baseball-reference.com/players/l/leonhda01.shtml	leonhda01	30	19	BAL	-1.1	-0.1	19	-0.1	0.1	-0.2	.60	-0.1	-0.0	-1.2	-0.1	0.81	-1.2		0
+1971	482	Barry Lersch#	http://www.baseball-reference.com/players/l/lerscba01.shtml	lerscba01	26	73	PHI	-5.2	-0.6	73	-0.6	0.6	-1.3	1.01	-0.5	-0.2	-5.2	-0.6	0.96	-4.6		0
+1971	483	Paul Lindblad*	http://www.baseball-reference.com/players/l/lindbpa01.shtml	lindbpa01	29	22	TOT	-2.0	-0.2	23	-0.2	0.2	-0.5	.98	-0.1	-0.1	-1.7	-0.2	0.83	-1.3		0
+1971	484	Paul Lindblad*	http://www.baseball-reference.com/players/l/lindbpa01.shtml	lindbpa01	29	3	OAK	-0.1	-0.0	3	-0.0	0.0	-0.1	.78	-0.0	-0.0	-0.1	-0.0	0.45	-0.2		0
+1971	485	Paul Lindblad*	http://www.baseball-reference.com/players/l/lindbpa01.shtml	lindbpa01	29	19	WSA	-1.9	-0.2	20	-0.2	0.2	-0.4	1.01	-0.1	-0.1	-1.6	-0.2	0.89	-1.2		0
+1971	486	Frank Linzy	http://www.baseball-reference.com/players/l/linzyfr01.shtml	linzyfr01	30	4	STL	0.4	0.0	5	-0.0	0.0	-0.1	.57	0.0	-0.1	0.4	0.0	0.69	0.4		0
+1971	487	Joe Lis	http://www.baseball-reference.com/players/l/lisjo01.shtml	lisjo01	24	144	PHI	0.4	0.0	145	-0.6	2.0	-2.6	1.00	0.3	-0.9	-1.2	-0.1	0.87	1.4	1.05	22
+1971	488	Bob Locker#	http://www.baseball-reference.com/players/l/lockebo02.shtml	lockebo02	33	7	OAK	-1.2	-0.1	7	-0.0	0.0	-0.1	.69	-0.0	-0.0	-0.1	-0.0	0.74	-0.3		0
+1971	489	Skip Lockwood	http://www.baseball-reference.com/players/l/lockwsk01.shtml	lockwsk01	24	77	MIL	-9.6	-1.0	77	-0.8	0.8	-1.5	1.14	-0.8	0.1	-8.4	-0.9	1.03	-8.8		0
+1971	490	Mickey Lolich#	http://www.baseball-reference.com/players/l/lolicmi01.shtml	lolicmi01	30	148	DET	-13.8	-1.5	149	-1.2	1.5	-2.6	.94	-1.4	0.1	-13.4	-1.4	0.98	-13.8		0
+1971	491	Ron Lolich	http://www.baseball-reference.com/players/l/lolicro01.shtml	lolicro01	24	8	CHW	-1.0	-0.1	8	-0.1	0.0	-0.1	.73	-0.2	0.0	-1.6	-0.2	0.87	-1.8		0
+1971	492	Jim Lonborg	http://www.baseball-reference.com/players/l/lonboji01.shtml	lonboji01	29	59	BOS	-6.6	-0.7	59	-0.4	0.4	-0.8	.72	-0.5	0.0	-5.9	-0.6	0.89	-5.4		0
+1971	493	Marcelino Lopez	http://www.baseball-reference.com/players/l/lopezma01.shtml	lopezma01	27	18	MIL	-3.7	-0.4	18	0.0	0.4	-0.3	.99	-0.2	0.3	-0.5	-0.1	0.89	-2.2		0
+1971	494	John Lowenstein*	http://www.baseball-reference.com/players/l/lowenjo01.shtml	lowenjo01	24	159	CLE	-8.5	-0.9	165	-0.2	2.3	-2.6	.93	-0.7	0.4	-6.0	-0.6	0.90	-7.2	0.79	9
+1971	495	Steve Luebber	http://www.baseball-reference.com/players/l/luebbst01.shtml	luebbst01	21	21	MIN	-4.4	-0.5	21	-0.4	0.0	-0.5	.99	-0.4	-0.1	-4.3	-0.4	1.11	-4.0		0
+1971	496	Mike Lum*	http://www.baseball-reference.com/players/l/lummi01.shtml	lummi01	25	512	ATL	1.7	0.2	510	1.5	10.4	-8.9	1.13	0.7	0.6	11.3	1.2	0.99	8.3	2.25	14
+1971	497	Greg Luzinski	http://www.baseball-reference.com/players/l/luzingr01.shtml	luzingr01	20	115	PHI	6.1	0.6	117	0.3	3.1	-2.7	1.36	0.5	-0.3	3.7	0.4	1.04	5.3		0
+1971	498	Sparky Lyle*	http://www.baseball-reference.com/players/l/lylesp01.shtml	lylesp01	26	4	BOS	1.4	0.2	4	0.0	0.0	-0.0	.44	0.1	-0.1	0.7	0.1	0.90	0.9		0
+1971	499	Jim Lyttle*	http://www.baseball-reference.com/players/l/lyttlji01.shtml	lyttlji01	25	97	NYY	-3.8	-0.4	98	-0.3	1.4	-1.6	.99	-0.4	0.2	-1.4	-0.2	0.98	-2.7	0.81	15
+1971	500	Chuck Machemehl	http://www.baseball-reference.com/players/m/machech01.shtml	machech01	25	2	CLE	0.2	0.0	2	0.0	0.0	-0.0	.65	0.0	0.0	0.3	0.0	0.62	0.2		0
+1971	501	Elliott Maddox	http://www.baseball-reference.com/players/m/maddoel01.shtml	maddoel01	23	312	WSA	-2.7	-0.3	332	0.4	6.0	-5.6	1.09	0.1	0.3	-1.0	-0.1	0.99	0.4	1.20	19
+1971	502	Jim Magnuson	http://www.baseball-reference.com/players/m/magnuji01.shtml	magnuji01	24	4	CHW	-1.1	-0.1	4	-0.2	0.0	-0.2	1.66	-0.1	-0.0	-1.4	-0.1	1.38	-1.0		0
+1971	503	Jim Maloney*	http://www.baseball-reference.com/players/m/malonji01.shtml	malonji01	31	5	CAL	-0.5	-0.1	5	-0.0	0.0	-0.1	.92	-0.1	0.0	-0.4	-0.0	0.74	-0.6		0
+1971	504	Angel Mangual	http://www.baseball-reference.com/players/m/manguan01.shtml	manguan01	24	307	OAK	-2.1	-0.2	318	-0.4	5.0	-5.3	.99	-0.3	-0.0	2.2	0.2	1.00	-1.0	1.72	14
+1971	505	Charlie Manuel*	http://www.baseball-reference.com/players/m/manuech01.shtml	manuech01	27	17	MIN	-2.1	-0.2	17	-0.2	0.3	-0.4	1.40	-0.2	0.1	-1.9	-0.2	1.06	-1.7	1.40	16
+1971	506	Juan Marichal	http://www.baseball-reference.com/players/m/maricju01.shtml	maricju01	33	114	SFG	-12.9	-1.4	114	-1.4	1.0	-2.4	.93	-1.3	-0.3	-11.6	-1.2	0.98	-12.7		0
+1971	507	Dave Marshall*	http://www.baseball-reference.com/players/m/marshda01.shtml	marshda01	28	250	NYM	-2.5	-0.3	256	-0.1	3.9	-3.9	.98	-0.3	0.2	-2.1	-0.2	0.94	-3.0	1.35	36
+1971	508	Mike Marshall	http://www.baseball-reference.com/players/m/marshmi01.shtml	marshmi01	28	20	MON	-1.3	-0.1	20	-0.1	0.3	-0.4	1.29	-0.1	0.1	-0.7	-0.1	1.20	-0.5		0
+1971	509	J.C. Martin*	http://www.baseball-reference.com/players/m/martij.01.shtml	martij.01	34	142	CHC	-2.2	-0.2	146	0.2	2.5	-2.3	1.07	-0.2	0.4	3.1	0.3	0.98	-1.0	0.94	4
+1971	510	Buck Martinez	http://www.baseball-reference.com/players/m/martibu01.shtml	martibu01	22	53	KCR	-4.5	-0.5	54	-0.4	0.6	-1.0	.93	-0.5	0.1	-3.9	-0.4	0.94	-4.9	0.27	1
+1971	511	Marty Martinez#	http://www.baseball-reference.com/players/m/martima01.shtml	martima01	29	65	HOU	-1.7	-0.2	57	-0.7	0.6	-1.3	.99	-0.3	-0.3	-4.6	-0.5	0.98	-3.1	1.28	12
+1971	512	Ted Martinez	http://www.baseball-reference.com/players/m/martite01.shtml	martite01	23	135	NYM	-0.0	0.0	145	-0.4	1.6	-2.0	.86	0.0	-0.5	4.3	0.5	0.93	0.9	0.32	1
+1971	513	Clyde Mashore	http://www.baseball-reference.com/players/m/mashocl01.shtml	mashocl01	26	126	MON	-7.7	-0.8	130	-0.0	2.0	-2.0	.95	-0.8	0.7	-6.9	-0.7	0.96	-6.9	0.71	12
+1971	514	Don Mason*	http://www.baseball-reference.com/players/m/masondo01.shtml	masondo01	26	377	SDP	-18.2	-1.9	366	-3.4	4.2	-7.6	1.09	-2.0	-1.1	-26.0	-2.9	0.93	-21.7	1.58	16
+1971	515	Jim Mason*	http://www.baseball-reference.com/players/m/masonji01.shtml	masonji01	20	10	WSA	0.2	0.0	10	0.0	0.2	-0.1	.89	0.1	-0.1	0.5	0.1	0.88	1.0		0
+1971	516	Tommy Matchick*	http://www.baseball-reference.com/players/m/matchto01.shtml	matchto01	27	122	MIL	-7.9	-0.8	128	-1.4	1.3	-2.6	1.02	-0.7	-0.6	-9.3	-1.0	0.98	-7.7	1.27	0
+1971	517	Jon Matlack*	http://www.baseball-reference.com/players/m/matlajo01.shtml	matlajo01	21	12	NYM	-0.3	-0.0	12	-0.1	0.0	-0.1	.67	-0.1	-0.1	-0.5	-0.0	0.69	-0.7		0
+1971	518	Dal Maxvill	http://www.baseball-reference.com/players/m/maxvida01.shtml	maxvida01	32	408	STL	-18.1	-1.9	415	-1.8	5.0	-6.8	.90	-1.5	-0.4	-19.4	-2.0	0.98	-16.1	2.07	1
+1971	519	Carlos May*	http://www.baseball-reference.com/players/m/mayca01.shtml	mayca01	23	574	CHW	14.7	1.5	601	1.3	10.9	-9.6	1.02	1.5	-0.2	21.5	2.2	0.95	14.0	2.38	5
+1971	520	Dave May*	http://www.baseball-reference.com/players/m/mayda01.shtml	mayda01	27	562	MIL	12.4	1.3	596	2.1	11.5	-9.4	1.06	2.1	-0.1	23.6	2.5	0.98	23.1	1.54	3
+1971	521	Jerry May	http://www.baseball-reference.com/players/m/mayje01.shtml	mayje01	27	249	KCR	-0.8	-0.1	251	0.4	4.1	-3.6	.93	-0.2	0.7	3.3	0.4	1.01	0.4	2.37	2
+1971	522	Lee May	http://www.baseball-reference.com/players/m/mayle01.shtml	mayle01	28	602	CIN	30.1	3.1	611	3.8	13.5	-9.7	1.01	4.5	-0.8	44.1	4.7	0.93	47.2	2.51	4
+1971	523	Milt May*	http://www.baseball-reference.com/players/m/maymi01.shtml	maymi01	20	137	PIT	1.1	0.1	137	-0.5	1.9	-2.4	1.01	0.3	-0.8	1.6	0.2	1.04	2.8	1.70	17
+1971	524	Rudy May*	http://www.baseball-reference.com/players/m/mayru01.shtml	mayru01	26	74	CAL	-8.3	-0.9	74	-0.7	0.7	-1.4	.94	-0.9	0.1	-7.5	-0.8	0.92	-8.1		0
+1971	525	John Mayberry*	http://www.baseball-reference.com/players/m/maybejo01.shtml	maybejo01	22	154	HOU	-5.3	-0.6	148	-0.7	2.2	-2.9	1.12	-0.4	-0.3	-7.3	-0.8	0.92	-2.0	1.52	10
+1971	526	Lee Maye*	http://www.baseball-reference.com/players/m/mayele01.shtml	mayele01	36	50	CHW	-1.8	-0.2	51	-0.1	1.1	-1.2	1.31	-0.2	0.1	-3.9	-0.4	1.06	-2.4	1.15	17
+1971	527	Willie Mays	http://www.baseball-reference.com/players/m/mayswi01.shtml	mayswi01	40	537	SFG	40.0	4.1	571	6.1	14.0	-7.9	1.09	4.6	1.0	41.6	4.3	0.96	47.7	1.91	15
+1971	528	Bill Mazeroski	http://www.baseball-reference.com/players/m/mazerbi01.shtml	mazerbi01	34	213	PIT	-7.8	-0.8	215	-0.4	3.0	-3.5	.99	-0.6	0.2	-1.1	-0.1	0.93	-6.4	1.49	20
+1971	529	Ernie McAnally	http://www.baseball-reference.com/players/m/mcanaer01.shtml	mcanaer01	24	65	MON	-9.4	-1.0	66	-0.6	0.4	-1.1	.86	-0.9	0.1	-7.6	-0.8	0.93	-8.6		0
+1971	530	Jim McAndrew	http://www.baseball-reference.com/players/m/mcandji01.shtml	mcandji01	27	25	NYM	-4.6	-0.5	25	-0.5	0.1	-0.5	.93	-0.5	-0.1	-4.9	-0.5	0.93	-4.6		0
+1971	531	Dick McAuliffe*	http://www.baseball-reference.com/players/m/mcauldi01.shtml	mcauldi01	31	537	DET	-11.0	-1.2	550	1.0	9.9	-8.9	.97	0.1	0.9	3.8	0.4	0.94	1.1	1.14	4
+1971	532	Tim McCarver*	http://www.baseball-reference.com/players/m/mccarti01.shtml	mccarti01	29	525	PHI	4.1	0.4	536	1.2	10.8	-9.6	1.18	0.6	0.4	11.9	1.2	0.96	8.3	2.60	14
+1971	533	Mike McCormick*	http://www.baseball-reference.com/players/m/mccormi03.shtml	mccormi03	32	2	KCR	-0.5	-0.1	2	-0.0	0.0	-0.0	.59	-0.1	0.0	-0.3	-0.0	0.73	-0.5		0
+1971	534	Willie McCovey*	http://www.baseball-reference.com/players/m/mccovwi01.shtml	mccovwi01	33	402	SFG	24.5	2.5	408	3.9	9.8	-5.9	1.08	2.2	1.4	33.9	3.5	1.00	26.7	1.83	8
+1971	535	Tommy McCraw*	http://www.baseball-reference.com/players/m/mccrato01.shtml	mccrato01	30	234	WSA	-1.6	-0.2	247	0.2	4.7	-4.5	1.13	-0.2	0.4	1.0	0.1	1.02	-1.9	1.54	40
+1971	536	Lindy McDaniel	http://www.baseball-reference.com/players/m/mcdanli01.shtml	mcdanli01	35	10	NYY	-1.6	-0.2	10	-0.1	0.1	-0.2	1.50	-0.1	0.0	0.0	0.0	1.00	-0.7		0
+1971	537	Dave McDonald*	http://www.baseball-reference.com/players/m/mcdonda01.shtml	mcdonda01	28	45	MON	-4.3	-0.5	45	0.0	1.0	-0.9	1.21	-0.1	0.1	-2.2	-0.2	1.06	-1.6	1.20	17
+1971	538	Sam McDowell*	http://www.baseball-reference.com/players/m/mcdowsa01.shtml	mcdowsa01	28	80	CLE	-10.2	-1.1	80	-1.0	0.7	-1.7	1.04	-0.8	-0.1	-9.0	-0.9	0.97	-9.4		0
+1971	539	Dan McGinn*	http://www.baseball-reference.com/players/m/mcginda01.shtml	mcginda01	27	17	MON	-1.5	-0.2	18	0.0	0.3	-0.2	.80	-0.1	0.1	-0.2	-0.0	0.79	-0.9		0
+1971	540	Jim McGlothlin	http://www.baseball-reference.com/players/m/mcgloji01.shtml	mcgloji01	27	56	CIN	-5.6	-0.6	58	-0.6	0.5	-1.1	.97	-0.5	-0.1	-5.4	-0.6	0.91	-5.5		0
+1971	541	Tug McGraw	http://www.baseball-reference.com/players/m/mcgratu01.shtml	mcgratu01	26	20	NYM	-0.1	-0.0	21	-0.0	0.3	-0.3	1.21	0.0	-0.0	-0.3	-0.0	0.95	0.4		0
+1971	542	Rich McKinney	http://www.baseball-reference.com/players/m/mckinri01.shtml	mckinri01	24	414	CHW	-0.6	-0.1	417	0.2	7.9	-7.7	1.09	0.2	0.1	-5.2	-0.5	0.97	-0.0	2.77	19
+1971	543	Denny McLain	http://www.baseball-reference.com/players/m/mclaide01.shtml	mclaide01	27	71	WSA	-8.1	-0.9	71	-0.8	0.7	-1.5	1.12	-0.8	0.1	-5.0	-0.6	0.97	-7.7		0
+1971	544	Don McMahon	http://www.baseball-reference.com/players/m/mcmahdo02.shtml	mcmahdo02	41	8	SFG	-1.8	-0.2	8	-0.1	0.0	-0.1	.71	-0.2	0.1	-1.6	-0.2	0.84	-1.8		0
+1971	545	Ken McMullen	http://www.baseball-reference.com/players/m/mcmulke01.shtml	mcmulke01	29	657	CAL	4.3	0.4	664	0.5	12.3	-11.8	1.12	0.4	0.0	0.5	0.1	0.96	6.3	2.99	3
+1971	546	Dave McNally	http://www.baseball-reference.com/players/m/mcnalda01.shtml	mcnalda01	28	91	BAL	-6.7	-0.7	92	-0.3	0.9	-1.1	.73	-0.5	0.2	-4.0	-0.4	0.98	-3.9		0
+1971	547	Jerry McNertney	http://www.baseball-reference.com/players/m/mcnerje01.shtml	mcnerje01	34	146	STL	3.1	0.3	146	1.0	3.2	-2.2	1.04	0.3	0.7	3.8	0.4	0.97	2.5	2.14	16
+1971	548	Mike McQueen*	http://www.baseball-reference.com/players/m/mcquemi01.shtml	mcquemi01	20	21	ATL	-1.8	-0.2	21	-0.2	0.1	-0.3	.65	-0.2	-0.1	-2.5	-0.3	0.85	-2.2		0
+1971	549	Hal McRae	http://www.baseball-reference.com/players/m/mcraeha01.shtml	mcraeha01	25	354	CIN	1.3	0.1	360	0.1	6.8	-6.7	1.05	0.5	-0.4	6.2	0.7	0.92	5.7	2.17	13
+1971	550	Luis Melendez	http://www.baseball-reference.com/players/m/melenlu01.shtml	melenlu01	21	200	STL	-8.3	-0.9	204	-1.4	2.1	-3.6	.97	-0.7	-0.8	-9.3	-1.0	0.98	-9.0	1.29	22
+1971	551	Bill Melton	http://www.baseball-reference.com/players/m/meltobi01.shtml	meltobi01	25	621	CHW	24.0	2.5	631	1.4	11.9	-10.5	1.01	2.4	-1.0	21.5	2.2	0.97	26.3		0
+1971	552	Denis Menke	http://www.baseball-reference.com/players/m/menkede01.shtml	menkede01	30	547	HOU	-5.1	-0.5	551	0.6	10.2	-9.6	1.11	-0.0	0.6	8.9	0.9	0.96	0.6	2.37	9
+1971	553	Rudy Meoli*	http://www.baseball-reference.com/players/m/meoliru01.shtml	meoliru01	20	3	CAL	-0.8	-0.1	3	-0.0	0.0	-0.0	.61	-0.1	0.0	-0.5	-0.1	0.77	-0.7	0.61	3
+1971	554	Jim Merritt*	http://www.baseball-reference.com/players/m/merriji01.shtml	merriji01	27	32	CIN	-3.3	-0.4	32	-0.2	0.3	-0.5	.85	-0.4	0.2	-2.0	-0.2	0.81	-3.6	2.75	0
+1971	555	Andy Messersmith	http://www.baseball-reference.com/players/m/messean01.shtml	messean01	25	104	CAL	-7.6	-0.8	105	-0.7	0.9	-1.6	.83	-0.6	-0.2	-7.8	-0.9	0.93	-5.6	1.19	1
+1971	556	Roger Metzger#	http://www.baseball-reference.com/players/m/metzgro01.shtml	metzgro01	23	617	HOU	-22.2	-2.4	621	-3.5	8.8	-12.3	1.11	-1.6	-1.6	-22.3	-2.4	0.95	-16.1		0
+1971	557	Gene Michael#	http://www.baseball-reference.com/players/m/michage01.shtml	michage01	33	513	NYY	-16.9	-1.8	524	-1.8	7.9	-9.7	1.05	-2.0	0.3	-29.9	-3.3	1.00	-22.6	1.10	6
+1971	558	Pete Mikkelsen	http://www.baseball-reference.com/players/m/mikkepe01.shtml	mikkepe01	31	11	LAD	-0.8	-0.1	11	-0.1	0.1	-0.2	.95	-0.1	0.0	-1.6	-0.2	1.31	-1.1		0
+1971	559	Felix Millan	http://www.baseball-reference.com/players/m/millafe01.shtml	millafe01	27	635	ATL	-6.6	-0.7	649	-0.0	10.8	-10.9	1.05	-0.4	0.3	1.8	0.2	0.93	-1.5	1.63	1
+1971	560	Bob Miller	http://www.baseball-reference.com/players/m/millebo04.shtml	millebo04	32	15	TOT	-2.7	-0.3	15	-0.3	0.0	-0.3	.90	-0.3	-0.1	-3.6	-0.4	1.11	-3.1		0
+1971	561	Bob Miller	http://www.baseball-reference.com/players/m/millebo04.shtml	millebo04	32	1	CHC	-0.3	-0.0	1	-0.0	0.0	-0.0	.11	-0.0	-0.0	-0.1	-0.0	0.60	-0.2		0
+1971	562	Bob Miller	http://www.baseball-reference.com/players/m/millebo04.shtml	millebo04	32	12	SDP	-2.5	-0.3	12	-0.3	0.0	-0.3	1.10	-0.3	-0.0	-3.6	-0.4	1.18	-2.9		0
+1971	563	Bob Miller	http://www.baseball-reference.com/players/m/millebo04.shtml	millebo04	32	2	PIT	0.1	0.0	2	-0.0	0.0	-0.0	.07	-0.0	-0.0	0.2	0.0	0.89	0.1		0
+1971	564	Norm Miller*	http://www.baseball-reference.com/players/m/milleno01.shtml	milleno01	25	81	HOU	0.4	0.0	81	-0.5	1.8	-2.3	1.61	-0.1	-0.3	0.1	0.0	1.00	0.4	2.11	26
+1971	565	Rick Miller*	http://www.baseball-reference.com/players/m/milleri01.shtml	milleri01	23	42	BOS	4.5	0.5	45	0.2	0.9	-0.7	1.03	0.3	-0.1	3.2	0.3	1.08	3.6		0
+1971	566	John Milner*	http://www.baseball-reference.com/players/m/milnejo01.shtml	milnejo01	21	18	NYM	-2.1	-0.2	18	-0.1	0.2	-0.3	1.01	-0.2	0.0	-1.3	-0.1	0.86	-1.8	0.99	6
+1971	567	Don Mincher*	http://www.baseball-reference.com/players/m/minchdo01.shtml	minchdo01	33	497	TOT	23.8	2.5	506	1.4	9.1	-7.6	.98	2.1	-0.7	12.3	1.3	0.93	19.8	1.52	12
+1971	568	Don Mincher*	http://www.baseball-reference.com/players/m/minchdo01.shtml	minchdo01	33	113	OAK	3.4	0.4	118	0.4	1.9	-1.5	.87	0.4	0.1	-0.4	-0.0	0.88	3.1	4.82	0
+1971	569	Don Mincher*	http://www.baseball-reference.com/players/m/minchdo01.shtml	minchdo01	33	384	WSA	20.4	2.1	388	1.0	7.2	-6.1	1.01	1.7	-0.7	12.8	1.4	0.95	16.6	1.52	12
+1971	570	Steve Mingori*	http://www.baseball-reference.com/players/m/mingost01.shtml	mingost01	27	2	CLE	0.2	0.0	2	-0.1	0.0	-0.1	1.32	0.0	-0.0	-0.1	-0.0	0.56	0.0		0
+1971	571	Bobby Mitchell	http://www.baseball-reference.com/players/m/mitchbo02.shtml	mitchbo02	27	61	MIL	-2.3	-0.2	64	-0.1	1.2	-1.3	1.17	-0.1	0.1	-1.1	-0.1	0.97	-1.7	1.69	12
+1971	572	George Mitterwald	http://www.baseball-reference.com/players/m/mittege01.shtml	mittege01	26	434	MIN	-2.3	-0.2	443	-0.2	7.7	-7.8	1.02	-0.1	-0.0	-0.5	-0.0	0.96	0.0	1.26	7
+1971	573	Joe Moeller	http://www.baseball-reference.com/players/m/moelljo01.shtml	moelljo01	28	11	LAD	-1.6	-0.2	11	-0.2	0.1	-0.2	1.04	-0.1	-0.0	-1.8	-0.2	0.94	-1.4		0
+1971	574	Rick Monday*	http://www.baseball-reference.com/players/m/mondari01.shtml	mondari01	25	409	OAK	8.9	0.9	433	1.1	8.3	-7.1	1.00	1.8	-0.6	14.9	1.6	0.94	22.0	1.60	7
+1971	575	Don Money	http://www.baseball-reference.com/players/m/moneydo01.shtml	moneydo01	24	482	PHI	-13.4	-1.4	495	-0.3	9.0	-9.3	1.18	-0.9	0.6	-4.8	-0.5	0.96	-8.9	2.12	5
+1971	576	Willie Montanez*	http://www.baseball-reference.com/players/m/montawi01.shtml	montawi01	23	683	PHI	18.8	2.0	706	2.1	14.7	-12.5	1.12	2.2	-0.3	24.1	2.5	0.95	30.3	1.76	1
+1971	577	Bob Montgomery	http://www.baseball-reference.com/players/m/montgbo01.shtml	montgbo01	27	229	BOS	-6.7	-0.7	231	-0.2	3.5	-3.8	.99	-0.4	0.2	-1.6	-0.2	0.98	-2.8	1.41	2
+1971	578	Monty Montgomery	http://www.baseball-reference.com/players/m/montgmo01.shtml	montgmo01	24	9	KCR	-1.5	-0.2	9	-0.1	0.0	-0.1	.68	-0.2	0.0	-1.7	-0.2	1.02	-1.6		0
+1971	579	Bob Moose	http://www.baseball-reference.com/players/m/moosebo01.shtml	moosebo01	23	47	PIT	-6.5	-0.7	49	-0.5	0.2	-0.7	.72	-0.7	-0.0	-8.2	-0.9	1.02	-7.5		0
+1971	580	Jerry Morales	http://www.baseball-reference.com/players/m/moralje01.shtml	moralje01	22	19	SDP	-2.2	-0.2	20	-0.3	0.1	-0.4	.80	-0.2	-0.2	-2.5	-0.3	1.00	-2.0	0.15	1
+1971	581	Rich Morales	http://www.baseball-reference.com/players/m/moralri01.shtml	moralri01	27	212	CHW	-3.1	-0.3	223	-0.4	3.3	-3.7	1.00	-0.3	-0.1	-8.4	-0.9	1.02	-5.1	1.65	12
+1971	582	Roger Moret#	http://www.baseball-reference.com/players/m/moretro01.shtml	moretro01	21	25	BOS	-4.2	-0.4	25	-0.0	0.3	-0.4	.84	-0.3	0.3	-1.7	-0.2	0.96	-3.0		0
+1971	583	Joe Morgan*	http://www.baseball-reference.com/players/m/morgajo02.shtml	morgajo02	27	689	HOU	15.6	1.6	725	3.0	14.0	-11.0	1.04	2.5	0.3	27.4	2.9	0.91	24.1	1.37	3
+1971	584	John Morris	http://www.baseball-reference.com/players/m/morrijo06.shtml	morrijo06	29	7	MIL	-0.6	-0.1	7	-0.1	0.1	-0.1	1.03	-0.1	0.0	-1.8	-0.2	1.16	-1.1		0
+1971	585	Carl Morton	http://www.baseball-reference.com/players/m/mortoca01.shtml	mortoca01	27	83	MON	-7.1	-0.8	83	-0.7	0.8	-1.5	.97	-0.7	-0.1	-6.6	-0.7	0.92	-6.8		0
+1971	586	Jerry Moses	http://www.baseball-reference.com/players/m/mosesje01.shtml	mosesje01	24	193	CAL	-4.8	-0.5	193	-1.2	3.3	-4.6	1.18	-0.1	-0.9	-11.3	-1.3	1.01	-3.8	1.92	8
+1971	587	Manny Mota	http://www.baseball-reference.com/players/m/motama01.shtml	motama01	33	300	LAD	7.4	0.8	314	2.5	7.6	-5.1	1.15	0.8	1.4	15.6	1.7	0.99	8.6	2.28	16
+1971	588	Curt Motton	http://www.baseball-reference.com/players/m/mottocu01.shtml	mottocu01	30	65	BAL	0.8	0.1	66	-0.0	1.2	-1.2	1.12	0.1	-0.2	1.4	0.2	1.02	2.1	1.88	15
+1971	589	Manny Muniz	http://www.baseball-reference.com/players/m/munizma01.shtml	munizma01	23	1	PHI	-0.3	-0.0	1	-0.0	0.0	-0.0	.47	-0.0	-0.0	-0.3	-0.0	1.12	-0.2		0
+1971	590	Thurman Munson	http://www.baseball-reference.com/players/m/munsoth01.shtml	munsoth01	24	517	NYY	3.9	0.4	538	0.5	9.6	-9.1	1.06	0.4	-0.0	3.4	0.4	0.96	8.0	2.37	10
+1971	591	Bobby Murcer*	http://www.baseball-reference.com/players/m/murcebo01.shtml	murcebo01	25	624	NYY	59.0	6.1	659	7.2	16.8	-9.6	1.10	6.1	0.5	68.4	7.2	0.98	64.9	1.64	4
+1971	592	Tom Murphy	http://www.baseball-reference.com/players/m/murphto02.shtml	murphto02	25	83	CAL	-7.7	-0.8	83	-0.8	0.9	-1.6	1.00	-0.9	0.1	-9.2	-1.0	0.99	-8.3		0
+1971	593	Ivan Murrell	http://www.baseball-reference.com/players/m/murreiv01.shtml	murreiv01	28	267	SDP	-7.3	-0.8	260	-1.5	4.4	-5.9	1.18	-0.4	-0.9	-6.3	-0.7	0.98	-5.1	1.30	30
+1971	594	Tony Muser*	http://www.baseball-reference.com/players/m/muserto01.shtml	muserto01	23	17	CHW	0.3	0.0	17	-0.4	0.2	-0.6	1.16	0.0	-0.4	-1.2	-0.1	0.86	0.1	2.02	7
+1971	595	Mike Nagy	http://www.baseball-reference.com/players/n/nagymi01.shtml	nagymi01	23	12	BOS	-2.2	-0.2	12	-0.3	0.1	-0.4	1.23	-0.2	-0.0	-3.0	-0.3	1.21	-2.2		0
+1971	596	Jim Nash	http://www.baseball-reference.com/players/n/nashji01.shtml	nashji01	26	47	ATL	-7.2	-0.8	47	-0.3	0.4	-0.8	.80	-0.7	0.2	-5.7	-0.6	0.89	-6.6		0
+1971	597	Gary Neibauer	http://www.baseball-reference.com/players/n/neibaga01.shtml	neibaga01	26	6	ATL	-1.4	-0.1	6	-0.1	0.0	-0.1	1.02	-0.1	0.0	-1.1	-0.1	0.90	-1.3		0
+1971	598	Dave Nelson	http://www.baseball-reference.com/players/n/nelsoda01.shtml	nelsoda01	27	358	WSA	1.8	0.2	388	0.5	6.7	-6.1	1.02	0.6	-0.1	10.0	1.1	0.95	5.7	3.16	2
+1971	599	Jim Nelson	http://www.baseball-reference.com/players/n/nelsoji01.shtml	nelsoji01	23	8	PIT	1.3	0.1	8	0.0	0.1	-0.1	.65	0.1	-0.0	0.4	0.0	0.59	1.0		0
+1971	600	Roger Nelson	http://www.baseball-reference.com/players/n/nelsoro02.shtml	nelsoro02	27	7	KCR	0.2	0.0	7	0.1	0.1	-0.0	.58	0.0	0.1	0.4	0.0	0.70	0.2		0
+1971	601	Graig Nettles*	http://www.baseball-reference.com/players/n/nettlgr01.shtml	nettlgr01	26	690	CLE	11.7	1.2	709	1.3	12.7	-11.4	.99	2.7	-1.5	22.8	2.3	0.93	31.0		0
+1971	602	Jim Nettles*	http://www.baseball-reference.com/players/n/nettlji01.shtml	nettlji01	24	190	MIN	0.1	0.0	196	-0.0	3.1	-3.1	.94	0.2	-0.2	2.5	0.3	0.99	1.2	0.72	7
+1971	603	Ray Newman*	http://www.baseball-reference.com/players/n/newmara01.shtml	newmara01	26	6	CHC	-1.7	-0.2	6	-0.1	0.0	-0.1	.74	-0.1	-0.0	-1.5	-0.1	0.98	-1.5		0
+1971	604	Joe Niekro	http://www.baseball-reference.com/players/n/niekrjo01.shtml	niekrjo01	26	38	DET	-4.2	-0.4	40	-0.5	0.2	-0.7	.90	-0.5	-0.0	-2.3	-0.2	0.96	-3.9		0
+1971	605	Phil Niekro	http://www.baseball-reference.com/players/n/niekrph01.shtml	niekrph01	32	101	ATL	-13.9	-1.5	101	-1.1	0.8	-1.9	.88	-0.9	-0.3	-8.1	-0.8	0.95	-10.2		0
+1971	606	Gary Nolan	http://www.baseball-reference.com/players/n/nolanga01.shtml	nolanga01	23	84	CIN	-9.9	-1.0	84	-1.2	0.7	-1.9	1.00	-1.0	-0.3	-9.7	-1.1	1.00	-9.6		0
+1971	607	Fred Norman#	http://www.baseball-reference.com/players/n/normafr01.shtml	normafr01	28	44	TOT	-1.7	-0.2	38	-0.6	0.2	-0.8	1.10	-0.3	-0.3	-4.5	-0.5	0.91	-3.0		0
+1971	608	Fred Norman#	http://www.baseball-reference.com/players/n/normafr01.shtml	normafr01	28	44	SDP	-1.7	-0.2	38	-0.6	0.2	-0.8	1.10	-0.3	-0.3	-4.5	-0.5	0.91	-3.0		0
+1971	609	Bill North#	http://www.baseball-reference.com/players/n/northbi01.shtml	northbi01	23	21	CHC	1.6	0.2	23	0.0	0.2	-0.2	.55	0.2	-0.1	0.9	0.1	1.04	1.3		0
+1971	610	Jim Northrup*	http://www.baseball-reference.com/players/n/northji01.shtml	northji01	31	524	DET	13.6	1.4	546	3.7	12.6	-9.0	1.07	2.2	1.2	27.5	2.8	0.99	24.2	1.66	14
+1971	611	Bob O'Brien*	http://www.baseball-reference.com/players/o/o'bribo01.shtml	o'bribo01	22	11	LAD	-1.6	-0.2	11	-0.1	0.1	-0.1	.92	-0.1	-0.0	-0.4	-0.0	0.96	-0.5		0
+1971	612	Syd O'Brien	http://www.baseball-reference.com/players/o/o'brisy01.shtml	o'brisy01	27	271	CAL	-13.6	-1.4	274	-2.0	4.0	-6.0	1.13	-1.7	-0.0	-16.7	-1.9	0.96	-14.5	2.12	20
+1971	613	Blue Moon Odom	http://www.baseball-reference.com/players/o/odombl01.shtml	odombl01	26	53	OAK	-5.1	-0.5	54	-0.5	0.4	-0.9	.83	-0.5	-0.1	-5.4	-0.6	0.92	-5.2		0
+1971	614	Ben Oglivie*	http://www.baseball-reference.com/players/o/oglivbe01.shtml	oglivbe01	22	38	BOS	-1.9	-0.2	38	-0.0	0.8	-0.8	1.27	-0.0	0.0	0.9	0.1	0.93	-0.5	2.25	5
+1971	615	Tony Oliva*	http://www.baseball-reference.com/players/o/olivato01.shtml	olivato01	32	518	MIN	32.4	3.4	529	2.5	11.9	-9.4	1.11	3.9	-1.6	38.9	4.0	1.00	39.8	1.58	5
+1971	616	Al Oliver*	http://www.baseball-reference.com/players/o/oliveal01.shtml	oliveal01	24	573	PIT	7.7	0.8	590	0.2	9.9	-9.7	.95	1.2	-0.9	2.3	0.2	0.99	10.4	2.90	6
+1971	617	Bob Oliver	http://www.baseball-reference.com/players/o/olivebo01.shtml	olivebo01	28	398	KCR	-11.6	-1.2	402	-1.2	6.1	-7.3	.98	-1.3	0.0	-6.9	-0.7	1.01	-10.9	1.15	22
+1971	618	Jose Ortiz	http://www.baseball-reference.com/players/o/ortizjo01.shtml	ortizjo01	24	96	CHC	0.2	0.0	101	-0.6	1.3	-1.9	.99	-0.2	-0.4	-6.8	-0.7	1.01	-3.0	2.15	1
+1971	619	Claude Osteen*	http://www.baseball-reference.com/players/o/osteecl01.shtml	osteecl01	31	99	LAD	-7.8	-0.8	100	-0.4	0.9	-1.3	.73	-0.8	0.3	-5.0	-0.5	0.94	-7.8	1.00	1
+1971	620	Amos Otis	http://www.baseball-reference.com/players/o/otisam01.shtml	otisam01	24	607	KCR	17.1	1.8	679	4.0	13.7	-9.8	1.02	2.3	1.5	29.6	3.1	0.98	22.8	1.35	4
+1971	621	Tom Paciorek	http://www.baseball-reference.com/players/p/pacioto01.shtml	pacioto01	24	2	LAD	0.2	0.0	2	-0.0	0.0	-0.0	.15	-0.0	-0.0	0.8	0.1	0.79	0.5	0.15	2
+1971	622	Dennis Paepke	http://www.baseball-reference.com/players/p/paepkde01.shtml	paepkde01	26	161	KCR	-10.3	-1.1	161	-0.7	2.6	-3.3	1.02	-0.9	0.2	-9.8	-1.1	0.93	-10.2	2.01	17
+1971	623	Jose Pagan	http://www.baseball-reference.com/players/p/paganjo01.shtml	paganjo01	36	177	PIT	-3.6	-0.4	178	-1.0	2.7	-3.7	1.02	-0.3	-0.6	-8.6	-0.9	0.96	-4.1	1.40	12
+1971	624	Jim Palmer	http://www.baseball-reference.com/players/p/palmeji01.shtml	palmeji01	25	116	BAL	-10.8	-1.2	117	-0.5	1.3	-1.8	.87	-0.9	0.4	-7.6	-0.8	1.06	-10.0		0
+1971	625	Lowell Palmer	http://www.baseball-reference.com/players/p/palmelo01.shtml	palmelo01	23	5	PHI	-0.6	-0.1	5	-0.0	0.0	-0.0	.38	-0.1	-0.0	-0.4	-0.0	0.63	-0.6		0
+1971	626	Jim Panther	http://www.baseball-reference.com/players/p/panthji01.shtml	panthji01	26	1	OAK	-0.3	-0.0	1	-0.0	0.0	-0.0	.43	-0.0	0.0	-0.1	-0.0	0.60	-0.2		0
+1971	627	Milt Pappas	http://www.baseball-reference.com/players/p/pappami01.shtml	pappami01	32	99	CHC	-12.2	-1.3	100	-1.0	0.9	-1.9	.91	-1.1	-0.1	-12.6	-1.3	0.96	-11.3		0
+1971	628	Billy Parker	http://www.baseball-reference.com/players/p/parkebi01.shtml	parkebi01	29	72	CAL	-4.0	-0.4	76	0.1	1.5	-1.4	1.06	-0.1	0.2	-3.4	-0.4	0.99	-1.9		0
+1971	629	Wes Parker#	http://www.baseball-reference.com/players/p/parkewe01.shtml	parkewe01	31	609	LAD	7.1	0.7	627	1.6	11.3	-9.7	1.05	1.0	0.5	8.8	0.9	1.03	10.4	0.82	1
+1971	630	Bill Parsons	http://www.baseball-reference.com/players/p/parsobi01.shtml	parsobi01	22	88	MIL	-5.3	-0.6	88	-0.2	1.2	-1.4	.91	-0.5	0.3	-3.9	-0.4	1.02	-4.7		0
+1971	631	Camilo Pascual	http://www.baseball-reference.com/players/p/pascuca02.shtml	pascuca02	37	6	CLE	1.2	0.1	6	-0.0	0.1	-0.1	1.08	0.1	-0.1	-0.4	-0.0	1.11	0.5		0
+1971	632	Freddie Patek	http://www.baseball-reference.com/players/p/patekfr01.shtml	patekfr01	26	648	KCR	-3.1	-0.3	721	0.1	11.2	-11.1	1.02	0.3	-0.1	1.3	0.1	0.96	1.5	1.44	1
+1971	633	Daryl Patterson*	http://www.baseball-reference.com/players/p/patteda02.shtml	patteda02	27	7	TOT	-1.3	-0.1	7	-0.1	0.0	-0.1	.78	-0.1	-0.0	-0.8	-0.1	0.97	-1.3		0
+1971	634	Daryl Patterson*	http://www.baseball-reference.com/players/p/patteda02.shtml	patteda02	27	1	TOT	-0.3	-0.0	1	-0.0	0.0	-0.0	.65	-0.0	0.0	-0.1	-0.0	0.60	-0.2		0
+1971	635	Daryl Patterson*	http://www.baseball-reference.com/players/p/patteda02.shtml	patteda02	27	1	OAK	-0.3	-0.0	1	-0.0	0.0	-0.0	.65	-0.0	0.0	-0.1	-0.0	0.60	-0.2		0
+1971	636	Daryl Patterson*	http://www.baseball-reference.com/players/p/patteda02.shtml	patteda02	27	6	STL	-1.0	-0.1	6	-0.1	0.0	-0.1	.81	-0.1	-0.0	-0.7	-0.1	1.03	-1.1		0
+1971	637	Marty Pattin	http://www.baseball-reference.com/players/p/pattima01.shtml	pattima01	28	99	MIL	-13.9	-1.5	100	-1.1	1.0	-2.1	1.06	-1.4	0.3	-12.9	-1.4	1.01	-13.8		0
+1971	638	Mike Paul*	http://www.baseball-reference.com/players/p/paulmi01.shtml	paulmi01	26	22	CLE	-3.8	-0.4	23	-0.3	0.1	-0.4	.79	-0.3	-0.0	-2.1	-0.2	0.82	-3.4		0
+1971	639	Don Pavletich	http://www.baseball-reference.com/players/p/pavledo01.shtml	pavledo01	32	32	BOS	0.7	0.1	32	0.1	0.6	-0.5	1.13	-0.0	0.1	0.8	0.1	1.06	2.2	1.60	5
+1971	640	Jose Pena	http://www.baseball-reference.com/players/p/penajo01.shtml	penajo01	28	3	LAD	0.7	0.1	3	0.0	0.0	-0.0	.71	0.0	-0.0	0.3	0.0	0.68	0.3		0
+1971	641	Orlando Pena	http://www.baseball-reference.com/players/p/penaor01.shtml	penaor01	37	3	BAL	-0.8	-0.1	3	-0.0	0.0	-0.0	.56	-0.1	0.0	-0.7	-0.1	0.99	-0.7		0
+1971	642	Roberto Pena	http://www.baseball-reference.com/players/p/penaro01.shtml	penaro01	34	293	MIL	-11.0	-1.2	299	-0.6	5.1	-5.7	1.16	-1.0	0.5	-5.5	-0.6	0.96	-9.4	2.23	29
+1971	643	Joe Pepitone*	http://www.baseball-reference.com/players/p/pepitjo01.shtml	pepitjo01	30	460	CHC	11.2	1.2	468	0.9	9.5	-8.5	1.04	1.4	-0.5	6.7	0.7	0.99	18.1	2.37	2
+1971	644	Marty Perez	http://www.baseball-reference.com/players/p/perezma01.shtml	perezma01	25	445	ATL	-23.0	-2.4	442	-2.0	5.6	-7.6	.96	-1.8	-0.3	-23.2	-2.4	0.96	-20.0	0.88	2
+1971	645	Tony Perez	http://www.baseball-reference.com/players/p/perezto01.shtml	perezto01	29	664	CIN	13.9	1.4	667	4.1	15.0	-10.9	1.05	2.2	1.6	25.8	2.7	0.94	19.4	1.65	1
+1971	646	Ron Perranoski*	http://www.baseball-reference.com/players/p/perraro01.shtml	perraro01	35	6	TOT	-1.3	-0.1	6	-0.1	0.0	-0.1	.41	-0.1	0.0	-1.4	-0.1	0.90	-1.5		0
+1971	647	Ron Perranoski*	http://www.baseball-reference.com/players/p/perraro01.shtml	perraro01	35	4	MIN	-0.8	-0.1	4	-0.0	0.0	-0.0	.58	-0.1	0.0	-1.1	-0.1	1.06	-1.0		0
+1971	648	Ron Perranoski*	http://www.baseball-reference.com/players/p/perraro01.shtml	perraro01	35	2	DET	-0.5	-0.1	2	-0.0	0.0	-0.0	.08	-0.0	-0.0	-0.3	-0.0	0.60	-0.5		0
+1971	649	Gaylord Perry	http://www.baseball-reference.com/players/p/perryga01.shtml	perryga01	32	111	SFG	-16.1	-1.7	112	-1.3	0.9	-2.2	.93	-1.6	0.2	-16.9	-1.8	1.01	-15.8	1.66	1
+1971	650	Jim Perry#	http://www.baseball-reference.com/players/p/perryji01.shtml	perryji01	35	103	MIN	-9.9	-1.1	103	-0.9	0.9	-1.8	.87	-1.0	0.0	-11.6	-1.2	0.92	-10.1		0
+1971	651	Stan Perzanowski#	http://www.baseball-reference.com/players/p/perzast01.shtml	perzast01	20	2	CHW	-0.5	-0.1	2	-0.0	0.0	-0.0	.05	-0.1	-0.0	-0.8	-0.1	1.11	-0.7		0
+1971	652	Gary Peters*	http://www.baseball-reference.com/players/p/peterga01.shtml	peterga01	34	107	BOS	-1.5	-0.2	108	-0.2	1.6	-1.9	1.04	-0.2	0.0	4.1	0.4	1.01	-0.3	1.44	18
+1971	653	Fritz Peterson#	http://www.baseball-reference.com/players/p/peterfr01.shtml	peterfr01	29	106	NYY	-14.6	-1.6	106	-1.4	0.5	-1.9	.85	-1.3	-0.3	-13.6	-1.5	1.03	-13.5		0
+1971	654	Rico Petrocelli	http://www.baseball-reference.com/players/p/petrori01.shtml	petrori01	28	661	BOS	18.6	1.9	669	2.9	14.7	-11.7	1.10	3.3	-0.6	18.2	1.8	0.98	36.8	3.98	2
+1971	655	Bobby Pfeil	http://www.baseball-reference.com/players/p/pfeilbo01.shtml	pfeilbo01	27	77	PHI	0.4	0.0	78	-0.2	1.7	-1.9	1.39	0.2	-0.3	0.8	0.1	1.04	1.4	2.18	16
+1971	656	Tom Phoebus	http://www.baseball-reference.com/players/p/phoebto01.shtml	phoebto01	29	41	SDP	-3.0	-0.3	41	-0.3	0.4	-0.6	.88	-0.4	0.1	-3.1	-0.3	0.75	-3.6		0
+1971	657	Horacio Pina	http://www.baseball-reference.com/players/p/pinaho01.shtml	pinaho01	26	1	WSA	-0.2	-0.0	1	-0.0	0.0	-0.0	.80	-0.0	0.0	-0.2	-0.0	0.86	-0.2		0
+1971	658	Lou Piniella	http://www.baseball-reference.com/players/p/pinielo01.shtml	pinielo01	27	476	KCR	-4.6	-0.5	485	-1.4	7.4	-8.8	1.01	-0.6	-0.7	-4.1	-0.4	0.98	-7.1	2.10	13
+1971	659	Vada Pinson*	http://www.baseball-reference.com/players/p/pinsova01.shtml	pinsova01	32	597	CLE	-15.6	-1.6	636	0.5	11.0	-10.5	1.01	-0.6	1.1	-7.1	-0.7	0.92	-4.1	1.01	7
+1971	660	Juan Pizarro*	http://www.baseball-reference.com/players/p/pizarju01.shtml	pizarju01	34	39	CHC	-3.1	-0.3	39	-0.4	0.5	-0.9	1.05	-0.3	-0.1	-5.8	-0.6	0.99	-3.5		0
+1971	661	Bill Plummer	http://www.baseball-reference.com/players/p/plummbi01.shtml	plummbi01	24	19	CIN	-4.9	-0.5	19	-0.8	0.0	-0.8	1.47	-0.5	-0.0	-5.6	-0.6	0.95	-5.4	3.31	4
+1971	662	Paul Popovich#	http://www.baseball-reference.com/players/p/popovpa01.shtml	popovpa01	30	243	CHC	-15.2	-1.6	244	-1.7	3.2	-4.8	1.04	-1.4	-0.2	-4.3	-0.4	0.95	-12.7	1.90	30
+1971	663	Darrell Porter*	http://www.baseball-reference.com/players/p/porteda02.shtml	porteda02	19	80	MIL	-1.7	-0.2	83	-0.1	1.4	-1.5	1.11	-0.1	-0.0	-0.2	-0.0	0.93	-0.8	0.10	1
+1971	664	Boog Powell*	http://www.baseball-reference.com/players/p/powelbo01.shtml	powelbo01	29	509	BAL	24.6	2.6	515	1.3	9.5	-8.1	1.00	2.7	-1.4	34.3	3.6	1.00	32.1	1.72	4
+1971	665	Paul Powell	http://www.baseball-reference.com/players/p/powelpa01.shtml	powelpa01	23	35	MIN	-2.7	-0.3	35	-0.6	0.3	-0.8	1.03	-0.2	-0.3	-5.6	-0.6	1.17	-3.0	3.47	2
+1971	666	Jim Price	http://www.baseball-reference.com/players/p/priceji01.shtml	priceji01	29	63	DET	-1.1	-0.1	65	0.0	1.2	-1.1	1.04	-0.0	0.1	2.1	0.2	1.08	0.6	0.78	2
+1971	667	Bob Priddy	http://www.baseball-reference.com/players/p/priddbo01.shtml	priddbo01	31	11	ATL	-1.1	-0.1	11	-0.0	0.2	-0.2	1.18	-0.1	0.1	-1.9	-0.2	1.09	-1.2		0
+1971	668	Mel Queen*	http://www.baseball-reference.com/players/q/queenme02.shtml	queenme02	29	11	CAL	-1.7	-0.2	11	-0.0	0.1	-0.1	.66	-0.2	0.1	-1.0	-0.1	0.86	-1.4	0.60	2
+1971	669	Dave Rader*	http://www.baseball-reference.com/players/r/raderda01.shtml	raderda01	22	4	SFG	-1.1	-0.1	4	-0.0	0.1	-0.2	2.19	-0.0	0.0	0.1	0.0	1.29	-0.1	2.04	3
+1971	670	Doug Rader	http://www.baseball-reference.com/players/r/raderdo02.shtml	raderdo02	26	534	HOU	-3.8	-0.4	532	-0.3	10.3	-10.6	1.16	-0.5	0.2	-4.1	-0.4	0.99	-4.0		0
+1971	671	Tom Ragland	http://www.baseball-reference.com/players/r/raglato01.shtml	raglato01	25	24	WSA	-2.6	-0.3	24	-0.2	0.2	-0.5	1.12	-0.3	0.0	-2.1	-0.2	1.08	-2.4		0
+1971	672	Milt Ramirez	http://www.baseball-reference.com/players/r/ramirmi01.shtml	ramirmi01	21	13	STL	-0.1	-0.0	16	0.3	0.4	-0.1	.89	0.2	0.1	2.1	0.2	0.82	1.5		0
+1971	673	Lenny Randle#	http://www.baseball-reference.com/players/r/randlle01.shtml	randlle01	22	249	WSA	-6.0	-0.6	257	-0.8	3.2	-4.0	.93	-0.4	-0.5	-2.7	-0.3	0.90	-1.6	0.36	6
+1971	674	Paul Ratliff*	http://www.baseball-reference.com/players/r/ratlipa01.shtml	ratlipa01	27	96	TOT	-3.6	-0.4	96	0.1	2.1	-1.9	1.13	-0.1	0.2	1.1	0.1	0.94	-1.9	1.45	16
+1971	675	Paul Ratliff*	http://www.baseball-reference.com/players/r/ratlipa01.shtml	ratlipa01	27	49	MIN	-3.1	-0.3	49	0.1	1.2	-1.1	1.26	-0.1	0.2	-1.1	-0.1	0.96	-2.7	1.50	7
+1971	676	Paul Ratliff*	http://www.baseball-reference.com/players/r/ratlipa01.shtml	ratlipa01	27	47	MIL	-0.5	-0.1	47	0.0	0.9	-0.8	1.00	0.0	-0.0	2.2	0.2	0.92	0.8	1.41	9
+1971	677	Jim Ray	http://www.baseball-reference.com/players/r/rayji01.shtml	rayji01	26	20	HOU	-1.8	-0.2	20	0.0	0.3	-0.3	.87	-0.1	0.1	-0.5	-0.1	0.83	-1.3		0
+1971	678	Claude Raymond	http://www.baseball-reference.com/players/r/raymocl01.shtml	raymocl01	34	2	MON	-0.3	-0.0	2	-0.0	0.0	-0.0	2.35	-0.0	0.0	-0.4	-0.0	1.29	-0.4		0
+1971	679	Frank Reberger*	http://www.baseball-reference.com/players/r/reberfr01.shtml	reberfr01	27	13	SFG	-1.2	-0.1	14	0.0	0.2	-0.2	1.13	-0.0	0.0	0.4	0.0	1.13	-0.3		0
+1971	680	Howie Reed	http://www.baseball-reference.com/players/r/reedho01.shtml	reedho01	34	1	MON	-0.3	-0.0	1	-0.0	0.0	-0.0	.65	-0.0	0.0	-0.1	-0.0	0.60	-0.2		0
+1971	681	Ron Reed	http://www.baseball-reference.com/players/r/reedro01.shtml	reedro01	28	80	ATL	-12.0	-1.3	81	-1.1	0.4	-1.5	.96	-1.1	-0.0	-9.5	-1.0	0.93	-10.4		0
+1971	682	Rich Reese*	http://www.baseball-reference.com/players/r/reeseri01.shtml	reeseri01	29	359	MIN	-13.0	-1.4	375	-1.1	6.6	-7.8	1.17	-0.7	-0.3	-8.9	-0.9	1.05	-5.7	1.74	20
+1971	683	Phil Regan	http://www.baseball-reference.com/players/r/reganph01.shtml	reganph01	34	11	CHC	-2.2	-0.2	11	-0.1	0.0	-0.2	.99	-0.2	0.1	-2.5	-0.3	1.08	-2.6		0
+1971	684	Rick Reichardt	http://www.baseball-reference.com/players/r/reichri01.shtml	reichri01	28	544	CHW	6.7	0.7	568	0.9	10.6	-9.7	1.03	1.2	-0.3	13.7	1.4	0.96	14.8	1.89	7
+1971	685	Rick Renick	http://www.baseball-reference.com/players/r/renicri01.shtml	renicri01	27	52	MIN	-1.0	-0.1	52	-0.5	0.8	-1.3	1.29	0.1	-0.5	1.1	0.1	1.09	1.8	1.84	13
+1971	686	Steve Renko	http://www.baseball-reference.com/players/r/renkost01.shtml	renkost01	26	106	MON	-6.4	-0.7	104	-0.2	1.5	-1.7	.88	-0.4	0.1	-2.6	-0.3	0.95	-3.5	1.62	1
+1971	687	Roger Repoz*	http://www.baseball-reference.com/players/r/repozro01.shtml	repozro01	30	360	CAL	5.1	0.5	372	0.5	6.8	-6.2	1.04	1.0	-0.5	3.9	0.4	0.97	10.1	1.60	9
+1971	688	Merv Rettenmund	http://www.baseball-reference.com/players/r/retteme01.shtml	retteme01	28	589	BAL	36.5	3.8	616	5.7	14.4	-8.6	1.06	4.1	1.3	51.1	5.3	1.01	44.7	1.90	3
+1971	689	Jerry Reuss*	http://www.baseball-reference.com/players/r/reussje01.shtml	reussje01	22	86	STL	-8.0	-0.8	88	-0.7	0.6	-1.4	.91	-0.9	0.1	-7.9	-0.8	1.07	-8.2		0
+1971	690	Archie Reynolds	http://www.baseball-reference.com/players/r/reynoar01.shtml	reynoar01	25	2	CAL	-0.5	-0.1	2	-0.0	0.0	-0.0	1.07	-0.0	0.0	-0.4	-0.0	0.94	-0.4		0
+1971	691	Bob Reynolds	http://www.baseball-reference.com/players/r/reynobo01.shtml	reynobo01	24	2	TOT	-0.5	-0.1	2	-0.0	0.0	-0.0	.29	-0.0	-0.0	-0.3	-0.0	0.62	-0.5		0
+1971	692	Bob Reynolds	http://www.baseball-reference.com/players/r/reynobo01.shtml	reynobo01	24	1	STL	-0.3	-0.0	1	0.0	0.0	0.0	.00	0.0		-0.1	-0.0	0.38	-0.2		0
+1971	693	Bob Reynolds	http://www.baseball-reference.com/players/r/reynobo01.shtml	reynobo01	24	1	MIL	-0.3	-0.0	1	-0.0	0.0	-0.0	.58	-0.0	-0.0	-0.2	-0.0	0.86	-0.2		0
+1971	694	Ken Reynolds*	http://www.baseball-reference.com/players/r/reynoke01.shtml	reynoke01	24	55	PHI	-4.0	-0.4	55	-0.2	0.7	-1.0	.94	-0.4	0.2	-4.4	-0.5	0.95	-4.1		0
+1971	695	Tommie Reynolds	http://www.baseball-reference.com/players/r/reynoto01.shtml	reynoto01	29	100	CAL	-3.1	-0.3	102	-0.1	2.1	-2.3	1.26	-0.1	-0.0	-5.0	-0.6	1.02	-2.1	1.56	21
+1971	696	J.R. Richard	http://www.baseball-reference.com/players/r/richaj.01.shtml	richaj.01	21	9	HOU	-1.8	-0.2	9	-0.1	0.0	-0.1	.67	-0.2	0.0	-1.2	-0.1	0.67	-1.9		0
+1971	697	Lee Richard	http://www.baseball-reference.com/players/r/richale01.shtml	richale01	22	288	CHW	-12.5	-1.3	313	-2.4	4.0	-6.3	1.07	-1.2	-1.0	-12.0	-1.3	0.92	-11.8	2.39	6
+1971	698	Pete Richert*	http://www.baseball-reference.com/players/r/richepe01.shtml	richepe01	31	3	BAL	-0.5	-0.1	3	-0.1	0.0	-0.1	2.02	-0.1	0.0	-0.9	-0.1	1.36	-0.7		0
+1971	699	Denny Riddleberger	http://www.baseball-reference.com/players/r/riddlde01.shtml	riddlde01	25	6	WSA	-0.4	-0.0	6	-0.0	0.1	-0.1	.78	-0.0	0.0	-0.1	-0.0	0.81	-0.3		0
+1971	700	Mickey Rivers*	http://www.baseball-reference.com/players/r/rivermi01.shtml	rivermi01	22	296	CAL	-2.8	-0.3	317	-0.0	5.1	-5.1	1.06	-0.1	0.1	1.6	0.2	0.95	0.1	0.92	7
+1971	701	Dave Roberts*	http://www.baseball-reference.com/players/r/roberda05.shtml	roberda05	26	94	SDP	-7.2	-0.8	90	-1.1	0.6	-1.7	.96	-1.0	-0.1	-10.6	-1.2	0.88	-9.7		0
+1971	702	Bob Robertson	http://www.baseball-reference.com/players/r/roberbo01.shtml	roberbo01	24	536	PIT	21.5	2.2	544	1.6	10.3	-8.7	.97	4.1	-2.4	27.7	2.8	0.97	41.5	1.93	5
+1971	703	Rich Robertson	http://www.baseball-reference.com/players/r/roberri01.shtml	roberri01	26	15	SFG	-3.2	-0.3	15	-0.2	0.0	-0.2	.66	-0.3	-0.1	-3.0	-0.3	1.00	-3.2		0
+1971	704	Brooks Robinson	http://www.baseball-reference.com/players/r/robinbr01.shtml	robinbr01	34	663	BAL	11.3	1.2	673	2.4	13.6	-11.2	1.03	1.6	0.7	16.5	1.7	1.03	17.8		0
+1971	705	Dave Robinson#	http://www.baseball-reference.com/players/r/robinda01.shtml	robinda01	25	7	SDP	-1.2	-0.1	7	-0.1	0.0	-0.1	.33	-0.1	-0.0	-1.0	-0.1	0.70	-1.2	0.33	6
+1971	706	Frank Robinson	http://www.baseball-reference.com/players/r/robinfr02.shtml	robinfr02	35	545	BAL	34.2	3.6	558	2.8	12.6	-9.7	1.07	3.8	-1.2	36.9	3.8	1.04	43.7	2.99	8
+1971	707	Aurelio Rodriguez	http://www.baseball-reference.com/players/r/rodriau01.shtml	rodriau01	23	639	DET	-11.6	-1.2	659	-1.1	10.5	-11.6	1.01	-1.0	-0.1	-21.7	-2.3	0.93	-10.5	1.06	3
+1971	708	Ellie Rodriguez	http://www.baseball-reference.com/players/r/rodriel01.shtml	rodriel01	25	380	MIL	-12.9	-1.4	387	-1.3	5.8	-7.1	1.10	-1.1	-0.0	-4.8	-0.5	0.97	-10.3	1.40	6
+1971	709	Cookie Rojas	http://www.baseball-reference.com/players/r/rojasco01.shtml	rojasco01	32	463	KCR	11.1	1.2	487	1.6	8.8	-7.3	1.00	1.2	0.4	21.6	2.3	1.00	12.9	3.40	2
+1971	710	Jim Roland	http://www.baseball-reference.com/players/r/rolanji01.shtml	rolanji01	28	4	OAK	-0.8	-0.1	4	-0.0	0.0	-0.0	.58	-0.1	0.0	-0.9	-0.1	0.93	-0.9		0
+1971	711	Vicente Romo	http://www.baseball-reference.com/players/r/romovi01.shtml	romovi01	28	13	CHW	0.3	0.0	13	0.0	0.1	-0.1	.85	0.0	-0.0	0.3	0.0	0.74	0.2		0
+1971	712	Phil Roof	http://www.baseball-reference.com/players/r/roofph01.shtml	roofph01	30	219	TOT	-12.2	-1.3	221	-1.7	2.4	-4.2	.94	-1.3	-0.5	-12.9	-1.4	0.96	-12.6	2.64	4
+1971	713	Phil Roof	http://www.baseball-reference.com/players/r/roofph01.shtml	roofph01	30	124	MIL	-8.5	-0.9	124	-1.1	1.3	-2.4	1.00	-1.0	-0.0	-9.3	-1.0	1.00	-9.9	3.57	2
+1971	714	Phil Roof	http://www.baseball-reference.com/players/r/roofph01.shtml	roofph01	30	95	MIN	-3.7	-0.4	97	-0.7	1.1	-1.8	.87	-0.3	-0.4	-3.6	-0.4	0.92	-2.7	1.71	2
+1971	715	Jim Rooker	http://www.baseball-reference.com/players/r/rookeji01.shtml	rookeji01	28	13	KCR	-2.0	-0.2	13	-0.2	0.1	-0.3	.87	-0.2	-0.0	-2.0	-0.2	0.88	-1.9		0
+1971	716	Jorge Roque	http://www.baseball-reference.com/players/r/roquejo01.shtml	roquejo01	21	11	STL	-0.5	-0.1	12	0.0	0.2	-0.2	1.25	-0.0	0.0	2.0	0.2	1.11	1.2		0
+1971	717	Jimmy Rosario#	http://www.baseball-reference.com/players/r/rosarji01.shtml	rosarji01	26	231	SFG	-4.8	-0.5	245	-0.3	3.5	-3.8	1.10	-0.5	0.2	-1.6	-0.2	0.96	-3.3	2.12	11
+1971	718	Pete Rose#	http://www.baseball-reference.com/players/r/rosepe01.shtml	rosepe01	30	709	CIN	26.2	2.7	733	2.0	12.7	-10.7	1.01	2.2	-0.2	19.5	2.1	0.91	22.4	2.73	2
+1971	719	Gary Ross	http://www.baseball-reference.com/players/r/rossga01.shtml	rossga01	23	2	SDP	-0.2	-0.0	2	-0.0	0.0	-0.0	.52	-0.0	0.0	-0.3	-0.0	0.86	-0.4		0
+1971	720	Joe Rudi	http://www.baseball-reference.com/players/r/rudijo01.shtml	rudijo01	24	556	OAK	-4.1	-0.4	563	-0.1	9.0	-9.1	.94	-0.0	-0.0	3.6	0.4	0.93	-0.2	0.87	3
+1971	721	Ken Rudolph	http://www.baseball-reference.com/players/r/rudolke01.shtml	rudolke01	24	86	CHC	-6.7	-0.7	86	-0.5	1.3	-1.7	1.14	-0.6	0.2	-3.1	-0.3	1.03	-5.5		0
+1971	722	Chico Ruiz#	http://www.baseball-reference.com/players/r/ruizch01.shtml	ruizch01	32	24	CAL	-0.5	-0.1	26	-0.0	0.4	-0.4	1.67	-0.1	0.1	-0.7	-0.1	1.02	-0.5	1.75	12
+1971	723	Bill Russell	http://www.baseball-reference.com/players/r/russebi01.shtml	russebi01	22	223	LAD	-8.6	-0.9	231	-1.1	2.9	-4.0	.94	-1.1	-0.1	-10.6	-1.2	0.98	-10.9	0.50	3
+1971	724	Mike Ryan	http://www.baseball-reference.com/players/r/ryanmi02.shtml	ryanmi02	29	144	PHI	-10.7	-1.1	144	-1.5	2.0	-3.5	1.19	-1.2	-0.0	-13.5	-1.4	0.96	-12.2	4.48	1
+1971	725	Nolan Ryan	http://www.baseball-reference.com/players/r/ryanno01.shtml	ryanno01	24	53	NYM	-6.3	-0.7	53	-0.8	0.3	-1.1	.92	-0.6	-0.3	-7.6	-0.8	0.97	-6.2		0
+1971	726	Ray Sadecki*	http://www.baseball-reference.com/players/s/sadecra01.shtml	sadecra01	30	57	NYM	-5.1	-0.5	58	-0.4	0.5	-0.9	.83	-0.3	-0.1	-4.5	-0.5	0.97	-3.4		0
+1971	727	Chico Salmon	http://www.baseball-reference.com/players/s/salmoch01.shtml	salmoch01	30	90	BAL	-7.9	-0.8	92	-0.8	1.1	-1.9	1.21	-0.8	0.2	-7.7	-0.8	1.06	-6.1	1.49	19
+1971	728	Ken Sanders	http://www.baseball-reference.com/players/s/sandeke01.shtml	sandeke01	29	16	MIL	-3.3	-0.4	16	-0.3	0.0	-0.3	.95	-0.3	0.0	-3.6	-0.4	1.07	-3.1		0
+1971	729	Charlie Sands*	http://www.baseball-reference.com/players/s/sandsch01.shtml	sandsch01	23	32	PIT	1.0	0.1	32	-0.1	0.4	-0.5	.99	0.1	-0.1	2.8	0.3	1.00	1.1	0.95	18
+1971	730	Manny Sanguillen	http://www.baseball-reference.com/players/s/sanguma01.shtml	sanguma01	27	559	PIT	9.3	1.0	583	2.7	11.9	-9.1	1.01	1.5	1.2	17.2	1.8	1.03	12.1	2.48	4
+1971	731	Ron Santo	http://www.baseball-reference.com/players/s/santoro01.shtml	santoro01	31	642	CHC	8.6	0.9	652	0.6	12.2	-11.5	1.05	1.0	-0.4	9.4	0.9	1.00	15.9		0
+1971	732	Al Santorini	http://www.baseball-reference.com/players/s/santoal01.shtml	santoal01	23	15	TOT	-0.3	-0.0	15	-0.1	0.1	-0.3	.95	-0.1	-0.1	-0.1	-0.0	1.07	-0.6		0
+1971	733	Al Santorini	http://www.baseball-reference.com/players/s/santoal01.shtml	santoal01	23	5	SDP	0.2	0.0	5	-0.0	0.0	-0.1	.47	-0.0	-0.1	0.4	0.0	0.98	0.2		0
+1971	734	Al Santorini	http://www.baseball-reference.com/players/s/santoal01.shtml	santoal01	23	10	STL	-0.5	-0.1	10	-0.1	0.1	-0.2	1.19	-0.1	-0.0	-0.5	-0.1	1.11	-0.8		0
+1971	735	Ted Savage	http://www.baseball-reference.com/players/s/savagte01.shtml	savagte01	34	54	TOT	-3.5	-0.4	57	-0.1	1.1	-1.2	1.42	-0.2	0.1	-2.5	-0.3	1.06	-2.2	1.80	18
+1971	736	Ted Savage	http://www.baseball-reference.com/players/s/savagte01.shtml	savagte01	34	22	MIL	-0.6	-0.1	23	0.1	0.7	-0.6	1.91	0.1	0.0	0.8	0.1	1.07	0.6	2.23	8
+1971	737	Ted Savage	http://www.baseball-reference.com/players/s/savagte01.shtml	savagte01	34	32	KCR	-2.9	-0.3	34	-0.2	0.4	-0.6	1.08	-0.3	0.1	-3.3	-0.4	1.06	-2.7	1.45	10
+1971	738	Paul Schaal	http://www.baseball-reference.com/players/s/schaapa01.shtml	schaapa01	28	659	KCR	26.6	2.8	683	3.9	13.3	-9.4	.95	3.5	0.6	31.5	3.3	0.92	35.8		0
+1971	739	Richie Scheinblum#	http://www.baseball-reference.com/players/s/scheiri01.shtml	scheiri01	28	58	WSA	-3.6	-0.4	58	-0.2	0.9	-1.1	1.25	-0.3	0.1	-1.6	-0.2	1.00	-2.1	1.59	13
+1971	740	Fred Scherman*	http://www.baseball-reference.com/players/s/scherfr01.shtml	scherfr01	26	30	DET	-1.5	-0.2	30	0.2	0.7	-0.4	1.13	-0.1	0.3	-0.4	-0.0	1.09	-1.8		0
+1971	741	Jay Schlueter	http://www.baseball-reference.com/players/s/schluja01.shtml	schluja01	21	3	HOU	-0.1	-0.0	3	-0.1	0.0	-0.1	1.83	-0.0	-0.1	-0.3	-0.0	1.11	-0.1	0.32	2
+1971	742	Dick Schofield#	http://www.baseball-reference.com/players/s/schofdi01.shtml	schofdi01	36	103	TOT	-4.3	-0.5	105	-0.7	1.4	-2.1	1.04	-0.1	-0.6	-2.1	-0.2	0.94	-1.0	1.13	17
+1971	743	Dick Schofield#	http://www.baseball-reference.com/players/s/schofdi01.shtml	schofdi01	36	72	STL	-0.9	-0.1	72	-0.1	1.2	-1.2	.88	0.2	-0.2	1.3	0.1	0.91	1.6	0.24	6
+1971	744	Dick Schofield#	http://www.baseball-reference.com/players/s/schofdi01.shtml	schofdi01	36	31	MIL	-3.4	-0.4	33	-0.7	0.3	-0.9	1.41	-0.3	-0.2	-3.4	-0.4	1.00	-2.6	1.62	11
+1971	745	George Scott	http://www.baseball-reference.com/players/s/scottge02.shtml	scottge02	27	590	BOS	2.6	0.3	602	-1.1	10.8	-11.9	1.06	1.3	-2.3	7.5	0.8	0.96	15.5	0.24	3
+1971	746	Tom Seaver	http://www.baseball-reference.com/players/s/seaveto01.shtml	seaveto01	26	109	NYM	-6.8	-0.7	109	-0.5	1.2	-1.8	.87	-0.3	-0.3	-5.4	-0.6	0.96	-4.5	1.27	0
+1971	747	Diego Segui	http://www.baseball-reference.com/players/s/seguidi01.shtml	seguidi01	33	51	OAK	-7.8	-0.8	51	-0.4	0.4	-0.9	.83	-0.7	0.1	-1.4	-0.2	0.83	-6.0		0
+1971	748	Dick Selma	http://www.baseball-reference.com/players/s/selmadi01.shtml	selmadi01	27	1	PHI	0.5	0.0	1	0.0	0.0	0.0	.45	0.0	-0.0	0.1	0.0	0.38	0.3		0
+1971	749	Al Severinsen	http://www.baseball-reference.com/players/s/several01.shtml	several01	26	2	SDP	-0.2	-0.0	2	-0.0	0.0	-0.0	.89	-0.0	0.0	-0.5	-0.1	1.34	-0.4		0
+1971	750	Rich Severson	http://www.baseball-reference.com/players/s/severri01.shtml	severri01	26	33	KCR	0.8	0.1	33	0.3	0.6	-0.3	.75	0.1	0.3	1.1	0.1	0.89	1.2	0.39	3
+1971	751	Art Shamsky*	http://www.baseball-reference.com/players/s/shamsar01.shtml	shamsar01	29	157	NYM	-1.6	-0.2	159	-0.6	2.5	-3.1	1.06	-0.2	-0.4	-0.3	-0.0	0.96	-1.7	1.43	24
+1971	752	Don Shaw*	http://www.baseball-reference.com/players/s/shawdo01.shtml	shawdo01	27	2	STL	-0.3	-0.0	2	-0.0	0.0	-0.0	.43	-0.0	0.0	-0.7	-0.1	1.49	-0.5		0
+1971	753	Jim Shellenback*	http://www.baseball-reference.com/players/s/shellji01.shtml	shellji01	27	32	WSA	-3.3	-0.4	32	-0.5	0.1	-0.7	1.01	-0.4	-0.1	-5.0	-0.6	1.05	-4.4		0
+1971	754	Tom Shopay*	http://www.baseball-reference.com/players/s/shopato01.shtml	shopato01	26	79	BAL	-3.8	-0.4	82	-0.5	1.6	-2.0	1.33	-0.4	0.1	-3.9	-0.4	1.01	-4.8	1.70	30
+1971	755	Chris Short	http://www.baseball-reference.com/players/s/shortch02.shtml	shortch02	33	61	PHI	-7.8	-0.8	63	-0.8	0.6	-1.4	1.14	-0.7	-0.0	-8.0	-0.9	0.99	-7.0		0
+1971	756	Sonny Siebert	http://www.baseball-reference.com/players/s/siebeso01.shtml	siebeso01	34	90	BOS	1.5	0.2	92	0.7	1.9	-1.3	.89	0.6	0.2	4.5	0.5	0.90	5.7		0
+1971	757	Tom Silverio*	http://www.baseball-reference.com/players/s/silveto01.shtml	silveto01	25	3	CAL	-0.0	0.0	3	-0.0	0.0	-0.0	.34	-0.0	-0.0	0.1	0.0	0.70	-0.1	0.34	3
+1971	758	Ted Simmons#	http://www.baseball-reference.com/players/s/simmote01.shtml	simmote01	21	563	STL	10.6	1.1	576	3.1	11.9	-8.9	1.00	1.0	2.1	17.0	1.7	0.99	10.9	2.40	6
+1971	759	Wayne Simpson	http://www.baseball-reference.com/players/s/simpswa01.shtml	simpswa01	22	40	CIN	-6.5	-0.7	40	-0.7	0.2	-0.9	1.09	-0.6	-0.1	-5.8	-0.6	0.94	-5.8		0
+1971	760	Duke Sims*	http://www.baseball-reference.com/players/s/simsdu01.shtml	simsdu01	30	263	LAD	6.9	0.7	264	-0.1	4.6	-4.8	1.09	0.1	-0.2	-3.2	-0.3	1.04	1.2	1.15	18
+1971	761	Bill Singer	http://www.baseball-reference.com/players/s/singebi01.shtml	singebi01	27	74	LAD	-7.8	-0.8	74	-0.8	0.5	-1.3	.95	-1.0	0.1	-8.8	-1.0	1.00	-9.8		0
+1971	762	Ken Singleton#	http://www.baseball-reference.com/players/s/singlke01.shtml	singlke01	24	366	NYM	10.5	1.1	368	1.7	7.9	-6.2	1.11	1.4	0.1	9.8	1.0	1.00	12.5	2.14	23
+1971	763	Ted Sizemore	http://www.baseball-reference.com/players/s/sizemte01.shtml	sizemte01	26	532	STL	-10.8	-1.1	551	-0.6	8.3	-8.9	1.00	-0.6	-0.0	-2.8	-0.3	0.97	-8.6	1.69	5
+1971	764	Jim Slaton	http://www.baseball-reference.com/players/s/slatoji01.shtml	slatoji01	21	54	MIL	-7.1	-0.8	54	-0.8	0.2	-1.0	.89	-0.7	-0.1	-8.4	-0.9	1.00	-7.7		0
+1971	765	Ron Slocum	http://www.baseball-reference.com/players/s/slocuro01.shtml	slocuro01	25	20	SDP	-4.3	-0.5	20	-0.2	0.1	-0.3	.65	-0.3	-0.0	-2.1	-0.2	0.80	-2.9		0
+1971	766	Bernie Smith	http://www.baseball-reference.com/players/s/smithbe01.shtml	smithbe01	29	37	MIL	-4.1	-0.4	37	-0.4	0.4	-0.8	1.11	-0.4	0.1	-4.5	-0.5	0.97	-5.2	1.41	5
+1971	767	Reggie Smith#	http://www.baseball-reference.com/players/s/smithre06.shtml	smithre06	26	692	BOS	23.5	2.4	711	3.5	14.7	-11.2	1.00	2.8	0.7	34.7	3.5	0.93	32.3		0
+1971	768	Willie Smith*	http://www.baseball-reference.com/players/s/smithwi02.shtml	smithwi02	32	58	CIN	-4.9	-0.5	59	-1.0	0.7	-1.8	1.20	-0.3	-0.6	-4.4	-0.5	0.92	-3.0	1.64	20
+1971	769	Eric Soderholm	http://www.baseball-reference.com/players/s/soderer01.shtml	soderer01	22	78	MIN	-3.1	-0.3	81	-0.4	0.9	-1.3	.97	-0.3	-0.1	-2.7	-0.3	0.92	-2.8		0
+1971	770	Al Spangler*	http://www.baseball-reference.com/players/s/spangal01.shtml	spangal01	37	5	CHC	0.1	0.0	5	-0.1	0.0	-0.1	.73	-0.0	-0.1	-0.5	-0.0	1.09	-0.2	0.73	5
+1971	771	Chris Speier	http://www.baseball-reference.com/players/s/speiech01.shtml	speiech01	21	670	SFG	-16.4	-1.7	692	-0.7	11.2	-11.9	1.03	-1.2	0.5	-12.8	-1.4	0.95	-10.4	2.31	2
+1971	772	Bob Spence*	http://www.baseball-reference.com/players/s/spencbo01.shtml	spencbo01	25	33	CHW	-2.7	-0.3	33	-0.2	0.3	-0.5	.96	-0.2	0.1	-3.4	-0.4	0.89	-2.6	1.03	5
+1971	773	Jim Spencer*	http://www.baseball-reference.com/players/s/spencji01.shtml	spencji01	23	572	CAL	2.0	0.2	579	-1.8	10.0	-11.7	1.12	0.8	-2.4	-0.2	-0.0	0.95	7.1	1.30	7
+1971	774	Ed Spiezio	http://www.baseball-reference.com/players/s/spiezed01.shtml	spiezed01	29	340	SDP	-6.9	-0.7	346	-1.3	5.3	-6.6	1.04	-0.4	-0.9	-4.9	-0.5	0.96	-4.6	1.17	7
+1971	775	Scipio Spinks	http://www.baseball-reference.com/players/s/spinksc01.shtml	spinksc01	23	9	HOU	-0.9	-0.1	3	-0.1	0.0	-0.1	.76	-0.1	-0.0	-0.7	-0.1	1.07	-0.7		0
+1971	776	Paul Splittorff*	http://www.baseball-reference.com/players/s/splitpa01.shtml	splitpa01	24	52	KCR	-7.6	-0.8	52	-0.8	0.2	-1.0	.91	-0.7	-0.1	-7.8	-0.9	1.00	-7.1		0
+1971	777	Ed Sprague	http://www.baseball-reference.com/players/s/spraged01.shtml	spraged01	25	1	CIN	-0.2	-0.0	1	-0.0	0.0	-0.0	.65	-0.0	0.0	-0.2	-0.0	0.86	-0.2		0
+1971	778	Marv Staehle*	http://www.baseball-reference.com/players/s/staehma01.shtml	staehma01	29	42	ATL	-4.8	-0.5	42	-0.5	0.5	-1.0	1.15	-0.5	0.1	-4.4	-0.5	0.95	-4.3	1.46	11
+1971	779	Larry Stahl*	http://www.baseball-reference.com/players/s/stahlla01.shtml	stahlla01	30	341	SDP	1.9	0.2	330	1.3	7.1	-5.8	1.12	0.0	1.1	2.1	0.2	0.94	0.5	2.02	26
+1971	780	Fred Stanley	http://www.baseball-reference.com/players/s/stanlfr01.shtml	stanlfr01	23	160	CLE	-1.6	-0.2	164	0.0	2.3	-2.3	.92	-0.1	0.1	-0.9	-0.1	0.91	-1.7		0
+1971	781	Mickey Stanley	http://www.baseball-reference.com/players/s/stanlmi01.shtml	stanlmi01	28	432	DET	0.1	0.0	443	0.4	7.8	-7.4	1.02	0.2	0.2	1.0	0.1	0.99	3.8	0.75	6
+1971	782	Leroy Stanton	http://www.baseball-reference.com/players/s/stantle01.shtml	stantle01	25	23	NYM	-1.5	-0.2	23	-0.5	0.4	-0.8	1.66	-0.2	-0.1	-1.8	-0.2	0.95	-1.5		0
+1971	783	Willie Stargell*	http://www.baseball-reference.com/players/s/stargwi01.shtml	stargwi01	31	606	PIT	58.9	6.0	614	5.8	14.6	-8.8	.97	7.3	-1.3	71.4	7.2	0.98	77.5	2.11	3
+1971	784	Rusty Staub*	http://www.baseball-reference.com/players/s/staubru01.shtml	staubru01	27	690	MON	40.5	4.2	711	4.7	15.5	-10.8	1.01	3.6	1.1	49.3	5.1	0.99	40.0	1.23	5
+1971	785	Rick Stelmaszek*	http://www.baseball-reference.com/players/s/stelmri01.shtml	stelmri01	22	9	WSA	-2.3	-0.2	9	-0.1	0.0	-0.1	.46	-0.2	-0.0	-1.8	-0.2	0.77	-2.1	0.69	4
+1971	786	Rennie Stennett	http://www.baseball-reference.com/players/s/stennre01.shtml	stennre01	20	165	PIT	6.2	0.6	171	0.3	2.5	-2.2	.84	0.7	-0.4	8.8	0.9	0.89	8.0	1.33	15
+1971	787	Earl Stephenson*	http://www.baseball-reference.com/players/s/stephea01.shtml	stephea01	23	2	CHC	-0.6	-0.1	2	0.0	0.0	-0.0	-.05	-0.1	0.0	-0.0	-0.0	0.49	0.1		0
+1971	788	John Stephenson*	http://www.baseball-reference.com/players/s/stephjo02.shtml	stephjo02	30	308	CAL	-8.6	-0.9	310	-1.0	4.7	-5.7	1.11	-0.5	-0.4	-0.1	-0.0	0.92	-4.2	1.88	16
+1971	789	Jimmy Stewart#	http://www.baseball-reference.com/players/s/stewaji01.shtml	stewaji01	32	92	CIN	-2.3	-0.2	97	0.5	2.7	-2.2	1.50	-0.1	0.4	1.6	0.2	0.97	-1.9	1.78	48
+1971	790	Bob Stinson#	http://www.baseball-reference.com/players/s/stinsbo01.shtml	stinsbo01	25	20	STL	-1.4	-0.2	20	-0.2	0.1	-0.3	.67	-0.2	-0.2	-1.0	-0.1	0.94	-0.8	0.16	1
+1971	791	George Stone*	http://www.baseball-reference.com/players/s/stonege02.shtml	stonege02	24	66	ATL	-7.6	-0.8	65	-0.2	1.0	-1.2	1.06	-0.6	0.4	-2.8	-0.3	0.94	-4.9		0
+1971	792	Ron Stone*	http://www.baseball-reference.com/players/s/stonero02.shtml	stonero02	28	214	PHI	-4.3	-0.4	219	-0.1	4.5	-4.6	1.41	-0.3	0.2	1.1	0.1	1.02	-2.0	2.02	43
+1971	793	Steve Stone	http://www.baseball-reference.com/players/s/stonest01.shtml	stonest01	23	42	SFG	-7.3	-0.8	42	-0.7	0.2	-0.9	.94	-0.7	-0.1	-7.2	-0.8	0.96	-7.3		0
+1971	794	Bill Stoneman	http://www.baseball-reference.com/players/s/stonebi01.shtml	stonebi01	27	111	MON	-12.3	-1.3	114	-0.9	0.9	-1.8	.85	-1.2	0.2	-9.6	-1.0	0.95	-10.6		0
+1971	795	Mel Stottlemyre	http://www.baseball-reference.com/players/s/stottme01.shtml	stottme01	29	103	NYY	-9.4	-1.0	103	-0.7	1.2	-1.9	.97	-0.6	-0.1	-6.6	-0.7	1.00	-7.1		0
+1971	796	Mike Strahler	http://www.baseball-reference.com/players/s/strahmi01.shtml	strahmi01	24	1	LAD	-0.2	-0.0	1	-0.0	0.0	-0.0	1.22	-0.0	0.0	-0.3	-0.0	1.13	-0.2		0
+1971	797	Jim Strickland*	http://www.baseball-reference.com/players/s/stricji01.shtml	stricji01	25	2	MIN	0.1	0.0	3	0.0	0.0	-0.0	.59	0.0	0.0	0.3	0.0	0.70	0.3		0
+1971	798	John Strohmayer	http://www.baseball-reference.com/players/s/strohjo01.shtml	strohjo01	24	40	MON	-3.3	-0.4	41	-0.3	0.4	-0.7	.98	-0.4	0.1	-2.6	-0.3	1.09	-3.3		0
+1971	799	Ed Stroud*	http://www.baseball-reference.com/players/s/stroued01.shtml	stroued01	31	153	CHW	-12.6	-1.4	165	-2.2	1.3	-3.5	1.06	-1.2	-0.8	-14.6	-1.5	0.90	-11.6	1.46	14
+1971	800	Ken Suarez	http://www.baseball-reference.com/players/s/suareke01.shtml	suareke01	28	146	CLE	-5.3	-0.6	149	-0.4	2.0	-2.4	1.00	-0.3	-0.0	-2.8	-0.3	0.92	-4.3	0.16	2
+1971	801	Bill Sudakis#	http://www.baseball-reference.com/players/s/sudakbi01.shtml	sudakbi01	25	96	LAD	-1.3	-0.1	97	-0.7	1.2	-2.0	1.12	-0.2	-0.4	-1.4	-0.2	0.96	-2.2	1.65	21
+1971	802	Gary Sutherland	http://www.baseball-reference.com/players/s/suthega01.shtml	suthega01	26	331	MON	-8.5	-0.9	337	0.4	6.4	-5.9	1.02	-0.7	1.1	-1.3	-0.1	0.96	-5.1	1.50	19
+1971	803	Don Sutton	http://www.baseball-reference.com/players/s/suttodo01.shtml	suttodo01	26	95	LAD	-6.9	-0.7	97	0.1	1.5	-1.4	.92	-0.5	0.6	-0.7	-0.1	0.94	-4.1		0
+1971	804	Stan Swanson	http://www.baseball-reference.com/players/s/swansst01.shtml	swansst01	27	118	MON	-2.5	-0.3	121	-1.0	1.3	-2.2	.98	-0.2	-0.8	-2.3	-0.2	0.96	-2.9	1.42	10
+1971	805	Ron Swoboda	http://www.baseball-reference.com/players/s/swoboro01.shtml	swoboro01	27	259	TOT	5.9	0.6	263	1.4	5.4	-4.0	1.05	0.9	0.5	6.6	0.7	1.02	9.7	1.26	29
+1971	806	Ron Swoboda	http://www.baseball-reference.com/players/s/swoboro01.shtml	swoboro01	27	89	MON	1.7	0.2	91	0.1	1.6	-1.5	.98	0.0	0.1	-1.5	-0.2	0.96	1.9	0.76	18
+1971	807	Ron Swoboda	http://www.baseball-reference.com/players/s/swoboro01.shtml	swoboro01	27	170	NYY	4.2	0.4	172	1.3	3.8	-2.5	1.09	0.8	0.4	8.1	0.9	1.06	7.9	2.07	11
+1971	808	Ken Tatum	http://www.baseball-reference.com/players/t/tatumke01.shtml	tatumke01	27	12	BOS	1.0	0.1	12	-0.1	0.0	-0.2	.56	0.1	-0.3	-1.4	-0.1	0.94	1.0		0
+1971	809	Carl Taylor	http://www.baseball-reference.com/players/t/tayloca01.shtml	tayloca01	27	58	TOT	-4.6	-0.5	61	-1.1	0.4	-1.5	1.19	-0.4	-0.5	-4.5	-0.5	0.88	-4.1	1.21	13
+1971	810	Carl Taylor	http://www.baseball-reference.com/players/t/tayloca01.shtml	tayloca01	27	46	KCR	-3.4	-0.4	48	-0.7	0.3	-1.0	1.04	-0.3	-0.4	-2.4	-0.3	0.83	-2.9	1.54	7
+1971	811	Carl Taylor	http://www.baseball-reference.com/players/t/tayloca01.shtml	tayloca01	27	12	PIT	-1.2	-0.1	13	-0.4	0.2	-0.5	1.74	-0.1	-0.1	-2.1	-0.2	1.07	-1.2	0.81	6
+1971	812	Chuck Taylor	http://www.baseball-reference.com/players/t/tayloch02.shtml	tayloch02	29	12	STL	-1.2	-0.1	13	0.0	0.2	-0.2	.78	-0.0	0.1	0.3	0.0	0.90	-0.6		0
+1971	813	Ron Taylor	http://www.baseball-reference.com/players/t/tayloro01.shtml	tayloro01	33	4	NYM	-0.3	-0.0	4	-0.0	0.0	-0.0	.34	-0.0	0.0	-0.4	-0.0	0.61	-0.4		0
+1971	814	Tony Taylor	http://www.baseball-reference.com/players/t/tayloto02.shtml	tayloto02	35	314	TOT	-3.4	-0.4	329	1.1	6.4	-5.3	1.05	0.1	0.9	5.8	0.6	0.88	1.6	2.06	19
+1971	815	Tony Taylor	http://www.baseball-reference.com/players/t/tayloto02.shtml	tayloto02	35	118	PHI	-4.7	-0.5	123	-0.6	1.4	-2.0	1.06	-0.5	-0.1	-4.8	-0.5	0.83	-4.9	1.96	9
+1971	816	Tony Taylor	http://www.baseball-reference.com/players/t/tayloto02.shtml	tayloto02	35	196	DET	1.3	0.1	206	1.6	5.0	-3.3	1.04	0.6	1.0	10.6	1.1	0.91	6.5	2.15	10
+1971	817	Gene Tenace	http://www.baseball-reference.com/players/t/tenacge01.shtml	tenacge01	24	211	OAK	8.5	0.9	215	0.8	4.7	-3.9	1.18	1.2	-0.5	13.6	1.4	1.00	14.3	2.48	13
+1971	818	Frank Tepedino*	http://www.baseball-reference.com/players/t/tepedfr01.shtml	tepedfr01	23	118	TOT	-10.0	-1.1	124	-1.5	1.5	-3.1	1.20	-1.0	-0.3	-10.0	-1.1	0.98	-9.6	1.68	29
+1971	819	Frank Tepedino*	http://www.baseball-reference.com/players/t/tepedfr01.shtml	tepedfr01	23	6	NYY	-1.6	-0.2	6	-0.5	0.0	-0.5	2.33	-0.2	-0.0	-2.8	-0.3	1.20	-2.1	2.33	6
+1971	820	Frank Tepedino*	http://www.baseball-reference.com/players/t/tepedfr01.shtml	tepedfr01	23	112	MIL	-8.5	-0.9	118	-1.1	1.5	-2.6	1.14	-0.8	-0.2	-7.2	-0.8	0.96	-7.5	1.52	23
+1971	821	Ron Theobald	http://www.baseball-reference.com/players/t/theobro01.shtml	theobro01	27	452	MIL	-3.0	-0.3	482	-0.4	7.2	-7.6	1.04	-0.1	-0.2	-0.6	-0.1	0.93	-2.4	1.06	12
+1971	822	Derrel Thomas#	http://www.baseball-reference.com/players/t/thomade01.shtml	thomade01	20	6	HOU	-1.3	-0.1	2	-0.1	0.0	-0.1	2.06	-0.1	-0.0	-0.6	-0.1	1.00	-0.6	0.39	1
+1971	823	George Thomas	http://www.baseball-reference.com/players/t/thomage01.shtml	thomage01	33	48	TOT	-3.0	-0.3	48	-0.3	0.9	-1.1	1.34	-0.2	-0.0	-2.6	-0.3	0.96	-2.8	1.32	18
+1971	824	George Thomas	http://www.baseball-reference.com/players/t/thomage01.shtml	thomage01	33	14	BOS	-2.5	-0.3	14	-0.3	0.2	-0.5	1.90	-0.2	0.0	-1.9	-0.2	1.03	-2.3	2.07	4
+1971	825	George Thomas	http://www.baseball-reference.com/players/t/thomage01.shtml	thomage01	33	34	MIN	-0.5	-0.1	34	0.0	0.7	-0.6	1.11	-0.0	0.1	-0.8	-0.1	0.93	-0.5	1.11	14
+1971	826	Danny Thompson	http://www.baseball-reference.com/players/t/thompda01.shtml	thompda01	24	68	MIN	-1.2	-0.1	69	-0.1	1.2	-1.4	1.16	-0.2	0.1	-0.5	-0.0	0.95	-2.2	1.84	20
+1971	827	Mike Thompson	http://www.baseball-reference.com/players/t/thompmi01.shtml	thompmi01	21	20	WSA	-1.9	-0.2	20	-0.3	0.1	-0.4	1.14	-0.2	-0.1	-2.7	-0.3	1.00	-2.0		0
+1971	828	Luis Tiant	http://www.baseball-reference.com/players/t/tiantlu01.shtml	tiantlu01	30	19	BOS	-2.6	-0.3	19	-0.4	0.1	-0.5	1.16	-0.3	-0.0	-3.4	-0.4	0.94	-3.1		0
+1971	829	Tom Timmermann	http://www.baseball-reference.com/players/t/timmeto01.shtml	timmeto01	31	22	DET	-4.1	-0.4	22	-0.4	0.1	-0.5	1.02	-0.4	-0.0	-4.1	-0.4	0.96	-3.6		0
+1971	830	Tom Tischinski	http://www.baseball-reference.com/players/t/tischto01.shtml	tischto01	26	25	MIN	-2.5	-0.3	25	-0.2	0.2	-0.4	.77	-0.2	-0.0	-3.2	-0.3	0.92	-2.7		0
+1971	831	Ron Tompkins	http://www.baseball-reference.com/players/t/tompkro01.shtml	tompkro01	26	1	CHC	-0.0	0.0	1	-0.0	0.0	-0.0	.79	-0.0	-0.0	-0.2	-0.0	1.42	-0.1		0
+1971	832	Jeff Torborg	http://www.baseball-reference.com/players/t/torboje01.shtml	torboje01	29	130	CAL	-10.1	-1.1	133	-0.9	1.2	-2.1	.78	-1.2	0.0	-12.3	-1.4	0.93	-11.7	0.44	6
+1971	833	Joe Torre	http://www.baseball-reference.com/players/t/torrejo01.shtml	torrejo01	30	707	STL	60.3	6.2	726	8.9	19.7	-10.9	1.07	6.4	1.9	81.2	8.1	1.04	73.9		0
+1971	834	Hector Torres	http://www.baseball-reference.com/players/t/torrehe01.shtml	torrehe01	25	63	CHC	-4.1	-0.4	64	-0.0	1.2	-1.2	1.06	-0.3	0.3	-4.4	-0.4	1.04	-2.8	2.65	4
+1971	835	Rusty Torres#	http://www.baseball-reference.com/players/t/torreru01.shtml	torreru01	22	26	NYY	3.6	0.4	27	0.3	0.7	-0.4	.93	0.5	-0.2	2.3	0.2	0.84	4.5	0.82	4
+1971	836	Mike Torrez	http://www.baseball-reference.com/players/t/torremi01.shtml	torremi01	24	11	TOT	0.2	0.0	12	0.1	0.4	-0.3	1.48	0.1	-0.0	0.1	0.0	1.06	0.7		0
+1971	837	Mike Torrez	http://www.baseball-reference.com/players/t/torremi01.shtml	torremi01	24	11	STL	0.2	0.0	12	0.1	0.4	-0.3	1.48	0.1	-0.0	0.1	0.0	1.06	0.7		0
+1971	838	Cesar Tovar	http://www.baseball-reference.com/players/t/tovarce01.shtml	tovarce01	30	718	MIN	3.2	0.3	761	2.3	13.7	-11.4	1.03	1.3	0.8	17.7	1.8	0.95	13.1	2.12	1
+1971	839	Wayne Twitchell	http://www.baseball-reference.com/players/t/twitcwa01.shtml	twitcwa01	23	3	PHI	-0.8	-0.1	3	-0.0	0.0	-0.0	.67	-0.1	-0.0	-0.8	-0.1	1.09	-0.7		0
+1971	840	Ted Uhlaender*	http://www.baseball-reference.com/players/u/uhlaete01.shtml	uhlaete01	31	542	CLE	-7.7	-0.8	567	0.6	9.7	-9.1	.98	0.1	0.5	4.4	0.4	0.94	0.3	1.47	11
+1971	841	Del Unser*	http://www.baseball-reference.com/players/u/unserde01.shtml	unserde01	26	648	WSA	-0.7	-0.1	672	-0.8	9.8	-10.6	.97	0.6	-1.4	2.0	0.2	0.92	7.7	0.14	2
+1971	842	Cecil Upshaw	http://www.baseball-reference.com/players/u/upshace01.shtml	upshace01	28	17	ATL	-4.1	-0.4	17	-0.5	0.0	-0.5	1.05	-0.4	-0.1	-4.1	-0.4	0.92	-4.4		0
+1971	843	Sandy Valdespino*	http://www.baseball-reference.com/players/v/valdesa01.shtml	valdesa01	32	65	KCR	3.0	0.3	66	1.0	2.4	-1.3	1.29	0.4	0.4	7.8	0.8	0.95	4.6	4.64	3
+1971	844	Bobby Valentine	http://www.baseball-reference.com/players/v/valenbo02.shtml	valenbo02	21	307	LAD	-9.2	-1.0	317	-0.2	4.8	-5.1	.94	-0.6	0.3	-2.6	-0.3	0.94	-6.4	1.31	14
+1971	845	Sandy Vance	http://www.baseball-reference.com/players/v/vancesa01.shtml	vancesa01	24	6	LAD	-1.0	-0.1	6	-0.1	0.0	-0.1	.84	-0.1	-0.1	-0.7	-0.1	0.83	-0.8		0
+1971	846	Bob Veale#	http://www.baseball-reference.com/players/v/vealebo01.shtml	vealebo01	35	10	PIT	-0.2	-0.0	10	0.2	0.3	-0.1	.85	0.1	0.2	1.4	0.1	1.05	0.4		0
+1971	847	Zoilo Versalles	http://www.baseball-reference.com/players/v/versazo01.shtml	versazo01	31	210	ATL	-12.9	-1.4	210	-0.5	3.4	-4.0	1.08	-0.9	0.4	-8.3	-0.9	0.97	-10.9	1.26	8
+1971	848	Bill Voss*	http://www.baseball-reference.com/players/v/vossbi01.shtml	vossbi01	27	303	MIL	-2.3	-0.2	314	-0.2	5.6	-5.8	1.13	-0.0	-0.2	-0.6	-0.1	0.98	3.8	1.70	20
+1971	849	John Vukovich	http://www.baseball-reference.com/players/v/vukovjo01.shtml	vukovjo01	23	233	PHI	-24.7	-2.6	239	-1.5	3.2	-4.6	1.01	-1.8	0.4	-15.5	-1.6	0.96	-18.6		0
+1971	850	Luke Walker*	http://www.baseball-reference.com/players/w/walkelu01.shtml	walkelu01	27	54	PIT	-9.6	-1.0	55	-0.7	0.2	-1.0	.81	-0.9	0.0	-7.8	-0.8	0.87	-8.8		0
+1971	851	Danny Walton	http://www.baseball-reference.com/players/w/waltoda01.shtml	waltoda01	23	91	TOT	-3.4	-0.4	92	-0.3	1.6	-1.9	1.11	-0.3	0.1	-3.4	-0.4	0.92	-2.4	1.48	10
+1971	852	Danny Walton	http://www.baseball-reference.com/players/w/waltoda01.shtml	waltoda01	23	77	MIL	-2.2	-0.2	78	-0.2	1.5	-1.7	1.19	-0.4	0.2	-2.8	-0.3	0.94	-2.9	1.55	9
+1971	853	Danny Walton	http://www.baseball-reference.com/players/w/waltoda01.shtml	waltoda01	23	14	NYY	-1.2	-0.1	14	-0.1	0.1	-0.2	.67	0.0	-0.1	-0.6	-0.1	0.83	0.5	0.77	1
+1971	854	Gary Waslewski	http://www.baseball-reference.com/players/w/waslega01.shtml	waslega01	29	1	NYY	-0.2	-0.0	1	-0.0	0.0	-0.0	1.45	-0.0	-0.0	-0.4	-0.0	1.51	-0.3		0
+1971	855	Bob Watson	http://www.baseball-reference.com/players/w/watsobo01.shtml	watsobo01	25	514	HOU	8.0	0.8	510	2.6	11.4	-8.8	1.13	1.5	0.8	19.8	2.1	0.96	15.3	3.08	2
+1971	856	Eddie Watt	http://www.baseball-reference.com/players/w/watted01.shtml	watted01	30	6	BAL	-1.0	-0.1	6	-0.1	0.0	-0.1	.21	-0.2	-0.2	-2.7	-0.3	1.15	-1.5		0
+1971	857	Floyd Weaver	http://www.baseball-reference.com/players/w/weavefl01.shtml	weavefl01	30	1	MIL	0.0	0.0	1	-0.0	0.0	-0.0	1.99	-0.0	-0.0	-0.2	-0.0	1.12	-0.1		0
+1971	858	Ramon Webster*	http://www.baseball-reference.com/players/w/webstra02.shtml	webstra02	28	33	TOT	-1.6	-0.2	33	-0.8	0.3	-1.1	1.63	-0.2	-0.3	-2.8	-0.3	1.09	-2.5	1.72	27
+1971	859	Ramon Webster*	http://www.baseball-reference.com/players/w/webstra02.shtml	webstra02	28	27	TOT	-0.3	-0.0	27	-0.6	0.3	-0.9	1.57	-0.1	-0.3	-2.0	-0.2	1.09	-1.5	1.67	22
+1971	860	Ramon Webster*	http://www.baseball-reference.com/players/w/webstra02.shtml	webstra02	28	10	SDP	-0.6	-0.1	10	-0.3	0.1	-0.4	2.01	-0.0	-0.1	-0.5	-0.1	1.27	-0.7	2.01	8
+1971	861	Ramon Webster*	http://www.baseball-reference.com/players/w/webstra02.shtml	webstra02	28	6	OAK	-1.3	-0.1	6	-0.2	0.0	-0.2	1.92	-0.1	-0.0	-0.8	-0.1	1.09	-1.0	1.92	5
+1971	862	Ramon Webster*	http://www.baseball-reference.com/players/w/webstra02.shtml	webstra02	28	17	CHC	0.3	0.0	17	-0.3	0.2	-0.5	1.30	-0.1	-0.2	-1.4	-0.1	0.99	-0.8	1.47	14
+1971	863	Al Weis#	http://www.baseball-reference.com/players/w/weisal01.shtml	weisal01	33	14	NYM	-2.2	-0.2	14	-0.5	0.0	-0.5	2.13	-0.2	-0.0	-2.6	-0.3	1.29	-1.9	1.90	5
+1971	864	Don Wert	http://www.baseball-reference.com/players/w/wertdo01.shtml	wertdo01	32	46	WSA	-6.7	-0.7	46	-0.7	0.4	-1.1	1.21	-0.7	0.1	-5.9	-0.7	0.97	-6.2	1.21	7
+1971	865	Jack Whillock	http://www.baseball-reference.com/players/w/whillja01.shtml	whillja01	28	1	DET	-0.3	-0.0	1	-0.0	0.0	-0.0	.21	-0.0	0.0	-0.2	-0.0	0.86	-0.2		0
+1971	866	Roy White#	http://www.baseball-reference.com/players/w/whitero01.shtml	whitero01	27	634	NYY	38.7	4.0	660	5.5	14.9	-9.4	1.08	4.4	0.7	43.4	4.6	1.00	43.6	1.76	2
+1971	867	Floyd Wicker*	http://www.baseball-reference.com/players/w/wickefl01.shtml	wickefl01	27	34	TOT	-3.0	-0.3	34	-0.7	0.4	-1.1	1.46	-0.3	-0.1	-3.3	-0.4	0.97	-3.5	2.12	10
+1971	868	Floyd Wicker*	http://www.baseball-reference.com/players/w/wickefl01.shtml	wickefl01	27	10	MIL	-0.7	-0.1	10	-0.7	0.1	-0.8	2.55	-0.1	-0.1	-2.1	-0.2	0.95	-1.3	2.55	8
+1971	869	Floyd Wicker*	http://www.baseball-reference.com/players/w/wickefl01.shtml	wickefl01	27	24	SFG	-2.3	-0.2	24	-0.0	0.3	-0.4	1.01	-0.2	0.2	-1.2	-0.1	0.98	-2.2	0.39	2
+1971	870	Milt Wilcox	http://www.baseball-reference.com/players/w/wilcomi01.shtml	wilcomi01	21	9	CIN	-2.3	-0.2	9	-0.3	0.0	-0.3	1.20	-0.2	-0.0	-2.7	-0.3	1.15	-2.3		0
+1971	871	Hoyt Wilhelm	http://www.baseball-reference.com/players/w/wilheho01.shtml	wilheho01	48	3	TOT	-0.8	-0.1	3	-0.0	0.0	-0.0	.13	-0.1	-0.0	-0.5	-0.1	0.77	-0.7		0
+1971	872	Hoyt Wilhelm	http://www.baseball-reference.com/players/w/wilheho01.shtml	wilheho01	48	3	LAD	-0.8	-0.1	3	-0.0	0.0	-0.0	.13	-0.1	-0.0	-0.5	-0.1	0.77	-0.7		0
+1971	873	Bernie Williams	http://www.baseball-reference.com/players/w/willibe01.shtml	willibe01	22	86	SFG	-4.4	-0.5	89	-0.8	1.2	-2.0	1.24	-0.5	-0.2	-5.8	-0.6	1.03	-4.8	0.75	9
+1971	874	Billy Williams*	http://www.baseball-reference.com/players/w/willibi01.shtml	willibi01	33	677	CHC	31.6	3.3	700	6.1	16.1	-10.0	1.00	4.0	2.2	54.0	5.2	0.94	46.0	1.19	5
+1971	875	Charlie Williams	http://www.baseball-reference.com/players/w/willich01.shtml	willich01	23	29	NYM	-3.9	-0.4	29	-0.3	0.1	-0.4	.80	-0.3	-0.1	-2.9	-0.3	1.02	-2.9		0
+1971	876	Earl Williams	http://www.baseball-reference.com/players/w/williea02.shtml	williea02	22	550	ATL	12.8	1.3	555	1.2	12.0	-10.8	1.11	3.2	-2.1	13.0	1.3	1.00	32.4	1.49	12
+1971	877	Stan Williams	http://www.baseball-reference.com/players/w/willist02.shtml	willist02	34	13	TOT	-2.6	-0.3	13	-0.2	0.0	-0.2	.72	-0.3	0.0	-2.9	-0.3	0.94	-2.9		0
+1971	878	Stan Williams	http://www.baseball-reference.com/players/w/willist02.shtml	willist02	34	12	MIN	-2.4	-0.2	12	-0.2	0.0	-0.2	.75	-0.2	0.0	-2.1	-0.2	0.90	-2.4		0
+1971	879	Stan Williams	http://www.baseball-reference.com/players/w/willist02.shtml	willist02	34	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.37	-0.0	-0.0	-0.8	-0.1	1.49	-0.5		0
+1971	880	Walt Williams	http://www.baseball-reference.com/players/w/williwa02.shtml	williwa02	27	397	CHW	6.2	0.6	413	-0.5	6.3	-6.8	.98	0.5	-1.0	6.0	0.6	0.95	8.3	1.52	27
+1971	881	Jim Willoughby	http://www.baseball-reference.com/players/w/willoji01.shtml	willoji01	22	1	SFG	-0.3	-0.0	1	-0.0	0.0	-0.0	.77	-0.0	-0.0	-0.3	-0.0	1.12	-0.2		0
+1971	882	Maury Wills#	http://www.baseball-reference.com/players/w/willsma01.shtml	willsma01	38	654	LAD	-7.1	-0.7	688	-0.2	10.8	-11.0	1.02	-1.3	1.1	-3.9	-0.4	0.98	-11.3	3.09	6
+1971	883	Bill Wilson	http://www.baseball-reference.com/players/w/wilsobi03.shtml	wilsobi03	28	10	PHI	-1.9	-0.2	10	-0.1	0.1	-0.2	1.00	-0.2	0.1	-1.3	-0.1	0.78	-1.8		0
+1971	884	Don Wilson	http://www.baseball-reference.com/players/w/wilsodo01.shtml	wilsodo01	26	100	HOU	-12.0	-1.3	100	-1.0	0.8	-1.8	.89	-1.2	0.1	-10.2	-1.1	0.97	-11.8		0
+1971	885	Bobby Wine	http://www.baseball-reference.com/players/w/winebo01.shtml	winebo01	32	379	MON	-26.8	-2.8	381	-2.8	3.4	-6.2	.89	-2.6	-0.6	-27.9	-3.0	0.96	-27.4		0
+1971	886	Rick Wise	http://www.baseball-reference.com/players/w/wiseri01.shtml	wiseri01	25	104	PHI	-0.8	-0.1	104	-0.1	1.8	-1.9	1.07	-0.3	0.2	-1.4	-0.1	0.96	-2.8		0
+1971	887	Wilbur Wood	http://www.baseball-reference.com/players/w/woodwi01.shtml	woodwi01	29	124	CHW	-18.5	-2.0	126	-1.8	0.4	-2.2	.86	-2.0	-0.1	-22.6	-2.4	1.01	-21.3		0
+1971	888	Ron Woods	http://www.baseball-reference.com/players/w/woodsro01.shtml	woodsro01	28	195	TOT	5.6	0.6	198	0.6	3.8	-3.2	1.07	0.4	0.2	8.1	0.8	1.04	5.4	1.40	28
+1971	889	Ron Woods	http://www.baseball-reference.com/players/w/woodsro01.shtml	woodsro01	28	36	NYY	0.3	0.0	36	-0.5	0.4	-0.9	1.42	0.0	-0.4	-3.0	-0.3	1.18	-0.6	1.52	17
+1971	890	Ron Woods	http://www.baseball-reference.com/players/w/woodsro01.shtml	woodsro01	28	159	MON	5.4	0.6	162	1.1	3.3	-2.3	.99	0.4	0.7	11.1	1.2	1.01	6.0	1.21	11
+1971	891	Woody Woodward	http://www.baseball-reference.com/players/w/woodwwo01.shtml	woodwwo01	28	309	CIN	-9.0	-0.9	314	-0.3	4.7	-5.0	1.07	-0.9	0.6	-5.3	-0.6	0.95	-9.5	2.73	3
+1971	892	Clyde Wright	http://www.baseball-reference.com/players/w/wrighcl01.shtml	wrighcl01	30	107	CAL	-9.1	-1.0	108	-1.1	1.0	-2.2	1.06	-1.0	-0.1	-10.3	-1.1	0.95	-9.7	0.98	2
+1971	893	Ken Wright	http://www.baseball-reference.com/players/w/wrighke01.shtml	wrighke01	24	24	KCR	-4.0	-0.4	24	-0.2	0.0	-0.3	.55	-0.4	0.0	-3.2	-0.3	0.81	-3.8		0
+1971	894	Jim Wynn	http://www.baseball-reference.com/players/w/wynnji01.shtml	wynnji01	29	466	HOU	-13.1	-1.4	473	-1.4	8.1	-9.5	1.15	-1.4	0.1	-8.5	-0.9	0.95	-11.8	2.17	10
+1971	895	Carl Yastrzemski*	http://www.baseball-reference.com/players/y/yastrca01.shtml	yastrca01	31	620	BOS	13.7	1.4	644	3.2	12.6	-9.4	1.00	2.1	1.1	26.2	2.6	0.93	23.3	1.35	2
+1971	896	Al Yates	http://www.baseball-reference.com/players/y/yatesal01.shtml	yatesal01	26	52	MIL	-0.1	-0.0	53	0.2	1.2	-1.0	1.13	-0.1	0.3	-0.7	-0.1	0.92	-0.3	1.27	11
+1971	897	Jim York	http://www.baseball-reference.com/players/y/yorkji01.shtml	yorkji01	23	18	KCR	-1.4	-0.1	18	-0.1	0.3	-0.4	.93	-0.1	-0.0	0.2	0.0	0.91	-0.6		0
+1971	898	John Young*	http://www.baseball-reference.com/players/y/youngjo01.shtml	youngjo01	22	4	DET	0.8	0.1	4	0.0	0.0	-0.0	.24	0.1	0.1	1.1	0.1	1.07	0.8	0.06	1
+1971	899	Chris Zachary*	http://www.baseball-reference.com/players/z/zachach02.shtml	zachach02	27	33	STL	-3.0	-0.3	33	-0.2	0.3	-0.4	.75	-0.2	0.0	-3.3	-0.3	0.91	-3.5		0
+1971	900	Bill Zepp	http://www.baseball-reference.com/players/z/zeppbi01.shtml	zeppbi01	24	4	DET	-1.1	-0.1	4	-0.1	0.0	-0.1	.70	-0.1	0.0	-0.7	-0.1	0.74	-1.0		0
+1971	901	Richie Zisk	http://www.baseball-reference.com/players/z/ziskri01.shtml	ziskri01	22	19	PIT	0.8	0.1	19	-0.1	0.3	-0.3	.80	-0.1	-0.0	-1.0	-0.1	1.09	-0.7	0.87	1
