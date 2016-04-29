@@ -22,7 +22,7 @@
 1995	22	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	31	4	MON	0.2	0.0	4	0.0	0.0	-0.0	.17	-0.0	0.0	0.0	0.0	0.80	-0.2		0
 1995	23	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	31	1	SFG	-0.3	-0.0	1	-0.0	0.0	-0.0	.64	-0.0	-0.0	-0.1	-0.0	0.38	-0.3		0
 1995	24	Alex Arias	http://www.baseball-reference.com/players/a/ariasal01.shtml	ariasal01	27	246	FLA	-3.6	-0.4	250	-0.5	4.3	-4.8	1.07	-0.1	-0.4	-5.4	-0.5	0.98	-3.6	1.48	38
-1995	25	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	29	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.93	-0.0	0.0	-0.4	-0.0	1.26	-0.3		0
+1995	25	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.93	-0.0	0.0	-0.4	-0.0	1.26	-0.3		0
 1995	26	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	27	67	SDP	-7.2	-0.7	68	-0.6	0.4	-1.1	.83	-0.9	0.1	-8.7	-0.9	0.95	-9.8		0
 1995	27	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	24	244	LAD	-2.6	-0.2	246	-1.7	2.8	-4.6	.99	-0.5	-1.2	-12.9	-1.3	0.99	-7.9	0.88	14
 1995	28	Pedro Astacio	http://www.baseball-reference.com/players/a/astacpe01.shtml	astacpe01	26	27	LAD	-3.7	-0.4	27	-0.4	0.2	-0.5	.93	-0.4	-0.0	-5.7	-0.6	0.95	-5.0		0
@@ -105,7 +105,7 @@
 1995	105	Doug Brocail*	http://www.baseball-reference.com/players/b/brocado01.shtml	brocado01	28	20	HOU	-0.8	-0.1	20	-0.2	0.2	-0.5	1.21	-0.2	0.0	-3.9	-0.4	1.25	-2.2	2.35	1
 1995	106	Rico Brogna*	http://www.baseball-reference.com/players/b/brognri01.shtml	brognri01	25	540	NYM	12.6	1.2	546	2.1	12.1	-10.0	1.12	2.0	-0.1	22.1	2.2	0.95	21.1	1.89	9
 1995	107	Scott Brosius	http://www.baseball-reference.com/players/b/brosisc01.shtml	brosisc01	28	443	OAK	8.6	0.8	456	-0.3	7.0	-7.3	.94	0.2	-0.5	-2.1	-0.2	0.92	1.5	1.54	4
-1995	108	Jarvis Brown	http://www.baseball-reference.com/players/b/brownja03.shtml	brownja03	28	37	BAL	-2.4	-0.2	39	-0.4	0.2	-0.6	.92	-0.4	-0.0	-5.0	-0.5	1.05	-4.6	3.51	1
+1995	108	Jarvis Brown	http://www.baseball-reference.com/players/b/brownja03.shtml	brownja03	28	37	BAL	-2.4	-0.2	39	-0.4	0.2	-0.6	.92	-0.3	-0.0	-5.0	-0.5	1.05	-4.6	3.51	1
 1995	109	Jerry Browne#	http://www.baseball-reference.com/players/b/brownje01.shtml	brownje01	29	220	FLA	-6.9	-0.7	228	-1.6	3.4	-5.0	1.22	-0.5	-0.8	-5.4	-0.5	0.99	-6.7	1.12	23
 1995	110	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	30	445	PIT	-7.5	-0.7	491	0.1	8.5	-8.3	1.03	-0.3	0.5	1.0	0.1	0.94	-4.8	1.16	18
 1995	111	Mike Brumley#	http://www.baseball-reference.com/players/b/brumlmi02.shtml	brumlmi02	32	18	HOU	-3.4	-0.3	19	-0.1	0.4	-0.5	1.34	-0.2	0.2	-3.2	-0.3	1.05	-3.1	1.04	8
@@ -165,7 +165,7 @@
 1995	165	Greg Colbrunn	http://www.baseball-reference.com/players/c/colbrgr01.shtml	colbrgr01	25	560	FLA	-3.4	-0.3	583	0.5	11.0	-10.5	1.02	0.1	0.4	5.6	0.5	0.99	-2.0	2.18	4
 1995	166	Alex Cole*	http://www.baseball-reference.com/players/c/coleal01.shtml	coleal01	29	90	MIN	3.2	0.3	98	0.1	1.8	-1.6	1.10	0.3	-0.2	7.8	0.7	0.95	4.7	1.33	9
 1995	167	Vince Coleman#	http://www.baseball-reference.com/players/c/colemvi01.shtml	colemvi01	33	500	TOT	-6.1	-0.6	572	-0.5	9.2	-9.7	1.05	-0.7	0.2	-11.4	-1.1	0.94	-11.6	0.25	2
-1995	168	Vince Coleman#	http://www.baseball-reference.com/players/c/colemvi01.shtml	colemvi01	33	324	KCR	-3.2	-0.3	367	-0.5	6.0	-6.5	1.07	-0.5	0.1	-9.8	-0.9	0.94	-7.4		1
+1995	168	Vince Coleman#	http://www.baseball-reference.com/players/c/colemvi01.shtml	colemvi01	33	324	KCR	-3.2	-0.3	367	-0.5	6.0	-6.5	1.07	-0.5	0.0	-9.8	-0.9	0.94	-7.4		1
 1995	169	Vince Coleman#	http://www.baseball-reference.com/players/c/colemvi01.shtml	colemvi01	33	176	SEA	-3.0	-0.3	205	-0.0	3.2	-3.2	1.02	-0.2	0.2	-1.6	-0.2	0.93	-4.2	0.51	1
 1995	170	Darnell Coles	http://www.baseball-reference.com/players/c/colesda01.shtml	colesda01	33	158	STL	-4.5	-0.4	162	0.0	3.1	-3.1	1.15	-0.2	0.2	-1.1	-0.1	0.97	-2.4	1.41	17
 1995	171	Jeff Conine	http://www.baseball-reference.com/players/c/coninje01.shtml	coninje01	29	562	FLA	26.6	2.5	571	2.1	11.7	-9.6	1.00	2.6	-0.5	29.7	2.8	0.96	25.9	0.79	7
@@ -379,7 +379,7 @@
 1995	379	Glenallen Hill	http://www.baseball-reference.com/players/h/hillgl01.shtml	hillgl01	30	539	SFG	7.0	0.7	575	-0.2	11.3	-11.6	1.10	1.1	-1.3	6.5	0.6	1.02	13.1	2.07	7
 1995	380	Ken Hill	http://www.baseball-reference.com/players/h/hillke01.shtml	hillke01	29	39	TOT	-3.7	-0.4	39	-0.3	0.3	-0.6	.87	-0.3	-0.0	-2.8	-0.3	0.89	-4.0		0
 1995	381	Ken Hill	http://www.baseball-reference.com/players/h/hillke01.shtml	hillke01	29	39	STL	-3.7	-0.4	39	-0.3	0.3	-0.6	.87	-0.3	-0.0	-2.8	-0.3	0.89	-4.0		0
-1995	382	Denny Hocking#	http://www.baseball-reference.com/players/h/hockide01.shtml	hockide01	25	28	MIN	-1.9	-0.2	29	-0.3	0.3	-0.7	1.24	-0.1	-0.1	-1.2	-0.1	1.00	-1.8	0.15	1
+1995	382	Denny Hocking#	http://www.baseball-reference.com/players/h/hockide01.shtml	hockide01	25	28	MIN	-1.9	-0.2	29	-0.3	0.3	-0.7	1.24	-0.1	-0.1	-1.2	-0.1	1.00	-1.8	0.16	1
 1995	383	Trevor Hoffman	http://www.baseball-reference.com/players/h/hoffmtr01.shtml	hoffmtr01	27	2	SDP	0.6	0.0	2	-0.0	0.0	-0.1	1.24	0.0	-0.1	1.7	0.2	1.16	1.0		0
 1995	384	Chris Hoiles	http://www.baseball-reference.com/players/h/hoilech01.shtml	hoilech01	30	426	BAL	8.9	0.8	434	-0.0	7.7	-7.7	1.00	1.0	-1.1	3.0	0.3	0.95	11.5	1.49	8
 1995	385	Ray Holbert	http://www.baseball-reference.com/players/h/holbera01.shtml	holbera01	24	86	SDP	-4.6	-0.4	90	-0.1	1.2	-1.2	.81	-0.4	0.3	-5.3	-0.5	0.92	-5.8	0.46	13
@@ -389,7 +389,7 @@
 1995	389	Dave Hollins#	http://www.baseball-reference.com/players/h/hollida01.shtml	hollida01	29	17	BOS	-1.1	-0.1	18	-0.0	0.2	-0.2	.87	-0.1	0.1	-1.0	-0.1	1.00	-0.9		1
 1995	390	Darren Holmes	http://www.baseball-reference.com/players/h/holmeda01.shtml	holmeda01	29	4	COL	-0.4	-0.0	4	-0.0	0.0	-0.0	.39	-0.1	-0.0	-1.0	-0.1	1.09	-1.0		0
 1995	391	Chris Hook	http://www.baseball-reference.com/players/h/hookch01.shtml	hookch01	26	3	SFG	-0.9	-0.1	3	-0.1	0.0	-0.1	.97	-0.1	0.0	-0.8	-0.1	0.86	-0.9		0
-1995	392	Sam Horn*	http://www.baseball-reference.com/players/h/hornsa01.shtml	hornsa01	31	10	TEX	-1.6	-0.2	10	-0.3	0.1	-0.4	1.57	-0.2	0.0	-2.8	-0.3	1.13	-2.1	1.74	9
+1995	392	Sam Horn*	http://www.baseball-reference.com/players/h/hornsa01.shtml	hornsa01	31	10	TEX	-1.6	-0.2	10	-0.3	0.1	-0.4	1.57	-0.2	-0.0	-2.8	-0.3	1.13	-2.1	1.74	9
 1995	393	Dwayne Hosey#	http://www.baseball-reference.com/players/h/hoseydw01.shtml	hoseydw01	28	77	BOS	6.1	0.6	86	0.2	1.4	-1.2	.95	0.5	-0.2	4.4	0.4	0.95	5.1	0.89	2
 1995	394	David Howard#	http://www.baseball-reference.com/players/h/howarda02.shtml	howarda02	28	287	KCR	-13.4	-1.2	294	-2.2	3.7	-5.9	1.05	-1.3	-0.7	-18.8	-1.7	0.96	-17.4	1.22	4
 1995	395	Thomas Howard#	http://www.baseball-reference.com/players/h/howarth01.shtml	howarth01	30	304	CIN	-0.4	-0.0	332	0.9	5.9	-5.1	1.00	0.1	0.7	4.9	0.5	0.97	2.2	1.45	36
@@ -401,8 +401,8 @@
 1995	401	Tim Hulett	http://www.baseball-reference.com/players/h/huletti01.shtml	huletti01	35	11	STL	-1.7	-0.2	11	-0.2	0.0	-0.3	.95	-0.1	-0.1	-2.3	-0.2	0.82	-2.1	0.32	2
 1995	402	David Hulse*	http://www.baseball-reference.com/players/h/hulseda01.shtml	hulseda01	27	364	MIL	-21.9	-2.0	385	-1.6	5.3	-6.9	1.03	-1.9	0.3	-14.9	-1.3	0.99	-19.0	1.49	7
 1995	403	Todd Hundley#	http://www.baseball-reference.com/players/h/hundlto01.shtml	hundlto01	26	326	NYM	13.7	1.3	331	2.5	7.9	-5.3	1.10	1.3	1.0	22.5	2.2	0.97	14.8	1.67	12
-1995	404	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	24	349	HOU	1.6	0.2	390	0.4	6.8	-6.4	1.08	0.5	-0.1	8.6	0.9	0.97	5.7	1.09	3
-1995	405	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	27	93	CIN	-2.8	-0.3	96	-0.8	1.2	-2.0	1.09	-0.5	-0.3	-6.0	-0.6	0.97	-5.0	1.04	11
+1995	404	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	27	93	CIN	-2.8	-0.3	96	-0.8	1.2	-2.0	1.09	-0.5	-0.3	-6.0	-0.6	0.97	-5.0	1.04	11
+1995	405	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	24	349	HOU	1.6	0.2	390	0.4	6.8	-6.4	1.08	0.5	-0.1	8.6	0.9	0.97	5.7	1.09	3
 1995	406	Butch Huskey	http://www.baseball-reference.com/players/h/huskebu01.shtml	huskebu01	23	102	NYM	-6.3	-0.6	104	-0.3	1.5	-1.8	.95	-0.3	-0.0	-3.8	-0.4	0.95	-4.0		0
 1995	407	Jeff Huson*	http://www.baseball-reference.com/players/h/husonje01.shtml	husonje01	30	180	BAL	-8.9	-0.8	193	-0.5	2.8	-3.3	.98	-0.9	0.4	-8.8	-0.8	0.99	-11.5	1.21	7
 1995	408	Tim Hyers*	http://www.baseball-reference.com/players/h/hyersti01.shtml	hyersti01	23	5	SDP	-1.4	-0.1	5	-0.0	0.0	-0.0	.39	-0.1	-0.0	-1.0	-0.1	0.95	-1.0	0.39	5
@@ -462,7 +462,7 @@
 1995	462	Ray Lankford*	http://www.baseball-reference.com/players/l/lankfra01.shtml	lankfra01	28	553	STL	21.6	2.1	594	3.4	13.6	-10.2	1.09	2.7	0.5	23.9	2.3	0.95	26.4	2.51	3
 1995	463	Mike Lansing	http://www.baseball-reference.com/players/l/lansimi01.shtml	lansimi01	27	502	MON	-15.5	-1.5	538	-0.5	8.9	-9.4	1.03	-1.4	0.9	-7.4	-0.7	0.97	-11.6		0
 1995	464	Barry Larkin	http://www.baseball-reference.com/players/l/larkiba01.shtml	larkiba01	31	567	CIN	25.7	2.4	639	4.1	12.2	-8.1	.97	4.4	-0.2	45.9	4.4	0.94	45.9		0
-1995	465	Mike LaValliere*	http://www.baseball-reference.com/players/l/lavalmi01.shtml	lavalmi01	34	109	CHW	-4.0	-0.4	109	-0.0	2.2	-2.2	1.09	-0.3	0.3	-2.3	-0.2	0.94	-3.1	0.17	1
+1995	465	Mike LaValliere*	http://www.baseball-reference.com/players/l/lavalmi01.shtml	lavalmi01	34	109	CHW	-4.0	-0.4	109	-0.0	2.2	-2.2	1.09	-0.3	0.3	-2.3	-0.2	0.94	-3.1	0.18	1
 1995	466	Matt Lawton*	http://www.baseball-reference.com/players/l/lawtoma02.shtml	lawtoma02	23	70	MIN	2.9	0.3	75	1.1	2.1	-1.0	1.06	0.5	0.5	9.8	0.9	1.02	6.2	1.12	3
 1995	467	Aaron Ledesma	http://www.baseball-reference.com/players/l/ledesaa01.shtml	ledesaa01	24	39	NYM	-1.4	-0.1	39	-0.2	0.5	-0.8	1.17	-0.0	-0.2	-1.2	-0.1	0.95	-1.6	1.59	9
 1995	468	Manuel Lee#	http://www.baseball-reference.com/players/l/leema02.shtml	leema02	30	1	STL	0.5	0.0	1	0.0	0.0	0.0	.58	0.0	-0.0	0.4	0.0	0.86	0.4		0
@@ -516,7 +516,7 @@
 1995	516	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	32	639	SEA	74.2	6.7	655	7.5	16.3	-8.8	1.05	6.2	0.9	81.0	7.3	0.94	78.6		0
 1995	517	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	26	1	HOU	0.3	0.0	1	0.0	0.0	0.0	.23	0.0	-0.0	0.2	0.0	1.28	0.2		0
 1995	518	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	23	72	MON	-12.7	-1.2	72	-1.6	0.2	-1.8	1.08	-1.3	-0.2	-16.7	-1.6	1.00	-15.7		0
-1995	519	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	27	78	LAD	-7.5	-0.7	80	-0.7	0.5	-1.3	.88	-0.9	0.0	-8.0	-0.8	0.97	-9.8		0
+1995	519	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	27	78	LAD	-7.5	-0.7	80	-0.7	0.5	-1.3	.88	-0.9	0.0	-8.0	-0.8	0.97	-9.8		0
 1995	520	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	24	200	TOR	-12.3	-1.2	200	-0.3	3.1	-3.4	.89	-1.4	1.1	-8.3	-0.8	0.89	-15.9	2.53	3
 1995	521	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	27	593	SEA	26.8	2.4	598	2.1	13.5	-11.4	1.14	1.8	-0.0	24.7	2.2	1.00	21.4	1.39	3
 1995	522	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	32	6	TEX	-0.3	-0.0	7	0.1	0.2	-0.1	1.58	0.1	0.0	0.7	0.1	1.11	0.3		0
@@ -530,7 +530,7 @@
 1995	530	Derrick May*	http://www.baseball-reference.com/players/m/mayde01.shtml	mayde01	26	119	MIL	-8.4	-0.8	123	-0.6	1.7	-2.3	.95	-0.7	0.1	-6.8	-0.6	0.94	-9.3		0
 1995	531	Derrick May*	http://www.baseball-reference.com/players/m/mayde01.shtml	mayde01	26	229	HOU	9.9	1.0	236	0.6	5.8	-5.1	1.26	0.5	-0.0	10.8	1.1	1.03	6.6	2.00	23
 1995	532	Brent Mayne*	http://www.baseball-reference.com/players/m/maynebr01.shtml	maynebr01	27	347	KCR	-15.3	-1.4	352	-1.7	4.4	-6.1	.93	-1.7	-0.1	-23.4	-2.2	0.93	-22.0	0.91	7
-1995	533	Dave McCarty	http://www.baseball-reference.com/players/m/mccarda01.shtml	mccarda01	25	83	TOT	-4.8	-0.4	87	0.5	1.8	-1.3	1.00	-0.1	0.7	-1.7	-0.2	0.96	-3.3	1.24	9
+1995	533	Dave McCarty	http://www.baseball-reference.com/players/m/mccarda01.shtml	mccarda01	25	83	TOT	-4.8	-0.4	87	0.5	1.8	-1.3	1.00	-0.1	0.7	-1.7	-0.2	0.96	-3.3	1.25	9
 1995	534	Dave McCarty	http://www.baseball-reference.com/players/m/mccarda01.shtml	mccarda01	25	61	MIN	-3.9	-0.4	64	0.1	1.1	-1.0	.95	-0.1	0.2	-0.6	-0.1	0.97	-1.4	1.13	3
 1995	535	Dave McCarty	http://www.baseball-reference.com/players/m/mccarda01.shtml	mccarda01	25	22	SFG	-0.8	-0.1	23	0.4	0.7	-0.3	1.14	-0.1	0.4	-1.1	-0.1	0.95	-1.9	1.30	6
 1995	536	Quinton McCracken#	http://www.baseball-reference.com/players/m/mccraqu01.shtml	mccraqu01	24	1	COL	-0.3	-0.0	2	0.0	0.0	0.0	.55	0.0	0.0	-0.1	-0.0	0.88	-0.2	0.00	1
@@ -559,7 +559,7 @@
 1995	559	Blas Minor	http://www.baseball-reference.com/players/m/minorbl01.shtml	minorbl01	29	2	NYM	-0.6	-0.1	2	-0.1	0.0	-0.1	1.93	-0.0	0.0	-0.5	-0.1	1.01	-0.5		0
 1995	560	Steve Mintz*	http://www.baseball-reference.com/players/m/mintzst01.shtml	mintzst01	26	3	SFG	-0.9	-0.1	3	-0.1	0.0	-0.1	1.14	-0.1	0.0	-0.8	-0.1	0.90	-0.8		0
 1995	561	Dave Mlicki	http://www.baseball-reference.com/players/m/mlickda01.shtml	mlickda01	27	59	NYM	-6.9	-0.7	60	-0.6	0.4	-1.0	1.02	-0.6	-0.0	-7.4	-0.7	1.02	-6.9		0
-1995	562	Paul Molitor	http://www.baseball-reference.com/players/m/molitpa01.shtml	molitpa01	38	598	TOR	2.0	0.2	620	0.9	10.8	-9.9	.98	1.0	-0.0	11.0	1.0	0.90	11.3	2.87	0
+1995	562	Paul Molitor	http://www.baseball-reference.com/players/m/molitpa01.shtml	molitpa01	38	598	TOR	2.0	0.2	620	0.9	10.8	-9.9	.98	1.0	-0.1	11.0	1.0	0.90	11.3	2.87	0
 1995	563	Raul Mondesi	http://www.baseball-reference.com/players/m/mondera01.shtml	mondera01	24	580	LAD	15.8	1.5	616	0.9	11.4	-10.5	1.04	2.7	-1.9	25.2	2.5	0.94	28.7	4.17	1
 1995	564	Mickey Morandini*	http://www.baseball-reference.com/players/m/moranmi01.shtml	moranmi01	29	550	PHI	2.3	0.2	578	0.1	10.1	-10.0	1.04	0.6	-0.5	2.0	0.2	0.94	1.1	1.73	9
 1995	565	Mike Mordecai	http://www.baseball-reference.com/players/m/mordemi01.shtml	mordemi01	27	87	ATL	1.8	0.2	87	0.6	2.2	-1.5	1.21	0.3	0.2	4.5	0.4	0.93	3.2	1.25	29
@@ -591,7 +591,7 @@
 1995	591	Phil Nevin	http://www.baseball-reference.com/players/n/nevinph01.shtml	nevinph01	24	179	TOT	-12.7	-1.2	180	-0.6	2.3	-2.9	.96	-1.0	0.4	-13.4	-1.4	0.94	-12.2	2.23	1
 1995	592	Phil Nevin	http://www.baseball-reference.com/players/n/nevinph01.shtml	nevinph01	24	69	HOU	-8.4	-0.8	70	-0.6	0.6	-1.2	1.00	-0.7	0.1	-11.6	-1.2	1.05	-9.5	2.23	1
 1995	593	Phil Nevin	http://www.baseball-reference.com/players/n/nevinph01.shtml	nevinph01	24	110	DET	-4.3	-0.4	110	0.0	1.7	-1.7	.93	-0.3	0.3	-1.8	-0.2	0.87	-2.8		0
-1995	594	Marc Newfield	http://www.baseball-reference.com/players/n/newfima01.shtml	newfima01	22	146	TOT	-6.8	-0.6	148	-0.1	2.8	-3.0	1.06	-0.4	0.2	-2.5	-0.2	0.95	-2.1	3.10	3
+1995	594	Marc Newfield	http://www.baseball-reference.com/players/n/newfima01.shtml	newfima01	22	146	TOT	-6.8	-0.6	148	-0.1	2.8	-3.0	1.06	-0.3	0.2	-2.5	-0.2	0.95	-2.1	3.10	3
 1995	595	Marc Newfield	http://www.baseball-reference.com/players/n/newfima01.shtml	newfima01	22	89	SEA	-7.9	-0.7	89	-0.5	1.5	-2.0	1.12	-0.5	-0.0	-2.8	-0.3	0.94	-4.5		0
 1995	596	Marc Newfield	http://www.baseball-reference.com/players/n/newfima01.shtml	newfima01	22	57	SDP	1.2	0.1	59	0.4	1.4	-0.9	.97	0.1	0.3	0.3	0.0	0.95	2.4	3.10	3
 1995	597	Warren Newson*	http://www.baseball-reference.com/players/n/newsowa01.shtml	newsowa01	30	197	TOT	4.9	0.4	205	0.5	4.1	-3.6	1.14	0.8	-0.4	2.8	0.3	0.96	8.5	1.73	26
@@ -609,7 +609,7 @@
 1995	609	Les Norman	http://www.baseball-reference.com/players/n/normale01.shtml	normale01	26	47	KCR	-2.5	-0.2	48	0.4	1.1	-0.7	.97	-0.2	0.6	0.1	0.0	0.78	-1.9	1.82	5
 1995	610	Jon Nunnally*	http://www.baseball-reference.com/players/n/nunnajo01.shtml	nunnajo01	23	360	KCR	5.5	0.5	373	0.6	6.9	-6.3	.99	1.0	-0.4	8.1	0.7	0.94	8.8	1.63	19
 1995	611	Charlie O'Brien	http://www.baseball-reference.com/players/o/o'brich01.shtml	o'brich01	35	233	ATL	-1.8	-0.2	238	-0.7	3.9	-4.6	1.08	-0.3	-0.4	-9.4	-0.9	1.00	-3.1	3.58	4
-1995	612	Troy O'Leary*	http://www.baseball-reference.com/players/o/o'leatr01.shtml	o'leatr01	25	434	BOS	8.1	0.7	449	-0.4	7.7	-8.1	.97	-0.1	-0.2	3.4	0.3	0.94	-0.7	1.27	12
+1995	612	Troy O'Leary*	http://www.baseball-reference.com/players/o/o'leatr01.shtml	o'leatr01	25	434	BOS	8.1	0.7	449	-0.4	7.7	-8.1	.97	-0.1	-0.3	3.4	0.3	0.94	-0.7	1.27	12
 1995	613	Paul O'Neill*	http://www.baseball-reference.com/players/o/o'neipa01.shtml	o'neipa01	32	543	NYY	27.4	2.5	551	2.5	11.8	-9.2	1.01	2.4	0.1	22.2	2.0	1.00	22.8	3.18	5
 1995	614	Sherman Obando	http://www.baseball-reference.com/players/o/obandsh01.shtml	obandsh01	25	41	BAL	-2.7	-0.2	43	-0.1	0.5	-0.7	1.01	-0.2	0.1	-0.6	-0.1	0.93	-2.7	1.82	6
 1995	615	Alex Ochoa	http://www.baseball-reference.com/players/o/ochoaal01.shtml	ochoaal01	23	39	NYM	-1.2	-0.1	40	-0.1	0.4	-0.5	.75	-0.2	0.1	-1.6	-0.2	0.88	-1.9	0.19	1

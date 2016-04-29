@@ -1,612 +1,612 @@
-2003,1,Paul Abbott,/players/a/abbotpa01.shtml,abbotpa01,35,KCR,47.2,10,8,29,5.48,4.63,-0.30,0.12,105.8,5.34,-1,-0.1,.3,-0.0,0.4,5,.494,.500,,Traded
-2003,2,Jose Acevedo,/players/a/acevejo01.shtml,acevejo01,25,CIN,27.0,5,4,8,2.67,4.33,0.03,0.15,92.8,4.13,4,0.5,.0,-0.0,0.7,7,.593,.503,,Amateur Free Agent
-2003,3,Juan Acevedo,/players/a/aceveju01.shtml,aceveju01,33,2TM,38.1,39,0,32,7.51,4.94,-0.29,-0.37,99.7,4.85,-11,-1.1,1.3,-0.3,-1.0,-7,.473,.496,"$900,000",Free Agency
-2003,4,Terry Adams,/players/a/adamste01.shtml,adamste01,30,PHI,68.0,66,0,22,2.91,4.77,0.12,-0.35,92.1,3.95,8,0.8,1.3,-0.0,1.4,14,.512,.505,"$2,900,000",Free Agency
-2003,5,Jon Adkins,/players/a/adkinjo01.shtml,adkinjo01,25,CHW,9.1,4,0,5,4.82,4.96,0.14,-0.37,112.4,5.00,0,0.0,.1,-0.0,0.1,1,.505,.500,,Traded
-2003,6,Jeremy Affeldt*,/players/a/affelje01.shtml,affelje01,24,KCR,126.0,36,18,58,4.14,4.81,-0.29,0.05,106.2,5.46,19,1.9,1.4,-0.0,3.2,33,.553,.512,"$313,000",Amateur Draft
-2003,7,Kurt Ainsworth,/players/a/ainswku01.shtml,ainswku01,24,2TM,68.1,14,11,34,4.48,4.54,0.21,0.15,98.3,4.40,-1,-0.1,.8,-0.0,0.5,5,.495,.500,"$302,000",Traded
-2003,8,Antonio Alfonseca,/players/a/alfonan01.shtml,alfonan01,31,CHC,66.1,60,0,43,5.83,4.83,-0.18,-0.36,101.1,4.70,-9,-0.9,1.1,-0.2,-0.4,-3,.486,.495,"$4,000,000",Traded
-2003,9,Armando Almanza*,/players/a/almanar01.shtml,almanar01,30,FLA,50.1,51,0,37,6.62,4.75,-0.10,-0.35,99.8,4.49,-12,-1.2,1.0,-0.1,-0.9,-8,.476,.493,"$775,000",Traded
-2003,10,Edwin Almonte,/players/a/almoned01.shtml,almoned01,26,NYM,11.1,12,0,15,11.91,5.23,-0.32,-0.39,96.5,4.98,-9,-0.8,.6,0.2,-0.6,-8,.430,.495,,Traded
-2003,11,Hector Almonte,/players/a/almonhe01.shtml,almonhe01,27,2TM,36.2,35,0,29,7.12,4.93,-0.06,-0.37,102.6,4.74,-10,-1.0,.8,0.1,-0.5,-6,.473,.496,,Free Agency
-2003,12,Juan Alvarez*,/players/a/alvarju01.shtml,alvarju01,29,FLA,11.2,9,0,4,3.09,4.62,-0.08,-0.34,98.7,4.31,2,0.2,.4,-0.1,0.2,3,.518,.501,,Free Agency
-2003,13,Victor Alvarez*,/players/a/alvarvi01.shtml,alvarvi01,26,LAD,5.2,5,0,8,12.71,5.00,0.49,-0.37,100.8,4.17,-5,-0.5,.6,0.1,-0.3,-5,.399,.497,,Amateur Free Agent
-2003,14,Wilson Alvarez*,/players/a/alvarwi01.shtml,alvarwi01,33,LAD,95.0,21,12,27,2.56,4.65,0.37,0.05,96.0,4.16,16,1.8,.6,-0.2,2.4,25,.585,.511,,Free Agency
-2003,15,Brian Anderson*,/players/a/anderbr02.shtml,anderbr02,31,2TM,197.2,32,31,110,5.01,4.70,0.05,0.17,100.3,4.84,-3,-0.2,1.2,-0.1,1.6,19,.493,.496,"$1,500,000",Free Agency
-2003,16,Jason Anderson,/players/a/anderja01.shtml,anderja01,24,2TM,31.1,28,0,19,5.46,5.01,-0.29,-0.37,96.4,4.75,-2,-0.2,.3,0.0,0.1,1,.491,.499,"$300,000",Amateur Draft
-2003,17,Jimmy Anderson*,/players/a/anderji02.shtml,anderji02,27,CIN,38.2,8,7,39,9.08,4.57,0.04,0.16,101.3,4.75,-19,-1.6,.3,-0.0,-1.2,-15,.305,.490,"$600,000",Free Agency
-2003,18,Matt Anderson,/players/a/anderma01.shtml,anderma01,26,DET,23.1,23,0,17,6.56,4.98,-0.19,-0.37,96.7,4.64,-5,-0.5,1.3,-0.1,-0.3,-2,.479,.497,"$3,200,000",Amateur Draft
+2003,1,Paul Abbott,/players/a/abbotpa01.shtml,abbotpa01,35,KCR,47.2,10,8,29,5.48,4.63,-0.30,0.12,105.8,5.34,-1,-0.1,.26,-0.0,0.4,5,.494,.500,,Traded
+2003,2,Jose Acevedo,/players/a/acevejo01.shtml,acevejo01,25,CIN,27.0,5,4,8,2.67,4.33,0.03,0.15,92.8,4.13,4,0.5,.01,-0.0,0.7,7,.593,.503,,Amateur Free Agent
+2003,3,Juan Acevedo,/players/a/aceveju01.shtml,aceveju01,33,2TM,38.1,39,0,32,7.51,4.94,-0.29,-0.37,99.7,4.85,-11,-1.1,1.34,-0.3,-1.0,-7,.473,.496,"$900,000",Free Agency
+2003,4,Terry Adams,/players/a/adamste01.shtml,adamste01,30,PHI,68.0,66,0,22,2.91,4.77,0.12,-0.35,92.1,3.95,8,0.8,1.29,-0.0,1.4,14,.512,.505,"$2,900,000",Free Agency
+2003,5,Jon Adkins,/players/a/adkinjo01.shtml,adkinjo01,25,CHW,9.1,4,0,5,4.82,4.96,0.14,-0.37,112.4,5.00,0,0.0,.06,-0.0,0.1,1,.505,.500,,Traded
+2003,6,Jeremy Affeldt*,/players/a/affelje01.shtml,affelje01,24,KCR,126.0,36,18,58,4.14,4.81,-0.29,0.05,106.2,5.46,19,1.9,1.36,-0.0,3.2,33,.553,.512,"$313,000",Amateur Draft
+2003,7,Kurt Ainsworth,/players/a/ainswku01.shtml,ainswku01,24,2TM,68.1,14,11,34,4.48,4.54,0.21,0.15,98.3,4.40,-1,-0.1,.82,-0.0,0.5,5,.495,.500,"$302,000",Traded
+2003,8,Antonio Alfonseca,/players/a/alfonan01.shtml,alfonan01,31,CHC,66.1,60,0,43,5.83,4.83,-0.18,-0.36,101.1,4.70,-9,-0.9,1.07,-0.2,-0.4,-3,.486,.495,"$4,000,000",Traded
+2003,9,Armando Almanza*,/players/a/almanar01.shtml,almanar01,30,FLA,50.1,51,0,37,6.62,4.75,-0.10,-0.35,99.8,4.49,-12,-1.2,.99,-0.1,-0.9,-8,.476,.493,"$775,000",Traded
+2003,10,Edwin Almonte,/players/a/almoned01.shtml,almoned01,26,NYM,11.1,12,0,15,11.91,5.23,-0.32,-0.39,96.5,4.98,-9,-0.8,.56,0.2,-0.6,-8,.430,.495,,Traded
+2003,11,Hector Almonte,/players/a/almonhe01.shtml,almonhe01,27,2TM,36.2,35,0,29,7.12,4.93,-0.06,-0.37,102.6,4.74,-10,-1.0,.76,0.1,-0.5,-6,.473,.496,,Free Agency
+2003,12,Juan Alvarez*,/players/a/alvarju01.shtml,alvarju01,29,FLA,11.2,9,0,4,3.09,4.62,-0.08,-0.34,98.7,4.31,2,0.2,.45,-0.1,0.2,3,.518,.501,,Free Agency
+2003,13,Victor Alvarez*,/players/a/alvarvi01.shtml,alvarvi01,26,LAD,5.2,5,0,8,12.71,5.00,0.49,-0.37,100.8,4.17,-5,-0.5,.56,0.1,-0.3,-5,.399,.497,,Amateur Free Agent
+2003,14,Wilson Alvarez*,/players/a/alvarwi01.shtml,alvarwi01,33,LAD,95.0,21,12,27,2.56,4.65,0.37,0.05,96.0,4.16,16,1.8,.62,-0.2,2.4,25,.585,.511,,Free Agency
+2003,15,Brian Anderson*,/players/a/anderbr02.shtml,anderbr02,31,2TM,197.2,32,31,110,5.01,4.70,0.05,0.17,100.3,4.84,-3,-0.2,1.17,-0.1,1.6,19,.493,.496,"$1,500,000",Free Agency
+2003,16,Jason Anderson,/players/a/anderja01.shtml,anderja01,24,2TM,31.1,28,0,19,5.46,5.01,-0.29,-0.37,96.4,4.75,-2,-0.2,.26,0.0,0.1,1,.491,.499,"$300,000",Amateur Draft
+2003,17,Jimmy Anderson*,/players/a/anderji02.shtml,anderji02,27,CIN,38.2,8,7,39,9.08,4.57,0.04,0.16,101.3,4.75,-19,-1.6,.28,-0.0,-1.2,-15,.305,.490,"$600,000",Free Agency
+2003,18,Matt Anderson,/players/a/anderma01.shtml,anderma01,26,DET,23.1,23,0,17,6.56,4.98,-0.19,-0.37,96.7,4.64,-5,-0.5,1.28,-0.1,-0.3,-2,.479,.497,"$3,200,000",Amateur Draft
 2003,19,Kevin Appier,/players/a/appieke01.shtml,appieke01,35,2TM,111.2,23,23,69,5.56,4.90,0.07,0.19,97.5,4.90,-8,-0.7,,-0.1,0.4,4,.469,.495,"$11,500,000",Traded
 2003,20,Tony Armas,/players/a/armasto02.shtml,armasto02,25,MON,31.0,5,5,9,2.61,4.95,-0.03,0.19,103.9,5.38,9,1.1,,-0.0,1.3,12,.715,.507,"$2,100,000",Traded
-2003,21,Bronson Arroyo,/players/a/arroybr01.shtml,arroybr01,26,BOS,17.1,6,0,5,2.60,4.98,-0.12,-0.37,104.0,4.92,5,0.5,.6,-0.1,0.5,6,.577,.503,,Waivers
+2003,21,Bronson Arroyo,/players/a/arroybr01.shtml,arroybr01,26,BOS,17.1,6,0,5,2.60,4.98,-0.12,-0.37,104.0,4.92,5,0.5,.57,-0.1,0.5,6,.577,.503,,Waivers
 2003,22,Miguel Asencio,/players/a/asencmi01.shtml,asencmi01,22,KCR,48.1,8,8,29,5.40,4.62,-0.31,0.18,105.8,5.41,0,0.0,,-0.0,0.5,6,.502,.500,"$314,000",Rule 5 Draft
-2003,23,Andy Ashby,/players/a/ashbyan01.shtml,ashbyan01,35,LAD,73.0,21,12,42,5.18,4.55,0.46,0.09,96.5,4.03,-10,-0.9,.8,-0.0,-0.4,-3,.455,.494,"$8,500,000",Free Agency
+2003,23,Andy Ashby,/players/a/ashbyan01.shtml,ashbyan01,35,LAD,73.0,21,12,42,5.18,4.55,0.46,0.09,96.5,4.03,-10,-0.9,.76,-0.0,-0.4,-3,.455,.494,"$8,500,000",Free Agency
 2003,24,Pedro Astacio,/players/a/astacpe01.shtml,astacpe01,34,NYM,36.2,7,7,30,7.36,4.86,-0.29,0.19,94.1,5.03,-10,-0.9,,-0.0,-0.6,-6,.375,.495,"$7,000,000",Free Agency
 2003,25,Jeff Austin,/players/a/austije01.shtml,austije01,26,CIN,28.1,7,7,27,8.58,4.81,0.03,0.19,101.2,5.02,-11,-1.0,,-0.0,-0.8,-9,.356,.494,,Traded
-2003,26,Steve Avery*,/players/a/averyst01.shtml,averyst01,33,DET,16.0,19,0,11,6.19,5.02,-0.20,-0.37,94.6,4.57,-3,-0.3,1.4,-0.1,-0.2,-1,.486,.498,,Free Agency
-2003,27,Luis Ayala,/players/a/ayalalu01.shtml,ayalalu01,25,MON,71.0,65,0,27,3.42,4.80,-0.04,-0.36,104.6,4.69,10,1.0,1.5,0.1,1.8,16,.515,.506,"$300,000",Purchased
-2003,28,Manny Aybar,/players/a/aybarma01.shtml,aybarma01,31,SFG,3.0,3,0,2,6.00,4.69,0.25,-0.35,132.0,5.40,-0,-0.0,.2,0.0,0.0,0,.493,.500,,Free Agency
-2003,29,Brandon Backe,/players/b/backebr01.shtml,backebr01,25,TBD,44.2,28,0,28,5.64,5.04,0.13,-0.38,98.7,4.48,-6,-0.5,1.1,-0.1,-0.2,-1,.480,.497,,Amateur Draft
-2003,30,Mike Bacsik*,/players/b/bacsimi02.shtml,bacsimi02,25,NYM,17.2,5,3,21,10.70,4.74,-0.30,0.09,95.5,4.89,-11,-1.0,.1,0.1,-0.8,-10,.308,.494,"$302,500",Traded
-2003,31,Danys Baez,/players/b/baezda01.shtml,baezda01,25,CLE,75.2,73,0,36,4.28,4.74,0.15,-0.35,97.0,4.11,-1,-0.1,1.6,-0.2,0.5,7,.498,.499,"$5,125,000",Amateur Free Agent
-2003,32,James Baldwin,/players/b/baldwja01.shtml,baldwja01,31,MIN,15.0,10,0,10,6.00,4.59,-0.03,-0.34,102.6,4.38,-3,-0.3,.7,0.0,-0.1,-1,.474,.498,,Free Agency
-2003,33,John Bale*,/players/b/balejo01.shtml,balejo01,29,CIN,46.1,10,9,24,4.66,4.57,0.03,0.15,97.9,4.59,-1,-0.1,.1,-0.0,0.3,4,.494,.500,,Free Agency
-2003,34,Grant Balfour,/players/b/balfogr01.shtml,balfogr01,25,MIN,26.0,17,1,12,4.15,4.50,-0.02,-0.28,102.2,4.33,1,0.1,.9,-0.1,0.3,3,.503,.500,,Amateur Free Agent
-2003,35,Miguel Batista,/players/b/batismi01.shtml,batismi01,32,ARI,193.1,36,29,85,3.96,4.58,-0.18,0.14,106.8,5.24,27,2.9,.8,-0.2,4.3,44,.580,.518,"$3,375,000",Free Agency
-2003,36,Rick Bauer,/players/b/bauerri01.shtml,bauerri01,26,BAL,61.1,35,0,36,5.28,4.95,-0.01,-0.37,98.4,4.51,-5,-0.5,.8,-0.1,0.1,2,.486,.497,"$325,000",Amateur Draft
-2003,37,Rod Beck,/players/b/beckro01.shtml,beckro01,34,SDP,35.1,36,0,7,1.78,4.50,0.00,-0.33,90.7,3.78,8,0.8,1.7,0.2,1.3,11,.522,.505,,Free Agency
-2003,38,Josh Beckett,/players/b/beckejo02.shtml,beckejo02,23,FLA,142.0,24,23,54,3.42,4.87,-0.09,0.18,97.2,5.00,24,2.7,.0,-0.1,3.8,37,.611,.516,"$1,725,000",Amateur Draft
-2003,39,Joe Beimel*,/players/b/beimejo01.shtml,beimejo01,26,PIT,62.1,69,0,35,5.05,4.85,-0.05,-0.36,102.2,4.64,-3,-0.3,1.1,-0.1,0.1,3,.495,.498,"$322,000",Amateur Draft
-2003,40,Matt Belisle,/players/b/belisma01.shtml,belisma01,23,CIN,8.2,6,0,5,5.19,4.71,0.03,-0.35,95.6,4.14,-1,-0.1,.5,0.0,-0.0,-0,.482,.499,,Traded
-2003,41,Rob Bell,/players/b/bellro01.shtml,bellro01,26,TBD,101.0,19,18,64,5.70,4.99,0.16,0.17,96.7,4.83,-10,-0.9,2.0,-0.1,0.1,2,.452,.494,,Free Agency
-2003,42,Alan Benes,/players/b/benesal01.shtml,benesal01,31,2TM,23.1,7,4,22,8.49,4.79,0.22,-0.00,113.1,5.16,-9,-0.6,.7,-0.1,-0.4,-6,.417,.498,,Free Agency
-2003,43,Armando Benitez,/players/b/benitar01.shtml,benitar01,30,3TM,73.0,69,0,27,3.33,4.87,-0.14,-0.36,97.2,4.51,9,1.0,1.4,0.0,1.7,17,.514,.503,"$6,937,500",Traded
-2003,44,Joaquin Benoit,/players/b/benoijo01.shtml,benoijo01,25,TEX,105.0,25,17,67,5.74,4.85,0.33,0.07,110.9,5.09,-7,-0.7,1.3,-0.1,0.3,4,.472,.496,,Amateur Free Agent
+2003,26,Steve Avery*,/players/a/averyst01.shtml,averyst01,33,DET,16.0,19,0,11,6.19,5.02,-0.20,-0.37,94.6,4.57,-3,-0.3,1.42,-0.1,-0.2,-1,.486,.498,,Free Agency
+2003,27,Luis Ayala,/players/a/ayalalu01.shtml,ayalalu01,25,MON,71.0,65,0,27,3.42,4.80,-0.04,-0.36,104.6,4.69,10,1.0,1.54,0.1,1.8,16,.515,.506,"$300,000",Purchased
+2003,28,Manny Aybar,/players/a/aybarma01.shtml,aybarma01,31,SFG,3.0,3,0,2,6.00,4.69,0.25,-0.35,132.0,5.40,-0,-0.0,.15,0.0,0.0,0,.493,.500,,Free Agency
+2003,29,Brandon Backe,/players/b/backebr01.shtml,backebr01,25,TBD,44.2,28,0,28,5.64,5.04,0.13,-0.38,98.7,4.48,-6,-0.5,1.05,-0.1,-0.2,-1,.480,.497,,Amateur Draft
+2003,30,Mike Bacsik*,/players/b/bacsimi02.shtml,bacsimi02,25,NYM,17.2,5,3,21,10.70,4.74,-0.30,0.09,95.5,4.89,-11,-1.0,.14,0.1,-0.8,-10,.308,.494,"$302,500",Traded
+2003,31,Danys Baez,/players/b/baezda01.shtml,baezda01,25,CLE,75.2,73,0,36,4.28,4.74,0.15,-0.35,97.0,4.11,-1,-0.1,1.59,-0.2,0.5,7,.498,.499,"$5,125,000",Amateur Free Agent
+2003,32,James Baldwin,/players/b/baldwja01.shtml,baldwja01,31,MIN,15.0,10,0,10,6.00,4.59,-0.03,-0.34,102.6,4.38,-3,-0.3,.70,0.0,-0.1,-1,.474,.498,,Free Agency
+2003,33,John Bale*,/players/b/balejo01.shtml,balejo01,29,CIN,46.1,10,9,24,4.66,4.57,0.03,0.15,97.9,4.59,-1,-0.1,.14,-0.0,0.3,4,.494,.500,,Free Agency
+2003,34,Grant Balfour,/players/b/balfogr01.shtml,balfogr01,25,MIN,26.0,17,1,12,4.15,4.50,-0.02,-0.28,102.2,4.33,1,0.1,.86,-0.1,0.3,3,.503,.500,,Amateur Free Agent
+2003,35,Miguel Batista,/players/b/batismi01.shtml,batismi01,32,ARI,193.1,36,29,85,3.96,4.58,-0.18,0.14,106.8,5.24,27,2.9,.78,-0.2,4.3,44,.580,.518,"$3,375,000",Free Agency
+2003,36,Rick Bauer,/players/b/bauerri01.shtml,bauerri01,26,BAL,61.1,35,0,36,5.28,4.95,-0.01,-0.37,98.4,4.51,-5,-0.5,.81,-0.1,0.1,2,.486,.497,"$325,000",Amateur Draft
+2003,37,Rod Beck,/players/b/beckro01.shtml,beckro01,34,SDP,35.1,36,0,7,1.78,4.50,0.00,-0.33,90.7,3.78,8,0.8,1.72,0.2,1.3,11,.522,.505,,Free Agency
+2003,38,Josh Beckett,/players/b/beckejo02.shtml,beckejo02,23,FLA,142.0,24,23,54,3.42,4.87,-0.09,0.18,97.2,5.00,24,2.7,.01,-0.1,3.8,37,.611,.516,"$1,725,000",Amateur Draft
+2003,39,Joe Beimel*,/players/b/beimejo01.shtml,beimejo01,26,PIT,62.1,69,0,35,5.05,4.85,-0.05,-0.36,102.2,4.64,-3,-0.3,1.14,-0.1,0.1,3,.495,.498,"$322,000",Amateur Draft
+2003,40,Matt Belisle,/players/b/belisma01.shtml,belisma01,23,CIN,8.2,6,0,5,5.19,4.71,0.03,-0.35,95.6,4.14,-1,-0.1,.45,0.0,-0.0,-0,.482,.499,,Traded
+2003,41,Rob Bell,/players/b/bellro01.shtml,bellro01,26,TBD,101.0,19,18,64,5.70,4.99,0.16,0.17,96.7,4.83,-10,-0.9,1.95,-0.1,0.1,2,.452,.494,,Free Agency
+2003,42,Alan Benes,/players/b/benesal01.shtml,benesal01,31,2TM,23.1,7,4,22,8.49,4.79,0.22,-0.00,113.1,5.16,-9,-0.6,.66,-0.1,-0.4,-6,.417,.498,,Free Agency
+2003,43,Armando Benitez,/players/b/benitar01.shtml,benitar01,30,3TM,73.0,69,0,27,3.33,4.87,-0.14,-0.36,97.2,4.51,9,1.0,1.40,0.0,1.7,17,.514,.503,"$6,937,500",Traded
+2003,44,Joaquin Benoit,/players/b/benoijo01.shtml,benoijo01,25,TEX,105.0,25,17,67,5.74,4.85,0.33,0.07,110.9,5.09,-7,-0.7,1.28,-0.1,0.3,4,.472,.496,,Amateur Free Agent
 2003,45,Kris Benson,/players/b/bensokr01.shtml,bensokr01,28,PIT,105.0,18,18,67,5.74,4.67,-0.05,0.18,100.9,4.94,-10,-1.0,,-0.1,-0.1,-0,.447,.494,"$4,300,000",Amateur Draft
 2003,46,Jason Bere,/players/b/bereja01.shtml,bereja01,32,CLE,6.2,2,2,3,4.05,3.82,0.19,0.14,93.3,3.52,-0,-0.0,,-0.0,0.0,0,.482,.500,"$1,000,000",Free Agency
-2003,47,Adam Bernero,/players/b/bernead01.shtml,bernead01,26,2TM,133.1,49,17,90,6.08,4.75,-0.13,0.05,99.8,4.88,-18,-1.7,.8,-0.1,-0.4,-3,.466,.495,"$314,000",Traded
-2003,48,Rafael Betancourt,/players/b/betanra01.shtml,betanra01,28,CLE,38.0,33,0,11,2.61,4.81,0.14,-0.36,98.2,4.24,7,0.7,1.1,-0.0,1.1,11,.521,.504,,Free Agency
-2003,49,Rocky Biddle,/players/b/biddlro01.shtml,biddlro01,27,MON,71.2,73,0,43,5.40,4.75,-0.04,-0.35,105.4,4.68,-6,-0.6,1.6,-0.3,-0.3,0,.492,.496,"$320,000",Traded
-2003,50,Nick Bierbrodt*,/players/b/bierbni01.shtml,bierbni01,25,2TM,43.1,18,5,47,9.76,4.81,0.17,-0.17,99.3,4.44,-26,-2.2,.4,0.2,-1.5,-21,.379,.491,"$300,000",Waivers
-2003,51,Nate Bland*,/players/b/blandna01.shtml,blandna01,28,HOU,20.1,22,0,13,5.75,5.02,0.41,-0.37,104.0,4.40,-3,-0.3,1.0,-0.0,-0.2,-1,.486,.498,,Rule 5 Draft
-2003,52,Brian Boehringer,/players/b/boehrbr01.shtml,boehrbr01,34,PIT,62.1,62,0,39,5.63,4.81,-0.05,-0.36,101.7,4.58,-8,-0.8,1.3,-0.2,-0.4,-2,.488,.495,"$1,500,000",Free Agency
-2003,53,Jeremy Bonderman,/players/b/bondeje01.shtml,bondeje01,20,DET,162.0,33,28,118,6.56,4.80,-0.19,0.15,95.5,4.90,-29,-2.7,.1,-0.0,-1.0,-11,.419,.483,"$300,000",Traded
-2003,54,Jung Bong*,/players/b/bongju01.shtml,bongju01,22,ATL,57.0,44,0,32,5.05,4.56,0.20,-0.34,98.7,3.97,-7,-0.7,1.0,-0.1,-0.3,-2,.484,.496,"$300,000",Amateur Free Agent
-2003,55,Chris Bootcheck,/players/b/bootcch01.shtml,bootcch01,24,ANA,10.1,4,1,13,11.32,4.87,0.17,-0.19,101.8,4.60,-8,-0.6,.0,0.2,-0.3,-7,.339,.496,,Amateur Draft
-2003,56,Pedro Borbon*,/players/b/borbope02.shtml,borbope02,35,STL,4.0,7,0,9,20.25,5.30,-0.11,-0.39,95.6,4.79,-7,-0.6,1.4,-0.1,-0.8,-7,.407,.496,,Free Agency
-2003,57,Toby Borland,/players/b/borlato02.shtml,borlato02,34,FLA,9.2,7,0,3,2.79,4.79,-0.09,-0.35,100.2,4.54,2,0.2,.6,-0.1,0.2,3,.527,.501,,Free Agency
-2003,58,Joe Borowski,/players/b/borowjo01.shtml,borowjo01,32,CHC,68.1,68,0,23,3.03,4.75,-0.15,-0.35,101.7,4.63,12,1.2,1.6,0.2,2.0,18,.518,.508,"$410,000",Free Agency
-2003,59,Ricky Bottalico,/players/b/bottari01.shtml,bottari01,33,ARI,1.2,2,0,1,5.40,4.87,-0.21,-0.36,118.0,5.56,0,0.0,2.0,-0.0,0.0,0,.501,.500,,Free Agency
-2003,60,Micah Bowie*,/players/b/bowiemi01.shtml,bowiemi01,28,OAK,8.1,6,0,7,7.56,4.80,0.03,-0.36,94.0,4.15,-3,-0.3,1.0,-0.0,-0.2,-2,.451,.498,"$304,000",Free Agency
-2003,61,Brian Bowles,/players/b/bowlebr01.shtml,bowlebr01,26,TOR,7.0,5,0,4,5.14,5.36,-0.30,-0.40,101.5,5.33,0,0.0,.6,-0.0,0.1,1,.503,.500,,Amateur Draft
-2003,62,Jason Boyd,/players/b/boydja02.shtml,boydja02,30,CLE,52.1,44,0,25,4.30,4.77,0.16,-0.36,100.5,4.27,-0,-0.0,1.0,-0.1,0.4,6,.500,.500,,Free Agency
-2003,63,Chad Bradford,/players/b/bradfch01.shtml,bradfch01,28,OAK,77.0,72,0,28,3.27,4.90,0.02,-0.37,98.6,4.45,10,1.0,1.5,0.1,1.9,19,.514,.506,"$331,000",Traded
+2003,47,Adam Bernero,/players/b/bernead01.shtml,bernead01,26,2TM,133.1,49,17,90,6.08,4.75,-0.13,0.05,99.8,4.88,-18,-1.7,.77,-0.1,-0.4,-3,.466,.495,"$314,000",Traded
+2003,48,Rafael Betancourt,/players/b/betanra01.shtml,betanra01,28,CLE,38.0,33,0,11,2.61,4.81,0.14,-0.36,98.2,4.24,7,0.7,1.15,-0.0,1.1,11,.521,.504,,Free Agency
+2003,49,Rocky Biddle,/players/b/biddlro01.shtml,biddlro01,27,MON,71.2,73,0,43,5.40,4.75,-0.04,-0.35,105.4,4.68,-6,-0.6,1.62,-0.3,-0.3,0,.492,.496,"$320,000",Traded
+2003,50,Nick Bierbrodt*,/players/b/bierbni01.shtml,bierbni01,25,2TM,43.1,18,5,47,9.76,4.81,0.17,-0.17,99.3,4.44,-26,-2.2,.40,0.2,-1.5,-21,.379,.491,"$300,000",Waivers
+2003,51,Nate Bland*,/players/b/blandna01.shtml,blandna01,28,HOU,20.1,22,0,13,5.75,5.02,0.41,-0.37,104.0,4.40,-3,-0.3,.98,-0.0,-0.2,-1,.486,.498,,Rule 5 Draft
+2003,52,Brian Boehringer,/players/b/boehrbr01.shtml,boehrbr01,34,PIT,62.1,62,0,39,5.63,4.81,-0.05,-0.36,101.7,4.58,-8,-0.8,1.26,-0.2,-0.4,-2,.488,.495,"$1,500,000",Free Agency
+2003,53,Jeremy Bonderman,/players/b/bondeje01.shtml,bondeje01,20,DET,162.0,33,28,118,6.56,4.80,-0.19,0.15,95.5,4.90,-29,-2.7,.14,-0.0,-1.0,-11,.419,.483,"$300,000",Traded
+2003,54,Jung Bong*,/players/b/bongju01.shtml,bongju01,22,ATL,57.0,44,0,32,5.05,4.56,0.20,-0.34,98.7,3.97,-7,-0.7,.98,-0.1,-0.3,-2,.484,.496,"$300,000",Amateur Free Agent
+2003,55,Chris Bootcheck,/players/b/bootcch01.shtml,bootcch01,24,ANA,10.1,4,1,13,11.32,4.87,0.17,-0.19,101.8,4.60,-8,-0.6,.04,0.2,-0.3,-7,.339,.496,,Amateur Draft
+2003,56,Pedro Borbon*,/players/b/borbope02.shtml,borbope02,35,STL,4.0,7,0,9,20.25,5.30,-0.11,-0.39,95.6,4.79,-7,-0.6,1.44,-0.1,-0.8,-7,.407,.496,,Free Agency
+2003,57,Toby Borland,/players/b/borlato02.shtml,borlato02,34,FLA,9.2,7,0,3,2.79,4.79,-0.09,-0.35,100.2,4.54,2,0.2,.63,-0.1,0.2,3,.527,.501,,Free Agency
+2003,58,Joe Borowski,/players/b/borowjo01.shtml,borowjo01,32,CHC,68.1,68,0,23,3.03,4.75,-0.15,-0.35,101.7,4.63,12,1.2,1.59,0.2,2.0,18,.518,.508,"$410,000",Free Agency
+2003,59,Ricky Bottalico,/players/b/bottari01.shtml,bottari01,33,ARI,1.2,2,0,1,5.40,4.87,-0.21,-0.36,118.0,5.56,0,0.0,2.01,-0.0,0.0,0,.501,.500,,Free Agency
+2003,60,Micah Bowie*,/players/b/bowiemi01.shtml,bowiemi01,28,OAK,8.1,6,0,7,7.56,4.80,0.03,-0.36,94.0,4.15,-3,-0.3,1.03,-0.0,-0.2,-2,.451,.498,"$304,000",Free Agency
+2003,61,Brian Bowles,/players/b/bowlebr01.shtml,bowlebr01,26,TOR,7.0,5,0,4,5.14,5.36,-0.30,-0.40,101.5,5.33,0,0.0,.55,-0.0,0.1,1,.503,.500,,Amateur Draft
+2003,62,Jason Boyd,/players/b/boydja02.shtml,boydja02,30,CLE,52.1,44,0,25,4.30,4.77,0.16,-0.36,100.5,4.27,-0,-0.0,1.05,-0.1,0.4,6,.500,.500,,Free Agency
+2003,63,Chad Bradford,/players/b/bradfch01.shtml,bradfch01,28,OAK,77.0,72,0,28,3.27,4.90,0.02,-0.37,98.6,4.45,10,1.0,1.51,0.1,1.9,19,.514,.506,"$331,000",Traded
 2003,64,Dewon Brazelton,/players/b/brazede01.shtml,brazede01,23,TBD,48.1,10,10,49,9.12,4.78,0.17,0.18,99.0,4.74,-23,-1.9,,-0.0,-1.4,-18,.311,.488,,Amateur Draft
-2003,65,Troy Brohawn*,/players/b/brohatr01.shtml,brohatr01,30,LAD,11.2,12,0,6,4.63,4.81,0.35,-0.36,91.7,3.76,-1,-0.1,.6,0.0,-0.0,-0,.490,.499,,Free Agency
-2003,66,Jim Brower,/players/b/broweji01.shtml,broweji01,30,SFG,100.0,51,5,48,4.32,4.63,0.21,-0.22,98.4,4.13,-3,-0.3,1.1,-0.2,0.4,7,.495,.498,,Traded
+2003,65,Troy Brohawn*,/players/b/brohatr01.shtml,brohatr01,30,LAD,11.2,12,0,6,4.63,4.81,0.35,-0.36,91.7,3.76,-1,-0.1,.61,0.0,-0.0,-0,.490,.499,,Free Agency
+2003,66,Jim Brower,/players/b/broweji01.shtml,broweji01,30,SFG,100.0,51,5,48,4.32,4.63,0.21,-0.22,98.4,4.13,-3,-0.3,1.09,-0.2,0.4,7,.495,.498,,Traded
 2003,67,Kevin Brown,/players/b/brownke01.shtml,brownke01,38,LAD,211.0,32,32,67,2.86,4.61,0.38,0.18,91.3,4.03,27,2.9,,-0.1,4.5,46,.590,.518,"$15,714,286",Free Agency
 2003,68,Mark Buehrle*,/players/b/buehrma01.shtml,buehrma01,24,CHW,230.1,35,35,124,4.85,4.85,0.15,0.18,101.4,4.96,3,0.3,,-0.1,2.5,29,.509,.502,"$445,000",Amateur Draft
-2003,69,Ryan Bukvich,/players/b/bukviry01.shtml,bukviry01,25,KCR,10.1,9,0,11,9.58,4.83,-0.31,-0.36,103.9,4.97,-5,-0.5,.3,0.2,-0.2,-4,.445,.497,"$304,500",Amateur Draft
-2003,70,Kirk Bullinger,/players/b/bulliki01.shtml,bulliki01,33,HOU,8.0,7,0,6,6.75,4.58,0.44,-0.34,106.8,4.06,-2,-0.2,.7,0.0,-0.2,-2,.466,.499,,Free Agency
-2003,71,Nate Bump,/players/b/bumpna01.shtml,bumpna01,26,FLA,36.1,32,0,21,5.20,4.81,-0.11,-0.36,100.1,4.57,-3,-0.3,.9,-0.1,-0.0,1,.491,.498,,Traded
-2003,72,Dave Burba,/players/b/burbada01.shtml,burbada01,36,MIL,43.1,17,2,19,3.95,4.82,-0.44,-0.24,102.1,5.13,6,0.6,.5,-0.2,0.8,9,.534,.504,,Free Agency
-2003,73,John Burkett,/players/b/burkejo03.shtml,burkejo03,38,BOS,181.2,32,30,108,5.35,4.81,-0.15,0.16,102.0,5.22,-2,-0.2,.3,-0.1,1.5,18,.493,.499,"$5,500,000",Free Agency
+2003,69,Ryan Bukvich,/players/b/bukviry01.shtml,bukviry01,25,KCR,10.1,9,0,11,9.58,4.83,-0.31,-0.36,103.9,4.97,-5,-0.5,.26,0.2,-0.2,-4,.445,.497,"$304,500",Amateur Draft
+2003,70,Kirk Bullinger,/players/b/bulliki01.shtml,bulliki01,33,HOU,8.0,7,0,6,6.75,4.58,0.44,-0.34,106.8,4.06,-2,-0.2,.69,0.0,-0.2,-2,.466,.499,,Free Agency
+2003,71,Nate Bump,/players/b/bumpna01.shtml,bumpna01,26,FLA,36.1,32,0,21,5.20,4.81,-0.11,-0.36,100.1,4.57,-3,-0.3,.88,-0.1,-0.0,1,.491,.498,,Traded
+2003,72,Dave Burba,/players/b/burbada01.shtml,burbada01,36,MIL,43.1,17,2,19,3.95,4.82,-0.44,-0.24,102.1,5.13,6,0.6,.54,-0.2,0.8,9,.534,.504,,Free Agency
+2003,73,John Burkett,/players/b/burkejo03.shtml,burkejo03,38,BOS,181.2,32,30,108,5.35,4.81,-0.15,0.16,102.0,5.22,-2,-0.2,.34,-0.1,1.5,18,.493,.499,"$5,500,000",Free Agency
 2003,74,A.J. Burnett,/players/b/burnea.01.shtml,burnea.01,26,FLA,23.0,4,4,13,5.09,4.72,-0.09,0.18,93.6,4.68,-1,-0.1,,-0.0,0.1,1,.471,.499,"$2,500,000",Traded
-2003,75,Mike Bynum*,/players/b/bynummi01.shtml,bynummi01,25,SDP,36.0,13,5,35,8.75,4.54,0.00,-0.01,87.9,3.98,-19,-1.7,.6,0.1,-1.3,-16,.367,.489,"$300,500",Amateur Draft
-2003,76,Kiko Calero,/players/c/calerki01.shtml,calerki01,28,STL,38.1,26,1,12,2.82,4.81,-0.04,-0.29,99.2,4.52,7,0.7,1.0,-0.1,1.0,11,.528,.505,,Free Agency
-2003,77,Mickey Callaway,/players/c/callami01.shtml,callami01,28,2TM,60.2,23,7,50,7.42,4.95,0.23,-0.07,101.2,4.70,-18,-1.7,.5,0.1,-0.9,-11,.427,.494,"$302,500",Traded
-2003,78,Chris Capuano*,/players/c/capuach01.shtml,capuach01,24,ARI,33.0,9,5,19,5.18,4.64,-0.17,0.08,111.2,5.44,1,0.1,1.3,-0.0,0.3,4,.509,.501,,Amateur Draft
-2003,79,Giovanni Carrara,/players/c/carragi01.shtml,carragi01,35,SEA,29.0,23,0,22,6.83,4.76,0.26,-0.36,95.9,3.97,-9,-0.9,.8,0.0,-0.6,-6,.462,.495,"$400,000",Free Agency
-2003,80,D.J. Carrasco,/players/c/carradj01.shtml,carradj01,26,KCR,80.1,50,2,44,4.93,4.79,-0.29,-0.30,108.6,5.19,2,0.2,1.1,-0.2,0.9,11,.505,.502,"$300,000",Rule 5 Draft
-2003,81,Hector Carrasco,/players/c/carrahe01.shtml,carrahe01,33,BAL,38.1,40,0,22,5.17,5.44,-0.01,-0.41,98.0,4.94,-1,-0.1,1.3,-0.1,0.2,3,.498,.499,,Free Agency
-2003,82,Lance Carter,/players/c/cartela02.shtml,cartela02,28,TBD,79.0,62,0,39,4.44,5.05,0.15,-0.38,96.6,4.37,-0,-0.0,1.5,-0.2,0.6,8,.499,.500,"$300,000",Free Agency
-2003,83,Jaime Cerda*,/players/c/cerdaja01.shtml,cerdaja01,24,NYM,32.1,27,0,21,5.85,4.93,-0.26,-0.36,100.0,4.83,-4,-0.4,.9,-0.0,-0.1,-1,.486,.498,"$300,000",Free Agency
-2003,84,Juan Cerros,/players/c/cerroju01.shtml,cerroju01,26,CIN,13.0,11,0,7,4.85,4.53,0.03,-0.34,94.9,3.96,-1,-0.1,.5,0.0,-0.0,-0,.488,.499,,MinorLg Draft
+2003,75,Mike Bynum*,/players/b/bynummi01.shtml,bynummi01,25,SDP,36.0,13,5,35,8.75,4.54,0.00,-0.01,87.9,3.98,-19,-1.7,.55,0.1,-1.3,-16,.367,.489,"$300,500",Amateur Draft
+2003,76,Kiko Calero,/players/c/calerki01.shtml,calerki01,28,STL,38.1,26,1,12,2.82,4.81,-0.04,-0.29,99.2,4.52,7,0.7,1.04,-0.1,1.0,11,.528,.505,,Free Agency
+2003,77,Mickey Callaway,/players/c/callami01.shtml,callami01,28,2TM,60.2,23,7,50,7.42,4.95,0.23,-0.07,101.2,4.70,-18,-1.7,.47,0.1,-0.9,-11,.427,.494,"$302,500",Traded
+2003,78,Chris Capuano*,/players/c/capuach01.shtml,capuach01,24,ARI,33.0,9,5,19,5.18,4.64,-0.17,0.08,111.2,5.44,1,0.1,1.32,-0.0,0.3,4,.509,.501,,Amateur Draft
+2003,79,Giovanni Carrara,/players/c/carragi01.shtml,carragi01,35,SEA,29.0,23,0,22,6.83,4.76,0.26,-0.36,95.9,3.97,-9,-0.9,.83,0.0,-0.6,-6,.462,.495,"$400,000",Free Agency
+2003,80,D.J. Carrasco,/players/c/carradj01.shtml,carradj01,26,KCR,80.1,50,2,44,4.93,4.79,-0.29,-0.30,108.6,5.19,2,0.2,1.15,-0.2,0.9,11,.505,.502,"$300,000",Rule 5 Draft
+2003,81,Hector Carrasco,/players/c/carrahe01.shtml,carrahe01,33,BAL,38.1,40,0,22,5.17,5.44,-0.01,-0.41,98.0,4.94,-1,-0.1,1.26,-0.1,0.2,3,.498,.499,,Free Agency
+2003,82,Lance Carter,/players/c/cartela02.shtml,cartela02,28,TBD,79.0,62,0,39,4.44,5.05,0.15,-0.38,96.6,4.37,-0,-0.0,1.49,-0.2,0.6,8,.499,.500,"$300,000",Free Agency
+2003,83,Jaime Cerda*,/players/c/cerdaja01.shtml,cerdaja01,24,NYM,32.1,27,0,21,5.85,4.93,-0.26,-0.36,100.0,4.83,-4,-0.4,.87,-0.0,-0.1,-1,.486,.498,"$300,000",Free Agency
+2003,84,Juan Cerros,/players/c/cerroju01.shtml,cerroju01,26,CIN,13.0,11,0,7,4.85,4.53,0.03,-0.34,94.9,3.96,-1,-0.1,.49,0.0,-0.0,-0,.488,.499,,MinorLg Draft
 2003,85,Shawn Chacon,/players/c/chacosh01.shtml,chacosh01,25,COL,137.0,23,23,73,4.80,4.51,0.06,0.17,115.4,5.34,8,0.8,,-0.1,1.9,20,.535,.505,"$300,000",Amateur Draft
-2003,86,Bruce Chen*,/players/c/chenbr01.shtml,chenbr01,26,2TM,24.1,16,2,16,5.92,5.23,0.16,-0.16,100.8,4.94,-3,-0.3,.6,0.0,-0.0,-0,.483,.499,"$550,000",Waivers
-2003,87,Randy Choate*,/players/c/choatra01.shtml,choatra01,27,NYY,3.2,5,0,3,7.36,5.26,-0.34,-0.39,99.6,5.18,-1,-0.1,.3,0.0,-0.0,-0,.483,.499,,Amateur Draft
-2003,88,Jason Christiansen*,/players/c/chrisja01.shtml,chrisja01,33,SFG,26.0,40,0,15,5.19,4.76,0.22,-0.35,99.6,4.17,-3,-0.3,1.0,-0.1,-0.1,-1,.492,.498,"$2,333,333",Traded
-2003,89,Vinnie Chulk,/players/c/chulkvi01.shtml,chulkvi01,24,TOR,5.1,3,0,3,5.06,5.07,-0.28,-0.38,103.0,5.12,0,0.0,.5,-0.0,0.1,1,.501,.500,,Amateur Draft
+2003,86,Bruce Chen*,/players/c/chenbr01.shtml,chenbr01,26,2TM,24.1,16,2,16,5.92,5.23,0.16,-0.16,100.8,4.94,-3,-0.3,.57,0.0,-0.0,-0,.483,.499,"$550,000",Waivers
+2003,87,Randy Choate*,/players/c/choatra01.shtml,choatra01,27,NYY,3.2,5,0,3,7.36,5.26,-0.34,-0.39,99.6,5.18,-1,-0.1,.35,0.0,-0.0,-0,.483,.499,,Amateur Draft
+2003,88,Jason Christiansen*,/players/c/chrisja01.shtml,chrisja01,33,SFG,26.0,40,0,15,5.19,4.76,0.22,-0.35,99.6,4.17,-3,-0.3,1.02,-0.1,-0.1,-1,.492,.498,"$2,333,333",Traded
+2003,89,Vinnie Chulk,/players/c/chulkvi01.shtml,chulkvi01,24,TOR,5.1,3,0,3,5.06,5.07,-0.28,-0.38,103.0,5.12,0,0.0,.52,-0.0,0.1,1,.501,.500,,Amateur Draft
 2003,90,Brandon Claussen*,/players/c/clausbr01.shtml,clausbr01,24,NYY,6.1,1,1,2,2.84,4.07,-0.29,0.15,96.0,4.33,1,0.1,,-0.0,0.2,2,.611,.501,,Amateur Draft
 2003,91,Roger Clemens,/players/c/clemero02.shtml,clemero02,40,NYY,211.2,33,33,99,4.21,4.83,-0.24,0.18,95.7,5.04,20,2.0,,-0.1,4.1,43,.561,.512,"$10,100,000",Free Agency
 2003,92,Matt Clement,/players/c/clemema01.shtml,clemema01,28,CHC,201.2,32,32,100,4.46,4.66,-0.16,0.18,100.8,5.04,12,1.3,,-0.1,2.8,30,.539,.508,"$4,000,000",Traded
-2003,93,Jesus Colome,/players/c/colomje01.shtml,colomje01,25,TBD,74.0,54,0,37,4.50,4.97,0.13,-0.37,97.4,4.35,-1,-0.1,1.2,-0.2,0.5,7,.498,.499,"$300,000",Traded
+2003,93,Jesus Colome,/players/c/colomje01.shtml,colomje01,25,TBD,74.0,54,0,37,4.50,4.97,0.13,-0.37,97.4,4.35,-1,-0.1,1.23,-0.2,0.5,7,.498,.499,"$300,000",Traded
 2003,94,Bartolo Colon,/players/c/colonba01.shtml,colonba01,30,CHW,242.0,34,34,107,3.98,4.86,0.13,0.18,101.3,4.97,27,2.8,,-0.2,5.1,54,.583,.517,"$8,250,000",Traded
-2003,95,Steve Colyer*,/players/c/colyest01.shtml,colyest01,24,LAD,19.2,13,0,6,2.75,4.73,0.39,-0.35,98.6,3.93,3,0.3,.3,-0.1,0.3,4,.520,.502,"$300,000",Amateur Draft
-2003,96,Clay Condrey,/players/c/condrcl01.shtml,condrcl01,27,SDP,34.0,9,6,32,8.47,4.62,0.00,0.12,95.9,4.54,-15,-1.3,1.0,-0.0,-1.1,-12,.353,.492,"$300,500",Amateur Free Agent
-2003,97,David Cone,/players/c/coneda01.shtml,coneda01,40,NYM,18.0,5,4,13,6.50,4.52,-0.26,0.12,100.8,4.95,-3,-0.3,.1,0.0,-0.2,-2,.438,.498,,Free Agency
-2003,98,Jose Contreras,/players/c/contrjo01.shtml,contrjo01,31,NYY,71.0,18,9,27,3.42,4.79,-0.22,0.08,97.6,4.96,12,1.3,.9,-0.1,1.9,20,.570,.508,"$5,500,000",Amateur Free Agent
-2003,99,Aaron Cook,/players/c/cookaa01.shtml,cookaa01,24,COL,124.0,43,16,89,6.46,4.63,0.07,0.02,112.8,5.17,-18,-1.8,.6,-0.0,-0.8,-7,.458,.489,"$300,000",Amateur Draft
-2003,100,Roy Corcoran,/players/c/corcoro01.shtml,corcoro01,23,MON,7.1,5,0,2,2.45,5.16,-0.04,-0.38,109.9,5.30,2,0.2,.2,-0.1,0.2,3,.548,.501,,Amateur Free Agent
-2003,101,Chad Cordero,/players/c/cordech01.shtml,cordech01,21,MON,11.0,12,0,2,1.64,4.65,-0.03,-0.34,101.6,4.40,3,0.3,.9,-0.0,0.4,4,.529,.502,,Amateur Draft
-2003,102,Francisco Cordero,/players/c/cordefr01.shtml,cordefr01,28,TEX,82.2,73,0,33,3.59,4.97,0.29,-0.37,110.2,4.76,11,1.1,1.6,0.1,2.1,20,.515,.507,"$900,000",Traded
-2003,103,Mark Corey,/players/c/coreyma02.shtml,coreyma02,28,PIT,30.1,22,0,19,5.64,4.89,-0.05,-0.36,102.8,4.70,-3,-0.3,1.0,-0.1,-0.1,-1,.485,.498,,Free Agency
-2003,104,Rheal Cormier*,/players/c/cormirh01.shtml,cormirh01,36,PHI,84.2,65,0,18,1.91,4.59,0.11,-0.34,92.2,3.81,18,1.8,1.2,0.0,2.6,25,.528,.511,"$2,983,333",Free Agency
+2003,95,Steve Colyer*,/players/c/colyest01.shtml,colyest01,24,LAD,19.2,13,0,6,2.75,4.73,0.39,-0.35,98.6,3.93,3,0.3,.30,-0.1,0.3,4,.520,.502,"$300,000",Amateur Draft
+2003,96,Clay Condrey,/players/c/condrcl01.shtml,condrcl01,27,SDP,34.0,9,6,32,8.47,4.62,0.00,0.12,95.9,4.54,-15,-1.3,1.00,-0.0,-1.1,-12,.353,.492,"$300,500",Amateur Free Agent
+2003,97,David Cone,/players/c/coneda01.shtml,coneda01,40,NYM,18.0,5,4,13,6.50,4.52,-0.26,0.12,100.8,4.95,-3,-0.3,.05,0.0,-0.2,-2,.438,.498,,Free Agency
+2003,98,Jose Contreras,/players/c/contrjo01.shtml,contrjo01,31,NYY,71.0,18,9,27,3.42,4.79,-0.22,0.08,97.6,4.96,12,1.3,.92,-0.1,1.9,20,.570,.508,"$5,500,000",Amateur Free Agent
+2003,99,Aaron Cook,/players/c/cookaa01.shtml,cookaa01,24,COL,124.0,43,16,89,6.46,4.63,0.07,0.02,112.8,5.17,-18,-1.8,.61,-0.0,-0.8,-7,.458,.489,"$300,000",Amateur Draft
+2003,100,Roy Corcoran,/players/c/corcoro01.shtml,corcoro01,23,MON,7.1,5,0,2,2.45,5.16,-0.04,-0.38,109.9,5.30,2,0.2,.17,-0.1,0.2,3,.548,.501,,Amateur Free Agent
+2003,101,Chad Cordero,/players/c/cordech01.shtml,cordech01,21,MON,11.0,12,0,2,1.64,4.65,-0.03,-0.34,101.6,4.40,3,0.3,.94,-0.0,0.4,4,.529,.502,,Amateur Draft
+2003,102,Francisco Cordero,/players/c/cordefr01.shtml,cordefr01,28,TEX,82.2,73,0,33,3.59,4.97,0.29,-0.37,110.2,4.76,11,1.1,1.60,0.1,2.1,20,.515,.507,"$900,000",Traded
+2003,103,Mark Corey,/players/c/coreyma02.shtml,coreyma02,28,PIT,30.1,22,0,19,5.64,4.89,-0.05,-0.36,102.8,4.70,-3,-0.3,.95,-0.1,-0.1,-1,.485,.498,,Free Agency
+2003,104,Rheal Cormier*,/players/c/cormirh01.shtml,cormirh01,36,PHI,84.2,65,0,18,1.91,4.59,0.11,-0.34,92.2,3.81,18,1.8,1.23,0.0,2.6,25,.528,.511,"$2,983,333",Free Agency
 2003,105,Nate Cornejo,/players/c/cornena01.shtml,cornena01,23,DET,194.2,32,32,111,5.13,4.85,-0.20,0.18,94.8,4.96,-3,-0.3,,-0.1,1.5,18,.490,.498,"$303,000",Amateur Draft
-2003,106,Kevin Correia,/players/c/correke01.shtml,correke01,22,SFG,39.1,10,7,16,3.66,4.53,0.22,0.11,100.7,4.45,3,0.3,.6,-0.0,0.6,7,.534,.502,,Amateur Draft
-2003,107,David Cortes,/players/c/corteda01.shtml,corteda01,29,CLE,3.0,2,0,5,15.00,4.94,0.29,-0.37,96.0,4.11,-4,-0.3,.4,0.1,-0.2,-3,.347,.498,,Purchased
+2003,106,Kevin Correia,/players/c/correke01.shtml,correke01,22,SFG,39.1,10,7,16,3.66,4.53,0.22,0.11,100.7,4.45,3,0.3,.58,-0.0,0.6,7,.534,.502,,Amateur Draft
+2003,107,David Cortes,/players/c/corteda01.shtml,corteda01,29,CLE,3.0,2,0,5,15.00,4.94,0.29,-0.37,96.0,4.11,-4,-0.3,.36,0.1,-0.2,-3,.347,.498,,Purchased
 2003,108,Neal Cotts*,/players/c/cottsne01.shtml,cottsne01,23,CHW,13.1,4,4,12,8.10,4.67,0.13,0.18,107.2,5.05,-4,-0.4,,-0.0,-0.3,-3,.400,.498,,Traded
-2003,109,Doug Creek*,/players/c/creekdo01.shtml,creekdo01,34,TOR,13.2,21,0,6,3.95,5.49,-0.24,-0.41,107.2,5.71,3,0.3,.8,-0.1,0.4,4,.513,.502,"$700,000",Free Agency
-2003,110,Jack Cressend,/players/c/cressja01.shtml,cressja01,28,CLE,43.0,33,0,12,2.51,4.86,0.16,-0.36,98.2,4.26,8,0.8,1.0,-0.1,1.2,13,.525,.505,,Waivers
-2003,111,Mike Crudale,/players/c/crudami01.shtml,crudami01,26,2TM,20.2,22,0,8,3.48,4.64,-0.18,-0.34,95.7,4.29,2,0.2,.8,-0.1,0.3,4,.508,.500,,Traded
-2003,112,Juan Cruz,/players/c/cruzju02.shtml,cruzju02,24,CHC,61.0,25,6,44,6.49,4.55,-0.16,-0.06,100.9,4.70,-12,-1.2,.8,-0.0,-0.7,-7,.451,.492,"$340,000",Amateur Free Agent
-2003,113,Nelson Cruz,/players/c/cruzne01.shtml,cruzne01,30,COL,53.2,20,7,43,7.21,4.71,0.06,0.01,121.9,5.67,-9,-0.9,.8,-0.0,-0.5,-4,.454,.494,"$700,000",Traded
-2003,114,Will Cunnane,/players/c/cunnawi01.shtml,cunnawi01,29,ATL,20.0,20,0,6,2.70,4.57,0.18,-0.34,98.8,4.00,3,0.3,1.5,0.0,0.5,5,.514,.502,,Free Agency
+2003,109,Doug Creek*,/players/c/creekdo01.shtml,creekdo01,34,TOR,13.2,21,0,6,3.95,5.49,-0.24,-0.41,107.2,5.71,3,0.3,.79,-0.1,0.4,4,.513,.502,"$700,000",Free Agency
+2003,110,Jack Cressend,/players/c/cressja01.shtml,cressja01,28,CLE,43.0,33,0,12,2.51,4.86,0.16,-0.36,98.2,4.26,8,0.8,1.00,-0.1,1.2,13,.525,.505,,Waivers
+2003,111,Mike Crudale,/players/c/crudami01.shtml,crudami01,26,2TM,20.2,22,0,8,3.48,4.64,-0.18,-0.34,95.7,4.29,2,0.2,.78,-0.1,0.3,4,.508,.500,,Traded
+2003,112,Juan Cruz,/players/c/cruzju02.shtml,cruzju02,24,CHC,61.0,25,6,44,6.49,4.55,-0.16,-0.06,100.9,4.70,-12,-1.2,.84,-0.0,-0.7,-7,.451,.492,"$340,000",Amateur Free Agent
+2003,113,Nelson Cruz,/players/c/cruzne01.shtml,cruzne01,30,COL,53.2,20,7,43,7.21,4.71,0.06,0.01,121.9,5.67,-9,-0.9,.85,-0.0,-0.5,-4,.454,.494,"$700,000",Traded
+2003,114,Will Cunnane,/players/c/cunnawi01.shtml,cunnawi01,29,ATL,20.0,20,0,6,2.70,4.57,0.18,-0.34,98.8,4.00,3,0.3,1.47,0.0,0.5,5,.514,.502,,Free Agency
 2003,115,Jeff D'Amico,/players/d/d'amije01.shtml,d'amije01,27,PIT,175.1,29,29,104,5.34,4.72,-0.05,0.18,101.7,5.04,-7,-0.7,,-0.1,0.7,9,.477,.496,"$750,000",Free Agency
-2003,116,Omar Daal*,/players/d/daalom01.shtml,daalom01,31,BAL,93.2,19,17,69,6.63,4.75,-0.01,0.15,99.6,4.89,-18,-1.6,1.7,-0.1,-0.8,-8,.414,.490,"$3,000,000",Free Agency
-2003,117,Vic Darensbourg*,/players/d/darenvi01.shtml,darenvi01,32,2TM,9.0,9,0,9,9.00,5.15,-0.01,-0.38,110.3,5.23,-4,-0.4,.2,0.1,-0.2,-3,.459,.498,,Traded
-2003,118,Doug Davis*,/players/d/davisdo02.shtml,davisdo02,27,3TM,109.1,21,20,55,4.53,4.76,-0.34,0.18,101.6,5.36,10,1.2,.8,-0.1,2.1,21,.556,.503,,Free Agency
+2003,116,Omar Daal*,/players/d/daalom01.shtml,daalom01,31,BAL,93.2,19,17,69,6.63,4.75,-0.01,0.15,99.6,4.89,-18,-1.6,1.74,-0.1,-0.8,-8,.414,.490,"$3,000,000",Free Agency
+2003,117,Vic Darensbourg*,/players/d/darenvi01.shtml,darenvi01,32,2TM,9.0,9,0,9,9.00,5.15,-0.01,-0.38,110.3,5.23,-4,-0.4,.23,0.1,-0.2,-3,.459,.498,,Traded
+2003,118,Doug Davis*,/players/d/davisdo02.shtml,davisdo02,27,3TM,109.1,21,20,55,4.53,4.76,-0.34,0.18,101.6,5.36,10,1.2,.75,-0.1,2.1,21,.556,.503,,Free Agency
 2003,119,Jason Davis,/players/d/davisja02.shtml,davisja02,23,CLE,165.1,27,27,101,5.50,4.82,0.17,0.18,98.7,4.77,-13,-1.2,,-0.1,0.3,5,.454,.492,"$301,100",Amateur Draft
-2003,120,Joey Dawley,/players/d/dawlejo01.shtml,dawlejo01,31,ATL,7.0,5,0,14,18.00,4.83,0.28,-0.36,93.7,3.92,-11,-0.9,.0,0.4,-0.4,-10,.315,.494,"$300,000",Free Agency
+2003,120,Joey Dawley,/players/d/dawlejo01.shtml,dawlejo01,31,ATL,7.0,5,0,14,18.00,4.83,0.28,-0.36,93.7,3.92,-11,-0.9,.03,0.4,-0.4,-10,.315,.494,"$300,000",Free Agency
 2003,121,Zach Day,/players/d/dayza01.shtml,dayza01,25,MON,131.1,23,23,64,4.39,4.68,-0.04,0.18,105.4,5.17,11,1.1,,-0.1,2.2,23,.550,.507,"$301,500",Traded
-2003,122,Valerio De Los Santos*,/players/d/delosva01.shtml,delosva01,30,2TM,52.0,51,0,31,5.37,4.85,-0.38,-0.36,100.0,4.87,-3,-0.3,1.2,-0.1,0.1,2,.495,.501,"$925,000",Amateur Free Agent
-2003,123,Jorge De Paula,/players/d/depaujo01.shtml,depaujo01,24,NYY,11.1,4,1,1,0.79,4.70,-0.21,-0.05,94.7,4.60,5,0.5,.0,-0.1,0.5,6,.627,.503,,Traded
+2003,122,Valerio De Los Santos*,/players/d/delosva01.shtml,delosva01,30,2TM,52.0,51,0,31,5.37,4.85,-0.38,-0.36,100.0,4.87,-3,-0.3,1.19,-0.1,0.1,2,.495,.501,"$925,000",Amateur Free Agent
+2003,123,Jorge De Paula,/players/d/depaujo01.shtml,depaujo01,24,NYY,11.1,4,1,1,0.79,4.70,-0.21,-0.05,94.7,4.60,5,0.5,.01,-0.1,0.5,6,.627,.503,,Traded
 2003,124,Roger Deago*,/players/d/deagoro01.shtml,deagoro01,26,SDP,10.1,2,2,9,7.84,4.76,0.00,0.18,90.1,4.46,-4,-0.3,,-0.0,-0.3,-3,.331,.498,,Amateur Free Agent
-2003,125,Rick DeHart*,/players/d/deharri01.shtml,deharri01,33,KCR,4.0,4,0,6,13.50,4.81,-0.42,-0.36,119.4,5.81,-3,-0.3,1.0,-0.0,-0.3,-3,.422,.498,,Free Agency
-2003,126,Mike DeJean,/players/d/dejeami01.shtml,dejeami01,32,2TM,82.2,76,0,46,5.01,4.66,-0.35,-0.34,99.9,4.67,-4,-0.4,1.6,-0.3,0.1,4,.495,.498,"$1,700,000",Traded
-2003,127,Ryan Dempster,/players/d/dempsry01.shtml,dempsry01,26,CIN,115.2,22,20,89,6.93,4.69,0.03,0.17,97.8,4.72,-29,-2.6,1.1,-0.1,-1.7,-18,.380,.484,"$3,250,000",Traded
-2003,128,Elmer Dessens,/players/d/desseel01.shtml,desseel01,32,ARI,175.2,34,30,107,5.48,4.64,-0.19,0.15,108.8,5.43,-2,-0.2,.8,-0.1,1.2,14,.495,.499,"$3,000,000",Traded
-2003,129,R.A. Dickey,/players/d/dicker.01.shtml,dicker.01,28,TEX,116.2,38,13,68,5.25,4.77,0.34,-0.02,111.4,4.91,-4,-0.4,1.4,-0.2,0.7,9,.489,.498,,Amateur Draft
-2003,130,Juan Dominguez,/players/d/dominju01.shtml,dominju01,23,TEX,16.1,6,3,14,7.71,4.57,0.31,0.10,114.4,4.99,-5,-0.5,.4,0.0,-0.3,-3,.425,.497,,Amateur Free Agent
-2003,131,Brendan Donnelly,/players/d/donnebr01.shtml,donnebr01,31,ANA,74.0,63,0,14,1.70,4.92,0.12,-0.37,96.4,4.28,21,2.1,1.6,0.4,3.4,30,.534,.513,"$325,000",Free Agency
-2003,132,Octavio Dotel,/players/d/doteloc01.shtml,doteloc01,29,HOU,87.0,76,0,25,2.59,4.73,0.32,-0.35,101.6,4.12,14,1.5,1.4,0.1,2.4,22,.520,.509,"$1,600,000",Traded
-2003,133,Sean Douglass,/players/d/douglse01.shtml,douglse01,24,BAL,8.0,3,0,12,13.50,5.63,-0.01,-0.42,100.5,5.25,-7,-0.6,.2,0.2,-0.3,-6,.305,.496,,Amateur Draft
+2003,125,Rick DeHart*,/players/d/deharri01.shtml,deharri01,33,KCR,4.0,4,0,6,13.50,4.81,-0.42,-0.36,119.4,5.81,-3,-0.3,1.04,-0.0,-0.3,-3,.422,.498,,Free Agency
+2003,126,Mike DeJean,/players/d/dejeami01.shtml,dejeami01,32,2TM,82.2,76,0,46,5.01,4.66,-0.35,-0.34,99.9,4.67,-4,-0.4,1.57,-0.3,0.1,4,.495,.498,"$1,700,000",Traded
+2003,127,Ryan Dempster,/players/d/dempsry01.shtml,dempsry01,26,CIN,115.2,22,20,89,6.93,4.69,0.03,0.17,97.8,4.72,-29,-2.6,1.12,-0.1,-1.7,-18,.380,.484,"$3,250,000",Traded
+2003,128,Elmer Dessens,/players/d/desseel01.shtml,desseel01,32,ARI,175.2,34,30,107,5.48,4.64,-0.19,0.15,108.8,5.43,-2,-0.2,.84,-0.1,1.2,14,.495,.499,"$3,000,000",Traded
+2003,129,R.A. Dickey,/players/d/dicker.01.shtml,dicker.01,28,TEX,116.2,38,13,68,5.25,4.77,0.34,-0.02,111.4,4.91,-4,-0.4,1.41,-0.2,0.7,9,.489,.498,,Amateur Draft
+2003,130,Juan Dominguez,/players/d/dominju01.shtml,dominju01,23,TEX,16.1,6,3,14,7.71,4.57,0.31,0.10,114.4,4.99,-5,-0.5,.36,0.0,-0.3,-3,.425,.497,,Amateur Free Agent
+2003,131,Brendan Donnelly,/players/d/donnebr01.shtml,donnebr01,31,ANA,74.0,63,0,14,1.70,4.92,0.12,-0.37,96.4,4.28,21,2.1,1.57,0.4,3.4,30,.534,.513,"$325,000",Free Agency
+2003,132,Octavio Dotel,/players/d/doteloc01.shtml,doteloc01,29,HOU,87.0,76,0,25,2.59,4.73,0.32,-0.35,101.6,4.12,14,1.5,1.38,0.1,2.4,22,.520,.509,"$1,600,000",Traded
+2003,133,Sean Douglass,/players/d/douglse01.shtml,douglse01,24,BAL,8.0,3,0,12,13.50,5.63,-0.01,-0.42,100.5,5.25,-7,-0.6,.22,0.2,-0.3,-6,.305,.496,,Amateur Draft
 2003,134,Scott Downs*,/players/d/downssc01.shtml,downssc01,27,MON,3.0,1,1,5,15.00,4.87,-0.04,0.19,104.0,5.29,-3,-0.2,,-0.0,-0.2,-3,.251,.498,,Traded
 2003,135,Darren Dreifort,/players/d/dreifda01.shtml,dreifda01,31,LAD,60.1,10,10,29,4.33,4.61,0.37,0.18,93.5,4.14,-2,-0.2,,-0.0,0.3,4,.485,.499,"$12,400,000",Free Agency
-2003,136,Ryan Drese,/players/d/dresery01.shtml,dresery01,27,TEX,46.0,11,8,42,8.22,5.04,0.39,0.08,112.0,5.30,-15,-1.3,.6,0.0,-0.8,-10,.382,.492,,Traded
-2003,137,Tim Drew,/players/d/drewti01.shtml,drewti01,24,MON,8.2,6,1,12,12.46,5.25,-0.05,-0.07,96.7,5.05,-7,-0.7,.7,0.0,-0.6,-6,.390,.496,,Traded
-2003,138,Travis Driskill,/players/d/drisktr01.shtml,drisktr01,31,BAL,48.0,20,0,35,6.56,5.01,-0.01,-0.37,103.3,4.80,-9,-0.9,1.2,-0.2,-0.6,-4,.456,.495,,Free Agency
-2003,139,Eric DuBose*,/players/d/duboser01.shtml,duboser01,27,BAL,73.2,17,10,33,4.03,5.31,-0.01,0.11,99.3,5.39,11,1.1,1.5,-0.0,1.9,19,.568,.507,,Free Agency
-2003,140,Justin Duchscherer,/players/d/duchsju01.shtml,duchsju01,25,OAK,16.1,4,3,7,3.86,4.86,0.02,0.12,102.5,5.08,2,0.2,.4,-0.0,0.4,4,.557,.501,,Traded
-2003,141,Brandon Duckworth,/players/d/duckwbr01.shtml,duckwbr01,27,PHI,93.0,24,18,58,5.61,4.51,0.13,0.12,96.9,4.37,-13,-1.3,.3,-0.0,-0.5,-5,.446,.492,"$325,000",Amateur Free Agent
-2003,142,Chad Durbin,/players/d/durbich01.shtml,durbich01,25,CLE,8.2,3,1,12,12.46,4.51,0.20,-0.08,103.8,4.38,-8,-0.6,.9,0.0,-0.5,-7,.296,.496,,Free Agency
-2003,143,Jayson Durocher,/players/d/durocja01.shtml,durocja01,28,MIL,7.1,6,0,9,11.05,4.66,-0.44,-0.34,95.3,4.54,-5,-0.5,1.7,-0.2,-0.6,-5,.416,.497,"$320,000",Free Agency
+2003,136,Ryan Drese,/players/d/dresery01.shtml,dresery01,27,TEX,46.0,11,8,42,8.22,5.04,0.39,0.08,112.0,5.30,-15,-1.3,.60,0.0,-0.8,-10,.382,.492,,Traded
+2003,137,Tim Drew,/players/d/drewti01.shtml,drewti01,24,MON,8.2,6,1,12,12.46,5.25,-0.05,-0.07,96.7,5.05,-7,-0.7,.73,0.0,-0.6,-6,.390,.496,,Traded
+2003,138,Travis Driskill,/players/d/drisktr01.shtml,drisktr01,31,BAL,48.0,20,0,35,6.56,5.01,-0.01,-0.37,103.3,4.80,-9,-0.9,1.16,-0.2,-0.6,-4,.456,.495,,Free Agency
+2003,139,Eric DuBose*,/players/d/duboser01.shtml,duboser01,27,BAL,73.2,17,10,33,4.03,5.31,-0.01,0.11,99.3,5.39,11,1.1,1.50,-0.0,1.9,19,.568,.507,,Free Agency
+2003,140,Justin Duchscherer,/players/d/duchsju01.shtml,duchsju01,25,OAK,16.1,4,3,7,3.86,4.86,0.02,0.12,102.5,5.08,2,0.2,.43,-0.0,0.4,4,.557,.501,,Traded
+2003,141,Brandon Duckworth,/players/d/duckwbr01.shtml,duckwbr01,27,PHI,93.0,24,18,58,5.61,4.51,0.13,0.12,96.9,4.37,-13,-1.3,.26,-0.0,-0.5,-5,.446,.492,"$325,000",Amateur Free Agent
+2003,142,Chad Durbin,/players/d/durbich01.shtml,durbich01,25,CLE,8.2,3,1,12,12.46,4.51,0.20,-0.08,103.8,4.38,-8,-0.6,.89,0.0,-0.5,-7,.296,.496,,Free Agency
+2003,143,Jayson Durocher,/players/d/durocja01.shtml,durocja01,28,MIL,7.1,6,0,9,11.05,4.66,-0.44,-0.34,95.3,4.54,-5,-0.5,1.74,-0.2,-0.6,-5,.416,.497,"$320,000",Free Agency
 2003,144,Adam Eaton,/players/e/eatonad01.shtml,eatonad01,25,SDP,183.0,31,31,91,4.48,4.51,0.00,0.17,93.4,4.38,-3,-0.3,,-0.1,1.2,14,.491,.498,"$350,000",Traded
-2003,145,Eric Eckenstahler*,/players/e/eckener01.shtml,eckener01,26,DET,15.2,20,0,6,3.45,5.16,-0.14,-0.39,95.0,4.68,2,0.2,.6,-0.1,0.3,4,.511,.501,,Amateur Draft
-2003,146,Joey Eischen*,/players/e/eischjo01.shtml,eischjo01,33,MON,53.0,70,0,27,4.58,4.94,-0.04,-0.37,104.2,4.80,1,0.1,1.5,-0.1,0.5,6,.502,.501,"$750,000",Free Agency
-2003,147,Scott Elarton,/players/e/elartsc01.shtml,elartsc01,27,COL,51.2,11,10,46,8.01,4.36,0.07,0.16,119.6,5.31,-16,-1.4,.3,-0.0,-1.0,-11,.371,.491,"$300,000",Free Agency
-2003,148,Dave Elder,/players/e/elderda01.shtml,elderda01,27,CLE,2.1,4,0,5,19.29,5.22,0.20,-0.39,111.5,5.17,-4,-0.3,.6,0.1,-0.2,-3,.417,.498,,Free Agency
-2003,149,Cal Eldred,/players/e/eldreca01.shtml,eldreca01,35,STL,67.1,62,0,32,4.28,4.70,-0.05,-0.35,97.5,4.29,-0,-0.0,1.5,-0.1,0.4,6,.500,.500,"$500,000",Free Agency
+2003,145,Eric Eckenstahler*,/players/e/eckener01.shtml,eckener01,26,DET,15.2,20,0,6,3.45,5.16,-0.14,-0.39,95.0,4.68,2,0.2,.59,-0.1,0.3,4,.511,.501,,Amateur Draft
+2003,146,Joey Eischen*,/players/e/eischjo01.shtml,eischjo01,33,MON,53.0,70,0,27,4.58,4.94,-0.04,-0.37,104.2,4.80,1,0.1,1.47,-0.1,0.5,6,.502,.501,"$750,000",Free Agency
+2003,147,Scott Elarton,/players/e/elartsc01.shtml,elartsc01,27,COL,51.2,11,10,46,8.01,4.36,0.07,0.16,119.6,5.31,-16,-1.4,.33,-0.0,-1.0,-11,.371,.491,"$300,000",Free Agency
+2003,148,Dave Elder,/players/e/elderda01.shtml,elderda01,27,CLE,2.1,4,0,5,19.29,5.22,0.20,-0.39,111.5,5.17,-4,-0.3,.56,0.1,-0.2,-3,.417,.498,,Free Agency
+2003,149,Cal Eldred,/players/e/eldreca01.shtml,eldreca01,35,STL,67.1,62,0,32,4.28,4.70,-0.05,-0.35,97.5,4.29,-0,-0.0,1.47,-0.1,0.4,6,.500,.500,"$500,000",Free Agency
 2003,150,Robert Ellis,/players/e/ellisro02.shtml,ellisro02,32,TEX,18.1,4,4,17,8.35,5.40,0.41,0.20,109.6,5.70,-5,-0.5,,-0.0,-0.3,-3,.382,.497,,Free Agency
-2003,151,Alan Embree*,/players/e/embreal01.shtml,embreal01,33,BOS,55.0,65,0,26,4.25,5.03,-0.13,-0.38,103.3,4.94,4,0.4,1.3,-0.1,0.9,10,.507,.503,"$3,000,000",Traded
-2003,152,Kelvim Escobar,/players/e/escobke01.shtml,escobke01,27,TOR,180.1,41,26,94,4.69,4.93,-0.23,0.13,102.9,5.44,15,1.5,1.2,-0.1,3.3,35,.538,.510,"$3,900,000",Amateur Free Agent
-2003,153,Shawn Estes*,/players/e/estessh01.shtml,estessh01,30,CHC,152.1,29,28,113,6.68,4.74,-0.18,0.18,101.0,5.15,-26,-2.5,.3,-0.1,-1.3,-13,.414,.485,"$3,000,000",Free Agency
-2003,154,Leo Estrella,/players/e/estrele01.shtml,estrele01,28,MIL,66.0,58,0,32,4.36,4.70,-0.51,-0.35,99.6,4.84,3,0.3,1.2,-0.1,0.8,9,.506,.502,,Free Agency
+2003,151,Alan Embree*,/players/e/embreal01.shtml,embreal01,33,BOS,55.0,65,0,26,4.25,5.03,-0.13,-0.38,103.3,4.94,4,0.4,1.27,-0.1,0.9,10,.507,.503,"$3,000,000",Traded
+2003,152,Kelvim Escobar,/players/e/escobke01.shtml,escobke01,27,TOR,180.1,41,26,94,4.69,4.93,-0.23,0.13,102.9,5.44,15,1.5,1.20,-0.1,3.3,35,.538,.510,"$3,900,000",Amateur Free Agent
+2003,153,Shawn Estes*,/players/e/estessh01.shtml,estessh01,30,CHC,152.1,29,28,113,6.68,4.74,-0.18,0.18,101.0,5.15,-26,-2.5,.32,-0.1,-1.3,-13,.414,.485,"$3,000,000",Free Agency
+2003,154,Leo Estrella,/players/e/estrele01.shtml,estrele01,28,MIL,66.0,58,0,32,4.36,4.70,-0.51,-0.35,99.6,4.84,3,0.3,1.19,-0.1,0.8,9,.506,.502,,Free Agency
 2003,155,Seth Etherton,/players/e/etherse01.shtml,etherse01,26,CIN,30.0,7,7,23,6.90,4.77,0.03,0.18,96.9,4.77,-7,-0.7,,-0.0,-0.4,-4,.403,.496,,Free Agency
-2003,156,Scott Eyre*,/players/e/eyresc01.shtml,eyresc01,31,SFG,57.0,74,0,23,3.63,4.66,0.24,-0.34,98.6,4.02,2,0.2,1.3,-0.1,0.6,7,.503,.501,"$725,000",Waivers
-2003,157,Kyle Farnsworth,/players/f/farnsky01.shtml,farnsky01,27,CHC,76.1,77,0,31,3.66,4.82,-0.13,-0.36,102.0,4.69,8,0.9,.9,-0.2,1.3,15,.511,.505,"$600,000",Amateur Draft
-2003,158,Jeff Fassero*,/players/f/fasseje01.shtml,fasseje01,40,STL,77.2,62,6,51,5.91,4.66,-0.06,-0.15,96.2,4.40,-13,-1.3,.9,-0.1,-0.7,-6,.478,.492,"$1,250,000",Traded
-2003,159,Pedro Feliciano*,/players/f/felicpe01.shtml,felicpe01,26,NYM,48.1,23,0,21,3.91,5.03,-0.25,-0.37,98.7,4.85,5,0.5,.5,-0.2,0.7,9,.522,.503,,Free Agency
-2003,160,Jared Fernandez,/players/f/fernaja01.shtml,fernaja01,31,HOU,38.1,12,6,17,3.99,4.60,0.44,0.06,100.5,4.25,1,0.1,.1,-0.0,0.4,4,.508,.501,,Free Agency
-2003,161,Anthony Ferrari*,/players/f/ferraan01.shtml,ferraan01,25,MON,4.0,4,0,3,6.75,5.18,-0.04,-0.38,98.8,4.77,-1,-0.1,.4,0.0,-0.0,-1,.478,.499,,Amateur Draft
-2003,162,Mike Fetters,/players/f/fettemi01.shtml,fettemi01,38,MIN,6.0,5,0,0,0.00,4.91,-0.02,-0.37,104.6,4.78,3,0.3,.2,-0.1,0.2,4,.565,.502,"$500,000",Free Agency
-2003,163,Nate Field,/players/f/fieldna01.shtml,fieldna01,27,KCR,21.2,19,0,10,4.15,4.64,-0.27,-0.35,111.4,5.09,2,0.2,.6,-0.1,0.4,5,.512,.501,,Free Agency
-2003,164,Nelson Figueroa,/players/f/figuene01.shtml,figuene01,29,PIT,35.1,12,3,13,3.31,4.90,-0.05,-0.11,105.8,5.11,7,0.7,.5,-0.1,0.9,10,.561,.505,,Free Agency
-2003,165,Jeremy Fikac,/players/f/fikacje01.shtml,fikacje01,28,OAK,16.0,14,0,8,4.50,5.02,0.02,-0.37,101.3,4.68,0,0.0,1.1,-0.0,0.2,2,.502,.500,"$316,000",Conditional Deal
-2003,166,Tony Fiore,/players/f/fioreto01.shtml,fioreto01,31,MIN,36.0,21,0,25,6.25,5.17,-0.02,-0.39,100.0,4.81,-6,-0.5,.4,0.1,-0.1,-2,.474,.497,"$330,000",Free Agency
+2003,156,Scott Eyre*,/players/e/eyresc01.shtml,eyresc01,31,SFG,57.0,74,0,23,3.63,4.66,0.24,-0.34,98.6,4.02,2,0.2,1.31,-0.1,0.6,7,.503,.501,"$725,000",Waivers
+2003,157,Kyle Farnsworth,/players/f/farnsky01.shtml,farnsky01,27,CHC,76.1,77,0,31,3.66,4.82,-0.13,-0.36,102.0,4.69,8,0.9,.89,-0.2,1.3,15,.511,.505,"$600,000",Amateur Draft
+2003,158,Jeff Fassero*,/players/f/fasseje01.shtml,fasseje01,40,STL,77.2,62,6,51,5.91,4.66,-0.06,-0.15,96.2,4.40,-13,-1.3,.91,-0.1,-0.7,-6,.478,.492,"$1,250,000",Traded
+2003,159,Pedro Feliciano*,/players/f/felicpe01.shtml,felicpe01,26,NYM,48.1,23,0,21,3.91,5.03,-0.25,-0.37,98.7,4.85,5,0.5,.52,-0.2,0.7,9,.522,.503,,Free Agency
+2003,160,Jared Fernandez,/players/f/fernaja01.shtml,fernaja01,31,HOU,38.1,12,6,17,3.99,4.60,0.44,0.06,100.5,4.25,1,0.1,.12,-0.0,0.4,4,.508,.501,,Free Agency
+2003,161,Anthony Ferrari*,/players/f/ferraan01.shtml,ferraan01,25,MON,4.0,4,0,3,6.75,5.18,-0.04,-0.38,98.8,4.77,-1,-0.1,.43,0.0,-0.0,-1,.478,.499,,Amateur Draft
+2003,162,Mike Fetters,/players/f/fettemi01.shtml,fettemi01,38,MIN,6.0,5,0,0,0.00,4.91,-0.02,-0.37,104.6,4.78,3,0.3,.22,-0.1,0.2,4,.565,.502,"$500,000",Free Agency
+2003,163,Nate Field,/players/f/fieldna01.shtml,fieldna01,27,KCR,21.2,19,0,10,4.15,4.64,-0.27,-0.35,111.4,5.09,2,0.2,.61,-0.1,0.4,5,.512,.501,,Free Agency
+2003,164,Nelson Figueroa,/players/f/figuene01.shtml,figuene01,29,PIT,35.1,12,3,13,3.31,4.90,-0.05,-0.11,105.8,5.11,7,0.7,.51,-0.1,0.9,10,.561,.505,,Free Agency
+2003,165,Jeremy Fikac,/players/f/fikacje01.shtml,fikacje01,28,OAK,16.0,14,0,8,4.50,5.02,0.02,-0.37,101.3,4.68,0,0.0,1.13,-0.0,0.2,2,.502,.500,"$316,000",Conditional Deal
+2003,166,Tony Fiore,/players/f/fioreto01.shtml,fioreto01,31,MIN,36.0,21,0,25,6.25,5.17,-0.02,-0.39,100.0,4.81,-6,-0.5,.40,0.1,-0.1,-2,.474,.497,"$330,000",Free Agency
 2003,167,Josh Fogg,/players/f/foggjo01.shtml,foggjo01,26,PIT,142.0,26,26,90,5.70,4.71,-0.05,0.18,100.0,4.94,-13,-1.2,,-0.1,-0.1,0,.452,.492,"$322,000",Traded
-2003,168,Jesse Foppert,/players/f/foppeje01.shtml,foppeje01,22,SFG,111.0,23,21,69,5.59,4.73,0.21,0.17,100.1,4.70,-12,-1.1,.9,-0.1,-0.2,-1,.451,.493,,Amateur Draft
-2003,169,Matt Ford*,/players/f/fordma01.shtml,fordma01,22,MIL,43.2,25,4,23,4.74,4.85,-0.48,-0.18,100.3,5.16,2,0.2,.3,-0.1,0.5,6,.508,.501,"$300,000",Rule 5 Draft
-2003,170,Casey Fossum*,/players/f/fossuca01.shtml,fossuca01,25,BOS,79.0,19,14,55,6.27,4.91,-0.14,0.12,105.1,5.43,-7,-0.7,.3,-0.0,0.1,2,.464,.496,"$324,500",Amateur Draft
-2003,171,John Foster*,/players/f/fostejo01.shtml,fostejo01,25,MIL,21.0,23,0,11,4.71,4.78,-0.50,-0.35,99.3,4.89,0,0.0,1.3,-0.0,0.2,2,.501,.500,"$300,000",Traded
-2003,172,Keith Foulke,/players/f/foulkke01.shtml,foulkke01,30,OAK,86.2,72,0,21,2.18,4.93,0.02,-0.37,98.4,4.47,22,2.2,1.5,0.4,3.5,32,.531,.514,"$6,000,000",Traded
-2003,173,Chad Fox,/players/f/foxch02.shtml,foxch02,32,2TM,43.1,38,0,16,3.32,4.90,-0.10,-0.36,100.7,4.68,6,0.7,1.4,0.1,1.2,11,.518,.502,"$500,000",Free Agency
-2003,174,John Franco*,/players/f/francjo01.shtml,francjo01,42,NYM,34.1,38,0,11,2.88,4.90,-0.28,-0.36,97.2,4.68,7,0.7,1.0,-0.1,0.9,10,.518,.504,"$3,833,333",Free Agency
+2003,168,Jesse Foppert,/players/f/foppeje01.shtml,foppeje01,22,SFG,111.0,23,21,69,5.59,4.73,0.21,0.17,100.1,4.70,-12,-1.1,.93,-0.1,-0.2,-1,.451,.493,,Amateur Draft
+2003,169,Matt Ford*,/players/f/fordma01.shtml,fordma01,22,MIL,43.2,25,4,23,4.74,4.85,-0.48,-0.18,100.3,5.16,2,0.2,.25,-0.1,0.5,6,.508,.501,"$300,000",Rule 5 Draft
+2003,170,Casey Fossum*,/players/f/fossuca01.shtml,fossuca01,25,BOS,79.0,19,14,55,6.27,4.91,-0.14,0.12,105.1,5.43,-7,-0.7,.32,-0.0,0.1,2,.464,.496,"$324,500",Amateur Draft
+2003,171,John Foster*,/players/f/fostejo01.shtml,fostejo01,25,MIL,21.0,23,0,11,4.71,4.78,-0.50,-0.35,99.3,4.89,0,0.0,1.26,-0.0,0.2,2,.501,.500,"$300,000",Traded
+2003,172,Keith Foulke,/players/f/foulkke01.shtml,foulkke01,30,OAK,86.2,72,0,21,2.18,4.93,0.02,-0.37,98.4,4.47,22,2.2,1.50,0.4,3.5,32,.531,.514,"$6,000,000",Traded
+2003,173,Chad Fox,/players/f/foxch02.shtml,foxch02,32,2TM,43.1,38,0,16,3.32,4.90,-0.10,-0.36,100.7,4.68,6,0.7,1.42,0.1,1.2,11,.518,.502,"$500,000",Free Agency
+2003,174,John Franco*,/players/f/francjo01.shtml,francjo01,42,NYM,34.1,38,0,11,2.88,4.90,-0.28,-0.36,97.2,4.68,7,0.7,1.01,-0.1,0.9,10,.518,.504,"$3,833,333",Free Agency
 2003,175,Ryan Franklin,/players/f/frankry01.shtml,frankry01,30,SEA,212.0,32,32,93,3.95,4.79,0.23,0.18,94.4,4.47,13,1.3,,-0.1,3.3,36,.540,.508,"$425,000",Amateur Draft
-2003,176,Wayne Franklin*,/players/f/frankwa01.shtml,frankwa01,29,MIL,194.2,36,34,129,5.96,4.70,-0.47,0.17,100.4,5.36,-14,-1.4,.7,-0.1,0.2,4,.462,.491,"$315,000",Traded
-2003,177,Brian Fuentes*,/players/f/fuentbr01.shtml,fuentbr01,27,COL,75.1,75,0,24,2.87,4.47,0.05,-0.33,116.1,4.75,15,1.6,1.0,-0.1,2.1,22,.521,.510,"$300,000",Traded
-2003,178,Aaron Fultz*,/players/f/fultzaa01.shtml,fultzaa01,29,TEX,67.1,64,0,43,5.75,4.99,0.34,-0.37,110.7,4.74,-7,-0.7,1.2,-0.2,-0.2,0,.489,.496,"$600,000",Free Agency
-2003,179,Eric Gagne,/players/g/gagneer01.shtml,gagneer01,27,LAD,82.1,77,0,12,1.31,4.55,0.23,-0.34,93.8,3.74,22,2.3,1.7,0.7,3.7,29,.530,.514,"$550,000",Amateur Free Agent
-2003,180,Mike Gallo*,/players/g/gallomi01.shtml,gallomi01,26,HOU,30.0,32,0,10,3.00,4.47,0.41,-0.33,100.3,3.74,2,0.2,1.0,-0.1,0.4,5,.507,.501,,Amateur Draft
+2003,176,Wayne Franklin*,/players/f/frankwa01.shtml,frankwa01,29,MIL,194.2,36,34,129,5.96,4.70,-0.47,0.17,100.4,5.36,-14,-1.4,.65,-0.1,0.2,4,.462,.491,"$315,000",Traded
+2003,177,Brian Fuentes*,/players/f/fuentbr01.shtml,fuentbr01,27,COL,75.1,75,0,24,2.87,4.47,0.05,-0.33,116.1,4.75,15,1.6,1.01,-0.1,2.1,22,.521,.510,"$300,000",Traded
+2003,178,Aaron Fultz*,/players/f/fultzaa01.shtml,fultzaa01,29,TEX,67.1,64,0,43,5.75,4.99,0.34,-0.37,110.7,4.74,-7,-0.7,1.17,-0.2,-0.2,0,.489,.496,"$600,000",Free Agency
+2003,179,Eric Gagne,/players/g/gagneer01.shtml,gagneer01,27,LAD,82.1,77,0,12,1.31,4.55,0.23,-0.34,93.8,3.74,22,2.3,1.75,0.7,3.7,29,.530,.514,"$550,000",Amateur Free Agent
+2003,180,Mike Gallo*,/players/g/gallomi01.shtml,gallomi01,26,HOU,30.0,32,0,10,3.00,4.47,0.41,-0.33,100.3,3.74,2,0.2,1.02,-0.1,0.4,5,.507,.501,,Amateur Draft
 2003,181,Freddy Garcia,/players/g/garcifr03.shtml,garcifr03,26,SEA,201.1,33,33,109,4.87,4.79,0.22,0.18,96.8,4.59,-6,-0.6,,-0.1,1.4,17,.483,.497,"$6,875,000",Traded
-2003,182,Reynaldo Garcia,/players/g/garcire01.shtml,garcire01,29,TEX,18.0,17,0,18,9.00,4.99,0.33,-0.37,104.7,4.49,-9,-0.8,.5,0.2,-0.5,-7,.450,.495,"$300,000",Amateur Free Agent
-2003,183,Rosman Garcia,/players/g/garciro01.shtml,garciro01,24,TEX,46.1,46,0,33,6.41,5.15,0.40,-0.38,110.8,4.84,-8,-0.8,1.0,-0.1,-0.4,-3,.483,.495,,Traded
+2003,182,Reynaldo Garcia,/players/g/garcire01.shtml,garcire01,29,TEX,18.0,17,0,18,9.00,4.99,0.33,-0.37,104.7,4.49,-9,-0.8,.47,0.2,-0.5,-7,.450,.495,"$300,000",Amateur Free Agent
+2003,183,Rosman Garcia,/players/g/garciro01.shtml,garciro01,24,TEX,46.1,46,0,33,6.41,5.15,0.40,-0.38,110.8,4.84,-8,-0.8,.98,-0.1,-0.4,-3,.483,.495,,Traded
 2003,184,Jon Garland,/players/g/garlajo01.shtml,garlajo01,23,CHW,191.2,32,32,103,4.84,4.69,0.14,0.18,103.3,4.89,1,0.1,,-0.1,2.0,23,.504,.501,"$375,000",Traded
-2003,185,Chad Gaudin,/players/g/gaudich01.shtml,gaudich01,20,TBD,40.0,15,3,18,4.05,5.15,0.15,-0.18,97.8,4.72,3,0.3,.8,-0.1,0.6,8,.520,.502,,Amateur Draft
-2003,186,Geoff Geary,/players/g/gearyge01.shtml,gearyge01,26,PHI,6.0,5,0,3,4.50,5.13,0.15,-0.38,94.2,4.34,-0,-0.0,.1,-0.0,0.0,0,.497,.500,,Amateur Draft
+2003,185,Chad Gaudin,/players/g/gaudich01.shtml,gaudich01,20,TBD,40.0,15,3,18,4.05,5.15,0.15,-0.18,97.8,4.72,3,0.3,.79,-0.1,0.6,8,.520,.502,,Amateur Draft
+2003,186,Geoff Geary,/players/g/gearyge01.shtml,gearyge01,26,PHI,6.0,5,0,3,4.50,5.13,0.15,-0.38,94.2,4.34,-0,-0.0,.14,-0.0,0.0,0,.497,.500,,Amateur Draft
 2003,187,Chris George*,/players/g/georgch02.shtml,georgch02,23,KCR,93.2,18,18,75,7.21,4.86,-0.35,0.18,109.7,5.92,-13,-1.2,,-0.1,-0.3,-3,.432,.492,"$303,500",Amateur Draft
-2003,188,Franklyn German,/players/g/germafr01.shtml,germafr01,23,DET,44.2,45,0,32,6.45,4.90,-0.16,-0.37,95.4,4.48,-10,-0.9,1.5,-0.3,-0.8,-5,.479,.494,"$300,000",Traded
-2003,189,Jason Gilfillan,/players/g/gilfija01.shtml,gilfija01,26,KCR,16.1,13,0,14,7.71,5.09,-0.34,-0.38,111.3,5.62,-4,-0.4,.7,0.0,-0.2,-2,.472,.498,,Amateur Draft
-2003,190,Matt Ginter,/players/g/gintema01.shtml,gintema01,25,CHW,3.1,3,0,5,13.50,5.11,0.15,-0.38,97.1,4.44,-3,-0.3,.4,0.1,-0.2,-3,.400,.498,,Amateur Draft
+2003,188,Franklyn German,/players/g/germafr01.shtml,germafr01,23,DET,44.2,45,0,32,6.45,4.90,-0.16,-0.37,95.4,4.48,-10,-0.9,1.46,-0.3,-0.8,-5,.479,.494,"$300,000",Traded
+2003,189,Jason Gilfillan,/players/g/gilfija01.shtml,gilfija01,26,KCR,16.1,13,0,14,7.71,5.09,-0.34,-0.38,111.3,5.62,-4,-0.4,.69,0.0,-0.2,-2,.472,.498,,Amateur Draft
+2003,190,Matt Ginter,/players/g/gintema01.shtml,gintema01,25,CHW,3.1,3,0,5,13.50,5.11,0.15,-0.38,97.1,4.44,-3,-0.3,.44,0.1,-0.2,-3,.400,.498,,Amateur Draft
 2003,191,Tom Glavine*,/players/g/glavito02.shtml,glavito02,37,NYM,183.1,32,32,94,4.61,4.72,-0.28,0.18,98.3,5.09,9,0.9,,-0.1,2.4,26,.529,.506,"$11,000,000",Free Agency
-2003,192,Gary Glover,/players/g/glovega01.shtml,glovega01,26,2TM,62.2,42,0,33,4.74,4.81,0.15,-0.36,99.2,4.26,-3,-0.3,.5,-0.1,0.3,4,.493,.499,"$330,000",Traded
+2003,192,Gary Glover,/players/g/glovega01.shtml,glovega01,26,2TM,62.2,42,0,33,4.74,4.81,0.15,-0.36,99.2,4.26,-3,-0.3,.54,-0.1,0.3,4,.493,.499,"$330,000",Traded
 2003,193,Jimmy Gobble*,/players/g/gobblji01.shtml,gobblji01,21,KCR,52.2,9,9,32,5.47,4.53,-0.32,0.17,108.7,5.45,-0,-0.0,,-0.0,0.5,6,.500,.500,,Amateur Draft
-2003,194,Edgar Gonzalez,/players/g/gonzaed01.shtml,gonzaed01,20,ARI,18.1,9,2,10,4.91,4.62,-0.20,-0.03,106.8,5.11,0,0.0,.9,-0.0,0.2,2,.504,.500,,Amateur Free Agent
+2003,194,Edgar Gonzalez,/players/g/gonzaed01.shtml,gonzaed01,20,ARI,18.1,9,2,10,4.91,4.62,-0.20,-0.03,106.8,5.11,0,0.0,.91,-0.0,0.2,2,.504,.500,,Amateur Free Agent
 2003,195,Geremi Gonzalez,/players/g/gonzaje01.shtml,gonzaje01,28,TBD,156.1,25,25,71,4.09,5.03,0.14,0.19,97.4,4.94,15,1.5,,-0.1,3.0,33,.562,.510,,Free Agency
-2003,196,Mike Gonzalez*,/players/g/gonzami02.shtml,gonzami02,25,PIT,8.1,16,0,7,7.56,5.66,-0.05,-0.42,100.1,5.29,-2,-0.2,1.1,-0.0,-0.2,-1,.486,.499,,Traded
-2003,197,Wiki Gonzalez,/players/g/gonzawi01.shtml,gonzawi01,29,SDP,1.0,1,0,0,0.00,5.72,0.00,-0.42,84.0,4.46,0,0.1,.0,-0.0,0.0,1,.552,.500,"$700,000",Free Agency
-2003,198,Andrew Good,/players/g/goodan01.shtml,goodan01,23,ARI,66.1,16,10,42,5.70,4.64,-0.19,0.11,114.9,5.68,-0,-0.0,.4,-0.1,0.5,6,.497,.500,,Amateur Draft
-2003,199,Tom Gordon,/players/g/gordoto01.shtml,gordoto01,35,CHW,74.0,66,0,29,3.53,4.79,0.11,-0.36,102.8,4.45,8,0.8,1.5,0.0,1.6,16,.512,.505,"$1,400,000",Free Agency
-2003,200,John Grabow*,/players/g/grabojo02.shtml,grabojo02,24,PIT,5.0,5,0,3,5.40,4.70,-0.04,-0.35,103.4,4.54,-0,-0.1,.5,0.0,0.0,-0,.490,.500,,Amateur Draft
-2003,201,Danny Graves,/players/g/graveda01.shtml,graveda01,29,CIN,169.0,30,26,108,5.75,4.72,0.03,0.16,96.6,4.68,-21,-2.0,.8,-0.1,-0.7,-5,.433,.488,"$5,000,000",Traded
-2003,202,Kevin Gregg,/players/g/greggke01.shtml,greggke01,25,ANA,24.2,5,3,9,3.28,4.88,0.13,0.08,97.1,4.69,4,0.4,.4,-0.0,0.6,7,.580,.502,,Free Agency
-2003,203,Jeremy Griffiths,/players/g/griffje01.shtml,griffje01,25,NYM,41.0,9,6,34,7.46,5.14,-0.30,0.03,94.9,5.20,-11,-1.0,.3,0.1,-0.6,-7,.392,.494,,Amateur Draft
-2003,204,Jason Grimsley,/players/g/grimsja01.shtml,grimsja01,35,KCR,75.0,76,0,47,5.64,4.88,-0.30,-0.36,108.4,5.22,-3,-0.3,1.5,-0.3,0.2,5,.496,.498,"$2,000,000",Free Agency
-2003,205,Buddy Groom*,/players/g/groombu01.shtml,groombu01,37,BAL,45.1,60,0,27,5.36,5.24,-0.01,-0.39,99.9,4.85,-2,-0.2,1.5,-0.2,0.1,3,.496,.499,"$3,000,000",Free Agency
-2003,206,Kevin Gryboski,/players/g/gryboke01.shtml,gryboke01,29,ATL,44.1,64,0,22,4.47,4.87,0.20,-0.36,98.8,4.25,-1,-0.1,1.4,-0.1,0.2,3,.498,.499,"$315,000",Traded
-2003,207,Eddie Guardado*,/players/g/guarded01.shtml,guarded01,32,MIN,65.1,66,0,22,3.03,4.73,-0.02,-0.35,99.4,4.37,10,1.0,1.7,0.2,1.9,17,.515,.506,"$2,700,000",Amateur Draft
-2003,208,Mark Guthrie*,/players/g/guthrma01.shtml,guthrma01,37,CHC,42.2,65,0,14,2.95,4.96,-0.18,-0.37,101.2,4.82,9,0.9,1.2,-0.0,1.3,13,.514,.505,"$1,600,000",Free Agency
-2003,209,Luther Hackman,/players/h/hackmlu01.shtml,hackmlu01,28,SDP,76.2,65,0,51,5.99,4.61,0.00,-0.34,92.5,3.95,-18,-1.8,1.0,-0.1,-1.2,-11,.473,.489,"$345,000",Traded
-2003,210,John Halama*,/players/h/halamjo01.shtml,halamjo01,31,OAK,108.2,35,13,68,5.63,4.86,0.03,-0.03,97.3,4.68,-11,-1.1,.6,-0.1,0.0,1,.469,.493,"$750,000",Free Agency
-2003,211,Josh Hall,/players/h/halljo03.shtml,halljo03,22,CIN,24.2,6,5,22,8.03,4.78,0.03,0.16,93.3,4.58,-10,-0.9,.0,-0.0,-0.6,-7,.358,.495,,Amateur Draft
+2003,196,Mike Gonzalez*,/players/g/gonzami02.shtml,gonzami02,25,PIT,8.1,16,0,7,7.56,5.66,-0.05,-0.42,100.1,5.29,-2,-0.2,1.06,-0.0,-0.2,-1,.486,.499,,Traded
+2003,197,Wiki Gonzalez,/players/g/gonzawi01.shtml,gonzawi01,29,SDP,1.0,1,0,0,0.00,5.72,0.00,-0.42,84.0,4.46,0,0.1,.00,-0.0,0.0,1,.552,.500,"$700,000",Free Agency
+2003,198,Andrew Good,/players/g/goodan01.shtml,goodan01,23,ARI,66.1,16,10,42,5.70,4.64,-0.19,0.11,114.9,5.68,-0,-0.0,.44,-0.1,0.5,6,.497,.500,,Amateur Draft
+2003,199,Tom Gordon,/players/g/gordoto01.shtml,gordoto01,35,CHW,74.0,66,0,29,3.53,4.79,0.11,-0.36,102.8,4.45,8,0.8,1.45,0.0,1.6,16,.512,.505,"$1,400,000",Free Agency
+2003,200,John Grabow*,/players/g/grabojo02.shtml,grabojo02,24,PIT,5.0,5,0,3,5.40,4.70,-0.04,-0.35,103.4,4.54,-0,-0.1,.52,0.0,0.0,-0,.490,.500,,Amateur Draft
+2003,201,Danny Graves,/players/g/graveda01.shtml,graveda01,29,CIN,169.0,30,26,108,5.75,4.72,0.03,0.16,96.6,4.68,-21,-2.0,.83,-0.1,-0.7,-5,.433,.488,"$5,000,000",Traded
+2003,202,Kevin Gregg,/players/g/greggke01.shtml,greggke01,25,ANA,24.2,5,3,9,3.28,4.88,0.13,0.08,97.1,4.69,4,0.4,.41,-0.0,0.6,7,.580,.502,,Free Agency
+2003,203,Jeremy Griffiths,/players/g/griffje01.shtml,griffje01,25,NYM,41.0,9,6,34,7.46,5.14,-0.30,0.03,94.9,5.20,-11,-1.0,.27,0.1,-0.6,-7,.392,.494,,Amateur Draft
+2003,204,Jason Grimsley,/players/g/grimsja01.shtml,grimsja01,35,KCR,75.0,76,0,47,5.64,4.88,-0.30,-0.36,108.4,5.22,-3,-0.3,1.50,-0.3,0.2,5,.496,.498,"$2,000,000",Free Agency
+2003,205,Buddy Groom*,/players/g/groombu01.shtml,groombu01,37,BAL,45.1,60,0,27,5.36,5.24,-0.01,-0.39,99.9,4.85,-2,-0.2,1.47,-0.2,0.1,3,.496,.499,"$3,000,000",Free Agency
+2003,206,Kevin Gryboski,/players/g/gryboke01.shtml,gryboke01,29,ATL,44.1,64,0,22,4.47,4.87,0.20,-0.36,98.8,4.25,-1,-0.1,1.36,-0.1,0.2,3,.498,.499,"$315,000",Traded
+2003,207,Eddie Guardado*,/players/g/guarded01.shtml,guarded01,32,MIN,65.1,66,0,22,3.03,4.73,-0.02,-0.35,99.4,4.37,10,1.0,1.70,0.2,1.9,17,.515,.506,"$2,700,000",Amateur Draft
+2003,208,Mark Guthrie*,/players/g/guthrma01.shtml,guthrma01,37,CHC,42.2,65,0,14,2.95,4.96,-0.18,-0.37,101.2,4.82,9,0.9,1.17,-0.0,1.3,13,.514,.505,"$1,600,000",Free Agency
+2003,209,Luther Hackman,/players/h/hackmlu01.shtml,hackmlu01,28,SDP,76.2,65,0,51,5.99,4.61,0.00,-0.34,92.5,3.95,-18,-1.8,.99,-0.1,-1.2,-11,.473,.489,"$345,000",Traded
+2003,210,John Halama*,/players/h/halamjo01.shtml,halamjo01,31,OAK,108.2,35,13,68,5.63,4.86,0.03,-0.03,97.3,4.68,-11,-1.1,.64,-0.1,0.0,1,.469,.493,"$750,000",Free Agency
+2003,211,Josh Hall,/players/h/halljo03.shtml,halljo03,22,CIN,24.2,6,5,22,8.03,4.78,0.03,0.16,93.3,4.58,-10,-0.9,.02,-0.0,-0.6,-7,.358,.495,,Amateur Draft
 2003,212,Roy Halladay,/players/h/hallaro01.shtml,hallaro01,26,TOR,266.0,36,36,111,3.76,4.91,-0.23,0.19,103.3,5.50,52,5.6,,-0.2,8.1,82,.655,.534,"$3,825,000",Amateur Draft
-2003,213,Joey Hamilton,/players/h/hamiljo02.shtml,hamiljo02,32,CIN,10.2,3,0,15,12.66,5.51,0.04,-0.41,96.4,4.88,-9,-0.7,.2,0.3,-0.3,-8,.260,.496,,Free Agency
-2003,214,Chris Hammond*,/players/h/hammoch01.shtml,hammoch01,37,NYY,63.0,62,0,23,3.29,4.81,-0.27,-0.36,96.6,4.55,9,0.9,1.2,-0.0,1.5,16,.514,.505,"$2,200,000",Free Agency
+2003,213,Joey Hamilton,/players/h/hamiljo02.shtml,hamiljo02,32,CIN,10.2,3,0,15,12.66,5.51,0.04,-0.41,96.4,4.88,-9,-0.7,.15,0.3,-0.3,-8,.260,.496,,Free Agency
+2003,214,Chris Hammond*,/players/h/hammoch01.shtml,hammoch01,37,NYY,63.0,62,0,23,3.29,4.81,-0.27,-0.36,96.6,4.55,9,0.9,1.23,-0.0,1.5,16,.514,.505,"$2,200,000",Free Agency
 2003,215,Mike Hampton*,/players/h/hamptmi01.shtml,hamptmi01,30,ATL,190.0,31,31,91,4.31,4.59,0.23,0.18,99.9,4.53,4,0.4,,-0.1,1.9,21,.513,.502,"$13,625,000",Traded
-2003,216,Josh Hancock,/players/h/hancojo01.shtml,hancojo01,25,PHI,3.0,2,0,1,3.00,5.72,0.09,-0.42,92.4,4.81,1,0.1,.2,-0.0,0.1,1,.531,.500,,Traded
-2003,217,Aaron Harang,/players/h/haranaa01.shtml,haranaa01,25,2TM,76.1,16,15,47,5.54,4.74,0.03,0.15,96.8,4.70,-7,-0.7,.6,-0.1,-0.0,0,.456,.498,,Traded
-2003,218,Rich Harden,/players/h/harderi01.shtml,harderi01,21,OAK,74.2,15,13,38,4.58,4.70,0.02,0.16,97.6,4.72,1,0.1,.0,-0.1,0.9,10,.509,.501,,Amateur Draft
+2003,216,Josh Hancock,/players/h/hancojo01.shtml,hancojo01,25,PHI,3.0,2,0,1,3.00,5.72,0.09,-0.42,92.4,4.81,1,0.1,.20,-0.0,0.1,1,.531,.500,,Traded
+2003,217,Aaron Harang,/players/h/haranaa01.shtml,haranaa01,25,2TM,76.1,16,15,47,5.54,4.74,0.03,0.15,96.8,4.70,-7,-0.7,.61,-0.1,-0.0,0,.456,.498,,Traded
+2003,218,Rich Harden,/players/h/harderi01.shtml,harderi01,21,OAK,74.2,15,13,38,4.58,4.70,0.02,0.16,97.6,4.72,1,0.1,.05,-0.1,0.9,10,.509,.501,,Amateur Draft
 2003,219,Dan Haren,/players/h/harenda01.shtml,harenda01,22,STL,72.2,14,14,44,5.45,4.66,-0.06,0.18,95.2,4.66,-7,-0.7,,-0.0,-0.1,-0,.453,.496,,Amateur Draft
-2003,220,Travis Harper,/players/h/harpetr01.shtml,harpetr01,27,TBD,93.0,61,0,45,4.35,5.07,0.14,-0.38,97.5,4.44,1,0.1,1.5,-0.2,0.9,11,.502,.501,"$300,000",Free Agency
-2003,221,Chad Harville,/players/h/harvich01.shtml,harvich01,26,OAK,21.2,21,0,15,6.23,5.18,0.02,-0.39,98.2,4.69,-4,-0.4,.6,0.0,-0.1,-1,.483,.498,,Amateur Draft
-2003,222,Shigetoshi Hasegawa,/players/h/hasegsh01.shtml,hasegsh01,34,SEA,73.0,63,0,12,1.48,4.85,0.22,-0.36,95.6,4.08,21,2.1,1.5,0.3,3.2,29,.534,.513,"$1,800,000",Free Agency
-2003,223,LaTroy Hawkins,/players/h/hawkila01.shtml,hawkila01,30,MIN,77.1,74,0,20,2.33,4.80,-0.02,-0.36,99.6,4.44,18,1.8,1.7,0.5,3.1,27,.525,.511,"$3,000,000",Amateur Draft
+2003,220,Travis Harper,/players/h/harpetr01.shtml,harpetr01,27,TBD,93.0,61,0,45,4.35,5.07,0.14,-0.38,97.5,4.44,1,0.1,1.49,-0.2,0.9,11,.502,.501,"$300,000",Free Agency
+2003,221,Chad Harville,/players/h/harvich01.shtml,harvich01,26,OAK,21.2,21,0,15,6.23,5.18,0.02,-0.39,98.2,4.69,-4,-0.4,.65,0.0,-0.1,-1,.483,.498,,Amateur Draft
+2003,222,Shigetoshi Hasegawa,/players/h/hasegsh01.shtml,hasegsh01,34,SEA,73.0,63,0,12,1.48,4.85,0.22,-0.36,95.6,4.08,21,2.1,1.46,0.3,3.2,29,.534,.513,"$1,800,000",Free Agency
+2003,223,LaTroy Hawkins,/players/h/hawkila01.shtml,hawkila01,30,MIN,77.1,74,0,20,2.33,4.80,-0.02,-0.36,99.6,4.44,18,1.8,1.72,0.5,3.1,27,.525,.511,"$3,000,000",Amateur Draft
 2003,224,Jimmy Haynes,/players/h/hayneji01.shtml,hayneji01,30,CIN,94.1,18,18,74,7.06,4.87,0.03,0.19,94.4,4.74,-25,-2.2,,-0.1,-1.5,-16,.375,.486,"$2,500,000",Free Agency
-2003,225,Bryan Hebson,/players/h/hebsobr01.shtml,hebsobr01,27,MON,2.0,2,0,3,13.50,5.55,-0.05,-0.41,104.2,5.41,-2,-0.2,.8,0.0,-0.1,-2,.414,.499,,Amateur Draft
-2003,226,Aaron Heilman,/players/h/heilmaa01.shtml,heilmaa01,24,NYM,65.1,14,13,53,7.30,4.74,-0.27,0.17,94.7,4.91,-18,-1.6,.2,-0.0,-1.1,-12,.384,.490,,Amateur Draft
-2003,227,Rick Helling,/players/h/helliri01.shtml,helliri01,32,2TM,155.0,35,24,91,5.28,5.00,-0.02,0.13,99.2,5.10,-3,-0.2,1.0,-0.1,1.3,14,.495,.497,"$1,000,000",Free Agency
+2003,225,Bryan Hebson,/players/h/hebsobr01.shtml,hebsobr01,27,MON,2.0,2,0,3,13.50,5.55,-0.05,-0.41,104.2,5.41,-2,-0.2,.81,0.0,-0.1,-2,.414,.499,,Amateur Draft
+2003,226,Aaron Heilman,/players/h/heilmaa01.shtml,heilmaa01,24,NYM,65.1,14,13,53,7.30,4.74,-0.27,0.17,94.7,4.91,-18,-1.6,.21,-0.0,-1.1,-12,.384,.490,,Amateur Draft
+2003,227,Rick Helling,/players/h/helliri01.shtml,helliri01,32,2TM,155.0,35,24,91,5.28,5.00,-0.02,0.13,99.2,5.10,-3,-0.2,1.00,-0.1,1.3,14,.495,.497,"$1,000,000",Free Agency
 2003,228,Mark Hendrickson*,/players/h/hendrma01.shtml,hendrma01,29,TOR,158.1,30,30,111,6.31,4.88,-0.27,0.19,102.2,5.46,-15,-1.4,,-0.1,0.2,3,.454,.492,"$302,000",Amateur Draft
-2003,229,Pat Hentgen,/players/h/hentgpa01.shtml,hentgpa01,34,BAL,160.2,28,22,74,4.15,5.06,-0.01,0.11,100.2,5.19,19,1.9,1.3,-0.1,3.5,37,.570,.512,"$1,200,000",Free Agency
-2003,230,Felix Heredia*,/players/h/heredfe01.shtml,heredfe01,28,2TM,87.0,69,0,32,3.31,4.78,-0.03,-0.35,95.4,4.25,9,0.9,.9,-0.2,1.5,17,.513,.504,"$600,000",Free Agency
-2003,231,Matt Herges,/players/h/hergema01.shtml,hergema01,33,2TM,79.0,67,0,27,3.08,4.57,0.09,-0.34,97.1,4.02,8,0.8,1.4,-0.0,1.5,15,.512,.503,,Traded
-2003,232,Dustin Hermanson,/players/h/hermadu01.shtml,hermadu01,30,2TM,68.2,32,6,32,4.19,4.61,0.10,-0.10,97.3,4.30,1,0.1,1.4,-0.2,0.5,7,.502,.499,"$900,000",Free Agency
+2003,229,Pat Hentgen,/players/h/hentgpa01.shtml,hentgpa01,34,BAL,160.2,28,22,74,4.15,5.06,-0.01,0.11,100.2,5.19,19,1.9,1.26,-0.1,3.5,37,.570,.512,"$1,200,000",Free Agency
+2003,230,Felix Heredia*,/players/h/heredfe01.shtml,heredfe01,28,2TM,87.0,69,0,32,3.31,4.78,-0.03,-0.35,95.4,4.25,9,0.9,.94,-0.2,1.5,17,.513,.504,"$600,000",Free Agency
+2003,231,Matt Herges,/players/h/hergema01.shtml,hergema01,33,2TM,79.0,67,0,27,3.08,4.57,0.09,-0.34,97.1,4.02,8,0.8,1.35,-0.0,1.5,15,.512,.503,,Free Agency
+2003,232,Dustin Hermanson,/players/h/hermadu01.shtml,hermadu01,30,2TM,68.2,32,6,32,4.19,4.61,0.10,-0.10,97.3,4.30,1,0.1,1.40,-0.2,0.5,7,.502,.499,"$900,000",Free Agency
 2003,233,Livan Hernandez,/players/h/hernali01.shtml,hernali01,28,MON,233.1,33,33,92,3.55,4.72,-0.04,0.18,104.6,5.16,41,4.5,,-0.2,6.3,62,.637,.528,"$3,825,000",Traded
-2003,234,Roberto Hernandez,/players/h/hernaro01.shtml,hernaro01,38,ATL,60.0,66,0,36,5.40,4.64,0.22,-0.34,99.9,4.08,-9,-0.9,1.1,-0.1,-0.5,-4,.486,.494,"$600,000",Free Agency
+2003,234,Roberto Hernandez,/players/h/hernaro01.shtml,hernaro01,38,ATL,60.0,66,0,36,5.40,4.64,0.22,-0.34,99.9,4.08,-9,-0.9,1.06,-0.1,-0.5,-4,.486,.494,"$600,000",Free Agency
 2003,235,Runelvys Hernandez,/players/h/hernaru03.shtml,hernaru03,25,KCR,91.2,16,16,51,5.01,4.76,-0.31,0.18,107.1,5.62,6,0.6,,-0.1,1.5,17,.541,.504,"$305,500",Amateur Free Agent
-2003,236,Alex Herrera*,/players/h/herreal01.shtml,herreal01,23,CLE,7.0,10,0,7,9.00,5.39,0.16,-0.40,100.4,4.85,-3,-0.3,1.0,-0.0,-0.2,-2,.469,.498,,Amateur Free Agent
-2003,237,Jeremy Hill,/players/h/hillje02.shtml,hillje02,25,KCR,1.0,1,0,0,0.00,5.64,-0.36,-0.42,106.0,5.91,1,0.1,.0,-0.0,0.0,1,.567,.500,,Amateur Draft
-2003,238,Sterling Hitchcock*,/players/h/hitchst01.shtml,hitchst01,32,2TM,87.2,35,7,50,5.13,4.76,-0.18,-0.13,96.3,4.63,-5,-0.5,.6,-0.0,0.4,4,.487,.497,"$6,000,000",Traded
-2003,239,Trey Hodges,/players/h/hodgetr01.shtml,hodgetr01,25,ATL,65.2,52,1,38,5.21,4.61,0.20,-0.30,98.5,4.04,-9,-0.9,.9,-0.1,-0.4,-3,.483,.495,"$300,000",Amateur Draft
-2003,240,Trevor Hoffman,/players/h/hoffmtr01.shtml,hoffmtr01,35,SDP,9.0,9,0,2,2.00,4.38,0.00,-0.32,90.9,3.69,2,0.2,.2,-0.1,0.2,2,.519,.501,"$9,600,000",Traded
-2003,241,Darren Holmes,/players/h/holmeda01.shtml,holmeda01,37,ATL,42.0,48,0,22,4.71,4.76,0.20,-0.35,98.0,4.13,-3,-0.3,.7,-0.0,0.0,1,.494,.498,"$700,000",Free Agency
+2003,236,Alex Herrera*,/players/h/herreal01.shtml,herreal01,23,CLE,7.0,10,0,7,9.00,5.39,0.16,-0.40,100.4,4.85,-3,-0.3,.96,-0.0,-0.2,-2,.469,.498,,Amateur Free Agent
+2003,237,Jeremy Hill,/players/h/hillje02.shtml,hillje02,25,KCR,1.0,1,0,0,0.00,5.64,-0.36,-0.42,106.0,5.91,1,0.1,.03,-0.0,0.0,1,.567,.500,,Amateur Draft
+2003,238,Sterling Hitchcock*,/players/h/hitchst01.shtml,hitchst01,32,2TM,87.2,35,7,50,5.13,4.76,-0.18,-0.13,96.3,4.63,-5,-0.5,.61,-0.0,0.4,4,.487,.497,"$6,000,000",Traded
+2003,239,Trey Hodges,/players/h/hodgetr01.shtml,hodgetr01,25,ATL,65.2,52,1,38,5.21,4.61,0.20,-0.30,98.5,4.04,-9,-0.9,.89,-0.1,-0.4,-3,.483,.495,"$300,000",Amateur Draft
+2003,240,Trevor Hoffman,/players/h/hoffmtr01.shtml,hoffmtr01,35,SDP,9.0,9,0,2,2.00,4.38,0.00,-0.32,90.9,3.69,2,0.2,.23,-0.1,0.2,2,.519,.501,"$9,600,000",Traded
+2003,241,Darren Holmes,/players/h/holmeda01.shtml,holmeda01,37,ATL,42.0,48,0,22,4.71,4.76,0.20,-0.35,98.0,4.13,-3,-0.3,.75,-0.0,0.0,1,.494,.498,"$700,000",Free Agency
 2003,242,Ben Howard,/players/h/howarbe01.shtml,howarbe01,24,SDP,34.2,6,6,17,4.41,4.18,0.00,0.16,99.3,4.31,-1,-0.1,,-0.0,0.2,3,.491,.500,,Amateur Draft
-2003,243,Bob Howry,/players/h/howrybo01.shtml,howrybo01,29,BOS,4.1,4,0,6,12.46,4.86,-0.21,-0.36,99.7,4.69,-4,-0.3,.5,0.1,-0.2,-3,.415,.498,"$1,700,000",Traded
+2003,243,Bob Howry,/players/h/howrybo01.shtml,howrybo01,29,BOS,4.1,4,0,6,12.46,4.86,-0.21,-0.36,99.7,4.69,-4,-0.3,.47,0.1,-0.2,-3,.415,.498,"$1,700,000",Traded
 2003,244,Tim Hudson,/players/h/hudsoti01.shtml,hudsoti01,27,OAK,240.0,34,34,84,3.15,4.88,0.02,0.19,98.1,4.95,48,5.2,,-0.2,7.5,75,.652,.532,"$2,700,000",Amateur Draft
 2003,245,Kazuhisa Ishii*,/players/i/ishiika01.shtml,ishiika01,29,LAD,147.0,27,27,72,4.41,4.63,0.36,0.18,93.8,4.17,-4,-0.5,,-0.1,0.7,9,.483,.497,"$2,575,000",Free Agency
-2003,246,Jason Isringhausen,/players/i/isrinja01.shtml,isrinja01,30,STL,42.0,40,0,14,3.00,4.63,-0.05,-0.34,96.4,4.18,5,0.5,1.4,0.0,0.9,9,.514,.503,"$7,250,000",Free Agency
-2003,247,Edwin Jackson,/players/j/jacksed01.shtml,jacksed01,19,LAD,22.0,4,3,6,2.45,4.32,0.36,0.10,96.9,3.94,4,0.4,.3,-0.0,0.5,6,.596,.502,,Amateur Draft
+2003,246,Jason Isringhausen,/players/i/isrinja01.shtml,isrinja01,30,STL,42.0,40,0,14,3.00,4.63,-0.05,-0.34,96.4,4.18,5,0.5,1.42,0.0,0.9,9,.514,.503,"$7,250,000",Free Agency
+2003,247,Edwin Jackson,/players/j/jacksed01.shtml,jacksed01,19,LAD,22.0,4,3,6,2.45,4.32,0.36,0.10,96.9,3.94,4,0.4,.31,-0.0,0.5,6,.596,.502,,Amateur Draft
 2003,248,Kevin Jarvis,/players/j/jarvike01.shtml,jarvike01,33,SDP,92.0,16,16,65,6.36,4.67,0.00,0.18,94.1,4.56,-19,-1.7,,-0.1,-1.0,-10,.391,.489,"$3,000,000",Free Agency
 2003,249,Jason Jennings,/players/j/jennija01.shtml,jennija01,24,COL,181.1,32,32,115,5.71,4.45,0.06,0.17,110.7,5.05,-14,-1.4,,-0.1,0.1,3,.457,.491,"$325,000",Amateur Draft
-2003,250,Ryan Jensen,/players/j/jensery01.shtml,jensery01,27,SFG,13.1,6,2,16,10.80,4.43,0.29,-0.05,97.9,4.00,-10,-0.9,.2,0.1,-0.6,-9,.351,.494,"$317,000",Amateur Draft
-2003,251,Jose Jimenez,/players/j/jimenjo01.shtml,jimenjo01,29,COL,101.2,63,7,62,5.49,4.48,0.07,-0.13,119.2,5.09,-5,-0.5,1.3,-0.2,0.2,4,.492,.497,"$3,600,000",Traded
-2003,252,Adam Johnson,/players/j/johnsad01.shtml,johnsad01,23,MIN,1.1,2,0,8,54.00,4.41,-0.07,-0.33,94.6,3.92,-7,-0.5,.7,0.1,-0.4,-7,.235,.497,,Amateur Draft
+2003,250,Ryan Jensen,/players/j/jensery01.shtml,jensery01,27,SFG,13.1,6,2,16,10.80,4.43,0.29,-0.05,97.9,4.00,-10,-0.9,.19,0.1,-0.6,-9,.351,.494,"$317,000",Amateur Draft
+2003,251,Jose Jimenez,/players/j/jimenjo01.shtml,jimenjo01,29,COL,101.2,63,7,62,5.49,4.48,0.07,-0.13,119.2,5.09,-5,-0.5,1.28,-0.2,0.2,4,.492,.497,"$3,600,000",Traded
+2003,252,Adam Johnson,/players/j/johnsad01.shtml,johnsad01,23,MIN,1.1,2,0,8,54.00,4.41,-0.07,-0.33,94.6,3.92,-7,-0.5,.67,0.1,-0.4,-7,.235,.497,,Amateur Draft
 2003,253,Jason Johnson,/players/j/johnsja02.shtml,johnsja02,29,BAL,189.2,32,32,100,4.75,5.11,-0.01,0.19,98.5,5.23,11,1.1,,-0.1,2.9,32,.533,.507,"$2,900,000",Traded
-2003,254,Jonathan Johnson,/players/j/johnsjo08.shtml,johnsjo08,28,HOU,15.1,4,3,11,6.46,5.12,0.48,0.16,100.5,4.83,-3,-0.3,.5,-0.0,-0.2,-1,.432,.498,,Free Agency
+2003,254,Jonathan Johnson,/players/j/johnsjo08.shtml,johnsjo08,28,HOU,15.1,4,3,11,6.46,5.12,0.48,0.16,100.5,4.83,-3,-0.3,.50,-0.0,-0.2,-1,.432,.498,,Free Agency
 2003,255,Randy Johnson*,/players/j/johnsra05.shtml,johnsra05,39,ARI,114.0,18,18,61,4.82,4.45,-0.16,0.17,113.0,5.40,7,0.7,,-0.1,1.6,17,.540,.504,"$15,000,000",Free Agency
-2003,256,Greg Jones,/players/j/jonesgr01.shtml,jonesgr01,26,ANA,27.2,18,0,15,4.88,4.92,0.13,-0.37,98.0,4.34,-2,-0.2,.5,-0.0,0.1,1,.491,.499,,Free Agency
-2003,257,Todd Jones,/players/j/jonesto02.shtml,jonesto02,35,2TM,68.2,59,1,58,7.60,4.79,-0.02,-0.32,111.6,4.98,-20,-2.0,.8,-0.0,-1.3,-13,.467,.493,"$3,000,000",Free Agency
-2003,258,Jimmy Journell,/players/j/journji01.shtml,journji01,25,STL,9.0,7,0,7,7.00,4.89,-0.05,-0.36,98.6,4.52,-3,-0.2,.2,0.1,-0.1,-2,.464,.498,,Amateur Draft
-2003,259,Jorge Julio,/players/j/juliojo01.shtml,juliojo01,24,BAL,61.2,64,0,36,5.25,5.03,-0.01,-0.37,98.6,4.59,-4,-0.4,2.0,-0.4,-0.1,2,.493,.497,"$350,000",Traded
-2003,260,Eric Junge,/players/j/jungeer01.shtml,jungeer01,26,PHI,7.2,6,0,3,3.52,4.87,0.12,-0.36,87.3,3.84,0,0.0,.2,-0.0,0.1,1,.504,.500,,Traded
+2003,256,Greg Jones,/players/j/jonesgr01.shtml,jonesgr01,26,ANA,27.2,18,0,15,4.88,4.92,0.13,-0.37,98.0,4.34,-2,-0.2,.47,-0.0,0.1,1,.491,.499,,Free Agency
+2003,257,Todd Jones,/players/j/jonesto02.shtml,jonesto02,35,2TM,68.2,59,1,58,7.60,4.79,-0.02,-0.32,111.6,4.98,-20,-2.0,.80,-0.0,-1.3,-13,.467,.493,"$3,000,000",Free Agency
+2003,258,Jimmy Journell,/players/j/journji01.shtml,journji01,25,STL,9.0,7,0,7,7.00,4.89,-0.05,-0.36,98.6,4.52,-3,-0.2,.21,0.1,-0.1,-2,.464,.498,,Amateur Draft
+2003,259,Jorge Julio,/players/j/juliojo01.shtml,juliojo01,24,BAL,61.2,64,0,36,5.25,5.03,-0.01,-0.37,98.6,4.59,-4,-0.4,1.99,-0.4,-0.1,2,.493,.497,"$350,000",Traded
+2003,260,Eric Junge,/players/j/jungeer01.shtml,jungeer01,26,PHI,7.2,6,0,3,3.52,4.87,0.12,-0.36,87.3,3.84,0,0.0,.21,-0.0,0.1,1,.504,.500,,Traded
 2003,261,Randy Keisler*,/players/k/keislra01.shtml,keislra01,27,SDP,6.0,2,2,9,13.50,4.23,0.00,0.16,107.1,4.70,-6,-0.5,,-0.0,-0.4,-5,.268,.497,,Free Agency
-2003,262,Joe Kennedy*,/players/k/kennejo04.shtml,kennejo04,24,TBD,133.2,32,22,101,6.80,4.97,0.17,0.13,96.4,4.76,-30,-2.7,1.6,-0.2,-1.5,-15,.414,.483,"$300,000",Amateur Draft
-2003,263,Jason Kershner*,/players/k/kershja01.shtml,kershja01,26,TOR,54.0,40,0,21,3.50,4.96,-0.23,-0.37,102.9,4.96,9,0.9,1.3,0.0,1.5,15,.522,.505,,Waivers
-2003,264,Masao Kida,/players/k/kidama01.shtml,kidama01,34,LAD,12.0,3,2,5,3.75,4.64,0.45,0.09,96.7,4.13,0,0.0,.1,-0.0,0.1,2,.516,.500,,Free Agency
-2003,265,Brooks Kieschnick,/players/k/kiescbr01.shtml,kiescbr01,31,MIL,53.0,42,0,32,5.43,4.70,-0.49,-0.35,99.5,4.82,-4,-0.4,.5,-0.0,0.1,1,.491,.498,,Free Agency
-2003,266,Byung-Hyun Kim,/players/k/kimby01.shtml,kimby01,24,2TM,122.1,56,12,55,4.05,4.88,-0.15,-0.05,103.7,5.17,15,1.6,1.5,-0.1,2.8,28,.529,.504,"$3,250,000",Amateur Free Agent
-2003,267,Sun-Woo Kim,/players/k/kimsu01.shtml,kimsu01,25,MON,14.0,4,3,13,8.36,4.75,-0.05,0.11,104.9,5.14,-5,-0.5,.4,0.0,-0.3,-4,.384,.497,,Traded
-2003,268,Ray King*,/players/k/kingra01.shtml,kingra01,29,ATL,59.0,80,0,30,4.58,4.80,0.20,-0.36,100.4,4.26,-2,-0.2,1.2,-0.1,0.1,3,.497,.499,"$600,000",Traded
-2003,269,Matt Kinney,/players/k/kinnema01.shtml,kinnema01,26,MIL,190.2,33,31,121,5.71,4.69,-0.45,0.17,99.3,5.27,-10,-1.0,.3,-0.1,0.5,7,.470,.494,"$318,000",Traded
-2003,270,Steve Kline*,/players/k/klinest02.shtml,klinest02,30,STL,63.2,78,0,29,4.10,4.69,-0.06,-0.35,97.7,4.30,1,0.1,1.3,-0.1,0.6,7,.502,.501,"$1,800,000",Free Agency
-2003,271,Eric Knott*,/players/k/knotter01.shtml,knotter01,28,MON,19.1,13,1,12,5.59,5.03,-0.04,-0.23,103.3,5.01,-1,-0.1,1.0,-0.0,0.0,0,.490,.499,,Free Agency
-2003,272,Gary Knotts,/players/k/knottga01.shtml,knottga01,26,DET,95.1,20,18,70,6.61,4.80,-0.19,0.16,95.1,4.90,-18,-1.6,.2,-0.0,-0.7,-7,.419,.490,"$305,000",Traded
-2003,273,Billy Koch,/players/k/kochbi01.shtml,kochbi01,28,CHW,53.0,55,0,36,6.11,4.72,0.14,-0.35,102.6,4.34,-10,-1.0,1.3,-0.3,-0.7,-4,.482,.494,"$4,250,000",Traded
-2003,274,Danny Kolb,/players/k/kolbda01.shtml,kolbda01,28,MIL,41.1,37,0,10,2.18,4.76,-0.40,-0.35,99.3,4.77,12,1.2,1.8,0.4,2.0,16,.533,.508,,Free Agency
-2003,275,Mike Koplove,/players/k/koplomi01.shtml,koplomi01,26,ARI,37.2,31,0,11,2.63,4.67,-0.17,-0.35,110.4,4.96,10,1.0,1.3,0.1,1.4,13,.532,.506,"$300,000",Amateur Draft
+2003,262,Joe Kennedy*,/players/k/kennejo04.shtml,kennejo04,24,TBD,133.2,32,22,101,6.80,4.97,0.17,0.13,96.4,4.76,-30,-2.7,1.63,-0.2,-1.5,-15,.414,.483,"$300,000",Amateur Draft
+2003,263,Jason Kershner*,/players/k/kershja01.shtml,kershja01,26,TOR,54.0,40,0,21,3.50,4.96,-0.23,-0.37,102.9,4.96,9,0.9,1.31,0.0,1.5,15,.522,.505,,Waivers
+2003,264,Masao Kida,/players/k/kidama01.shtml,kidama01,34,LAD,12.0,3,2,5,3.75,4.64,0.45,0.09,96.7,4.13,0,0.0,.10,-0.0,0.1,2,.516,.500,,Free Agency
+2003,265,Brooks Kieschnick,/players/k/kiescbr01.shtml,kiescbr01,31,MIL,53.0,42,0,32,5.43,4.70,-0.49,-0.35,99.5,4.82,-4,-0.4,.48,-0.0,0.1,1,.491,.498,,Free Agency
+2003,266,Byung-Hyun Kim,/players/k/kimby01.shtml,kimby01,24,2TM,122.1,56,12,55,4.05,4.88,-0.15,-0.05,103.7,5.17,15,1.6,1.51,-0.1,2.8,28,.529,.504,"$3,250,000",Amateur Free Agent
+2003,267,Sun-Woo Kim,/players/k/kimsu01.shtml,kimsu01,25,MON,14.0,4,3,13,8.36,4.75,-0.05,0.11,104.9,5.14,-5,-0.5,.42,0.0,-0.3,-4,.384,.497,,Traded
+2003,268,Ray King*,/players/k/kingra01.shtml,kingra01,29,ATL,59.0,80,0,30,4.58,4.80,0.20,-0.36,100.4,4.26,-2,-0.2,1.24,-0.1,0.1,3,.497,.499,"$600,000",Traded
+2003,269,Matt Kinney,/players/k/kinnema01.shtml,kinnema01,26,MIL,190.2,33,31,121,5.71,4.69,-0.45,0.17,99.3,5.27,-10,-1.0,.33,-0.1,0.5,7,.470,.494,"$318,000",Traded
+2003,270,Steve Kline*,/players/k/klinest02.shtml,klinest02,30,STL,63.2,78,0,29,4.10,4.69,-0.06,-0.35,97.7,4.30,1,0.1,1.35,-0.1,0.6,7,.502,.501,"$1,800,000",Free Agency
+2003,271,Eric Knott*,/players/k/knotter01.shtml,knotter01,28,MON,19.1,13,1,12,5.59,5.03,-0.04,-0.23,103.3,5.01,-1,-0.1,1.03,-0.0,0.0,0,.490,.499,,Free Agency
+2003,272,Gary Knotts,/players/k/knottga01.shtml,knottga01,26,DET,95.1,20,18,70,6.61,4.80,-0.19,0.16,95.1,4.90,-18,-1.6,.19,-0.0,-0.7,-7,.419,.490,"$305,000",Traded
+2003,273,Billy Koch,/players/k/kochbi01.shtml,kochbi01,28,CHW,53.0,55,0,36,6.11,4.72,0.14,-0.35,102.6,4.34,-10,-1.0,1.31,-0.3,-0.7,-4,.482,.494,"$4,250,000",Traded
+2003,274,Danny Kolb,/players/k/kolbda01.shtml,kolbda01,28,MIL,41.1,37,0,10,2.18,4.76,-0.40,-0.35,99.3,4.77,12,1.2,1.81,0.4,2.0,16,.533,.508,,Free Agency
+2003,275,Mike Koplove,/players/k/koplomi01.shtml,koplomi01,26,ARI,37.2,31,0,11,2.63,4.67,-0.17,-0.35,110.4,4.96,10,1.0,1.31,0.1,1.4,13,.532,.506,"$300,000",Amateur Draft
 2003,276,John Lackey,/players/l/lackejo01.shtml,lackejo01,24,ANA,204.0,33,33,117,5.16,4.91,0.14,0.19,97.7,4.84,-7,-0.7,,-0.1,1.3,16,.480,.496,"$315,000",Amateur Draft
 2003,277,Brian Lawrence,/players/l/lawrebr02.shtml,lawrebr02,27,SDP,210.2,33,33,106,4.53,4.52,0.00,0.17,92.7,4.35,-5,-0.5,,-0.1,1.1,14,.485,.497,"$625,000",Amateur Draft
-2003,278,Wil Ledezma*,/players/l/ledezwi01.shtml,ledezwi01,22,DET,84.0,34,8,55,5.89,4.93,-0.19,-0.13,93.8,4.67,-11,-1.1,1.1,-0.2,-0.3,-2,.468,.493,"$300,000",Rule 5 Draft
+2003,278,Wil Ledezma*,/players/l/ledezwi01.shtml,ledezwi01,22,DET,84.0,34,8,55,5.89,4.93,-0.19,-0.13,93.8,4.67,-11,-1.1,1.10,-0.2,-0.3,-2,.468,.493,"$300,000",Rule 5 Draft
 2003,279,Cliff Lee*,/players/l/leecl02.shtml,leecl02,24,CLE,52.1,9,9,28,4.82,4.78,0.14,0.18,98.2,4.73,-0,-0.0,,-0.0,0.5,5,.496,.500,"$300,900",Traded
-2003,280,David Lee,/players/l/leeda01.shtml,leeda01,30,CLE,7.2,8,0,4,4.70,5.09,0.14,-0.38,103.6,4.74,0,0.0,.5,-0.0,0.1,1,.501,.500,,Traded
+2003,280,David Lee,/players/l/leeda01.shtml,leeda01,30,CLE,7.2,8,0,4,4.70,5.09,0.14,-0.38,103.6,4.74,0,0.0,.51,-0.0,0.1,1,.501,.500,,Traded
 2003,281,Al Leiter*,/players/l/leiteal01.shtml,leiteal01,37,NYM,180.2,30,30,83,4.13,4.85,-0.25,0.19,98.2,5.19,20,2.2,,-0.1,3.6,37,.573,.514,"$8,000,000",Traded
-2003,282,Curt Leskanic,/players/l/leskacu01.shtml,leskacu01,35,2TM,52.2,53,0,15,2.56,4.73,-0.30,-0.35,104.3,4.87,13,1.4,1.2,0.0,1.9,19,.526,.504,"$3,700,000",Traded
-2003,283,Al Levine,/players/l/levinal01.shtml,levinal01,35,2TM,71.0,54,0,29,3.68,4.85,0.00,-0.36,101.0,4.54,7,0.7,1.2,-0.1,1.4,15,.513,.502,,Purchased
-2003,284,Allen Levrault,/players/l/levraal01.shtml,levraal01,25,FLA,28.0,19,0,12,3.86,4.73,-0.11,-0.35,98.8,4.43,2,0.2,.7,-0.1,0.3,4,.509,.501,,Free Agency
+2003,282,Curt Leskanic,/players/l/leskacu01.shtml,leskacu01,35,2TM,52.2,53,0,15,2.56,4.73,-0.30,-0.35,104.3,4.87,13,1.4,1.22,0.0,1.9,19,.526,.504,"$3,700,000",Traded
+2003,283,Al Levine,/players/l/levinal01.shtml,levinal01,35,2TM,71.0,54,0,29,3.68,4.85,0.00,-0.36,101.0,4.54,7,0.7,1.18,-0.1,1.4,15,.513,.502,,Purchased
+2003,284,Allen Levrault,/players/l/levraal01.shtml,levraal01,25,FLA,28.0,19,0,12,3.86,4.73,-0.11,-0.35,98.8,4.43,2,0.2,.65,-0.1,0.3,4,.509,.501,,Free Agency
 2003,285,Colby Lewis,/players/l/lewisco01.shtml,lewisco01,23,TEX,127.0,26,26,104,7.37,5.01,0.36,0.19,111.3,5.38,-28,-2.5,,-0.1,-1.3,-14,.404,.485,"$302,500",Amateur Draft
-2003,286,Brad Lidge,/players/l/lidgebr01.shtml,lidgebr01,26,HOU,85.0,78,0,36,3.81,4.72,0.32,-0.35,102.0,4.13,3,0.3,1.4,-0.1,0.9,10,.503,.502,"$300,000",Amateur Draft
+2003,286,Brad Lidge,/players/l/lidgebr01.shtml,lidgebr01,26,HOU,85.0,78,0,36,3.81,4.72,0.32,-0.35,102.0,4.13,3,0.3,1.43,-0.1,0.9,10,.503,.502,"$300,000",Amateur Draft
 2003,287,Cory Lidle,/players/l/lidleco01.shtml,lidleco01,31,TOR,192.2,31,31,133,6.21,4.88,-0.25,0.19,104.2,5.54,-14,-1.3,,-0.1,0.5,7,.457,.492,"$5,350,000",Traded
-2003,288,Kerry Ligtenberg,/players/l/ligteke01.shtml,ligteke01,32,BAL,59.1,68,0,23,3.49,5.13,-0.01,-0.38,99.5,4.73,8,0.8,1.4,0.0,1.5,15,.512,.505,"$1,200,000",Free Agency
-2003,289,Ted Lilly*,/players/l/lillyte01.shtml,lillyte01,27,OAK,178.1,32,31,92,4.64,4.86,0.03,0.18,97.9,4.91,6,0.6,.3,-0.1,2.3,25,.517,.503,"$335,000",Traded
+2003,288,Kerry Ligtenberg,/players/l/ligteke01.shtml,ligteke01,32,BAL,59.1,68,0,23,3.49,5.13,-0.01,-0.38,99.5,4.73,8,0.8,1.36,0.0,1.5,15,.512,.505,"$1,200,000",Free Agency
+2003,289,Ted Lilly*,/players/l/lillyte01.shtml,lillyte01,27,OAK,178.1,32,31,92,4.64,4.86,0.03,0.18,97.9,4.91,6,0.6,.34,-0.1,2.3,25,.517,.503,"$335,000",Traded
 2003,290,Jose Lima,/players/l/limajo01.shtml,limajo01,30,KCR,73.1,14,14,40,4.91,4.66,-0.33,0.18,107.3,5.53,5,0.5,,-0.0,1.2,13,.538,.503,,Purchased
-2003,291,Mike Lincoln,/players/l/lincomi01.shtml,lincomi01,28,PIT,36.1,36,0,22,5.45,4.85,-0.05,-0.36,102.3,4.64,-3,-0.3,1.5,-0.2,-0.2,-0,.490,.498,"$315,500",Free Agency
-2003,292,Scott Linebrink,/players/l/linebsc01.shtml,linebsc01,26,2TM,92.1,52,6,37,3.61,4.71,0.15,-0.19,97.0,4.24,6,0.6,.9,-0.2,1.3,15,.512,.503,,Traded
-2003,293,Doug Linton,/players/l/lintodo01.shtml,lintodo01,38,TOR,9.0,7,0,3,3.00,5.34,-0.20,-0.40,103.2,5.30,2,0.2,.3,-0.1,0.2,3,.533,.501,"$350,000",Free Agency
-2003,294,Graeme Lloyd*,/players/l/lloydgr01.shtml,lloydgr01,36,2TM,47.2,52,0,34,6.42,4.93,-0.32,-0.37,101.0,4.94,-8,-0.7,.7,0.1,-0.2,-3,.486,.499,"$650,000",Traded
+2003,291,Mike Lincoln,/players/l/lincomi01.shtml,lincomi01,28,PIT,36.1,36,0,22,5.45,4.85,-0.05,-0.36,102.3,4.64,-3,-0.3,1.47,-0.2,-0.2,-0,.490,.498,"$315,500",Free Agency
+2003,292,Scott Linebrink,/players/l/linebsc01.shtml,linebsc01,26,2TM,92.1,52,6,37,3.61,4.71,0.15,-0.19,97.0,4.24,6,0.6,.89,-0.2,1.3,15,.512,.503,,Traded
+2003,293,Doug Linton,/players/l/lintodo01.shtml,lintodo01,38,TOR,9.0,7,0,3,3.00,5.34,-0.20,-0.40,103.2,5.30,2,0.2,.32,-0.1,0.2,3,.533,.501,"$350,000",Free Agency
+2003,294,Graeme Lloyd*,/players/l/lloydgr01.shtml,lloydgr01,36,2TM,47.2,52,0,34,6.42,4.93,-0.32,-0.37,101.0,4.94,-8,-0.7,.73,0.1,-0.2,-3,.486,.499,"$650,000",Traded
 2003,295,Esteban Loaiza,/players/l/loaizes01.shtml,loaizes01,31,CHW,226.1,34,34,75,2.98,4.66,0.12,0.18,102.7,4.84,47,5.0,,-0.1,7.2,72,.648,.531,"$500,000",Free Agency
 2003,296,Carlton Loewer,/players/l/loeweca01.shtml,loeweca01,29,SDP,21.2,5,5,17,7.06,4.66,0.00,0.18,92.4,4.47,-6,-0.6,,-0.0,-0.4,-4,.384,.496,,Free Agency
 2003,297,Kyle Lohse,/players/l/lohseky01.shtml,lohseky01,24,MIN,201.0,33,33,107,4.79,4.76,-0.03,0.18,99.9,4.96,4,0.4,,-0.1,2.3,27,.513,.503,"$330,000",Traded
-2003,298,Aaron Looper,/players/l/loopeaa01.shtml,loopeaa01,26,SEA,7.0,6,0,4,5.14,4.72,0.20,-0.35,99.2,4.14,-1,-0.1,.1,0.0,0.0,0,.488,.500,,Amateur Draft
-2003,299,Braden Looper,/players/l/loopebr01.shtml,loopebr01,28,FLA,80.2,74,0,34,3.79,4.74,-0.10,-0.35,97.3,4.38,5,0.5,1.4,-0.1,1.1,12,.507,.503,"$1,600,000",Traded
-2003,300,Albie Lopez,/players/l/lopezal02.shtml,lopezal02,31,KCR,22.2,15,0,32,12.71,4.67,-0.38,-0.35,110.0,5.17,-19,-1.7,1.1,-0.1,-1.5,-16,.388,.490,"$1,500,000",Free Agency
-2003,301,Aquilino Lopez,/players/l/lopezaq01.shtml,lopezaq01,28,TOR,73.2,72,0,31,3.79,5.02,-0.21,-0.37,103.9,5.05,11,1.0,1.2,-0.0,1.8,19,.514,.506,"$300,000",Rule 5 Draft
-2003,302,Javier Lopez*,/players/l/lopezja02.shtml,lopezja02,25,COL,58.1,75,0,25,3.86,4.60,0.06,-0.34,115.0,4.83,6,0.6,.9,-0.1,1.0,11,.508,.504,"$300,000",Traded
+2003,298,Aaron Looper,/players/l/loopeaa01.shtml,loopeaa01,26,SEA,7.0,6,0,4,5.14,4.72,0.20,-0.35,99.2,4.14,-1,-0.1,.07,0.0,0.0,0,.488,.500,,Amateur Draft
+2003,299,Braden Looper,/players/l/loopebr01.shtml,loopebr01,28,FLA,80.2,74,0,34,3.79,4.74,-0.10,-0.35,97.3,4.38,5,0.5,1.44,-0.1,1.1,12,.507,.503,"$1,600,000",Traded
+2003,300,Albie Lopez,/players/l/lopezal02.shtml,lopezal02,31,KCR,22.2,15,0,32,12.71,4.67,-0.38,-0.35,110.0,5.17,-19,-1.7,1.06,-0.1,-1.5,-16,.388,.490,"$1,500,000",Free Agency
+2003,301,Aquilino Lopez,/players/l/lopezaq01.shtml,lopezaq01,28,TOR,73.2,72,0,31,3.79,5.02,-0.21,-0.37,103.9,5.05,11,1.0,1.22,-0.0,1.8,19,.514,.506,"$300,000",Rule 5 Draft
+2003,302,Javier Lopez*,/players/l/lopezja02.shtml,lopezja02,25,COL,58.1,75,0,25,3.86,4.60,0.06,-0.34,115.0,4.83,6,0.6,.93,-0.1,1.0,11,.508,.504,"$300,000",Traded
 2003,303,Rodrigo Lopez,/players/l/lopezro02.shtml,lopezro02,27,BAL,147.0,26,26,101,6.18,5.20,-0.01,0.20,98.2,5.30,-14,-1.3,,-0.1,0.1,2,.449,.492,"$325,000",Free Agency
-2003,304,Shane Loux,/players/l/louxsh01.shtml,louxsh01,23,DET,30.1,11,4,24,7.12,4.91,-0.21,-0.09,99.9,5.02,-7,-0.7,1.1,-0.1,-0.4,-4,.441,.496,,Amateur Draft
+2003,304,Shane Loux,/players/l/louxsh01.shtml,louxsh01,23,DET,30.1,11,4,24,7.12,4.91,-0.21,-0.09,99.9,5.02,-7,-0.7,1.10,-0.1,-0.4,-4,.441,.496,,Amateur Draft
 2003,305,Derek Lowe,/players/l/lowede01.shtml,lowede01,30,BOS,203.1,33,33,113,5.00,4.84,-0.15,0.18,103.9,5.38,9,0.9,,-0.1,2.8,31,.527,.505,"$3,625,000",Traded
-2003,306,Sean Lowe,/players/l/lowese01.shtml,lowese01,32,KCR,44.2,28,0,32,6.45,4.77,-0.32,-0.36,109.9,5.21,-6,-0.6,1.0,-0.1,-0.2,-1,.479,.496,,Free Agency
-2003,307,Noah Lowry*,/players/l/lowryno01.shtml,lowryno01,22,SFG,6.1,4,0,0,0.00,4.12,0.18,-0.30,96.0,3.49,2,0.3,.2,-0.1,0.2,3,.565,.502,,Amateur Draft
-2003,308,Brandon Lyon,/players/l/lyonbr01.shtml,lyonbr01,23,BOS,59.0,49,0,33,5.03,4.94,-0.15,-0.37,102.5,4.84,-1,-0.1,1.2,-0.1,0.4,5,.498,.499,"$309,500",Traded
-2003,309,Mike MacDougal,/players/m/macdomi01.shtml,macdomi01,26,KCR,64.0,68,0,36,5.06,4.75,-0.27,-0.35,110.1,5.13,1,0.1,1.2,-0.1,0.6,8,.501,.500,"$301,000",Amateur Draft
+2003,306,Sean Lowe,/players/l/lowese01.shtml,lowese01,32,KCR,44.2,28,0,32,6.45,4.77,-0.32,-0.36,109.9,5.21,-6,-0.6,1.02,-0.1,-0.2,-1,.479,.496,,Free Agency
+2003,307,Noah Lowry*,/players/l/lowryno01.shtml,lowryno01,22,SFG,6.1,4,0,0,0.00,4.12,0.18,-0.30,96.0,3.49,2,0.3,.21,-0.1,0.2,3,.565,.502,,Amateur Draft
+2003,308,Brandon Lyon,/players/l/lyonbr01.shtml,lyonbr01,23,BOS,59.0,49,0,33,5.03,4.94,-0.15,-0.37,102.5,4.84,-1,-0.1,1.18,-0.1,0.4,5,.498,.499,"$309,500",Traded
+2003,309,Mike MacDougal,/players/m/macdomi01.shtml,macdomi01,26,KCR,64.0,68,0,36,5.06,4.75,-0.27,-0.35,110.1,5.13,1,0.1,1.23,-0.1,0.6,8,.501,.500,"$301,000",Amateur Draft
 2003,310,Greg Maddux,/players/m/maddugr01.shtml,maddugr01,37,ATL,218.1,36,36,112,4.62,4.55,0.23,0.18,100.0,4.50,-4,-0.4,,-0.1,1.3,16,.490,.498,"$14,750,000",Free Agency
-2003,311,Ryan Madson,/players/m/madsory01.shtml,madsory01,22,PHI,2.0,1,0,0,0.00,5.72,0.12,-0.42,86.0,4.46,1,0.1,.6,-0.0,0.1,1,.607,.501,,Amateur Draft
-2003,312,Ron Mahay*,/players/m/mahayro01.shtml,mahayro01,32,TEX,45.1,35,0,19,3.77,4.99,0.31,-0.37,110.5,4.77,5,0.5,1.3,-0.0,1.0,10,.514,.503,,Free Agency
-2003,313,Pat Mahomes,/players/m/mahompa01.shtml,mahompa01,32,PIT,22.1,9,1,13,5.24,4.91,-0.05,-0.24,110.7,5.23,-0,-0.0,.3,-0.0,0.2,2,.499,.500,,Free Agency
-2003,314,Mark Malaska*,/players/m/malasma01.shtml,malasma01,25,TBD,16.0,22,0,7,3.94,5.24,0.11,-0.39,98.1,4.64,1,0.1,1.6,0.0,0.3,3,.506,.501,,Amateur Draft
-2003,315,Jim Mann,/players/m/mannji01.shtml,mannji01,28,PIT,1.2,2,0,4,21.60,4.64,-0.09,-0.35,104.0,4.56,-3,-0.3,.7,0.0,-0.2,-3,.359,.498,,Waivers
+2003,311,Ryan Madson,/players/m/madsory01.shtml,madsory01,22,PHI,2.0,1,0,0,0.00,5.72,0.12,-0.42,86.0,4.46,1,0.1,.64,-0.0,0.1,1,.607,.501,,Amateur Draft
+2003,312,Ron Mahay*,/players/m/mahayro01.shtml,mahayro01,32,TEX,45.1,35,0,19,3.77,4.99,0.31,-0.37,110.5,4.77,5,0.5,1.34,-0.0,1.0,10,.514,.503,,Free Agency
+2003,313,Pat Mahomes,/players/m/mahompa01.shtml,mahompa01,32,PIT,22.1,9,1,13,5.24,4.91,-0.05,-0.24,110.7,5.23,-0,-0.0,.30,-0.0,0.2,2,.499,.500,,Free Agency
+2003,314,Mark Malaska*,/players/m/malasma01.shtml,malasma01,25,TBD,16.0,22,0,7,3.94,5.24,0.11,-0.39,98.1,4.64,1,0.1,1.64,0.0,0.3,3,.506,.501,,Amateur Draft
+2003,315,Jim Mann,/players/m/mannji01.shtml,mannji01,28,PIT,1.2,2,0,4,21.60,4.64,-0.09,-0.35,104.0,4.56,-3,-0.3,.72,0.0,-0.2,-3,.359,.498,,Waivers
 2003,316,David Manning,/players/m/mannida01.shtml,mannida01,30,MIL,6.2,2,2,13,17.55,4.43,-0.59,0.17,105.5,5.47,-9,-0.6,,-0.0,-0.6,-8,.193,.496,,Rule 5 Draft
-2003,317,Julio Manon,/players/m/manonju01.shtml,manonju01,30,MON,28.1,23,0,13,4.13,5.07,-0.04,-0.38,102.8,4.86,2,0.2,1.7,0.0,0.5,5,.510,.501,,Free Agency
-2003,318,Matt Mantei,/players/m/mantema01.shtml,mantema01,29,ARI,55.0,50,0,17,2.78,4.58,-0.13,-0.34,108.9,4.76,12,1.2,1.9,0.4,2.1,17,.525,.508,"$7,083,333",Traded
-2003,319,Josias Manzanillo,/players/m/manzajo01.shtml,manzajo01,35,CIN,10.2,9,0,20,16.88,4.63,0.04,-0.34,98.9,4.20,-15,-1.3,.6,0.2,-1.0,-14,.352,.492,"$500,000",Free Agency
+2003,317,Julio Manon,/players/m/manonju01.shtml,manonju01,30,MON,28.1,23,0,13,4.13,5.07,-0.04,-0.38,102.8,4.86,2,0.2,1.66,0.0,0.5,5,.510,.501,,Free Agency
+2003,318,Matt Mantei,/players/m/mantema01.shtml,mantema01,29,ARI,55.0,50,0,17,2.78,4.58,-0.13,-0.34,108.9,4.76,12,1.2,1.85,0.4,2.1,17,.525,.508,"$7,083,333",Traded
+2003,319,Josias Manzanillo,/players/m/manzajo01.shtml,manzajo01,35,CIN,10.2,9,0,20,16.88,4.63,0.04,-0.34,98.9,4.20,-15,-1.3,.65,0.2,-1.0,-14,.352,.492,"$500,000",Free Agency
 2003,320,Mike Maroth*,/players/m/marotmi01.shtml,marotmi01,25,DET,193.1,33,33,131,6.10,4.96,-0.20,0.19,98.7,5.28,-17,-1.6,,-0.1,0.2,4,.451,.490,"$309,000",Traded
-2003,321,Jason Marquis,/players/m/marquja01.shtml,marquja01,24,ATL,40.2,21,2,27,5.98,4.77,0.24,-0.22,99.6,4.30,-8,-0.8,.2,0.2,-0.2,-4,.463,.495,"$368,000",Amateur Draft
-2003,322,Damaso Marte*,/players/m/marteda01.shtml,marteda01,28,CHW,79.2,71,0,16,1.81,4.78,0.10,-0.36,102.3,4.43,23,2.3,1.7,0.6,3.8,32,.533,.514,"$330,000",Traded
-2003,323,Tom Martin*,/players/m/martito02.shtml,martito02,33,LAD,51.0,80,0,21,3.71,4.77,0.34,-0.35,95.5,3.89,1,0.1,1.4,-0.1,0.4,5,.501,.500,,Free Agency
+2003,321,Jason Marquis,/players/m/marquja01.shtml,marquja01,24,ATL,40.2,21,2,27,5.98,4.77,0.24,-0.22,99.6,4.30,-8,-0.8,.20,0.2,-0.2,-4,.463,.495,"$368,000",Amateur Draft
+2003,322,Damaso Marte*,/players/m/marteda01.shtml,marteda01,28,CHW,79.2,71,0,16,1.81,4.78,0.10,-0.36,102.3,4.43,23,2.3,1.69,0.6,3.8,32,.533,.514,"$330,000",Traded
+2003,323,Tom Martin*,/players/m/martito02.shtml,martito02,33,LAD,51.0,80,0,21,3.71,4.77,0.34,-0.35,95.5,3.89,1,0.1,1.42,-0.1,0.4,5,.501,.500,,Free Agency
 2003,324,Luis Martinez*,/players/m/martilu01.shtml,martilu01,23,MIL,16.1,4,4,18,9.92,4.93,-0.52,0.19,98.9,5.58,-8,-0.7,,-0.0,-0.6,-6,.329,.496,,Amateur Free Agent
 2003,325,Pedro Martinez,/players/m/martipe02.shtml,martipe02,31,BOS,186.2,29,29,52,2.51,4.86,-0.12,0.18,101.4,5.24,57,6.2,,-0.1,8.0,78,.715,.539,"$15,500,000",Traded
-2003,326,Julio Mateo,/players/m/mateoju01.shtml,mateoju01,25,SEA,85.2,50,0,32,3.36,4.88,0.20,-0.36,96.9,4.18,8,0.8,.5,-0.4,1.3,17,.516,.505,"$302,500",Amateur Free Agent
-2003,327,Mike Matthews*,/players/m/matthmi01.shtml,matthmi01,29,SDP,64.2,77,0,34,4.73,4.66,0.00,-0.35,94.3,4.07,-5,-0.5,1.4,-0.2,-0.2,1,.493,.497,"$350,000",Waivers
-2003,328,Darrell May*,/players/m/mayda02.shtml,mayda02,31,KCR,210.0,35,32,98,4.20,4.87,-0.31,0.17,107.9,5.77,37,3.9,2.1,-0.1,5.9,60,.611,.524,"$450,000",Free Agency
-2003,329,Joe Mays,/players/m/maysjo01.shtml,maysjo01,27,MIN,130.0,31,21,92,6.37,4.82,-0.03,0.10,100.7,4.98,-20,-1.8,.5,-0.0,-0.5,-5,.441,.489,"$4,150,000",Traded
-2003,330,Seth McClung,/players/m/mccluse01.shtml,mccluse01,22,TBD,38.2,12,5,23,5.35,4.68,0.13,-0.02,99.2,4.48,-4,-0.4,.7,-0.0,0.0,1,.471,.498,"$300,000",Amateur Draft
-2003,331,Brian Meadows,/players/m/meadobr01.shtml,meadobr01,27,PIT,76.1,34,7,45,5.31,4.98,-0.05,-0.14,103.3,5.06,-2,-0.2,.9,-0.1,0.3,5,.493,.498,,Free Agency
-2003,332,Chris Mears,/players/m/mearsch01.shtml,mearsch01,25,DET,41.1,29,3,28,6.10,4.97,-0.19,-0.23,95.2,4.69,-6,-0.6,1.1,-0.1,-0.3,-2,.479,.496,,Free Agency
+2003,326,Julio Mateo,/players/m/mateoju01.shtml,mateoju01,25,SEA,85.2,50,0,32,3.36,4.88,0.20,-0.36,96.9,4.18,8,0.8,.53,-0.4,1.3,17,.516,.505,"$302,500",Amateur Free Agent
+2003,327,Mike Matthews*,/players/m/matthmi01.shtml,matthmi01,29,SDP,64.2,77,0,34,4.73,4.66,0.00,-0.35,94.3,4.07,-5,-0.5,1.38,-0.2,-0.2,1,.493,.497,"$350,000",Waivers
+2003,328,Darrell May*,/players/m/mayda02.shtml,mayda02,31,KCR,210.0,35,32,98,4.20,4.87,-0.31,0.17,107.9,5.77,37,3.9,2.10,-0.1,5.9,60,.611,.524,"$450,000",Free Agency
+2003,329,Joe Mays,/players/m/maysjo01.shtml,maysjo01,27,MIN,130.0,31,21,92,6.37,4.82,-0.03,0.10,100.7,4.98,-20,-1.8,.47,-0.0,-0.5,-5,.441,.489,"$4,150,000",Traded
+2003,330,Seth McClung,/players/m/mccluse01.shtml,mccluse01,22,TBD,38.2,12,5,23,5.35,4.68,0.13,-0.02,99.2,4.48,-4,-0.4,.73,-0.0,0.0,1,.471,.498,"$300,000",Amateur Draft
+2003,331,Brian Meadows,/players/m/meadobr01.shtml,meadobr01,27,PIT,76.1,34,7,45,5.31,4.98,-0.05,-0.14,103.3,5.06,-2,-0.2,.86,-0.1,0.3,5,.493,.498,,Free Agency
+2003,332,Chris Mears,/players/m/mearsch01.shtml,mearsch01,25,DET,41.1,29,3,28,6.10,4.97,-0.19,-0.23,95.2,4.69,-6,-0.6,1.08,-0.1,-0.3,-2,.479,.496,,Free Agency
 2003,333,Gil Meche,/players/m/mechegi01.shtml,mechegi01,24,SEA,186.1,32,32,97,4.69,4.88,0.22,0.18,95.8,4.64,-1,-0.1,,-0.1,1.7,20,.498,.500,"$325,000",Amateur Draft
-2003,334,Jim Mecir,/players/m/mecirji01.shtml,mecirji01,33,OAK,37.0,41,0,25,6.08,4.86,0.03,-0.36,99.9,4.47,-7,-0.6,1.1,-0.1,-0.3,-2,.485,.496,"$3,216,667",Traded
-2003,335,Ramiro Mendoza,/players/m/mendora01.shtml,mendora01,31,BOS,66.2,37,5,51,6.89,5.08,-0.17,-0.17,105.2,5.34,-11,-1.1,.9,-0.1,-0.4,-4,.471,.493,"$2,900,000",Free Agency
-2003,336,Hector Mercado*,/players/m/mercahe01.shtml,mercahe01,29,PHI,18.2,13,0,12,5.79,4.51,0.12,-0.33,91.4,3.71,-4,-0.4,.5,0.1,-0.2,-3,.467,.497,"$330,000",Traded
-2003,337,Jose Mercedes,/players/m/mercejo02.shtml,mercejo02,32,MON,7.1,5,0,3,3.68,5.42,-0.04,-0.40,104.1,5.27,1,0.1,.1,-0.1,0.1,2,.526,.501,,Free Agency
-2003,338,Kent Mercker*,/players/m/merckke01.shtml,merckke01,35,2TM,55.1,67,0,16,2.60,4.84,0.09,-0.36,97.0,4.25,10,1.0,1.1,-0.1,1.4,15,.515,.503,"$550,000",Traded
-2003,339,Jose Mesa,/players/m/mesajo01.shtml,mesajo01,37,PHI,58.0,61,0,44,6.83,4.66,0.13,-0.34,91.7,3.83,-20,-1.9,1.3,-0.4,-1.9,-14,.468,.488,"$5,200,000",Free Agency
-2003,340,Bart Miadich,/players/m/miadiba01.shtml,miadiba01,27,ANA,2.0,1,0,4,18.00,4.89,0.15,-0.36,94.0,4.12,-3,-0.2,.4,0.1,-0.1,-3,.267,.499,,Free Agency
-2003,341,Dan Miceli,/players/m/micelda01.shtml,micelda01,32,4TM,70.1,57,0,27,3.45,4.68,0.19,-0.35,104.4,4.33,7,0.7,.9,-0.2,1.2,13,.512,.502,"$350,000",Free Agency
-2003,342,Jason Middlebrook,/players/m/middlja01.shtml,middlja01,28,NYM,7.0,5,0,8,10.29,5.11,-0.33,-0.38,98.9,5.01,-4,-0.4,.4,0.1,-0.2,-3,.421,.498,,Traded
-2003,343,Matt Miller,/players/m/millema02.shtml,millema02,31,COL,4.1,4,0,1,2.08,4.33,0.05,-0.32,116.4,4.61,1,0.1,.1,-0.1,0.1,2,.531,.501,,Free Agency
-2003,344,Trever Miller*,/players/m/milletr02.shtml,milletr02,30,TOR,52.2,79,0,30,5.13,5.08,-0.22,-0.38,104.0,5.12,0,0.0,1.2,-0.1,0.4,6,.500,.500,"$305,000",Free Agency
+2003,334,Jim Mecir,/players/m/mecirji01.shtml,mecirji01,33,OAK,37.0,41,0,25,6.08,4.86,0.03,-0.36,99.9,4.47,-7,-0.6,1.10,-0.1,-0.3,-2,.485,.496,"$3,216,667",Traded
+2003,335,Ramiro Mendoza,/players/m/mendora01.shtml,mendora01,31,BOS,66.2,37,5,51,6.89,5.08,-0.17,-0.17,105.2,5.34,-11,-1.1,.88,-0.1,-0.4,-4,.471,.493,"$2,900,000",Free Agency
+2003,336,Hector Mercado*,/players/m/mercahe01.shtml,mercahe01,29,PHI,18.2,13,0,12,5.79,4.51,0.12,-0.33,91.4,3.71,-4,-0.4,.52,0.1,-0.2,-3,.467,.497,"$330,000",Traded
+2003,337,Jose Mercedes,/players/m/mercejo02.shtml,mercejo02,32,MON,7.1,5,0,3,3.68,5.42,-0.04,-0.40,104.1,5.27,1,0.1,.15,-0.1,0.1,2,.526,.501,,Free Agency
+2003,338,Kent Mercker*,/players/m/merckke01.shtml,merckke01,35,2TM,55.1,67,0,16,2.60,4.84,0.09,-0.36,97.0,4.25,10,1.0,1.07,-0.1,1.4,15,.515,.503,"$550,000",Traded
+2003,339,Jose Mesa,/players/m/mesajo01.shtml,mesajo01,37,PHI,58.0,61,0,44,6.83,4.66,0.13,-0.34,91.7,3.83,-20,-1.9,1.33,-0.4,-1.9,-14,.468,.488,"$5,200,000",Free Agency
+2003,340,Bart Miadich,/players/m/miadiba01.shtml,miadiba01,27,ANA,2.0,1,0,4,18.00,4.89,0.15,-0.36,94.0,4.12,-3,-0.2,.38,0.1,-0.1,-3,.267,.499,,Free Agency
+2003,341,Dan Miceli,/players/m/micelda01.shtml,micelda01,32,4TM,70.1,57,0,27,3.45,4.68,0.19,-0.35,104.4,4.33,7,0.7,.86,-0.2,1.2,13,.512,.502,"$350,000",Free Agency
+2003,342,Jason Middlebrook,/players/m/middlja01.shtml,middlja01,28,NYM,7.0,5,0,8,10.29,5.11,-0.33,-0.38,98.9,5.01,-4,-0.4,.36,0.1,-0.2,-3,.421,.498,,Traded
+2003,343,Matt Miller,/players/m/millema02.shtml,millema02,31,COL,4.1,4,0,1,2.08,4.33,0.05,-0.32,116.4,4.61,1,0.1,.15,-0.1,0.1,2,.531,.501,,Free Agency
+2003,344,Trever Miller*,/players/m/milletr02.shtml,milletr02,30,TOR,52.2,79,0,30,5.13,5.08,-0.22,-0.38,104.0,5.12,0,0.0,1.17,-0.1,0.4,6,.500,.500,"$305,000",Free Agency
 2003,345,Wade Miller,/players/m/millewa04.shtml,millewa04,26,HOU,187.1,33,33,96,4.61,4.64,0.38,0.18,102.9,4.56,-2,-0.2,,-0.1,1.3,15,.494,.499,"$525,000",Amateur Draft
 2003,346,Kevin Millwood,/players/m/millwke01.shtml,millwke01,28,PHI,222.0,35,35,103,4.18,4.65,0.12,0.18,94.3,4.43,5,0.6,,-0.2,2.3,26,.516,.503,"$9,900,000",Free Agency
 2003,347,Eric Milton*,/players/m/miltoer01.shtml,miltoer01,27,MIN,17.0,3,3,5,2.65,4.02,-0.03,0.15,94.6,3.97,3,0.3,,-0.0,0.4,4,.587,.502,"$6,000,000",Traded
-2003,348,Sergio Mitre,/players/m/mitrese01.shtml,mitrese01,22,CHC,8.2,3,2,8,8.31,5.03,-0.23,0.13,101.1,5.44,-3,-0.3,.0,0.0,-0.2,-2,.412,.498,,Amateur Draft
+2003,348,Sergio Mitre,/players/m/mitrese01.shtml,mitrese01,22,CHC,8.2,3,2,8,8.31,5.03,-0.23,0.13,101.1,5.44,-3,-0.3,.01,0.0,-0.2,-2,.412,.498,,Amateur Draft
 2003,349,Brian Moehler,/players/m/moehlbr01.shtml,moehlbr01,31,HOU,13.2,3,3,12,7.90,5.33,0.53,0.21,96.8,4.85,-5,-0.4,,-0.0,-0.3,-3,.360,.497,"$500,000",Free Agency
-2003,350,Gabe Molina,/players/m/molinga01.shtml,molinga01,28,STL,2.2,3,0,4,13.50,4.60,-0.07,-0.34,99.7,4.32,-3,-0.3,.1,0.1,-0.1,-2,.414,.498,,Free Agency
-2003,351,Orber Moreno,/players/m/morenor01.shtml,morenor01,26,NYM,8.0,7,0,7,7.88,4.80,-0.28,-0.36,96.6,4.57,-3,-0.3,.4,0.1,-0.2,-2,.458,.498,,Free Agency
+2003,350,Gabe Molina,/players/m/molinga01.shtml,molinga01,28,STL,2.2,3,0,4,13.50,4.60,-0.07,-0.34,99.7,4.32,-3,-0.3,.13,0.1,-0.1,-2,.414,.498,,Free Agency
+2003,351,Orber Moreno,/players/m/morenor01.shtml,morenor01,26,NYM,8.0,7,0,7,7.88,4.80,-0.28,-0.36,96.6,4.57,-3,-0.3,.44,0.1,-0.2,-2,.458,.498,,Free Agency
 2003,352,Matt Morris,/players/m/morrima01.shtml,morrima01,28,STL,172.1,27,27,76,3.97,4.64,-0.05,0.18,95.7,4.66,12,1.3,,-0.1,2.7,28,.549,.508,"$10,500,000",Amateur Draft
-2003,353,Damian Moss*,/players/m/mossda01.shtml,mossda01,26,2TM,165.2,31,29,102,5.54,4.72,0.16,0.16,98.0,4.62,-17,-1.6,.5,-0.1,-0.2,-1,.448,.495,"$1,550,000",Traded
-2003,354,Guillermo Mota,/players/m/motagu01.shtml,motagu01,29,LAD,105.0,76,0,23,1.97,4.71,0.35,-0.35,97.2,3.90,22,2.3,1.0,-0.2,3.0,32,.530,.514,"$675,000",Traded
+2003,353,Damian Moss*,/players/m/mossda01.shtml,mossda01,26,2TM,165.2,31,29,102,5.54,4.72,0.16,0.16,98.0,4.62,-17,-1.6,.54,-0.1,-0.2,-1,.448,.495,"$1,550,000",Traded
+2003,354,Guillermo Mota,/players/m/motagu01.shtml,motagu01,29,LAD,105.0,76,0,23,1.97,4.71,0.35,-0.35,97.2,3.90,22,2.3,1.00,-0.2,3.0,32,.530,.514,"$675,000",Traded
 2003,355,Tony Mounce*,/players/m/mouncto01.shtml,mouncto01,28,TEX,50.2,11,11,42,7.46,4.92,0.37,0.19,108.2,5.12,-13,-1.2,,-0.0,-0.7,-7,.394,.493,,Free Agency
 2003,356,Jamie Moyer*,/players/m/moyerja01.shtml,moyerja01,40,SEA,215.0,33,33,83,3.47,4.81,0.23,0.18,95.6,4.56,26,2.7,,-0.1,4.8,50,.582,.517,"$6,500,000",Free Agency
 2003,357,Mark Mulder*,/players/m/muldema01.shtml,muldema01,25,OAK,186.2,26,26,66,3.18,4.89,0.02,0.19,98.7,4.98,38,4.0,,-0.1,5.8,59,.655,.525,"$2,650,000",Amateur Draft
-2003,358,Terry Mulholland*,/players/m/mulhote01.shtml,mulhote01,40,CLE,99.0,45,3,60,5.45,4.86,0.19,-0.26,102.4,4.52,-10,-1.0,.9,-0.2,-0.1,1,.478,.494,"$500,000",Free Agency
-2003,359,Scott Mullen*,/players/m/mullesc01.shtml,mullesc01,28,2TM,7.1,3,1,11,13.50,5.45,-0.09,-0.14,106.8,5.76,-6,-0.5,.5,0.1,-0.4,-6,.328,.498,,Amateur Draft
-2003,360,Peter Munro,/players/m/munrope01.shtml,munrope01,28,HOU,54.0,40,2,30,5.00,4.97,0.46,-0.31,100.3,4.21,-5,-0.5,1.0,-0.1,-0.1,-0,.487,.497,"$305,000",Free Agency
+2003,358,Terry Mulholland*,/players/m/mulhote01.shtml,mulhote01,40,CLE,99.0,45,3,60,5.45,4.86,0.19,-0.26,102.4,4.52,-10,-1.0,.94,-0.2,-0.1,1,.478,.494,"$500,000",Free Agency
+2003,359,Scott Mullen*,/players/m/mullesc01.shtml,mullesc01,28,2TM,7.1,3,1,11,13.50,5.45,-0.09,-0.14,106.8,5.76,-6,-0.5,.54,0.1,-0.4,-6,.328,.498,,Amateur Draft
+2003,360,Peter Munro,/players/m/munrope01.shtml,munrope01,28,HOU,54.0,40,2,30,5.00,4.97,0.46,-0.31,100.3,4.21,-5,-0.5,1.03,-0.1,-0.1,-0,.487,.497,"$305,000",Free Agency
 2003,361,Mike Mussina,/players/m/mussimi01.shtml,mussimi01,34,NYY,214.2,31,31,86,3.61,5.04,-0.24,0.19,98.3,5.38,43,4.5,,-0.1,6.6,67,.647,.528,"$12,000,000",Free Agency
 2003,362,Brett Myers,/players/m/myersbr01.shtml,myersbr01,22,PHI,193.0,32,32,99,4.62,4.63,0.13,0.18,92.7,4.34,-7,-0.7,,-0.1,0.8,11,.479,.496,"$300,000",Amateur Draft
-2003,363,Mike Myers*,/players/m/myersmi01.shtml,myersmi01,34,ARI,36.1,64,0,23,5.70,5.16,-0.19,-0.38,109.0,5.42,-1,-0.1,1.1,-0.1,0.1,2,.498,.499,"$1,750,000",Traded
-2003,364,Rodney Myers,/players/m/myersro01.shtml,myersro01,34,LAD,9.0,4,0,7,7.00,4.80,0.46,-0.35,96.5,3.84,-3,-0.3,.4,0.1,-0.2,-2,.424,.498,,Free Agency
-2003,365,Aaron Myette,/players/m/myettaa01.shtml,myettaa01,25,CLE,2.2,2,0,7,23.63,4.71,0.26,-0.35,97.3,3.99,-6,-0.4,.1,0.2,-0.2,-6,.277,.497,"$307,500",Traded
-2003,366,Charles Nagy,/players/n/nagych01.shtml,nagych01,36,SDP,12.1,5,0,7,5.11,4.56,0.00,-0.34,95.6,4.04,-2,-0.2,.8,-0.0,-0.1,-0,.470,.499,,Free Agency
-2003,367,Micheal Nakamura,/players/n/nakammi01.shtml,nakammi01,26,MIN,12.2,12,0,11,7.82,4.66,-0.03,-0.35,100.5,4.36,-5,-0.5,.3,0.1,-0.2,-3,.462,.497,,Amateur Free Agent
-2003,368,Shane Nance*,/players/n/nancesh01.shtml,nancesh01,25,MIL,24.1,26,0,16,5.92,4.79,-0.47,-0.35,100.2,4.92,-3,-0.3,1.0,-0.0,-0.1,-1,.489,.498,"$300,000",Traded
-2003,369,Joe Nathan,/players/n/nathajo01.shtml,nathajo01,28,SFG,79.0,78,0,26,2.96,4.65,0.17,-0.34,97.9,4.04,9,0.9,1.4,0.0,1.7,16,.512,.506,"$300,000",Amateur Draft
+2003,363,Mike Myers*,/players/m/myersmi01.shtml,myersmi01,34,ARI,36.1,64,0,23,5.70,5.16,-0.19,-0.38,109.0,5.42,-1,-0.1,1.14,-0.1,0.1,2,.498,.499,"$1,750,000",Traded
+2003,364,Rodney Myers,/players/m/myersro01.shtml,myersro01,34,LAD,9.0,4,0,7,7.00,4.80,0.46,-0.35,96.5,3.84,-3,-0.3,.37,0.1,-0.2,-2,.424,.498,,Free Agency
+2003,365,Aaron Myette,/players/m/myettaa01.shtml,myettaa01,25,CLE,2.2,2,0,7,23.63,4.71,0.26,-0.35,97.3,3.99,-6,-0.4,.09,0.2,-0.2,-6,.277,.497,"$307,500",Traded
+2003,366,Charles Nagy,/players/n/nagych01.shtml,nagych01,36,SDP,12.1,5,0,7,5.11,4.56,0.00,-0.34,95.6,4.04,-2,-0.2,.75,-0.0,-0.1,-0,.470,.499,,Free Agency
+2003,367,Micheal Nakamura,/players/n/nakammi01.shtml,nakammi01,26,MIN,12.2,12,0,11,7.82,4.66,-0.03,-0.35,100.5,4.36,-5,-0.5,.29,0.1,-0.2,-3,.462,.497,,Amateur Free Agent
+2003,368,Shane Nance*,/players/n/nancesh01.shtml,nancesh01,25,MIL,24.1,26,0,16,5.92,4.79,-0.47,-0.35,100.2,4.92,-3,-0.3,.97,-0.0,-0.1,-1,.489,.498,"$300,000",Traded
+2003,369,Joe Nathan,/players/n/nathajo01.shtml,nathajo01,28,SFG,79.0,78,0,26,2.96,4.65,0.17,-0.34,97.9,4.04,9,0.9,1.39,0.0,1.7,16,.512,.506,"$300,000",Amateur Draft
 2003,370,Denny Neagle*,/players/n/neaglde01.shtml,neaglde01,34,COL,35.1,7,7,31,7.90,4.20,0.07,0.16,120.3,5.17,-11,-1.0,,-0.0,-0.7,-8,.361,.494,"$9,000,000",Free Agency
-2003,371,Blaine Neal,/players/n/nealbl01.shtml,nealbl01,25,FLA,21.0,18,0,20,8.57,5.15,-0.13,-0.38,96.6,4.73,-9,-0.9,.4,0.2,-0.5,-7,.451,.495,"$300,000",Amateur Draft
-2003,372,Jeff Nelson,/players/n/nelsoje01.shtml,nelsoje01,36,2TM,55.1,70,0,25,4.07,4.83,0.05,-0.36,94.5,4.18,1,0.1,1.5,-0.1,0.6,7,.501,.500,"$3,983,333",Traded
-2003,373,Michael Neu,/players/n/neumi01.shtml,neumi01,25,OAK,42.0,32,0,18,3.86,5.04,0.03,-0.38,99.4,4.60,4,0.4,.2,-0.2,0.6,8,.511,.502,"$300,000",Rule 5 Draft
-2003,374,C.J. Nitkowski*,/players/n/nitkoc.01.shtml,nitkoc.01,30,TEX,9.2,6,0,8,7.45,4.98,0.43,-0.37,107.2,4.48,-3,-0.3,.8,0.0,-0.2,-2,.450,.498,"$550,000",Free Agency
+2003,371,Blaine Neal,/players/n/nealbl01.shtml,nealbl01,25,FLA,21.0,18,0,20,8.57,5.15,-0.13,-0.38,96.6,4.73,-9,-0.9,.36,0.2,-0.5,-7,.451,.495,"$300,000",Amateur Draft
+2003,372,Jeff Nelson,/players/n/nelsoje01.shtml,nelsoje01,36,2TM,55.1,70,0,25,4.07,4.83,0.05,-0.36,94.5,4.18,1,0.1,1.46,-0.1,0.6,7,.501,.500,"$3,983,333",Traded
+2003,373,Michael Neu,/players/n/neumi01.shtml,neumi01,25,OAK,42.0,32,0,18,3.86,5.04,0.03,-0.38,99.4,4.60,4,0.4,.15,-0.2,0.6,8,.511,.502,"$300,000",Rule 5 Draft
+2003,374,C.J. Nitkowski*,/players/n/nitkoc.01.shtml,nitkoc.01,30,TEX,9.2,6,0,8,7.45,4.98,0.43,-0.37,107.2,4.48,-3,-0.3,.77,0.0,-0.2,-2,.450,.498,"$550,000",Free Agency
 2003,375,Hideo Nomo,/players/n/nomohi01.shtml,nomohi01,34,LAD,218.1,33,33,82,3.38,4.59,0.37,0.18,94.1,4.14,17,1.9,,-0.1,3.5,37,.556,.511,"$7,750,000",Free Agency
-2003,376,Phil Norton*,/players/n/nortoph01.shtml,nortoph01,27,2TM,18.0,21,0,6,3.00,4.88,-0.01,-0.36,95.8,4.34,3,0.3,1.0,-0.0,0.4,4,.513,.501,,Free Agency
-2003,377,Vladimir Nunez,/players/n/nunezvl01.shtml,nunezvl01,28,FLA,10.2,14,0,21,17.72,5.39,-0.14,-0.40,96.6,4.95,-15,-1.4,1.4,-0.3,-1.6,-14,.399,.491,"$1,400,000",Traded
-2003,378,Wes Obermueller,/players/o/obermwe01.shtml,obermwe01,26,MIL,65.2,12,11,40,5.48,4.75,-0.51,0.15,100.6,5.44,-1,-0.1,.9,-0.1,0.4,5,.495,.500,,Traded
+2003,376,Phil Norton*,/players/n/nortoph01.shtml,nortoph01,27,2TM,18.0,21,0,6,3.00,4.88,-0.01,-0.36,95.8,4.34,3,0.3,.98,-0.0,0.4,4,.513,.501,,Free Agency
+2003,377,Vladimir Nunez,/players/n/nunezvl01.shtml,nunezvl01,28,FLA,10.2,14,0,21,17.72,5.39,-0.14,-0.40,96.6,4.95,-15,-1.4,1.35,-0.3,-1.6,-14,.399,.491,"$1,400,000",Traded
+2003,378,Wes Obermueller,/players/o/obermwe01.shtml,obermwe01,26,MIL,65.2,12,11,40,5.48,4.75,-0.51,0.15,100.6,5.44,-1,-0.1,.92,-0.1,0.4,5,.495,.500,,Traded
 2003,379,Tomo Ohka,/players/o/ohkato01.shtml,ohkato01,27,MON,199.0,34,34,106,4.79,4.80,-0.04,0.18,105.2,5.29,10,1.1,,-0.1,2.6,28,.531,.507,"$340,000",Traded
-2003,380,Kevin Ohme*,/players/o/ohmeke01.shtml,ohmeke01,32,STL,4.1,2,0,0,0.00,4.43,-0.05,-0.33,100.0,4.16,2,0.2,.7,-0.0,0.2,2,.608,.501,,Free Agency
-2003,381,Darren Oliver*,/players/o/oliveda02.shtml,oliveda02,32,COL,180.1,33,32,108,5.39,4.47,0.06,0.16,110.4,5.05,-8,-0.8,.5,-0.1,0.6,9,.477,.495,"$350,000",Free Agency
-2003,382,Kevin Olsen,/players/o/olsenke01.shtml,olsenke01,26,FLA,12.0,7,0,18,13.50,4.97,-0.12,-0.37,106.5,5.03,-11,-1.0,.2,0.4,-0.5,-10,.356,.494,,Amateur Draft
-2003,383,Eddie Oropesa*,/players/o/oropeed01.shtml,oropeed01,31,ARI,38.2,47,0,27,6.28,4.61,-0.16,-0.34,109.5,4.85,-6,-0.6,1.3,-0.2,-0.5,-3,.486,.496,,Free Agency
-2003,384,Jesse Orosco*,/players/o/oroscje01.shtml,oroscje01,46,3TM,34.0,65,0,31,8.21,4.92,-0.04,-0.37,94.7,4.36,-15,-1.4,1.4,-0.4,-1.5,-11,.478,.495,"$800,000",Free Agency
+2003,380,Kevin Ohme*,/players/o/ohmeke01.shtml,ohmeke01,32,STL,4.1,2,0,0,0.00,4.43,-0.05,-0.33,100.0,4.16,2,0.2,.72,-0.0,0.2,2,.608,.501,,Free Agency
+2003,381,Darren Oliver*,/players/o/oliveda02.shtml,oliveda02,32,COL,180.1,33,32,108,5.39,4.47,0.06,0.16,110.4,5.05,-8,-0.8,.51,-0.1,0.6,9,.477,.495,"$350,000",Free Agency
+2003,382,Kevin Olsen,/players/o/olsenke01.shtml,olsenke01,26,FLA,12.0,7,0,18,13.50,4.97,-0.12,-0.37,106.5,5.03,-11,-1.0,.20,0.4,-0.5,-10,.356,.494,,Amateur Draft
+2003,383,Eddie Oropesa*,/players/o/oropeed01.shtml,oropeed01,31,ARI,38.2,47,0,27,6.28,4.61,-0.16,-0.34,109.5,4.85,-6,-0.6,1.27,-0.2,-0.5,-3,.486,.496,,Free Agency
+2003,384,Jesse Orosco*,/players/o/oroscje01.shtml,oroscje01,46,3TM,34.0,65,0,31,8.21,4.92,-0.04,-0.37,94.7,4.36,-15,-1.4,1.44,-0.4,-1.5,-11,.478,.495,"$800,000",Conditional Deal
 2003,385,Ramon Ortiz,/players/o/ortizra02.shtml,ortizra02,30,ANA,180.0,32,32,121,6.05,4.85,0.15,0.18,96.6,4.71,-26,-2.4,,-0.1,-0.7,-6,.424,.485,"$2,266,667",Amateur Free Agent
 2003,386,Russ Ortiz,/players/o/ortizru01.shtml,ortizru01,29,ATL,212.1,34,34,101,4.28,4.62,0.21,0.18,99.3,4.56,6,0.6,,-0.1,2.2,25,.517,.504,"$4,662,500",Traded
-2003,387,Antonio Osuna,/players/o/osunaan01.shtml,osunaan01,30,NYY,50.2,48,0,22,3.91,4.99,-0.27,-0.37,95.9,4.68,4,0.4,.9,-0.1,0.8,10,.509,.503,"$2,400,000",Traded
+2003,387,Antonio Osuna,/players/o/osunaan01.shtml,osunaan01,30,NYY,50.2,48,0,22,3.91,4.99,-0.27,-0.37,95.9,4.68,4,0.4,.88,-0.1,0.8,10,.509,.503,"$2,400,000",Traded
 2003,388,Roy Oswalt,/players/o/oswalro01.shtml,oswalro01,25,HOU,127.1,21,21,48,3.39,4.82,0.38,0.19,100.7,4.66,17,1.9,,-0.1,2.9,29,.589,.512,"$500,000",Amateur Draft
 2003,389,Vicente Padilla,/players/p/padilvi01.shtml,padilvi01,25,PHI,208.2,32,32,94,4.05,4.71,0.13,0.18,92.3,4.40,7,0.7,,-0.1,2.4,26,.523,.505,"$425,000",Traded
-2003,390,Lance Painter*,/players/p/paintla01.shtml,paintla01,35,STL,18.0,22,0,12,6.00,4.61,-0.05,-0.34,100.8,4.36,-3,-0.3,1.1,-0.1,-0.2,-2,.485,.498,"$575,000",Free Agency
-2003,391,Jose Paniagua,/players/p/paniajo01.shtml,paniajo01,29,CHW,0.1,1,0,4,108.00,4.94,0.51,-0.38,104.0,4.21,-4,-0.3,.1,0.1,-0.1,-4,.228,.498,,Purchased
+2003,390,Lance Painter*,/players/p/paintla01.shtml,paintla01,35,STL,18.0,22,0,12,6.00,4.61,-0.05,-0.34,100.8,4.36,-3,-0.3,1.11,-0.1,-0.2,-2,.485,.498,"$575,000",Free Agency
+2003,391,Jose Paniagua,/players/p/paniajo01.shtml,paniajo01,29,CHW,0.1,1,0,4,108.00,4.94,0.51,-0.38,104.0,4.21,-4,-0.3,.07,0.1,-0.1,-4,.228,.498,,Purchased
 2003,392,Chan Ho Park,/players/p/parkch01.shtml,parkch01,30,TEX,29.2,7,7,26,7.89,5.14,0.35,0.19,112.0,5.58,-8,-0.7,,-0.0,-0.4,-4,.403,.496,"$13,000,000",Free Agency
-2003,393,Chad Paronto,/players/p/paronch01.shtml,paronch01,27,CLE,6.2,6,0,8,10.80,4.86,0.15,-0.36,98.6,4.28,-5,-0.4,.9,0.0,-0.4,-4,.426,.497,,Waivers
+2003,393,Chad Paronto,/players/p/paronch01.shtml,paronch01,27,CLE,6.2,6,0,8,10.80,4.86,0.15,-0.36,98.6,4.28,-5,-0.4,.91,0.0,-0.4,-4,.426,.497,,Waivers
 2003,394,Jim Parque*,/players/p/parquji01.shtml,parquji01,28,TBD,17.1,5,5,23,11.94,4.74,0.18,0.18,100.6,4.77,-14,-1.1,,-0.0,-0.9,-12,.285,.493,"$400,000",Free Agency
-2003,395,Steve Parris,/players/p/parrist01.shtml,parrist01,35,TBD,43.2,10,7,32,6.60,4.95,0.18,0.09,97.3,4.73,-9,-0.8,.1,0.0,-0.3,-4,.418,.495,"$400,000",Free Agency
-2003,396,John Parrish*,/players/p/parrijo01.shtml,parrijo01,25,BAL,23.2,14,0,7,2.66,5.46,-0.01,-0.41,97.8,4.94,6,0.6,1.0,-0.0,0.8,9,.544,.504,,Amateur Draft
-2003,397,Danny Patterson,/players/p/patteda04.shtml,patteda04,32,DET,17.2,19,0,8,4.08,4.88,-0.15,-0.36,94.8,4.42,1,0.1,.9,-0.0,0.2,3,.504,.500,"$2,500,000",Traded
-2003,398,John Patterson,/players/p/pattejo02.shtml,pattejo02,25,ARI,55.0,16,8,39,6.38,4.59,-0.18,0.05,109.1,5.26,-7,-0.7,.5,-0.0,-0.2,-2,.456,.496,,Free Agency
-2003,399,Carl Pavano,/players/p/pavanca01.shtml,pavanca01,27,FLA,201.0,33,32,99,4.43,4.64,-0.11,0.17,97.6,4.80,7,0.8,2.3,-0.1,2.3,26,.523,.505,"$1,500,000",Traded
-2003,400,Josh Pearce,/players/p/pearcjo01.shtml,pearcjo01,25,STL,9.0,7,0,3,3.00,4.55,-0.06,-0.34,97.9,4.19,1,0.1,.4,-0.1,0.2,2,.517,.501,,Amateur Draft
-2003,401,Jason Pearson*,/players/p/pearsja01.shtml,pearsja01,27,STL,1.0,2,0,7,63.00,4.81,-0.10,-0.36,91.4,4.16,-7,-0.5,.1,0.2,-0.3,-6,.250,.497,,Free Agency
+2003,395,Steve Parris,/players/p/parrist01.shtml,parrist01,35,TBD,43.2,10,7,32,6.60,4.95,0.18,0.09,97.3,4.73,-9,-0.8,.13,0.0,-0.3,-4,.418,.495,"$400,000",Free Agency
+2003,396,John Parrish*,/players/p/parrijo01.shtml,parrijo01,25,BAL,23.2,14,0,7,2.66,5.46,-0.01,-0.41,97.8,4.94,6,0.6,1.03,-0.0,0.8,9,.544,.504,,Amateur Draft
+2003,397,Danny Patterson,/players/p/patteda04.shtml,patteda04,32,DET,17.2,19,0,8,4.08,4.88,-0.15,-0.36,94.8,4.42,1,0.1,.88,-0.0,0.2,3,.504,.500,"$2,500,000",Traded
+2003,398,John Patterson,/players/p/pattejo02.shtml,pattejo02,25,ARI,55.0,16,8,39,6.38,4.59,-0.18,0.05,109.1,5.26,-7,-0.7,.53,-0.0,-0.2,-2,.456,.496,,Free Agency
+2003,399,Carl Pavano,/players/p/pavanca01.shtml,pavanca01,27,FLA,201.0,33,32,99,4.43,4.64,-0.11,0.17,97.6,4.80,7,0.8,2.33,-0.1,2.3,26,.523,.505,"$1,500,000",Traded
+2003,400,Josh Pearce,/players/p/pearcjo01.shtml,pearcjo01,25,STL,9.0,7,0,3,3.00,4.55,-0.06,-0.34,97.9,4.19,1,0.1,.44,-0.1,0.2,2,.517,.501,,Amateur Draft
+2003,401,Jason Pearson*,/players/p/pearsja01.shtml,pearsja01,27,STL,1.0,2,0,7,63.00,4.81,-0.10,-0.36,91.4,4.16,-7,-0.5,.12,0.2,-0.3,-6,.250,.497,,Free Agency
 2003,402,Jake Peavy,/players/p/peavyja01.shtml,peavyja01,22,SDP,194.2,32,32,94,4.35,4.63,0.00,0.18,93.7,4.51,3,0.3,,-0.1,1.8,20,.508,.502,"$305,000",Amateur Draft
 2003,403,Brad Penny,/players/p/pennybr01.shtml,pennybr01,25,FLA,196.1,32,32,96,4.40,4.79,-0.10,0.18,98.7,5.01,12,1.3,,-0.1,2.8,30,.541,.508,"$1,875,000",Traded
-2003,404,Troy Percival,/players/p/percitr01.shtml,percitr01,33,ANA,49.1,52,0,22,4.01,4.92,0.11,-0.37,96.5,4.28,2,0.2,1.6,-0.1,0.6,7,.503,.501,"$7,833,333",Amateur Draft
+2003,404,Troy Percival,/players/p/percitr01.shtml,percitr01,33,ANA,49.1,52,0,22,4.01,4.92,0.11,-0.37,96.5,4.28,2,0.2,1.60,-0.1,0.6,7,.503,.501,"$7,833,333",Amateur Draft
 2003,405,Odalis Perez*,/players/p/perezod01.shtml,perezod01,25,LAD,185.1,30,30,98,4.76,4.59,0.41,0.18,97.8,4.26,-11,-1.1,,-0.1,0.4,6,.464,.493,"$3,400,000",Traded
 2003,406,Oliver Perez*,/players/p/perezol01.shtml,perezol01,21,2TM,126.2,24,24,80,5.68,4.71,-0.01,0.18,93.1,4.57,-16,-1.6,,-0.1,-0.6,-5,.435,.493,"$305,000",Traded
-2003,407,Robert Person,/players/p/persoro01.shtml,persoro01,33,BOS,11.2,7,0,10,7.71,4.98,-0.14,-0.37,103.5,4.92,-4,-0.3,.6,0.0,-0.2,-2,.452,.498,"$300,000",Free Agency
+2003,407,Robert Person,/players/p/persoro01.shtml,persoro01,33,BOS,11.2,7,0,10,7.71,4.98,-0.14,-0.37,103.5,4.92,-4,-0.3,.57,0.0,-0.2,-2,.452,.498,"$300,000",Free Agency
 2003,408,Andy Pettitte*,/players/p/pettian01.shtml,pettian01,31,NYY,208.1,33,33,109,4.71,4.93,-0.26,0.19,96.0,5.17,11,1.1,,-0.1,3.1,34,.533,.507,"$11,500,000",Amateur Draft
-2003,409,Tommy Phelps*,/players/p/phelpto01.shtml,phelpto01,29,FLA,63.0,27,7,32,4.57,4.70,-0.11,-0.07,99.3,4.71,1,0.1,.6,-0.1,0.5,6,.503,.500,"$300,000",Free Agency
-2003,410,Jason Phillips,/players/p/phillja03.shtml,phillja03,29,CLE,5.0,3,0,5,9.00,4.91,0.21,-0.37,102.2,4.43,-3,-0.2,1.2,-0.0,-0.2,-2,.423,.499,,Free Agency
+2003,409,Tommy Phelps*,/players/p/phelpto01.shtml,phelpto01,29,FLA,63.0,27,7,32,4.57,4.70,-0.11,-0.07,99.3,4.71,1,0.1,.63,-0.1,0.5,6,.503,.500,"$300,000",Free Agency
+2003,410,Jason Phillips,/players/p/phillja03.shtml,phillja03,29,CLE,5.0,3,0,5,9.00,4.91,0.21,-0.37,102.2,4.43,-3,-0.2,1.15,-0.0,-0.2,-2,.423,.499,,Free Agency
 2003,411,Joel Pineiro,/players/p/pineijo01.shtml,pineijo01,24,SEA,211.2,32,32,94,4.00,4.79,0.22,0.18,92.9,4.42,10,1.0,,-0.1,3.1,34,.533,.506,"$440,000",Amateur Draft
-2003,412,Dan Plesac*,/players/p/plesada01.shtml,plesada01,41,PHI,33.1,58,0,12,3.24,4.95,0.11,-0.37,91.7,4.10,3,0.3,1.5,0.0,0.6,6,.505,.502,"$2,000,000",Traded
-2003,413,Cliff Politte,/players/p/politcl01.shtml,politcl01,29,TOR,49.1,54,0,32,5.84,5.01,-0.24,-0.37,103.7,5.05,-4,-0.4,1.2,-0.2,-0.0,1,.492,.497,"$845,000",Traded
-2003,414,Sidney Ponson,/players/p/ponsosi01.shtml,ponsosi01,26,2TM,216.0,31,31,94,3.92,4.83,0.07,0.18,100.0,4.94,24,2.6,,-0.1,4.5,47,.582,.510,"$4,250,000",Traded
+2003,412,Dan Plesac*,/players/p/plesada01.shtml,plesada01,41,PHI,33.1,58,0,12,3.24,4.95,0.11,-0.37,91.7,4.10,3,0.3,1.46,0.0,0.6,6,.505,.502,"$2,000,000",Traded
+2003,413,Cliff Politte,/players/p/politcl01.shtml,politcl01,29,TOR,49.1,54,0,32,5.84,5.01,-0.24,-0.37,103.7,5.05,-4,-0.4,1.20,-0.2,-0.0,1,.492,.497,"$845,000",Traded
+2003,414,Sidney Ponson,/players/p/ponsosi01.shtml,ponsosi01,26,2TM,216.0,31,31,94,3.92,4.83,0.07,0.18,100.0,4.94,24,2.6,,-0.1,4.5,47,.582,.510,"$4,250,000",Amateur Free Agent
 2003,415,Mike Porzio*,/players/p/porzimi01.shtml,porzimi01,30,CHW,14.0,3,3,10,6.43,4.55,0.15,0.17,100.0,4.57,-3,-0.3,,-0.0,-0.1,-1,.413,.498,,Free Agency
 2003,416,Brian Powell,/players/p/powelbr01.shtml,powelbr01,29,SFG,4.2,1,1,7,13.50,4.69,0.27,0.18,132.0,6.08,-4,-0.3,,-0.0,-0.2,-3,.220,.498,,Free Agency
-2003,417,Jay Powell,/players/p/powelja04.shtml,powelja04,31,TEX,58.2,51,0,58,8.90,4.91,0.37,-0.37,111.4,4.66,-28,-2.6,.3,0.7,-1.2,-21,.449,.484,"$3,250,000",Free Agency
-2003,418,Bret Prinz,/players/p/prinzbr01.shtml,prinzbr01,26,2TM,3.0,3,0,4,12.00,4.53,-0.33,-0.34,116.7,5.27,-2,-0.2,.6,0.0,-0.1,-2,.437,.499,"$300,000",Amateur Draft
+2003,417,Jay Powell,/players/p/powelja04.shtml,powelja04,31,TEX,58.2,51,0,58,8.90,4.91,0.37,-0.37,111.4,4.66,-28,-2.6,.33,0.7,-1.2,-21,.449,.484,"$3,250,000",Free Agency
+2003,418,Bret Prinz,/players/p/prinzbr01.shtml,prinzbr01,26,2TM,3.0,3,0,4,12.00,4.53,-0.33,-0.34,116.7,5.27,-2,-0.2,.56,0.0,-0.1,-2,.437,.499,"$300,000",Amateur Draft
 2003,419,Mark Prior,/players/p/priorma01.shtml,priorma01,22,CHC,211.1,30,30,67,2.85,4.69,-0.14,0.18,100.8,5.06,51,5.8,,-0.1,7.4,70,.692,.536,"$1,450,000",Amateur Draft
-2003,420,Brandon Puffer,/players/p/puffebr01.shtml,puffebr01,27,HOU,21.0,13,0,13,5.57,5.14,0.45,-0.38,99.6,4.29,-3,-0.3,.7,0.0,-0.1,-1,.476,.498,,Purchased
-2003,421,Carlos Pulido*,/players/p/pulidca01.shtml,pulidca01,31,MIN,15.2,7,1,9,5.17,4.50,-0.03,-0.24,103.7,4.45,-1,-0.1,.5,-0.0,0.0,1,.483,.499,,Free Agency
-2003,422,J.J. Putz,/players/p/putzjj01.shtml,putzjj01,26,SEA,3.2,3,0,2,4.91,5.07,0.23,-0.38,99.4,4.44,-0,-0.0,.1,-0.0,0.0,0,.494,.500,,Amateur Draft
-2003,423,Paul Quantrill,/players/q/quantpa01.shtml,quantpa01,34,LAD,77.1,89,0,18,2.09,4.71,0.39,-0.35,94.9,3.77,14,1.5,1.4,0.1,2.2,21,.516,.509,"$3,333,333",Traded
-2003,424,Ruben Quevedo,/players/q/queveru01.shtml,queveru01,24,MIL,42.2,9,8,32,6.75,4.59,-0.51,0.16,98.3,5.17,-8,-0.7,.2,-0.0,-0.4,-4,.419,.495,,Traded
+2003,420,Brandon Puffer,/players/p/puffebr01.shtml,puffebr01,27,HOU,21.0,13,0,13,5.57,5.14,0.45,-0.38,99.6,4.29,-3,-0.3,.72,0.0,-0.1,-1,.476,.498,,Purchased
+2003,421,Carlos Pulido*,/players/p/pulidca01.shtml,pulidca01,31,MIN,15.2,7,1,9,5.17,4.50,-0.03,-0.24,103.7,4.45,-1,-0.1,.54,-0.0,0.0,1,.483,.499,,Free Agency
+2003,422,J.J. Putz,/players/p/putzjj01.shtml,putzjj01,26,SEA,3.2,3,0,2,4.91,5.07,0.23,-0.38,99.4,4.44,-0,-0.0,.12,-0.0,0.0,0,.494,.500,,Amateur Draft
+2003,423,Paul Quantrill,/players/q/quantpa01.shtml,quantpa01,34,LAD,77.1,89,0,18,2.09,4.71,0.39,-0.35,94.9,3.77,14,1.5,1.38,0.1,2.2,21,.516,.509,"$3,333,333",Traded
+2003,424,Ruben Quevedo,/players/q/queveru01.shtml,queveru01,24,MIL,42.2,9,8,32,6.75,4.59,-0.51,0.16,98.3,5.17,-8,-0.7,.19,-0.0,-0.4,-4,.419,.495,,Traded
 2003,425,Brad Radke,/players/r/radkebr01.shtml,radkebr01,30,MIN,212.1,33,33,111,4.70,4.71,-0.03,0.18,99.3,4.88,4,0.4,,-0.1,2.5,28,.513,.503,"$8,750,000",Amateur Draft
-2003,426,Brady Raggio,/players/r/raggibr01.shtml,raggibr01,30,ARI,8.1,10,0,6,6.48,4.72,-0.16,-0.35,124.3,5.63,-1,-0.1,1.6,-0.0,-0.1,-0,.492,.499,,Purchased
-2003,427,Erasmo Ramirez*,/players/r/ramirer01.shtml,ramirer01,27,TEX,49.0,34,0,21,3.86,4.84,0.35,-0.36,110.2,4.55,4,0.4,.8,-0.2,0.8,9,.511,.502,,Traded
+2003,426,Brady Raggio,/players/r/raggibr01.shtml,raggibr01,30,ARI,8.1,10,0,6,6.48,4.72,-0.16,-0.35,124.3,5.63,-1,-0.1,1.63,-0.0,-0.1,-0,.492,.499,,Purchased
+2003,427,Erasmo Ramirez*,/players/r/ramirer01.shtml,ramirer01,27,TEX,49.0,34,0,21,3.86,4.84,0.35,-0.36,110.2,4.55,4,0.4,.79,-0.2,0.8,9,.511,.502,,Traded
 2003,428,Horacio Ramirez*,/players/r/ramirho01.shtml,ramirho01,23,ATL,182.1,29,29,91,4.49,4.56,0.22,0.18,99.6,4.49,-1,-0.1,,-0.1,1.3,16,.497,.499,"$300,000",Amateur Draft
 2003,429,Mario Ramos*,/players/r/ramosma01.shtml,ramosma01,25,TEX,13.0,3,3,9,6.23,4.94,0.34,0.19,108.1,5.17,-2,-0.1,,-0.0,-0.0,-0,.453,.499,,Traded
-2003,430,Scott Randall,/players/r/randasc01.shtml,randasc01,27,CIN,27.2,15,2,20,6.51,4.69,0.03,-0.15,95.4,4.30,-7,-0.7,1.1,-0.1,-0.5,-4,.455,.496,,Free Agency
-2003,431,Steve Randolph*,/players/r/randost01.shtml,randost01,29,ARI,60.0,50,0,28,4.20,4.60,-0.16,-0.34,111.5,4.93,5,0.5,.7,-0.2,0.8,10,.510,.503,"$300,000",Free Agency
-2003,432,Britt Reames,/players/r/reamebr01.shtml,reamebr01,29,MON,1.1,2,0,4,27.00,5.69,-0.06,-0.42,105.2,5.61,-3,-0.3,.3,0.1,-0.2,-3,.359,.498,,Traded
-2003,433,Tim Redding,/players/r/redditi01.shtml,redditi01,25,HOU,176.0,33,32,85,4.35,4.64,0.43,0.18,101.9,4.47,2,0.2,1.3,-0.1,1.5,18,.505,.501,"$300,000",Amateur Draft
+2003,430,Scott Randall,/players/r/randasc01.shtml,randasc01,27,CIN,27.2,15,2,20,6.51,4.69,0.03,-0.15,95.4,4.30,-7,-0.7,1.08,-0.1,-0.5,-4,.455,.496,,Free Agency
+2003,431,Steve Randolph*,/players/r/randost01.shtml,randost01,29,ARI,60.0,50,0,28,4.20,4.60,-0.16,-0.34,111.5,4.93,5,0.5,.73,-0.2,0.8,10,.510,.503,"$300,000",Free Agency
+2003,432,Britt Reames,/players/r/reamebr01.shtml,reamebr01,29,MON,1.1,2,0,4,27.00,5.69,-0.06,-0.42,105.2,5.61,-3,-0.3,.34,0.1,-0.2,-3,.359,.498,,Traded
+2003,433,Tim Redding,/players/r/redditi01.shtml,redditi01,25,HOU,176.0,33,32,85,4.35,4.64,0.43,0.18,101.9,4.47,2,0.2,1.34,-0.1,1.5,18,.505,.501,"$300,000",Amateur Draft
 2003,434,Mark Redman*,/players/r/redmama01.shtml,redmama01,29,FLA,190.2,29,29,82,3.87,4.67,-0.10,0.18,99.9,4.94,22,2.4,,-0.1,3.8,39,.581,.515,"$2,150,000",Traded
-2003,435,Rick Reed,/players/r/reedri01.shtml,reedri01,38,MIN,135.0,27,21,80,5.33,4.82,-0.03,0.14,101.0,5.04,-4,-0.4,1.3,-0.1,0.9,11,.485,.498,"$8,000,000",Traded
-2003,436,Steve Reed,/players/r/reedst01.shtml,reedst01,38,COL,63.1,67,0,24,3.41,4.55,0.06,-0.34,116.7,4.85,10,1.0,1.0,-0.1,1.5,16,.515,.506,"$600,000",Free Agency
-2003,437,Dan Reichert,/players/r/reichda01.shtml,reichda01,26,TOR,16.1,15,0,12,6.61,5.13,-0.27,-0.38,102.9,5.16,-3,-0.3,1.1,-0.1,-0.1,-1,.483,.498,,Free Agency
-2003,438,Brian Reith,/players/r/reithbr01.shtml,reithbr01,25,CIN,61.1,42,1,32,4.70,4.80,0.03,-0.31,96.7,4.31,-3,-0.3,.8,-0.1,0.2,3,.493,.498,,Waivers
-2003,439,Chris Reitsma,/players/r/reitsch01.shtml,reitsch01,25,CIN,84.0,57,3,41,4.39,4.70,0.03,-0.24,97.5,4.31,-1,-0.1,1.5,-0.2,0.5,7,.498,.499,,Traded
-2003,440,Mike Remlinger*,/players/r/remlimi01.shtml,remlimi01,37,CHC,69.0,73,0,30,3.91,4.84,-0.14,-0.36,100.6,4.65,5,0.5,1.2,-0.1,1.1,12,.507,.503,"$2,633,333",Free Agency
-2003,441,Alberto Reyes,/players/r/reyesal01.shtml,reyesal01,32,NYY,17.0,13,0,7,3.71,5.03,-0.27,-0.38,97.3,4.79,2,0.2,.5,-0.1,0.3,4,.516,.501,,Free Agency
-2003,442,Carlos Reyes,/players/r/reyesca01.shtml,reyesca01,34,TBD,39.2,10,3,23,5.22,5.14,0.16,-0.14,95.2,4.61,-3,-0.2,.3,-0.0,0.2,2,.475,.498,,Free Agency
-2003,443,Dennys Reyes*,/players/r/reyesde01.shtml,reyesde01,26,2TM,12.2,15,0,16,11.37,4.61,-0.07,-0.34,100.2,4.34,-10,-1.0,.5,0.2,-0.6,-9,.436,.496,"$600,000",Free Agency
-2003,444,Shane Reynolds,/players/r/reynosh01.shtml,reynosh01,35,ATL,167.1,30,29,104,5.59,4.59,0.23,0.17,98.2,4.45,-22,-2.1,.9,-0.1,-0.8,-7,.430,.487,,Free Agency
-2003,445,Arthur Rhodes*,/players/r/rhodear01.shtml,rhodear01,33,SEA,54.0,67,0,25,4.17,4.89,0.21,-0.37,93.7,4.05,-1,-0.1,1.3,-0.1,0.4,5,.499,.500,"$3,500,000",Free Agency
-2003,446,John Riedling,/players/r/riedljo01.shtml,riedljo01,27,CIN,101.0,55,8,61,5.44,4.87,0.03,-0.17,96.6,4.51,-11,-1.1,1.0,-0.2,-0.4,-2,.480,.493,"$350,000",Free Agency
-2003,447,Jerrod Riggan,/players/r/riggaje01.shtml,riggaje01,29,CLE,4.0,2,0,4,9.00,5.27,0.21,-0.39,94.0,4.39,-2,-0.2,.3,0.1,-0.1,-2,.408,.499,,Traded
+2003,435,Rick Reed,/players/r/reedri01.shtml,reedri01,38,MIN,135.0,27,21,80,5.33,4.82,-0.03,0.14,101.0,5.04,-4,-0.4,1.28,-0.1,0.9,11,.485,.498,"$8,000,000",Traded
+2003,436,Steve Reed,/players/r/reedst01.shtml,reedst01,38,COL,63.1,67,0,24,3.41,4.55,0.06,-0.34,116.7,4.85,10,1.0,1.01,-0.1,1.5,16,.515,.506,"$600,000",Free Agency
+2003,437,Dan Reichert,/players/r/reichda01.shtml,reichda01,26,TOR,16.1,15,0,12,6.61,5.13,-0.27,-0.38,102.9,5.16,-3,-0.3,1.14,-0.1,-0.1,-1,.483,.498,,Free Agency
+2003,438,Brian Reith,/players/r/reithbr01.shtml,reithbr01,25,CIN,61.1,42,1,32,4.70,4.80,0.03,-0.31,96.7,4.31,-3,-0.3,.78,-0.1,0.2,3,.493,.498,,Waivers
+2003,439,Chris Reitsma,/players/r/reitsch01.shtml,reitsch01,25,CIN,84.0,57,3,41,4.39,4.70,0.03,-0.24,97.5,4.31,-1,-0.1,1.48,-0.2,0.5,7,.498,.499,,Traded
+2003,440,Mike Remlinger*,/players/r/remlimi01.shtml,remlimi01,37,CHC,69.0,73,0,30,3.91,4.84,-0.14,-0.36,100.6,4.65,5,0.5,1.21,-0.1,1.1,12,.507,.503,"$2,633,333",Free Agency
+2003,441,Alberto Reyes,/players/r/reyesal01.shtml,reyesal01,32,NYY,17.0,13,0,7,3.71,5.03,-0.27,-0.38,97.3,4.79,2,0.2,.50,-0.1,0.3,4,.516,.501,,Free Agency
+2003,442,Carlos Reyes,/players/r/reyesca01.shtml,reyesca01,34,TBD,39.2,10,3,23,5.22,5.14,0.16,-0.14,95.2,4.61,-3,-0.2,.31,-0.0,0.2,2,.475,.498,,Free Agency
+2003,443,Dennys Reyes*,/players/r/reyesde01.shtml,reyesde01,26,2TM,12.2,15,0,16,11.37,4.61,-0.07,-0.34,100.2,4.34,-10,-1.0,.49,0.2,-0.6,-9,.436,.496,"$600,000",Free Agency
+2003,444,Shane Reynolds,/players/r/reynosh01.shtml,reynosh01,35,ATL,167.1,30,29,104,5.59,4.59,0.23,0.17,98.2,4.45,-22,-2.1,.90,-0.1,-0.8,-7,.430,.487,,Free Agency
+2003,445,Arthur Rhodes*,/players/r/rhodear01.shtml,rhodear01,33,SEA,54.0,67,0,25,4.17,4.89,0.21,-0.37,93.7,4.05,-1,-0.1,1.32,-0.1,0.4,5,.499,.500,"$3,500,000",Free Agency
+2003,446,John Riedling,/players/r/riedljo01.shtml,riedljo01,27,CIN,101.0,55,8,61,5.44,4.87,0.03,-0.17,96.6,4.51,-11,-1.1,1.02,-0.2,-0.4,-2,.480,.493,"$350,000",Free Agency
+2003,447,Jerrod Riggan,/players/r/riggaje01.shtml,riggaje01,29,CLE,4.0,2,0,4,9.00,5.27,0.21,-0.39,94.0,4.39,-2,-0.2,.26,0.1,-0.1,-2,.408,.499,,Traded
 2003,448,Matt Riley*,/players/r/rileyma01.shtml,rileyma01,23,BAL,10.0,2,2,2,1.80,5.38,-0.01,0.20,103.1,5.77,4,0.5,,-0.0,0.6,6,.745,.503,,Amateur Draft
-2003,449,Juan Rincon,/players/r/rincoju01.shtml,rincoju01,24,MIN,85.2,58,0,38,3.99,4.79,-0.02,-0.36,100.5,4.48,5,0.5,1.0,-0.2,1.2,14,.508,.503,,Amateur Free Agent
-2003,450,Ricardo Rincon*,/players/r/rincori01.shtml,rincori01,33,OAK,55.1,64,0,21,3.42,4.98,0.02,-0.37,98.7,4.52,7,0.7,1.4,-0.0,1.3,13,.511,.504,"$1,700,000",Free Agency
-2003,451,David Riske,/players/r/riskeda01.shtml,riskeda01,26,CLE,74.2,68,0,21,2.53,4.72,0.13,-0.35,97.5,4.13,13,1.3,1.5,0.2,2.3,22,.520,.508,"$314,000",Amateur Draft
+2003,449,Juan Rincon,/players/r/rincoju01.shtml,rincoju01,24,MIN,85.2,58,0,38,3.99,4.79,-0.02,-0.36,100.5,4.48,5,0.5,1.00,-0.2,1.2,14,.508,.503,,Amateur Free Agent
+2003,450,Ricardo Rincon*,/players/r/rincori01.shtml,rincori01,33,OAK,55.1,64,0,21,3.42,4.98,0.02,-0.37,98.7,4.52,7,0.7,1.36,-0.0,1.3,13,.511,.504,"$1,700,000",Free Agency
+2003,451,David Riske,/players/r/riskeda01.shtml,riskeda01,26,CLE,74.2,68,0,21,2.53,4.72,0.13,-0.35,97.5,4.13,13,1.3,1.52,0.2,2.3,22,.520,.508,"$314,000",Amateur Draft
 2003,452,Todd Ritchie,/players/r/ritchto01.shtml,ritchto01,31,MIL,28.1,5,5,17,5.40,4.84,-0.51,0.19,100.1,5.54,0,0.0,,-0.0,0.3,3,.507,.500,"$1,150,000",Free Agency
-2003,453,Mariano Rivera,/players/r/riverma01.shtml,riverma01,33,NYY,70.2,64,0,15,1.91,4.84,-0.23,-0.36,96.6,4.56,21,2.1,1.8,0.7,3.6,29,.533,.513,"$10,500,000",Amateur Free Agent
-2003,454,Joe Roa,/players/r/roajo01.shtml,roajo01,31,3TM,51.1,28,4,36,6.31,4.82,0.06,-0.19,96.5,4.39,-11,-1.1,.3,0.2,-0.4,-6,.461,.496,"$315,000",Free Agency
+2003,453,Mariano Rivera,/players/r/riverma01.shtml,riverma01,33,NYY,70.2,64,0,15,1.91,4.84,-0.23,-0.36,96.6,4.56,21,2.1,1.83,0.7,3.6,29,.533,.513,"$10,500,000",Amateur Free Agent
+2003,454,Joe Roa,/players/r/roajo01.shtml,roajo01,31,3TM,51.1,28,4,36,6.31,4.82,0.06,-0.19,96.5,4.39,-11,-1.1,.27,0.2,-0.4,-6,.461,.496,"$315,000",Free Agency
 2003,455,Jason Roach,/players/r/roachja01.shtml,roachja01,27,NYM,9.0,2,2,12,12.00,5.35,-0.35,0.21,95.3,5.63,-6,-0.5,,-0.0,-0.4,-6,.253,.497,,Free Agency
-2003,456,Grant Roberts,/players/r/robergr01.shtml,robergr01,25,NYM,19.0,18,0,9,4.26,4.85,-0.28,-0.36,96.4,4.60,1,0.1,1.3,-0.0,0.2,2,.504,.500,"$310,000",Amateur Draft
-2003,457,Willis Roberts,/players/r/roberwi01.shtml,roberwi01,28,BAL,39.1,26,0,26,5.95,4.86,-0.01,-0.36,98.9,4.46,-6,-0.6,.9,-0.0,-0.2,-2,.476,.496,"$3,500,000",Free Agency
-2003,458,Jeriome Robertson*,/players/r/roberje02.shtml,roberje02,26,HOU,160.2,32,31,98,5.49,4.69,0.44,0.17,102.9,4.55,-17,-1.7,1.6,-0.1,-0.4,-3,.447,.489,"$300,000",Amateur Draft
+2003,456,Grant Roberts,/players/r/robergr01.shtml,robergr01,25,NYM,19.0,18,0,9,4.26,4.85,-0.28,-0.36,96.4,4.60,1,0.1,1.27,-0.0,0.2,2,.504,.500,"$310,000",Amateur Draft
+2003,457,Willis Roberts,/players/r/roberwi01.shtml,roberwi01,28,BAL,39.1,26,0,26,5.95,4.86,-0.01,-0.36,98.9,4.46,-6,-0.6,.88,-0.0,-0.2,-2,.476,.496,"$3,500,000",Free Agency
+2003,458,Jeriome Robertson*,/players/r/roberje02.shtml,roberje02,26,HOU,160.2,32,31,98,5.49,4.69,0.44,0.17,102.9,4.55,-17,-1.7,1.58,-0.1,-0.4,-3,.447,.489,"$300,000",Amateur Draft
 2003,459,Nate Robertson*,/players/r/roberna01.shtml,roberna01,25,DET,44.2,8,8,27,5.44,4.87,-0.18,0.18,91.7,4.80,-3,-0.3,,-0.0,0.1,2,.463,.498,,Traded
-2003,460,John Rocker*,/players/r/rockejo01.shtml,rockejo01,28,TBD,1.0,2,0,1,9.00,6.73,0.17,-0.50,104.5,6.33,-0,-0.0,.6,0.0,-0.0,-0,.486,.500,,Free Agency
-2003,461,Fernando Rodney,/players/r/rodnefe01.shtml,rodnefe01,26,DET,29.2,27,0,20,6.07,5.06,-0.17,-0.38,96.3,4.67,-5,-0.4,1.4,-0.2,-0.3,-1,.484,.497,,Amateur Free Agent
-2003,462,Felix Rodriguez,/players/r/rodrife01.shtml,rodrife01,30,SFG,61.0,68,0,21,3.10,4.63,0.21,-0.34,97.0,3.95,5,0.6,1.3,-0.0,1.1,11,.508,.503,"$3,166,667",Traded
-2003,463,Francisco Rodriguez,/players/r/rodrifr03.shtml,rodrifr03,21,ANA,86.0,59,0,30,3.14,4.85,0.10,-0.36,97.3,4.27,11,1.1,1.1,-0.2,1.8,21,.518,.507,"$312,500",Amateur Free Agent
+2003,460,John Rocker*,/players/r/rockejo01.shtml,rockejo01,28,TBD,1.0,2,0,1,9.00,6.73,0.17,-0.50,104.5,6.33,-0,-0.0,.60,0.0,-0.0,-0,.486,.500,,Free Agency
+2003,461,Fernando Rodney,/players/r/rodnefe01.shtml,rodnefe01,26,DET,29.2,27,0,20,6.07,5.06,-0.17,-0.38,96.3,4.67,-5,-0.4,1.39,-0.2,-0.3,-1,.484,.497,,Amateur Free Agent
+2003,462,Felix Rodriguez,/players/r/rodrife01.shtml,rodrife01,30,SFG,61.0,68,0,21,3.10,4.63,0.21,-0.34,97.0,3.95,5,0.6,1.34,-0.0,1.1,11,.508,.503,"$3,166,667",Traded
+2003,463,Francisco Rodriguez,/players/r/rodrifr03.shtml,rodrifr03,21,ANA,86.0,59,0,30,3.14,4.85,0.10,-0.36,97.3,4.27,11,1.1,1.05,-0.2,1.8,21,.518,.507,"$312,500",Amateur Free Agent
 2003,464,Ricardo Rodriguez,/players/r/rodriri03.shtml,rodriri03,25,CLE,81.2,15,15,57,6.28,4.77,0.18,0.18,101.4,4.84,-13,-1.2,,-0.1,-0.4,-4,.421,.493,"$302,400",Traded
-2003,465,Rich Rodriguez*,/players/r/rodriri02.shtml,rodriri02,40,ANA,3.2,3,0,1,2.45,5.51,0.13,-0.41,99.6,4.95,1,0.1,.2,-0.1,0.1,1,.534,.501,,Free Agency
-2003,466,Kenny Rogers*,/players/r/rogerke01.shtml,rogerke01,38,MIN,195.0,33,31,108,4.98,4.73,-0.03,0.17,101.0,4.98,0,0.0,1.0,-0.1,1.9,22,.501,.500,"$2,000,000",Free Agency
-2003,467,J.C. Romero*,/players/r/romerj.01.shtml,romerj.01,27,MIN,63.0,73,0,37,5.29,4.82,-0.02,-0.36,100.0,4.49,-5,-0.5,1.4,-0.3,-0.1,2,.493,.497,"$325,000",Amateur Draft
-2003,468,Matt Roney,/players/r/roneyma01.shtml,roneyma01,23,DET,100.2,45,11,67,5.99,4.97,-0.19,-0.10,97.7,4.94,-12,-1.1,.8,-0.1,-0.1,-0,.475,.493,"$300,000",Purchased
+2003,465,Rich Rodriguez*,/players/r/rodriri02.shtml,rodriri02,40,ANA,3.2,3,0,1,2.45,5.51,0.13,-0.41,99.6,4.95,1,0.1,.18,-0.1,0.1,1,.534,.501,,Free Agency
+2003,466,Kenny Rogers*,/players/r/rogerke01.shtml,rogerke01,38,MIN,195.0,33,31,108,4.98,4.73,-0.03,0.17,101.0,4.98,0,0.0,.99,-0.1,1.9,22,.501,.500,"$2,000,000",Free Agency
+2003,467,J.C. Romero*,/players/r/romerj.01.shtml,romerj.01,27,MIN,63.0,73,0,37,5.29,4.82,-0.02,-0.36,100.0,4.49,-5,-0.5,1.42,-0.3,-0.1,2,.493,.497,"$325,000",Amateur Draft
+2003,468,Matt Roney,/players/r/roneyma01.shtml,roneyma01,23,DET,100.2,45,11,67,5.99,4.97,-0.19,-0.10,97.7,4.94,-12,-1.1,.78,-0.1,-0.1,-0,.475,.493,"$300,000",Purchased
 2003,469,Rodrigo Rosario,/players/r/rosarro01.shtml,rosarro01,25,HOU,8.0,2,2,2,2.25,4.60,0.37,0.18,117.1,5.16,3,0.3,,-0.0,0.3,3,.642,.502,,Amateur Free Agent
 2003,470,Kirk Rueter*,/players/r/rueteki01.shtml,rueteki01,32,SFG,147.0,27,27,77,4.71,4.43,0.26,0.17,98.4,4.28,-8,-0.8,,-0.1,0.4,6,.471,.495,"$5,866,667",Traded
-2003,471,Ryan Rupe,/players/r/rupery01.shtml,rupery01,28,BOS,10.0,4,1,9,8.10,5.04,-0.17,-0.04,102.9,5.33,-3,-0.3,.7,0.0,-0.2,-2,.430,.498,,Waivers
-2003,472,Glendon Rusch*,/players/r/ruschgl01.shtml,ruschgl01,28,MIL,123.1,32,19,93,6.79,4.68,-0.49,0.08,99.4,5.22,-22,-2.1,1.3,-0.2,-1.2,-11,.434,.487,"$4,250,000",Traded
-2003,473,B.J. Ryan*,/players/r/ryanb.01.shtml,ryanb.01,27,BAL,50.1,76,0,19,3.40,5.35,-0.00,-0.40,99.1,4.91,9,0.8,1.7,0.2,1.6,14,.511,.505,"$762,500",Traded
-2003,474,Kirk Saarloos,/players/s/saarlki01.shtml,saarlki01,24,HOU,49.1,36,4,31,5.66,4.83,0.41,-0.21,100.9,4.25,-8,-0.8,.6,0.0,-0.3,-3,.478,.495,,Amateur Draft
+2003,471,Ryan Rupe,/players/r/rupery01.shtml,rupery01,28,BOS,10.0,4,1,9,8.10,5.04,-0.17,-0.04,102.9,5.33,-3,-0.3,.65,0.0,-0.2,-2,.430,.498,,Waivers
+2003,472,Glendon Rusch*,/players/r/ruschgl01.shtml,ruschgl01,28,MIL,123.1,32,19,93,6.79,4.68,-0.49,0.08,99.4,5.22,-22,-2.1,1.34,-0.2,-1.2,-11,.434,.487,"$4,250,000",Traded
+2003,473,B.J. Ryan*,/players/r/ryanb.01.shtml,ryanb.01,27,BAL,50.1,76,0,19,3.40,5.35,-0.00,-0.40,99.1,4.91,9,0.8,1.71,0.2,1.6,14,.511,.505,"$762,500",Traded
+2003,474,Kirk Saarloos,/players/s/saarlki01.shtml,saarlki01,24,HOU,49.1,36,4,31,5.66,4.83,0.41,-0.21,100.9,4.25,-8,-0.8,.65,0.0,-0.3,-3,.478,.495,,Amateur Draft
 2003,475,CC Sabathia*,/players/s/sabatc.01.shtml,sabatc.01,22,CLE,197.2,30,30,85,3.87,4.78,0.16,0.18,97.5,4.68,18,1.8,,-0.1,3.7,40,.562,.511,"$1,100,000",Amateur Draft
-2003,476,Carl Sadler*,/players/s/sadleca01.shtml,sadleca01,26,CLE,9.2,18,0,2,1.86,5.35,0.15,-0.40,97.1,4.66,3,0.3,1.3,0.0,0.4,4,.517,.502,"$303,200",Free Agency
-2003,477,Duaner Sanchez,/players/s/sanchdu01.shtml,sanchdu01,23,PIT,6.0,6,0,11,16.50,4.91,-0.07,-0.36,102.6,4.74,-8,-0.7,.2,0.3,-0.4,-7,.380,.496,,Traded
-2003,478,Felix Sanchez*,/players/s/sanchfe01.shtml,sanchfe01,21,CHC,1.2,3,0,2,10.80,4.72,-0.14,-0.35,103.1,4.64,-1,-0.1,.6,0.0,-0.1,-1,.462,.499,,Amateur Free Agent
-2003,479,Jesus Sanchez*,/players/s/sanchje01.shtml,sanchje01,28,COL,8.0,9,0,8,9.00,4.29,0.07,-0.32,123.8,4.82,-4,-0.4,.3,0.1,-0.2,-3,.459,.498,,Free Agency
-2003,480,David Sanders*,/players/s/sandeda01.shtml,sandeda01,23,CHW,22.0,20,0,16,6.55,4.87,0.15,-0.36,101.3,4.42,-5,-0.5,.5,0.1,-0.2,-3,.475,.497,,Amateur Draft
-2003,481,Johan Santana*,/players/s/santajo02.shtml,santajo02,24,MIN,158.1,45,18,56,3.18,4.63,-0.02,0.02,99.1,4.62,26,2.6,1.2,-0.1,4.2,43,.558,.516,"$335,000",Traded
-2003,482,Jose Santiago,/players/s/santijo03.shtml,santijo03,28,CLE,31.2,25,0,11,3.13,4.82,0.18,-0.36,98.0,4.20,4,0.4,1.2,-0.0,0.7,7,.515,.502,"$600,000",Free Agency
-2003,483,Victor Santos,/players/s/santovi01.shtml,santovi01,26,TEX,25.2,8,4,21,7.36,5.02,0.35,0.05,112.2,5.30,-6,-0.5,.5,0.0,-0.3,-3,.433,.497,,Free Agency
-2003,484,Kazuhiro Sasaki,/players/s/sasakka01.shtml,sasakka01,35,SEA,33.1,35,0,17,4.59,4.92,0.22,-0.37,96.1,4.16,-2,-0.2,1.0,-0.1,0.1,2,.496,.499,"$8,000,000",Amateur Free Agent
-2003,485,Scott Sauerbeck*,/players/s/sauersc01.shtml,sauersc01,31,2TM,56.2,79,0,34,5.40,4.91,-0.07,-0.36,102.0,4.71,-5,-0.4,1.3,-0.1,-0.0,1,.495,.499,"$1,566,667",Traded
+2003,476,Carl Sadler*,/players/s/sadleca01.shtml,sadleca01,26,CLE,9.2,18,0,2,1.86,5.35,0.15,-0.40,97.1,4.66,3,0.3,1.29,0.0,0.4,4,.517,.502,"$303,200",Free Agency
+2003,477,Duaner Sanchez,/players/s/sanchdu01.shtml,sanchdu01,23,PIT,6.0,6,0,11,16.50,4.91,-0.07,-0.36,102.6,4.74,-8,-0.7,.24,0.3,-0.4,-7,.380,.496,,Traded
+2003,478,Felix Sanchez*,/players/s/sanchfe01.shtml,sanchfe01,21,CHC,1.2,3,0,2,10.80,4.72,-0.14,-0.35,103.1,4.64,-1,-0.1,.61,0.0,-0.1,-1,.462,.499,,Amateur Free Agent
+2003,479,Jesus Sanchez*,/players/s/sanchje01.shtml,sanchje01,28,COL,8.0,9,0,8,9.00,4.29,0.07,-0.32,123.8,4.82,-4,-0.4,.34,0.1,-0.2,-3,.459,.498,,Free Agency
+2003,480,David Sanders*,/players/s/sandeda01.shtml,sandeda01,23,CHW,22.0,20,0,16,6.55,4.87,0.15,-0.36,101.3,4.42,-5,-0.5,.46,0.1,-0.2,-3,.475,.497,,Amateur Draft
+2003,481,Johan Santana*,/players/s/santajo02.shtml,santajo02,24,MIN,158.1,45,18,56,3.18,4.63,-0.02,0.02,99.1,4.62,26,2.6,1.16,-0.1,4.2,43,.558,.516,"$335,000",Traded
+2003,482,Jose Santiago,/players/s/santijo03.shtml,santijo03,28,CLE,31.2,25,0,11,3.13,4.82,0.18,-0.36,98.0,4.20,4,0.4,1.18,-0.0,0.7,7,.515,.502,"$600,000",Free Agency
+2003,483,Victor Santos,/players/s/santovi01.shtml,santovi01,26,TEX,25.2,8,4,21,7.36,5.02,0.35,0.05,112.2,5.30,-6,-0.5,.51,0.0,-0.3,-3,.433,.497,,Free Agency
+2003,484,Kazuhiro Sasaki,/players/s/sasakka01.shtml,sasakka01,35,SEA,33.1,35,0,17,4.59,4.92,0.22,-0.37,96.1,4.16,-2,-0.2,1.05,-0.1,0.1,2,.496,.499,"$8,000,000",Amateur Free Agent
+2003,485,Scott Sauerbeck*,/players/s/sauersc01.shtml,sauersc01,31,2TM,56.2,79,0,34,5.40,4.91,-0.07,-0.36,102.0,4.71,-5,-0.4,1.26,-0.1,-0.0,1,.495,.499,"$1,566,667",Traded
 2003,486,Curt Schilling,/players/s/schilcu01.shtml,schilcu01,36,ARI,168.0,24,24,58,3.11,4.64,-0.15,0.18,107.7,5.35,41,4.7,,-0.1,6.0,56,.695,.529,"$10,000,000",Traded
-2003,487,Brian Schmack,/players/s/schmabr01.shtml,schmabr01,29,DET,13.0,11,0,6,4.15,4.81,-0.19,-0.36,95.0,4.41,0,0.0,.9,-0.0,0.2,2,.503,.500,,Free Agency
+2003,487,Brian Schmack,/players/s/schmabr01.shtml,schmabr01,29,DET,13.0,11,0,6,4.15,4.81,-0.19,-0.36,95.0,4.41,0,0.0,.87,-0.0,0.2,2,.503,.500,,Free Agency
 2003,488,Jason Schmidt,/players/s/schmija01.shtml,schmija01,30,SFG,207.2,29,29,56,2.43,4.44,0.19,0.17,99.8,4.41,45,5.1,,-0.1,6.7,64,.675,.531,"$5,937,500",Traded
-2003,489,Scott Schoeneweis*,/players/s/schoesc01.shtml,schoesc01,29,2TM,64.2,59,0,35,4.87,4.98,0.13,-0.37,98.7,4.42,-3,-0.3,.7,-0.1,0.3,4,.495,.499,"$1,425,000",Amateur Draft
-2003,490,Rudy Seanez,/players/s/seaneru01.shtml,seaneru01,34,BOS,8.2,9,0,7,7.27,5.24,-0.15,-0.39,103.9,5.19,-2,-0.2,.9,-0.0,-0.1,-1,.479,.499,,Free Agency
-2003,491,Bobby Seay*,/players/s/seaybo01.shtml,seaybo01,25,TBD,9.0,12,0,3,3.00,5.47,0.14,-0.41,94.3,4.64,2,0.2,1.4,0.0,0.3,3,.514,.501,"$300,000",Free Agency
+2003,489,Scott Schoeneweis*,/players/s/schoesc01.shtml,schoesc01,29,2TM,64.2,59,0,35,4.87,4.98,0.13,-0.37,98.7,4.42,-3,-0.3,.66,-0.1,0.3,4,.495,.499,"$1,425,000",Amateur Draft
+2003,490,Rudy Seanez,/players/s/seaneru01.shtml,seaneru01,34,BOS,8.2,9,0,7,7.27,5.24,-0.15,-0.39,103.9,5.19,-2,-0.2,.89,-0.0,-0.1,-1,.479,.499,,Free Agency
+2003,491,Bobby Seay*,/players/s/seaybo01.shtml,seaybo01,25,TBD,9.0,12,0,3,3.00,5.47,0.14,-0.41,94.3,4.64,2,0.2,1.41,0.0,0.3,3,.514,.501,"$300,000",Free Agency
 2003,492,Aaron Sele,/players/s/seleaa01.shtml,seleaa01,33,ANA,121.2,25,25,82,6.07,4.84,0.15,0.18,95.5,4.66,-19,-1.7,,-0.1,-0.6,-5,.431,.489,"$8,166,667",Free Agency
-2003,493,Jae Weong Seo,/players/s/seoja01.shtml,seoja01,26,NYM,188.1,32,31,94,4.49,4.87,-0.28,0.17,100.1,5.33,17,1.8,.7,-0.1,3.2,34,.555,.511,"$300,000",Amateur Free Agent
-2003,494,Dan Serafini*,/players/s/serafda01.shtml,serafda01,29,CIN,30.0,10,4,23,6.90,4.80,0.04,-0.02,93.8,4.45,-8,-0.8,.5,0.0,-0.5,-6,.421,.495,,Purchased
-2003,495,Scott Service,/players/s/servisc01.shtml,servisc01,36,2TM,34.1,33,0,18,4.72,4.81,-0.19,-0.36,107.8,5.01,1,0.1,1.2,-0.1,0.4,5,.503,.500,,Free Agency
+2003,493,Jae Weong Seo,/players/s/seoja01.shtml,seoja01,26,NYM,188.1,32,31,94,4.49,4.87,-0.28,0.17,100.1,5.33,17,1.8,.69,-0.1,3.2,34,.555,.511,"$300,000",Amateur Free Agent
+2003,494,Dan Serafini*,/players/s/serafda01.shtml,serafda01,29,CIN,30.0,10,4,23,6.90,4.80,0.04,-0.02,93.8,4.45,-8,-0.8,.47,0.0,-0.5,-6,.421,.495,,Purchased
+2003,495,Scott Service,/players/s/servisc01.shtml,servisc01,36,2TM,34.1,33,0,18,4.72,4.81,-0.19,-0.36,107.8,5.01,1,0.1,1.15,-0.1,0.4,5,.503,.500,,Free Agency
 2003,496,Ben Sheets,/players/s/sheetbe01.shtml,sheetbe01,24,MIL,220.2,34,34,122,4.98,4.68,-0.46,0.18,99.0,5.28,6,0.7,,-0.2,2.4,27,.520,.504,"$428,000",Amateur Draft
-2003,497,Scot Shields,/players/s/shielsc01.shtml,shielsc01,27,ANA,148.1,44,13,56,3.40,4.90,0.13,-0.07,97.3,4.57,20,2.0,.5,-0.5,3.1,36,.545,.512,"$305,000",Amateur Draft
-2003,498,Jason Shiell,/players/s/shielja01.shtml,shielja01,26,BOS,23.1,17,0,13,5.01,4.95,-0.13,-0.37,106.5,5.01,0,0.0,.9,-0.1,0.2,3,.500,.500,,Free Agency
-2003,499,Brian Shouse*,/players/s/shousbr01.shtml,shousbr01,34,TEX,61.0,62,0,24,3.54,5.01,0.34,-0.37,111.5,4.79,9,0.8,1.0,-0.1,1.4,15,.514,.505,,Free Agency
-2003,500,Paul Shuey,/players/s/shueypa01.shtml,shueypa01,32,LAD,69.0,62,0,24,3.13,4.68,0.35,-0.35,95.2,3.79,5,0.5,1.2,-0.1,1.0,11,.508,.503,"$3,916,667",Traded
-2003,501,Carlos Silva,/players/s/silvaca01.shtml,silvaca01,24,PHI,87.1,62,1,43,4.43,4.77,0.13,-0.33,92.7,3.99,-5,-0.5,.8,-0.1,0.2,3,.492,.497,"$310,000",Amateur Free Agent
-2003,502,Jason Simontacchi,/players/s/simonja01.shtml,simonja01,29,STL,126.1,46,16,82,5.84,4.71,-0.06,0.01,96.9,4.63,-18,-1.7,1.3,-0.2,-0.9,-6,.462,.489,"$315,000",Free Agency
-2003,503,Dan Smith,/players/s/smithda07.shtml,smithda07,27,MON,37.2,32,0,23,5.50,4.81,-0.04,-0.36,106.0,4.76,-3,-0.3,1.0,-0.1,-0.1,0,.490,.498,"$305,000",Free Agency
-2003,504,John Smoltz,/players/s/smoltjo01.shtml,smoltjo01,36,ATL,64.1,62,0,9,1.26,4.63,0.17,-0.34,99.9,4.11,20,2.1,1.7,0.6,3.3,26,.534,.513,"$10,666,667",Free Agency
+2003,497,Scot Shields,/players/s/shielsc01.shtml,shielsc01,27,ANA,148.1,44,13,56,3.40,4.90,0.13,-0.07,97.3,4.57,20,2.0,.46,-0.5,3.1,36,.545,.512,"$305,000",Amateur Draft
+2003,498,Jason Shiell,/players/s/shielja01.shtml,shielja01,26,BOS,23.1,17,0,13,5.01,4.95,-0.13,-0.37,106.5,5.01,0,0.0,.85,-0.1,0.2,3,.500,.500,,Free Agency
+2003,499,Brian Shouse*,/players/s/shousbr01.shtml,shousbr01,34,TEX,61.0,62,0,24,3.54,5.01,0.34,-0.37,111.5,4.79,9,0.8,1.01,-0.1,1.4,15,.514,.505,,Free Agency
+2003,500,Paul Shuey,/players/s/shueypa01.shtml,shueypa01,32,LAD,69.0,62,0,24,3.13,4.68,0.35,-0.35,95.2,3.79,5,0.5,1.24,-0.1,1.0,11,.508,.503,"$3,916,667",Traded
+2003,501,Carlos Silva,/players/s/silvaca01.shtml,silvaca01,24,PHI,87.1,62,1,43,4.43,4.77,0.13,-0.33,92.7,3.99,-5,-0.5,.79,-0.1,0.2,3,.492,.497,"$310,000",Amateur Free Agent
+2003,502,Jason Simontacchi,/players/s/simonja01.shtml,simonja01,29,STL,126.1,46,16,82,5.84,4.71,-0.06,0.01,96.9,4.63,-18,-1.7,1.31,-0.2,-0.9,-6,.462,.489,"$315,000",Free Agency
+2003,503,Dan Smith,/players/s/smithda07.shtml,smithda07,27,MON,37.2,32,0,23,5.50,4.81,-0.04,-0.36,106.0,4.76,-3,-0.3,.96,-0.1,-0.1,0,.490,.498,"$305,000",Free Agency
+2003,504,John Smoltz,/players/s/smoltjo01.shtml,smoltjo01,36,ATL,64.1,62,0,9,1.26,4.63,0.17,-0.34,99.9,4.11,20,2.1,1.68,0.6,3.3,26,.534,.513,"$10,666,667",Free Agency
 2003,505,Kyle Snyder,/players/s/snydeky01.shtml,snydeky01,25,KCR,85.1,15,15,52,5.48,4.81,-0.33,0.18,107.0,5.69,2,0.2,,-0.1,1.0,12,.514,.501,,Amateur Draft
-2003,506,Rafael Soriano,/players/s/soriara01.shtml,soriara01,23,SEA,53.0,40,0,9,1.53,4.88,0.16,-0.36,95.6,4.16,16,1.6,.9,-0.2,1.9,22,.539,.510,,Amateur Free Agent
-2003,507,Jorge Sosa,/players/s/sosajo02.shtml,sosajo02,25,TBD,128.2,29,19,71,4.97,5.07,0.15,0.08,96.2,4.81,-2,-0.2,1.1,-0.1,1.0,12,.493,.499,"$300,000",Waivers
-2003,508,Steve Sparks,/players/s/sparkst01.shtml,sparkst01,37,2TM,107.0,51,0,68,5.72,4.95,-0.15,-0.37,98.9,4.68,-12,-1.2,1.0,-0.2,-0.2,-0,.477,.495,"$4,500,000",Free Agency
-2003,509,Justin Speier,/players/s/speieju01.shtml,speieju01,29,COL,73.1,72,0,37,4.54,4.54,0.06,-0.34,117.0,4.85,2,0.2,1.3,-0.1,0.8,9,.503,.501,"$850,000",Waivers
-2003,510,Tim Spooneybarger,/players/s/spoonti01.shtml,spoonti01,23,FLA,42.0,33,0,21,4.50,4.76,-0.09,-0.35,96.3,4.33,-1,-0.1,.9,-0.1,0.2,3,.497,.499,"$300,000",Traded
-2003,511,Russ Springer,/players/s/sprinru01.shtml,sprinru01,34,STL,17.1,17,0,16,8.31,4.70,-0.06,-0.35,98.7,4.35,-8,-0.8,1.1,-0.1,-0.7,-6,.456,.495,"$450,000",Free Agency
-2003,512,Chris Spurling,/players/s/spurlch01.shtml,spurlch01,26,DET,77.0,66,0,42,4.91,4.92,-0.18,-0.37,95.6,4.53,-3,-0.3,1.0,-0.2,0.4,6,.495,.498,"$305,000",Traded
-2003,513,Jason Standridge,/players/s/standja01.shtml,standja01,24,TBD,35.1,8,7,25,6.37,5.08,0.16,0.14,95.0,4.80,-6,-0.6,.0,-0.0,-0.2,-2,.430,.497,,Amateur Draft
-2003,514,Jason Stanford*,/players/s/stanfja01.shtml,stanfja01,26,CLE,50.0,13,8,20,3.60,4.94,0.17,0.13,97.8,4.79,7,0.7,1.0,-0.0,1.2,12,.552,.504,,Amateur Free Agent
-2003,515,Mike Stanton*,/players/s/stantmi02.shtml,stantmi02,36,NYM,45.1,50,0,25,4.96,4.69,-0.25,-0.35,98.6,4.53,-2,-0.2,1.4,-0.1,0.0,2,.495,.498,"$2,000,000",Free Agency
-2003,516,Denny Stark,/players/s/starkde01.shtml,starkde01,28,COL,78.2,17,13,57,6.52,4.44,0.07,0.12,115.8,5.20,-12,-1.1,.6,-0.0,-0.5,-5,.433,.493,"$310,000",Traded
-2003,517,Garrett Stephenson,/players/s/stephga01.shtml,stephga01,31,STL,174.1,32,27,94,4.85,4.65,-0.06,0.15,98.1,4.76,-3,-0.3,.2,-0.1,1.1,13,.492,.498,"$800,000",Traded
+2003,506,Rafael Soriano,/players/s/soriara01.shtml,soriara01,23,SEA,53.0,40,0,9,1.53,4.88,0.16,-0.36,95.6,4.16,16,1.6,.89,-0.2,1.9,22,.539,.510,,Amateur Free Agent
+2003,507,Jorge Sosa,/players/s/sosajo02.shtml,sosajo02,25,TBD,128.2,29,19,71,4.97,5.07,0.15,0.08,96.2,4.81,-2,-0.2,1.08,-0.1,1.0,12,.493,.499,"$300,000",Waivers
+2003,508,Steve Sparks,/players/s/sparkst01.shtml,sparkst01,37,2TM,107.0,51,0,68,5.72,4.95,-0.15,-0.37,98.9,4.68,-12,-1.2,.98,-0.2,-0.2,-0,.477,.495,"$4,500,000",Free Agency
+2003,509,Justin Speier,/players/s/speieju01.shtml,speieju01,29,COL,73.1,72,0,37,4.54,4.54,0.06,-0.34,117.0,4.85,2,0.2,1.27,-0.1,0.8,9,.503,.501,"$850,000",Waivers
+2003,510,Tim Spooneybarger,/players/s/spoonti01.shtml,spoonti01,23,FLA,42.0,33,0,21,4.50,4.76,-0.09,-0.35,96.3,4.33,-1,-0.1,.86,-0.1,0.2,3,.497,.499,"$300,000",Traded
+2003,511,Russ Springer,/players/s/sprinru01.shtml,sprinru01,34,STL,17.1,17,0,16,8.31,4.70,-0.06,-0.35,98.7,4.35,-8,-0.8,1.11,-0.1,-0.7,-6,.456,.495,"$450,000",Free Agency
+2003,512,Chris Spurling,/players/s/spurlch01.shtml,spurlch01,26,DET,77.0,66,0,42,4.91,4.92,-0.18,-0.37,95.6,4.53,-3,-0.3,.96,-0.2,0.4,6,.495,.498,"$305,000",Traded
+2003,513,Jason Standridge,/players/s/standja01.shtml,standja01,24,TBD,35.1,8,7,25,6.37,5.08,0.16,0.14,95.0,4.80,-6,-0.6,.02,-0.0,-0.2,-2,.430,.497,,Amateur Draft
+2003,514,Jason Stanford*,/players/s/stanfja01.shtml,stanfja01,26,CLE,50.0,13,8,20,3.60,4.94,0.17,0.13,97.8,4.79,7,0.7,.96,-0.0,1.2,12,.552,.504,,Amateur Free Agent
+2003,515,Mike Stanton*,/players/s/stantmi02.shtml,stantmi02,36,NYM,45.1,50,0,25,4.96,4.69,-0.25,-0.35,98.6,4.53,-2,-0.2,1.39,-0.1,0.0,2,.495,.498,"$2,000,000",Free Agency
+2003,516,Denny Stark,/players/s/starkde01.shtml,starkde01,28,COL,78.2,17,13,57,6.52,4.44,0.07,0.12,115.8,5.20,-12,-1.1,.61,-0.0,-0.5,-5,.433,.493,"$310,000",Traded
+2003,517,Garrett Stephenson,/players/s/stephga01.shtml,stephga01,31,STL,174.1,32,27,94,4.85,4.65,-0.06,0.15,98.1,4.76,-3,-0.3,.23,-0.1,1.1,13,.492,.498,"$800,000",Traded
 2003,518,Josh Stewart*,/players/s/stewajo02.shtml,stewajo02,24,CHW,25.2,5,5,18,6.31,4.33,0.15,0.16,100.4,4.36,-6,-0.5,,-0.0,-0.2,-3,.401,.497,"$300,000",Amateur Draft
-2003,519,Scott Stewart*,/players/s/stewasc01.shtml,stewasc01,27,MON,43.0,51,0,22,4.60,4.93,-0.04,-0.36,105.5,4.86,1,0.1,1.1,-0.1,0.4,5,.502,.501,"$327,000",Free Agency
-2003,520,Ricky Stone,/players/s/stoneri01.shtml,stoneri01,28,HOU,83.0,65,0,36,3.90,4.68,0.42,-0.35,102.7,4.02,1,0.1,1.0,-0.2,0.6,8,.501,.500,"$325,000",Free Agency
-2003,521,Pat Strange,/players/s/stranpa02.shtml,stranpa02,22,NYM,9.0,6,0,11,11.00,4.85,-0.29,-0.36,97.8,4.67,-6,-0.6,1.2,-0.1,-0.6,-6,.401,.496,,Amateur Draft
-2003,522,Scott Strickland,/players/s/stricsc02.shtml,stricsc02,27,NYM,20.0,19,0,6,2.70,4.54,-0.23,-0.34,98.7,4.38,4,0.4,1.0,-0.0,0.5,5,.520,.502,"$950,000",Free Agency
-2003,523,Tanyon Sturtze,/players/s/sturtta01.shtml,sturtta01,32,TOR,89.1,40,8,67,6.75,4.95,-0.26,-0.10,104.2,5.33,-14,-1.3,.8,-0.0,-0.4,-4,.467,.492,"$1,000,000",Free Agency
-2003,524,Scott Sullivan,/players/s/sullisc01.shtml,sullisc01,32,2TM,64.0,65,0,28,3.94,4.80,0.05,-0.36,97.8,4.30,2,0.2,1.0,-0.1,0.7,9,.504,.501,"$2,800,000",Traded
-2003,525,Jeff Suppan,/players/s/suppaje01.shtml,suppaje01,28,2TM,204.0,32,31,98,4.32,4.81,-0.08,0.17,101.2,5.12,18,2.0,.4,-0.1,3.7,38,.562,.509,"$500,000",Traded
-2003,526,Brian Sweeney,/players/s/sweenbr01.shtml,sweenbr01,29,SEA,9.1,5,0,2,1.93,5.06,0.20,-0.38,98.5,4.41,3,0.3,.1,-0.1,0.2,4,.553,.502,,Purchased
-2003,527,Jon Switzer*,/players/s/switzjo01.shtml,switzjo01,23,TBD,9.2,5,0,8,7.45,5.27,0.15,-0.39,101.4,4.79,-3,-0.3,1.2,-0.0,-0.2,-2,.447,.498,,Amateur Draft
-2003,528,Brian Tallet*,/players/t/tallebr01.shtml,tallebr01,25,CLE,19.0,5,3,14,6.63,4.44,0.19,0.08,104.4,4.52,-4,-0.4,.1,0.0,-0.2,-2,.419,.498,,Amateur Draft
-2003,529,Jeff Tam,/players/t/tamje01.shtml,tamje01,32,TOR,44.2,44,0,30,6.04,4.93,-0.27,-0.37,105.2,5.08,-5,-0.5,.9,-0.1,-0.1,0,.490,.497,"$600,000",Free Agency
+2003,519,Scott Stewart*,/players/s/stewasc01.shtml,stewasc01,27,MON,43.0,51,0,22,4.60,4.93,-0.04,-0.36,105.5,4.86,1,0.1,1.14,-0.1,0.4,5,.502,.501,"$327,000",Free Agency
+2003,520,Ricky Stone,/players/s/stoneri01.shtml,stoneri01,28,HOU,83.0,65,0,36,3.90,4.68,0.42,-0.35,102.7,4.02,1,0.1,.97,-0.2,0.6,8,.501,.500,"$325,000",Free Agency
+2003,521,Pat Strange,/players/s/stranpa02.shtml,stranpa02,22,NYM,9.0,6,0,11,11.00,4.85,-0.29,-0.36,97.8,4.67,-6,-0.6,1.17,-0.1,-0.6,-6,.401,.496,,Amateur Draft
+2003,522,Scott Strickland,/players/s/stricsc02.shtml,stricsc02,27,NYM,20.0,19,0,6,2.70,4.54,-0.23,-0.34,98.7,4.38,4,0.4,1.01,-0.0,0.5,5,.520,.502,"$950,000",Free Agency
+2003,523,Tanyon Sturtze,/players/s/sturtta01.shtml,sturtta01,32,TOR,89.1,40,8,67,6.75,4.95,-0.26,-0.10,104.2,5.33,-14,-1.3,.76,-0.0,-0.4,-4,.467,.492,"$1,000,000",Free Agency
+2003,524,Scott Sullivan,/players/s/sullisc01.shtml,sullisc01,32,2TM,64.0,65,0,28,3.94,4.80,0.05,-0.36,97.8,4.30,2,0.2,1.05,-0.1,0.7,9,.504,.501,"$2,800,000",Traded
+2003,525,Jeff Suppan,/players/s/suppaje01.shtml,suppaje01,28,2TM,204.0,32,31,98,4.32,4.81,-0.08,0.17,101.2,5.12,18,2.0,.36,-0.1,3.7,38,.562,.509,"$500,000",Traded
+2003,526,Brian Sweeney,/players/s/sweenbr01.shtml,sweenbr01,29,SEA,9.1,5,0,2,1.93,5.06,0.20,-0.38,98.5,4.41,3,0.3,.14,-0.1,0.2,4,.553,.502,,Purchased
+2003,527,Jon Switzer*,/players/s/switzjo01.shtml,switzjo01,23,TBD,9.2,5,0,8,7.45,5.27,0.15,-0.39,101.4,4.79,-3,-0.3,1.17,-0.0,-0.2,-2,.447,.498,,Amateur Draft
+2003,528,Brian Tallet*,/players/t/tallebr01.shtml,tallebr01,25,CLE,19.0,5,3,14,6.63,4.44,0.19,0.08,104.4,4.52,-4,-0.4,.10,0.0,-0.2,-2,.419,.498,,Amateur Draft
+2003,529,Jeff Tam,/players/t/tamje01.shtml,tamje01,32,TOR,44.2,44,0,30,6.04,4.93,-0.27,-0.37,105.2,5.08,-5,-0.5,.87,-0.1,-0.1,0,.490,.497,"$600,000",Free Agency
 2003,530,Dennis Tankersley,/players/t/tankede01.shtml,tankede01,24,SDP,0.0,1,1,7,,,,,,,,,,0.0,,,,,,Traded
-2003,531,Julian Tavarez,/players/t/tavarju01.shtml,tavarju01,30,PIT,83.2,64,0,37,3.98,4.84,-0.05,-0.36,101.2,4.59,5,0.5,1.3,-0.1,1.2,13,.508,.503,"$750,000",Free Agency
-2003,532,Aaron Taylor,/players/t/tayloaa01.shtml,tayloaa01,25,SEA,12.2,10,0,12,8.53,4.74,0.25,-0.35,98.3,4.06,-6,-0.6,.2,0.2,-0.2,-5,.442,.496,,MinorLg Draft
-2003,533,Michael Tejera*,/players/t/tejermi01.shtml,tejermi01,26,FLA,81.0,50,6,44,4.89,4.61,-0.10,-0.15,99.0,4.52,-4,-0.4,.8,-0.1,0.2,4,.493,.498,"$300,000",Amateur Draft
+2003,531,Julian Tavarez,/players/t/tavarju01.shtml,tavarju01,30,PIT,83.2,64,0,37,3.98,4.84,-0.05,-0.36,101.2,4.59,5,0.5,1.32,-0.1,1.2,13,.508,.503,"$750,000",Free Agency
+2003,532,Aaron Taylor,/players/t/tayloaa01.shtml,tayloaa01,25,SEA,12.2,10,0,12,8.53,4.74,0.25,-0.35,98.3,4.06,-6,-0.6,.21,0.2,-0.2,-5,.442,.496,,MinorLg Draft
+2003,533,Michael Tejera*,/players/t/tejermi01.shtml,tejermi01,26,FLA,81.0,50,6,44,4.89,4.61,-0.10,-0.15,99.0,4.52,-4,-0.4,.81,-0.1,0.2,4,.493,.498,"$300,000",Amateur Draft
 2003,534,Amaury Telemaco,/players/t/telemam01.shtml,telemam01,29,PHI,45.1,8,8,22,4.37,4.72,0.13,0.18,92.2,4.39,-0,-0.0,,-0.0,0.3,4,.499,.500,,Free Agency
-2003,535,Brad Thomas*,/players/t/thomabr01.shtml,thomabr01,25,MIN,4.2,3,0,4,7.71,3.99,-0.03,-0.30,92.7,3.45,-2,-0.2,1.0,-0.0,-0.2,-2,.432,.499,,Free Agency
+2003,535,Brad Thomas*,/players/t/thomabr01.shtml,thomabr01,25,MIN,4.2,3,0,4,7.71,3.99,-0.03,-0.30,92.7,3.45,-2,-0.2,1.05,-0.0,-0.2,-2,.432,.499,,Free Agency
 2003,536,John Thomson,/players/t/thomsjo01.shtml,thomsjo01,29,TEX,217.0,35,35,125,5.18,4.90,0.35,0.19,108.2,5.12,-1,-0.1,,-0.1,2.0,23,.497,.499,"$1,300,000",Free Agency
-2003,537,Corey Thurman,/players/t/thurmco01.shtml,thurmco01,24,TOR,15.1,6,3,11,6.46,5.13,-0.27,-0.04,99.4,5.32,-2,-0.2,.4,0.0,-0.0,-0,.470,.499,,Rule 5 Draft
-2003,538,Mike Timlin,/players/t/timlimi01.shtml,timlimi01,37,BOS,83.2,72,0,37,3.98,4.93,-0.14,-0.37,102.4,4.82,8,0.8,1.3,-0.1,1.6,17,.511,.505,"$1,850,000",Free Agency
-2003,539,Kevin Tolar*,/players/t/tolarke01.shtml,tolarke01,32,BOS,4.0,6,0,5,11.25,5.05,-0.14,-0.38,111.3,5.36,-3,-0.2,.5,0.0,-0.2,-2,.459,.498,,Free Agency
+2003,537,Corey Thurman,/players/t/thurmco01.shtml,thurmco01,24,TOR,15.1,6,3,11,6.46,5.13,-0.27,-0.04,99.4,5.32,-2,-0.2,.40,0.0,-0.0,-0,.470,.499,,Rule 5 Draft
+2003,538,Mike Timlin,/players/t/timlimi01.shtml,timlimi01,37,BOS,83.2,72,0,37,3.98,4.93,-0.14,-0.37,102.4,4.82,8,0.8,1.33,-0.1,1.6,17,.511,.505,"$1,850,000",Free Agency
+2003,539,Kevin Tolar*,/players/t/tolarke01.shtml,tolarke01,32,BOS,4.0,6,0,5,11.25,5.05,-0.14,-0.38,111.3,5.36,-3,-0.2,.55,0.0,-0.2,-2,.459,.498,,Free Agency
 2003,540,Brian Tollberg,/players/t/tollbbr01.shtml,tollbbr01,30,SDP,10.1,3,3,11,9.58,3.85,0.00,0.15,85.6,3.42,-7,-0.6,,-0.0,-0.5,-6,.303,.496,,Free Agency
-2003,541,Brett Tomko,/players/t/tomkobr01.shtml,tomkobr01,30,STL,202.2,33,32,126,5.60,4.57,-0.06,0.16,96.6,4.63,-23,-2.2,.7,-0.1,-0.6,-4,.434,.487,"$3,300,000",Traded
-2003,542,Salomon Torres,/players/t/torresa01.shtml,torresa01,31,PIT,121.0,41,16,65,4.83,4.72,-0.05,0.01,101.1,4.83,-1,-0.1,1.3,-0.1,0.9,10,.498,.500,"$325,000",Free Agency
-2003,543,Josh Towers,/players/t/towerjo01.shtml,towerjo01,26,TOR,64.1,14,8,34,4.76,4.68,-0.24,0.08,103.8,5.20,3,0.3,1.1,-0.1,0.9,10,.523,.502,,Free Agency
-2003,544,Billy Traber*,/players/t/trabebi01.shtml,trabebi01,23,CLE,111.2,33,18,67,5.40,4.84,0.17,0.07,99.3,4.71,-8,-0.8,.9,-0.1,0.3,4,.476,.495,"$300,000",Traded
+2003,541,Brett Tomko,/players/t/tomkobr01.shtml,tomkobr01,30,STL,202.2,33,32,126,5.60,4.57,-0.06,0.16,96.6,4.63,-23,-2.2,.66,-0.1,-0.6,-4,.434,.487,"$3,300,000",Traded
+2003,542,Salomon Torres,/players/t/torresa01.shtml,torresa01,31,PIT,121.0,41,16,65,4.83,4.72,-0.05,0.01,101.1,4.83,-1,-0.1,1.28,-0.1,0.9,10,.498,.500,"$325,000",Free Agency
+2003,543,Josh Towers,/players/t/towerjo01.shtml,towerjo01,26,TOR,64.1,14,8,34,4.76,4.68,-0.24,0.08,103.8,5.20,3,0.3,1.13,-0.1,0.9,10,.523,.502,,Free Agency
+2003,544,Billy Traber*,/players/t/trabebi01.shtml,trabebi01,23,CLE,111.2,33,18,67,5.40,4.84,0.17,0.07,99.3,4.71,-8,-0.8,.94,-0.1,0.3,4,.476,.495,"$300,000",Traded
 2003,545,Steve Trachsel,/players/t/trachst01.shtml,trachst01,32,NYM,204.2,33,33,90,3.96,4.78,-0.27,0.18,98.0,5.12,26,2.8,,-0.1,4.4,44,.584,.517,"$3,000,000",Free Agency
-2003,546,Chin-hui Tsao,/players/t/tsaoch01.shtml,tsaoch01,22,COL,43.1,9,8,30,6.23,4.71,0.06,0.17,118.7,5.72,-3,-0.3,.0,-0.0,0.1,1,.471,.498,,Amateur Free Agent
-2003,547,T.J. Tucker,/players/t/tucket.01.shtml,tucket.01,24,MON,80.0,45,7,49,5.51,4.68,-0.04,-0.17,102.6,4.67,-8,-0.8,.9,-0.1,-0.2,-1,.482,.495,"$310,000",Amateur Draft
-2003,548,Derrick Turnbow,/players/t/turnbde01.shtml,turnbde01,25,ANA,15.1,11,0,1,0.59,4.97,0.10,-0.37,97.8,4.41,7,0.7,.3,-0.3,0.6,8,.561,.504,,Rule 5 Draft
-2003,549,Ugueth Urbina,/players/u/urbinug01.shtml,urbinug01,29,2TM,77.0,72,0,25,2.92,4.88,0.11,-0.36,105.8,4.66,15,1.5,1.6,0.4,2.6,23,.521,.504,"$4,500,000",Traded
+2003,546,Chin-hui Tsao,/players/t/tsaoch01.shtml,tsaoch01,22,COL,43.1,9,8,30,6.23,4.71,0.06,0.17,118.7,5.72,-3,-0.3,.02,-0.0,0.1,1,.471,.498,,Amateur Free Agent
+2003,547,T.J. Tucker,/players/t/tucket.01.shtml,tucket.01,24,MON,80.0,45,7,49,5.51,4.68,-0.04,-0.17,102.6,4.67,-8,-0.8,.91,-0.1,-0.2,-1,.482,.495,"$310,000",Amateur Draft
+2003,548,Derrick Turnbow,/players/t/turnbde01.shtml,turnbde01,25,ANA,15.1,11,0,1,0.59,4.97,0.10,-0.37,97.8,4.41,7,0.7,.29,-0.3,0.6,8,.561,.504,,Rule 5 Draft
+2003,549,Ugueth Urbina,/players/u/urbinug01.shtml,urbinug01,29,2TM,77.0,72,0,25,2.92,4.88,0.11,-0.36,105.8,4.66,15,1.5,1.64,0.4,2.6,23,.521,.504,"$4,500,000",Traded
 2003,550,Ismael Valdez,/players/v/valdeis01.shtml,valdeis01,29,TEX,115.0,22,22,83,6.50,4.84,0.40,0.18,110.5,5.11,-17,-1.6,,-0.1,-0.5,-5,.427,.490,"$2,500,000",Free Agency
-2003,551,Joe Valentine,/players/v/valenjo04.shtml,valenjo04,23,CIN,2.0,2,0,4,18.00,4.65,0.04,-0.34,97.0,4.14,-3,-0.3,.2,0.1,-0.2,-3,.362,.498,,Traded
-2003,552,Jose Valverde,/players/v/valvejo01.shtml,valvejo01,25,ARI,50.1,54,0,16,2.86,4.61,-0.12,-0.34,109.0,4.78,10,1.1,1.3,0.0,1.6,15,.520,.507,,Amateur Free Agent
-2003,553,Todd Van Poppel,/players/v/vanpoto01.shtml,vanpoto01,31,2TM,48.1,16,5,32,5.96,4.89,0.13,-0.04,99.3,4.68,-7,-0.6,.5,0.0,-0.2,-2,.461,.498,"$2,500,000",Free Agency
-2003,554,Cory Vance*,/players/v/vanceco01.shtml,vanceco01,24,COL,27.1,9,3,19,6.26,4.53,0.07,-0.04,110.6,4.89,-4,-0.4,.6,0.0,-0.2,-2,.454,.497,,Amateur Draft
-2003,555,Claudio Vargas,/players/v/vargacl01.shtml,vargacl01,25,MON,114.0,23,20,59,4.66,5.00,-0.04,0.17,103.4,5.38,9,0.9,.8,-0.1,1.8,19,.540,.506,,Traded
+2003,551,Joe Valentine,/players/v/valenjo04.shtml,valenjo04,23,CIN,2.0,2,0,4,18.00,4.65,0.04,-0.34,97.0,4.14,-3,-0.3,.25,0.1,-0.2,-3,.362,.498,,Traded
+2003,552,Jose Valverde,/players/v/valvejo01.shtml,valvejo01,25,ARI,50.1,54,0,16,2.86,4.61,-0.12,-0.34,109.0,4.78,10,1.1,1.27,0.0,1.6,15,.520,.507,,Amateur Free Agent
+2003,553,Todd Van Poppel,/players/v/vanpoto01.shtml,vanpoto01,31,2TM,48.1,16,5,32,5.96,4.89,0.13,-0.04,99.3,4.68,-7,-0.6,.47,0.0,-0.2,-2,.461,.498,"$2,500,000",Free Agency
+2003,554,Cory Vance*,/players/v/vanceco01.shtml,vanceco01,24,COL,27.1,9,3,19,6.26,4.53,0.07,-0.04,110.6,4.89,-4,-0.4,.56,0.0,-0.2,-2,.454,.497,,Amateur Draft
+2003,555,Claudio Vargas,/players/v/vargacl01.shtml,vargacl01,25,MON,114.0,23,20,59,4.66,5.00,-0.04,0.17,103.4,5.38,9,0.9,.81,-0.1,1.8,19,.540,.506,,Traded
 2003,556,Javier Vazquez,/players/v/vazquja01.shtml,vazquja01,26,MON,230.2,34,34,93,3.63,4.80,-0.03,0.18,103.2,5.17,39,4.3,,-0.2,6.1,60,.625,.526,"$6,000,000",Amateur Draft
-2003,557,Mike Venafro*,/players/v/venafmi01.shtml,venafmi01,29,TBD,19.0,24,0,10,4.74,5.16,0.17,-0.39,96.2,4.43,-1,-0.1,1.1,-0.0,0.1,2,.498,.500,"$300,000",Free Agency
-2003,558,Dave Veres,/players/v/veresda01.shtml,veresda01,36,CHC,32.2,31,0,17,4.68,4.76,-0.17,-0.35,101.1,4.63,-0,-0.0,1.0,-0.1,0.2,3,.499,.500,"$2,000,000",Free Agency
-2003,559,Brandon Villafuerte,/players/v/villabr01.shtml,villabr01,27,SDP,40.2,31,0,20,4.43,4.55,0.00,-0.34,93.3,3.93,-2,-0.2,.9,-0.1,0.0,1,.492,.499,"$302,000",Free Agency
-2003,560,Oscar Villarreal,/players/v/villaos01.shtml,villaos01,21,ARI,98.0,86,1,40,3.67,4.71,-0.17,-0.33,109.0,4.95,14,1.4,1.2,-0.1,2.2,22,.516,.509,"$300,000",Amateur Free Agent
+2003,557,Mike Venafro*,/players/v/venafmi01.shtml,venafmi01,29,TBD,19.0,24,0,10,4.74,5.16,0.17,-0.39,96.2,4.43,-1,-0.1,1.10,-0.0,0.1,2,.498,.500,"$300,000",Free Agency
+2003,558,Dave Veres,/players/v/veresda01.shtml,veresda01,36,CHC,32.2,31,0,17,4.68,4.76,-0.17,-0.35,101.1,4.63,-0,-0.0,.98,-0.1,0.2,3,.499,.500,"$2,000,000",Free Agency
+2003,559,Brandon Villafuerte,/players/v/villabr01.shtml,villabr01,27,SDP,40.2,31,0,20,4.43,4.55,0.00,-0.34,93.3,3.93,-2,-0.2,.94,-0.1,0.0,1,.492,.499,"$302,000",Free Agency
+2003,560,Oscar Villarreal,/players/v/villaos01.shtml,villaos01,21,ARI,98.0,86,1,40,3.67,4.71,-0.17,-0.33,109.0,4.95,14,1.4,1.20,-0.1,2.2,22,.516,.509,"$300,000",Amateur Free Agent
 2003,561,Ron Villone*,/players/v/villoro01.shtml,villoro01,33,HOU,106.2,19,19,51,4.30,4.46,0.37,0.17,103.6,4.42,1,0.1,,-0.1,0.9,11,.505,.501,,Free Agency
-2003,562,Luis Vizcaino,/players/v/vizcalu01.shtml,vizcalu01,28,MIL,62.0,75,0,45,6.53,4.84,-0.42,-0.36,100.6,4.93,-11,-1.1,1.0,-0.1,-0.7,-6,.485,.493,"$370,000",Traded
-2003,563,Ryan Vogelsong,/players/v/vogelry01.shtml,vogelry01,25,PIT,22.0,6,5,19,7.77,4.51,-0.06,0.15,102.3,4.82,-7,-0.7,.8,-0.0,-0.5,-5,.388,.496,,Traded
-2003,564,Brad Voyles,/players/v/voylebr01.shtml,voylebr01,26,KCR,31.1,11,3,29,8.33,4.46,-0.34,-0.12,116.2,5.44,-10,-0.9,.4,0.1,-0.5,-7,.417,.494,,Traded
-2003,565,Doug Waechter,/players/w/waechdo01.shtml,waechdo01,22,TBD,35.1,6,5,13,3.31,5.42,0.13,0.17,96.2,5.25,8,0.8,2.8,0.0,1.2,12,.636,.505,,Amateur Draft
-2003,566,Billy Wagner*,/players/w/wagnebi02.shtml,wagnebi02,31,HOU,86.0,78,0,18,1.88,4.74,0.31,-0.35,100.7,4.11,21,2.2,1.6,0.4,3.3,29,.528,.513,"$8,000,000",Amateur Draft
-2003,567,Ryan Wagner,/players/w/wagnery01.shtml,wagnery01,20,CIN,21.2,17,0,4,1.66,4.56,0.02,-0.34,93.7,3.94,5,0.6,1.4,0.1,0.8,7,.533,.503,,Amateur Draft
-2003,568,Tim Wakefield,/players/w/wakefti01.shtml,wakefti01,36,BOS,202.1,35,33,106,4.71,4.92,-0.14,0.18,104.0,5.44,17,1.7,1.0,-0.1,3.6,39,.548,.510,"$4,000,000",Free Agency
-2003,569,Jamie Walker*,/players/w/walkeja01.shtml,walkeja01,31,DET,65.0,78,0,30,4.15,4.96,-0.17,-0.37,94.7,4.51,3,0.3,1.3,-0.1,0.9,10,.503,.502,"$360,000",Free Agency
-2003,570,Kevin Walker*,/players/w/walkeke02.shtml,walkeke02,26,SDP,6.2,11,0,4,5.40,5.10,0.00,-0.38,98.8,4.66,-1,-0.1,.8,-0.0,-0.0,0,.495,.500,"$450,000",Amateur Draft
-2003,571,Pete Walker,/players/w/walkepe01.shtml,walkepe01,34,TOR,55.1,23,7,31,5.04,4.96,-0.25,-0.03,102.1,5.28,2,0.2,1.0,-0.1,0.7,8,.507,.501,"$425,000",Waivers
-2003,572,Les Walrond*,/players/w/walrole01.shtml,walrole01,26,KCR,8.0,7,0,9,10.13,4.96,-0.33,-0.37,117.4,5.77,-4,-0.4,.7,0.0,-0.2,-3,.448,.498,,Waivers
-2003,573,John Wasdin,/players/w/wasdijo01.shtml,wasdijo01,30,TOR,5.0,3,2,13,23.40,5.35,-0.39,0.04,107.1,6.18,-10,-0.7,.6,0.0,-0.6,-9,.261,.496,,Traded
+2003,562,Luis Vizcaino,/players/v/vizcalu01.shtml,vizcalu01,28,MIL,62.0,75,0,45,6.53,4.84,-0.42,-0.36,100.6,4.93,-11,-1.1,.99,-0.1,-0.7,-6,.485,.493,"$370,000",Traded
+2003,563,Ryan Vogelsong,/players/v/vogelry01.shtml,vogelry01,25,PIT,22.0,6,5,19,7.77,4.51,-0.06,0.15,102.3,4.82,-7,-0.7,.84,-0.0,-0.5,-5,.388,.496,,Traded
+2003,564,Brad Voyles,/players/v/voylebr01.shtml,voylebr01,26,KCR,31.1,11,3,29,8.33,4.46,-0.34,-0.12,116.2,5.44,-10,-0.9,.38,0.1,-0.5,-7,.417,.494,,Traded
+2003,565,Doug Waechter,/players/w/waechdo01.shtml,waechdo01,22,TBD,35.1,6,5,13,3.31,5.42,0.13,0.17,96.2,5.25,8,0.8,2.82,0.0,1.2,12,.636,.505,,Amateur Draft
+2003,566,Billy Wagner*,/players/w/wagnebi02.shtml,wagnebi02,31,HOU,86.0,78,0,18,1.88,4.74,0.31,-0.35,100.7,4.11,21,2.2,1.55,0.4,3.3,29,.528,.513,"$8,000,000",Amateur Draft
+2003,567,Ryan Wagner,/players/w/wagnery01.shtml,wagnery01,20,CIN,21.2,17,0,4,1.66,4.56,0.02,-0.34,93.7,3.94,5,0.6,1.37,0.1,0.8,7,.533,.503,,Amateur Draft
+2003,568,Tim Wakefield,/players/w/wakefti01.shtml,wakefti01,36,BOS,202.1,35,33,106,4.71,4.92,-0.14,0.18,104.0,5.44,17,1.7,1.03,-0.1,3.6,39,.548,.510,"$4,000,000",Free Agency
+2003,569,Jamie Walker*,/players/w/walkeja01.shtml,walkeja01,31,DET,65.0,78,0,30,4.15,4.96,-0.17,-0.37,94.7,4.51,3,0.3,1.32,-0.1,0.9,10,.503,.502,"$360,000",Free Agency
+2003,570,Kevin Walker*,/players/w/walkeke02.shtml,walkeke02,26,SDP,6.2,11,0,4,5.40,5.10,0.00,-0.38,98.8,4.66,-1,-0.1,.76,-0.0,-0.0,0,.495,.500,"$450,000",Amateur Draft
+2003,571,Pete Walker,/players/w/walkepe01.shtml,walkepe01,34,TOR,55.1,23,7,31,5.04,4.96,-0.25,-0.03,102.1,5.28,2,0.2,.96,-0.1,0.7,8,.507,.501,"$425,000",Waivers
+2003,572,Les Walrond*,/players/w/walrole01.shtml,walrole01,26,KCR,8.0,7,0,9,10.13,4.96,-0.33,-0.37,117.4,5.77,-4,-0.4,.73,0.0,-0.2,-3,.448,.498,,Waivers
+2003,573,John Wasdin,/players/w/wasdijo01.shtml,wasdijo01,30,TOR,5.0,3,2,13,23.40,5.35,-0.39,0.04,107.1,6.18,-10,-0.7,.55,0.0,-0.6,-9,.261,.496,,Traded
 2003,574,Jarrod Washburn*,/players/w/washbja01.shtml,washbja01,28,ANA,207.1,32,32,106,4.60,4.87,0.14,0.18,97.3,4.78,4,0.4,,-0.1,2.4,28,.514,.503,"$3,875,000",Amateur Draft
-2003,575,Mark Watson*,/players/w/watsoma03.shtml,watsoma03,29,CIN,2.0,2,0,1,4.50,4.03,0.03,-0.30,118.0,4.37,-0,-0.0,.0,-0.0,0.0,0,.498,.500,,Free Agency
+2003,575,Mark Watson*,/players/w/watsoma03.shtml,watsoma03,29,CIN,2.0,2,0,1,4.50,4.03,0.03,-0.30,118.0,4.37,-0,-0.0,.04,-0.0,0.0,0,.498,.500,,Free Agency
 2003,576,Justin Wayne,/players/w/wayneju01.shtml,wayneju01,24,FLA,5.1,2,2,7,11.81,4.28,-0.15,0.17,115.3,5.29,-4,-0.3,,-0.0,-0.3,-3,.332,.498,"$300,000",Traded
-2003,577,David Weathers,/players/w/weathda01.shtml,weathda01,33,NYM,87.2,77,0,33,3.39,4.96,-0.24,-0.37,97.7,4.73,13,1.3,1.4,0.1,2.1,21,.517,.508,"$3,733,333",Free Agency
-2003,578,Jeff Weaver,/players/w/weaveje01.shtml,weaveje01,26,NYY,159.1,32,24,113,6.38,4.94,-0.30,0.15,98.1,5.29,-19,-1.8,.7,-0.1,-0.2,-1,.444,.489,"$4,150,000",Traded
-2003,579,Brandon Webb,/players/w/webbbr01.shtml,webbbr01,24,ARI,180.2,29,28,65,3.24,4.63,-0.15,0.18,108.7,5.39,42,4.8,.1,-0.1,6.2,59,.664,.529,,Amateur Draft
-2003,580,Ben Weber,/players/w/weberbe01.shtml,weberbe01,33,ANA,80.1,62,0,26,2.91,4.92,0.14,-0.37,97.1,4.28,12,1.2,.9,-0.2,1.9,21,.520,.508,"$375,000",Waivers
-2003,581,Todd Wellemeyer,/players/w/welleto01.shtml,welleto01,24,CHC,27.2,15,0,22,7.16,4.73,-0.14,-0.35,100.5,4.55,-8,-0.8,1.0,-0.0,-0.6,-6,.447,.495,,Amateur Draft
-2003,582,David Wells*,/players/w/wellsda01.shtml,wellsda01,40,NYY,213.0,31,30,101,4.27,4.84,-0.30,0.17,97.4,5.17,22,2.2,2.3,-0.1,4.3,45,.572,.514,"$3,250,000",Free Agency
+2003,577,David Weathers,/players/w/weathda01.shtml,weathda01,33,NYM,87.2,77,0,33,3.39,4.96,-0.24,-0.37,97.7,4.73,13,1.3,1.36,0.1,2.1,21,.517,.508,"$3,733,333",Free Agency
+2003,578,Jeff Weaver,/players/w/weaveje01.shtml,weaveje01,26,NYY,159.1,32,24,113,6.38,4.94,-0.30,0.15,98.1,5.29,-19,-1.8,.71,-0.1,-0.2,-1,.444,.489,"$4,150,000",Traded
+2003,579,Brandon Webb,/players/w/webbbr01.shtml,webbbr01,24,ARI,180.2,29,28,65,3.24,4.63,-0.15,0.18,108.7,5.39,42,4.8,.05,-0.1,6.2,59,.664,.529,,Amateur Draft
+2003,580,Ben Weber,/players/w/weberbe01.shtml,weberbe01,33,ANA,80.1,62,0,26,2.91,4.92,0.14,-0.37,97.1,4.28,12,1.2,.91,-0.2,1.9,21,.520,.508,"$375,000",Waivers
+2003,581,Todd Wellemeyer,/players/w/welleto01.shtml,welleto01,24,CHC,27.2,15,0,22,7.16,4.73,-0.14,-0.35,100.5,4.55,-8,-0.8,.98,-0.0,-0.6,-6,.447,.495,,Amateur Draft
+2003,582,David Wells*,/players/w/wellsda01.shtml,wellsda01,40,NYY,213.0,31,30,101,4.27,4.84,-0.30,0.17,97.4,5.17,22,2.2,2.27,-0.1,4.3,45,.572,.514,"$3,250,000",Free Agency
 2003,583,Kip Wells,/players/w/wellski01.shtml,wellski01,26,PIT,197.1,31,31,77,3.51,4.67,-0.05,0.18,101.0,4.94,31,3.3,,-0.1,4.9,49,.608,.521,"$370,000",Traded
-2003,584,Turk Wendell,/players/w/wendetu01.shtml,wendetu01,36,PHI,64.0,56,0,24,3.38,4.71,0.13,-0.35,92.9,3.93,4,0.4,1.3,-0.1,0.9,10,.507,.502,"$3,350,000",Traded
-2003,585,Jake Westbrook,/players/w/westbja01.shtml,westbja01,25,CLE,133.0,34,22,70,4.74,4.75,0.17,0.12,97.0,4.56,-2,-0.2,1.6,-0.1,1.0,12,.493,.499,"$305,500",Traded
-2003,586,Dan Wheeler,/players/w/wheelda01.shtml,wheelda01,25,NYM,51.0,35,0,23,4.06,4.90,-0.26,-0.36,97.0,4.65,3,0.3,1.0,-0.1,0.7,8,.509,.502,,Free Agency
-2003,587,Gabe White*,/players/w/whitega01.shtml,whitega01,31,2TM,46.2,46,0,22,4.24,4.84,-0.05,-0.36,97.2,4.40,1,0.1,1.8,-0.1,0.4,5,.502,.500,"$3,316,667",Traded
-2003,588,Matt White*,/players/w/whitema03.shtml,whitema03,25,2TM,5.2,6,0,14,22.24,5.29,-0.06,-0.40,98.4,4.90,-11,-0.9,.4,0.2,-0.6,-10,.355,.497,"$300,000",Rule 5 Draft
-2003,589,Rick White,/players/w/whiteri01.shtml,whiteri01,34,2TM,67.0,49,0,48,6.45,4.70,0.21,-0.35,102.4,4.24,-16,-1.6,.6,0.1,-0.7,-9,.468,.494,"$600,000",Free Agency
+2003,584,Turk Wendell,/players/w/wendetu01.shtml,wendetu01,36,PHI,64.0,56,0,24,3.38,4.71,0.13,-0.35,92.9,3.93,4,0.4,1.32,-0.1,0.9,10,.507,.502,"$3,350,000",Traded
+2003,585,Jake Westbrook,/players/w/westbja01.shtml,westbja01,25,CLE,133.0,34,22,70,4.74,4.75,0.17,0.12,97.0,4.56,-2,-0.2,1.62,-0.1,1.0,12,.493,.499,"$305,500",Traded
+2003,586,Dan Wheeler,/players/w/wheelda01.shtml,wheelda01,25,NYM,51.0,35,0,23,4.06,4.90,-0.26,-0.36,97.0,4.65,3,0.3,1.03,-0.1,0.7,8,.509,.502,,Free Agency
+2003,587,Gabe White*,/players/w/whitega01.shtml,whitega01,31,2TM,46.2,46,0,22,4.24,4.84,-0.05,-0.36,97.2,4.40,1,0.1,1.77,-0.1,0.4,5,.502,.500,"$3,316,667",Traded
+2003,588,Matt White*,/players/w/whitema03.shtml,whitema03,25,2TM,5.2,6,0,14,22.24,5.29,-0.06,-0.40,98.4,4.90,-11,-0.9,.41,0.2,-0.6,-10,.355,.497,"$300,000",Rule 5 Draft
+2003,589,Rick White,/players/w/whiteri01.shtml,whiteri01,34,2TM,67.0,49,0,48,6.45,4.70,0.21,-0.35,102.4,4.24,-16,-1.6,.63,0.1,-0.7,-9,.468,.494,"$600,000",Free Agency
 2003,590,Jerome Williams,/players/w/willije01.shtml,willije01,21,SFG,131.0,21,21,54,3.71,4.70,0.21,0.18,98.6,4.60,12,1.3,,-0.1,2.3,24,.563,.508,,Amateur Draft
-2003,591,Mike Williams,/players/w/willimi03.shtml,willimi03,34,2TM,63.0,68,0,44,6.29,4.77,0.02,-0.35,98.2,4.32,-14,-1.4,1.5,-0.4,-1.3,-8,.479,.496,"$3,500,000",Traded
-2003,592,Woody Williams,/players/w/williwo02.shtml,williwo02,36,STL,220.2,34,33,101,4.12,4.67,-0.06,0.18,96.0,4.71,13,1.4,3.5,-0.1,3.1,34,.541,.509,"$6,000,000",Free Agency
-2003,593,Scott Williamson,/players/w/willisc01.shtml,willisc01,27,2TM,62.2,66,0,30,4.31,4.83,-0.03,-0.36,98.4,4.42,1,0.1,1.6,0.0,0.7,7,.501,.501,"$1,600,000",Traded
+2003,591,Mike Williams,/players/w/willimi03.shtml,willimi03,34,2TM,63.0,68,0,44,6.29,4.77,0.02,-0.35,98.2,4.32,-14,-1.4,1.50,-0.4,-1.3,-8,.479,.496,"$3,500,000",Traded
+2003,592,Woody Williams,/players/w/williwo02.shtml,williwo02,36,STL,220.2,34,33,101,4.12,4.67,-0.06,0.18,96.0,4.71,13,1.4,3.48,-0.1,3.1,34,.541,.509,"$6,000,000",Free Agency
+2003,593,Scott Williamson,/players/w/willisc01.shtml,willisc01,27,2TM,62.2,66,0,30,4.31,4.83,-0.03,-0.36,98.4,4.42,1,0.1,1.59,0.0,0.7,7,.501,.501,"$1,600,000",Traded
 2003,594,Dontrelle Willis*,/players/w/willido03.shtml,willido03,21,FLA,160.2,27,27,61,3.42,4.69,-0.09,0.18,96.9,4.81,24,2.6,,-0.1,3.9,39,.597,.516,"$234,426",Traded
-2003,595,Kris Wilson,/players/w/wilsokr01.shtml,wilsokr01,26,KCR,72.2,29,4,49,6.07,4.80,-0.34,-0.20,110.4,5.46,-5,-0.5,1.1,-0.1,0.2,3,.484,.497,"$311,000",Amateur Draft
+2003,595,Kris Wilson,/players/w/wilsokr01.shtml,wilsokr01,26,KCR,72.2,29,4,49,6.07,4.80,-0.34,-0.20,110.4,5.46,-5,-0.5,1.06,-0.1,0.2,3,.484,.497,"$311,000",Amateur Draft
 2003,596,Paul Wilson,/players/w/wilsopa02.shtml,wilsopa02,30,CIN,166.2,28,28,97,5.24,4.65,0.03,0.18,94.1,4.52,-14,-1.4,,-0.1,-0.1,1,.451,.492,"$500,000",Free Agency
-2003,597,Jay Witasick,/players/w/witasja01.shtml,witasja01,30,SDP,45.2,46,0,24,4.73,4.72,0.00,-0.35,90.7,3.97,-4,-0.4,1.7,-0.2,-0.2,0,.491,.497,"$750,000",Free Agency
+2003,597,Jay Witasick,/players/w/witasja01.shtml,witasja01,30,SDP,45.2,46,0,24,4.73,4.72,0.00,-0.35,90.7,3.97,-4,-0.4,1.68,-0.2,-0.2,0,.491,.497,"$750,000",Free Agency
 2003,598,Randy Wolf*,/players/w/wolfra02.shtml,wolfra02,26,PHI,200.0,33,33,101,4.55,4.61,0.12,0.18,91.4,4.27,-7,-0.7,,-0.1,0.9,11,.479,.496,"$2,375,000",Amateur Draft
 2003,599,Kerry Wood,/players/w/woodke02.shtml,woodke02,26,CHC,211.0,32,32,77,3.28,4.75,-0.13,0.18,99.7,5.05,41,4.5,,-0.1,6.2,60,.641,.528,"$6,190,000",Amateur Draft
-2003,600,Mike Wood,/players/w/woodmi01.shtml,woodmi01,23,OAK,13.2,7,1,17,11.20,5.23,0.03,-0.30,98.3,4.82,-10,-0.8,1.0,-0.0,-0.7,-8,.379,.495,,Amateur Draft
-2003,601,Steve Woodard,/players/w/woodast01.shtml,woodast01,28,BOS,17.2,7,0,10,5.09,4.85,-0.16,-0.36,106.0,4.93,-0,-0.0,.6,-0.0,0.1,2,.496,.500,,Free Agency
-2003,602,Tim Worrell,/players/w/worreti01.shtml,worreti01,35,SFG,78.1,76,0,35,4.02,4.48,0.22,-0.33,99.4,3.91,-1,-0.1,1.8,-0.2,0.3,6,.498,.499,"$2,000,000",Traded
-2003,603,Dan Wright,/players/w/wrighda02.shtml,wrighda02,25,CHW,86.1,20,15,63,6.57,4.78,0.14,0.08,102.6,4.84,-16,-1.5,1.1,-0.1,-0.7,-7,.425,.491,"$325,000",Amateur Draft
+2003,600,Mike Wood,/players/w/woodmi01.shtml,woodmi01,23,OAK,13.2,7,1,17,11.20,5.23,0.03,-0.30,98.3,4.82,-10,-0.8,1.00,-0.0,-0.7,-8,.379,.495,,Amateur Draft
+2003,601,Steve Woodard,/players/w/woodast01.shtml,woodast01,28,BOS,17.2,7,0,10,5.09,4.85,-0.16,-0.36,106.0,4.93,-0,-0.0,.61,-0.0,0.1,2,.496,.500,,Free Agency
+2003,602,Tim Worrell,/players/w/worreti01.shtml,worreti01,35,SFG,78.1,76,0,35,4.02,4.48,0.22,-0.33,99.4,3.91,-1,-0.1,1.82,-0.2,0.3,6,.498,.499,"$2,000,000",Traded
+2003,603,Dan Wright,/players/w/wrighda02.shtml,wrighda02,25,CHW,86.1,20,15,63,6.57,4.78,0.14,0.08,102.6,4.84,-16,-1.5,1.09,-0.1,-0.7,-7,.425,.491,"$325,000",Amateur Draft
 2003,604,Jamey Wright,/players/w/wrighja01.shtml,wrighja01,28,KCR,25.1,4,4,14,4.97,4.42,-0.27,0.17,98.5,4.79,-0,-0.0,,-0.0,0.2,2,.489,.500,,Free Agency
-2003,605,Jaret Wright,/players/w/wrighja02.shtml,wrighja02,27,2TM,56.1,50,0,46,7.35,4.69,0.03,-0.35,94.4,4.08,-21,-2.0,1.0,-0.2,-1.7,-16,.460,.490,"$725,000",Waivers
-2003,606,Kelly Wunsch*,/players/w/wunscke01.shtml,wunscke01,30,CHW,36.0,43,0,13,3.25,4.98,0.11,-0.37,103.2,4.64,6,0.6,.8,-0.1,0.8,10,.513,.503,"$575,000",Free Agency
-2003,607,Esteban Yan,/players/y/yanes01.shtml,yanes01,28,2TM,66.2,54,0,48,6.48,4.92,0.08,-0.37,100.3,4.48,-15,-1.5,.9,-0.0,-0.8,-8,.473,.495,"$1,500,000",Traded
-2003,608,Jason Young,/players/y/youngja01.shtml,youngja01,23,COL,21.1,8,3,22,9.28,4.17,0.07,-0.04,128.8,5.22,-10,-0.9,.1,0.2,-0.6,-8,.388,.494,,Amateur Draft
+2003,605,Jaret Wright,/players/w/wrighja02.shtml,wrighja02,27,2TM,56.1,50,0,46,7.35,4.69,0.03,-0.35,94.4,4.08,-21,-2.0,1.04,-0.2,-1.7,-16,.460,.490,"$725,000",Waivers
+2003,606,Kelly Wunsch*,/players/w/wunscke01.shtml,wunscke01,30,CHW,36.0,43,0,13,3.25,4.98,0.11,-0.37,103.2,4.64,6,0.6,.77,-0.1,0.8,10,.513,.503,"$575,000",Free Agency
+2003,607,Esteban Yan,/players/y/yanes01.shtml,yanes01,28,2TM,66.2,54,0,48,6.48,4.92,0.08,-0.37,100.3,4.48,-15,-1.5,.85,-0.0,-0.8,-8,.473,.495,"$1,500,000",Free Agency
+2003,608,Jason Young,/players/y/youngja01.shtml,youngja01,23,COL,21.1,8,3,22,9.28,4.17,0.07,-0.04,128.8,5.22,-10,-0.9,.09,0.2,-0.6,-8,.388,.494,,Amateur Draft
 2003,609,Carlos Zambrano,/players/z/zambrca01.shtml,zambrca01,22,CHC,214.0,32,32,88,3.70,4.79,-0.16,0.18,101.2,5.19,35,3.8,,-0.1,5.5,54,.619,.523,"$340,000",Amateur Free Agent
-2003,610,Victor Zambrano,/players/z/zambrvi01.shtml,zambrvi01,27,TBD,188.1,34,28,97,4.64,5.17,0.14,0.17,96.4,5.00,8,0.8,1.5,-0.1,2.6,29,.524,.505,"$300,000",Free Agency
-2003,611,Chad Zerbe*,/players/z/zerbech01.shtml,zerbech01,31,SFG,49.2,33,1,26,4.71,4.53,0.26,-0.29,101.3,4.04,-4,-0.4,.6,-0.0,0.0,1,.488,.498,"$317,000",Free Agency
+2003,610,Victor Zambrano,/players/z/zambrvi01.shtml,zambrvi01,27,TBD,188.1,34,28,97,4.64,5.17,0.14,0.17,96.4,5.00,8,0.8,1.46,-0.1,2.6,29,.524,.505,"$300,000",Free Agency
+2003,611,Chad Zerbe*,/players/z/zerbech01.shtml,zerbech01,31,SFG,49.2,33,1,26,4.71,4.53,0.26,-0.29,101.3,4.04,-4,-0.4,.61,-0.0,0.0,1,.488,.498,"$317,000",Free Agency
 2003,612,Barry Zito*,/players/z/zitoba01.shtml,zitoba01,25,OAK,231.2,35,35,98,3.81,4.87,0.02,0.18,98.4,4.95,30,3.1,,-0.1,5.3,56,.588,.519,"$1,000,000",Amateur Draft

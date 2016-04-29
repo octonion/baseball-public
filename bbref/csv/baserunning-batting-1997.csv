@@ -28,7 +28,7 @@
 1997	28	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	28	TOT	2	0	38%	11	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	33%	1	1	0	0	0	0	2	1	1
 1997	29	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	6	ANA	0	0	50%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1		0	0	0	0	0	0	0	0	0
 1997	30	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	22	SDP	2	0	33%	10	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	33%	1	1	0	0	0	0	2	1	1
-1997	31	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	1	SFG	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+1997	31	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	33	1	SFG	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
 1997	32	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	29	69	SDP	1	0	14%	9	0	0		0	0	0	0	0	0	0	0	1	1	0	0	0	0		0	0	0	0	0	0	0	0	0
 1997	33	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	26	140	LAD	1	0	17%	33	0	0		0	0	0	0	0	0	1	0	0	0	0	0	0	0	33%	2	1	1	2	2	0	2	1	1
 1997	34	Pedro Astacio	http://www.baseball-reference.com/players/a/astacpe01.shtml	astacpe01	28	65	TOT	1	0	29%	11	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	0%	2	2	0	0	0	0	1	1	0
@@ -123,8 +123,8 @@
 1997	123	Adrian Brown#	http://www.baseball-reference.com/players/b/brownad01.shtml	brownad01	23	167	PIT	6	0	32%	80	8	4	67%	8	3	0	1	0	0	1	1	0	0	0	0	0	5	53%	4	2	2	5	4	1	8	2	6
 1997	124	Brant Brown*	http://www.baseball-reference.com/players/b/brownbr01.shtml	brownbr01	26	148	CHC	2	0	26%	53	2	1	67%	2	1	0	0	0	0	0	0	0	0	0	0	0	4	40%	9	6	3	1	1	0	5	2	3
 1997	125	Emil Brown	http://www.baseball-reference.com/players/b/brownem01.shtml	brownem01	22	112	PIT	1	0	32%	52	5	1	83%	3	0	2	0	0	1	0	0	1	0	0	1	0	2	27%	10	7	2	1	1	0	4	2	2
-1997	126	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	32	83	FLA	0	0	29%	8	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	0	14%	1	1	0	4	3	0	2	1	1
-1997	127	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	24	5	TEX	0	0	0%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+1997	126	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	24	5	TEX	0	0	0%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+1997	127	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	32	83	FLA	0	0	29%	8	0	0		0	0	0	0	0	0	0	0	1	0	0	0	1	0	14%	1	1	0	4	3	0	2	1	1
 1997	128	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	32	191	TOR	3	0	39%	57	4	4	50%	4	4	0	0	0	0	0	0	1	1	0	0	0	6	58%	7	5	2	0	0	0	5	0	5
 1997	129	Jim Bruske	http://www.baseball-reference.com/players/b/bruskji01.shtml	bruskji01	32	6	SDP	0	0	0%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
 1997	130	Damon Buford	http://www.baseball-reference.com/players/b/buforda01.shtml	buforda01	27	404	TEX	3	0	35%	148	18	7	72%	18	7	0	0	0	0	2	2	2	0	1	1	0	7	70%	19	8	11	5	2	3	16	2	14
@@ -612,7 +612,7 @@
 1997	612	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	34	678	SEA	4	0	27%	343	2	4	33%	2	3	0	1	0	0	1	0	6	0	3	1	2	20	36%	37	27	9	14	10	3	18	5	13
 1997	613	Felix Martinez#	http://www.baseball-reference.com/players/m/martife01.shtml	martife01	23	38	KCR	0	0	18%	15	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	33%	1	1	0	1	0	1	1	1	0
 1997	614	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	25	81	MON	0	0	46%	22	0	0		0	0	0	0	0	0	0	0	1	1	0	0	0	0	25%	3	3	0	0	0	0	1	0	1
-1997	615	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	47	LAD	0	0	63%	11	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	25%	1	1	0	2	1	1	1	1	0
+1997	615	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	47	LAD	0	0	63%	11	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	25%	1	1	0	2	1	1	1	1	0
 1997	616	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	26	3	TOR	0	0	50%	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	1	1	0	0	0	0
 1997	617	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	29	685	NYY	7	0	25%	251	3	1	75%	2	1	1	0	0	0	0	0	6	0	3	0	3	15	31%	42	34	8	15	10	3	21	7	13
 1997	618	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	34	96	SEA	1	0	19%	46	0	0		0	0	0	0	0	0	0	0	4	1	2	1	0	1	39%	10	5	4	1	1	0	2	1	1

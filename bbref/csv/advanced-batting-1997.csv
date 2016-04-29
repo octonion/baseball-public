@@ -36,7 +36,7 @@
 1997	36	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	TOT	28	23	2	2.3	104	.259	.250	.264	.250	.335	.286	.416	.536	.751	43	.202	-2.4	-0.2	.348	.036	.036		/5D
 1997	37	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	ANA	6	4	1	6.7	111	.333	.333	.273	.333	.343	.333	.433	.667	.776	74	.617	-0.3	-0.0	.500	.000	.000		/5D
 1997	38	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	SDP	22	19	1	1.4	102	.238	.227	.262	.227	.333	.273	.411	.500	.744	35	.094	-2.1	-0.2	.316	.045	.045		/5
-1997	39	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	SFG	1	1	0	0.0	107		.000	.268	.000	.340	.000	.421	.000	.761	-100	.000	-0.3	-0.0	.000	.000	.000		/1
+1997	39	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	33	SFG	1	1	0	0.0	107		.000	.268	.000	.340	.000	.421	.000	.761	-100	.000	-0.3	-0.0	.000	.000	.000		/1
 1997	40	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	29	SDP	69	64	1	0.4	102	.111	.067	.262	.097	.333	.083	.411	.180	.744	-51	.011	-13.0	-1.3	.123	.050	.017		1
 1997	41	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	26	LAD	140	101	17	4.5	102	.329	.244	.262	.293	.333	.435	.411	.728	.744	94	.465	-1.6	-0.2	.653	.252	.191	.0	7
 1997	42	Paul Assenmacher*	http://www.baseball-reference.com/players/a/assenpa01.shtml	assenpa01	36	CLE	0	0														.000	0.0	0.0					1
@@ -303,9 +303,9 @@
 1997	303	Mark Davis*	http://www.baseball-reference.com/players/d/davisma01.shtml	davisma01	36	MIL	0	0														.000	0.0	0.0					1
 1997	304	Russ Davis	http://www.baseball-reference.com/players/d/davisru01.shtml	davisru01	27	SEA	455	324	62	5.1	107	.311	.271	.269	.317	.338	.488	.425	.805	.763	109	.496	3.8	0.4	.746	.290	.217	9.2	*5/D
 1997	305	Tim Davis*	http://www.baseball-reference.com/players/d/davisti01.shtml	davisti01	26	SEA	0	0														.000	0.0	0.0					/1
-1997	306	Rick DeHart*	http://www.baseball-reference.com/players/d/deharri01.shtml	deharri01	27	MON	2	2	0	0.0	107		.000	.270	.000	.341	.000	.422	.000	.764	-100	.000	-0.6	-0.1	.000	.000	.000		1
-1997	307	Mike DeJean	http://www.baseball-reference.com/players/d/dejeami01.shtml	dejeami01	26	COL	4	3	1	8.9	126	.500	.333	.295	.333	.370	.667	.463	1.000	.833	134	.752	0.2	0.0	1.000	.333	.333		1
-1997	308	Roland DeLaMaza	http://www.baseball-reference.com/players/d/delamro01.shtml	delamro01	25	KCR	0	0														.000	0.0	0.0					/1
+1997	306	Roland de la Maza	http://www.baseball-reference.com/players/d/delamro01.shtml	delamro01	25	KCR	0	0														.000	0.0	0.0					/1
+1997	307	Rick DeHart*	http://www.baseball-reference.com/players/d/deharri01.shtml	deharri01	27	MON	2	2	0	0.0	107		.000	.270	.000	.341	.000	.422	.000	.764	-100	.000	-0.6	-0.1	.000	.000	.000		1
+1997	308	Mike DeJean	http://www.baseball-reference.com/players/d/dejeami01.shtml	dejeami01	26	COL	4	3	1	8.9	126	.500	.333	.295	.333	.370	.667	.463	1.000	.833	134	.752	0.2	0.0	1.000	.333	.333		1
 1997	309	Carlos Delgado*	http://www.baseball-reference.com/players/d/delgaca01.shtml	delgaca01	25	TOR	595	396	98	6.6	108	.294	.262	.270	.350	.339	.528	.427	.878	.766	127	.612	20.4	1.9	.875	.383	.266	.0	*3D
 1997	310	Wilson Delgado#	http://www.baseball-reference.com/players/d/delgawi01.shtml	delgawi01	24	SFG	8	7	0	0.0	107	.200	.143	.268	.143	.340	.286	.421	.429	.760	10	.000	-0.9	-0.1	.333	.143	.143		/46
 1997	311	David Dellucci*	http://www.baseball-reference.com/players/d/delluda01.shtml	delluda01	23	BAL	32	23	3	3.5	106	.263	.222	.267	.344	.337	.370	.423	.714	.760	90	.328	-0.3	-0.0	.652	.296	.148	.0	/9D7
@@ -768,7 +768,7 @@
 1997	768	Felix Martinez#	http://www.baseball-reference.com/players/m/martife01.shtml	martife01	23	KCR	38	26	4	4.1	110	.304	.226	.272	.351	.342	.323	.431	.674	.773	78	.398	-1.0	-0.1	.640	.290	.097		6/D
 1997	769	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	28	CIN	0	0														.000	0.0	0.0					/1
 1997	770	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	25	MON	81	72	2	0.7	107	.195	.116	.269	.153	.341	.174	.423	.327	.764	-14	.031	-11.9	-1.2	.238	.101	.058		1
-1997	771	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	LAD	47	39	2	1.4	102	.258	.190	.262	.190	.333	.214	.411	.405	.744	9	.089	-5.4	-0.5	.265	.024	.024		1
+1997	771	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	LAD	47	39	2	1.4	102	.258	.190	.262	.190	.333	.214	.411	.405	.744	9	.089	-5.4	-0.5	.265	.024	.024		1
 1997	772	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	26	TOR	3	2	0	0.0	108	.000	.000	.270	.333	.339	.000	.427	.333	.766	-2	.000	-0.3	-0.0	.500	.500	.000		/2
 1997	773	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	29	NYY	685	447	128	7.7	109	.270	.296	.271	.371	.341	.577	.429	.948	.770	143	.673	38.3	3.5	.975	.411	.281	5.6	*3/D
 1997	774	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	34	SEA	96	66	11	4.5	107	.338	.287	.269	.340	.338	.356	.425	.697	.763	85	.434	-2.0	-0.2	.594	.149	.069	.0	2/D

@@ -133,8 +133,8 @@
 1992	133	Scott Brosius	http://www.baseball-reference.com/players/b/brosisc01.shtml	brosisc01	25	OAK	93	69	9	3.5	89	.211	.218	.252	.258	.320	.379	.375	.637	.695	82	.398	-2.5	-0.3	.603	.230	.161	3.4	95/73D6
 1992	134	Jarvis Brown	http://www.baseball-reference.com/players/b/brownja03.shtml	brownja03	25	MIN	18	16	0	0.0	96	.091	.067	.262	.222	.331	.067	.388	.289	.719	-16	.000	-2.4	-0.2	.250	.133	.000	.0	9/87D
 1992	135	Keith Brown#	http://www.baseball-reference.com/players/b/brownke02.shtml	brownke02	28	CIN	3	3	0	0.0	96	.000	.000	.264	.000	.330	.000	.388	.000	.718	-100	.000	-0.5	-0.1	.000	.000	.000		/1
-1992	136	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	27	TEX	0	0														.000	0.0	0.0					1
-1992	137	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	26	SEA	0	0														.000	0.0	0.0					/1
+1992	136	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	26	SEA	0	0														.000	0.0	0.0					/1
+1992	137	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	27	TEX	0	0														.000	0.0	0.0					1
 1992	138	Jerry Browne#	http://www.baseball-reference.com/players/b/brownje01.shtml	brownje01	26	OAK	390	263	46	4.7	89	.314	.287	.252	.366	.320	.364	.375	.731	.695	112	.530	7.4	0.8	.672	.201	.077	3.0	5847/9D6
 1992	139	Tom Browning*	http://www.baseball-reference.com/players/b/brownto05.shtml	brownto05	32	CIN	35	28	2	1.9	95	.269	.226	.264	.242	.330	.258	.388	.500	.718	40	.199	-2.5	-0.3	.360	.065	.032		1
 1992	140	J.T. Bruett*	http://www.baseball-reference.com/players/b/bruetj.01.shtml	bruetj.01	24	MIN	84	61	8	3.5	96	.297	.250	.262	.313	.331	.303	.388	.616	.719	73	.401	-2.8	-0.3	.550	.171	.053	.0	98/7D
@@ -418,8 +418,8 @@
 1992	418	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	27	TOT	3	2	0	0.0	94	.500	.333	.261	.333	.327	.333	.385	.667	.712	88	.000	-0.1	-0.0	.500	.000	.000		1
 1992	419	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	27	SEA	0	0														.000	0.0	0.0					/1
 1992	420	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	27	SDP	3	2	0	0.0	94	.500	.333	.261	.333	.327	.333	.385	.667	.712	88	.000	-0.1	-0.0	.500	.000	.000		1
-1992	421	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	28	SDP	41	32	2	1.7	94	.222	.129	.261	.250	.327	.161	.385	.411	.712	18	.163	-3.3	-0.4	.370	.194	.032		1
-1992	422	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	36	BOS	0	0														.000	0.0	0.0					1
+1992	421	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	36	BOS	0	0														.000	0.0	0.0					1
+1992	422	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	28	SDP	41	32	2	1.7	94	.222	.129	.261	.250	.327	.161	.385	.411	.712	18	.163	-3.3	-0.4	.370	.194	.032		1
 1992	423	Lenny Harris*	http://www.baseball-reference.com/players/h/harrile01.shtml	harrile01	27	LAD	380	278	33	3.2	91	.289	.271	.258	.318	.323	.303	.380	.621	.703	78	.387	-9.8	-1.0	.526	.135	.032	.0	456/97
 1992	424	Mike Hartley	http://www.baseball-reference.com/players/h/hartlmi01.shtml	hartlmi01	30	PHI	4	4	0	0.0	92	.000	.000	.259	.000	.324	.000	.382	.000	.706	-100	.000	-1.1	-0.1	.000	.000	.000		1
 1992	425	Jeff Hartsock	http://www.baseball-reference.com/players/h/hartsje01.shtml	hartsje01	25	CHC	2	2	0	0.0	95	.000	.000	.262	.000	.328	.000	.386	.000	.715	-100	.000	-0.5	-0.1	.000	.000	.000		/1
@@ -637,7 +637,7 @@
 1992	637	Domingo Martinez	http://www.baseball-reference.com/players/m/martido02.shtml	martido02	24	TOR	8	3	5	44.8	97	.667	.625	.264	.625	.334	1.000	.392	1.625	.725	343	.986	2.4	0.2	2.667	.375	.375	.0	/3
 1992	638	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	29	SEA	592	372	116	8.4	94	.359	.343	.259	.404	.328	.544	.385	.948	.713	164	.765	46.7	4.6	.970	.322	.201	15.8	5D/3
 1992	639	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	20	LAD	2	2	0	0.0	91	.000	.000	.258	.000	.324	.000	.380	.000	.703	-100	.000	-0.5	-0.1	.000	.000	.000		/1
-1992	640	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	24	LAD	55	49	1	0.6	91	.167	.120	.258	.120	.323	.120	.380	.240	.703	-31	.024	-8.8	-0.9	.136	.000	.000		1
+1992	640	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	24	LAD	55	49	1	0.6	91	.167	.120	.258	.120	.323	.120	.380	.240	.703	-31	.024	-8.8	-0.9	.136	.000	.000		1
 1992	641	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	24	SEA	513	376	54	3.9	94	.272	.257	.259	.316	.328	.411	.385	.727	.713	103	.440	1.2	0.1	.638	.248	.154	3.6	3D
 1992	642	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	29	BOS	54	47	1	0.6	99	.105	.080	.266	.132	.336	.160	.395	.292	.731	-20	.023	-8.5	-0.9	.239	.120	.080		2/D
 1992	643	Roger Mason	http://www.baseball-reference.com/players/m/masonro01.shtml	masonro01	34	PIT	11	11	0	0.0	92	.000	.000	.259	.091	.325	.000	.381	.091	.706	-72	.000	-2.3	-0.2	.091	.100	.000		1
@@ -862,8 +862,8 @@
 1992	862	Don Robinson	http://www.baseball-reference.com/players/r/robindo01.shtml	robindo01	35	CAL	0	0														.000	0.0	0.0					/1
 1992	863	Don Robinson	http://www.baseball-reference.com/players/r/robindo01.shtml	robindo01	35	PHI	18	12	3	6.8	92	.538	.389	.259	.389	.325	.556	.381	.944	.706	165	.711	1.5	0.2	.833	.167	.167		/1
 1992	864	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	30	TOT	13	12	0	0.0	92	.333	.091	.259	.091	.325	.091	.381	.182	.706	-48	.000	-2.2	-0.2	.100	.000	.000		1
-1992	865	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	30	TEX	0	0														.000	0.0	0.0					1
-1992	866	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje01.shtml	robinje01	31	CHC	14	14	0	0.0	95	.000	.000	.262	.000	.328	.000	.386	.000	.715	-100	.000	-3.2	-0.3	.000	.000	.000		1
+1992	865	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje01.shtml	robinje01	31	CHC	14	14	0	0.0	95	.000	.000	.262	.000	.328	.000	.386	.000	.715	-100	.000	-3.2	-0.3	.000	.000	.000		1
+1992	866	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	30	TEX	0	0														.000	0.0	0.0					1
 1992	867	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	30	PIT	13	12	0	0.0	92	.333	.091	.259	.091	.325	.091	.381	.182	.706	-48	.000	-2.2	-0.2	.100	.000	.000		/1
 1992	868	Ron Robinson	http://www.baseball-reference.com/players/r/robinro01.shtml	robinro01	30	MIL	0	0														.000	0.0	0.0					/1
 1992	869	Henry Rodriguez*	http://www.baseball-reference.com/players/r/rodrihe02.shtml	rodrihe02	24	LAD	156	118	12	2.8	91	.254	.219	.258	.258	.323	.329	.380	.587	.703	66	.322	-6.8	-0.7	.483	.164	.110	.0	97/3

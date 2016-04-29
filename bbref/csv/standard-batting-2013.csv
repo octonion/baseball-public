@@ -217,8 +217,8 @@
 2013	217	Carter Capps	http://www.baseball-reference.com/players/c/cappsca01.shtml	cappsca01	22	SEA	AL	53	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 2013	218	Chris Capuano*	http://www.baseball-reference.com/players/c/capuach01.shtml	capuach01	34	LAD	NL	24	29	24	1	1	0	0	0	0	0	0	1	8	.042	.080	.042	.122	-64	1	0	0	4	0	0	1
 2013	219	Mike Carp*	http://www.baseball-reference.com/players/c/carpmi01.shtml	carpmi01	27	BOS	AL	86	243	216	34	64	18	2	9	43	1	0	22	67	.296	.362	.523	.885	139	113	3	2	0	3	0	73/D9
-2013	220	David Carpenter	http://www.baseball-reference.com/players/c/carpeda01.shtml	carpeda01	27	ATL	NL	56	4	3	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0	1
-2013	221	David Carpenter	http://www.baseball-reference.com/players/c/carpeda02.shtml	carpeda02	25	LAA	AL	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+2013	220	David Carpenter	http://www.baseball-reference.com/players/c/carpeda02.shtml	carpeda02	25	LAA	AL	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+2013	221	David Carpenter	http://www.baseball-reference.com/players/c/carpeda01.shtml	carpeda01	27	ATL	NL	56	4	3	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0	1
 2013	222	Matt Carpenter*	http://www.baseball-reference.com/players/c/carpema01.shtml	carpema01	27	STL	NL	157	717	626	126	199	55	7	11	78	3	3	72	98	.318	.392	.481	.873	140	301	4	9	3	7	1	*45/39
 2013	223	Carlos Carrasco	http://www.baseball-reference.com/players/c/carraca01.shtml	carraca01	26	CLE	AL	15	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 2013	224	Ezequiel Carrera*	http://www.baseball-reference.com/players/c/carreez01.shtml	carreez01	26	TOT	MLB	15	21	17	3	3	0	0	0	1	0	0	1	5	.176	.300	.176	.476	38	3	1	2	1	0	0	/987
@@ -841,7 +841,7 @@
 2013	841	Jordan Lyles	http://www.baseball-reference.com/players/l/lylesjo01.shtml	lylesjo01	22	HOU	AL	27	7	6	0	0	0	0	0	0	0	0	0	5	.000	.000	.000	.000	-100	0	0	0	1	0	0	1
 2013	842	Lance Lynn	http://www.baseball-reference.com/players/l/lynnla01.shtml	lynnla01	26	STL	NL	33	69	54	1	4	0	0	0	2	0	0	4	30	.074	.138	.074	.212	-39	4	0	0	11	0	0	1
 2013	843	Brandon Lyon	http://www.baseball-reference.com/players/l/lyonbr01.shtml	lyonbr01	33	NYM	NL	37	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
-2013	844	Tyler Lyons#	http://www.baseball-reference.com/players/l/lyonsty01.shtml	lyonsty01	25	STL	NL	12	13	12	0	2	0	0	0	0	0	0	0	4	.167	.167	.167	.333	-7	2	0	0	1	0	0	1
+2013	844	Tyler Lyons*	http://www.baseball-reference.com/players/l/lyonsty01.shtml	lyonsty01	25	STL	NL	12	13	12	0	2	0	0	0	0	0	0	0	4	.167	.167	.167	.333	-7	2	0	0	1	0	0	1
 2013	845	Manny Machado	http://www.baseball-reference.com/players/m/machama01.shtml	machama01	20	BAL	AL	156	710	667	88	189	51	3	14	71	6	7	29	113	.283	.314	.432	.746	102	288	15	2	9	3	0	*5
 2013	846	Jean Machi	http://www.baseball-reference.com/players/m/machije01.shtml	machije01	31	SFG	NL	51	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
 2013	847	Matt Magill	http://www.baseball-reference.com/players/m/magilma01.shtml	magilma01	23	LAD	NL	6	8	7	0	0	0	0	0	0	0	0	0	5	.000	.000	.000	.000	-100	0	0	0	1	0	0	/1
@@ -1075,8 +1075,8 @@
 2013	1075	Chris Perez	http://www.baseball-reference.com/players/p/perezch01.shtml	perezch01	27	CLE	AL	54	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 2013	1076	Eury Perez	http://www.baseball-reference.com/players/p/perezeu01.shtml	perezeu01	23	WSN	NL	9	8	8	1	1	0	0	0	0	1	0	0	3	.125	.125	.125	.250	-31	1	0	0	0	0	0	/879
 2013	1077	Hernan Perez	http://www.baseball-reference.com/players/p/perezhe01.shtml	perezhe01	22	DET	AL	34	71	66	13	13	0	1	0	5	1	0	2	15	.197	.217	.227	.445	22	15	2	0	2	1	0	4/D56
-2013	1078	Juan Perez	http://www.baseball-reference.com/players/p/perezju02.shtml	perezju02	26	SFG	NL	34	97	89	8	23	5	0	1	8	2	0	6	21	.258	.302	.348	.650	86	31	3	0	1	1	0	87/9
-2013	1079	Juan Perez	http://www.baseball-reference.com/players/p/perezju01.shtml	perezju01	34	TOR	AL	19	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
+2013	1078	Juan Perez	http://www.baseball-reference.com/players/p/perezju01.shtml	perezju01	34	TOR	AL	19	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
+2013	1079	Juan Perez	http://www.baseball-reference.com/players/p/perezju02.shtml	perezju02	26	SFG	NL	34	97	89	8	23	5	0	1	8	2	0	6	21	.258	.302	.348	.650	86	31	3	0	1	1	0	87/9
 2013	1080	Luis Perez*	http://www.baseball-reference.com/players/p/perezlu01.shtml	perezlu01	28	TOR	AL	6	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 2013	1081	Martin Perez*	http://www.baseball-reference.com/players/p/perezma02.shtml	perezma02	22	TEX	AL	20	5	5	0	0	0	0	0	0	0	0	0	4	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
 2013	1082	Oliver Perez*	http://www.baseball-reference.com/players/p/perezol01.shtml	perezol01	31	SEA	AL	61	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
@@ -1195,8 +1195,8 @@
 2013	1195	Francisco Rodriguez	http://www.baseball-reference.com/players/r/rodrifr03.shtml	rodrifr03	31	MIL	NL	25	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 2013	1196	Francisco Rodriguez	http://www.baseball-reference.com/players/r/rodrifr03.shtml	rodrifr03	31	BAL	AL	23	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 2013	1197	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	TOT	NL	22	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
-2013	1198	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	WSN	NL	17	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
-2013	1199	Henry Rodriguez#	http://www.baseball-reference.com/players/r/rodrihe04.shtml	rodrihe04	23	CIN	NL	9	10	9	0	1	0	0	0	0	0	0	1	4	.111	.200	.111	.311	-11	1	0	0	0	0	0	/4
+2013	1198	Henry Rodriguez#	http://www.baseball-reference.com/players/r/rodrihe04.shtml	rodrihe04	23	CIN	NL	9	10	9	0	1	0	0	0	0	0	0	1	4	.111	.200	.111	.311	-11	1	0	0	0	0	0	/4
+2013	1199	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	WSN	NL	17	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 2013	1200	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	CHC	NL	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 2013	1201	Paco Rodriguez*	http://www.baseball-reference.com/players/r/rodrist02.shtml	rodrist02	22	LAD	NL	76	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
 2013	1202	Sean Rodriguez	http://www.baseball-reference.com/players/r/rodrise01.shtml	rodrise01	28	TBR	AL	96	222	195	21	48	10	1	5	23	1	3	17	59	.246	.320	.385	.704	97	75	3	5	3	2	0	73/964D

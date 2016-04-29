@@ -19,7 +19,7 @@
 1994	19	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	30	FLA	7	6	0	0.0	111	.167	.167	.277	.167	.344	.167	.433	.333	.777	-13	.000	-1.0	-0.1	.200	.000	.000		1
 1994	20	Alex Arias	http://www.baseball-reference.com/players/a/ariasal01.shtml	ariasal01	26	FLA	125	94	9	2.6	111	.284	.239	.277	.298	.344	.283	.433	.582	.777	52	.234	-8.0	-0.8	.446	.115	.044		65
 1994	21	Jack Armstrong	http://www.baseball-reference.com/players/a/armstja01.shtml	armstja01	29	TEX	0	0														.000	0.0	0.0					/1
-1994	22	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	28	STL	13	11	1	2.4	108	.250	.111	.272	.200	.339	.222	.426	.422	.764	11	.217	-1.2	-0.1	.375	.222	.111		1
+1994	22	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	30	STL	13	11	1	2.4	108	.250	.111	.272	.200	.339	.222	.426	.422	.764	11	.217	-1.2	-0.1	.375	.222	.111		1
 1994	23	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	26	SDP	59	52	2	1.0	107	.267	.163	.271	.180	.337	.163	.424	.343	.761	-8	.054	-7.8	-0.8	.209	.020	.000		1
 1994	24	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	23	LAD	6	4	1	6.7	104	.500	.333	.267	.333	.333	.500	.418	.833	.751	120	.638	0.2	0.0	.750	.167	.167		/7
 1994	25	Paul Assenmacher*	http://www.baseball-reference.com/players/a/assenpa01.shtml	assenpa01	33	CHW	0	0														.000	0.0	0.0					1
@@ -380,8 +380,8 @@
 1994	380	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	29	SDP	1	1	0	0.0	107	.000	.000	.271	.000	.337	.000	.424	.000	.761	-100	.000	-0.3	-0.0	.000	.000	.000		1
 1994	381	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	29	DET	0	0														.000	0.0	0.0					1
 1994	382	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	38	TOT	0	0														.000	0.0	0.0					1
-1994	383	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	38	BOS	0	0														.000	0.0	0.0					1
-1994	384	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	30	COL	46	38	2	1.4	123	.280	.175	.294	.214	.363	.225	.460	.439	.823	8	.092	-5.9	-0.6	.324	.100	.050		1
+1994	383	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	30	COL	46	38	2	1.4	123	.280	.175	.294	.214	.363	.225	.460	.439	.823	8	.092	-5.9	-0.6	.324	.100	.050		1
+1994	384	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	38	BOS	0	0														.000	0.0	0.0					1
 1994	385	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	38	NYY	0	0														.000	0.0	0.0					/1
 1994	386	Lenny Harris*	http://www.baseball-reference.com/players/h/harrile01.shtml	harrile01	29	CIN	106	72	13	4.8	108	.352	.310	.273	.340	.340	.360	.427	.700	.768	84	.492	-2.4	-0.2	.648	.150	.050	.0	5/394
 1994	387	Bryan Harvey	http://www.baseball-reference.com/players/h/harvebr01.shtml	harvebr01	31	FLA	0	0														.000	0.0	0.0					1
@@ -430,8 +430,8 @@
 1994	430	John Hope	http://www.baseball-reference.com/players/h/hopejo01.shtml	hopejo01	23	PIT	3	2	0	0.0	110	.500	.333	.275	.333	.343	.333	.431	.667	.774	75	.000	-0.1	-0.0	.500	.000	.000		/1
 1994	431	Vince Horsman	http://www.baseball-reference.com/players/h/horsmvi01.shtml	horsmvi01	27	OAK	0	0														.000	0.0	0.0					1
 1994	432	Charlie Hough	http://www.baseball-reference.com/players/h/houghch01.shtml	houghch01	46	FLA	38	36	0	0.0	111	.167	.121	.277	.147	.344	.121	.433	.268	.777	-29	.000	-6.5	-0.6	.156	.030	.000		1
-1994	433	Chris Howard	http://www.baseball-reference.com/players/h/howarch01.shtml	howarch01	28	SEA	29	22	2	2.4	112	.250	.200	.274	.250	.346	.240	.436	.490	.782	27	.191	-2.7	-0.2	.400	.080	.040		/2
-1994	434	Chris Howard	http://www.baseball-reference.com/players/h/howarch02.shtml	howarch02	28	BOS	0	0														.000	0.0	0.0					1
+1994	433	Chris Howard	http://www.baseball-reference.com/players/h/howarch02.shtml	howarch02	28	BOS	0	0														.000	0.0	0.0					1
+1994	434	Chris Howard	http://www.baseball-reference.com/players/h/howarch01.shtml	howarch01	28	SEA	29	22	2	2.4	112	.250	.200	.274	.250	.346	.240	.436	.490	.782	27	.191	-2.7	-0.2	.400	.080	.040		/2
 1994	435	David Howard#	http://www.baseball-reference.com/players/h/howarda02.shtml	howarda02	27	KCR	100	73	9	3.3	114	.290	.229	.276	.309	.349	.313	.440	.623	.789	60	.292	-4.7	-0.4	.567	.229	.084	1.5	56/4D71
 1994	436	Thomas Howard#	http://www.baseball-reference.com/players/h/howarth01.shtml	howarth01	29	CIN	192	139	22	4.2	108	.292	.264	.273	.302	.340	.410	.427	.712	.768	85	.432	-4.4	-0.4	.630	.213	.146	4.4	79/8
 1994	437	Steve Howe*	http://www.baseball-reference.com/players/h/howest01.shtml	howest01	36	NYY	0	0														.000	0.0	0.0					1
@@ -446,8 +446,8 @@
 1994	446	David Hulse*	http://www.baseball-reference.com/players/h/hulseda01.shtml	hulseda01	26	TEX	341	242	34	3.8	111	.304	.255	.271	.305	.343	.316	.432	.622	.776	62	.344	-18.4	-1.7	.585	.181	.061	1.9	*8/D
 1994	447	Todd Hundley#	http://www.baseball-reference.com/players/h/hundlto01.shtml	hundlto01	25	NYM	323	230	40	4.7	108	.261	.237	.273	.303	.340	.443	.427	.746	.768	93	.475	-4.6	-0.4	.699	.296	.206	3.6	*2
 1994	448	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	26	TOT	278	204	35	4.6	110	.237	.234	.275	.277	.343	.480	.431	.757	.773	92	.469	-4.1	-0.4	.704	.313	.246	.0	3/79
-1994	449	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	23	HOU	26	20	2	2.7	105	.333	.250	.268	.280	.335	.292	.420	.572	.754	53	.248	-1.6	-0.2	.474	.125	.042	.0	/8
-1994	450	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	26	PIT	252	187	28	4.0	110	.246	.227	.275	.270	.343	.442	.431	.712	.774	81	.409	-7.4	-0.7	.645	.279	.215	.0	3/7
+1994	449	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	26	PIT	252	187	28	4.0	110	.246	.227	.275	.270	.343	.442	.431	.712	.774	81	.409	-7.4	-0.7	.645	.279	.215	.0	3/7
+1994	450	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	23	HOU	26	20	2	2.7	105	.333	.250	.268	.280	.335	.292	.420	.572	.754	53	.248	-1.6	-0.2	.474	.125	.042	.0	/8
 1994	451	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	26	CIN	26	17	7	11.0	108	.158	.304	.273	.346	.340	.870	.427	1.216	.768	205	.814	3.3	0.3	1.375	.652	.565	.0	/937
 1994	452	Bruce Hurst*	http://www.baseball-reference.com/players/h/hurstbr01.shtml	hurstbr01	36	TEX	0	0														.000	0.0	0.0					/1
 1994	453	James Hurst*	http://www.baseball-reference.com/players/h/hurstja01.shtml	hurstja01	27	TEX	0	0														.000	0.0	0.0					/1
@@ -587,9 +587,9 @@
 1994	587	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	40	CLE	0	0														.000	0.0	0.0					1
 1994	588	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	31	SEA	387	242	66	7.3	112	.292	.285	.274	.387	.346	.482	.436	.869	.782	122	.638	12.7	1.2	.916	.371	.196	8.2	5D
 1994	589	Jose Martinez	http://www.baseball-reference.com/players/m/martijo06.shtml	martijo06	23	SDP	2	2	0	0.0	107	.000	.000	.270	.000	.338	.000	.424	.000	.761	-100	.000	-0.6	-0.1	.000	.000	.000		/1
-1994	590	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	22	MON	53	47	1	0.6	110	.167	.091	.275	.146	.343	.136	.431	.282	.774	-26	.019	-8.5	-0.8	.220	.114	.045		1
-1994	591	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	25	SDP	5	5	0	0.0	107	.000	.000	.271	.000	.337	.000	.424	.000	.761	-100	.000	-1.5	-0.1	.000	.000	.000		1
-1994	592	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	26	LAD	72	56	5	2.4	104	.375	.273	.267	.284	.333	.318	.418	.602	.751	61	.211	-3.7	-0.4	.392	.030	.045		1
+1994	590	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	25	SDP	5	5	0	0.0	107	.000	.000	.271	.000	.337	.000	.424	.000	.761	-100	.000	-1.5	-0.1	.000	.000	.000		1
+1994	591	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	22	MON	53	47	1	0.6	110	.167	.091	.275	.146	.343	.136	.431	.282	.774	-26	.019	-8.5	-0.8	.220	.114	.045		1
+1994	592	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	26	LAD	72	56	5	2.4	104	.375	.273	.267	.284	.333	.318	.418	.602	.751	61	.211	-3.7	-0.4	.392	.030	.045		1
 1994	593	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	26	SEA	366	261	51	5.2	112	.254	.261	.274	.320	.346	.508	.436	.828	.782	109	.490	3.1	0.3	.772	.331	.246	1.9	*3/D
 1994	594	Roger Mason	http://www.baseball-reference.com/players/m/masonro01.shtml	masonro01	36	TOT	0	0														.000	0.0	0.0					1
 1994	595	Roger Mason	http://www.baseball-reference.com/players/m/masonro01.shtml	masonro01	36	PHI	0	0														.000	0.0	0.0					/1

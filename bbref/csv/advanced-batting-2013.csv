@@ -538,8 +538,8 @@
 2013	538	Edgar Gonzalez	http://www.baseball-reference.com/players/g/gonzaed01.shtml	gonzaed01	30	HOU	0	0														.000	0.0	0.0					/1
 2013	539	Gio Gonzalez	http://www.baseball-reference.com/players/g/gonzagi01.shtml	gonzagi01	27	WSN	66	61	1	0.4	99	.103	.089	.261	.121	.327	.161	.406	.281	.732	-23	.015	-9.8	-1.0	.208	.089	.071	.0	1
 2013	540	Marwin Gonzalez#	http://www.baseball-reference.com/players/g/gonzama01.shtml	gonzama01	24	HOU	222	175	16	2.5	96	.250	.221	.255	.252	.320	.319	.404	.571	.723	58	.245	-12.2	-1.2	.470	.162	.098	4.8	64/5D
-2013	541	Miguel Gonzalez	http://www.baseball-reference.com/players/g/gonzami04.shtml	gonzami04	22	CHW	9	7	0	0.0	100	.333	.222	.261	.222	.326	.222	.413	.444	.739	22	.000	-1.0	-0.1	.286	.000	.000		/2D
-2013	542	Miguel Gonzalez	http://www.baseball-reference.com/players/g/gonzami03.shtml	gonzami03	29	BAL	4	5	0	0.0	100	.000	.000	.260	.000	.325	.000	.411	.000	.735	-100	.000	-0.8	-0.1	.000	.000	.000		1
+2013	541	Miguel Gonzalez	http://www.baseball-reference.com/players/g/gonzami03.shtml	gonzami03	29	BAL	4	5	0	0.0	100	.000	.000	.260	.000	.325	.000	.411	.000	.735	-100	.000	-0.8	-0.1	.000	.000	.000		1
+2013	542	Miguel Gonzalez	http://www.baseball-reference.com/players/g/gonzami04.shtml	gonzami04	22	CHW	9	7	0	0.0	100	.333	.222	.261	.222	.326	.222	.413	.444	.739	22	.000	-1.0	-0.1	.286	.000	.000		/2D
 2013	543	Mike Gonzalez	http://www.baseball-reference.com/players/g/gonzami02.shtml	gonzami02	35	MIL	0	0														.000	0.0	0.0					1
 2013	544	Alex Gordon*	http://www.baseball-reference.com/players/g/gordoal01.shtml	gordoal01	29	KCR	700	478	92	5.2	100	.310	.265	.260	.327	.325	.422	.411	.749	.736	103	.559	2.2	0.2	.712	.251	.156	14.2	*7
 2013	545	Dee Gordon*	http://www.baseball-reference.com/players/g/gordode01.shtml	gordode01	25	LAD	106	75	11	4.0	93	.292	.234	.253	.314	.318	.298	.394	.612	.711	75	.460	-3.2	-0.3	.635	.255	.064	1.8	6/4
@@ -841,7 +841,7 @@
 2013	841	Jordan Lyles	http://www.baseball-reference.com/players/l/lylesjo01.shtml	lylesjo01	22	HOU	7	7	0	0.0	96	.000	.000	.255	.000	.320	.000	.404	.000	.723	-100	.000	-1.6	-0.2	.000	.000	.000		1
 2013	842	Lance Lynn	http://www.baseball-reference.com/players/l/lynnla01.shtml	lynnla01	26	STL	69	61	1	0.4	97	.167	.074	.259	.138	.324	.074	.402	.212	.727	-39	.015	-10.4	-1.1	.160	.074	.000		1
 2013	843	Brandon Lyon	http://www.baseball-reference.com/players/l/lyonbr01.shtml	lyonbr01	33	NYM	0	0														.000	0.0	0.0					1
-2013	844	Tyler Lyons#	http://www.baseball-reference.com/players/l/lyonsty01.shtml	lyonsty01	25	STL	13	11	0	0.0	97	.250	.167	.259	.167	.324	.167	.402	.333	.727	-7	.000	-1.8	-0.2	.200	.000	.000		1
+2013	844	Tyler Lyons*	http://www.baseball-reference.com/players/l/lyonsty01.shtml	lyonsty01	25	STL	13	11	0	0.0	97	.250	.167	.259	.167	.324	.167	.402	.333	.727	-7	.000	-1.8	-0.2	.200	.000	.000		1
 2013	845	Manny Machado	http://www.baseball-reference.com/players/m/machama01.shtml	machama01	20	BAL	710	512	85	4.5	100	.322	.283	.260	.314	.325	.432	.411	.746	.736	102	.492	0.4	0.0	.636	.190	.148	8.4	*5
 2013	846	Jean Machi	http://www.baseball-reference.com/players/m/machije01.shtml	machije01	31	SFG	1	1	0	0.0	91		.000	.250	.000	.314	.000	.388	.000	.702	-100	.000	-0.3	-0.0	.000	.000	.000		1
 2013	847	Matt Magill	http://www.baseball-reference.com/players/m/magilma01.shtml	magilma01	23	LAD	8	8	0	0.0	93	.000	.000	.253	.000	.317	.000	.393	.000	.711	-100	.000	-1.9	-0.2	.000	.000	.000		/1
@@ -1075,8 +1075,8 @@
 2013	1075	Chris Perez	http://www.baseball-reference.com/players/p/perezch01.shtml	perezch01	27	CLE	0	0														.000	0.0	0.0					1
 2013	1076	Eury Perez	http://www.baseball-reference.com/players/p/perezeu01.shtml	perezeu01	23	WSN	8	7	0	0.0	99	.200	.125	.261	.125	.327	.125	.406	.250	.732	-31	.000	-1.5	-0.2	.286	.125	.000	.0	/879
 2013	1077	Hernan Perez	http://www.baseball-reference.com/players/p/perezhe01.shtml	perezhe01	22	DET	71	58	3	1.4	100	.250	.197	.261	.217	.326	.227	.413	.445	.739	22	.102	-7.4	-0.8	.327	.076	.030	.0	4/D56
-2013	1078	Juan Perez	http://www.baseball-reference.com/players/p/perezju02.shtml	perezju02	26	SFG	97	71	9	3.4	91	.324	.258	.250	.302	.314	.348	.388	.650	.702	86	.395	-1.4	-0.2	.565	.180	.090	1.3	87/9
-2013	1079	Juan Perez	http://www.baseball-reference.com/players/p/perezju01.shtml	perezju01	34	TOR	0	0														.000	0.0	0.0					1
+2013	1078	Juan Perez	http://www.baseball-reference.com/players/p/perezju01.shtml	perezju01	34	TOR	0	0														.000	0.0	0.0					1
+2013	1079	Juan Perez	http://www.baseball-reference.com/players/p/perezju02.shtml	perezju02	26	SFG	97	71	9	3.4	91	.324	.258	.250	.302	.314	.348	.388	.650	.702	86	.395	-1.4	-0.2	.565	.180	.090	1.3	87/9
 2013	1080	Luis Perez*	http://www.baseball-reference.com/players/p/perezlu01.shtml	perezlu01	28	TOR	0	0														.000	0.0	0.0					/1
 2013	1081	Martin Perez*	http://www.baseball-reference.com/players/p/perezma02.shtml	perezma02	22	TEX	5	5	0	0.0	100	.000	.000	.260	.000	.325	.000	.411	.000	.736	-100	.000	-1.4	-0.1	.000	.000	.000		1
 2013	1082	Oliver Perez*	http://www.baseball-reference.com/players/p/perezol01.shtml	perezol01	31	SEA	0	0														.000	0.0	0.0					1
@@ -1195,8 +1195,8 @@
 2013	1195	Francisco Rodriguez	http://www.baseball-reference.com/players/r/rodrifr03.shtml	rodrifr03	31	MIL	0	0														.000	0.0	0.0					1
 2013	1196	Francisco Rodriguez	http://www.baseball-reference.com/players/r/rodrifr03.shtml	rodrifr03	31	BAL	0	0														.000	0.0	0.0					1
 2013	1197	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	TOT	0	0														.000	0.0	0.0					1
-2013	1198	Henry Rodriguez#	http://www.baseball-reference.com/players/r/rodrihe04.shtml	rodrihe04	23	CIN	10	8	0	0.0	97	.200	.111	.259	.200	.324	.111	.402	.311	.727	-11	.000	-1.4	-0.1	.250	.111	.000		/4
-2013	1199	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	WSN	0	0														.000	0.0	0.0					1
+2013	1198	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	WSN	0	0														.000	0.0	0.0					1
+2013	1199	Henry Rodriguez#	http://www.baseball-reference.com/players/r/rodrihe04.shtml	rodrihe04	23	CIN	10	8	0	0.0	97	.200	.111	.259	.200	.324	.111	.402	.311	.727	-11	.000	-1.4	-0.1	.250	.111	.000		/4
 2013	1200	Henry Rodriguez	http://www.baseball-reference.com/players/r/rodrihe03.shtml	rodrihe03	26	CHC	0	0														.000	0.0	0.0					/1
 2013	1201	Paco Rodriguez*	http://www.baseball-reference.com/players/r/rodrist02.shtml	rodrist02	22	LAD	1	1	0	0.0	93		.000	.253	.000	.318	.000	.394	.000	.712	-100	.000	-0.3	-0.0	.000	.000	.000		1
 2013	1202	Sean Rodriguez	http://www.baseball-reference.com/players/r/rodrise01.shtml	rodrise01	28	TBR	222	158	24	4.1	95	.323	.246	.253	.320	.317	.385	.400	.704	.717	97	.451	-0.4	-0.0	.621	.215	.138	1.7	73/964D

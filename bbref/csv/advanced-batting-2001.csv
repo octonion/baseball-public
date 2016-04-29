@@ -744,8 +744,8 @@
 2001	744	Albie Lopez	http://www.baseball-reference.com/players/l/lopezal02.shtml	lopezal02	29	ARI	29	26	0	0.0	118	.071	.042	.278	.148	.350	.042	.455	.190	.805	-49	.000	-5.7	-0.6	.167	.083	.000		1
 2001	745	Felipe Lopez#	http://www.baseball-reference.com/players/l/lopezfe01.shtml	lopezfe01	21	TOR	192	139	22	4.2	109	.304	.260	.270	.304	.337	.418	.433	.722	.770	87	.420	-4.4	-0.4	.640	.232	.158	4.4	5/6
 2001	746	Javy Lopez	http://www.baseball-reference.com/players/l/lopezja01.shtml	lopezja01	30	ATL	482	339	59	4.6	114	.291	.267	.272	.322	.344	.425	.446	.747	.789	89	.465	-8.3	-0.8	.676	.224	.158	1.9	*2
-2001	747	Luis Lopez#	http://www.baseball-reference.com/players/l/lopezlu02.shtml	lopezlu02	30	MIL	247	175	27	4.1	109	.320	.270	.265	.326	.336	.387	.434	.714	.770	87	.411	-4.8	-0.4	.615	.176	.117	.0	564
-2001	748	Luis Lopez	http://www.baseball-reference.com/players/l/lopezlu03.shtml	lopezlu03	27	TOR	128	101	9	2.4	109	.260	.244	.270	.291	.337	.353	.433	.644	.770	68	.201	-6.0	-0.6	.500	.176	.109	.0	5/3D
+2001	747	Luis Lopez	http://www.baseball-reference.com/players/l/lopezlu03.shtml	lopezlu03	27	TOR	128	101	9	2.4	109	.260	.244	.270	.291	.337	.353	.433	.644	.770	68	.201	-6.0	-0.6	.500	.176	.109	.0	5/3D
+2001	748	Luis Lopez#	http://www.baseball-reference.com/players/l/lopezlu02.shtml	lopezlu02	30	MIL	247	175	27	4.1	109	.320	.270	.265	.326	.336	.387	.434	.714	.770	87	.411	-4.8	-0.4	.615	.176	.117	.0	564
 2001	749	Mendy Lopez	http://www.baseball-reference.com/players/l/lopezme01.shtml	lopezme01	27	TOT	66	45	8	4.8	115	.342	.241	.273	.318	.345	.379	.447	.697	.792	77	.475	-2.0	-0.2	.659	.241	.138	.0	4/56
 2001	750	Mendy Lopez	http://www.baseball-reference.com/players/l/lopezme01.shtml	lopezme01	27	HOU	18	11	3	7.3	117	.300	.267	.275	.389	.348	.467	.451	.856	.799	115	.664	0.4	0.0	.909	.333	.200	.0	/45
 2001	751	Mendy Lopez	http://www.baseball-reference.com/players/l/lopezme01.shtml	lopezme01	27	PIT	48	34	5	3.9	114	.357	.233	.272	.292	.344	.349	.446	.641	.789	63	.390	-2.4	-0.2	.576	.209	.116		/465
@@ -787,7 +787,7 @@
 2001	787	Felix Martinez#	http://www.baseball-reference.com/players/m/martife01.shtml	martife01	27	TBD	238	182	19	2.8	104	.306	.247	.264	.294	.330	.329	.423	.622	.753	67	.252	-10.4	-1.0	.494	.132	.082	1.7	64
 2001	788	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	29	BOS	0	0														.000	0.0	0.0					1
 2001	789	Ramon Martinez	http://www.baseball-reference.com/players/m/martira03.shtml	martira03	28	SFG	446	317	45	3.8	105	.276	.253	.260	.323	.330	.353	.426	.676	.756	81	.374	-9.5	-0.9	.590	.194	.100	1.7	546
-2001	790	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	33	PIT	5	5	0	0.0	114	.000	.000	.272	.000	.344	.000	.446	.000	.789	-100	.000	-1.5	-0.2	.000	.000	.000		/1
+2001	790	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	33	PIT	5	5	0	0.0	114	.000	.000	.272	.000	.344	.000	.446	.000	.789	-100	.000	-1.5	-0.2	.000	.000	.000		/1
 2001	791	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	30	MON	1	2	0	0.0	112	.000	.000	.270	.000	.341	.000	.442	.000	.783	-100	.000	-0.3	-0.0	.000	.000	.000		/2
 2001	792	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	33	NYY	635	440	94	5.7	108	.280	.280	.268	.329	.336	.501	.431	.830	.766	114	.556	9.4	0.9	.772	.290	.221	1.9	*3/D
 2001	793	Henry Mateo#	http://www.baseball-reference.com/players/m/mateohe01.shtml	mateohe01	24	MON	9	6	1	4.4	112	.375	.333	.270	.333	.341	.444	.442	.778	.783	98	.445	-0.0	0.0	.667	.111	.111		/4

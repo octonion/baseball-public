@@ -1,7 +1,7 @@
 1991	1	Jim Abbott*	http://www.baseball-reference.com/players/a/abbotji01.shtml	abbotji01	23	CAL	34	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$357,500	Amateur Draft	1
 1991	2	Kyle Abbott*	http://www.baseball-reference.com/players/a/abbotky01.shtml	abbotky01	23	CAL	5	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	/1
 1991	3	Paul Abbott	http://www.baseball-reference.com/players/a/abbotpa01.shtml	abbotpa01	23	MIN	15	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	1
-1991	4	Shawn Abner	http://www.baseball-reference.com/players/a/abnersh01.shtml	abnersh01	25	2TM	94	230	-15	0	0	3	0	-11	-1.2	8	-3	-0.4	.488	.497	-0.8	0.4	-6	$180,000	Traded	8/9
+1991	4	Shawn Abner	http://www.baseball-reference.com/players/a/abnersh01.shtml	abnersh01	25	2TM	94	230	-15	0	0	3	0	-11	-1.2	8	-3	-0.4	.488	.497	-0.8	0.4	-6	$180,000	Traded	8/9D
 1991	5	Jim Acker	http://www.baseball-reference.com/players/a/ackerji01.shtml	ackerji01	32	TOR	54	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Traded	1
 1991	6	Troy Afenir	http://www.baseball-reference.com/players/a/afenitr01.shtml	afenitr01	27	OAK	5	11	-2	-0	-0	0	0	-2	-0.2	0	-2	-0.2	.452	.499	-0.2	0.0	-2		Traded	/2D
 1991	7	Juan Agosto*	http://www.baseball-reference.com/players/a/agostju01.shtml	agostju01	33	STL	72	4	0	-0	0	0	1	1	0.1	0	1	0.1	.502	.501	0.1	0.0	1	$1,166,667	Free Agency	1
@@ -119,8 +119,8 @@
 1991	119	Terry Bross	http://www.baseball-reference.com/players/b/brosste01.shtml	brosste01	25	NYM	8	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	/1
 1991	120	Jarvis Brown	http://www.baseball-reference.com/players/b/brownja03.shtml	brownja03	24	MIN	38	40	-3	1	0	2	-1	-0	-0.0	1	1	0.1	.499	.500	-0.1	0.1	-1		Amateur Draft	98/D7
 1991	121	Keith Brown#	http://www.baseball-reference.com/players/b/brownke02.shtml	brownke02	27	CIN	11	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	1
-1991	122	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	25	MIL	15	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Traded	1
-1991	123	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	26	TEX	33	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$355,000	Amateur Draft	1
+1991	122	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	26	TEX	33	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$355,000	Amateur Draft	1
+1991	123	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	25	MIL	15	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Traded	1
 1991	124	Jerry Browne#	http://www.baseball-reference.com/players/b/brownje01.shtml	brownje01	25	CLE	107	334	-18	-2	0	-4	0	-23	-2.4	12	-11	-1.2	.477	.485	-0.9	-0.3	-8	$800,000	Traded	475/D
 1991	125	Tom Browning*	http://www.baseball-reference.com/players/b/brownto05.shtml	brownto05	31	CIN	36	83	-6	-1	0	0	10	3	0.3	0	3	0.3	.509	.502	0.3	0.0	3	$2,425,000	Free Agency	1
 1991	126	Mike Brumley#	http://www.baseball-reference.com/players/b/brumlmi02.shtml	brumlmi02	28	BOS	63	132	-8	-0	1	1	2	-4	-0.3	5	1	0.1	.494	.498	-0.0	0.4	-0		Free Agency	65/48D
@@ -315,7 +315,7 @@
 1991	315	Chris Gardner	http://www.baseball-reference.com/players/g/gardnch01.shtml	gardnch01	22	HOU	5	6	-1	-0	0	0	1	-0	-0.0	0	-0	-0.0	.495	.500	-0.0	0.0	-0		Amateur Draft	/1
 1991	316	Jeff Gardner*	http://www.baseball-reference.com/players/g/gardnje01.shtml	gardnje01	27	NYM	13	42	-4	-0	0	-3	1	-6	-0.7	1	-5	-0.6	.447	.496	-0.3	-0.2	-2		Amateur Free Agent	/64
 1991	317	Mark Gardner	http://www.baseball-reference.com/players/g/gardnma01.shtml	gardnma01	29	MON	27	60	-9	-0	0	0	7	-2	-0.2	0	-2	-0.2	.492	.499	-0.2	0.0	-2	$185,000	Amateur Draft	1
-1991	318	Wes Gardner	http://www.baseball-reference.com/players/g/gardnwe01.shtml	gardnwe01	30	2TM	17	2	-1	0	0	0	0	-0	-0.0	0	-0	-0.0	.499	.500	-0.0	0.0	-0	$575,000	Traded	1
+1991	318	Wes Gardner	http://www.baseball-reference.com/players/g/gardnwe01.shtml	gardnwe01	30	2TM	17	2	-1	0	0	0	0	-0	-0.0	0	-0	-0.0	.499	.500	-0.0	0.0	-0	$575,000	Free Agency	/1
 1991	319	Scott Garrelts	http://www.baseball-reference.com/players/g/garresc01.shtml	garresc01	29	SFG	11	5	-1	-0	0	0	1	-1	-0.1	0	-1	-0.1	.493	.500	-0.1	0.0	-1	$2,400,000	Amateur Draft	/1
 1991	320	Rich Gedman*	http://www.baseball-reference.com/players/g/gedmari01.shtml	gedmari01	31	STL	46	100	-12	-0	-0	-1	2	-12	-1.4	3	-9	-1.0	.470	.492	-1.0	0.1	-8	$150,000	Free Agency	2
 1991	321	Chris George	http://www.baseball-reference.com/players/g/georgch01.shtml	georgch01	24	MIL	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	/1
@@ -384,15 +384,15 @@
 1991	384	Brian Harper	http://www.baseball-reference.com/players/h/harpebr01.shtml	harpebr01	31	MIN	123	469	10	-1	-2	-11	7	3	0.4	17	20	2.0	.503	.502	3.2	-0.4	31	$625,000	Free Agency	*2/D37
 1991	385	Donald Harris	http://www.baseball-reference.com/players/h/harrido01.shtml	harrido01	23	TEX	18	9	1	-0	0	-2	-0	-1	-0.1	0	-0	-0.0	.496	.500	0.1	-0.2	1		Amateur Draft	/89D7
 1991	386	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	26	SEA	8	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$132,500	Traded	/1
-1991	387	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	35	BOS	53	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$1,300,000	Free Agency	1
-1991	388	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	27	SDP	20	45	-8	-0	-0	0	5	-2	-0.3	0	-2	-0.3	.487	.498	-0.3	0.0	-2		Amateur Draft	1
+1991	387	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	27	SDP	20	45	-8	-0	-0	0	5	-2	-0.3	0	-2	-0.3	.487	.498	-0.3	0.0	-2		Amateur Draft	1
+1991	388	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	35	BOS	53	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$1,300,000	Free Agency	1
 1991	389	Lenny Harris*	http://www.baseball-reference.com/players/h/harrile01.shtml	harrile01	26	LAD	145	485	0	1	-0	-7	3	-2	-0.3	16	13	1.2	.498	.498	1.9	-0.4	20	$315,000	Traded	*546/7
 1991	390	Reggie Harris	http://www.baseball-reference.com/players/h/harrire01.shtml	harrire01	22	OAK	2	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Rule 5 Draft	/1
 1991	391	Mike Hartley	http://www.baseball-reference.com/players/h/hartlmi01.shtml	hartlmi01	29	2TM	58	5	-1	0	-0	0	1	-0	-0.1	0	-0	-0.1	.499	.500	-0.1	0.0	-0	$165,000	MinorLg Draft	1
 1991	392	Bryan Harvey	http://www.baseball-reference.com/players/h/harvebr01.shtml	harvebr01	28	CAL	67	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.1	0	$1,040,000	Amateur Free Agent	1
 1991	393	Ron Hassey*	http://www.baseball-reference.com/players/h/hassero01.shtml	hassero01	38	MON	52	135	-3	-0	-0	-1	2	-3	-0.4	4	1	0.1	.493	.498	0.2	0.1	2		Free Agency	2
 1991	394	Billy Hatcher	http://www.baseball-reference.com/players/h/hatchbi01.shtml	hatchbi01	30	CIN	138	482	-8	-2	-0	-8	-3	-21	-2.4	16	-5	-0.8	.483	.486	-0.0	-1.2	3		Traded	*78
-1991	395	Andy Hawkins	http://www.baseball-reference.com/players/h/hawkian01.shtml	hawkian01	31	2TM	19	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$1,533,334	Free Agency	/1
+1991	395	Andy Hawkins	http://www.baseball-reference.com/players/h/hawkian01.shtml	hawkian01	31	2TM	19	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$1,533,334	Free Agency	1
 1991	396	Charlie Hayes	http://www.baseball-reference.com/players/h/hayesch01.shtml	hayesch01	26	PHI	142	480	-15	-1	-1	-3	2	-18	-2.1	15	-3	-0.6	.485	.487	-0.4	-0.2	-0	$280,000	Traded	*5/6
 1991	397	Von Hayes*	http://www.baseball-reference.com/players/h/hayesvo01.shtml	hayesvo01	32	PHI	77	323	-10	2	-0	10	-0	2	0.2	10	13	1.2	.503	.502	0.0	1.1	2	$2,200,000	Traded	87/9
 1991	398	Mike Heath	http://www.baseball-reference.com/players/h/heathmi02.shtml	heathmi02	36	ATL	49	150	-10	1	-0	-3	2	-11	-1.2	5	-6	-0.7	.476	.493	-0.4	-0.1	-3	$950,000	Free Agency	2
@@ -412,7 +412,7 @@
 1991	412	Jose Hernandez	http://www.baseball-reference.com/players/h/hernajo01.shtml	hernajo01	21	TEX	45	107	-11	-1	0	3	2	-6	-0.6	4	-2	-0.2	.486	.496	-0.6	0.6	-5		Amateur Free Agent	6/5
 1991	413	Roberto Hernandez	http://www.baseball-reference.com/players/h/hernaro01.shtml	hernaro01	26	CHW	9	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$100,000	Traded	/1
 1991	414	Xavier Hernandez*	http://www.baseball-reference.com/players/h/hernaxa01.shtml	hernaxa01	25	HOU	32	13	-2	-0	0	0	2	-0	-0.0	0	-0	-0.0	.499	.500	-0.0	0.0	-0	$122,500	Rule 5 Draft	1
-1991	415	Tom Herr#	http://www.baseball-reference.com/players/h/herrto01.shtml	herrto01	35	2TM	102	265	-6	-1	1	0	2	-4	-0.5	9	4	0.3	.495	.498	0.3	0.2	4	$1,400,000	Traded	4/8
+1991	415	Tom Herr#	http://www.baseball-reference.com/players/h/herrto01.shtml	herrto01	35	2TM	102	265	-6	-1	1	0	2	-4	-0.5	9	4	0.3	.495	.498	0.3	0.2	4	$1,400,000	Free Agency	4/5
 1991	416	Orel Hershiser	http://www.baseball-reference.com/players/h/hershor01.shtml	hershor01	32	LAD	21	38	-0	0	0	0	5	5	0.5	0	5	0.5	.525	.503	0.5	0.0	5	$3,166,667	Free Agency	1
 1991	417	Joe Hesketh*	http://www.baseball-reference.com/players/h/heskejo01.shtml	heskejo01	32	BOS	39	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$525,000	Free Agency	1
 1991	418	Greg Hibbard*	http://www.baseball-reference.com/players/h/hibbagr01.shtml	hibbagr01	26	CHW	32	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$150,000	Traded	1
@@ -584,12 +584,12 @@
 1991	584	Josias Manzanillo	http://www.baseball-reference.com/players/m/manzajo01.shtml	manzajo01	23	BOS	1	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Free Agent	/1
 1991	585	Mike Marshall	http://www.baseball-reference.com/players/m/marshmi02.shtml	marshmi02	31	2TM	24	69	-3	0	-0	1	-1	-3	-0.3	2	-1	-0.1	.486	.499	-0.2	-0.0	-2	$1,300,000	Traded	/D397
 1991	586	Carlos Martinez	http://www.baseball-reference.com/players/m/martica02.shtml	martica02	25	CLE	72	275	-4	1	-2	-3	-6	-14	-1.5	10	-4	-0.5	.479	.491	-0.2	-0.9	-1		Free Agency	D3
-1991	587	Carmelo Martinez	http://www.baseball-reference.com/players/m/martica01.shtml	martica01	30	3TM	108	321	-1	-1	-1	4	-4	-3	-0.4	11	7	0.7	.497	.500	0.2	0.0	3	$925,000	Traded	37
+1991	587	Carmelo Martinez	http://www.baseball-reference.com/players/m/martica01.shtml	martica01	30	3TM	108	321	-1	-1	-1	4	-4	-3	-0.4	11	7	0.7	.497	.500	0.2	0.0	3	$925,000	Traded	/3
 1991	588	Chito Martinez*	http://www.baseball-reference.com/players/m/martich01.shtml	martich01	25	BAL	67	228	8	1	1	4	-3	12	1.3	8	20	2.0	.518	.507	1.6	0.2	16		Free Agency	9/D37
 1991	589	Dave Martinez*	http://www.baseball-reference.com/players/m/martida01.shtml	martida01	26	MON	124	427	9	-1	0	1	-3	6	0.6	14	20	2.0	.506	.504	1.8	-0.2	18	$140,000	Traded	*978
 1991	590	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	37	MON	32	83	-10	-0	0	0	10	0	0.0	0	0	0.0	.501	.500	-0.0	0.0	0	$3,333,333	Free Agency	1
 1991	591	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	28	SEA	150	642	31	1	-2	6	2	37	3.9	23	60	6.1	.525	.523	5.5	0.8	54	$350,000	Amateur Free Agent	*5/D
-1991	592	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	23	LAD	33	86	-12	-0	1	0	10	-1	-0.1	0	-1	-0.1	.496	.499	-0.2	0.0	-1	$485,000	Amateur Free Agent	1
+1991	592	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	23	LAD	33	86	-12	-0	1	0	10	-1	-0.1	0	-1	-0.1	.496	.499	-0.2	0.0	-1	$485,000	Amateur Free Agent	1
 1991	593	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	23	SEA	36	125	-6	-0	0	1	-2	-6	-0.7	4	-2	-0.2	.481	.496	-0.4	-0.1	-3		Amateur Draft	3/D
 1991	594	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	28	BOS	49	119	-5	-1	-1	1	2	-4	-0.3	4	1	0.1	.492	.498	-0.1	0.3	-0	$105,000	Amateur Draft	2
 1991	595	Roger Mason	http://www.baseball-reference.com/players/m/masonro01.shtml	masonro01	33	PIT	24	2	1	-0	0	0	0	1	0.1	0	1	0.1	.504	.501	0.1	0.0	1		Free Agency	1
@@ -735,7 +735,7 @@
 1991	735	Adam Peterson	http://www.baseball-reference.com/players/p/peterad01.shtml	peterad01	25	SDP	13	16	-3	-0	0	0	2	-1	-0.1	0	-1	-0.1	.492	.499	-0.1	0.0	-1		Traded	1
 1991	736	Mark Petkovsek	http://www.baseball-reference.com/players/p/petkoma01.shtml	petkoma01	25	TEX	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	/1
 1991	737	Geno Petralli*	http://www.baseball-reference.com/players/p/petrage01.shtml	petrage01	31	TEX	87	228	-2	1	0	-4	3	-2	-0.1	8	6	0.6	.498	.499	1.0	-0.1	10	$562,500	Free Agency	2/5D
-1991	738	Dan Petry	http://www.baseball-reference.com/players/p/petryda01.shtml	petryda01	32	3TM	40	5	-1	0	0	0	1	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$650,000	Traded	1
+1991	738	Dan Petry	http://www.baseball-reference.com/players/p/petryda01.shtml	petryda01	32	3TM	40	5	-1	0	0	0	1	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$650,000	Free Agency	1
 1991	739	Gary Pettis#	http://www.baseball-reference.com/players/p/pettiga01.shtml	pettiga01	33	TEX	137	343	-5	1	0	2	1	-0	0.0	12	12	1.2	.500	.500	1.0	0.4	10	$903,333	Free Agency	*8/D
 1991	740	Tony Phillips#	http://www.baseball-reference.com/players/p/phillto02.shtml	phillto02	32	DET	146	655	20	1	-0	9	-1	28	3.1	22	51	5.2	.520	.518	4.2	0.9	42	$1,566,666	Free Agency	5479D6/8
 1991	741	Doug Piatt*	http://www.baseball-reference.com/players/p/piattdo01.shtml	piattdo01	25	MON	21	1	-0	0	0	0	0	0	0.0	0	0	0.0	.500	.500	0.0	0.0	0		Traded	1
@@ -744,7 +744,7 @@
 1991	744	Eric Plunk	http://www.baseball-reference.com/players/p/plunker01.shtml	plunker01	27	NYY	43	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$975,000	Traded	1
 1991	745	Jeff Plympton	http://www.baseball-reference.com/players/p/plympje01.shtml	plympje01	25	BOS	4	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0		Amateur Draft	/1
 1991	746	Luis Polonia*	http://www.baseball-reference.com/players/p/polonlu01.shtml	polonlu01	27	CAL	150	662	6	2	1	-2	-6	0	0.2	23	23	2.3	.500	.500	2.6	-0.9	25	$845,000	Traded	*7/D8
-1991	747	Jim Poole*	http://www.baseball-reference.com/players/p/pooleji02.shtml	pooleji02	25	2TM	29	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$105,000	Waivers	1
+1991	747	Jim Poole*	http://www.baseball-reference.com/players/p/pooleji02.shtml	pooleji02	25	2TM	29	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$105,000	Traded	/1
 1991	748	Mark Portugal	http://www.baseball-reference.com/players/p/portuma01.shtml	portuma01	28	HOU	33	58	-4	-1	0	0	7	2	0.2	0	2	0.2	.508	.502	0.2	0.0	2	$705,000	Traded	1
 1991	749	Alonzo Powell	http://www.baseball-reference.com/players/p/powelal01.shtml	powelal01	26	SEA	57	125	-3	-0	0	-3	-3	-9	-0.9	4	-4	-0.5	.484	.494	-0.2	-0.6	-1		Free Agency	79/3D8
 1991	750	Ted Power	http://www.baseball-reference.com/players/p/powerte01.shtml	powerte01	36	CIN	68	4	-0	-0	0	0	1	0	0.0	0	0	0.0	.501	.500	0.0	0.0	0	$500,000	Free Agency	1
@@ -1001,7 +1001,7 @@
 1991	1001	Jerry Willard*	http://www.baseball-reference.com/players/w/willaje01.shtml	willaje01	31	ATL	17	16	-0	0	0	0	0	0	0.0	1	1	0.1	.501	.500	0.1	0.0	1		Free Agency	/2
 1991	1002	Bernie Williams#	http://www.baseball-reference.com/players/w/willibe02.shtml	willibe02	22	NYY	85	374	-4	-1	1	-7	1	-10	-0.9	13	3	0.3	.488	.494	1.1	-0.6	11	$100,000	Amateur Free Agent	8
 1991	1003	Brian Williams	http://www.baseball-reference.com/players/w/willibr01.shtml	willibr01	22	HOU	2	5	-1	0	0	0	1	-1	-0.1	0	-1	-0.1	.465	.500	-0.1	0.0	-1		Amateur Draft	/1
-1991	1004	Ken Williams	http://www.baseball-reference.com/players/w/willike02.shtml	willike02	27	2TM	47	109	-1	-1	-0	5	-1	2	0.2	4	5	0.5	.504	.501	-0.0	0.4	0	$260,000	Waivers	9/78
+1991	1004	Ken Williams	http://www.baseball-reference.com/players/w/willike02.shtml	willike02	27	2TM	47	109	-1	-1	-0	5	-1	2	0.2	4	5	0.5	.504	.501	-0.0	0.4	0	$260,000	Waivers	/9D87
 1991	1005	Matt Williams	http://www.baseball-reference.com/players/w/willima04.shtml	willima04	25	SFG	157	635	24	-1	-1	8	2	32	3.4	20	52	5.4	.522	.522	4.4	1.1	44	$600,000	Amateur Draft	*5/6
 1991	1006	Mitch Williams*	http://www.baseball-reference.com/players/w/willimi02.shtml	willimi02	26	PHI	69	2	0	0	0	0	1	1	0.1	0	1	0.1	.501	.500	0.1	0.0	1	$1,500,000	Traded	1
 1991	1007	Mark Williamson	http://www.baseball-reference.com/players/w/willima05.shtml	willima05	31	BAL	65	0	0	0	0	0	0	0	0.0	0	0	0.0	.501	.500	0.0	0.1	0	$685,000	Traded	1

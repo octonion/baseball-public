@@ -48,7 +48,7 @@
 2011	48	Miguel Batista	http://www.baseball-reference.com/players/b/batismi01.shtml	batismi01	40	8	NYM	-1.6	-0.2	8	-0.1	0.0	-0.1	.84	-0.1	0.0	-0.9	-0.1	0.81	-1.1		0
 2011	49	Jose Bautista	http://www.baseball-reference.com/players/b/bautijo02.shtml	bautijo02	30	655	TOR	67.0	6.4	684	8.0	16.8	-8.8	1.05	6.8	0.8	66.5	6.3	0.92	74.4		0
 2011	50	Mike Baxter*	http://www.baseball-reference.com/players/b/baxtemi01.shtml	baxtemi01	26	40	NYM	1.0	0.1	40	0.1	0.8	-0.6	.88	0.2	-0.0	1.1	0.1	0.91	1.7	1.30	8
-2011	51	Jason Bay	http://www.baseball-reference.com/players/b/bayja01.shtml	bayja01	32	509	NYM	-0.4	-0.0	528	0.1	9.2	-9.1	1.06	0.0	0.1	-3.4	-0.3	1.01	3.9		0
+2011	51	Jason Bay	http://www.baseball-reference.com/players/b/bayja01.shtml	bayja01	32	509	NYM	-0.4	-0.0	528	0.1	9.2	-9.1	1.06	0.0	0.0	-3.4	-0.3	1.01	3.9		0
 2011	52	Brandon Beachy	http://www.baseball-reference.com/players/b/beachbr01.shtml	beachbr01	24	50	ATL	-9.3	-1.0	50	-1.0	0.2	-1.2	1.05	-0.9	0.0	-9.0	-0.9	0.96	-9.6		0
 2011	53	Josh Beckett	http://www.baseball-reference.com/players/b/beckejo02.shtml	beckejo02	31	5	BOS	-1.4	-0.1	5	-0.2	0.0	-0.2	1.62	-0.2	-0.0	-2.2	-0.2	1.32	-1.6		0
 2011	54	Gordon Beckham	http://www.baseball-reference.com/players/b/beckhgo01.shtml	beckhgo01	24	557	CHW	-21.6	-2.1	574	-1.7	8.4	-10.1	1.04	-1.3	-0.4	-15.9	-1.5	0.94	-14.3	1.42	1
@@ -90,7 +90,7 @@
 2011	90	J.C. Boscan	http://www.baseball-reference.com/players/b/boscajc01.shtml	boscajc01	31	9	ATL	-0.2	-0.0	9	-0.3	0.1	-0.4	1.73	-0.1	-0.1	-1.8	-0.2	1.13	-0.8	4.86	1
 2011	91	Jason Bourgeois	http://www.baseball-reference.com/players/b/bourgja01.shtml	bourgja01	29	252	HOU	-4.3	-0.4	298	-0.4	4.7	-5.1	1.14	-0.3	-0.0	-1.0	-0.1	0.99	-3.5	1.19	17
 2011	92	Peter Bourjos	http://www.baseball-reference.com/players/b/bourjpe01.shtml	bourjpe01	24	552	LAA	9.8	1.0	596	-0.6	9.3	-9.8	1.00	0.5	-1.1	2.5	0.3	0.94	8.4	1.79	1
-2011	93	Michael Bourn*	http://www.baseball-reference.com/players/b/bournmi01.shtml	bournmi01	28	722	TOT	3.2	0.3	808	1.3	13.8	-12.4	1.04	1.2	0.0	16.0	1.6	0.96	10.8	0.51	2
+2011	93	Michael Bourn*	http://www.baseball-reference.com/players/b/bournmi01.shtml	bournmi01	28	722	TOT	3.2	0.3	808	1.3	13.8	-12.4	1.04	1.2	0.1	16.0	1.6	0.96	10.8	0.51	2
 2011	94	Michael Bourn*	http://www.baseball-reference.com/players/b/bournmi01.shtml	bournmi01	28	473	HOU	8.2	0.8	527	1.7	9.5	-7.8	1.03	1.2	0.4	16.1	1.6	0.96	12.2	0.51	2
 2011	95	Michael Bourn*	http://www.baseball-reference.com/players/b/bournmi01.shtml	bournmi01	28	249	ATL	-4.9	-0.5	281	-0.4	4.3	-4.6	1.07	-0.0	-0.3	-0.1	-0.0	0.98	-1.4		0
 2011	96	John Bowker*	http://www.baseball-reference.com/players/b/bowkejo01.shtml	bowkejo01	27	32	TOT	-4.1	-0.4	33	-0.2	0.5	-0.7	1.18	-0.3	0.1	-3.2	-0.3	0.95	-3.0	1.10	26
@@ -270,14 +270,14 @@
 2011	270	Jacoby Ellsbury*	http://www.baseball-reference.com/players/e/ellsbja01.shtml	ellsbja01	27	732	BOS	42.2	4.1	801	6.2	17.4	-11.2	.98	4.9	1.5	59.0	5.6	0.95	53.5	2.11	3
 2011	271	John Ely	http://www.baseball-reference.com/players/e/elyjo01.shtml	elyjo01	25	4	LAD	-0.5	-0.1	5	-0.1	0.1	-0.2	1.12	-0.1	-0.0	-1.1	-0.1	0.97	-0.9		0
 2011	272	Brad Emaus	http://www.baseball-reference.com/players/e/emausbr01.shtml	emausbr01	25	42	NYM	-3.8	-0.4	42	-0.4	0.3	-0.8	.92	-0.4	-0.0	-4.5	-0.5	0.94	-5.1	0.73	3
-2011	273	Edwin Encarnacion	http://www.baseball-reference.com/players/e/encared01.shtml	encared01	28	530	TOR	7.4	0.7	544	-0.9	9.5	-10.4	1.03	0.8	-1.7	-4.1	-0.4	0.97	3.6	1.54	10
+2011	273	Edwin Encarnacion	http://www.baseball-reference.com/players/e/encared01.shtml	encared01	28	530	TOR	7.4	0.7	544	-0.9	9.5	-10.4	1.03	0.8	-1.7	-4.1	-0.4	0.97	3.6	1.55	10
 2011	274	Barry Enright	http://www.baseball-reference.com/players/e/enrigba01.shtml	enrigba01	25	15	ARI	-0.3	-0.0	15	-0.2	0.2	-0.4	1.11	0.0	-0.2	-1.7	-0.2	1.19	-0.7	3.42	1
 2011	275	Nathan Eovaldi	http://www.baseball-reference.com/players/e/eovalna01.shtml	eovalna01	21	12	LAD	-1.9	-0.2	12	-0.2	0.1	-0.3	1.07	-0.2	-0.0	-1.8	-0.2	0.86	-1.8		0
 2011	276	Edgmer Escalona	http://www.baseball-reference.com/players/e/escaled01.shtml	escaled01	24	3	COL	-0.9	-0.1	3	-0.1	0.0	-0.1	.83	-0.1	0.0	-0.8	-0.1	0.94	-0.9		0
 2011	277	Alcides Escobar	http://www.baseball-reference.com/players/e/escobal02.shtml	escobal02	24	598	KCR	-20.9	-2.1	636	-4.8	8.4	-13.2	1.14	-2.0	-2.3	-25.7	-2.6	0.98	-23.9		0
 2011	278	Eduardo Escobar#	http://www.baseball-reference.com/players/e/escobed01.shtml	escobed01	22	7	CHW	-0.5	-0.1	8	0.0	0.0	-0.0	.03	-0.0	0.2	-0.3	-0.0	0.95	-0.7	0.02	3
 2011	279	Yunel Escobar	http://www.baseball-reference.com/players/e/escobyu01.shtml	escobyu01	28	590	TOR	10.2	1.0	603	2.2	11.0	-8.8	.93	1.2	1.1	17.4	1.7	0.91	15.9	3.10	1
-2011	280	Danny Espinosa#	http://www.baseball-reference.com/players/e/espinda01.shtml	espinda01	24	658	WSN	1.3	0.1	692	1.2	13.1	-11.9	1.10	0.2	0.8	13.5	1.3	0.93	7.7	0.49	0
+2011	280	Danny Espinosa#	http://www.baseball-reference.com/players/e/espinda01.shtml	espinda01	24	658	WSN	1.3	0.1	692	1.2	13.1	-11.9	1.10	0.3	0.8	13.5	1.3	0.93	7.7	0.49	0
 2011	281	Marco Estrada	http://www.baseball-reference.com/players/e/estrama01.shtml	estrama01	27	16	MIL	-0.8	-0.1	16	0.0	0.2	-0.2	.78	-0.1	0.1	0.2	0.0	0.88	-0.5		0
 2011	282	Andre Ethier*	http://www.baseball-reference.com/players/e/ethiean01.shtml	ethiean01	29	551	LAD	16.3	1.6	555	0.8	10.2	-9.4	1.06	1.4	-0.6	13.0	1.3	0.95	15.4	1.96	6
 2011	283	Nick Evans	http://www.baseball-reference.com/players/e/evansni01.shtml	evansni01	25	194	NYM	-0.0	0.0	196	-0.5	3.4	-3.8	1.15	0.1	-0.6	0.8	0.1	1.05	1.1	1.00	8
@@ -346,7 +346,7 @@
 2011	346	Jonny Gomes	http://www.baseball-reference.com/players/g/gomesjo01.shtml	gomesjo01	30	265	CIN	0.5	0.0	274	-0.2	4.4	-4.6	1.00	0.0	-0.2	0.8	0.1	0.99	1.2	1.09	15
 2011	347	Jonny Gomes	http://www.baseball-reference.com/players/g/gomesjo01.shtml	gomesjo01	30	107	WSN	-2.3	-0.2	110	0.3	2.2	-1.9	1.16	-0.0	0.3	-0.7	-0.1	1.06	0.1	0.97	13
 2011	348	Carlos Gomez	http://www.baseball-reference.com/players/g/gomezca01.shtml	gomezca01	25	258	MIL	-6.8	-0.7	283	0.2	4.2	-4.0	.91	-0.4	0.6	-2.2	-0.2	0.95	-3.8	0.12	5
-2011	349	Hector Gomez	http://www.baseball-reference.com/players/g/gomezhe01.shtml	gomezhe01	23	7	COL	0.0	0.0	7	-0.1	0.1	-0.2	1.42	-0.0	-0.1	-0.6	-0.1	0.90	-0.2	0.15	1
+2011	349	Hector Gomez	http://www.baseball-reference.com/players/g/gomezhe01.shtml	gomezhe01	23	7	COL	0.0	0.0	7	-0.1	0.1	-0.2	1.42	-0.0	-0.1	-0.6	-0.1	0.90	-0.2	0.16	1
 2011	350	Adrian Gonzalez*	http://www.baseball-reference.com/players/g/gonzaad01.shtml	gonzaad01	29	715	BOS	51.4	5.0	726	3.8	14.6	-10.8	.94	4.5	-0.5	51.2	4.8	0.95	55.5		0
 2011	351	Alberto Gonzalez	http://www.baseball-reference.com/players/g/gonzaal03.shtml	gonzaal03	28	267	SDP	-15.3	-1.6	278	-1.8	3.5	-5.3	1.04	-1.0	-0.7	-6.0	-0.6	1.00	-10.2	1.29	15
 2011	352	Alex Gonzalez	http://www.baseball-reference.com/players/g/gonzaal02.shtml	gonzaal02	34	593	ATL	-22.2	-2.2	602	-2.0	10.1	-12.1	1.06	-1.6	-0.2	-26.3	-2.7	0.95	-16.3	2.03	2
@@ -478,7 +478,7 @@
 2011	478	Kelly Johnson*	http://www.baseball-reference.com/players/j/johnske05.shtml	johnske05	29	613	TOT	-7.4	-0.8	645	1.2	11.9	-10.7	1.04	-0.3	1.5	4.2	0.4	0.91	1.0	1.29	7
 2011	479	Kelly Johnson*	http://www.baseball-reference.com/players/j/johnske05.shtml	johnske05	29	481	ARI	-9.2	-0.9	504	0.7	9.0	-8.3	1.00	-0.6	1.2	2.4	0.2	0.91	-2.0	1.29	7
 2011	480	Kelly Johnson*	http://www.baseball-reference.com/players/j/johnske05.shtml	johnske05	29	132	TOR	1.8	0.2	141	0.6	3.0	-2.4	1.15	0.3	0.2	1.8	0.2	0.94	3.0		0
-2011	481	Reed Johnson	http://www.baseball-reference.com/players/j/johnsre02.shtml	johnsre02	34	266	CHC	7.5	0.8	273	0.2	5.0	-4.8	1.08	0.4	-0.2	7.1	0.7	0.94	4.9	1.20	28
+2011	481	Reed Johnson	http://www.baseball-reference.com/players/j/johnsre02.shtml	johnsre02	34	266	CHC	7.5	0.8	273	0.2	5.0	-4.8	1.08	0.5	-0.2	7.1	0.7	0.94	4.9	1.20	28
 2011	482	Rob Johnson	http://www.baseball-reference.com/players/j/johnsro07.shtml	johnsro07	28	199	SDP	-10.9	-1.1	201	-1.3	2.4	-3.7	.96	-1.3	-0.1	-12.3	-1.3	0.96	-13.3	0.87	5
 2011	483	Adam Jones	http://www.baseball-reference.com/players/j/jonesad01.shtml	jonesad01	25	618	BAL	7.7	0.8	639	0.8	12.2	-11.4	1.04	1.5	-0.8	8.9	0.9	0.92	15.7		0
 2011	484	Andruw Jones	http://www.baseball-reference.com/players/j/jonesan01.shtml	jonesan01	34	222	NYY	6.9	0.7	224	0.1	3.2	-3.0	.83	0.4	-0.2	9.1	0.9	0.95	8.5	0.98	10
@@ -541,7 +541,7 @@
 2011	541	Alex Liddi	http://www.baseball-reference.com/players/l/liddial01.shtml	liddial01	22	44	SEA	1.5	0.2	46	0.3	0.9	-0.6	.77	0.2	0.2	2.1	0.2	0.82	1.8	1.68	1
 2011	542	Brent Lillibridge	http://www.baseball-reference.com/players/l/lillibr01.shtml	lillibr01	27	216	CHW	5.6	0.5	239	-0.6	3.6	-4.3	1.01	0.7	-1.3	2.0	0.2	0.98	8.3	0.82	7
 2011	543	Ted Lilly*	http://www.baseball-reference.com/players/l/lillyte01.shtml	lillyte01	35	63	LAD	-11.2	-1.1	65	-1.1	0.4	-1.5	1.08	-1.1	0.1	-10.9	-1.1	1.02	-11.6		0
-2011	544	Tim Lincecum*	http://www.baseball-reference.com/players/l/linceti01.shtml	linceti01	27	72	SFG	-11.3	-1.2	72	-1.3	0.2	-1.5	1.03	-1.2	0.0	-12.7	-1.4	0.96	-12.8		0
+2011	544	Tim Lincecum*	http://www.baseball-reference.com/players/l/linceti01.shtml	linceti01	27	72	SFG	-11.3	-1.2	72	-1.3	0.2	-1.5	1.03	-1.2	-0.0	-12.7	-1.4	0.96	-12.8		0
 2011	545	Brad Lincoln*	http://www.baseball-reference.com/players/l/lincobr01.shtml	lincobr01	26	14	PIT	-1.8	-0.2	14	-0.2	0.0	-0.3	.91	-0.1	-0.2	-1.1	-0.1	0.91	-0.9	0.44	1
 2011	546	Adam Lind*	http://www.baseball-reference.com/players/l/lindad01.shtml	lindad01	27	542	TOR	-4.9	-0.5	545	0.1	10.8	-10.7	1.13	0.0	0.1	1.5	0.1	1.02	-1.0		0
 2011	547	Josh Lindblom	http://www.baseball-reference.com/players/l/lindbjo01.shtml	lindbjo01	24	1	LAD	-0.3	-0.0	1	-0.0	0.0	-0.0	.50	-0.0	-0.0	-0.1	-0.0	0.38	-0.2		0
@@ -691,7 +691,7 @@
 2011	691	Trent Oeltjen*	http://www.baseball-reference.com/players/o/oeltjtr01.shtml	oeltjtr01	28	91	LAD	-1.2	-0.1	99	-0.3	1.1	-1.4	.92	0.1	-0.5	-2.5	-0.3	1.00	1.5	0.93	24
 2011	692	Alexi Ogando	http://www.baseball-reference.com/players/o/ogandal01.shtml	ogandal01	27	2	TEX	0.2	0.0	2	-0.0	0.0	-0.0	1.12	0.0	-0.0	-0.1	-0.0	0.93	0.0		0
 2011	693	Ross Ohlendorf	http://www.baseball-reference.com/players/o/ohlenro01.shtml	ohlenro01	28	15	PIT	-0.6	-0.1	15	0.1	0.4	-0.3	1.07	-0.1	0.2	0.2	0.0	1.09	-0.4		0
-2011	694	Miguel Olivo	http://www.baseball-reference.com/players/o/olivomi01.shtml	olivomi01	32	507	SEA	-12.5	-1.2	524	-1.7	8.3	-10.0	1.07	-1.2	-0.4	-18.2	-1.9	0.97	-13.6	2.09	5
+2011	694	Miguel Olivo	http://www.baseball-reference.com/players/o/olivomi01.shtml	olivomi01	32	507	SEA	-12.5	-1.2	524	-1.7	8.3	-10.0	1.07	-1.2	-0.5	-18.2	-1.9	0.97	-13.6	2.09	5
 2011	695	Magglio Ordonez	http://www.baseball-reference.com/players/o/ordonma01.shtml	ordonma01	37	357	DET	-12.5	-1.2	362	-0.9	5.6	-6.5	1.01	-1.4	0.5	-17.3	-1.7	0.96	-16.6	1.64	2
 2011	696	Pete Orr*	http://www.baseball-reference.com/players/o/orrpe01.shtml	orrpe01	32	104	PHI	-7.1	-0.7	109	-0.2	1.7	-1.9	1.08	-0.7	0.5	-4.6	-0.5	0.96	-6.1	1.10	14
 2011	697	David Ortiz*	http://www.baseball-reference.com/players/o/ortizda01.shtml	ortizda01	35	605	BOS	41.5	4.0	612	1.9	12.6	-10.7	1.01	3.8	-1.9	32.1	3.0	1.01	36.8	1.78	7
@@ -702,7 +702,7 @@
 2011	702	Lyle Overbay*	http://www.baseball-reference.com/players/o/overbly01.shtml	overbly01	34	391	PIT	-8.1	-0.8	396	-0.4	6.4	-6.8	.98	-0.7	0.3	-8.0	-0.8	0.93	-7.5	1.01	6
 2011	703	Lyle Overbay*	http://www.baseball-reference.com/players/o/overbly01.shtml	overbly01	34	49	ARI	2.0	0.2	49	1.5	2.4	-0.8	1.32	0.1	1.1	2.6	0.3	1.15	1.8	1.00	6
 2011	704	Juan Carlos Oviedo	http://www.baseball-reference.com/players/n/nunezle01.shtml	nunezle01	29	1	FLA	-0.3	-0.0	1	-0.0	0.0	-0.0	1.47	-0.0	0.0	-0.5	-0.1	1.54	-0.3		0
-2011	705	Micah Owings	http://www.baseball-reference.com/players/o/owingmi01.shtml	owingmi01	28	19	ARI	-2.3	-0.2	19	-0.4	0.2	-0.5	1.19	-0.2	-0.1	-4.4	-0.4	1.24	-3.0	0.02	1
+2011	705	Micah Owings	http://www.baseball-reference.com/players/o/owingmi01.shtml	owingmi01	28	19	ARI	-2.3	-0.2	19	-0.4	0.2	-0.5	1.20	-0.2	-0.1	-4.4	-0.4	1.24	-3.0	0.02	1
 2011	706	Jordan Pacheco	http://www.baseball-reference.com/players/p/pachejo01.shtml	pachejo01	25	88	COL	-3.4	-0.3	88	-0.2	1.3	-1.5	.96	0.0	-0.2	2.5	0.2	0.95	-0.0	0.56	1
 2011	707	Angel Pagan#	http://www.baseball-reference.com/players/p/paganan01.shtml	paganan01	29	532	NYM	-3.1	-0.3	580	0.5	10.4	-9.8	1.09	-0.1	0.6	8.5	0.9	1.04	0.6	1.24	3
 2011	708	Matt Pagnozzi	http://www.baseball-reference.com/players/p/pagnoma01.shtml	pagnoma01	28	34	TOT	-1.8	-0.2	35	-0.2	0.3	-0.5	.82	-0.1	-0.1	-1.1	-0.1	0.90	-1.4	0.23	3
@@ -723,7 +723,7 @@
 2011	723	Xavier Paul*	http://www.baseball-reference.com/players/p/paulxa01.shtml	paulxa01	26	251	PIT	-7.1	-0.7	279	0.2	4.5	-4.3	1.02	-0.2	0.3	-1.9	-0.2	0.96	-1.0	1.18	40
 2011	724	Felipe Paulino	http://www.baseball-reference.com/players/p/paulife01.shtml	paulife01	27	4	TOT	-0.3	-0.0	4	0.0	0.1	-0.1	1.76	-0.0	0.0	-0.0	-0.0	1.55	-0.1		0
 2011	725	Felipe Paulino	http://www.baseball-reference.com/players/p/paulife01.shtml	paulife01	27	4	KCR	-0.3	-0.0	4	0.0	0.1	-0.1	1.76	-0.0	0.0	-0.0	-0.0	1.55	-0.1		0
-2011	726	Ronny Paulino	http://www.baseball-reference.com/players/p/pauliro01.shtml	pauliro01	30	248	NYM	-4.0	-0.4	250	-0.0	4.4	-4.4	1.11	-1.0	1.0	-9.0	-0.9	0.99	-7.7	2.02	15
+2011	726	Ronny Paulino	http://www.baseball-reference.com/players/p/pauliro01.shtml	pauliro01	30	248	NYM	-4.0	-0.4	250	-0.0	4.4	-4.4	1.11	-1.0	0.9	-9.0	-0.9	0.99	-7.7	2.02	15
 2011	727	Carl Pavano	http://www.baseball-reference.com/players/p/pavanca01.shtml	pavanca01	35	6	MIN	-1.6	-0.2	6	-0.1	0.0	-0.1	.35	-0.2	-0.0	-1.8	-0.2	1.00	-1.7		0
 2011	728	Brad Peacock	http://www.baseball-reference.com/players/p/peacobr01.shtml	peacobr01	23	4	WSN	-1.1	-0.1	4	-0.1	0.0	-0.1	.92	-0.1	-0.0	-0.9	-0.1	0.90	-1.0		0
 2011	729	Steve Pearce	http://www.baseball-reference.com/players/p/pearcst01.shtml	pearcst01	28	105	PIT	-6.7	-0.7	106	-1.1	1.5	-2.6	1.23	-0.4	-0.5	-6.1	-0.6	1.06	-5.3	1.25	23
@@ -735,7 +735,7 @@
 2011	735	Carlos Pena*	http://www.baseball-reference.com/players/p/penaca01.shtml	penaca01	33	606	CHC	18.9	1.9	618	3.2	13.5	-10.3	1.10	2.2	0.7	23.4	2.3	0.99	21.5	1.33	4
 2011	736	Ramiro Pena#	http://www.baseball-reference.com/players/p/penara02.shtml	penara02	25	46	NYY	-6.4	-0.6	47	-0.6	0.2	-0.8	.75	-0.5	-0.3	-4.3	-0.4	0.91	-5.7	0.05	1
 2011	737	Wily Mo Pena	http://www.baseball-reference.com/players/p/penawi01.shtml	penawi01	29	120	TOT	-3.2	-0.3	122	-0.2	2.2	-2.5	1.00	0.1	-0.3	-3.6	-0.4	0.98	1.9	1.89	9
-2011	738	Wily Mo Pena	http://www.baseball-reference.com/players/p/penawi01.shtml	penawi01	29	46	ARI	-1.5	-0.2	46	0.3	1.3	-1.0	1.09	0.3	-0.0	-2.2	-0.2	0.94	3.9	1.48	7
+2011	738	Wily Mo Pena	http://www.baseball-reference.com/players/p/penawi01.shtml	penawi01	29	46	ARI	-1.5	-0.2	46	0.3	1.3	-1.0	1.09	0.3	-0.1	-2.2	-0.2	0.94	3.9	1.48	7
 2011	739	Wily Mo Pena	http://www.baseball-reference.com/players/p/penawi01.shtml	penawi01	29	74	SEA	-1.7	-0.2	76	-0.5	1.0	-1.5	.94	-0.2	-0.3	-1.4	-0.2	1.00	-2.1	3.33	2
 2011	740	Hunter Pence	http://www.baseball-reference.com/players/p/pencehu01.shtml	pencehu01	28	668	TOT	32.0	3.2	687	3.4	14.4	-11.0	1.03	3.4	-0.1	38.1	3.8	0.96	36.0	3.86	2
 2011	741	Hunter Pence	http://www.baseball-reference.com/players/p/pencehu01.shtml	pencehu01	28	432	HOU	14.9	1.5	448	2.6	9.7	-7.0	1.04	1.7	0.9	24.5	2.5	0.95	19.9	5.07	1
@@ -830,7 +830,7 @@
 2011	830	Esmil Rogers	http://www.baseball-reference.com/players/r/rogeres01.shtml	rogeres01	25	31	COL	-2.4	-0.2	31	-0.3	0.3	-0.5	.93	-0.3	-0.0	-3.1	-0.3	0.87	-3.3		0
 2011	831	Ryan Rohlinger	http://www.baseball-reference.com/players/r/rohliry01.shtml	rohliry01	27	1	SFG	-0.3	-0.0	1	-0.0	0.0	-0.0	1.53	-0.0	-0.0	-0.2	-0.0	0.86	-0.2	1.53	1
 2011	832	Scott Rolen	http://www.baseball-reference.com/players/r/rolensc01.shtml	rolensc01	36	269	CIN	-7.2	-0.7	274	-0.3	5.4	-5.8	1.19	-0.1	-0.1	5.0	0.5	1.01	0.6	0.92	3
-2011	833	Jimmy Rollins#	http://www.baseball-reference.com/players/r/rolliji01.shtml	rolliji01	32	631	PHI	1.0	0.1	677	-0.4	10.0	-10.4	.99	1.0	-1.3	20.1	2.0	0.94	13.1	1.91	4
+2011	833	Jimmy Rollins#	http://www.baseball-reference.com/players/r/rolliji01.shtml	rolliji01	32	631	PHI	1.0	0.1	677	-0.4	10.0	-10.4	.99	1.0	-1.4	20.1	2.0	0.94	13.1	1.91	4
 2011	834	Ricky Romero	http://www.baseball-reference.com/players/r/romerri01.shtml	romerri01	26	6	TOR	-0.9	-0.1	6	-0.0	0.1	-0.1	.89	-0.1	0.1	0.7	0.1	1.03	-0.6		0
 2011	835	Andrew Romine#	http://www.baseball-reference.com/players/r/rominan01.shtml	rominan01	25	18	LAA	-2.4	-0.2	19	-0.1	0.1	-0.2	.59	-0.1	-0.0	-1.7	-0.2	1.02	-1.2		0
 2011	836	Austin Romine	http://www.baseball-reference.com/players/r/rominau01.shtml	rominau01	22	20	NYY	-2.8	-0.3	20	-0.7	0.0	-0.7	1.27	-0.3	-0.3	-3.8	-0.4	1.08	-3.6		1
@@ -876,7 +876,7 @@
 2011	876	Max Scherzer	http://www.baseball-reference.com/players/s/scherma01.shtml	scherma01	26	4	DET	-1.1	-0.1	4	-0.1	0.0	-0.1	.69	-0.1	0.0	-0.6	-0.1	0.60	-0.9		0
 2011	877	Nate Schierholtz*	http://www.baseball-reference.com/players/s/schiena01.shtml	schiena01	27	362	SFG	6.4	0.6	376	2.8	9.3	-6.5	1.13	1.0	1.5	5.8	0.6	0.99	8.5	1.93	22
 2011	878	Brian Schneider*	http://www.baseball-reference.com/players/s/schnebr01.shtml	schnebr01	34	139	PHI	-10.8	-1.1	140	-0.9	1.5	-2.4	.89	-0.7	-0.3	-10.7	-1.1	1.02	-9.6	2.13	3
-2011	879	Skip Schumaker*	http://www.baseball-reference.com/players/s/schumsk01.shtml	schumsk01	31	400	STL	-3.9	-0.4	414	0.2	7.0	-6.7	1.04	-0.2	0.4	2.4	0.2	0.99	-4.4	0.93	14
+2011	879	Skip Schumaker*	http://www.baseball-reference.com/players/s/schumsk01.shtml	schumsk01	31	400	STL	-3.9	-0.4	414	0.2	7.0	-6.7	1.03	-0.2	0.4	2.4	0.2	0.99	-4.4	0.93	14
 2011	880	Michael Schwimer	http://www.baseball-reference.com/players/s/schwimi01.shtml	schwimi01	25	1	PHI	-0.3	-0.0	1	-0.0	0.0	-0.0	.76	-0.0	0.0	-0.1	-0.0	0.38	-0.2		0
 2011	881	Chris Schwinden	http://www.baseball-reference.com/players/s/schwich01.shtml	schwich01	24	7	NYM	-0.6	-0.1	8	-0.1	0.0	-0.1	.99	-0.1	-0.0	-0.7	-0.1	0.85	-0.7		0
 2011	882	Luke Scott*	http://www.baseball-reference.com/players/s/scottlu01.shtml	scottlu01	33	236	BAL	-3.0	-0.3	239	-0.8	3.7	-4.5	1.03	-0.2	-0.6	-3.9	-0.4	0.92	0.1	1.96	7
@@ -963,7 +963,7 @@
 2011	963	Mark Trumbo	http://www.baseball-reference.com/players/t/trumbma01.shtml	trumbma01	25	573	LAA	8.8	0.9	593	0.4	10.8	-10.4	.94	0.5	-0.0	4.6	0.5	0.93	3.5	0.06	1
 2011	964	Troy Tulowitzki	http://www.baseball-reference.com/players/t/tulowtr01.shtml	tulowtr01	26	606	COL	24.8	2.5	628	2.8	14.4	-11.6	1.13	3.1	-0.6	29.2	2.7	0.99	29.1	2.16	3
 2011	965	Justin Turner	http://www.baseball-reference.com/players/t/turneju01.shtml	turneju01	26	487	NYM	-1.8	-0.2	499	1.4	9.2	-7.8	1.02	-0.2	1.6	11.2	1.1	0.93	0.3	2.52	10
-2011	966	Dan Uggla	http://www.baseball-reference.com/players/u/ugglada01.shtml	ugglada01	31	672	ATL	3.6	0.4	679	0.4	12.4	-12.1	1.04	-0.2	0.6	5.6	0.6	0.95	4.4	3.64	1
+2011	966	Dan Uggla	http://www.baseball-reference.com/players/u/ugglada01.shtml	ugglada01	31	672	ATL	3.6	0.4	679	0.4	12.4	-12.1	1.04	-0.2	0.5	5.6	0.6	0.95	4.4	3.64	1
 2011	967	Justin Upton	http://www.baseball-reference.com/players/u/uptonju01.shtml	uptonju01	23	674	ARI	34.3	3.4	709	3.0	13.8	-10.8	.96	4.3	-1.2	35.1	3.4	0.90	46.3	2.45	2
 2011	968	Melvin Upton	http://www.baseball-reference.com/players/u/uptonbj01.shtml	uptonbj01	26	640	TBR	11.5	1.1	696	0.8	12.1	-11.3	.98	0.6	0.2	1.9	0.2	0.97	8.3	1.64	2
 2011	969	Juan Uribe	http://www.baseball-reference.com/players/u/uribeju01.shtml	uribeju01	32	295	LAD	-16.0	-1.6	299	-2.2	3.9	-6.1	1.07	-1.4	-0.6	-19.3	-2.0	1.00	-15.8	1.51	3
@@ -991,7 +991,7 @@
 2011	991	Joey Votto*	http://www.baseball-reference.com/players/v/vottojo01.shtml	vottojo01	27	719	CIN	51.2	5.0	744	7.1	18.0	-11.0	1.06	5.4	1.3	63.3	6.1	0.93	60.3	1.59	1
 2011	992	Tim Wakefield	http://www.baseball-reference.com/players/w/wakefti01.shtml	wakefti01	44	4	BOS	-1.1	-0.1	4	-0.1	0.0	-0.1	1.22	-0.1	0.0	-1.0	-0.1	1.02	-1.0		0
 2011	993	Neil Walker#	http://www.baseball-reference.com/players/w/walkene01.shtml	walkene01	25	662	PIT	7.8	0.8	685	1.6	13.0	-11.4	1.03	1.2	0.4	16.7	1.7	0.98	12.7	0.83	1
-2011	994	Brett Wallace*	http://www.baseball-reference.com/players/w/wallabr01.shtml	wallabr01	24	379	HOU	-0.8	-0.1	387	0.2	6.5	-6.3	1.03	-0.3	0.5	-1.3	-0.1	0.97	-3.3	0.89	17
+2011	994	Brett Wallace*	http://www.baseball-reference.com/players/w/wallabr01.shtml	wallabr01	24	379	HOU	-0.8	-0.1	387	0.2	6.5	-6.3	1.03	-0.2	0.5	-1.3	-0.1	0.97	-3.3	0.89	17
 2011	995	Chien-Ming Wang	http://www.baseball-reference.com/players/w/wangch01.shtml	wangch01	31	20	WSN	-4.2	-0.4	20	-0.4	0.1	-0.4	.96	-0.4	-0.0	-3.2	-0.3	0.96	-3.8		0
 2011	996	Tony Watson*	http://www.baseball-reference.com/players/w/watsoto01.shtml	watsoto01	26	1	PIT	-0.3	-0.0	1	-0.0	0.0	-0.0	.03	-0.0	-0.0	-0.1	-0.0	0.60	-0.2		0
 2011	997	Jered Weaver	http://www.baseball-reference.com/players/w/weaveje02.shtml	weaveje02	28	4	LAA	-1.1	-0.1	4	-0.2	0.0	-0.2	1.13	-0.2	-0.0	-1.5	-0.2	0.80	-1.6		0

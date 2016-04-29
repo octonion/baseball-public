@@ -135,8 +135,8 @@
 1990	135	Hubie Brooks	http://www.baseball-reference.com/players/b/brookhu01.shtml	brookhu01	33	LAD	NL	153	618	568	74	151	28	1	20	91	2	5	33	108	.266	.307	.424	.732	102	241	13	6	0	11	10	*9
 1990	136	Keith Brown#	http://www.baseball-reference.com/players/b/brownke02.shtml	brownke02	26	CIN	NL	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1990	137	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	24	TOT	MLB	7	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
-1990	138	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	24	NYM	NL	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
-1990	139	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	25	TEX	AL	27	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
+1990	138	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	25	TEX	AL	27	1	1	0	0	0	0	0	0	0	0	0	0	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
+1990	139	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	24	NYM	NL	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1990	140	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	24	MIL	AL	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1990	141	Marty Brown	http://www.baseball-reference.com/players/b/brownma03.shtml	brownma03	27	BAL	AL	9	16	15	1	3	0	0	0	0	0	0	1	7	.200	.250	.200	.450	30	3	1	0	0	0	0	/D45
 1990	142	Jerry Browne#	http://www.baseball-reference.com/players/b/brownje01.shtml	brownje01	24	CLE	AL	140	610	513	92	137	26	5	6	50	12	7	72	46	.267	.353	.372	.725	105	191	12	2	12	11	1	*4
@@ -392,8 +392,8 @@
 1990	392	Mike Greenwell*	http://www.baseball-reference.com/players/g/greenmi01.shtml	greenmi01	26	BOS	AL	159	682	610	71	181	30	6	14	73	8	7	65	43	.297	.367	.434	.801	120	265	19	4	0	3	12	*7
 1990	393	Tommy Gregg*	http://www.baseball-reference.com/players/g/greggto01.shtml	greggto01	26	ATL	NL	124	261	239	18	63	13	1	5	32	4	3	20	39	.264	.322	.389	.711	91	93	1	1	0	1	4	39/7
 1990	394	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke01.shtml	griffke01	40	TOT	MLB	67	156	140	19	42	4	0	4	26	2	1	12	8	.300	.353	.414	.767	111	58	1	1	0	3	0	7/39
-1990	395	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke01.shtml	griffke01	40	CIN	NL	46	68	63	6	13	2	0	1	8	2	1	2	5	.206	.235	.286	.521	40	18	0	1	0	2	0	/379
-1990	396	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke02.shtml	griffke02	20	SEA	AL	155	666	597	91	179	28	7	22	80	16	11	63	81	.300	.366	.481	.847	136	287	12	2	0	4	12	*8/D
+1990	395	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke02.shtml	griffke02	20	SEA	AL	155	666	597	91	179	28	7	22	80	16	11	63	81	.300	.366	.481	.847	136	287	12	2	0	4	12	*8/D
+1990	396	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke01.shtml	griffke01	40	CIN	NL	46	68	63	6	13	2	0	1	8	2	1	2	5	.206	.235	.286	.521	40	18	0	1	0	2	0	/379
 1990	397	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke01.shtml	griffke01	40	SEA	AL	21	88	77	13	29	2	0	3	18	0	0	10	3	.377	.443	.519	.963	169	40	1	0	0	1	0	7
 1990	398	Alfredo Griffin#	http://www.baseball-reference.com/players/g/griffal01.shtml	griffal01	32	LAD	NL	141	502	461	38	97	11	3	1	35	6	3	29	65	.210	.258	.254	.512	44	117	5	2	6	4	11	*6
 1990	399	Jason Grimsley	http://www.baseball-reference.com/players/g/grimsja01.shtml	grimsja01	22	PHI	NL	12	20	16	1	3	0	0	0	2	0	0	1	2	.188	.235	.188	.423	19	3	0	0	3	0	0	1
@@ -668,7 +668,7 @@
 1990	668	Dave Martinez*	http://www.baseball-reference.com/players/m/martida01.shtml	martida01	25	MON	NL	118	421	391	60	109	13	5	11	39	13	11	24	48	.279	.321	.422	.743	107	165	8	1	3	2	2	89/1
 1990	669	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	36	MON	NL	32	82	68	0	7	1	0	0	6	0	0	1	25	.103	.129	.118	.246	-30	8	3	1	12	0	0	1
 1990	670	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	27	SEA	AL	144	572	487	71	147	27	2	11	49	1	4	74	62	.302	.397	.433	.830	133	211	13	5	1	3	3	*5/D
-1990	671	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	22	LAD	NL	33	92	80	2	10	0	0	0	6	0	0	1	32	.125	.145	.125	.270	-24	10	1	1	9	1	0	1
+1990	671	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	22	LAD	NL	33	92	80	2	10	0	0	0	6	0	0	1	32	.125	.145	.125	.270	-24	10	1	1	9	1	0	1
 1990	672	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	22	SEA	AL	24	78	68	4	15	4	0	0	5	0	0	9	9	.221	.308	.279	.587	66	19	0	0	0	1	0	3
 1990	673	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	27	BOS	AL	32	91	83	8	20	4	0	0	6	0	1	5	10	.241	.281	.289	.570	58	24	0	0	2	1	0	2
 1990	674	Greg Mathews	http://www.baseball-reference.com/players/m/mathegr01.shtml	mathegr01	28	STL	NL	12	17	14	2	3	1	0	0	0	0	0	2	5	.214	.313	.286	.598	66	4	1	0	1	0	0	1

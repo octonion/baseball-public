@@ -37,7 +37,7 @@
 1995	37	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	31	MON	NL	29	4	3	0	1	0	0	0	0	0	0	1	1	.333	.500	.333	.833	123	1	0	0	0	0	0	1
 1995	38	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	31	SFG	NL	5	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	/1
 1995	39	Alex Arias	http://www.baseball-reference.com/players/a/ariasal01.shtml	ariasal01	27	FLA	NL	94	246	216	22	58	9	2	3	26	1	0	22	20	.269	.337	.370	.708	87	80	8	2	3	3	1	65/4
-1995	40	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	29	STL	NL	41	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
+1995	40	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	STL	NL	41	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
 1995	41	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	27	SDP	NL	31	67	49	2	8	1	0	0	3	1	0	1	24	.163	.180	.184	.364	-2	9	0	0	17	0	0	1
 1995	42	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	24	LAD	NL	81	244	215	17	51	5	0	8	27	0	0	25	88	.237	.320	.372	.692	90	80	8	2	0	2	4	7
 1995	43	Paul Assenmacher*	http://www.baseball-reference.com/players/a/assenpa01.shtml	assenpa01	34	CLE	AL	47	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
@@ -511,8 +511,8 @@
 1995	511	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	30	TOT	MLB	24	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 1995	512	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	30	PHI	NL	21	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 1995	513	Gene Harris	http://www.baseball-reference.com/players/h/harrige01.shtml	harrige01	30	BAL	AL	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
-1995	514	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	39	MON	NL	45	3	3	0	1	1	0	0	0	0	0	0	1	.333	.333	.667	1.000	153	2	0	0	0	0	0	1
-1995	515	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	31	MIN	AL	7	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+1995	514	Greg Harris	http://www.baseball-reference.com/players/h/harrigr02.shtml	harrigr02	31	MIN	AL	7	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+1995	515	Greg Harris#	http://www.baseball-reference.com/players/h/harrigr01.shtml	harrigr01	39	MON	NL	45	3	3	0	1	1	0	0	0	0	0	0	1	.333	.333	.667	1.000	153	2	0	0	0	0	0	1
 1995	516	Lenny Harris*	http://www.baseball-reference.com/players/h/harrile01.shtml	harrile01	30	CIN	NL	101	215	197	32	41	8	3	2	16	10	1	14	20	.208	.259	.310	.569	50	61	6	0	3	1	0	53/794
 1995	517	Dean Hartgraves	http://www.baseball-reference.com/players/h/hartgde01.shtml	hartgde01	28	HOU	NL	40	3	2	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	1	0	0	1
 1995	518	Mike Hartley	http://www.baseball-reference.com/players/h/hartlmi01.shtml	hartlmi01	33	TOT	AL	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
@@ -753,9 +753,9 @@
 1995	753	Dave Martinez*	http://www.baseball-reference.com/players/m/martida01.shtml	martida01	30	CHW	AL	119	349	303	49	93	16	4	5	37	8	2	32	41	.307	.371	.436	.806	113	132	6	1	9	4	2	397/8D1
 1995	754	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	41	CLE	AL	28	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 1995	755	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	32	SEA	AL	145	639	511	121	182	52	0	29	113	4	3	116	87	.356	.479	.628	1.107	185	321	11	8	0	4	19	*D/53
-1995	756	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	23	MON	NL	30	72	63	2	7	0	0	0	2	0	0	0	30	.111	.134	.111	.245	-35	7	1	2	5	2	0	1
-1995	757	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	26	HOU	NL	25	1	0	1	0	0	0	0	0	0	0	1	0		1.000				0	0	0	0	0	0	1
-1995	758	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	27	LAD	NL	30	78	64	2	11	4	0	0	4	0	0	1	19	.172	.185	.234	.419	14	15	0	0	13	0	0	1
+1995	756	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	26	HOU	NL	25	1	0	1	0	0	0	0	0	0	0	1	0		1.000				0	0	0	0	0	0	1
+1995	757	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	23	MON	NL	30	72	63	2	7	0	0	0	2	0	0	0	30	.111	.134	.111	.245	-35	7	1	2	5	2	0	1
+1995	758	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	27	LAD	NL	30	78	64	2	11	4	0	0	4	0	0	1	19	.172	.185	.234	.419	14	15	0	0	13	0	0	1
 1995	759	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	24	TOR	AL	62	200	191	12	46	12	0	2	25	0	0	7	45	.241	.270	.335	.605	58	64	1	1	0	1	0	2
 1995	760	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	27	SEA	AL	141	593	519	92	152	35	3	31	111	0	0	62	91	.293	.369	.551	.920	135	286	10	4	2	6	15	*3/D
 1995	761	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	32	TEX	AL	2	6	6	1	2	0	0	0	0	0	0	0	0	.333	.333	.333	.667	73	2	0	0	0	0	0	/2

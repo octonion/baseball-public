@@ -22,7 +22,7 @@
 1995	22	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	31	4	MON	0	0	0%	1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
 1995	23	Luis Aquino	http://www.baseball-reference.com/players/a/aquinlu01.shtml	aquinlu01	31	1	SFG	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
 1995	24	Alex Arias	http://www.baseball-reference.com/players/a/ariasal01.shtml	ariasal01	27	246	FLA	3	0	24%	93	1	0	100%	0	0	1	0	0	0	0	0	0	0	0	0	0	4	24%	12	12	0	5	2	3	4	2	2
-1995	25	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	29	1	STL	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
+1995	25	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	1	STL	0	0		0	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
 1995	26	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	27	67	SDP	2	0	22%	10	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	0	50%	1	0	1	0	0	0	1	1	0
 1995	27	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	24	244	LAD	1	0	13%	57	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	1	29%	8	6	2	1	1	0	5	3	2
 1995	28	Pedro Astacio	http://www.baseball-reference.com/players/a/astacpe01.shtml	astacpe01	26	27	LAD	0	0	0%	5	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
@@ -403,8 +403,8 @@
 1995	403	Tim Hulett	http://www.baseball-reference.com/players/h/huletti01.shtml	huletti01	35	11	STL	0	0	0%	3	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
 1995	404	David Hulse*	http://www.baseball-reference.com/players/h/hulseda01.shtml	hulseda01	27	364	MIL	2	0	39%	141	15	3	83%	14	2	1	0	0	1	0	0	1	0	0	0	1	7	50%	18	11	7	3	2	1	15	5	10
 1995	405	Todd Hundley#	http://www.baseball-reference.com/players/h/hundlto01.shtml	hundlto01	26	326	NYM	3	0	22%	142	1	0	100%	1	0	0	0	0	0	1	0	5	0	1	1	3	6	39%	20	13	7	2	1	1	9	3	4
-1995	406	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	27	93	CIN	1	0	29%	24	2	1	67%	2	1	0	0	0	0	0	0	1	0	1	0	0	2	67%	2	1	1	2	0	2	5	2	3
-1995	407	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	24	349	HOU	6	0	42%	143	24	7	77%	19	5	5	1	0	1	4	4	4	0	3	1	0	18	47%	25	17	7	7	2	5	13	4	9
+1995	406	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	24	349	HOU	6	0	42%	143	24	7	77%	19	5	5	1	0	1	4	4	4	0	3	1	0	18	47%	25	17	7	7	2	5	13	4	9
+1995	407	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr01.shtml	huntebr01	27	93	CIN	1	0	29%	24	2	1	67%	2	1	0	0	0	0	0	0	1	0	1	0	0	2	67%	2	1	1	2	0	2	5	2	3
 1995	408	Butch Huskey	http://www.baseball-reference.com/players/h/huskebu01.shtml	huskebu01	23	102	NYM	3	0	21%	26	1	0	100%	1	0	0	0	0	0	0	0	0	0	0	0	0	1	44%	6	4	2	1	0	1	2	1	1
 1995	409	Jeff Huson*	http://www.baseball-reference.com/players/h/husonje01.shtml	husonje01	30	180	BAL	1	0	35%	68	5	4	56%	4	4	1	0	0	0	0	0	2	0	0	1	1	9	32%	11	8	2	4	3	0	10	3	6
 1995	410	Tim Hyers*	http://www.baseball-reference.com/players/h/hyersti01.shtml	hyersti01	23	5	SDP	1	0		1	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
@@ -518,7 +518,7 @@
 1995	518	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	32	639	SEA	3	0	33%	322	4	3	57%	4	3	0	0	0	0	2	1	4	1	1	2	0	22	37%	39	28	9	14	10	4	17	4	13
 1995	519	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	23	72	MON	0	0	22%	9	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	3	3	0	1	1	0	0	0	0
 1995	520	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	26	1	HOU	0	0	100%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0	0	0	0	0	0	0
-1995	521	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	27	78	LAD	1	0	17%	15	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	25%	4	3	1	0	0	0	0	0	0
+1995	521	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	27	78	LAD	1	0	17%	15	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	2	25%	4	3	1	0	0	0	0	0	0
 1995	522	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	24	200	TOR	1	0	19%	69	0	0		0	0	0	0	0	0	0	0	4	0	3	0	1	2	30%	10	8	1	1	0	1	9	4	4
 1995	523	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	27	593	SEA	6	0	33%	204	0	0		0	0	0	0	0	0	0	0	7	2	3	1	1	10	29%	27	23	3	10	6	4	12	4	7
 1995	524	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	32	6	TEX	0	0	50%	2	0	0		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0%	0	0	0	0	0	0	1	1	0

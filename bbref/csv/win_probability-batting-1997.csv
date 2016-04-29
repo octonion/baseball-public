@@ -28,7 +28,7 @@
 1997	28	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	28	TOT	-2.4	-0.2	30	-0.7	0.1	-0.8	1.04	-0.1	-0.5	0.4	0.0	1.09	-1.1	1.89	5
 1997	29	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	6	ANA	-0.3	-0.0	7	-0.2	0.0	-0.2	1.17	-0.0	-0.1	0.6	0.1	1.05	0.0	3.16	2
 1997	30	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	22	SDP	-2.1	-0.2	23	-0.5	0.1	-0.6	1.00	-0.1	-0.4	-0.2	-0.0	1.10	-1.1	1.04	3
-1997	31	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	1	SFG	-0.3	-0.0	1	-0.0	0.0	-0.0	1.25	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
+1997	31	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	33	1	SFG	-0.3	-0.0	1	-0.0	0.0	-0.0	1.25	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
 1997	32	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	29	69	SDP	-13.0	-1.3	69	-1.1	0.3	-1.4	.94	-1.1	-0.0	-11.7	-1.2	0.87	-12.5		0
 1997	33	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	26	140	LAD	-1.6	-0.2	141	-0.2	2.5	-2.8	1.03	-0.1	-0.1	-3.4	-0.3	0.97	0.8	1.09	34
 1997	34	Pedro Astacio	http://www.baseball-reference.com/players/a/astacpe01.shtml	astacpe01	28	65	TOT	-10.1	-1.0	65	-1.0	0.3	-1.4	1.01	-1.1	0.1	-11.1	-1.1	1.01	-11.4		0
@@ -121,8 +121,8 @@
 1997	121	Adrian Brown#	http://www.baseball-reference.com/players/b/brownad01.shtml	brownad01	23	167	PIT	-13.8	-1.4	182	-0.4	2.3	-2.8	.90	-0.7	0.2	-9.4	-0.9	0.92	-9.1	0.92	3
 1997	122	Brant Brown*	http://www.baseball-reference.com/players/b/brownbr01.shtml	brownbr01	26	148	CHC	-5.2	-0.5	151	0.2	3.0	-2.8	1.05	-0.2	0.4	0.8	0.1	0.86	-1.8	0.83	7
 1997	123	Emil Brown	http://www.baseball-reference.com/players/b/brownem01.shtml	brownem01	22	112	PIT	-6.7	-0.6	120	-0.3	1.3	-1.6	.83	-0.4	-0.0	-8.1	-0.8	0.95	-4.4	0.52	23
-1997	124	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	24	5	TEX	1.0	0.1	5	-0.0	0.1	-0.1	.83	0.1	-0.2	-0.2	-0.0	1.06	2.0	0.00	1
-1997	125	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	32	83	FLA	-11.8	-1.2	83	-1.1	0.6	-1.7	1.02	-1.1	-0.0	-12.4	-1.2	1.07	-13.1		0
+1997	124	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	32	83	FLA	-11.8	-1.2	83	-1.1	0.6	-1.7	1.02	-1.1	-0.0	-12.4	-1.2	1.07	-13.1		0
+1997	125	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	24	5	TEX	1.0	0.1	5	-0.0	0.1	-0.1	.83	0.1	-0.2	-0.2	-0.0	1.06	2.0	0.00	1
 1997	126	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	32	191	TOR	-14.5	-1.4	202	-1.1	2.9	-4.0	1.08	-1.0	0.0	-10.6	-1.0	0.98	-14.3	2.40	8
 1997	127	Jim Bruske	http://www.baseball-reference.com/players/b/bruskji01.shtml	bruskji01	32	6	SDP	-0.6	-0.1	6	-0.0	0.0	-0.1	.47	-0.0	0.0	-1.3	-0.1	1.01	-0.8	0.00	1
 1997	128	Damon Buford	http://www.baseball-reference.com/players/b/buforda01.shtml	buforda01	27	404	TEX	-23.0	-2.2	433	-1.3	6.3	-7.6	.96	-1.7	0.4	-25.4	-2.3	0.96	-23.0	0.01	4
@@ -214,7 +214,7 @@
 1997	214	Jim Crowell*	http://www.baseball-reference.com/players/c/croweji01.shtml	croweji01	23	2	CIN	-0.6	-0.1	2	-0.0	0.0	-0.0	.81	-0.1	0.0	-0.4	-0.0	0.68	-0.6		0
 1997	215	Deivi Cruz	http://www.baseball-reference.com/players/c/cruzde01.shtml	cruzde01	24	467	DET	-31.8	-3.0	483	-1.3	6.5	-7.7	.88	-2.4	0.9	-18.9	-1.8	0.92	-30.0		0
 1997	216	Ivan Cruz*	http://www.baseball-reference.com/players/c/cruziv01.shtml	cruziv01	29	22	NYY	-1.1	-0.1	22	0.1	0.4	-0.4	.99	-0.1	0.2	-1.2	-0.1	1.10	-0.7	1.86	4
-1997	217	Jacob Cruz*	http://www.baseball-reference.com/players/c/cruzja01.shtml	cruzja01	24	29	SFG	-2.9	-0.3	29	-0.3	0.4	-0.7	1.22	-0.2	-0.0	-2.8	-0.3	1.10	-2.9	1.45	6
+1997	217	Jacob Cruz*	http://www.baseball-reference.com/players/c/cruzja01.shtml	cruzja01	24	29	SFG	-2.9	-0.3	29	-0.3	0.4	-0.7	1.22	-0.2	-0.0	-2.8	-0.3	1.10	-2.9	1.46	6
 1997	218	Jose Cruz#	http://www.baseball-reference.com/players/c/cruzjo02.shtml	cruzjo02	23	442	TOT	4.3	0.4	455	1.1	8.7	-7.7	.98	1.6	-0.5	7.9	0.7	0.93	15.7	2.85	1
 1997	219	Jose Cruz#	http://www.baseball-reference.com/players/c/cruzjo02.shtml	cruzjo02	23	198	SEA	4.4	0.4	200	0.9	4.0	-3.1	.88	1.3	-0.2	8.0	0.7	0.93	13.1	2.85	1
 1997	220	Jose Cruz#	http://www.baseball-reference.com/players/c/cruzjo02.shtml	cruzjo02	23	244	TOR	-0.1	-0.0	255	0.2	4.7	-4.5	1.05	0.3	-0.2	-0.1	-0.0	0.93	2.6		0
@@ -442,7 +442,7 @@
 1997	442	Jack Howell*	http://www.baseball-reference.com/players/h/howelja02.shtml	howelja02	35	191	ANA	2.4	0.2	197	0.3	4.2	-3.9	1.11	0.7	-0.4	-1.1	-0.1	1.01	5.7	2.08	21
 1997	443	Mike Hubbard	http://www.baseball-reference.com/players/h/hubbami01.shtml	hubbami01	26	66	CHC	-7.6	-0.7	67	-1.1	0.6	-1.7	1.10	-0.7	-0.4	-8.8	-0.9	0.95	-8.5	2.37	9
 1997	444	Trent Hubbard	http://www.baseball-reference.com/players/h/hubbatr01.shtml	hubbatr01	33	13	CLE	-0.6	-0.1	15	-0.1	0.2	-0.3	1.06	-0.0	-0.0	-0.3	-0.0	0.84	-0.8	1.51	1
-1997	445	Rex Hudler	http://www.baseball-reference.com/players/h/hudlere01.shtml	hudlere01	36	130	PHI	-6.9	-0.7	132	0.1	2.5	-2.4	.96	-0.3	0.5	-7.3	-0.7	0.92	-6.0	1.15	15
+1997	445	Rex Hudler	http://www.baseball-reference.com/players/h/hudlere01.shtml	hudlere01	36	130	PHI	-6.9	-0.7	132	0.1	2.5	-2.4	.96	-0.3	0.4	-7.3	-0.7	0.92	-6.0	1.15	15
 1997	446	Todd Hundley#	http://www.baseball-reference.com/players/h/hundlto01.shtml	hundlto01	28	508	NYM	31.4	3.0	518	2.4	11.7	-9.2	1.14	2.9	-0.8	31.8	3.1	1.02	31.1	1.84	11
 1997	447	Brian Hunter	http://www.baseball-reference.com/players/h/huntebr02.shtml	huntebr02	26	738	DET	-17.8	-1.7	848	-1.6	12.2	-13.8	.97	-1.2	-0.4	-15.4	-1.4	0.94	-17.2		0
 1997	448	Jimmy Hurst	http://www.baseball-reference.com/players/h/hurstji01.shtml	hurstji01	25	19	DET	-0.7	-0.1	19	-0.0	0.2	-0.2	.56	-0.1	0.1	-1.3	-0.1	0.84	-0.9		0
@@ -492,8 +492,8 @@
 1997	492	John Johnstone	http://www.baseball-reference.com/players/j/johnsjo07.shtml	johnsjo07	28	2	TOT	-0.6	-0.1	2	-0.0	0.0	-0.0	.15	-0.1	0.0	-0.3	-0.0	0.62	-0.5		0
 1997	493	John Johnstone	http://www.baseball-reference.com/players/j/johnsjo07.shtml	johnsjo07	28	2	SFG	-0.6	-0.1	2	-0.0	0.0	-0.0	.15	-0.1	0.0	-0.3	-0.0	0.62	-0.5		0
 1997	494	Andruw Jones	http://www.baseball-reference.com/players/j/jonesan01.shtml	jonesan01	20	467	ATL	-4.8	-0.5	505	-0.2	9.9	-10.0	1.11	0.3	-0.4	-4.0	-0.4	1.01	2.9	1.66	22
-1997	495	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo03.shtml	jonesbo03	27	69	NYM	-10.2	-1.0	70	-0.9	0.4	-1.2	.83	-0.9	-0.1	-8.9	-0.9	0.93	-10.1		0
-1997	496	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo04.shtml	jonesbo04	25	7	COL	-0.5	-0.1	7	-0.1	0.0	-0.1	.84	-0.0	-0.0	-0.8	-0.1	0.88	-0.5		0
+1997	495	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo04.shtml	jonesbo04	25	7	COL	-0.5	-0.1	7	-0.1	0.0	-0.1	.84	-0.0	-0.0	-0.8	-0.1	0.88	-0.5		0
+1997	496	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo03.shtml	jonesbo03	27	69	NYM	-10.2	-1.0	70	-0.9	0.4	-1.2	.83	-0.9	-0.1	-8.9	-0.9	0.93	-10.1		0
 1997	497	Chipper Jones#	http://www.baseball-reference.com/players/j/jonesch06.shtml	jonesch06	25	679	ATL	18.4	1.8	712	2.0	14.1	-12.2	1.09	2.9	-1.1	36.5	3.4	0.98	33.5	1.18	2
 1997	498	Chris Jones	http://www.baseball-reference.com/players/j/jonesch05.shtml	jonesch05	31	172	SDP	1.0	0.1	188	-0.3	2.7	-3.0	.89	-0.0	-0.4	-0.9	-0.1	1.02	0.1	0.90	28
 1997	499	Doug Jones	http://www.baseball-reference.com/players/j/jonesdo01.shtml	jonesdo01	40	1	MIL	0.3	0.0	1	0.0	0.0	0.0	1.37	0.0	0.0	0.1	0.0	0.39	0.3		0
@@ -607,7 +607,7 @@
 1997	607	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	34	678	SEA	61.1	5.6	697	2.7	13.4	-10.7	.96	4.8	-2.0	45.8	4.2	0.94	56.6	0.93	2
 1997	608	Felix Martinez#	http://www.baseball-reference.com/players/m/martife01.shtml	martife01	23	38	KCR	-1.0	-0.1	39	0.3	0.8	-0.5	1.11	-0.2	0.5	-0.7	-0.1	0.99	-2.0	0.39	1
 1997	609	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	25	81	MON	-11.9	-1.2	81	-1.2	0.4	-1.6	.91	-1.2	-0.1	-12.6	-1.2	0.86	-13.4		0
-1997	610	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	47	LAD	-5.4	-0.5	47	-0.5	0.3	-0.9	.88	-0.6	0.0	-7.2	-0.7	0.95	-7.1		0
+1997	610	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	47	LAD	-5.4	-0.5	47	-0.5	0.3	-0.9	.88	-0.6	0.0	-7.2	-0.7	0.95	-7.1		0
 1997	611	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	26	3	TOR	-0.3	-0.0	3	0.0	0.1	-0.1	1.47	0.0	0.0	-0.2	-0.0	1.03	-0.1		0
 1997	612	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	29	685	NYY	38.3	3.5	695	4.2	15.9	-11.7	1.03	4.0	0.0	37.1	3.4	1.02	44.5	4.47	2
 1997	613	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	34	96	SEA	-2.0	-0.2	97	-0.2	1.1	-1.3	.77	-0.1	-0.2	0.2	0.0	0.96	-1.2	0.63	5
@@ -616,7 +616,7 @@
 1997	616	T.J. Mathews	http://www.baseball-reference.com/players/m/mathet.01.shtml	mathet.01	27	1	TOT	-0.3	-0.0	1	0.0	0.0	0.0	.01	-0.0	0.0	-0.3	-0.0	1.03	-0.3		0
 1997	617	T.J. Mathews	http://www.baseball-reference.com/players/m/mathet.01.shtml	mathet.01	27	1	STL	-0.3	-0.0	1	0.0	0.0	0.0	.01	-0.0	0.0	-0.3	-0.0	1.03	-0.3		0
 1997	618	Darrell May*	http://www.baseball-reference.com/players/m/mayda02.shtml	mayda02	25	2	ANA	-0.6	-0.1	2	-0.0	0.0	-0.0	.61	-0.1	-0.0	-0.3	-0.0	0.62	-0.6		0
-1997	619	Derrick May*	http://www.baseball-reference.com/players/m/mayde01.shtml	mayde01	28	159	PHI	-12.0	-1.2	167	-0.7	2.1	-2.8	.88	-0.9	0.0	-11.0	-1.1	0.96	-11.5	0.90	26
+1997	619	Derrick May*	http://www.baseball-reference.com/players/m/mayde01.shtml	mayde01	28	159	PHI	-12.0	-1.2	167	-0.7	2.1	-2.8	.87	-0.9	0.0	-11.0	-1.1	0.96	-11.5	0.90	26
 1997	620	Brent Mayne*	http://www.baseball-reference.com/players/m/maynebr01.shtml	maynebr01	29	282	OAK	-0.2	-0.0	288	-1.3	3.9	-5.2	.99	-0.2	-1.1	-8.5	-0.8	0.90	-2.6	1.15	7
 1997	621	Quinton McCracken#	http://www.baseball-reference.com/players/m/mccraqu01.shtml	mccraqu01	26	375	COL	-10.5	-1.0	417	-0.1	6.3	-6.3	.98	0.3	-0.4	3.8	0.3	0.95	1.4	0.98	13
 1997	622	Jeff McCurry	http://www.baseball-reference.com/players/m/mccurje01.shtml	mccurje01	27	1	COL	-0.3	-0.0	1	-0.0	0.0	-0.0	.02	-0.0	-0.0	-0.2	-0.0	0.74	-0.3		0
@@ -728,7 +728,7 @@
 1997	728	Kevin Orie	http://www.baseball-reference.com/players/o/orieke01.shtml	orieke01	24	418	CHC	1.4	0.1	425	-0.3	7.2	-7.6	1.01	0.7	-1.0	3.4	0.3	0.92	9.3	1.44	4
 1997	729	Jesse Orosco	http://www.baseball-reference.com/players/o/oroscje01.shtml	oroscje01	40	1	BAL	0.3	0.0	1	0.0	0.0	0.0	.97	0.0	-0.0	0.1	0.0	0.38	0.3		0
 1997	730	Joe Orsulak*	http://www.baseball-reference.com/players/o/orsuljo01.shtml	orsuljo01	35	170	MON	-6.1	-0.6	173	-1.1	2.4	-3.5	1.01	-0.7	-0.4	-10.8	-1.0	0.91	-9.0	1.36	24
-1997	731	David Ortiz*	http://www.baseball-reference.com/players/o/ortizda01.shtml	ortizda01	21	51	MIN	0.5	0.0	51	-0.3	0.5	-0.8	.77	-0.1	-0.4	-0.0	-0.0	0.91	-0.1	0.26	3
+1997	731	David Ortiz*	http://www.baseball-reference.com/players/o/ortizda01.shtml	ortizda01	21	51	MIN	0.5	0.0	51	-0.3	0.5	-0.8	.77	-0.0	-0.4	-0.0	-0.0	0.91	-0.1	0.26	3
 1997	732	Donovan Osborne#	http://www.baseball-reference.com/players/o/osbordo01.shtml	osbordo01	28	25	STL	-2.9	-0.3	26	-0.2	0.2	-0.5	.96	-0.2	-0.0	-3.5	-0.3	1.03	-2.9		0
 1997	733	Keith Osik	http://www.baseball-reference.com/players/o/osikke01.shtml	osikke01	28	117	PIT	-3.6	-0.3	120	-0.5	1.5	-2.0	.94	-0.4	-0.1	-2.4	-0.2	0.90	-4.3	0.66	13
 1997	734	Antonio Osuna	http://www.baseball-reference.com/players/o/osunaan01.shtml	osunaan01	24	2	LAD	0.2	0.0	2	-0.0	0.0	-0.0	.08	0.0	-0.1	0.0	0.0	0.38	0.1		0
@@ -784,7 +784,7 @@
 1997	784	Jay Powell	http://www.baseball-reference.com/players/p/powelja04.shtml	powelja04	25	4	FLA	0.4	0.0	4	0.1	0.1	-0.0	.85	0.0	0.1	0.4	0.0	1.25	0.3		0
 1997	785	Arquimedez Pozo	http://www.baseball-reference.com/players/p/pozoar01.shtml	pozoar01	23	17	BOS	-1.0	-0.1	17	-0.1	0.3	-0.4	1.24	-0.1	0.1	-1.6	-0.2	1.06	-1.5		0
 1997	786	Todd Pratt	http://www.baseball-reference.com/players/p/prattto02.shtml	prattto02	30	121	NYM	1.2	0.1	122	0.2	2.3	-2.1	1.03	0.2	0.0	4.6	0.4	0.98	2.7	0.98	3
-1997	787	Curtis Pride*	http://www.baseball-reference.com/players/p/pridecu01.shtml	pridecu01	28	192	TOT	-6.8	-0.6	209	-0.9	3.2	-4.1	1.13	-0.6	-0.3	-4.5	-0.4	0.96	-5.1	1.48	24
+1997	787	Curtis Pride*	http://www.baseball-reference.com/players/p/pridecu01.shtml	pridecu01	28	192	TOT	-6.8	-0.6	209	-0.9	3.2	-4.1	1.13	-0.5	-0.3	-4.5	-0.4	0.96	-5.1	1.48	24
 1997	788	Curtis Pride*	http://www.baseball-reference.com/players/p/pridecu01.shtml	pridecu01	28	190	DET	-7.9	-0.7	207	-1.0	3.1	-4.1	1.12	-0.6	-0.3	-5.2	-0.5	0.96	-5.9	1.48	22
 1997	789	Curtis Pride*	http://www.baseball-reference.com/players/p/pridecu01.shtml	pridecu01	28	2	BOS	1.1	0.1	2	0.0	0.1	-0.1	1.52	0.0	-0.0	0.7	0.1	0.86	0.9	1.52	2
 1997	790	Tom Prince	http://www.baseball-reference.com/players/p/princto01.shtml	princto01	32	113	LAD	-4.3	-0.4	113	-0.2	2.0	-2.3	1.11	-0.2	-0.0	-1.4	-0.1	0.97	-2.5	1.85	2
@@ -836,7 +836,7 @@
 1997	836	Alex Rodriguez	http://www.baseball-reference.com/players/r/rodrial01.shtml	rodrial01	21	638	SEA	16.0	1.5	696	2.4	13.3	-11.0	1.01	2.8	-0.5	27.4	2.6	0.98	30.2		0
 1997	837	Felix Rodriguez	http://www.baseball-reference.com/players/r/rodrife01.shtml	rodrife01	24	4	CIN	-0.9	-0.1	4	-0.1	0.0	-0.1	.61	-0.1	-0.0	-1.1	-0.1	1.01	-1.1		0
 1997	838	Frankie Rodriguez	http://www.baseball-reference.com/players/r/rodrifr02.shtml	rodrifr02	24	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.86	-0.0	-0.0	-0.2	-0.0	0.74	-0.3		0
-1997	839	Henry Rodriguez*	http://www.baseball-reference.com/players/r/rodrihe02.shtml	rodrihe02	29	523	MON	-0.2	-0.0	530	0.8	10.6	-9.9	1.06	0.4	0.4	13.8	1.3	0.93	3.1	1.30	5
+1997	839	Henry Rodriguez*	http://www.baseball-reference.com/players/r/rodrihe02.shtml	rodrihe02	29	523	MON	-0.2	-0.0	530	0.8	10.6	-9.9	1.06	0.4	0.3	13.8	1.3	0.93	3.1	1.30	5
 1997	840	Ivan Rodriguez	http://www.baseball-reference.com/players/r/rodriiv01.shtml	rodriiv01	25	648	TEX	11.2	1.0	662	2.1	12.8	-10.7	1.01	1.4	0.7	18.4	1.7	0.90	15.3	3.70	3
 1997	841	Rich Rodriguez*	http://www.baseball-reference.com/players/r/rodriri02.shtml	rodriri02	34	4	SFG	0.2	0.0	4	-0.0	0.0	-0.0	.33	0.0	-0.1	-0.1	-0.0	0.53	0.1		0
 1997	842	Kenny Rogers*	http://www.baseball-reference.com/players/r/rogerke01.shtml	rogerke01	32	3	NYY	-0.9	-0.1	3	-0.1	0.0	-0.1	.63	-0.1	0.0	-0.5	-0.0	0.60	-0.9		0

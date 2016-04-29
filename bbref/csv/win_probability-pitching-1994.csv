@@ -7,7 +7,7 @@
 1994,7,Kevin Appier,/players/a/appieke01.shtml,appieke01,26,KCR,155.0,21.4,2.1,682,2.5,13.7,-11.2,1.13,2.2,-0.0,24.1,2.3,0.94,24.8,0,0,0
 1994,8,Luis Aquino,/players/a/aquinlu01.shtml,aquinlu01,30,FLA,50.2,4.0,0.4,220,0.9,4.0,-3.1,1.03,0.9,0.0,5.7,0.6,0.96,8.4,9,8,11
 1994,9,Jack Armstrong,/players/a/armstja01.shtml,armstja01,29,TEX,10.0,1.7,0.2,42,0.2,0.9,-0.7,1.00,0.0,0.2,2.0,0.2,0.80,0.1,0,0,0
-1994,10,Rene Arocha,/players/a/arochre01.shtml,arochre01,28,STL,83.0,0.8,0.1,370,1.7,8.5,-6.8,1.25,0.1,1.3,1.9,0.2,0.99,-0.5,18,6,13
+1994,10,Rene Arocha,/players/a/arochre01.shtml,arochre01,30,STL,83.0,0.8,0.1,370,1.7,8.5,-6.8,1.25,0.1,1.3,1.9,0.2,0.99,-0.5,18,6,13
 1994,11,Andy Ashby,/players/a/ashbyan01.shtml,ashbyan01,26,SDP,164.1,10.9,1.1,713,1.6,12.9,-11.2,1.03,1.2,0.4,9.5,1.0,0.90,11.5,0,0,0
 1994,12,Paul Assenmacher*,/players/a/assenpa01.shtml,assenpa01,33,CHW,33.0,5.0,0.5,140,1.8,3.5,-1.7,1.30,0.9,0.4,13.7,1.3,0.99,11.2,23,2,18
 1994,13,Pedro Astacio,/players/a/astacpe01.shtml,astacpe01,25,LAD,149.0,-5.7,-0.6,641,0.9,10.7,-9.8,.95,0.5,0.4,-0.6,-0.1,0.89,3.5,0,0,0
@@ -64,14 +64,14 @@
 1994,64,Jim Bullinger,/players/b/bulliji01.shtml,bulliji01,28,CHC,100.0,7.2,0.7,433,1.1,6.3,-5.3,.84,1.1,0.2,8.5,0.9,0.91,13.6,4,4,14
 1994,65,Dave Burba,/players/b/burbada01.shtml,burbada01,27,SFG,74.0,-3.1,-0.3,333,-0.8,5.4,-6.1,.95,0.1,-0.9,4.6,0.5,0.96,1.2,23,14,20
 1994,66,John Burkett,/players/b/burkejo03.shtml,burkejo03,29,SFG,159.1,6.1,0.6,699,1.0,13.0,-12.0,1.05,-0.1,1.1,12.1,1.3,0.93,2.3,0,0,0
-1994,67,Terry Burrows*,/players/b/burrote01.shtml,burrote01,25,TEX,1.0,-0.3,-0.0,5,-0.0,0.0,-0.0,.07,-0.1,-0.1,-0.8,-0.1,0.62,-2.1,0,0,1
+1994,67,Terry Burrows*,/players/b/burrote01.shtml,burrote01,25,TEX,1.0,-0.3,-0.0,5,-0.0,0.0,-0.0,.07,-0.1,-0.0,-0.8,-0.1,0.62,-2.1,0,0,1
 1994,68,Mike Butcher,/players/b/butchmi01.shtml,butchmi01,29,CAL,29.2,-5.7,-0.5,146,-1.4,1.7,-3.1,.92,-0.3,-1.2,-6.1,-0.6,1.00,-3.8,13,5,14
 1994,69,Greg Cadaret*,/players/c/cadargr01.shtml,cadargr01,32,TOT,40.0,0.3,0.0,207,-0.3,1.7,-2.0,.54,-0.3,-0.2,-1.0,-0.1,1.05,-0.7,10,8,17
 1994,70,Greg Cadaret*,/players/c/cadargr01.shtml,cadargr01,32,TOR,20.0,-2.5,-0.2,108,-0.4,0.9,-1.3,.61,-0.4,-0.3,-3.9,-0.4,1.05,-4.2,6,5,9
 1994,71,Greg Cadaret*,/players/c/cadargr01.shtml,cadargr01,32,DET,20.0,2.8,0.3,99,0.1,0.8,-0.7,.47,0.1,0.2,3.0,0.3,1.04,3.5,4,3,8
 1994,72,Kevin Campbell,/players/c/campbke01.shtml,campbke01,29,MIN,24.2,5.8,0.5,102,-0.1,0.7,-0.8,.44,0.5,-0.8,5.8,0.5,0.93,8.0,2,3,8
 1994,73,Mike Campbell,/players/c/campbmi01.shtml,campbmi01,30,SDP,8.1,-7.6,-0.7,47,-0.8,0.6,-1.4,.89,-0.7,-0.2,-9.2,-0.8,0.90,-7.3,1,0,0
-1994,74,Tom Candiotti,/players/c/candito01.shtml,candito01,36,LAD,153.0,-3.3,-0.3,685,0.4,12.0,-11.6,1.06,0.4,-0.0,-0.7,-0.1,0.97,4.7,0,1,0
+1994,74,Tom Candiotti,/players/c/candito01.shtml,candito01,36,LAD,153.0,-3.3,-0.3,685,0.4,12.0,-11.6,1.06,0.4,0.0,-0.7,-0.1,0.97,4.7,0,1,0
 1994,75,Cris Carpenter,/players/c/carpecr01.shtml,carpecr01,29,TEX,59.0,-0.8,-0.1,270,-0.8,5.2,-6.0,1.22,-0.1,-0.6,-1.7,-0.2,1.01,1.2,22,8,15
 1994,76,Hector Carrasco,/players/c/carrahe01.shtml,carrahe01,24,CIN,56.1,11.7,1.2,249,0.3,5.5,-5.2,1.40,0.6,-0.4,11.9,1.2,1.00,6.7,22,6,16
 1994,77,Andy Carter*,/players/c/cartean01.shtml,cartean01,25,PHI,34.1,-0.1,-0.0,153,-0.7,1.2,-2.0,.66,-0.4,-0.7,1.9,0.2,1.00,-2.8,4,5,11
@@ -270,7 +270,7 @@
 1994,270,Jon Lieber,/players/l/liebejo01.shtml,liebejo01,24,PIT,108.2,1.5,0.2,475,-0.6,8.7,-9.3,1.03,-0.6,0.0,-6.3,-0.6,0.92,-6.2,0,0,0
 1994,271,Derek Lilliquist*,/players/l/lillide01.shtml,lillide01,28,CLE,29.1,-0.4,-0.0,130,-0.7,3.0,-3.7,1.43,-0.0,-0.5,-1.3,-0.1,1.07,-1.1,22,3,10
 1994,272,Jose Lima,/players/l/limajo01.shtml,limajo01,21,DET,6.2,-5.7,-0.5,36,-0.5,0.2,-0.7,.53,-0.3,-0.6,-6.5,-0.5,0.98,-3.9,0,0,2
-1994,273,Doug Linton,/players/l/lintodo01.shtml,lintodo01,29,NYM,50.1,-1.2,-0.1,249,0.0,3.6,-3.6,.89,-0.8,0.8,-9.7,-0.9,1.00,-8.9,7,5,14
+1994,273,Doug Linton,/players/l/lintodo01.shtml,lintodo01,29,NYM,50.1,-1.2,-0.1,249,0.0,3.6,-3.6,.89,-0.8,0.9,-9.7,-0.9,1.00,-8.9,7,5,14
 1994,274,Graeme Lloyd*,/players/l/lloydgr01.shtml,lloydgr01,27,MIL,47.0,0.0,0.0,207,0.0,4.7,-4.7,1.40,0.2,-0.2,0.5,0.0,1.03,5.2,18,9,15
 1994,275,Brian Looney*,/players/l/loonebr01.shtml,loonebr01,24,MON,2.0,-3.7,-0.3,11,-0.1,0.0,-0.2,.29,-0.1,-0.4,-3.6,-0.3,0.90,-1.7,0,0,1
 1994,276,Albie Lopez,/players/l/lopezal02.shtml,lopezal02,22,CLE,17.0,-0.0,0.0,80,-0.1,1.0,-1.2,.80,-0.1,-0.1,-0.8,-0.1,1.00,-0.2,0,0,0
@@ -284,8 +284,8 @@
 1994,284,Ravelo Manzanillo*,/players/m/manzara01.shtml,manzara01,30,PIT,50.0,-1.0,-0.1,248,0.4,4.0,-3.6,1.07,0.1,0.3,-3.8,-0.4,1.09,-6.7,13,13,18
 1994,285,Dennis Martinez,/players/m/martide01.shtml,martide01,40,CLE,176.2,23.7,2.3,748,2.0,13.6,-11.6,1.00,2.4,-0.5,28.9,2.9,0.89,31.1,0,0,0
 1994,286,Jose Martinez,/players/m/martijo06.shtml,martijo06,23,SDP,12.0,-3.0,-0.3,58,-0.4,0.6,-1.0,.64,-0.4,-0.2,-4.3,-0.4,1.00,-4.3,0,1,2
-1994,287,Pedro Martinez*,/players/m/martipe03.shtml,martipe03,25,SDP,68.1,6.6,0.7,323,0.8,6.4,-5.6,1.22,0.5,0.2,6.0,0.6,1.09,2.3,20,5,20
-1994,288,Pedro Martinez,/players/m/martipe02.shtml,martipe02,22,MON,144.2,14.2,1.4,608,2.1,10.6,-8.5,.95,2.0,0.1,20.4,2.1,0.91,23.5,1,0,0
+1994,287,Pedro Martinez,/players/m/martipe02.shtml,martipe02,22,MON,144.2,14.2,1.4,608,2.1,10.6,-8.5,.95,2.0,0.1,20.4,2.1,0.91,23.5,1,0,0
+1994,288,Pedro Martinez*,/players/m/martipe03.shtml,martipe03,25,SDP,68.1,6.6,0.7,323,0.8,6.4,-5.6,1.22,0.5,0.2,6.0,0.6,1.09,2.3,20,5,20
 1994,289,Ramon Martinez,/players/m/martira02.shtml,martira02,26,LAD,170.0,-0.9,-0.1,733,1.3,12.3,-11.0,.97,0.7,0.7,8.7,0.9,0.93,6.7,0,0,0
 1994,290,Roger Mason,/players/m/masonro01.shtml,masonro01,36,TOT,60.0,2.7,0.3,265,-0.0,5.0,-5.0,1.07,-0.1,0.0,4.2,0.4,0.94,-0.0,15,14,18
 1994,291,Roger Mason,/players/m/masonro01.shtml,masonro01,36,PHI,8.2,-0.9,-0.1,43,-0.3,0.8,-1.1,.98,-0.3,0.0,-0.5,-0.0,0.95,-4.2,3,0,3
@@ -294,14 +294,14 @@
 1994,294,Tim Mauser,/players/m/mauseti01.shtml,mauseti01,27,SDP,49.0,3.7,0.4,223,-1.0,1.9,-2.9,.63,-0.1,-1.5,0.2,0.0,1.01,1.3,8,5,21
 1994,295,Kirk McCaskill,/players/m/mccaski01.shtml,mccaski01,33,CHW,52.2,7.6,0.7,234,0.6,5.7,-5.1,1.37,0.4,0.0,5.3,0.5,0.95,6.1,19,7,13
 1994,296,Ben McDonald,/players/m/mcdonbe01.shtml,mcdonbe01,26,BAL,157.1,17.2,1.6,679,2.3,11.2,-8.9,.92,2.3,0.2,24.0,2.3,0.90,24.4,0,0,0
-1994,297,Jack McDowell,/players/m/mcdowja01.shtml,mcdowja01,28,CHW,181.0,19.6,1.9,786,2.8,16.9,-14.1,1.14,2.5,0.0,25.2,2.5,0.90,29.0,0,0,0
+1994,297,Jack McDowell,/players/m/mcdowja01.shtml,mcdowja01,28,CHW,181.0,19.6,1.9,786,2.8,16.9,-14.1,1.14,2.4,0.0,25.2,2.5,0.90,29.0,0,0,0
 1994,298,Roger McDowell,/players/m/mcdowro01.shtml,mcdowro01,33,LAD,41.1,-5.5,-0.5,201,-1.1,1.8,-2.9,.69,-0.4,-1.2,-4.6,-0.5,1.11,-4.6,5,4,21
 1994,299,Chuck McElroy*,/players/m/mcelrch01.shtml,mcelrch01,26,CIN,57.2,12.8,1.3,239,0.3,5.8,-5.5,1.40,1.0,-0.8,8.7,0.9,0.97,11.8,29,12,11
 1994,300,Greg McMichael,/players/m/mcmicgr01.shtml,mcmicgr01,27,ATL,58.2,2.0,0.2,269,-2.4,7.3,-9.6,1.80,0.1,-1.4,3.6,0.4,1.01,4.0,26,10,15
 1994,301,Rusty Meacham,/players/m/meachru01.shtml,meachru01,26,KCR,50.2,7.0,0.7,219,0.7,4.6,-3.9,1.09,0.5,0.2,9.8,0.9,0.95,7.7,18,8,10
 1994,302,Jose Melendez,/players/m/melenjo01.shtml,melenjo01,28,BOS,16.1,-1.2,-0.1,76,-0.3,0.9,-1.1,.68,-0.4,-0.0,-2.7,-0.2,0.95,-3.4,2,3,5
 1994,303,Tony Menendez,/players/m/menento01.shtml,menento01,29,SFG,3.1,-6.4,-0.6,20,-0.4,0.5,-0.8,1.50,-0.3,0.1,-6.0,-0.6,1.00,-4.1,3,0,3
-1994,304,Jose Mercedes,/players/m/mercejo02.shtml,mercejo02,23,MIL,31.0,8.9,0.8,122,0.7,2.0,-1.2,.73,0.6,0.4,12.0,1.1,0.92,8.2,3,4,11
+1994,304,Jose Mercedes,/players/m/mercejo02.shtml,mercejo02,23,MIL,31.0,8.9,0.8,122,0.7,2.0,-1.2,.73,0.7,0.4,12.0,1.1,0.92,8.2,3,4,11
 1994,305,Kent Mercker*,/players/m/merckke01.shtml,merckke01,26,ATL,112.1,10.5,1.1,482,1.9,9.0,-7.1,1.02,1.3,0.6,13.3,1.4,0.90,13.3,0,2,1
 1994,306,Brett Merriman,/players/m/merribr01.shtml,merribr01,27,MIN,17.0,-2.6,-0.2,89,0.0,0.6,-0.6,.38,-0.0,0.1,-2.8,-0.3,1.17,-1.7,4,2,5
 1994,307,Jose Mesa,/players/m/mesajo01.shtml,mesajo01,28,CLE,73.0,7.7,0.7,324,0.7,8.0,-7.3,1.42,1.1,-0.6,9.0,0.9,0.99,13.3,23,11,16
@@ -394,7 +394,7 @@
 1994,394,Ben Rivera,/players/r/riverbe01.shtml,riverbe01,26,PHI,38.0,-9.1,-0.8,186,-0.7,3.0,-3.7,1.05,-0.9,0.2,-8.2,-0.8,0.98,-8.9,1,1,0
 1994,395,Rich Robertson*,/players/r/roberri02.shtml,roberri02,25,PIT,15.2,-3.7,-0.4,77,0.1,0.3,-0.3,.25,-0.2,0.4,-5.1,-0.5,1.15,-4.0,1,1,6
 1994,396,Rich Rodriguez*,/players/r/rodriri02.shtml,rodriri02,31,STL,60.1,0.8,0.1,268,-1.4,3.9,-5.3,.91,-0.4,-1.1,1.1,0.1,0.98,-0.0,20,9,24
-1994,397,Kenny Rogers*,/players/r/rogerke01.shtml,rogerke01,29,TEX,167.1,5.6,0.5,732,0.8,13.1,-12.3,.97,0.3,0.4,5.3,0.5,0.91,6.0,0,0,0
+1994,397,Kenny Rogers*,/players/r/rogerke01.shtml,rogerke01,29,TEX,167.1,5.6,0.5,732,0.8,13.1,-12.3,.97,0.3,0.5,5.3,0.5,0.91,6.0,0,0,0
 1994,398,Kevin Rogers*,/players/r/rogerke02.shtml,rogerke02,25,SFG,10.1,1.0,0.1,46,-0.5,0.8,-1.3,1.25,0.0,-0.4,-0.9,-0.1,0.93,-0.7,4,0,5
 1994,399,Mel Rojas,/players/r/rojasme01.shtml,rojasme01,27,MON,84.0,8.2,0.8,354,2.8,9.1,-6.3,1.36,0.9,1.2,9.6,1.0,0.94,9.5,30,17,11
 1994,400,John Roper,/players/r/roperjo01.shtml,roperjo01,22,CIN,92.0,-2.4,-0.2,404,-0.0,6.9,-7.0,.94,-0.6,0.6,1.0,0.1,0.88,-9.2,0,1,0
@@ -402,7 +402,7 @@
 1994,402,Scott Ruffcorn,/players/r/ruffcsc01.shtml,ruffcsc01,24,CHW,6.1,-6.3,-0.5,43,-0.5,0.3,-0.9,.79,-0.6,-0.1,-8.9,-0.7,1.00,-7.0,0,0,0
 1994,403,Bruce Ruffin*,/players/r/ruffibr01.shtml,ruffibr01,30,COL,55.2,4.9,0.5,263,-0.4,7.3,-7.7,1.76,-0.4,0.1,1.5,0.1,1.03,-2.4,27,7,22
 1994,404,Johnny Ruffin,/players/r/ruffijo01.shtml,ruffijo01,22,CIN,70.0,9.0,0.9,297,1.2,6.6,-5.4,1.24,0.7,0.3,9.1,0.9,0.91,9.1,22,14,15
-1994,405,Jeff Russell,/players/r/russeje01.shtml,russeje01,32,TOT,40.2,-0.5,-0.0,185,-1.7,5.5,-7.2,1.87,-0.0,-0.9,0.4,0.0,0.97,3.4,22,8,11
+1994,405,Jeff Russell,/players/r/russeje01.shtml,russeje01,32,TOT,40.2,-0.5,-0.0,185,-1.7,5.5,-7.2,1.87,-0.1,-0.9,0.4,0.0,0.97,3.4,22,8,11
 1994,406,Jeff Russell,/players/r/russeje01.shtml,russeje01,32,BOS,28.0,-0.0,0.0,133,-1.2,3.9,-5.1,1.90,-0.1,-0.6,-0.3,-0.0,0.98,1.5,16,6,6
 1994,407,Jeff Russell,/players/r/russeje01.shtml,russeje01,32,CLE,12.2,-0.4,-0.0,52,-0.5,1.6,-2.1,1.77,0.0,-0.3,0.7,0.1,0.93,1.9,6,2,5
 1994,408,Ken Ryan,/players/r/ryanke01.shtml,ryanke01,25,BOS,48.0,13.4,1.3,211,2.3,7.3,-5.0,1.85,0.7,0.5,14.0,1.3,0.95,11.3,24,6,10
@@ -471,7 +471,7 @@
 1994,471,Matt Turner,/players/t/turnema01.shtml,turnema01,27,CLE,12.2,2.6,0.2,68,-0.8,1.4,-2.2,1.45,-0.3,-0.2,-6.2,-0.6,1.13,-3.2,5,2,2
 1994,472,Tom Urbani*,/players/u/urbanto01.shtml,urbanto01,26,STL,80.1,-7.8,-0.8,369,-1.6,5.4,-7.1,.91,-0.9,-0.9,-9.3,-0.9,0.97,-8.7,1,4,5
 1994,473,Ismael Valdez,/players/v/valdeis01.shtml,valdeis01,20,LAD,28.1,3.2,0.3,121,0.4,2.9,-2.5,1.44,0.3,0.0,5.3,0.6,0.99,3.3,10,3,7
-1994,474,Sergio Valdez,/players/v/valdese01.shtml,valdese01,29,BOS,14.1,-4.6,-0.4,79,-0.1,0.8,-0.9,.62,-0.6,0.4,-7.8,-0.7,0.93,-7.2,0,2,9
+1994,474,Sergio Valdez,/players/v/valdese01.shtml,valdese01,29,BOS,14.1,-4.6,-0.4,79,-0.1,0.8,-0.9,.62,-0.7,0.4,-7.8,-0.7,0.93,-7.2,0,2,9
 1994,475,Fernando Valenzuela*,/players/v/valenfe01.shtml,valenfe01,33,PHI,45.0,6.8,0.7,188,0.6,3.3,-2.7,.98,0.5,0.1,6.8,0.7,0.86,6.0,0,1,0
 1994,476,Tim Van Egmond,/players/v/vanegti01.shtml,vanegti01,25,BOS,38.1,-4.2,-0.4,179,-0.3,2.9,-3.1,.96,-0.3,0.1,-2.8,-0.2,0.90,-4.0,0,0,0
 1994,477,Todd Van Poppel,/players/v/vanpoto01.shtml,vanpoto01,22,OAK,116.2,-20.1,-1.8,548,-1.6,8.5,-10.1,.94,-1.4,-0.3,-18.8,-1.7,0.95,-14.8,0,0,0

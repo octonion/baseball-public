@@ -296,8 +296,8 @@
 2006,296,Orlando Hernandez,/players/h/hernaor01.shtml,hernaor01,40,ARI,45.2,49%,3.9%,25.5%,9.8%,12.3%,48%,0.45,0.74,58%,20%,11.4%,18%,29,3,10%
 2006,297,Orlando Hernandez,/players/h/hernaor01.shtml,hernaor01,40,NYM,116.2,45%,2.8%,22.6%,8.3%,8.7%,42%,0.54,0.67,64%,18%,7.3%,8%,85,3,4%
 2006,298,Roberto Hernandez,/players/h/hernaro01.shtml,hernaro01,41,TOT,63.2,57%,1.8%,16.8%,11.2%,6.0%,28%,0.87,1.15,68%,18%,5.1%,7%,62,4,6%
-2006,299,Roberto Hernandez,/players/h/hernaro01.shtml,hernaro01,41,PIT,43.0,57%,1.5%,16.3%,11.9%,6.9%,30%,0.93,1.34,69%,17%,4.2%,3%,39,3,8%
-2006,300,Roberto Hernandez,/players/c/carmofa01.shtml,carmofa01,25,CLE,74.2,54%,2.7%,17.1%,9.1%,7.4%,28%,1.47,2.33,68%,14%,10.1%,8%,71,9,13%
+2006,299,Roberto Hernandez,/players/c/carmofa01.shtml,carmofa01,25,CLE,74.2,54%,2.7%,17.1%,9.1%,7.4%,28%,1.47,2.33,68%,14%,10.1%,8%,71,9,13%
+2006,300,Roberto Hernandez,/players/h/hernaro01.shtml,hernaro01,41,PIT,43.0,57%,1.5%,16.3%,11.9%,6.9%,30%,0.93,1.34,69%,17%,4.2%,3%,39,3,8%
 2006,301,Roberto Hernandez,/players/h/hernaro01.shtml,hernaro01,41,NYM,20.2,58%,2.4%,18.1%,9.6%,3.6%,20%,0.73,0.84,66%,20%,7.1%,15%,23,1,4%
 2006,302,Runelvys Hernandez,/players/h/hernaru03.shtml,hernaru03,28,KCR,109.2,56%,4.3%,9.8%,9.5%,8.7%,30%,0.67,0.95,75%,20%,10.3%,9%,110,13,12%
 2006,303,Rich Hill*,/players/h/hillri01.shtml,hillri01,26,CHC,99.1,17%,3.8%,21.6%,9.4%,9.1%,46%,0.44,0.57,63%,19%,9.8%,14%,70,5,7%
@@ -546,7 +546,7 @@
 2006,546,Dennys Reyes*,/players/r/reyesde01.shtml,reyesde01,29,MIN,50.2,49%,1.6%,25.3%,7.7%,4.1%,23%,2.58,3.39,65%,7%,9.7%,14%,34,8,24%
 2006,547,John Rheinecker*,/players/r/rheinjo01.shtml,rheinjo01,27,TEX,70.2,23%,1.9%,8.7%,5.9%,8.1%,25%,1.41,2.25,82%,17%,5.9%,10%,66,9,14%
 2006,548,Arthur Rhodes*,/players/r/rhodear01.shtml,rhodear01,36,PHI,45.2,32%,0.9%,22.4%,14.0%,7.9%,36%,0.59,0.76,61%,23%,2.7%,7%,40,3,8%
-2006,549,Juan Rincon,/players/r/rincoju01.shtml,rincoju01,27,MIN,74.1,59%,0.6%,20.6%,7.6%,4.8%,20%,1.06,1.43,69%,18%,2.1%,8%,64,10,16%
+2006,549,Juan Rincon,/players/r/rincoju01.shtml,rincoju01,27,MIN,74.1,59%,0.6%,20.6%,7.6%,4.8%,20%,1.06,1.43,69%,18%,2.1%,8%,64,9,14%
 2006,550,Ricardo Rincon*,/players/r/rincori01.shtml,rincori01,36,STL,3.1,48%,4.8%,28.6%,19.1%,14.3%,50%,1.00,,43%,40%,20.0%,0%,2,0,0%
 2006,551,Royce Ring*,/players/r/ringro01.shtml,ringro01,25,NYM,12.2,46%,4.2%,16.7%,6.3%,8.3%,57%,1.64,2.00,73%,14%,14.3%,0%,2,0,0%
 2006,552,David Riske,/players/r/riskeda01.shtml,riskeda01,29,TOT,44.0,66%,3.2%,14.8%,9.0%,8.5%,40%,0.60,0.69,71%,19%,7.7%,10%,35,3,9%
@@ -695,7 +695,7 @@
 2006,695,Billy Wagner*,/players/w/wagnebi02.shtml,wagnebi02,34,NYM,72.1,20%,2.4%,31.7%,7.1%,4.0%,20%,1.15,1.53,57%,16%,8.9%,4%,46,2,4%
 2006,696,Ryan Wagner,/players/w/wagnery01.shtml,wagnery01,23,WSN,30.2,50%,2.1%,14.2%,10.6%,5.7%,22%,1.76,1.84,71%,13%,9.4%,14%,24,1,4%
 2006,697,Adam Wainwright,/players/w/wainwad01.shtml,wainwad01,24,STL,75.0,58%,1.9%,23.3%,7.1%,6.8%,33%,0.94,1.30,65%,16%,6.5%,12%,52,5,10%
-2006,698,Tim Wakefield,/players/w/wakefti01.shtml,wakefti01,39,BOS,140.0,60%,3.1%,14.8%,8.4%,8.4%,38%,0.66,0.79,72%,16%,8.0%,14%,99,6,6%
+2006,698,Tim Wakefield,/players/w/wakefti01.shtml,wakefti01,39,BOS,140.0,61%,3.1%,14.8%,8.4%,8.4%,38%,0.66,0.79,72%,16%,8.0%,14%,99,6,6%
 2006,699,Jamie Walker*,/players/w/walkeja01.shtml,walkeja01,34,DET,48.0,43%,4.1%,18.9%,4.1%,10.2%,43%,0.48,0.68,72%,17%,9.9%,18%,25,3,12%
 2006,700,Pete Walker,/players/w/walkepe01.shtml,walkepe01,37,TOR,30.0,62%,3.6%,19.6%,9.4%,8.7%,32%,0.90,1.42,67%,19%,10.9%,8%,28,3,11%
 2006,701,Tyler Walker,/players/w/walkety01.shtml,walkety01,30,TOT,25.1,53%,0.9%,17.1%,10.8%,5.4%,22%,0.53,0.75,70%,26%,2.2%,10%,34,2,6%

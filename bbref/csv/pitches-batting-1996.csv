@@ -116,8 +116,8 @@
 1996	116	Jerry Brooks	http://www.baseball-reference.com/players/b/brookje01.shtml	brookje01	29	FLA	7	33	4.71	17	51.5%	0.0%	17.6%	58.8%	23.5%	100.0%	0.0%	51.5%	82.4%	57.1%	0.0%	0	0	14.3%	1	0	0.0%	0	0	0	1	0.0%	0	0	0
 1996	117	Scott Brosius	http://www.baseball-reference.com/players/b/brosisc01.shtml	brosisc01	29	OAK	444	1669	3.76	996	60.2%	28.7%	14.6%	25.6%	31.0%	71.2%	1.9%	42.8%	79.4%	26.1%	5.4%	24	0	15.3%	68	29	10.6%	47	24	27	49	35.5%	56	1	1
 1996	118	Brant Brown*	http://www.baseball-reference.com/players/b/brownbr01.shtml	brownbr01	25	CHC	71	243	3.42	175	73.2%	9.7%	25.1%	35.4%	29.7%	90.3%	5.9%	66.1%	72.2%	54.9%	2.8%	2	0	7.0%	5	3	2.8%	2	2	1	15	6.3%	2	0	0
-1996	119	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	23	TEX	8	36	4.50	19	52.8%	31.6%	26.3%	26.3%	15.8%	68.4%	0.0%	36.1%	61.5%	12.5%	25.0%	2	0	25.0%	2	0	25.0%	2	2	1	1	50.0%	0	0	0
-1996	120	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	31	FLA	85	264	3.11	186	70.5%	20.4%	26.3%	25.8%	27.4%	79.6%	0.0%	56.1%	66.9%	42.4%	4.7%	4	0	11.8%	10	2	4.7%	4	1	5	21	17.9%	0	0	0
+1996	119	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	31	FLA	85	264	3.11	186	70.5%	20.4%	26.3%	25.8%	27.4%	79.6%	0.0%	56.1%	66.9%	42.4%	4.7%	4	0	11.8%	10	2	4.7%	4	1	5	21	17.9%	0	0	0
+1996	120	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	23	TEX	8	36	4.50	19	52.8%	31.6%	26.3%	26.3%	15.8%	68.4%	0.0%	36.1%	61.5%	12.5%	25.0%	2	0	25.0%	2	0	25.0%	2	2	1	1	50.0%	0	0	0
 1996	121	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	31	TOT	390	1417	3.63	873	62.0%	24.4%	16.5%	25.9%	33.1%	75.5%	1.5%	46.8%	78.0%	33.6%	3.3%	13	0	10.8%	42	22	6.9%	27	16	20	49	29.0%	36	0	1
 1996	122	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	31	PIT	78	278	3.56	172	62.8%	25.0%	18.6%	23.3%	33.1%	75.0%	3.8%	47.1%	75.2%	35.9%	3.8%	3	0	7.7%	6	2	7.7%	6	4	6	10	37.5%	8	0	0
 1996	123	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	31	TOR	312	1139	3.65	701	61.8%	24.3%	16.0%	26.5%	33.1%	75.6%	0.9%	46.7%	78.7%	33.0%	3.2%	10	0	11.5%	36	20	6.7%	21	12	14	39	26.4%	28	0	1
@@ -550,7 +550,7 @@
 1996	550	Manny Martinez	http://www.baseball-reference.com/players/m/martima02.shtml	martima02	25	PHI	23	86	3.74	61	70.9%	29.5%	31.1%	18.0%	21.3%	70.5%	0.0%	50.0%	55.8%	34.8%	8.7%	2	0	17.4%	4	1	8.7%	2	1	2	6	25.0%	16	0	0
 1996	551	Pablo Martinez#	http://www.baseball-reference.com/players/m/martipa03.shtml	martipa03	27	ATL	0	0		0												0	0		0	0		0	0	0	0		3	0	0
 1996	552	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	24	MON	69	230	3.33	170	73.9%	25.9%	17.6%	30.0%	25.9%	73.5%	0.0%	54.3%	75.4%	37.7%	2.9%	2	0	2.9%	2	0	2.9%	2	1	9	12	40.9%	16	0	1
-1996	553	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	28	LAD	66	203	3.08	150	73.9%	20.0%	20.7%	31.3%	28.0%	80.0%	0.0%	59.1%	74.2%	45.5%	6.1%	4	0	7.6%	5	1	3.0%	2	2	6	12	28.6%	3	0	0
+1996	553	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	28	LAD	66	203	3.08	150	73.9%	20.0%	20.7%	31.3%	28.0%	80.0%	0.0%	59.1%	74.2%	45.5%	6.1%	4	0	7.6%	5	1	3.0%	2	2	6	12	28.6%	3	0	0
 1996	554	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	25	TOR	231	823	3.56	522	63.5%	21.6%	19.2%	27.6%	31.2%	78.0%	0.0%	49.5%	75.1%	37.7%	3.5%	8	0	14.7%	34	19	4.3%	10	8	15	36	29.4%	20	1	2
 1996	555	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	28	NYY	569	2193	3.85	1323	60.7%	29.7%	10.9%	26.9%	32.5%	70.3%	1.6%	42.7%	84.5%	18.1%	6.0%	34	3	19.5%	111	46	10.7%	61	40	21	55	27.6%	102	0	0
 1996	556	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	33	SEA	116	387	3.34	255	65.9%	20.4%	11.0%	33.3%	35.3%	79.6%	0.0%	52.5%	86.2%	46.6%	1.7%	2	0	11.2%	13	9	6.0%	7	3	7	8	46.7%	4	0	0

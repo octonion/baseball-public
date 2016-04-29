@@ -133,8 +133,8 @@
 1991	133	Terry Bross	http://www.baseball-reference.com/players/b/brosste01.shtml	brosste01	25	NYM	NL	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1991	134	Jarvis Brown	http://www.baseball-reference.com/players/b/brownja03.shtml	brownja03	24	MIN	AL	38	40	37	10	8	0	0	0	0	7	1	2	8	.216	.256	.216	.473	30	8	0	0	1	0	0	98/D7
 1991	135	Keith Brown#	http://www.baseball-reference.com/players/b/brownke02.shtml	brownke02	27	CIN	NL	11	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
-1991	136	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	26	TEX	AL	33	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
-1991	137	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	25	MIL	AL	15	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
+1991	136	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	25	MIL	AL	15	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
+1991	137	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	26	TEX	AL	33	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 1991	138	Jerry Browne#	http://www.baseball-reference.com/players/b/brownje01.shtml	brownje01	25	CLE	AL	107	334	290	28	66	5	2	1	29	2	4	27	29	.228	.292	.269	.561	56	78	5	1	12	4	0	475/D
 1991	139	Tom Browning*	http://www.baseball-reference.com/players/b/brownto05.shtml	brownto05	31	CIN	NL	36	83	70	3	12	3	0	1	5	0	1	3	19	.171	.205	.257	.463	28	18	0	0	10	0	0	1
 1991	140	Mike Brumley#	http://www.baseball-reference.com/players/b/brumlmi02.shtml	brumlmi02	28	BOS	AL	63	132	118	16	25	5	0	0	5	2	0	10	22	.212	.273	.254	.528	45	30	0	0	4	0	0	65/48D
@@ -655,7 +655,7 @@
 1991	655	Dave Martinez*	http://www.baseball-reference.com/players/m/martida01.shtml	martida01	26	MON	NL	124	427	396	47	117	18	5	7	42	16	7	20	54	.295	.332	.419	.751	111	166	3	3	5	3	3	*978
 1991	656	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	37	MON	NL	32	83	72	8	11	4	0	0	2	0	0	1	24	.153	.164	.208	.373	5	15	1	0	10	0	0	1
 1991	657	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	28	SEA	AL	150	642	544	98	167	35	1	14	52	0	3	84	72	.307	.405	.452	.857	138	246	19	8	2	4	9	*5/D
-1991	658	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	23	LAD	NL	33	86	77	6	9	1	0	1	9	0	0	1	25	.117	.128	.169	.297	-16	13	1	0	8	0	0	1
+1991	658	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	23	LAD	NL	33	86	77	6	9	1	0	1	9	0	0	1	25	.117	.128	.169	.297	-16	13	1	0	8	0	0	1
 1991	659	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	23	SEA	AL	36	125	112	11	23	2	0	4	9	0	0	11	24	.205	.272	.330	.602	66	37	2	0	0	2	0	3/D
 1991	660	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	28	BOS	AL	49	119	114	10	30	8	0	0	9	0	0	1	16	.263	.271	.333	.605	64	38	5	1	1	2	0	2
 1991	661	Roger Mason	http://www.baseball-reference.com/players/m/masonro01.shtml	masonro01	33	PIT	NL	24	2	0	1	0	0	0	0	0	0	0	1	0		1.000				0	0	0	1	0	0	1
@@ -875,8 +875,8 @@
 1991	875	Luis Rivera	http://www.baseball-reference.com/players/r/riverlu01.shtml	riverlu01	27	BOS	AL	129	468	414	64	107	22	3	8	40	4	4	35	86	.258	.318	.384	.702	90	159	10	3	12	4	0	*6
 1991	876	Bip Roberts#	http://www.baseball-reference.com/players/r/roberbi01.shtml	roberbi01	27	SDP	NL	117	472	424	66	119	13	3	3	32	26	11	37	71	.281	.342	.347	.689	92	147	6	4	4	3	0	487
 1991	877	Don Robinson	http://www.baseball-reference.com/players/r/robindo01.shtml	robindo01	34	SFG	NL	35	41	40	1	6	1	0	0	4	0	0	1	13	.150	.171	.175	.346	-0	7	0	0	0	0	0	1
-1991	878	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	29	BAL	AL	21	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
-1991	879	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje01.shtml	robinje01	30	CAL	AL	39	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
+1991	878	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje01.shtml	robinje01	30	CAL	AL	39	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
+1991	879	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	29	BAL	AL	21	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 1991	880	Ron Robinson	http://www.baseball-reference.com/players/r/robinro01.shtml	robinro01	29	MIL	AL	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1991	881	Carlos Rodriguez#	http://www.baseball-reference.com/players/r/rodrica01.shtml	rodrica01	23	NYY	AL	15	39	37	1	7	0	0	0	2	0	0	1	2	.189	.211	.189	.400	12	7	3	0	1	0	0	6/4
 1991	882	Ivan Rodriguez	http://www.baseball-reference.com/players/r/rodriiv01.shtml	rodriiv01	19	TEX	AL	88	288	280	24	74	16	0	3	27	0	1	5	42	.264	.276	.354	.630	75	99	10	0	2	1	0	2

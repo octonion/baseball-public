@@ -133,8 +133,8 @@
 1991	133	Terry Bross	http://www.baseball-reference.com/players/b/brosste01.shtml	brosste01	25	NYM	0	0														.000	0.0	0.0					/1
 1991	134	Jarvis Brown	http://www.baseball-reference.com/players/b/brownja03.shtml	brownja03	24	MIN	40	31	3	2.6	101	.276	.216	.266	.256	.335	.216	.403	.473	.739	30	.266	-3.7	-0.4	.533	.216	.000	.0	98/D7
 1991	135	Keith Brown#	http://www.baseball-reference.com/players/b/brownke02.shtml	brownke02	27	CIN	0	0														.000	0.0	0.0					1
-1991	136	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	26	TEX	0	0														.000	0.0	0.0					1
-1991	137	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	25	MIL	0	0														.000	0.0	0.0					1
+1991	136	Kevin Brown*	http://www.baseball-reference.com/players/b/brownke03.shtml	brownke03	25	MIL	0	0														.000	0.0	0.0					1
+1991	137	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	26	TEX	0	0														.000	0.0	0.0					1
 1991	138	Jerry Browne#	http://www.baseball-reference.com/players/b/brownje01.shtml	brownje01	25	CLE	334	249	24	2.6	98	.246	.228	.261	.292	.330	.269	.397	.561	.727	56	.264	-17.4	-1.7	.446	.128	.041	1.3	475/D
 1991	139	Tom Browning*	http://www.baseball-reference.com/players/b/brownto05.shtml	brownto05	31	CIN	83	69	4	1.6	97	.220	.171	.262	.205	.330	.257	.393	.463	.723	28	.141	-7.1	-0.8	.339	.114	.086	.0	1
 1991	140	Mike Brumley#	http://www.baseball-reference.com/players/b/brumlmi02.shtml	brumlmi02	28	BOS	132	97	9	2.5	101	.260	.212	.266	.273	.335	.254	.403	.528	.739	45	.250	-9.2	-0.9	.452	.144	.042	.0	65/48D
@@ -386,8 +386,8 @@
 1991	386	Tommy Greene	http://www.baseball-reference.com/players/g/greento01.shtml	greento01	24	PHI	78	55	9	4.4	93	.315	.268	.257	.307	.324	.380	.384	.687	.708	94	.522	-0.9	-0.1	.596	.169	.113	.0	1
 1991	387	Mike Greenwell*	http://www.baseball-reference.com/players/g/greenmi01.shtml	greenmi01	27	BOS	598	405	81	5.4	101	.304	.300	.266	.350	.335	.419	.403	.769	.739	108	.577	5.9	0.6	.715	.217	.119	11.3	*7/D
 1991	388	Tommy Gregg*	http://www.baseball-reference.com/players/g/greggto01.shtml	greggto01	27	ATL	120	90	9	2.7	98	.232	.187	.264	.275	.333	.308	.396	.583	.729	60	.308	-5.8	-0.6	.511	.234	.121	1.3	3/79
-1991	389	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke02.shtml	griffke02	21	SEA	633	398	118	8.0	97	.347	.327	.260	.399	.329	.527	.395	.926	.724	155	.737	44.0	4.3	.969	.352	.201	19.8	*8/D
-1991	390	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke01.shtml	griffke01	41	SEA	100	64	14	5.9	97	.319	.282	.260	.380	.329	.400	.395	.780	.724	117	.617	2.8	0.3	.762	.271	.118	.0	7/D
+1991	389	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke01.shtml	griffke01	41	SEA	100	64	14	5.9	97	.319	.282	.260	.380	.329	.400	.395	.780	.724	117	.617	2.8	0.3	.762	.271	.118	.0	7/D
+1991	390	Ken Griffey*	http://www.baseball-reference.com/players/g/griffke02.shtml	griffke02	21	SEA	633	398	118	8.0	97	.347	.327	.260	.399	.329	.527	.395	.926	.724	155	.737	44.0	4.3	.969	.352	.201	19.8	*8/D
 1991	391	Alfredo Griffin#	http://www.baseball-reference.com/players/g/griffal01.shtml	griffal01	33	LAD	385	286	28	2.6	92	.278	.243	.255	.286	.323	.271	.383	.557	.705	59	.299	-18.9	-2.0	.434	.094	.029	.0	*6
 1991	392	Jason Grimsley	http://www.baseball-reference.com/players/g/grimsja01.shtml	grimsja01	23	PHI	19	16	0	0.0	93	.091	.059	.256	.158	.324	.059	.384	.217	.708	-36	.000	-3.1	-0.3	.188	.118	.000		1
 1991	393	Marquis Grissom	http://www.baseball-reference.com/players/g/grissma02.shtml	grissma02	24	MON	597	438	69	4.2	93	.309	.267	.256	.310	.324	.373	.384	.683	.708	93	.505	-7.6	-0.8	.696	.272	.106	11.1	*8/97
@@ -655,7 +655,7 @@
 1991	655	Dave Martinez*	http://www.baseball-reference.com/players/m/martida01.shtml	martida01	26	MON	427	297	56	5.1	93	.325	.295	.256	.332	.324	.419	.384	.751	.708	111	.586	4.7	0.5	.685	.197	.124	9.7	*978
 1991	656	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	37	MON	83	72	3	1.1	93	.229	.153	.256	.164	.324	.208	.384	.373	.708	5	.082	-9.2	-1.0	.258	.069	.056		1
 1991	657	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	28	SEA	642	405	100	6.7	97	.331	.307	.260	.405	.329	.452	.395	.857	.724	138	.668	32.7	3.2	.840	.294	.145	.0	*5/D
-1991	658	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	23	LAD	86	77	2	0.7	92	.157	.117	.255	.128	.323	.169	.383	.297	.705	-16	.036	-12.1	-1.3	.203	.065	.052	.0	1
+1991	658	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	23	LAD	86	77	2	0.7	92	.157	.117	.255	.128	.323	.169	.383	.297	.705	-16	.036	-12.1	-1.3	.203	.065	.052	.0	1
 1991	659	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	23	SEA	125	93	10	2.9	97	.221	.205	.260	.272	.329	.330	.395	.602	.724	66	.305	-5.4	-0.5	.527	.223	.125	.0	3/D
 1991	660	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	28	BOS	119	92	9	2.6	101	.300	.263	.266	.271	.335	.333	.403	.605	.739	64	.270	-5.8	-0.6	.449	.079	.070		2
 1991	661	Roger Mason	http://www.baseball-reference.com/players/m/masonro01.shtml	masonro01	33	PIT	2	1	0	0.0					1.000	.324						.000	0.3	0.0					1
@@ -875,8 +875,8 @@
 1991	875	Luis Rivera	http://www.baseball-reference.com/players/r/riverlu01.shtml	riverlu01	27	BOS	468	337	50	4.0	101	.306	.258	.266	.318	.335	.384	.403	.702	.739	90	.441	-6.2	-0.6	.614	.210	.126	5.3	*6
 1991	876	Bip Roberts#	http://www.baseball-reference.com/players/r/roberbi01.shtml	roberbi01	27	SDP	472	329	53	4.3	96	.329	.281	.261	.342	.329	.347	.391	.689	.720	92	.515	-4.1	-0.4	.630	.189	.066	5.4	487
 1991	877	Don Robinson	http://www.baseball-reference.com/players/r/robindo01.shtml	robindo01	34	SFG	41	34	1	0.8	90	.222	.150	.253	.171	.320	.175	.379	.346	.699	-0	.045	-5.4	-0.6	.235	.050	.025		1
-1991	878	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	29	BAL	0	0														.000	0.0	0.0					1
-1991	879	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje01.shtml	robinje01	30	CAL	0	0														.000	0.0	0.0					1
+1991	878	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje01.shtml	robinje01	30	CAL	0	0														.000	0.0	0.0					1
+1991	879	Jeff Robinson	http://www.baseball-reference.com/players/r/robinje02.shtml	robinje02	29	BAL	0	0														.000	0.0	0.0					1
 1991	880	Ron Robinson	http://www.baseball-reference.com/players/r/robinro01.shtml	robinro01	29	MIL	0	0														.000	0.0	0.0					/1
 1991	881	Carlos Rodriguez#	http://www.baseball-reference.com/players/r/rodrica01.shtml	rodrica01	23	NYY	39	34	1	0.8	97	.200	.189	.260	.211	.329	.189	.395	.400	.724	12	.039	-4.6	-0.5	.242	.027	.000		6/4
 1991	882	Ivan Rodriguez	http://www.baseball-reference.com/players/r/rodriiv01.shtml	rodriiv01	19	TEX	288	220	24	2.9	95	.301	.264	.258	.276	.326	.354	.391	.630	.717	75	.310	-10.3	-1.0	.475	.104	.089	.0	2

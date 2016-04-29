@@ -36,7 +36,7 @@
 1997	36	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	TOT	MLB	14	28	28	3	7	1	0	0	3	0	0	0	1	.250	.250	.286	.536	43	8	2	0	0	0	0	/5D
 1997	37	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	ANA	AL	3	6	6	1	2	0	0	0	1	0	0	0	0	.333	.333	.333	.667	74	2	0	0	0	0	0	/5D
 1997	38	George Arias	http://www.baseball-reference.com/players/a/ariasge01.shtml	ariasge01	25	SDP	NL	11	22	22	2	5	1	0	0	2	0	0	0	1	.227	.227	.273	.500	35	6	2	0	0	0	0	/5
-1997	39	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	31	SFG	NL	6	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	/1
+1997	39	Rene Arocha	http://www.baseball-reference.com/players/a/arochre01.shtml	arochre01	33	SFG	NL	6	1	1	0	0	0	0	0	0	0	0	0	1	.000	.000	.000	.000	-100	0	0	0	0	0	0	/1
 1997	40	Andy Ashby	http://www.baseball-reference.com/players/a/ashbyan01.shtml	ashbyan01	29	SDP	NL	31	69	60	1	4	1	0	0	1	0	0	2	24	.067	.097	.083	.180	-51	5	1	0	7	0	0	1
 1997	41	Billy Ashley	http://www.baseball-reference.com/players/a/ashlebi01.shtml	ashlebi01	26	LAD	NL	71	140	131	12	32	7	0	6	19	0	0	8	46	.244	.293	.435	.728	94	57	2	1	0	0	0	7
 1997	42	Paul Assenmacher*	http://www.baseball-reference.com/players/a/assenpa01.shtml	assenpa01	36	CLE	AL	75	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
@@ -160,8 +160,8 @@
 1997	160	Adrian Brown#	http://www.baseball-reference.com/players/b/brownad01.shtml	brownad01	23	PIT	NL	48	167	147	17	28	6	0	1	10	8	4	13	18	.190	.273	.252	.524	37	37	3	4	2	1	0	8/9
 1997	161	Brant Brown*	http://www.baseball-reference.com/players/b/brownbr01.shtml	brownbr01	26	CHC	NL	46	148	137	15	32	7	1	5	15	2	1	7	28	.234	.286	.409	.694	78	56	2	3	1	0	0	73
 1997	162	Emil Brown	http://www.baseball-reference.com/players/b/brownem01.shtml	brownem01	22	PIT	NL	66	112	95	16	17	2	1	2	6	5	1	10	32	.179	.304	.284	.588	54	27	1	7	0	0	1	7/89
-1997	163	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	32	FLA	NL	33	83	72	4	9	1	0	0	4	0	0	5	25	.125	.182	.139	.321	-12	10	0	0	6	0	0	1
-1997	164	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	24	TEX	AL	4	5	5	1	2	0	0	1	1	0	0	0	0	.400	.400	1.000	1.400	243	5	0	0	0	0	0	/2
+1997	163	Kevin Brown	http://www.baseball-reference.com/players/b/brownke04.shtml	brownke04	24	TEX	AL	4	5	5	1	2	0	0	1	1	0	0	0	0	.400	.400	1.000	1.400	243	5	0	0	0	0	0	/2
+1997	164	Kevin Brown	http://www.baseball-reference.com/players/b/brownke01.shtml	brownke01	32	FLA	NL	33	83	72	4	9	1	0	0	4	0	0	5	25	.125	.182	.139	.321	-12	10	0	0	6	0	0	1
 1997	165	Jacob Brumfield	http://www.baseball-reference.com/players/b/brumfja01.shtml	brumfja01	32	TOR	AL	58	191	174	22	36	5	1	2	20	4	4	14	31	.207	.268	.282	.550	45	49	4	1	1	1	0	879/D
 1997	166	Jim Bruske	http://www.baseball-reference.com/players/b/bruskji01.shtml	bruskji01	32	SDP	NL	29	6	6	0	1	1	0	0	0	0	0	0	1	.167	.167	.333	.500	31	2	0	0	0	0	0	1
 1997	167	Damon Buford	http://www.baseball-reference.com/players/b/buforda01.shtml	buforda01	27	TEX	AL	122	404	366	49	82	18	0	8	39	18	7	30	83	.224	.287	.339	.626	60	124	8	3	3	2	0	*8/D
@@ -303,9 +303,9 @@
 1997	303	Mark Davis*	http://www.baseball-reference.com/players/d/davisma01.shtml	davisma01	36	MIL	AL	19	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	1
 1997	304	Russ Davis	http://www.baseball-reference.com/players/d/davisru01.shtml	davisru01	27	SEA	AL	119	455	420	57	114	29	1	20	63	6	2	27	100	.271	.317	.488	.805	109	205	11	2	3	2	2	*5/D
 1997	305	Tim Davis*	http://www.baseball-reference.com/players/d/davisti01.shtml	davisti01	26	SEA	AL	2	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
-1997	306	Rick DeHart*	http://www.baseball-reference.com/players/d/deharri01.shtml	deharri01	27	MON	NL	23	2	2	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
-1997	307	Mike DeJean	http://www.baseball-reference.com/players/d/dejeami01.shtml	dejeami01	26	COL	NL	56	4	3	0	1	1	0	0	0	0	0	0	1	.333	.333	.667	1.000	134	2	0	0	1	0	0	1
-1997	308	Roland DeLaMaza	http://www.baseball-reference.com/players/d/delamro01.shtml	delamro01	25	KCR	AL	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+1997	306	Roland de la Maza	http://www.baseball-reference.com/players/d/delamro01.shtml	delamro01	25	KCR	AL	1	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+1997	307	Rick DeHart*	http://www.baseball-reference.com/players/d/deharri01.shtml	deharri01	27	MON	NL	23	2	2	0	0	0	0	0	0	0	0	0	2	.000	.000	.000	.000	-100	0	0	0	0	0	0	1
+1997	308	Mike DeJean	http://www.baseball-reference.com/players/d/dejeami01.shtml	dejeami01	26	COL	NL	56	4	3	0	1	1	0	0	0	0	0	0	1	.333	.333	.667	1.000	134	2	0	0	1	0	0	1
 1997	309	Carlos Delgado*	http://www.baseball-reference.com/players/d/delgaca01.shtml	delgaca01	25	TOR	AL	153	595	519	79	136	42	3	30	91	0	3	64	133	.262	.350	.528	.878	127	274	6	8	0	4	9	*3D
 1997	310	Wilson Delgado#	http://www.baseball-reference.com/players/d/delgawi01.shtml	delgawi01	24	SFG	NL	8	8	7	1	1	1	0	0	0	0	0	0	2	.143	.143	.286	.429	10	2	0	0	1	0	0	/46
 1997	311	David Dellucci*	http://www.baseball-reference.com/players/d/delluda01.shtml	delluda01	23	BAL	AL	17	32	27	3	6	1	0	1	3	0	0	4	7	.222	.344	.370	.714	90	10	2	1	0	0	1	/9D7
@@ -626,8 +626,8 @@
 1997	626	John Johnstone	http://www.baseball-reference.com/players/j/johnsjo07.shtml	johnsjo07	28	OAK	AL	5	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1997	627	John Johnstone	http://www.baseball-reference.com/players/j/johnsjo07.shtml	johnsjo07	28	SFG	NL	3	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	
 1997	628	Andruw Jones	http://www.baseball-reference.com/players/j/jonesan01.shtml	jonesan01	20	ATL	NL	153	467	399	60	92	18	1	18	70	20	11	56	107	.231	.329	.416	.745	93	166	11	4	5	3	2	*98/7
-1997	629	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo03.shtml	jonesbo03	27	NYM	NL	30	69	62	4	8	2	0	0	4	0	0	3	18	.129	.169	.161	.331	-11	10	0	0	4	0	0	1
-1997	630	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo04.shtml	jonesbo04	25	COL	NL	4	7	5	1	1	0	0	0	0	0	0	1	0	.200	.333	.200	.533	33	1	0	0	1	0	0	/1
+1997	629	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo04.shtml	jonesbo04	25	COL	NL	4	7	5	1	1	0	0	0	0	0	0	1	0	.200	.333	.200	.533	33	1	0	0	1	0	0	/1
+1997	630	Bobby Jones	http://www.baseball-reference.com/players/j/jonesbo03.shtml	jonesbo03	27	NYM	NL	30	69	62	4	8	2	0	0	4	0	0	3	18	.129	.169	.161	.331	-11	10	0	0	4	0	0	1
 1997	631	Chipper Jones#	http://www.baseball-reference.com/players/j/jonesch06.shtml	jonesch06	25	ATL	NL	157	679	597	100	176	41	3	21	111	20	5	76	88	.295	.371	.479	.850	119	286	19	0	0	6	8	*5/79
 1997	632	Chris Jones	http://www.baseball-reference.com/players/j/jonesch05.shtml	jonesch05	31	SDP	NL	92	172	152	24	37	9	0	7	25	7	2	16	45	.243	.322	.441	.762	104	67	4	2	1	1	0	978
 1997	633	Doug Jones	http://www.baseball-reference.com/players/j/jonesdo01.shtml	jonesdo01	40	MIL	AL	75	1	0	0	0	0	0	0	0	0	0	1	0		1.000				0	0	0	0	0	0	1
@@ -766,9 +766,9 @@
 1997	766	Dennis Martinez	http://www.baseball-reference.com/players/m/martide01.shtml	martide01	43	SEA	AL	9	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
 1997	767	Edgar Martinez	http://www.baseball-reference.com/players/m/martied01.shtml	martied01	34	SEA	AL	155	678	542	104	179	35	1	28	108	2	4	119	86	.330	.456	.554	1.009	165	300	21	11	0	6	11	*D/35
 1997	768	Felix Martinez#	http://www.baseball-reference.com/players/m/martife01.shtml	martife01	23	KCR	AL	16	38	31	3	7	1	1	0	3	0	0	6	8	.226	.351	.323	.674	78	10	1	0	1	0	0	6/D
-1997	769	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	25	MON	NL	31	81	69	5	8	2	1	0	0	0	0	3	28	.116	.153	.174	.327	-14	12	2	0	9	0	0	1
-1997	770	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	28	CIN	NL	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
-1997	771	Ramon Martinez	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	LAD	NL	22	47	42	5	8	1	0	0	1	0	0	0	11	.190	.190	.214	.405	9	9	0	0	5	0	0	1
+1997	769	Pedro Martinez*	http://www.baseball-reference.com/players/m/martipe03.shtml	martipe03	28	CIN	NL	8	0	0	0	0	0	0	0	0	0	0	0	0						0	0	0	0	0	0	/1
+1997	770	Pedro Martinez	http://www.baseball-reference.com/players/m/martipe02.shtml	martipe02	25	MON	NL	31	81	69	5	8	2	1	0	0	0	0	3	28	.116	.153	.174	.327	-14	12	2	0	9	0	0	1
+1997	771	Ramon Martinez*	http://www.baseball-reference.com/players/m/martira02.shtml	martira02	29	LAD	NL	22	47	42	5	8	1	0	0	1	0	0	0	11	.190	.190	.214	.405	9	9	0	0	5	0	0	1
 1997	772	Sandy Martinez*	http://www.baseball-reference.com/players/m/martisa01.shtml	martisa01	26	TOR	AL	3	3	2	1	0	0	0	0	0	0	0	1	1	.000	.333	.000	.333	-2	0	0	0	0	0	0	/2
 1997	773	Tino Martinez*	http://www.baseball-reference.com/players/m/martiti02.shtml	martiti02	29	NYY	AL	158	685	594	96	176	31	2	44	141	3	1	75	75	.296	.371	.577	.948	143	343	15	3	0	13	14	*3/D
 1997	774	John Marzano	http://www.baseball-reference.com/players/m/marzajo01.shtml	marzajo01	34	SEA	AL	39	96	87	7	25	3	0	1	10	0	0	7	15	.287	.340	.356	.697	85	31	2	0	2	0	0	2/D

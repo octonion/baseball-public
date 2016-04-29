@@ -27,7 +27,7 @@
 2010	27	Brad Ausmus	http://www.baseball-reference.com/players/a/ausmubr01.shtml	ausmubr01	41	71	LAD	-3.5	-0.4	72	-0.4	0.6	-1.0	.76	-0.3	-0.3	-4.4	-0.5	0.91	-3.8		0
 2010	28	Alex Avila*	http://www.baseball-reference.com/players/a/avilaal01.shtml	avilaal01	23	333	DET	-8.9	-0.9	340	-1.2	5.8	-7.0	1.09	-0.6	-0.5	-12.6	-1.2	0.97	-7.5	2.22	9
 2010	29	Mike Aviles	http://www.baseball-reference.com/players/a/avilemi01.shtml	avilemi01	29	448	KCR	1.2	0.1	478	-1.0	8.0	-9.0	1.06	-0.2	-0.7	-8.0	-0.8	0.95	-3.7	2.17	3
-2010	30	Erick Aybar#	http://www.baseball-reference.com/players/a/aybarer01.shtml	aybarer01	26	589	LAA	-17.1	-1.7	627	-2.7	7.5	-10.2	.99	-2.0	-0.7	-22.6	-2.3	0.95	-22.4	0.90	3
+2010	30	Erick Aybar#	http://www.baseball-reference.com/players/a/aybarer01.shtml	aybarer01	26	589	LAA	-17.1	-1.7	627	-2.7	7.5	-10.2	.99	-1.9	-0.7	-22.6	-2.3	0.95	-22.4	0.90	3
 2010	31	Willy Aybar#	http://www.baseball-reference.com/players/a/aybarwi01.shtml	aybarwi01	27	309	TBR	-5.4	-0.5	316	0.5	5.9	-5.4	1.03	-0.4	0.9	3.7	0.4	1.01	-1.5	1.31	26
 2010	32	Burke Badenhop	http://www.baseball-reference.com/players/b/badenbu01.shtml	badenbu01	27	1	FLA	-0.3	-0.0	1	-0.0	0.0	-0.0	.62	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
 2010	33	Homer Bailey	http://www.baseball-reference.com/players/b/baileho02.shtml	baileho02	24	39	CIN	-3.5	-0.4	39	-0.5	0.3	-0.8	.93	-0.4	-0.1	-4.5	-0.4	1.00	-4.1		0
@@ -215,7 +215,7 @@
 2010	215	Scott Cousins*	http://www.baseball-reference.com/players/c/cousisc01.shtml	cousisc01	25	38	FLA	-0.1	-0.0	38	-0.4	0.3	-0.7	.89	-0.1	-0.4	-3.1	-0.3	0.98	-0.7	0.98	17
 2010	216	Allen Craig	http://www.baseball-reference.com/players/c/craigal01.shtml	craigal01	25	124	STL	-1.4	-0.1	127	0.0	2.3	-2.3	1.05	0.3	-0.3	3.8	0.4	0.99	2.5	1.20	7
 2010	217	Jesse Crain	http://www.baseball-reference.com/players/c/crainje01.shtml	crainje01	28	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.21	-0.0	0.0	-0.3	-0.0	1.11	-0.3		0
-2010	218	Carl Crawford*	http://www.baseball-reference.com/players/c/crawfca02.shtml	crawfca02	28	663	TBR	27.3	2.6	741	3.5	14.1	-10.6	1.02	3.4	0.1	41.7	4.1	0.96	37.7	2.44	2
+2010	218	Carl Crawford*	http://www.baseball-reference.com/players/c/crawfca02.shtml	crawfca02	28	663	TBR	27.3	2.6	741	3.5	14.1	-10.6	1.02	3.4	0.0	41.7	4.1	0.96	37.7	2.44	2
 2010	219	Coco Crisp#	http://www.baseball-reference.com/players/c/crispco01.shtml	crispco01	30	328	OAK	5.1	0.5	369	0.3	5.8	-5.5	.97	1.5	-1.2	15.0	1.5	0.96	15.1	0.21	1
 2010	220	Bobby Crosby	http://www.baseball-reference.com/players/c/crosbbo01.shtml	crosbbo01	30	189	TOT	-8.7	-0.9	194	-0.8	2.3	-3.1	.90	-1.0	0.1	-6.6	-0.6	0.92	-9.2	0.88	20
 2010	221	Bobby Crosby	http://www.baseball-reference.com/players/c/crosbbo01.shtml	crosbbo01	30	175	PIT	-7.8	-0.8	179	-0.8	2.1	-2.9	.92	-0.9	0.0	-4.0	-0.4	0.91	-7.5	0.94	14
@@ -287,7 +287,7 @@
 2010	287	Mark Ellis	http://www.baseball-reference.com/players/e/ellisma01.shtml	ellisma01	33	492	OAK	3.9	0.4	512	1.1	9.2	-8.1	1.04	0.5	0.5	4.6	0.4	0.98	1.9	3.61	2
 2010	288	Jacoby Ellsbury*	http://www.baseball-reference.com/players/e/ellsbja01.shtml	ellsbja01	26	84	BOS	-7.9	-0.8	92	-0.4	1.1	-1.5	.93	-0.4	0.1	-3.9	-0.4	1.01	-5.5		0
 2010	289	John Ely	http://www.baseball-reference.com/players/e/elyjo01.shtml	elyjo01	24	32	LAD	-5.6	-0.6	32	-0.4	0.2	-0.6	.99	-0.4	0.1	-5.1	-0.5	1.01	-4.9		0
-2010	290	Edwin Encarnacion	http://www.baseball-reference.com/players/e/encared01.shtml	encared01	27	367	TOR	3.2	0.3	372	0.5	6.5	-6.0	.88	0.0	0.6	-5.7	-0.6	0.94	-0.6		0
+2010	290	Edwin Encarnacion	http://www.baseball-reference.com/players/e/encared01.shtml	encared01	27	367	TOR	3.2	0.3	372	0.5	6.5	-6.0	.88	0.0	0.5	-5.7	-0.6	0.94	-0.6		0
 2010	291	Jesse English*	http://www.baseball-reference.com/players/e/englije01.shtml	englije01	25	1	WSN	0.0	0.0	1	-0.0	0.0	-0.0	2.01	-0.0	-0.0	-0.4	-0.0	1.47	-0.3		0
 2010	292	Barry Enright	http://www.baseball-reference.com/players/e/enrigba01.shtml	enrigba01	24	37	ARI	-3.2	-0.3	37	0.1	0.7	-0.6	1.17	-0.1	0.2	1.5	0.1	1.02	-0.8	3.18	1
 2010	293	Alcides Escobar	http://www.baseball-reference.com/players/e/escobal02.shtml	escobal02	23	552	MIL	-26.3	-2.6	573	-3.2	6.9	-10.1	.94	-2.7	-0.8	-32.8	-3.3	0.97	-28.4	0.38	5
@@ -335,7 +335,7 @@
 2010	335	Kevin Frandsen	http://www.baseball-reference.com/players/f/frandke01.shtml	frandke01	28	173	LAA	-6.2	-0.6	178	-1.2	1.9	-3.1	.94	-0.6	-0.7	-4.4	-0.4	0.92	-6.7	1.12	2
 2010	336	Ryan Franklin	http://www.baseball-reference.com/players/f/frankry01.shtml	frankry01	37	3	STL	-0.8	-0.1	3	-0.1	0.0	-0.1	.59	-0.1	-0.0	-1.8	-0.2	1.91	-0.9		0
 2010	337	Jeff Frazier	http://www.baseball-reference.com/players/f/frazije01.shtml	frazije01	27	24	DET	-2.0	-0.2	25	-0.5	0.1	-0.6	.87	-0.3	-0.3	-2.5	-0.2	0.95	-2.2	1.56	3
-2010	338	Freddie Freeman*	http://www.baseball-reference.com/players/f/freemfr01.shtml	freemfr01	20	24	ATL	-2.4	-0.2	24	-0.4	0.2	-0.6	.98	-0.0	-0.3	-1.6	-0.2	0.88	0.1	1.06	11
+2010	338	Freddie Freeman*	http://www.baseball-reference.com/players/f/freemfr01.shtml	freemfr01	20	24	ATL	-2.4	-0.2	24	-0.4	0.2	-0.6	.98	-0.0	-0.3	-1.6	-0.2	0.88	0.1	1.07	11
 2010	339	David Freese	http://www.baseball-reference.com/players/f/freesda01.shtml	freesda01	27	270	STL	3.6	0.4	275	-0.7	4.6	-5.3	1.05	0.3	-0.9	4.2	0.4	1.00	3.5	1.76	4
 2010	340	Luke French*	http://www.baseball-reference.com/players/f/frenclu01.shtml	frenclu01	24	1	SEA	-0.3	-0.0	1	-0.0	0.0	-0.0	.42	-0.0	-0.0	-0.1	-0.0	0.38	-0.3		0
 2010	341	Ernesto Frieri	http://www.baseball-reference.com/players/f/frierer01.shtml	frierer01	24	1	SDP	-0.3	-0.0	1	-0.0	0.0	-0.0	.04	-0.0	0.0	-0.5	-0.0	1.59	-0.3		0
@@ -453,7 +453,7 @@
 2010	453	Jonathan Herrera#	http://www.baseball-reference.com/players/h/herrejo03.shtml	herrejo03	25	257	COL	-7.0	-0.7	269	0.8	5.1	-4.2	1.11	-0.1	0.9	-0.2	-0.0	0.92	-3.0	2.00	6
 2010	454	Mike Hessman	http://www.baseball-reference.com/players/h/hessmmi01.shtml	hessmmi01	32	65	NYM	-4.5	-0.4	65	-0.8	0.7	-1.5	1.23	-0.4	-0.2	-3.1	-0.3	1.05	-4.4	1.33	18
 2010	455	John Hester	http://www.baseball-reference.com/players/h/hestejo01.shtml	hestejo01	26	106	ARI	-4.3	-0.4	107	-0.6	1.2	-1.8	.88	-0.3	-0.4	-4.7	-0.5	0.93	-3.9	0.47	5
-2010	456	Jason Heyward*	http://www.baseball-reference.com/players/h/heywaja01.shtml	heywaja01	20	623	ATL	26.6	2.6	650	4.8	14.5	-9.7	1.01	4.0	0.8	44.7	4.4	0.96	45.4	2.33	3
+2010	456	Jason Heyward*	http://www.baseball-reference.com/players/h/heywaja01.shtml	heywaja01	20	623	ATL	26.6	2.6	650	4.8	14.5	-9.7	1.01	4.0	0.7	44.7	4.4	0.96	45.4	2.33	3
 2010	457	Brandon Hicks	http://www.baseball-reference.com/players/h/hicksbr01.shtml	hicksbr01	24	6	ATL	-1.1	-0.1	6	-0.0	0.0	-0.0	.08	-0.1	-0.0	-1.1	-0.1	0.69	-1.1	0.08	4
 2010	458	Aaron Hill	http://www.baseball-reference.com/players/h/hillaa01.shtml	hillaa01	28	580	TOR	-18.8	-1.8	589	-2.2	7.9	-10.1	.90	-0.9	-1.6	-14.2	-1.4	0.92	-12.2		0
 2010	459	Koyie Hill#	http://www.baseball-reference.com/players/h/hillko01.shtml	hillko01	31	231	CHC	-16.9	-1.7	234	-1.8	2.5	-4.3	.96	-1.5	-0.4	-15.2	-1.5	0.96	-16.8	1.31	3
@@ -505,7 +505,7 @@
 2010	505	John Jaso*	http://www.baseball-reference.com/players/j/jasojo01.shtml	jasojo01	26	404	TBR	8.1	0.8	427	-0.1	6.8	-6.8	.99	0.6	-0.6	8.4	0.8	0.98	7.4	1.75	12
 2010	506	Jon Jay*	http://www.baseball-reference.com/players/j/jayjo02.shtml	jayjo02	25	323	STL	5.7	0.6	337	-0.3	4.7	-5.0	.93	0.5	-0.9	6.9	0.7	0.95	8.7	1.00	22
 2010	507	Desmond Jennings	http://www.baseball-reference.com/players/j/jennide01.shtml	jennide01	23	24	TBR	-0.8	-0.1	29	0.1	0.6	-0.5	1.24	-0.1	0.1	-0.3	-0.0	1.08	-0.9	0.17	1
-2010	508	Derek Jeter	http://www.baseball-reference.com/players/j/jeterde01.shtml	jeterde01	36	739	NYY	-9.6	-0.9	783	-0.7	12.6	-13.2	.99	-0.2	-0.4	-6.3	-0.6	0.99	-2.4	1.87	2
+2010	508	Derek Jeter	http://www.baseball-reference.com/players/j/jeterde01.shtml	jeterde01	36	739	NYY	-9.6	-0.9	783	-0.7	12.6	-13.2	.99	-0.2	-0.5	-6.3	-0.6	0.99	-2.4	1.87	2
 2010	509	Ubaldo Jimenez	http://www.baseball-reference.com/players/j/jimenub01.shtml	jimenub01	26	83	COL	-16.4	-1.7	83	-1.0	0.6	-1.6	.90	-1.2	0.1	-13.6	-1.3	0.99	-13.3		0
 2010	510	Chris Johnson	http://www.baseball-reference.com/players/j/johnsch05.shtml	johnsch05	25	362	HOU	9.2	0.9	367	1.1	6.9	-5.7	.97	0.8	0.4	17.2	1.7	0.94	8.9	1.91	4
 2010	511	Dan Johnson*	http://www.baseball-reference.com/players/j/johnsda06.shtml	johnsda06	30	140	TBR	2.7	0.3	142	0.9	3.2	-2.4	1.06	0.5	0.3	2.0	0.2	0.96	5.2	1.02	5
@@ -618,7 +618,7 @@
 2010	618	Matt Maloney*	http://www.baseball-reference.com/players/m/malonma02.shtml	malonma02	26	5	CIN	-0.1	-0.0	5	-0.1	0.0	-0.1	1.16	-0.1	-0.0	-1.0	-0.1	0.93	-0.7		0
 2010	619	Matt Mangini*	http://www.baseball-reference.com/players/m/mangima01.shtml	mangima01	24	41	SEA	-3.6	-0.4	42	-0.5	0.4	-0.9	1.15	-0.3	-0.1	-5.4	-0.6	1.04	-4.1	2.02	1
 2010	620	Jeff Manship	http://www.baseball-reference.com/players/m/manshje01.shtml	manshje01	25	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.16	-0.0	0.0	-0.1	-0.0	0.38	-0.3		0
-2010	621	Tommy Manzella	http://www.baseball-reference.com/players/m/manzeto01.shtml	manzeto01	27	282	HOU	-19.4	-1.9	285	-1.8	3.5	-5.2	.97	-2.0	0.1	-15.9	-1.6	0.96	-20.3	3.87	2
+2010	621	Tommy Manzella	http://www.baseball-reference.com/players/m/manzeto01.shtml	manzeto01	27	282	HOU	-19.4	-1.9	285	-1.8	3.5	-5.2	.97	-1.9	0.1	-15.9	-1.6	0.96	-20.3	3.87	2
 2010	622	Shaun Marcum	http://www.baseball-reference.com/players/m/marcush01.shtml	marcush01	28	6	TOR	0.3	0.0	6	0.0	0.1	-0.1	1.03	0.0	-0.0	-0.2	-0.0	1.16	0.2		0
 2010	623	Nick Markakis*	http://www.baseball-reference.com/players/m/markani01.shtml	markani01	26	709	BAL	20.4	2.0	730	1.4	13.0	-11.6	1.01	0.9	0.5	17.1	1.7	0.90	9.8		0
 2010	624	Jason Marquis*	http://www.baseball-reference.com/players/m/marquja01.shtml	marquja01	31	24	WSN	-3.6	-0.4	25	-0.3	0.2	-0.5	1.01	-0.4	0.1	-2.8	-0.3	0.95	-4.0	0.72	3
@@ -822,7 +822,7 @@
 2010	822	Wilson Ramos	http://www.baseball-reference.com/players/r/ramoswi01.shtml	ramoswi01	22	28	MIN	0.0	0.0	28	-0.1	0.2	-0.3	.62	-0.1	-0.1	-0.4	-0.0	0.83	-0.8		0
 2010	823	Wilson Ramos	http://www.baseball-reference.com/players/r/ramoswi01.shtml	ramoswi01	22	54	WSN	-1.0	-0.1	54	0.2	1.1	-0.8	.91	-0.0	0.2	-1.0	-0.1	0.94	-0.5		0
 2010	824	Cody Ransom	http://www.baseball-reference.com/players/r/ransoco01.shtml	ransoco01	34	46	PHI	-3.1	-0.3	47	-0.1	0.8	-0.9	1.01	0.0	-0.1	-3.8	-0.4	0.99	-1.9	1.02	5
-2010	825	Colby Rasmus*	http://www.baseball-reference.com/players/r/rasmuco01.shtml	rasmuco01	23	534	STL	21.8	2.1	558	0.6	9.9	-9.3	1.02	1.7	-1.1	19.8	2.0	1.01	20.2	1.71	13
+2010	825	Colby Rasmus*	http://www.baseball-reference.com/players/r/rasmuco01.shtml	rasmuco01	23	534	STL	21.8	2.1	558	0.6	9.9	-9.3	1.02	1.7	-1.2	19.8	2.0	1.01	20.2	1.71	13
 2010	826	Jon Rauch	http://www.baseball-reference.com/players/r/rauchjo01.shtml	rauchjo01	31	1	MIN	0.0	0.0	1	-0.1	0.0	-0.1	4.62	-0.0	0.0	-0.3	-0.0	1.77	-0.2		0
 2010	827	John Raynor	http://www.baseball-reference.com/players/r/raynojo01.shtml	raynojo01	26	11	PIT	-1.0	-0.1	12	-0.0	0.0	-0.1	.30	-0.0	-0.1	-0.3	-0.0	0.75	-0.7	0.35	7
 2010	828	Josh Reddick*	http://www.baseball-reference.com/players/r/reddijo01.shtml	reddijo01	23	63	BOS	-5.8	-0.6	65	-0.4	0.8	-1.2	.96	-0.1	-0.3	-4.7	-0.5	1.02	-3.5	0.61	3
@@ -957,17 +957,17 @@
 2010	957	Jeff Suppan	http://www.baseball-reference.com/players/s/suppaje01.shtml	suppaje01	35	28	TOT	-2.8	-0.3	28	-0.2	0.3	-0.5	.97	-0.2	0.0	-2.0	-0.2	1.01	-2.5		0
 2010	958	Jeff Suppan	http://www.baseball-reference.com/players/s/suppaje01.shtml	suppaje01	35	5	MIL	-0.7	-0.1	5	-0.2	0.0	-0.2	1.13	-0.1	-0.1	-0.9	-0.1	1.15	-0.8		0
 2010	959	Jeff Suppan	http://www.baseball-reference.com/players/s/suppaje01.shtml	suppaje01	35	23	STL	-2.1	-0.2	23	-0.1	0.3	-0.3	.94	-0.2	0.1	-1.1	-0.1	0.98	-1.7		0
-2010	960	Drew Sutton#	http://www.baseball-reference.com/players/s/suttodr01.shtml	suttodr01	27	42	TOT	0.1	0.0	42	-0.2	0.5	-0.8	.94	-0.1	-0.1	1.9	0.2	0.91	0.4	0.02	1
+2010	960	Drew Sutton#	http://www.baseball-reference.com/players/s/suttodr01.shtml	suttodr01	27	42	TOT	0.1	0.0	42	-0.2	0.5	-0.8	.95	-0.1	-0.1	1.9	0.2	0.91	0.4	0.02	1
 2010	961	Drew Sutton#	http://www.baseball-reference.com/players/s/suttodr01.shtml	suttodr01	27	3	CIN	1.6	0.2	3	0.0	0.0	0.0	.01	0.1	0.3	3.7	0.3	1.42	1.5	0.02	1
 2010	962	Drew Sutton#	http://www.baseball-reference.com/players/s/suttodr01.shtml	suttodr01	27	39	CLE	-1.4	-0.1	39	-0.2	0.5	-0.8	1.02	-0.3	0.0	-1.7	-0.2	0.87	-1.1		0
-2010	963	Ichiro Suzuki*	http://www.baseball-reference.com/players/s/suzukic01.shtml	suzukic01	36	732	SEA	12.0	1.2	801	0.2	12.4	-12.2	1.00	0.5	-0.3	8.4	0.8	0.91	5.7		0
+2010	963	Ichiro Suzuki*	http://www.baseball-reference.com/players/s/suzukic01.shtml	suzukic01	36	732	SEA	12.0	1.2	801	0.2	12.4	-12.2	1.00	0.6	-0.3	8.4	0.8	0.91	5.7		0
 2010	964	Kurt Suzuki	http://www.baseball-reference.com/players/s/suzukku01.shtml	suzukku01	26	544	OAK	-12.4	-1.2	555	0.3	10.0	-9.8	1.04	-0.7	0.9	-10.4	-1.0	1.01	-8.9	1.45	1
 2010	965	Brian Sweeney	http://www.baseball-reference.com/players/s/sweenbr01.shtml	sweenbr01	36	1	SEA	0.0	0.0	1	-0.0	0.0	-0.0	1.27	-0.0	0.0	-0.2	-0.0	1.11	-0.2		0
 2010	966	Mike Sweeney	http://www.baseball-reference.com/players/s/sweenmi01.shtml	sweenmi01	36	168	TOT	1.7	0.2	170	-0.2	3.4	-3.6	1.18	0.5	-0.6	5.2	0.5	0.99	4.7	1.58	17
 2010	967	Mike Sweeney	http://www.baseball-reference.com/players/s/sweenmi01.shtml	sweenmi01	36	110	SEA	2.9	0.3	111	-0.4	2.3	-2.7	1.29	0.2	-0.5	1.9	0.2	1.03	1.7	2.70	5
 2010	968	Mike Sweeney	http://www.baseball-reference.com/players/s/sweenmi01.shtml	sweenmi01	36	58	PHI	-1.2	-0.1	59	0.2	1.2	-0.9	.98	0.3	-0.0	3.3	0.3	0.91	3.1	1.12	12
 2010	969	Ryan Sweeney*	http://www.baseball-reference.com/players/s/sweenry01.shtml	sweenry01	25	331	OAK	0.2	0.0	340	-0.0	5.7	-5.7	1.05	-0.5	0.5	0.2	0.0	0.98	-4.5	2.87	2
-2010	970	Nick Swisher#	http://www.baseball-reference.com/players/s/swishni01.shtml	swishni01	29	635	NYY	22.3	2.2	644	2.5	12.7	-10.2	.92	2.5	0.3	26.2	2.5	0.96	26.8	1.82	7
+2010	970	Nick Swisher#	http://www.baseball-reference.com/players/s/swishni01.shtml	swishni01	29	635	NYY	22.3	2.2	644	2.5	12.7	-10.2	.92	2.5	0.2	26.2	2.5	0.96	26.8	1.82	7
 2010	971	Jose Tabata	http://www.baseball-reference.com/players/t/tabatjo01.shtml	tabatjo01	21	441	PIT	1.3	0.1	474	0.0	7.4	-7.4	.99	0.2	-0.2	5.2	0.5	0.91	2.3	7.62	1
 2010	972	Hisanori Takahashi*	http://www.baseball-reference.com/players/t/takahhi01.shtml	takahhi01	35	20	NYM	-3.7	-0.4	20	-0.5	0.0	-0.6	1.25	-0.4	-0.0	-6.3	-0.6	1.26	-4.4		0
 2010	973	Mitch Talbot	http://www.baseball-reference.com/players/t/talbomi01.shtml	talbomi01	26	5	CLE	-1.4	-0.1	5	-0.1	0.0	-0.1	.89	-0.1	0.0	-1.0	-0.1	0.74	-1.4		0
@@ -1074,7 +1074,7 @@
 2010	1074	Randy Winn#	http://www.baseball-reference.com/players/w/winnra01.shtml	winnra01	36	233	TOT	-5.7	-0.6	243	-0.3	3.9	-4.2	.99	-0.5	0.2	-6.3	-0.6	1.03	-6.7	0.89	44
 2010	1075	Randy Winn#	http://www.baseball-reference.com/players/w/winnra01.shtml	winnra01	36	71	NYY	-3.6	-0.4	74	-0.2	1.1	-1.4	1.03	-0.2	-0.0	-1.8	-0.2	1.11	-2.9	0.06	1
 2010	1076	Randy Winn#	http://www.baseball-reference.com/players/w/winnra01.shtml	winnra01	36	162	STL	-2.1	-0.2	169	-0.1	2.8	-2.8	.98	-0.3	0.2	-4.4	-0.4	1.00	-3.8	0.91	43
-2010	1077	Dewayne Wise*	http://www.baseball-reference.com/players/w/wisede01.shtml	wisede01	32	118	TOR	-3.8	-0.4	125	0.7	2.3	-1.6	.91	-0.1	0.9	1.2	0.1	0.89	-3.3	0.19	4
+2010	1077	Dewayne Wise*	http://www.baseball-reference.com/players/w/wisede01.shtml	wisede01	32	118	TOR	-3.8	-0.4	125	0.7	2.3	-1.6	.91	-0.1	0.9	1.2	0.1	0.89	-3.3	0.20	4
 2010	1078	Randy Wolf*	http://www.baseball-reference.com/players/w/wolfra02.shtml	wolfra02	33	83	MIL	-5.6	-0.6	84	-0.8	0.9	-1.7	.98	-0.6	-0.2	-7.4	-0.7	0.97	-5.9	3.68	2
 2010	1079	Brandon Wood	http://www.baseball-reference.com/players/w/woodbr01.shtml	woodbr01	25	243	LAA	-29.9	-3.0	247	-1.8	2.1	-3.9	.79	-2.8	0.5	-25.0	-2.5	0.94	-29.6	0.02	3
 2010	1080	Travis Wood	http://www.baseball-reference.com/players/w/woodtr01.shtml	woodtr01	23	42	CIN	-3.1	-0.3	42	-0.6	0.3	-0.9	1.00	-0.3	-0.3	-6.3	-0.6	1.03	-3.5		0
