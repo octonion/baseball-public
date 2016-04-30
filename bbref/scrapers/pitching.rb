@@ -66,7 +66,7 @@ reports.each do |report|
 
       end
 
-      if (row.size > 0)
+      if (row.size > 0) and not(row[4]==nil)
         found += 1
         out << [year]+row
       end
