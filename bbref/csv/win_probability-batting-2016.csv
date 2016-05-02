@@ -1,554 +1,564 @@
-2016	1	Fernando Abad*	http://www.baseball-reference.com/players/a/abadfe01.shtml	abadfe01	30	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	1.85	-0.0	-0.0	-0.2	-0.0	0.62	-0.3		0
-2016	2	Jose Abreu	http://www.baseball-reference.com/players/a/abreujo02.shtml	abreujo02	29	100	CHW	-1.7	-0.2	101	-0.3	1.2	-1.6	.92	-0.2	-0.1	-2.0	-0.2	0.91	-2.3		0
-2016	3	Dustin Ackley*	http://www.baseball-reference.com/players/a/ackledu01.shtml	ackledu01	28	17	NYY	-2.6	-0.3	17	-0.1	0.1	-0.2	.75	-0.2	0.0	-2.1	-0.2	0.95	-2.6	0.01	2
-2016	4	Cristhian Adames#	http://www.baseball-reference.com/players/a/adamecr01.shtml	adamecr01	24	29	COL	-3.1	-0.3	30	-0.2	0.2	-0.4	.92	-0.3	0.1	-4.0	-0.4	1.06	-3.4	1.17	8
-2016	5	Matt Adams*	http://www.baseball-reference.com/players/a/adamsma01.shtml	adamsma01	27	41	STL	-2.3	-0.2	43	-0.3	0.5	-0.7	.94	-0.3	0.1	-1.5	-0.1	1.00	-2.4	0.51	8
-2016	6	Ehire Adrianza#	http://www.baseball-reference.com/players/a/adriaeh01.shtml	adriaeh01	26	12	SFG	1.1	0.1	12	0.0	0.2	-0.2	1.01	0.1	-0.1	1.1	0.1	0.80	1.4	1.07	4
-2016	7	Nick Ahmed	http://www.baseball-reference.com/players/a/ahmedni01.shtml	ahmedni01	26	88	ARI	-5.9	-0.6	92	-0.4	1.5	-1.8	1.13	-0.5	0.2	-5.8	-0.5	0.91	-5.6		0
-2016	8	Hanser Alberto	http://www.baseball-reference.com/players/a/alberha01.shtml	alberha01	23	18	TEX	-3.2	-0.3	18	-0.4	0.0	-0.4	.95	-0.3	-0.1	-2.7	-0.3	0.86	-3.2	0.00	1
-2016	9	Yonder Alonso*	http://www.baseball-reference.com/players/a/alonsyo01.shtml	alonsyo01	29	69	OAK	-7.6	-0.8	70	-0.8	0.6	-1.5	.99	-0.8	-0.0	-9.7	-1.0	0.95	-8.6	3.30	1
-2016	10	Jose Altuve	http://www.baseball-reference.com/players/a/altuvjo01.shtml	altuvjo01	26	102	HOU	12.6	1.2	115	0.5	2.4	-1.9	1.11	1.0	-0.6	9.9	1.0	0.99	9.9		0
-2016	11	Pedro Alvarez*	http://www.baseball-reference.com/players/a/alvarpe01.shtml	alvarpe01	29	52	BAL	-2.1	-0.2	53	-0.3	0.7	-1.0	.99	-0.2	-0.0	-2.6	-0.3	0.91	-2.7	0.00	1
-2016	12	Alexi Amarista*	http://www.baseball-reference.com/players/a/amarial01.shtml	amarial01	27	26	SDP	0.8	0.1	29	0.0	0.5	-0.5	1.34	-0.0	0.0	0.6	0.1	0.95	0.2		0
-2016	13	Chase Anderson	http://www.baseball-reference.com/players/a/anderch01.shtml	anderch01	28	7	MIL	-1.8	-0.2	7	-0.2	0.0	-0.2	.96	-0.2	0.0	-1.9	-0.2	0.98	-1.9		0
-2016	14	Elvis Andrus	http://www.baseball-reference.com/players/a/andruel01.shtml	andruel01	27	77	TEX	3.1	0.3	85	0.6	1.8	-1.2	.93	0.7	-0.1	6.9	0.7	0.95	6.7		0
-2016	15	Nori Aoki*	http://www.baseball-reference.com/players/a/aokino01.shtml	aokino01	34	87	SEA	-3.6	-0.4	91	-0.5	1.3	-1.8	1.09	-0.1	-0.3	-2.1	-0.2	0.95	-1.0	2.83	1
-2016	16	Oswaldo Arcia*	http://www.baseball-reference.com/players/a/arciaos01.shtml	arciaos01	25	47	MIN	-0.0	0.0	48	0.5	1.6	-1.1	1.29	0.1	0.2	-0.6	-0.1	0.95	-0.2	0.15	1
-2016	17	Nolan Arenado	http://www.baseball-reference.com/players/a/arenano01.shtml	arenano01	25	92	COL	5.3	0.5	93	0.4	1.9	-1.4	.98	0.8	-0.3	5.3	0.5	0.96	9.1		0
-2016	18	Jake Arrieta	http://www.baseball-reference.com/players/a/arrieja01.shtml	arrieja01	30	14	CHC	-0.2	-0.0	14	0.1	0.3	-0.1	.56	0.1	0.1	0.6	0.1	1.05	0.8		0
-2016	19	Alex Avila*	http://www.baseball-reference.com/players/a/avilaal01.shtml	avilaal01	29	33	CHW	-0.8	-0.1	34	-0.2	0.5	-0.7	1.15	-0.1	-0.1	-2.5	-0.3	0.94	-1.4		0
-2016	20	Mike Aviles	http://www.baseball-reference.com/players/a/avilemi01.shtml	avilemi01	35	18	DET	-1.6	-0.2	19	-0.2	0.1	-0.3	.87	-0.1	-0.1	-0.7	-0.1	1.09	-1.0	1.79	0
-2016	21	Erick Aybar#	http://www.baseball-reference.com/players/a/aybarer01.shtml	aybarer01	32	83	ATL	-11.6	-1.1	87	-0.8	1.1	-1.8	1.18	-0.8	0.2	-8.0	-0.8	1.02	-9.0	3.69	2
-2016	22	Javier Baez	http://www.baseball-reference.com/players/b/baezja01.shtml	baezja01	23	27	CHC	0.2	0.0	33	-0.2	0.2	-0.4	.66	0.1	-0.4	-0.0	-0.0	0.97	0.3	0.35	4
-2016	23	Austin Barnes	http://www.baseball-reference.com/players/b/barneau01.shtml	barneau01	26	17	LAD	-2.1	-0.2	17	-0.3	0.2	-0.5	1.28	-0.2	0.0	-1.4	-0.1	0.97	-2.2	2.94	1
-2016	24	Brandon Barnes	http://www.baseball-reference.com/players/b/barnebr02.shtml	barnebr02	30	36	COL	-3.1	-0.3	39	-0.3	0.5	-0.8	1.06	-0.3	0.0	-2.3	-0.2	0.98	-3.5	0.74	6
-2016	25	Darwin Barney	http://www.baseball-reference.com/players/b/barneda01.shtml	barneda01	30	31	TOR	0.4	0.0	33	0.1	0.5	-0.3	.75	0.2	-0.0	1.5	0.2	0.92	2.5		0
-2016	26	Tucker Barnhart#	http://www.baseball-reference.com/players/b/barnhtu01.shtml	barnhtu01	25	35	CIN	0.8	0.1	35	0.4	0.6	-0.2	.65	0.2	0.4	1.3	0.1	0.79	1.6	0.06	2
-2016	27	Jose Bautista	http://www.baseball-reference.com/players/b/bautijo02.shtml	bautijo02	35	99	TOR	7.2	0.7	100	0.4	2.0	-1.6	1.01	0.5	-0.1	6.5	0.6	0.95	5.4		0
-2016	28	Gordon Beckham	http://www.baseball-reference.com/players/b/beckhgo01.shtml	beckhgo01	29	28	ATL	-0.0	0.0	29	0.1	0.5	-0.4	.97	0.1	-0.0	0.5	0.0	0.83	0.4	0.87	4
-2016	29	Tim Beckham	http://www.baseball-reference.com/players/b/beckhti01.shtml	beckhti01	26	21	TBR	-2.1	-0.2	22	-0.1	0.2	-0.3	.88	-0.2	0.1	-1.1	-0.1	0.91	-2.3	1.02	1
-2016	30	Brandon Belt*	http://www.baseball-reference.com/players/b/beltbr01.shtml	beltbr01	28	92	SFG	5.6	0.5	96	-0.2	1.7	-1.9	1.12	0.1	-0.3	2.7	0.3	1.02	3.0	2.21	2
-2016	31	Carlos Beltran#	http://www.baseball-reference.com/players/b/beltrca01.shtml	beltrca01	39	80	NYY	0.6	0.1	82	-0.1	1.2	-1.3	.99	0.3	-0.4	0.6	0.1	0.90	3.1	0.14	1
-2016	32	Adrian Beltre	http://www.baseball-reference.com/players/b/beltrad01.shtml	beltrad01	37	91	TEX	3.0	0.3	91	0.2	1.6	-1.4	.99	0.3	-0.1	5.5	0.5	1.00	4.2		0
-2016	33	Christian Bergman	http://www.baseball-reference.com/players/b/bergmch01.shtml	bergmch01	28	2	COL	0.1	0.0	3	0.1	0.1	-0.0	1.67	0.1	-0.0	0.6	0.1	1.15	0.6		0
-2016	34	Christian Bethancourt	http://www.baseball-reference.com/players/b/bethach01.shtml	bethach01	24	21	SDP	-0.6	-0.1	21	-0.1	0.3	-0.4	.97	0.1	-0.2	-0.1	-0.0	0.83	0.9	1.12	2
-2016	35	Chad Bettis	http://www.baseball-reference.com/players/b/bettich01.shtml	bettich01	27	10	COL	-2.0	-0.2	10	-0.1	0.1	-0.2	1.12	-0.1	0.0	-1.3	-0.1	0.95	-1.3		0
-2016	36	Mookie Betts	http://www.baseball-reference.com/players/b/bettsmo01.shtml	bettsmo01	23	105	BOS	0.7	0.1	116	-0.0	1.8	-1.8	.94	0.4	-0.4	2.8	0.3	1.00	4.1		0
-2016	37	Charlie Blackmon*	http://www.baseball-reference.com/players/b/blackch02.shtml	blackch02	29	29	COL	-2.6	-0.2	30	0.0	0.4	-0.4	.81	-0.2	0.2	-1.5	-0.1	0.90	-2.3	0.24	1
-2016	38	Aaron Blair	http://www.baseball-reference.com/players/b/blairaa01.shtml	blairaa01	24	2	ATL	-0.3	-0.0	2	-0.1	0.0	-0.1	1.45	-0.0	0.0	-0.4	-0.0	0.99	-0.4		0
-2016	39	Andres Blanco#	http://www.baseball-reference.com/players/b/blancan01.shtml	blancan01	32	32	PHI	2.1	0.2	34	0.6	1.0	-0.4	.81	0.2	0.5	1.9	0.2	0.95	2.4	1.11	9
-2016	40	Gregor Blanco*	http://www.baseball-reference.com/players/b/blancgr01.shtml	blancgr01	32	30	SFG	1.8	0.2	30	0.2	0.6	-0.4	1.01	0.3	-0.1	3.5	0.3	0.93	3.0	0.74	10
-2016	41	Jabari Blash	http://www.baseball-reference.com/players/b/blashja01.shtml	blashja01	26	22	SDP	-1.7	-0.2	23	-0.2	0.1	-0.3	.57	-0.3	-0.0	-2.4	-0.2	0.79	-2.3	0.57	9
-2016	42	Xander Bogaerts	http://www.baseball-reference.com/players/b/bogaexa01.shtml	bogaexa01	23	95	BOS	2.2	0.2	101	0.3	1.8	-1.5	.93	0.0	0.3	1.4	0.1	0.94	0.4		0
-2016	43	Justin Bour*	http://www.baseball-reference.com/players/b/bourju01.shtml	bourju01	28	70	MIA	-2.3	-0.2	70	-0.4	0.9	-1.3	1.07	-0.3	-0.0	-4.0	-0.4	1.02	-3.2	0.45	1
-2016	44	Peter Bourjos	http://www.baseball-reference.com/players/b/bourjpe01.shtml	bourjpe01	29	64	PHI	-8.0	-0.8	64	-0.1	1.2	-1.3	.99	-0.4	0.3	-5.5	-0.5	0.84	-5.2		0
-2016	45	Archie Bradley	http://www.baseball-reference.com/players/b/bradlar01.shtml	bradlar01	23	2	ARI	-0.3	-0.0	2	-0.0	0.0	-0.0	1.35	-0.0	0.0	-0.4	-0.0	1.08	-0.5		0
-2016	46	Jackie Bradley*	http://www.baseball-reference.com/players/b/bradlja02.shtml	bradlja02	26	82	BOS	-1.6	-0.2	85	0.1	1.3	-1.2	.97	-0.2	0.3	-0.9	-0.1	0.94	-1.3		0
-2016	47	Michael Brantley*	http://www.baseball-reference.com/players/b/brantmi02.shtml	brantmi02	29	10	CLE	-1.1	-0.1	11	-0.1	0.1	-0.3	1.31	-0.1	-0.0	-0.2	-0.0	0.91	-0.6	3.89	1
-2016	48	Ryan Braun	http://www.baseball-reference.com/players/b/braunry02.shtml	braunry02	32	80	MIL	7.4	0.7	83	1.0	2.1	-1.1	.94	0.7	0.3	9.0	0.8	0.92	7.6	2.24	1
-2016	49	Socrates Brito*	http://www.baseball-reference.com/players/b/britoso01.shtml	britoso01	23	31	ARI	-2.4	-0.2	32	-0.5	0.4	-0.9	1.22	-0.2	-0.2	-3.3	-0.3	0.95	-2.1	0.68	1
-2016	50	Trevor Brown	http://www.baseball-reference.com/players/b/browntr01.shtml	browntr01	24	31	SFG	2.2	0.2	31	0.1	0.9	-0.8	1.31	0.4	-0.3	3.7	0.3	0.97	3.9		0
-2016	51	Keon Broxton	http://www.baseball-reference.com/players/b/broxtke01.shtml	broxtke01	26	18	MIL	-4.0	-0.4	20	-0.1	0.1	-0.2	.56	-0.2	-0.0	-2.8	-0.3	0.81	-3.0		0
-2016	52	Jay Bruce*	http://www.baseball-reference.com/players/b/bruceja01.shtml	bruceja01	29	75	CIN	1.0	0.1	77	1.0	1.9	-1.0	.96	0.3	0.7	5.8	0.5	0.96	1.3		0
-2016	53	Kris Bryant	http://www.baseball-reference.com/players/b/bryankr01.shtml	bryankr01	24	94	CHC	3.9	0.4	96	0.1	1.3	-1.2	.78	0.2	-0.1	6.6	0.6	0.99	5.2		0
-2016	54	Madison Bumgarner	http://www.baseball-reference.com/players/b/bumgama01.shtml	bumgama01	26	12	SFG	-0.4	-0.0	13	0.1	0.3	-0.2	1.01	0.1	-0.1	0.2	0.0	0.92	1.3		0
-2016	55	Billy Burns#	http://www.baseball-reference.com/players/b/burnsbi02.shtml	burnsbi02	26	77	OAK	-0.8	-0.1	85	-0.2	1.0	-1.2	.87	-0.1	-0.1	-2.2	-0.2	0.89	-1.1	2.20	1
-2016	56	Emmanuel Burriss#	http://www.baseball-reference.com/players/b/burriem01.shtml	burriem01	31	22	PHI	-3.2	-0.3	23	-0.5	0.1	-0.5	.83	-0.3	-0.3	-3.0	-0.3	0.75	-3.5	1.08	10
-2016	57	Matt Buschmann	http://www.baseball-reference.com/players/b/buschma01.shtml	buschma01	32	1	ARI	-0.3	-0.0	1	-0.0	0.0	-0.0	.97	-0.0	0.0	-0.2	-0.0	0.86	-0.3		0
-2016	58	Drew Butera	http://www.baseball-reference.com/players/b/buterdr01.shtml	buterdr01	32	8	KCR	1.4	0.1	8	0.1	0.2	-0.1	.70	0.1	0.0	1.3	0.1	0.92	1.4		0
-2016	59	Billy Butler	http://www.baseball-reference.com/players/b/butlebi03.shtml	butlebi03	30	33	OAK	-1.4	-0.1	33	-0.4	0.3	-0.6	.87	-0.3	-0.2	-2.5	-0.3	0.89	-2.6	0.28	5
-2016	60	Eddie Butler	http://www.baseball-reference.com/players/b/butleed01.shtml	butleed01	25	1	COL	-0.0	0.0	1	-0.0	0.0	-0.0	2.20	-0.0	0.0	-0.3	-0.0	1.66	-0.2		0
-2016	61	Byron Buxton	http://www.baseball-reference.com/players/b/buxtoby01.shtml	buxtoby01	22	49	MIN	-3.8	-0.4	52	-0.9	0.5	-1.4	1.24	-0.2	-0.4	-5.4	-0.6	0.95	-3.6		0
-2016	62	Marlon Byrd	http://www.baseball-reference.com/players/b/byrdma01.shtml	byrdma01	38	56	CLE	1.4	0.1	56	0.5	1.1	-0.7	.85	0.1	0.4	1.7	0.2	0.90	1.2	0.79	1
-2016	63	Asdrubal Cabrera#	http://www.baseball-reference.com/players/c/cabreas01.shtml	cabreas01	30	80	NYM	0.8	0.1	82	-0.0	1.2	-1.2	.92	0.1	-0.2	1.1	0.1	0.91	1.0		0
-2016	64	Melky Cabrera#	http://www.baseball-reference.com/players/c/cabreme01.shtml	cabreme01	31	93	CHW	3.5	0.4	96	1.0	2.1	-1.1	.95	0.3	0.7	5.6	0.6	0.99	4.7		0
-2016	65	Miguel Cabrera	http://www.baseball-reference.com/players/c/cabremi01.shtml	cabremi01	33	89	DET	2.9	0.3	89	-0.1	1.1	-1.2	.81	0.3	-0.4	2.8	0.3	0.93	2.5	3.80	1
-2016	66	Lorenzo Cain	http://www.baseball-reference.com/players/c/cainlo01.shtml	cainlo01	30	83	KCR	-4.0	-0.4	88	-0.2	1.2	-1.3	.85	-0.3	0.1	-1.5	-0.2	0.93	-2.2		0
-2016	67	Matt Cain	http://www.baseball-reference.com/players/c/cainma01.shtml	cainma01	31	7	SFG	-2.0	-0.2	7	-0.2	0.0	-0.2	1.05	-0.2	-0.0	-1.8	-0.2	0.85	-2.0		0
-2016	68	Kole Calhoun*	http://www.baseball-reference.com/players/c/calhoko01.shtml	calhoko01	28	87	LAA	1.0	0.1	89	0.4	1.7	-1.3	.95	0.3	0.2	3.3	0.3	0.89	3.3		0
-2016	69	Eric Campbell	http://www.baseball-reference.com/players/c/campber01.shtml	campber01	29	8	NYM	-0.9	-0.1	8	-0.0	0.0	-0.1	.35	-0.1	0.0	-1.2	-0.1	0.90	-0.8	0.41	5
-2016	70	Mark Canha	http://www.baseball-reference.com/players/c/canhama01.shtml	canhama01	27	34	OAK	-2.2	-0.2	35	0.1	0.7	-0.7	.89	-0.0	0.1	-2.6	-0.3	0.94	-0.5	1.65	4
-2016	71	Robinson Cano*	http://www.baseball-reference.com/players/c/canoro01.shtml	canoro01	33	94	SEA	5.3	0.5	94	0.8	2.5	-1.7	1.09	1.1	-0.4	10.9	1.1	1.01	11.3		0
-2016	72	Matt Carpenter*	http://www.baseball-reference.com/players/c/carpema01.shtml	carpema01	30	100	STL	3.4	0.3	102	0.2	1.9	-1.7	.97	0.3	-0.1	5.1	0.5	1.00	4.6	3.70	1
-2016	73	Ezequiel Carrera*	http://www.baseball-reference.com/players/c/carreez01.shtml	carreez01	29	33	TOR	1.6	0.2	36	0.2	0.6	-0.4	.73	0.2	0.1	3.1	0.3	0.88	2.3	0.01	1
-2016	74	Chris Carter	http://www.baseball-reference.com/players/c/cartech02.shtml	cartech02	29	80	MIL	5.7	0.5	81	0.5	1.8	-1.3	1.04	0.8	-0.3	4.4	0.4	1.07	6.8		0
-2016	75	Curt Casali	http://www.baseball-reference.com/players/c/casalcu01.shtml	casalcu01	27	44	TBR	-3.9	-0.4	44	-0.3	0.6	-0.8	.95	-0.3	0.0	-1.9	-0.2	0.94	-2.5		0
-2016	76	Andrew Cashner	http://www.baseball-reference.com/players/c/cashnan01.shtml	cashnan01	29	8	SDP	-0.9	-0.1	8	-0.1	0.0	-0.1	.99	-0.1	0.0	-0.9	-0.1	0.99	-1.0		0
-2016	77	Nick Castellanos	http://www.baseball-reference.com/players/c/casteni01.shtml	casteni01	24	76	DET	4.1	0.4	78	0.6	1.5	-0.9	.82	0.4	0.3	3.1	0.3	0.96	4.1	0.16	1
-2016	78	Rusney Castillo	http://www.baseball-reference.com/players/c/castiru02.shtml	castiru02	28	4	BOS	0.8	0.1	5	0.2	0.2	-0.0	1.14	0.1	0.1	1.2	0.1	1.13	0.9		0
-2016	79	Welington Castillo	http://www.baseball-reference.com/players/c/castiwe01.shtml	castiwe01	29	77	ARI	3.3	0.3	78	-0.1	1.7	-1.8	1.28	0.3	-0.3	1.3	0.1	0.93	2.9		0
-2016	80	Daniel Castro	http://www.baseball-reference.com/players/c/castrda01.shtml	castrda01	23	55	ATL	-4.9	-0.5	56	-0.8	0.4	-1.2	1.09	-0.5	-0.3	-5.1	-0.5	0.88	-5.5	0.19	1
-2016	81	Jason Castro*	http://www.baseball-reference.com/players/c/castrja01.shtml	castrja01	29	56	HOU	-3.5	-0.4	57	-0.3	0.7	-1.0	.87	-0.4	0.0	-4.1	-0.4	0.85	-4.0		0
-2016	82	Starlin Castro	http://www.baseball-reference.com/players/c/castrst01.shtml	castrst01	26	81	NYY	2.1	0.2	84	0.2	1.8	-1.5	1.17	0.3	-0.1	4.2	0.4	0.99	3.5		0
-2016	83	Francisco Cervelli	http://www.baseball-reference.com/players/c/cervefr01.shtml	cervefr01	30	87	PIT	3.1	0.3	92	-0.4	1.2	-1.7	.98	0.2	-0.6	2.6	0.2	0.99	1.9	2.36	1
-2016	84	Yoenis Cespedes	http://www.baseball-reference.com/players/c/cespeyo01.shtml	cespeyo01	30	67	NYM	6.3	0.6	69	0.3	1.6	-1.3	.99	0.7	-0.4	7.3	0.7	0.98	7.2	2.52	1
-2016	85	Jhoulys Chacin	http://www.baseball-reference.com/players/c/chacijh01.shtml	chacijh01	28	7	ATL	-1.2	-0.1	7	-0.1	0.0	-0.2	1.03	-0.1	-0.0	-0.8	-0.1	1.16	-1.0		0
-2016	86	Tyler Chatwood	http://www.baseball-reference.com/players/c/chatwty01.shtml	chatwty01	26	7	COL	-1.4	-0.1	7	-0.1	0.0	-0.2	1.08	-0.1	0.0	-1.3	-0.1	0.94	-1.5		0
-2016	87	Wei-Yin Chen*	http://www.baseball-reference.com/players/c/chenwe02.shtml	chenwe02	30	9	MIA	-2.3	-0.2	9	-0.2	0.0	-0.2	.96	-0.2	-0.0	-2.4	-0.2	0.95	-2.5		0
-2016	88	Robinson Chirinos	http://www.baseball-reference.com/players/c/chiriro01.shtml	chiriro01	32	16	TEX	0.9	0.1	16	0.1	0.4	-0.2	.94	0.1	0.0	1.0	0.1	0.89	0.7		0
-2016	89	Lonnie Chisenhall*	http://www.baseball-reference.com/players/c/chiselo01.shtml	chiselo01	27	18	CLE	-2.9	-0.3	18	-0.2	0.1	-0.3	.74	-0.2	-0.1	-2.2	-0.2	0.80	-2.7		0
-2016	90	Ji-Man Choi#	http://www.baseball-reference.com/players/c/choiji01.shtml	choiji01	25	17	LAA	-0.7	-0.1	18	-0.2	0.1	-0.3	.83	-0.1	-0.2	-1.9	-0.2	0.86	-1.4	2.17	1
-2016	91	Shin-Soo Choo*	http://www.baseball-reference.com/players/c/choosh01.shtml	choosh01	33	22	TEX	-0.2	-0.0	23	0.3	0.6	-0.2	1.13	0.1	0.2	1.6	0.2	1.07	1.2		0
-2016	92	Tony Cingrani*	http://www.baseball-reference.com/players/c/cingrto01.shtml	cingrto01	26	1	CIN	0.3	0.0	1	0.0	0.0	0.0	.01	0.0	-0.0	0.4	0.0	0.86	0.4		0
-2016	93	Steve Clevenger*	http://www.baseball-reference.com/players/c/clevest01.shtml	clevest01	30	23	SEA	-1.0	-0.1	23	-0.1	0.4	-0.5	1.19	-0.1	0.0	-0.8	-0.1	1.01	-0.6		0
-2016	94	Chris Coghlan*	http://www.baseball-reference.com/players/c/coghlch01.shtml	coghlch01	31	70	OAK	-3.0	-0.3	74	0.1	1.5	-1.4	.98	-0.0	0.1	1.0	0.1	0.88	0.2	4.43	2
-2016	95	Chris Colabello	http://www.baseball-reference.com/players/c/colabch01.shtml	colabch01	32	32	TOR	-5.2	-0.5	32	-0.4	0.3	-0.7	.98	-0.5	0.1	-4.8	-0.5	0.99	-4.9	0.25	2
-2016	96	Gerrit Cole	http://www.baseball-reference.com/players/c/colege01.shtml	colege01	25	11	PIT	-1.8	-0.2	11	-0.2	0.1	-0.2	.87	-0.2	-0.0	-2.6	-0.3	1.14	-2.2		0
-2016	97	Tyler Collins*	http://www.baseball-reference.com/players/c/collity01.shtml	collity01	26	20	DET	-3.4	-0.4	20	-0.2	0.1	-0.3	.66	-0.3	0.0	-1.4	-0.1	0.81	-3.1	0.62	2
-2016	98	Bartolo Colon	http://www.baseball-reference.com/players/c/colonba01.shtml	colonba01	43	6	NYM	-1.7	-0.2	6	-0.2	0.0	-0.2	1.09	-0.2	-0.0	-1.9	-0.2	0.91	-2.0		0
-2016	99	Christian Colon	http://www.baseball-reference.com/players/c/colonch01.shtml	colonch01	27	15	KCR	-0.2	-0.0	15	-0.1	0.2	-0.4	1.15	-0.0	-0.1	-1.3	-0.1	0.99	-0.4		0
-2016	100	Michael Conforto*	http://www.baseball-reference.com/players/c/confomi01.shtml	confomi01	23	77	NYM	8.2	0.8	79	0.4	1.7	-1.3	.98	0.8	-0.4	6.0	0.6	0.98	8.8		0
-2016	101	Hank Conger#	http://www.baseball-reference.com/players/c/congeha01.shtml	congeha01	28	26	TBR	-3.2	-0.3	26	-0.6	0.1	-0.8	1.19	-0.4	-0.1	-4.1	-0.4	0.90	-4.2	5.14	2
-2016	102	Adam Conley*	http://www.baseball-reference.com/players/c/conlead01.shtml	conlead01	26	8	MIA	-2.3	-0.2	8	-0.2	0.0	-0.2	1.10	-0.2	0.0	-2.2	-0.2	0.92	-2.3		0
-2016	103	Patrick Corbin*	http://www.baseball-reference.com/players/c/corbipa01.shtml	corbipa01	26	12	ARI	-0.1	-0.0	12	-0.1	0.2	-0.3	1.12	-0.0	-0.1	-0.6	-0.1	0.89	-0.4	2.72	1
-2016	104	Carlos Correa	http://www.baseball-reference.com/players/c/correca01.shtml	correca01	21	91	HOU	3.1	0.3	97	-0.0	1.6	-1.6	.98	0.5	-0.5	-1.7	-0.2	0.93	3.0		0
-2016	105	Jarred Cosart	http://www.baseball-reference.com/players/c/cosarja01.shtml	cosarja01	26	6	MIA	-0.7	-0.1	6	-0.1	0.0	-0.1	.51	-0.1	-0.0	-1.1	-0.1	0.81	-1.0		0
-2016	106	Collin Cowgill	http://www.baseball-reference.com/players/c/cowgico01.shtml	cowgico01	30	14	CLE	-1.9	-0.2	14	-0.4	0.1	-0.4	.94	-0.2	-0.2	-3.5	-0.4	1.01	-2.5		0
-2016	107	Zack Cozart	http://www.baseball-reference.com/players/c/cozarza01.shtml	cozarza01	30	67	CIN	5.6	0.5	68	0.5	1.5	-1.0	1.02	0.4	0.1	2.3	0.2	0.90	3.7		0
-2016	108	Brandon Crawford*	http://www.baseball-reference.com/players/c/crawfbr01.shtml	crawfbr01	29	86	SFG	0.4	0.0	86	-0.3	1.4	-1.7	1.07	-0.3	0.0	-5.2	-0.5	0.93	-4.1		0
-2016	109	Carl Crawford*	http://www.baseball-reference.com/players/c/crawfca02.shtml	crawfca02	34	19	LAD	-1.4	-0.1	19	-0.1	0.2	-0.3	.89	-0.2	-0.0	-1.8	-0.2	1.12	-1.6	1.65	1
-2016	110	Coco Crisp#	http://www.baseball-reference.com/players/c/crispco01.shtml	crispco01	36	67	OAK	-0.6	-0.1	72	0.0	1.4	-1.3	1.04	0.3	-0.3	1.1	0.1	0.93	2.6	0.75	2
-2016	111	C.J. Cron	http://www.baseball-reference.com/players/c/croncj01.shtml	croncj01	26	70	LAA	-3.3	-0.3	71	-0.3	0.8	-1.1	.92	-0.6	0.2	-2.0	-0.2	0.89	-5.3		0
-2016	112	Nelson Cruz	http://www.baseball-reference.com/players/c/cruzne02.shtml	cruzne02	35	93	SEA	5.1	0.5	95	0.2	1.9	-1.7	1.07	0.8	-0.6	5.0	0.5	0.98	6.9		0
-2016	113	Johnny Cueto	http://www.baseball-reference.com/players/c/cuetojo01.shtml	cuetojo01	30	15	SFG	-2.6	-0.3	15	-0.3	0.1	-0.4	1.08	-0.3	-0.0	-3.5	-0.4	1.01	-3.0		0
-2016	114	Charlie Culberson	http://www.baseball-reference.com/players/c/culbech01.shtml	culbech01	27	21	LAD	-1.4	-0.1	22	-0.1	0.6	-0.7	1.46	-0.1	0.0	-0.9	-0.1	1.09	-1.4	1.72	4
-2016	115	Travis d'Arnaud	http://www.baseball-reference.com/players/d/darnatr01.shtml	darnatr01	27	52	NYM	-3.0	-0.3	52	-0.3	0.5	-0.8	.84	-0.3	0.0	-3.5	-0.3	0.93	-3.9		0
-2016	116	Zach Davies	http://www.baseball-reference.com/players/d/davieza02.shtml	davieza02	23	3	MIL	-0.9	-0.1	3	-0.0	0.0	-0.0	.61	-0.1	0.0	-0.4	-0.0	0.53	-0.8		0
-2016	117	Chris Davis*	http://www.baseball-reference.com/players/d/davisch02.shtml	davisch02	30	92	BAL	3.8	0.4	93	0.9	2.3	-1.4	.98	0.5	0.4	7.3	0.7	0.86	4.9		0
-2016	118	Khris Davis	http://www.baseball-reference.com/players/d/daviskh01.shtml	daviskh01	28	83	OAK	-1.9	-0.2	85	-0.2	1.4	-1.5	.98	-0.1	-0.1	0.9	0.1	0.96	0.0	0.06	1
-2016	119	Rajai Davis	http://www.baseball-reference.com/players/d/davisra01.shtml	davisra01	35	60	CLE	1.4	0.1	70	-0.0	1.0	-1.0	.88	0.1	-0.1	2.3	0.2	0.96	2.3	1.75	1
-2016	120	Alejandro De Aza*	http://www.baseball-reference.com/players/d/deazaal01.shtml	deazaal01	32	32	NYM	-1.3	-0.1	34	-0.2	0.3	-0.6	.92	-0.2	-0.1	-2.7	-0.3	0.93	-2.1	1.31	6
-2016	121	Ivan De Jesus	http://www.baseball-reference.com/players/d/dejesiv02.shtml	dejesiv02	29	34	CIN	-3.0	-0.3	38	0.1	0.5	-0.4	.85	-0.0	0.1	1.0	0.1	0.89	-0.3		0
-2016	122	Jorge De La Rosa*	http://www.baseball-reference.com/players/r/rosajo01.shtml	rosajo01	35	8	COL	-0.2	-0.0	8	0.1	0.2	-0.1	1.01	0.0	0.1	0.1	0.0	1.08	0.1		0
-2016	123	Rubby De La Rosa	http://www.baseball-reference.com/players/d/delarru01.shtml	delarru01	27	7	ARI	-2.1	-0.2	7	-0.2	0.0	-0.2	.98	-0.2	-0.0	-2.5	-0.2	0.92	-2.5		0
-2016	124	Jacob deGrom*	http://www.baseball-reference.com/players/d/degroja01.shtml	degroja01	28	4	NYM	-0.8	-0.1	4	-0.1	0.0	-0.1	1.41	-0.1	0.0	-0.6	-0.1	1.25	-0.7		0
-2016	125	Matt den Dekker*	http://www.baseball-reference.com/players/d/dendema01.shtml	dendema01	28	30	WSN	-1.9	-0.2	31	-0.1	0.6	-0.7	1.29	-0.1	0.0	-0.9	-0.1	0.87	-1.5	1.09	8
-2016	126	Delino DeShields	http://www.baseball-reference.com/players/d/deshide02.shtml	deshide02	23	84	TEX	-3.1	-0.3	94	0.1	1.4	-1.3	.87	-0.3	0.4	-1.7	-0.2	0.97	-3.6		0
-2016	127	Ian Desmond	http://www.baseball-reference.com/players/d/desmoia01.shtml	desmoia01	30	85	TEX	-1.8	-0.2	93	0.4	1.8	-1.4	1.04	0.0	0.4	0.6	0.1	0.98	1.6		0
-2016	128	Aledmys Diaz	http://www.baseball-reference.com/players/d/diazal02.shtml	diazal02	25	69	STL	11.7	1.1	70	1.0	1.7	-0.8	.89	1.1	-0.1	13.9	1.3	1.00	11.3	1.70	2
-2016	129	Corey Dickerson*	http://www.baseball-reference.com/players/d/dickeco01.shtml	dickeco01	27	73	TBR	2.4	0.2	76	-0.4	1.0	-1.4	.93	0.1	-0.5	-0.7	-0.1	0.90	3.2	1.88	2
-2016	130	Derek Dietrich*	http://www.baseball-reference.com/players/d/dietrde01.shtml	dietrde01	26	32	MIA	2.7	0.3	32	0.2	0.9	-0.7	1.24	0.3	-0.1	2.9	0.3	1.00	3.5	2.05	7
-2016	131	Matt Dominguez	http://www.baseball-reference.com/players/d/dominma01.shtml	dominma01	26	7	TOR	-1.2	-0.1	7	-0.1	0.0	-0.1	.62	-0.1	-0.0	-1.1	-0.1	0.69	-1.3		0
-2016	132	Josh Donaldson	http://www.baseball-reference.com/players/d/donaljo02.shtml	donaljo02	30	103	TOR	9.8	1.0	106	1.3	2.6	-1.4	.96	0.9	0.4	11.9	1.2	0.95	9.9		0
-2016	133	Brian Dozier	http://www.baseball-reference.com/players/d/doziebr01.shtml	doziebr01	29	98	MIN	-2.0	-0.2	101	-0.2	2.0	-2.2	1.29	-0.1	0.0	-2.0	-0.2	0.94	-1.0		0
-2016	134	Stephen Drew*	http://www.baseball-reference.com/players/d/drewst01.shtml	drewst01	33	25	WSN	-3.5	-0.3	26	-0.6	0.2	-0.8	1.30	-0.4	-0.1	-3.9	-0.4	0.86	-3.9	1.54	5
-2016	135	Brandon Drury	http://www.baseball-reference.com/players/d/drurybr01.shtml	drurybr01	23	64	ARI	2.6	0.2	67	-0.1	1.4	-1.5	1.11	0.3	-0.4	0.2	0.0	0.86	2.5	0.50	5
-2016	136	Lucas Duda*	http://www.baseball-reference.com/players/d/dudalu01.shtml	dudalu01	30	76	NYM	-1.2	-0.1	76	0.2	1.3	-1.1	.90	0.2	0.0	1.4	0.1	0.96	2.0		0
-2016	137	Tyler Duffey	http://www.baseball-reference.com/players/d/duffety01.shtml	duffety01	25	2	MIN	-0.3	-0.0	2	-0.0	0.0	-0.0	1.01	-0.0	0.0	-0.3	-0.0	0.75	-0.5		0
-2016	138	Matt Duffy	http://www.baseball-reference.com/players/d/duffyma01.shtml	duffyma01	25	95	SFG	-1.8	-0.2	95	-0.6	1.3	-1.9	1.03	-0.4	-0.2	-6.4	-0.6	0.95	-4.4		0
-2016	139	Matt Duffy	http://www.baseball-reference.com/players/d/duffyma02.shtml	duffyma02	27	3	HOU	-0.8	-0.1	3	-0.0	0.0	-0.0	.59	-0.0	-0.0	-0.7	-0.1	0.98	-0.7	0.88	2
-2016	140	Adam Duvall	http://www.baseball-reference.com/players/d/duvalad01.shtml	duvalad01	27	62	CIN	-0.3	-0.0	63	-0.3	0.9	-1.2	1.02	-0.2	-0.2	0.1	0.0	0.94	-1.8	2.49	1
-2016	141	Jarrod Dyson*	http://www.baseball-reference.com/players/d/dysonja01.shtml	dysonja01	31	34	KCR	1.0	0.1	40	-0.0	0.7	-0.7	1.12	-0.0	0.0	-0.9	-0.1	1.08	-0.2		0
-2016	142	Adam Eaton*	http://www.baseball-reference.com/players/e/eatonad02.shtml	eatonad02	27	98	CHW	2.7	0.3	103	-0.0	1.3	-1.3	.83	-0.0	-0.0	1.3	0.1	0.92	0.1		0
-2016	143	Jerad Eickhoff	http://www.baseball-reference.com/players/e/eickhje01.shtml	eickhje01	25	8	PHI	-0.4	-0.0	8	0.1	0.2	-0.1	1.05	-0.0	0.1	0.3	0.0	0.87	-0.3		0
-2016	144	A.J. Ellis	http://www.baseball-reference.com/players/e/ellisaj01.shtml	ellisaj01	35	42	LAD	-1.8	-0.2	42	0.1	0.7	-0.7	1.00	-0.0	0.1	2.0	0.2	0.96	0.7	1.79	1
-2016	145	Jacoby Ellsbury*	http://www.baseball-reference.com/players/e/ellsbja01.shtml	ellsbja01	32	85	NYY	-2.8	-0.3	94	0.0	1.5	-1.5	1.01	-0.2	0.2	-0.8	-0.1	0.99	-2.6		0
-2016	146	Edwin Encarnacion	http://www.baseball-reference.com/players/e/encared01.shtml	encared01	33	96	TOR	0.8	0.1	97	-0.6	1.7	-2.3	1.13	0.2	-0.7	-1.8	-0.2	1.05	1.1		0
-2016	147	Robbie Erlin	http://www.baseball-reference.com/players/e/erlinro01.shtml	erlinro01	25	6	SDP	-1.7	-0.2	6	-0.1	0.0	-0.1	.80	-0.2	-0.0	-1.3	-0.1	0.71	-1.8		0
-2016	148	Alcides Escobar	http://www.baseball-reference.com/players/e/escobal02.shtml	escobal02	29	97	KCR	-6.9	-0.7	101	-0.7	0.9	-1.7	.92	-0.6	-0.2	-4.9	-0.5	0.94	-5.5		0
-2016	149	Eduardo Escobar#	http://www.baseball-reference.com/players/e/escobed01.shtml	escobed01	27	79	MIN	-3.7	-0.4	83	-0.4	1.2	-1.6	1.13	-0.5	0.1	-3.2	-0.3	0.91	-4.8		0
-2016	150	Yunel Escobar	http://www.baseball-reference.com/players/e/escobyu01.shtml	escobyu01	33	98	LAA	3.5	0.4	99	0.1	1.7	-1.5	.90	0.1	0.0	-2.4	-0.3	0.88	1.7		0
-2016	151	Danny Espinosa#	http://www.baseball-reference.com/players/e/espinda01.shtml	espinda01	29	72	WSN	-5.2	-0.5	75	-0.2	0.9	-1.1	1.03	-0.4	0.2	-3.0	-0.3	0.91	-4.9		0
-2016	152	Tim Federowicz	http://www.baseball-reference.com/players/f/federti01.shtml	federti01	28	1	CHC	-0.3	-0.0	1	0.0	0.0	0.0	.01	-0.0	0.0	-0.4	-0.0	1.41	-0.3	0.01	1
-2016	153	Scott Feldman*	http://www.baseball-reference.com/players/f/feldmsc01.shtml	feldmsc01	33	1	HOU	-0.3	-0.0	1	-0.0	0.0	-0.0	.68	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
-2016	154	Jose Fernandez	http://www.baseball-reference.com/players/f/fernajo02.shtml	fernajo02	23	10	MIA	0.3	0.0	10	0.0	0.1	-0.1	.83	0.0	-0.0	0.2	0.0	0.83	0.5		0
-2016	155	Prince Fielder*	http://www.baseball-reference.com/players/f/fieldpr01.shtml	fieldpr01	32	90	TEX	-5.2	-0.5	90	-0.0	1.4	-1.4	.99	-0.4	0.4	-2.6	-0.3	0.99	-4.5		1
-2016	156	Cole Figueroa*	http://www.baseball-reference.com/players/f/figueco01.shtml	figueco01	29	9	PIT	-2.6	-0.2	9	-0.1	0.0	-0.1	.64	-0.2	-0.0	-3.6	-0.4	1.41	-2.5	0.80	7
-2016	157	Brandon Finnegan*	http://www.baseball-reference.com/players/f/finnebr01.shtml	finnebr01	23	11	CIN	0.2	0.0	11	0.0	0.2	-0.1	.74	-0.0	0.1	-0.4	-0.0	0.86	-0.3		0
-2016	158	Doug Fister*	http://www.baseball-reference.com/players/f/fistedo01.shtml	fistedo01	32	2	HOU	-0.3	-0.0	2	-0.1	0.0	-0.1	1.14	-0.0	-0.0	-0.8	-0.1	1.42	-0.5		0
-2016	159	Ryan Flaherty*	http://www.baseball-reference.com/players/f/flahery01.shtml	flahery01	29	11	BAL	-0.9	-0.1	12	-0.2	0.0	-0.2	.94	-0.1	-0.1	-1.2	-0.1	0.88	-1.7	2.28	1
-2016	160	Ramon Flores*	http://www.baseball-reference.com/players/f/florera02.shtml	florera02	24	44	MIL	-6.5	-0.6	45	-0.5	0.4	-0.9	.92	-0.5	-0.0	-5.7	-0.6	0.90	-5.9	0.44	6
-2016	161	Wilmer Flores	http://www.baseball-reference.com/players/f/florewi01.shtml	florewi01	24	27	NYM	-4.3	-0.4	29	-0.3	0.2	-0.6	.97	-0.3	-0.1	-3.7	-0.4	0.92	-3.3	1.14	5
-2016	162	Tyler Flowers	http://www.baseball-reference.com/players/f/flowety01.shtml	flowety01	30	33	ATL	-0.1	-0.0	33	-0.2	0.5	-0.7	1.17	0.0	-0.1	1.2	0.1	1.03	-0.0		0
-2016	163	Logan Forsythe	http://www.baseball-reference.com/players/f/forsylo01.shtml	forsylo01	29	85	TBR	6.7	0.7	90	1.0	2.2	-1.2	.97	0.6	0.5	6.4	0.6	0.85	7.1		0
-2016	164	Dexter Fowler#	http://www.baseball-reference.com/players/f/fowlede01.shtml	fowlede01	30	91	CHC	11.1	1.0	94	1.0	1.9	-0.9	.83	1.1	0.0	14.7	1.4	1.03	13.5	0.44	0
-2016	165	Maikel Franco	http://www.baseball-reference.com/players/f/francma02.shtml	francma02	23	88	PHI	2.1	0.2	89	0.4	1.9	-1.5	1.00	0.3	0.1	1.8	0.2	0.92	4.1		0
-2016	166	Jeff Francoeur	http://www.baseball-reference.com/players/f/francje02.shtml	francje02	32	45	ATL	-2.6	-0.2	47	-0.7	0.6	-1.3	1.34	-0.2	-0.3	-1.9	-0.2	1.03	-1.9	2.07	6
-2016	167	Todd Frazier	http://www.baseball-reference.com/players/f/frazito01.shtml	frazito01	30	98	CHW	1.8	0.2	102	0.7	2.1	-1.4	.91	0.2	0.6	1.9	0.2	0.95	3.8		0
-2016	168	Freddie Freeman*	http://www.baseball-reference.com/players/f/freemfr01.shtml	freemfr01	26	91	ATL	0.2	0.0	94	-0.3	1.3	-1.6	1.13	0.0	-0.3	-0.2	-0.0	0.89	-0.1		0
-2016	169	David Freese	http://www.baseball-reference.com/players/f/freesda01.shtml	freesda01	33	97	PIT	1.4	0.1	98	-0.1	1.6	-1.8	.98	-0.0	-0.1	-5.0	-0.5	0.99	-0.9		0
-2016	170	Eric Fryer	http://www.baseball-reference.com/players/f/fryerer01.shtml	fryerer01	30	9	STL	3.3	0.3	10	0.5	0.5	-0.0	.92	0.3	0.3	3.9	0.4	0.96	4.0	0.16	2
-2016	171	Reymond Fuentes*	http://www.baseball-reference.com/players/f/fuentre01.shtml	fuentre01	25	22	KCR	-1.6	-0.2	23	0.1	0.4	-0.4	.94	0.0	0.1	1.3	0.1	0.88	0.2		0
-2016	172	Freddy Galvis#	http://www.baseball-reference.com/players/g/galvifr01.shtml	galvifr01	26	84	PHI	-3.3	-0.3	90	0.3	1.8	-1.5	.96	-0.3	0.6	-3.5	-0.3	0.88	-3.1		0
-2016	173	Adonis Garcia	http://www.baseball-reference.com/players/g/garciad01.shtml	garciad01	31	90	ATL	-1.3	-0.1	91	0.3	1.8	-1.5	1.04	-0.3	0.5	-1.6	-0.2	0.92	-3.3	1.16	1
-2016	174	Avisail Garcia	http://www.baseball-reference.com/players/g/garciav01.shtml	garciav01	25	75	CHW	-0.6	-0.1	77	-0.2	1.1	-1.4	1.01	0.1	-0.4	0.2	0.0	1.00	1.4		0
-2016	175	Greg Garcia*	http://www.baseball-reference.com/players/g/garcigr01.shtml	garcigr01	26	15	STL	4.6	0.4	17	0.3	0.4	-0.1	.80	0.4	-0.1	3.8	0.3	0.84	5.1	0.49	1
-2016	176	Jaime Garcia*	http://www.baseball-reference.com/players/g/garcija02.shtml	garcija02	29	9	STL	0.5	0.0	9	0.0	0.1	-0.1	.89	-0.1	0.1	0.2	0.0	0.99	-0.2		0
-2016	177	Brett Gardner*	http://www.baseball-reference.com/players/g/gardnbr01.shtml	gardnbr01	32	76	NYY	2.1	0.2	83	0.4	1.6	-1.2	.97	0.4	0.0	0.8	0.1	0.95	2.8	1.26	1
-2016	178	Dustin Garneau	http://www.baseball-reference.com/players/g/garnedu01.shtml	garnedu01	28	12	COL	1.7	0.2	14	0.2	0.4	-0.2	1.43	0.1	0.0	1.1	0.1	0.90	1.4		0
-2016	179	Evan Gattis	http://www.baseball-reference.com/players/g/gattiev01.shtml	gattiev01	29	41	HOU	-1.8	-0.2	41	-0.5	0.5	-1.0	1.25	-0.3	-0.1	-3.7	-0.4	1.11	-3.2	0.28	3
-2016	180	Scooter Gennett*	http://www.baseball-reference.com/players/g/gennesc01.shtml	gennesc01	26	72	MIL	2.6	0.2	75	0.5	1.5	-1.0	.91	0.4	0.1	1.2	0.1	0.92	4.4	0.72	1
-2016	181	Craig Gentry	http://www.baseball-reference.com/players/g/gentrcr01.shtml	gentrcr01	32	39	LAA	-3.4	-0.3	40	-0.1	0.5	-0.6	.92	-0.3	0.2	-2.2	-0.2	1.00	-3.2	0.00	1
-2016	182	Johnny Giavotella	http://www.baseball-reference.com/players/g/giavojo01.shtml	giavojo01	28	50	LAA	-4.1	-0.4	51	-0.3	0.5	-0.8	.91	-0.4	0.1	-3.2	-0.3	0.95	-4.0		0
-2016	183	Kyle Gibson	http://www.baseball-reference.com/players/g/gibsoky01.shtml	gibsoky01	28	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.69	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
-2016	184	Conor Gillaspie*	http://www.baseball-reference.com/players/g/gillaco01.shtml	gillaco01	28	2	SFG	-0.6	-0.1	2	-0.0	0.0	-0.0	.01	-0.0	-0.0	-0.7	-0.1	1.23	-0.6	0.01	2
-2016	185	Tyler Goeddel	http://www.baseball-reference.com/players/g/goeddty01.shtml	goeddty01	23	26	PHI	-4.2	-0.4	27	-0.1	0.3	-0.4	.86	-0.3	0.2	-1.6	-0.1	0.87	-3.0	0.41	3
-2016	186	Ryan Goins*	http://www.baseball-reference.com/players/g/goinsry01.shtml	goinsry01	28	71	TOR	-7.0	-0.7	72	-0.6	0.8	-1.4	1.03	-0.6	0.1	-5.7	-0.6	0.96	-6.0	0.00	1
-2016	187	Paul Goldschmidt	http://www.baseball-reference.com/players/g/goldspa01.shtml	goldspa01	28	106	ARI	5.6	0.5	110	1.1	2.8	-1.6	1.16	0.8	0.1	5.1	0.5	0.92	7.5		0
-2016	188	Yan Gomes	http://www.baseball-reference.com/players/g/gomesya01.shtml	gomesya01	28	64	CLE	-2.4	-0.2	66	0.3	1.2	-0.9	.86	0.0	0.3	1.8	0.2	0.91	-0.6		0
-2016	189	Carlos Gomez	http://www.baseball-reference.com/players/g/gomezca01.shtml	gomezca01	30	79	HOU	-6.4	-0.7	85	-1.0	0.9	-1.9	1.10	-0.8	-0.1	-8.6	-0.9	1.00	-8.4	2.16	1
-2016	190	Adrian Gonzalez*	http://www.baseball-reference.com/players/g/gonzaad01.shtml	gonzaad01	34	97	LAD	3.7	0.4	99	0.5	2.1	-1.6	1.13	0.5	0.0	4.2	0.4	1.00	5.0	4.63	1
-2016	191	Carlos Gonzalez*	http://www.baseball-reference.com/players/g/gonzaca01.shtml	gonzaca01	30	93	COL	1.7	0.2	95	0.4	1.7	-1.3	.88	0.4	0.1	6.1	0.5	0.84	4.1		0
-2016	192	Gio Gonzalez	http://www.baseball-reference.com/players/g/gonzagi01.shtml	gonzagi01	30	9	WSN	-1.0	-0.1	9	-0.1	0.0	-0.2	.98	-0.1	-0.0	-1.6	-0.2	1.10	-1.3		0
-2016	193	Marwin Gonzalez#	http://www.baseball-reference.com/players/g/gonzama01.shtml	gonzama01	27	42	HOU	-1.8	-0.2	43	-0.6	0.5	-1.0	1.09	-0.1	-0.4	-4.9	-0.5	0.95	-0.8	0.91	5
-2016	194	Alex Gordon*	http://www.baseball-reference.com/players/g/gordoal01.shtml	gordoal01	32	83	KCR	-0.9	-0.1	85	0.1	1.1	-1.0	.80	-0.1	0.1	-0.8	-0.1	0.88	0.5		0
-2016	195	Dee Gordon*	http://www.baseball-reference.com/players/g/gordode01.shtml	gordode01	28	97	MIA	-4.8	-0.5	107	0.2	2.0	-1.8	1.05	-0.4	0.5	-2.7	-0.3	0.89	-3.6		0
-2016	196	Terrance Gore	http://www.baseball-reference.com/players/g/gorete01.shtml	gorete01	25	0	KCR	0.0	0.0	3	0.6	0.6	0.0	3.50	0.2	0.0	1.4	0.1	1.31	0.9		
-2016	197	Anthony Gose*	http://www.baseball-reference.com/players/g/gosean01.shtml	gosean01	25	62	DET	-2.9	-0.3	65	-0.0	0.7	-0.7	.70	-0.2	0.2	-3.9	-0.4	0.98	-3.4		0
-2016	198	Philip Gosselin	http://www.baseball-reference.com/players/g/gosseph01.shtml	gosseph01	27	29	ARI	-0.9	-0.1	30	-0.1	0.6	-0.7	1.45	-0.1	0.0	-1.8	-0.2	0.87	-1.6	1.88	13
-2016	199	Yasmani Grandal#	http://www.baseball-reference.com/players/g/grandya01.shtml	grandya01	27	46	LAD	2.7	0.2	49	0.7	1.4	-0.8	1.14	0.2	0.4	1.3	0.1	0.98	2.1	1.95	2
-2016	200	Curtis Granderson*	http://www.baseball-reference.com/players/g/grandcu01.shtml	grandcu01	35	92	NYM	2.8	0.3	94	0.3	1.5	-1.2	.82	0.1	0.3	1.0	0.1	0.93	1.7	0.07	1
-2016	201	Kendall Graveman	http://www.baseball-reference.com/players/g/graveke01.shtml	graveke01	25	1	OAK	-0.3	-0.0	1	-0.0	0.0	-0.0	1.22	-0.0	0.0	-0.4	-0.0	1.49	-0.3		0
-2016	202	Jon Gray	http://www.baseball-reference.com/players/g/grayjo02.shtml	grayjo02	24	3	COL	-0.9	-0.1	3	-0.1	0.0	-0.1	.95	-0.1	-0.0	-0.9	-0.1	0.85	-1.0		0
-2016	203	Shane Greene	http://www.baseball-reference.com/players/g/greensh02.shtml	greensh02	27	2	DET	-0.5	-0.1	2	-0.0	0.0	-0.0	.50	-0.1	-0.0	-0.2	-0.0	0.38	-0.5		0
-2016	204	Didi Gregorius*	http://www.baseball-reference.com/players/g/gregodi01.shtml	gregodi01	26	66	NYY	-2.6	-0.3	68	-0.3	0.8	-1.1	.92	-0.2	-0.2	-3.9	-0.4	0.91	-2.2	2.01	1
-2016	205	Zack Greinke	http://www.baseball-reference.com/players/g/greinza01.shtml	greinza01	32	13	ARI	0.8	0.1	13	0.2	0.4	-0.2	1.36	0.0	0.1	0.8	0.1	1.02	0.5	2.72	1
-2016	206	Randal Grichuk	http://www.baseball-reference.com/players/g/grichra01.shtml	grichra01	24	79	STL	-2.0	-0.2	84	-0.4	1.2	-1.6	1.01	0.2	-0.5	-0.4	-0.0	0.99	1.3	0.62	2
-2016	207	Franklin Gutierrez	http://www.baseball-reference.com/players/g/gutiefr01.shtml	gutiefr01	33	37	SEA	-0.5	-0.1	38	0.0	0.6	-0.6	1.00	-0.0	0.0	0.3	0.0	0.83	-0.4	1.31	6
-2016	208	Brandon Guyer	http://www.baseball-reference.com/players/g/guyerbr01.shtml	guyerbr01	30	34	TBR	2.8	0.3	37	0.2	0.7	-0.5	.98	0.4	-0.3	2.9	0.3	0.94	4.7	4.07	4
-2016	209	Jedd Gyorko	http://www.baseball-reference.com/players/g/gyorkje01.shtml	gyorkje01	27	57	STL	-0.7	-0.1	57	-0.2	1.0	-1.2	1.11	0.0	-0.2	0.3	0.0	0.91	0.3	2.73	2
-2016	210	Billy Hamilton#	http://www.baseball-reference.com/players/h/hamilbi02.shtml	hamilbi02	25	54	CIN	-3.3	-0.3	59	-0.2	0.8	-1.0	1.01	-0.3	0.1	-1.5	-0.1	0.90	-3.5		0
-2016	211	Jason Hammel	http://www.baseball-reference.com/players/h/hammeja01.shtml	hammeja01	33	10	CHC	-0.2	-0.0	10	0.2	0.3	-0.1	1.03	0.1	0.2	0.8	0.1	1.30	0.5	0.02	1
-2016	212	Ryan Hanigan	http://www.baseball-reference.com/players/h/hanigry01.shtml	hanigry01	35	28	BOS	-1.2	-0.1	30	-0.1	0.3	-0.4	.98	-0.1	0.1	-0.7	-0.1	0.99	-1.3		0
-2016	213	J.J. Hardy	http://www.baseball-reference.com/players/h/hardyjj01.shtml	hardyjj01	33	75	BAL	1.2	0.1	75	0.2	1.3	-1.1	.99	0.1	0.1	0.8	0.1	0.88	0.9		0
-2016	214	Bryce Harper*	http://www.baseball-reference.com/players/h/harpebr03.shtml	harpebr03	23	87	WSN	11.6	1.1	93	1.7	3.0	-1.3	1.05	1.3	0.3	14.2	1.3	0.87	15.2	3.54	1
-2016	215	Josh Harrison	http://www.baseball-reference.com/players/h/harrijo05.shtml	harrijo05	28	92	PIT	1.6	0.2	100	0.6	2.1	-1.5	1.08	0.3	0.2	3.7	0.4	1.09	3.2		0
-2016	216	Matt Harvey	http://www.baseball-reference.com/players/h/harvema01.shtml	harvema01	27	5	NYM	-1.1	-0.1	5	-0.1	0.1	-0.1	1.11	-0.1	0.0	-0.9	-0.1	1.20	-0.9		0
-2016	217	Drew Hayes	http://www.baseball-reference.com/players/h/hayesdr01.shtml	hayesdr01	28	2	CIN	-0.3	-0.0	2	-0.0	0.0	-0.0	.15	-0.0	0.0	-0.3	-0.0	0.75	-0.5		0
-2016	218	Jeremy Hazelbaker*	http://www.baseball-reference.com/players/h/hazelje01.shtml	hazelje01	28	65	STL	5.0	0.5	69	0.7	1.7	-1.0	.95	0.5	0.2	3.0	0.3	0.99	4.6	1.57	8
-2016	219	Chase Headley#	http://www.baseball-reference.com/players/h/headlch01.shtml	headlch01	32	65	NYY	-5.0	-0.5	69	-0.9	0.6	-1.6	1.24	-0.6	-0.2	-7.7	-0.8	1.03	-6.3		0
-2016	220	Adeiny Hechavarria	http://www.baseball-reference.com/players/h/hechaad01.shtml	hechaad01	27	72	MIA	-6.4	-0.6	72	-0.7	0.9	-1.6	.97	-0.7	-0.1	-8.2	-0.8	0.96	-7.6	0.46	1
-2016	221	Chris Heisey	http://www.baseball-reference.com/players/h/heisech01.shtml	heisech01	31	24	WSN	0.4	0.0	24	0.3	0.6	-0.3	.90	0.1	0.2	-0.3	-0.0	0.82	1.2	0.54	4
-2016	222	Jeremy Hellickson	http://www.baseball-reference.com/players/h/hellije01.shtml	hellije01	29	9	PHI	-0.5	-0.1	9	0.0	0.1	-0.1	1.01	-0.0	0.1	0.2	0.0	0.90	-0.5		0
-2016	223	Kyle Hendricks	http://www.baseball-reference.com/players/h/hendrky01.shtml	hendrky01	26	8	CHC	-1.6	-0.2	8	-0.2	0.0	-0.2	.90	-0.2	-0.1	-1.6	-0.2	0.87	-1.7		0
-2016	224	Cesar Hernandez#	http://www.baseball-reference.com/players/h/hernace02.shtml	hernace02	26	79	PHI	-1.6	-0.2	86	-0.4	1.1	-1.5	.98	-0.4	-0.1	-4.4	-0.4	0.90	-4.0		0
-2016	225	Enrique Hernandez	http://www.baseball-reference.com/players/h/hernaen02.shtml	hernaen02	24	55	LAD	2.2	0.2	57	0.4	1.4	-1.0	1.24	0.3	0.0	2.4	0.2	0.96	2.1	0.96	8
-2016	226	Marco Hernandez*	http://www.baseball-reference.com/players/h/hernama02.shtml	hernama02	23	3	BOS	0.5	0.0	4	0.0	0.1	-0.0	.78	0.1	-0.0	0.3	0.0	0.62	0.6		0
-2016	227	Odubel Herrera*	http://www.baseball-reference.com/players/h/herreod01.shtml	herreod01	24	95	PHI	5.1	0.5	103	0.8	2.0	-1.2	.91	0.5	0.3	7.0	0.7	0.88	7.0		0
-2016	228	Chris Herrmann*	http://www.baseball-reference.com/players/h/herrmch01.shtml	herrmch01	28	30	ARI	-2.0	-0.2	30	-0.4	0.4	-0.8	.93	-0.2	-0.2	-0.5	-0.0	0.82	-2.2	3.30	3
-2016	229	Jason Heyward*	http://www.baseball-reference.com/players/h/heywaja01.shtml	heywaja01	26	95	CHC	-3.4	-0.3	100	-0.3	1.1	-1.5	.85	-0.2	-0.2	0.9	0.1	1.09	-0.7		0
-2016	230	Aaron Hicks#	http://www.baseball-reference.com/players/h/hicksaa01.shtml	hicksaa01	26	24	NYY	-3.6	-0.4	24	-0.5	0.2	-0.6	.99	-0.4	-0.1	-2.9	-0.3	0.81	-4.0		1
-2016	231	Aaron Hill	http://www.baseball-reference.com/players/h/hillaa01.shtml	hillaa01	34	66	MIL	-6.7	-0.6	69	-0.6	0.7	-1.2	.92	-0.5	-0.1	-5.4	-0.5	0.93	-6.4	3.92	0
-2016	232	Bryan Holaday	http://www.baseball-reference.com/players/h/holadbr01.shtml	holadbr01	28	36	TEX	-2.6	-0.3	37	-0.3	0.4	-0.7	.95	-0.3	-0.0	-2.9	-0.3	1.01	-3.2		0
-2016	233	Matt Holliday	http://www.baseball-reference.com/players/h/hollima01.shtml	hollima01	36	77	STL	1.9	0.2	77	0.4	1.4	-1.0	.88	0.3	0.2	3.7	0.3	0.88	4.7	0.64	3
-2016	234	Brock Holt*	http://www.baseball-reference.com/players/h/holtbr01.shtml	holtbr01	28	73	BOS	0.4	0.0	74	0.3	1.2	-0.9	.91	0.1	0.2	1.2	0.1	1.03	0.7	0.29	1
-2016	235	Tyler Holt	http://www.baseball-reference.com/players/h/holtty01.shtml	holtty01	27	24	CIN	0.3	0.0	27	-0.2	0.3	-0.5	.91	-0.1	-0.2	-2.2	-0.2	0.94	-0.9	0.56	8
-2016	236	Eric Hosmer*	http://www.baseball-reference.com/players/h/hosmeer01.shtml	hosmeer01	26	87	KCR	5.3	0.5	90	0.8	2.0	-1.3	.90	0.7	0.1	3.5	0.3	0.95	6.3		0
-2016	237	Ryan Howard*	http://www.baseball-reference.com/players/h/howarry01.shtml	howarry01	36	74	PHI	-3.7	-0.4	75	-0.4	0.8	-1.3	.88	-0.5	-0.0	-2.7	-0.3	0.92	-3.3	1.15	2
-2016	238	Phil Hughes	http://www.baseball-reference.com/players/h/hugheph01.shtml	hugheph01	30	2	MIN	-0.5	-0.1	2	-0.1	0.0	-0.1	.94	-0.1	-0.0	-0.5	-0.1	0.82	-0.6		0
-2016	239	Nick Hundley	http://www.baseball-reference.com/players/h/hundlni01.shtml	hundlni01	32	38	COL	0.6	0.0	38	-0.1	0.5	-0.6	.87	-0.1	-0.1	-2.3	-0.2	0.85	-1.8		0
-2016	240	Cedric Hunter*	http://www.baseball-reference.com/players/h/huntece01.shtml	huntece01	28	36	PHI	-6.0	-0.6	36	-0.7	0.2	-0.8	.88	-0.5	-0.2	-6.6	-0.6	0.87	-6.4	1.89	3
-2016	241	Chris Iannetta	http://www.baseball-reference.com/players/i/iannech01.shtml	iannech01	33	58	SEA	2.1	0.2	63	-0.0	0.9	-1.0	.95	0.2	-0.3	2.9	0.3	0.87	3.3		0
-2016	242	Jose Iglesias	http://www.baseball-reference.com/players/i/iglesjo01.shtml	iglesjo01	26	75	DET	-0.5	-0.1	79	-0.4	0.7	-1.1	.83	-0.2	-0.3	-1.2	-0.1	0.92	-1.4		0
-2016	243	Raisel Iglesias	http://www.baseball-reference.com/players/i/iglesra01.shtml	iglesra01	26	10	CIN	-2.9	-0.3	10	-0.2	0.0	-0.2	.93	-0.3	0.0	-2.3	-0.2	0.82	-2.8		0
-2016	244	Ender Inciarte*	http://www.baseball-reference.com/players/i/inciaen01.shtml	inciaen01	25	10	ATL	-0.1	-0.0	11	-0.0	0.2	-0.2	1.15	0.0	-0.0	0.4	0.0	0.74	0.4		0
-2016	245	Omar Infante	http://www.baseball-reference.com/players/i/infanom01.shtml	infanom01	34	70	KCR	-0.2	-0.0	73	-0.3	0.7	-1.0	.77	-0.1	-0.2	-1.8	-0.2	0.88	-1.1		0
-2016	246	Austin Jackson	http://www.baseball-reference.com/players/j/jacksau01.shtml	jacksau01	29	78	CHW	-2.5	-0.2	80	-0.3	1.2	-1.5	1.07	-0.3	-0.0	-0.4	-0.0	1.01	-2.7		0
-2016	247	Travis Jankowski*	http://www.baseball-reference.com/players/j/jankotr01.shtml	jankotr01	25	16	SDP	-1.0	-0.1	19	-0.2	0.1	-0.4	1.30	-0.1	-0.1	-1.0	-0.1	0.98	-0.9	0.64	6
-2016	248	John Jaso*	http://www.baseball-reference.com/players/j/jasojo01.shtml	jasojo01	32	82	PIT	2.8	0.3	85	0.2	1.4	-1.2	.95	0.3	-0.1	5.3	0.5	0.95	3.0	1.18	2
-2016	249	Jon Jay*	http://www.baseball-reference.com/players/j/jayjo02.shtml	jayjo02	31	95	SDP	-2.7	-0.3	97	-0.9	1.3	-2.2	1.11	-0.4	-0.4	-0.7	-0.1	0.94	-3.3		0
-2016	250	Desmond Jennings	http://www.baseball-reference.com/players/j/jennide01.shtml	jennide01	29	75	TBR	-3.9	-0.4	78	-0.3	1.2	-1.4	1.10	-0.3	0.1	-3.3	-0.3	0.97	-3.9		0
-2016	251	Chris Johnson	http://www.baseball-reference.com/players/j/johnsch05.shtml	johnsch05	31	24	MIA	-1.5	-0.1	24	-0.3	0.2	-0.5	1.04	-0.2	-0.1	-2.3	-0.2	1.03	-2.3	1.68	10
-2016	252	Kelly Johnson*	http://www.baseball-reference.com/players/j/johnske05.shtml	johnske05	34	47	ATL	-4.1	-0.4	48	-0.1	0.7	-0.9	1.08	-0.2	0.1	-0.6	-0.1	0.99	-1.1	1.90	6
-2016	253	Micah Johnson*	http://www.baseball-reference.com/players/j/johnsmi04.shtml	johnsmi04	25	3	LAD	-0.8	-0.1	3	-0.1	0.0	-0.1	1.80	-0.1	-0.0	-1.0	-0.1	1.16	-0.8	2.25	2
-2016	254	Adam Jones	http://www.baseball-reference.com/players/j/jonesad01.shtml	jonesad01	30	65	BAL	-2.7	-0.3	67	-0.4	0.8	-1.2	.88	-0.5	0.1	-3.4	-0.3	0.85	-4.7		0
-2016	255	Caleb Joseph	http://www.baseball-reference.com/players/j/josepca01.shtml	josepca01	30	33	BAL	-2.1	-0.2	34	0.1	0.8	-0.7	1.15	-0.3	0.4	-4.1	-0.4	0.93	-3.4		0
-2016	256	Matthew Joyce*	http://www.baseball-reference.com/players/j/joycema01.shtml	joycema01	31	36	PIT	4.7	0.4	37	0.3	0.8	-0.4	.92	0.3	-0.0	3.4	0.3	1.04	4.0	0.99	9
-2016	257	Taylor Jungmann	http://www.baseball-reference.com/players/j/jungmta01.shtml	jungmta01	26	7	MIL	-1.3	-0.1	7	-0.1	0.0	-0.1	.95	-0.1	-0.0	-1.3	-0.1	0.89	-1.2		0
-2016	258	Munenori Kawasaki*	http://www.baseball-reference.com/players/k/kawasmu01.shtml	kawasmu01	35	2	CHC	0.2	0.0	3	0.0	0.0	-0.0	.09	0.0	-0.0	0.3	0.0	0.70	0.3	0.09	2
-2016	259	Scott Kazmir*	http://www.baseball-reference.com/players/k/kazmisc01.shtml	kazmisc01	32	9	LAD	-2.3	-0.2	9	-0.2	0.0	-0.2	.76	-0.2	-0.0	-1.8	-0.2	0.80	-2.4		0
-2016	260	Matt Kemp	http://www.baseball-reference.com/players/k/kempma01.shtml	kempma01	31	87	SDP	2.1	0.2	87	-0.2	1.5	-1.7	.94	0.2	-0.4	2.5	0.2	0.88	2.5		0
-2016	261	Howie Kendrick	http://www.baseball-reference.com/players/k/kendrho01.shtml	kendrho01	32	53	LAD	-9.1	-0.9	53	-0.9	0.3	-1.2	1.00	-0.9	-0.0	-8.8	-0.9	0.93	-9.3	1.32	3
-2016	262	Max Kepler*	http://www.baseball-reference.com/players/k/keplema01.shtml	keplema01	23	14	MIN	-0.3	-0.0	14	-0.3	0.1	-0.4	1.23	-0.1	-0.1	-1.2	-0.1	0.94	-1.1		0
-2016	263	Clayton Kershaw*	http://www.baseball-reference.com/players/k/kershcl01.shtml	kershcl01	28	15	LAD	-1.6	-0.2	15	-0.0	0.2	-0.2	.72	0.1	-0.1	0.8	0.1	0.98	0.9		0
-2016	264	Dallas Keuchel*	http://www.baseball-reference.com/players/k/keuchda01.shtml	keuchda01	28	2	HOU	-0.5	-0.1	2	-0.0	0.0	-0.0	.80	-0.1	-0.0	-0.3	-0.0	0.62	-0.6		0
-2016	265	Kevin Kiermaier*	http://www.baseball-reference.com/players/k/kiermke01.shtml	kiermke01	26	65	TBR	1.7	0.2	73	0.5	1.6	-1.1	1.06	0.3	0.2	0.6	0.1	0.87	3.0		0
-2016	266	Hyun Soo Kim*	http://www.baseball-reference.com/players/k/kimhy01.shtml	kimhy01	28	13	BAL	2.1	0.2	13	0.1	0.2	-0.1	.78	0.2	0.0	2.1	0.2	0.87	1.9	0.09	2
-2016	267	Ian Kinsler	http://www.baseball-reference.com/players/k/kinslia01.shtml	kinslia01	34	93	DET	6.2	0.6	98	0.5	1.7	-1.2	.80	0.5	0.0	4.2	0.4	0.97	5.5		0
-2016	268	Jason Kipnis*	http://www.baseball-reference.com/players/k/kipnija01.shtml	kipnija01	29	84	CLE	0.5	0.0	87	-0.3	1.2	-1.5	.93	0.1	-0.4	0.5	0.1	0.89	2.0		0
-2016	269	Tom Koehler	http://www.baseball-reference.com/players/k/koehlto01.shtml	koehlto01	30	6	MIA	-0.7	-0.1	6	-0.1	0.0	-0.1	.67	-0.1	-0.0	-0.6	-0.1	0.71	-0.8		0
-2016	270	Erik Kratz	http://www.baseball-reference.com/players/k/kratzer01.shtml	kratzer01	36	17	HOU	-3.7	-0.4	17	-0.3	0.0	-0.4	.84	-0.4	-0.0	-3.8	-0.4	0.86	-4.0		1
-2016	271	Tommy La Stella*	http://www.baseball-reference.com/players/l/lasteto01.shtml	lasteto01	27	28	CHC	3.7	0.4	29	0.0	0.4	-0.4	.77	0.4	-0.4	2.7	0.3	0.97	3.3	1.20	4
-2016	272	John Lackey	http://www.baseball-reference.com/players/l/lackejo01.shtml	lackejo01	37	13	CHC	-1.6	-0.2	13	-0.2	0.1	-0.3	.97	-0.1	-0.1	-1.9	-0.2	1.14	-1.9		0
-2016	273	Tyler Ladendorf	http://www.baseball-reference.com/players/l/ladenty01.shtml	ladenty01	28	2	OAK	-0.5	-0.1	2	-0.1	0.0	-0.1	.81	-0.1	0.0	-0.9	-0.1	1.16	-0.7		0
-2016	274	Juan Lagares	http://www.baseball-reference.com/players/l/lagarju01.shtml	lagarju01	27	33	NYM	-1.1	-0.1	33	-0.2	0.2	-0.4	.58	-0.2	-0.2	-0.4	-0.0	0.86	-1.0	0.24	4
-2016	275	Jake Lamb*	http://www.baseball-reference.com/players/l/lambja01.shtml	lambja01	25	87	ARI	5.0	0.5	92	0.8	2.3	-1.5	1.10	0.6	0.1	5.3	0.5	0.90	6.7	1.56	3
-2016	276	Andrew Lambo*	http://www.baseball-reference.com/players/l/lamboan01.shtml	lamboan01	27	1	OAK	-0.3	-0.0	1	-0.1	0.0	-0.1	2.96	-0.0	0.0	-0.5	-0.0	1.59	-0.3	2.96	1
-2016	277	Brett Lawrie	http://www.baseball-reference.com/players/l/lawribr01.shtml	lawribr01	26	93	CHW	1.6	0.2	97	-0.2	1.3	-1.5	.92	-0.3	0.0	-0.3	-0.0	0.98	-1.5		0
-2016	278	Mike Leake	http://www.baseball-reference.com/players/l/leakemi01.shtml	leakemi01	28	7	STL	-1.3	-0.1	7	-0.1	0.1	-0.2	1.09	-0.2	0.0	-1.5	-0.1	0.92	-1.7		0
-2016	279	Dae-ho Lee	http://www.baseball-reference.com/players/l/leeda02.shtml	leeda02	34	27	SEA	1.3	0.1	27	0.1	0.7	-0.6	1.25	0.1	-0.0	-0.6	-0.1	1.04	1.1	2.71	4
-2016	280	DJ LeMahieu	http://www.baseball-reference.com/players/l/lemahdj01.shtml	lemahdj01	27	80	COL	0.3	0.0	85	0.1	1.4	-1.4	1.01	0.0	0.0	-0.3	-0.0	0.95	0.6		0
-2016	281	Jon Lester*	http://www.baseball-reference.com/players/l/lestejo01.shtml	lestejo01	32	7	CHC	0.3	0.0	7	0.1	0.1	-0.1	.92	0.0	0.1	0.2	0.0	0.88	-0.1		0
-2016	282	Adam Lind*	http://www.baseball-reference.com/players/l/lindad01.shtml	lindad01	32	60	SEA	-1.8	-0.2	62	-0.6	0.6	-1.2	1.03	-0.3	-0.3	-5.0	-0.5	0.90	-3.0	0.89	4
-2016	283	Francisco Lindor#	http://www.baseball-reference.com/players/l/lindofr01.shtml	lindofr01	22	84	CLE	1.0	0.1	89	0.4	1.4	-1.0	.89	0.3	0.2	4.8	0.5	0.90	3.6		0
-2016	284	Francisco Liriano*	http://www.baseball-reference.com/players/l/liriafr01.shtml	liriafr01	32	10	PIT	0.6	0.0	10	0.2	0.3	-0.1	.81	0.2	0.1	1.6	0.2	0.96	1.9		0
-2016	285	Jose Lobaton#	http://www.baseball-reference.com/players/l/lobatjo01.shtml	lobatjo01	31	22	WSN	-1.8	-0.2	22	-0.6	0.2	-0.8	1.65	-0.2	-0.1	-1.0	-0.1	1.05	-2.1		0
-2016	286	Kyle Lobstein*	http://www.baseball-reference.com/players/l/lobstky01.shtml	lobstky01	26	2	PIT	-0.6	-0.1	2	-0.0	0.0	-0.0	.84	-0.0	-0.0	-0.5	-0.0	0.92	-0.6		0
-2016	287	Jeff Locke*	http://www.baseball-reference.com/players/l/lockeje01.shtml	lockeje01	28	7	PIT	-0.7	-0.1	7	-0.1	0.0	-0.1	1.02	-0.1	0.0	-1.0	-0.1	0.93	-1.1		0
-2016	288	Evan Longoria	http://www.baseball-reference.com/players/l/longoev01.shtml	longoev01	30	91	TBR	-0.8	-0.1	92	-0.4	1.2	-1.6	.94	-0.0	-0.4	-1.5	-0.2	0.91	0.7		0
-2016	289	David Lough*	http://www.baseball-reference.com/players/l/loughda01.shtml	loughda01	30	28	PHI	-0.6	-0.1	30	-0.2	0.4	-0.6	1.11	-0.1	-0.1	-1.5	-0.1	0.96	-1.6		0
-2016	290	Jed Lowrie#	http://www.baseball-reference.com/players/l/lowrije01.shtml	lowrije01	32	87	OAK	1.6	0.2	88	0.5	1.7	-1.3	1.01	0.2	0.3	3.5	0.3	0.95	1.3	1.47	2
-2016	291	Jonathan Lucroy	http://www.baseball-reference.com/players/l/lucrojo01.shtml	lucrojo01	30	77	MIL	-0.7	-0.1	81	0.2	1.5	-1.2	.93	0.0	0.2	2.9	0.3	0.95	0.0		0
-2016	292	Jordan Lyles	http://www.baseball-reference.com/players/l/lylesjo01.shtml	lylesjo01	25	5	COL	-1.5	-0.2	5	-0.1	0.0	-0.1	.90	-0.1	-0.0	-1.8	-0.2	1.01	-1.7		0
-2016	293	Manny Machado	http://www.baseball-reference.com/players/m/machama01.shtml	machama01	23	95	BAL	10.7	1.0	102	1.1	2.5	-1.4	.99	1.1	-0.0	9.7	0.9	0.89	13.6		0
-2016	294	Kenta Maeda	http://www.baseball-reference.com/players/m/maedake01.shtml	maedake01	28	12	LAD	-1.4	-0.1	12	-0.1	0.0	-0.2	.55	-0.1	-0.1	-1.1	-0.1	0.71	-1.3		0
-2016	295	Martin Maldonado	http://www.baseball-reference.com/players/m/maldoma01.shtml	maldoma01	29	17	MIL	-3.1	-0.3	17	-0.1	0.1	-0.2	.65	-0.2	0.0	-1.5	-0.1	0.82	-2.1	0.07	1
-2016	296	Jake Marisnick	http://www.baseball-reference.com/players/m/marisja01.shtml	marisja01	25	11	HOU	-1.6	-0.2	11	-0.1	0.0	-0.2	.59	-0.1	-0.1	-1.8	-0.2	1.00	-1.7	0.14	2
-2016	297	Nick Markakis*	http://www.baseball-reference.com/players/m/markani01.shtml	markani01	32	97	ATL	4.8	0.5	97	1.3	2.7	-1.4	1.10	0.6	0.6	10.4	1.0	0.96	8.3		0
-2016	298	Ketel Marte#	http://www.baseball-reference.com/players/m/marteke01.shtml	marteke01	22	78	SEA	-0.8	-0.1	82	0.2	1.4	-1.2	1.02	-0.1	0.3	0.9	0.1	0.92	-1.8		0
-2016	299	Starling Marte	http://www.baseball-reference.com/players/m/martest01.shtml	martest01	27	98	PIT	4.6	0.4	105	0.7	2.3	-1.6	1.01	0.4	0.3	3.9	0.4	1.03	3.7		0
-2016	300	Leonys Martin*	http://www.baseball-reference.com/players/m/martile01.shtml	martile01	28	73	SEA	0.1	0.0	76	0.4	1.7	-1.3	1.03	0.1	0.3	0.1	0.0	0.91	1.3		0
-2016	301	Russell Martin	http://www.baseball-reference.com/players/m/martiru01.shtml	martiru01	33	63	TOR	-6.6	-0.7	64	-0.4	0.6	-1.1	.90	-0.7	0.2	-5.0	-0.5	0.93	-6.9	0.65	2
-2016	302	Carlos Martinez	http://www.baseball-reference.com/players/m/martica04.shtml	martica04	24	12	STL	-0.9	-0.1	13	0.0	0.2	-0.1	.78	-0.0	0.0	0.3	0.0	1.10	-0.2		0
-2016	303	J.D. Martinez	http://www.baseball-reference.com/players/m/martijd02.shtml	martijd02	28	91	DET	4.5	0.4	96	-0.1	1.2	-1.3	.84	0.4	-0.5	3.3	0.3	0.99	4.6		0
-2016	304	Victor Martinez#	http://www.baseball-reference.com/players/m/martivi01.shtml	martivi01	37	75	DET	5.1	0.5	75	-0.1	0.9	-1.1	.82	0.5	-0.6	6.7	0.7	0.97	5.1	0.34	3
-2016	305	Jeff Mathis	http://www.baseball-reference.com/players/m/mathije01.shtml	mathije01	33	15	MIA	-1.0	-0.1	17	-0.1	0.2	-0.3	1.10	-0.0	-0.0	-0.6	-0.1	0.86	-0.5		0
-2016	306	Steven Matz	http://www.baseball-reference.com/players/m/matzst01.shtml	matzst01	25	3	NYM	0.2	0.0	3	-0.0	0.0	-0.0	.86	-0.0	-0.0	-0.4	-0.0	0.99	-0.1		0
-2016	307	Joe Mauer*	http://www.baseball-reference.com/players/m/mauerjo01.shtml	mauerjo01	33	98	MIN	7.6	0.8	101	-0.0	1.8	-1.8	1.33	0.5	-0.5	4.0	0.4	0.88	6.1	1.42	1
-2016	308	Nomar Mazara*	http://www.baseball-reference.com/players/m/mazarno01.shtml	mazarno01	21	65	TEX	4.2	0.4	66	0.4	1.1	-0.7	.79	0.5	0.0	0.3	0.0	0.91	4.9		0
-2016	309	Brian McCann*	http://www.baseball-reference.com/players/m/mccanbr01.shtml	mccanbr01	32	67	NYY	1.9	0.2	70	0.4	1.5	-1.1	1.03	0.3	0.1	1.2	0.1	1.00	2.9	2.22	2
-2016	310	James McCann	http://www.baseball-reference.com/players/m/mccanja02.shtml	mccanja02	26	15	DET	-2.4	-0.3	15	-0.1	0.1	-0.2	.87	-0.2	0.1	-0.8	-0.1	1.12	-2.2		0
-2016	311	Andrew McCutchen	http://www.baseball-reference.com/players/m/mccutan01.shtml	mccutan01	29	100	PIT	3.1	0.3	104	-0.4	1.7	-2.1	1.04	0.4	-0.7	-0.9	-0.1	1.04	3.8		0
-2016	312	Tim Melville	http://www.baseball-reference.com/players/m/melviti01.shtml	melviti01	26	2	CIN	-0.6	-0.1	2	-0.1	0.0	-0.1	1.09	-0.1	-0.0	-0.8	-0.1	1.07	-0.7		0
-2016	313	Jordy Mercer	http://www.baseball-reference.com/players/m/mercejo03.shtml	mercejo03	29	95	PIT	2.0	0.2	96	0.6	2.0	-1.4	1.03	0.2	0.4	2.6	0.3	1.07	1.3		0
-2016	314	Devin Mesoraco	http://www.baseball-reference.com/players/m/mesorde01.shtml	mesorde01	28	55	CIN	-7.2	-0.7	57	-0.8	0.6	-1.4	1.08	-0.7	-0.1	-9.4	-0.9	0.98	-7.9	0.24	3
-2016	315	Brad Miller*	http://www.baseball-reference.com/players/m/millebr02.shtml	millebr02	26	66	TBR	-4.8	-0.5	68	-0.5	0.7	-1.2	.93	-0.5	-0.1	-3.7	-0.4	0.90	-4.7	2.13	1
-2016	316	Shelby Miller	http://www.baseball-reference.com/players/m/millesh01.shtml	millesh01	25	7	ARI	-2.1	-0.2	7	-0.2	0.0	-0.2	1.05	-0.2	-0.0	-1.7	-0.2	0.81	-2.1		0
-2016	317	Tommy Milone*	http://www.baseball-reference.com/players/m/milonto01.shtml	milonto01	29	2	MIN	0.9	0.1	2	0.1	0.1	0.0	1.19	0.1	-0.0	0.6	0.1	0.95	0.6		0
-2016	318	Yadier Molina	http://www.baseball-reference.com/players/m/molinya01.shtml	molinya01	33	90	STL	3.8	0.4	93	-0.1	1.5	-1.6	.93	0.4	-0.5	4.7	0.4	0.91	5.0		0
-2016	319	Miguel Montero*	http://www.baseball-reference.com/players/m/montemi01.shtml	montemi01	32	57	CHC	-1.5	-0.2	58	0.1	0.7	-0.6	.76	0.1	0.1	0.8	0.1	1.03	-0.3	1.86	1
-2016	320	Kendrys Morales#	http://www.baseball-reference.com/players/m/moralke01.shtml	moralke01	33	85	KCR	-1.8	-0.2	86	-0.6	1.0	-1.6	1.00	-0.1	-0.5	-5.2	-0.5	0.97	-2.6		0
-2016	321	Mitch Moreland*	http://www.baseball-reference.com/players/m/morelmi01.shtml	morelmi01	30	73	TEX	-0.3	-0.0	73	-0.0	1.5	-1.5	1.19	0.0	-0.1	-0.4	-0.0	1.04	-0.2		0
-2016	322	Bryan Morris*	http://www.baseball-reference.com/players/m/morribr01.shtml	morribr01	29	1	MIA	-0.3	-0.0	1	-0.0	0.0	-0.0	.55	-0.0	-0.0	-0.3	-0.0	1.03	-0.3		0
-2016	323	Logan Morrison*	http://www.baseball-reference.com/players/m/morrilo01.shtml	morrilo01	28	60	TBR	-8.1	-0.8	62	-0.9	0.4	-1.3	.93	-0.7	-0.3	-7.9	-0.8	0.87	-7.6	2.11	2
-2016	324	Mike Morse	http://www.baseball-reference.com/players/m/morsemi01.shtml	morsemi01	34	8	PIT	-2.3	-0.2	8	-0.1	0.0	-0.1	.57	-0.2	-0.0	-1.6	-0.2	0.84	-2.0	0.56	5
-2016	325	Charlie Morton	http://www.baseball-reference.com/players/m/mortoch02.shtml	mortoch02	32	7	PHI	-1.0	-0.1	7	-0.2	0.0	-0.2	1.01	-0.1	-0.0	-1.5	-0.1	0.88	-1.5		0
-2016	326	Jon Moscot	http://www.baseball-reference.com/players/m/moscojo01.shtml	moscojo01	24	5	CIN	-1.2	-0.1	5	-0.1	0.0	-0.1	1.16	-0.1	0.0	-1.4	-0.1	0.99	-1.4		0
-2016	327	Brandon Moss*	http://www.baseball-reference.com/players/m/mossbr01.shtml	mossbr01	32	68	STL	2.4	0.2	69	0.0	1.2	-1.2	.89	0.1	-0.1	3.7	0.3	0.90	2.0	0.93	7
-2016	328	Mike Moustakas*	http://www.baseball-reference.com/players/m/moustmi01.shtml	moustmi01	27	88	KCR	5.8	0.6	92	0.3	1.7	-1.4	.94	1.3	-1.0	3.5	0.3	0.86	11.5		0
-2016	329	Daniel Murphy*	http://www.baseball-reference.com/players/m/murphda08.shtml	murphda08	31	82	WSN	7.6	0.7	87	0.9	2.2	-1.3	1.14	0.6	0.1	8.9	0.8	0.92	7.1		0
-2016	330	John Ryan Murphy	http://www.baseball-reference.com/players/m/murphjr01.shtml	murphjr01	25	35	MIN	-5.6	-0.6	36	-0.6	0.3	-0.9	1.27	-0.5	0.0	-6.8	-0.7	0.98	-6.0		0
-2016	331	Wil Myers	http://www.baseball-reference.com/players/m/myerswi01.shtml	myerswi01	25	96	SDP	3.0	0.3	101	-0.4	1.3	-1.7	.95	0.2	-0.6	0.8	0.1	0.93	2.0	3.24	1
-2016	332	Mike Napoli	http://www.baseball-reference.com/players/n/napolmi01.shtml	napolmi01	34	79	CLE	-0.9	-0.1	80	0.4	2.0	-1.6	1.00	0.4	-0.0	-3.1	-0.3	1.07	1.9	1.78	1
-2016	333	Tyler Naquin*	http://www.baseball-reference.com/players/n/naquity01.shtml	naquity01	25	40	CLE	0.6	0.1	42	-0.1	0.6	-0.6	.77	0.1	-0.1	-1.8	-0.2	0.90	-0.4	1.02	1
-2016	334	Chris Narveson*	http://www.baseball-reference.com/players/n/narvech01.shtml	narvech01	34	3	MIA	-0.9	-0.1	3	-0.0	0.0	-0.0	.28	-0.1	-0.0	-1.1	-0.1	1.24	-0.8		0
-2016	335	Daniel Nava#	http://www.baseball-reference.com/players/n/navada01.shtml	navada01	33	15	LAA	-0.3	-0.0	15	-0.1	0.2	-0.3	1.04	-0.0	-0.0	0.3	0.0	0.86	-0.4	2.65	2
-2016	336	Dioner Navarro#	http://www.baseball-reference.com/players/n/navardi01.shtml	navardi01	32	47	CHW	-1.5	-0.2	47	0.3	1.0	-0.7	.97	-0.0	0.3	-0.3	-0.0	1.10	-0.6		0
-2016	337	Jimmy Nelson	http://www.baseball-reference.com/players/n/nelsoji02.shtml	nelsoji02	27	14	MIL	-2.4	-0.2	14	-0.4	0.0	-0.4	1.21	-0.3	-0.0	-4.3	-0.4	1.24	-3.3		0
-2016	338	Juan Nicasio	http://www.baseball-reference.com/players/n/nicasju01.shtml	nicasju01	29	7	PIT	-1.2	-0.1	7	-0.1	0.0	-0.2	.88	-0.1	-0.0	-1.5	-0.2	1.18	-1.5		0
-2016	339	Brett Nicholas*	http://www.baseball-reference.com/players/n/nichobr01.shtml	nichobr01	27	27	TEX	0.3	0.0	27	-0.2	0.2	-0.5	.83	0.1	-0.4	-0.3	-0.0	0.94	1.1		0
-2016	340	Justin Nicolino*	http://www.baseball-reference.com/players/n/nicolju01.shtml	nicolju01	24	3	MIA	-0.9	-0.1	3	-0.0	0.0	-0.0	.46	-0.1	0.0	-0.5	-0.0	0.62	-0.8		0
-2016	341	Jon Niese*	http://www.baseball-reference.com/players/n/niesejo01.shtml	niesejo01	29	10	PIT	-0.7	-0.1	11	-0.0	0.1	-0.1	.68	-0.1	0.0	0.2	0.0	0.73	-0.7	1.46	1
-2016	342	Kirk Nieuwenhuis*	http://www.baseball-reference.com/players/n/nieuwki01.shtml	nieuwki01	28	36	MIL	-0.8	-0.1	37	0.2	0.8	-0.6	1.04	0.1	0.1	2.3	0.2	1.03	2.1	1.00	5
-2016	343	Aaron Nola	http://www.baseball-reference.com/players/n/nolaaa01.shtml	nolaaa01	23	10	PHI	-2.9	-0.3	10	-0.2	0.0	-0.2	.89	-0.3	-0.0	-2.1	-0.2	0.73	-2.8		0
-2016	344	Ricky Nolasco	http://www.baseball-reference.com/players/n/nolasri01.shtml	nolasri01	33	3	MIN	-0.2	-0.0	3	-0.0	0.0	-0.0	.73	-0.0	-0.0	-0.1	-0.0	0.86	-0.1		0
-2016	345	Bud Norris	http://www.baseball-reference.com/players/n/norribu01.shtml	norribu01	31	8	ATL	-0.5	-0.0	8	-0.1	0.1	-0.2	1.17	-0.1	-0.0	-1.3	-0.1	1.04	-1.1		0
-2016	346	Derek Norris	http://www.baseball-reference.com/players/n/norride01.shtml	norride01	27	73	SDP	-8.0	-0.8	74	-0.7	0.8	-1.5	1.03	-0.9	0.1	-10.7	-1.1	0.99	-9.4	1.55	1
-2016	347	Eduardo Nunez	http://www.baseball-reference.com/players/n/nunezed02.shtml	nunezed02	29	57	MIN	4.0	0.4	66	0.3	1.3	-1.0	1.17	0.3	0.0	3.9	0.4	0.89	3.9	0.14	3
-2016	348	Ryan O'Rourke	http://www.baseball-reference.com/players/o/orourry01.shtml	orourry01	28	1	MIN	-0.3	-0.0	1	-0.1	0.0	-0.1	2.35	-0.0	0.0	-0.2	-0.0	0.86	-0.3		0
-2016	349	Brett Oberholtzer*	http://www.baseball-reference.com/players/o/oberhbr01.shtml	oberhbr01	26	3	PHI	-0.9	-0.1	3	-0.0	0.0	-0.0	.56	-0.1	-0.0	-0.8	-0.1	0.90	-0.9		0
-2016	350	Rougned Odor*	http://www.baseball-reference.com/players/o/odorro01.shtml	odorro01	22	84	TEX	-1.5	-0.2	89	0.6	1.8	-1.2	.91	-0.0	0.7	6.0	0.6	0.94	2.7	0.25	2
-2016	351	Hector Olivera	http://www.baseball-reference.com/players/o/olivehe01.shtml	olivehe01	31	21	ATL	-1.6	-0.2	21	-0.3	0.3	-0.6	1.36	-0.1	-0.1	-1.3	-0.1	1.00	-1.5	0.80	1
-2016	352	Paulo Orlando	http://www.baseball-reference.com/players/o/orlanpa01.shtml	orlanpa01	30	27	KCR	-1.4	-0.1	28	-0.3	0.2	-0.5	.85	-0.2	-0.1	-1.5	-0.2	0.92	-1.6		0
-2016	353	Rafael Ortega*	http://www.baseball-reference.com/players/o/ortegra01.shtml	ortegra01	25	35	LAA	0.1	0.0	40	0.2	0.6	-0.4	.98	-0.0	0.2	2.0	0.2	0.90	0.1	2.70	1
-2016	354	David Ortiz*	http://www.baseball-reference.com/players/o/ortizda01.shtml	ortizda01	40	83	BOS	7.0	0.7	85	0.7	2.0	-1.3	.97	0.9	-0.2	11.4	1.1	0.94	9.6	1.87	2
-2016	355	Chris Owings	http://www.baseball-reference.com/players/o/owingch01.shtml	owingch01	24	69	ARI	-3.2	-0.3	76	-0.6	0.9	-1.5	1.09	-0.2	-0.4	-1.7	-0.2	0.96	-2.0	3.39	2
-2016	356	Marcell Ozuna	http://www.baseball-reference.com/players/o/ozunama01.shtml	ozunama01	25	81	MIA	-3.6	-0.3	83	-0.4	1.2	-1.6	.96	-0.2	-0.2	-3.4	-0.3	0.97	-3.1	2.59	2
-2016	357	Jordan Pacheco	http://www.baseball-reference.com/players/p/pachejo01.shtml	pachejo01	30	20	CIN	-1.6	-0.2	20	0.1	0.3	-0.2	.71	-0.1	0.2	-2.3	-0.2	0.90	-1.4	0.86	7
-2016	358	Angel Pagan#	http://www.baseball-reference.com/players/p/paganan01.shtml	paganan01	34	88	SFG	2.6	0.2	94	0.6	2.1	-1.5	.95	0.4	0.3	5.5	0.5	0.99	4.6	0.00	0
-2016	359	Joe Panik*	http://www.baseball-reference.com/players/p/panikjo01.shtml	panikjo01	25	98	SFG	2.8	0.3	103	-0.0	1.8	-1.8	1.06	0.5	-0.5	3.7	0.4	0.99	5.9	4.36	1
-2016	360	Byung-ho Park	http://www.baseball-reference.com/players/p/parkby01.shtml	parkby01	29	65	MIN	3.0	0.3	67	-0.2	1.5	-1.7	1.28	0.4	-0.5	-2.4	-0.2	0.99	2.7	0.45	0
-2016	361	Gerardo Parra*	http://www.baseball-reference.com/players/p/parrage01.shtml	parrage01	29	86	COL	-2.6	-0.2	93	-0.1	1.6	-1.6	1.08	0.0	-0.1	-1.1	-0.1	0.95	-0.9		0
-2016	362	Ben Paulsen*	http://www.baseball-reference.com/players/p/paulsbe01.shtml	paulsbe01	28	48	COL	1.1	0.1	49	0.2	1.1	-0.9	1.01	0.2	0.0	4.4	0.4	0.91	2.2	2.65	2
-2016	363	Steve Pearce	http://www.baseball-reference.com/players/p/pearcst01.shtml	pearcst01	33	44	TBR	0.9	0.1	44	0.0	0.7	-0.6	.94	0.1	-0.1	1.0	0.1	0.93	1.5	0.76	3
-2016	364	Jake Peavy	http://www.baseball-reference.com/players/p/peavyja01.shtml	peavyja01	35	7	SFG	1.2	0.1	8	0.3	0.3	-0.0	1.43	0.1	0.1	3.1	0.3	1.28	1.6		0
-2016	365	Joc Pederson*	http://www.baseball-reference.com/players/p/pederjo01.shtml	pederjo01	24	71	LAD	3.2	0.3	74	0.2	1.7	-1.4	1.10	0.4	-0.2	4.4	0.4	1.03	5.1	2.12	2
-2016	366	Dustin Pedroia	http://www.baseball-reference.com/players/p/pedrodu01.shtml	pedrodu01	32	102	BOS	6.0	0.6	105	0.3	1.6	-1.4	.84	0.4	-0.1	3.1	0.3	0.92	4.7		0
-2016	367	Hunter Pence	http://www.baseball-reference.com/players/p/pencehu01.shtml	pencehu01	33	99	SFG	5.2	0.5	100	0.2	2.0	-1.7	1.06	0.5	-0.3	6.3	0.6	0.99	6.4	2.10	1
-2016	368	Cliff Pennington#	http://www.baseball-reference.com/players/p/pennicl01.shtml	pennicl01	32	30	LAA	-0.3	-0.0	30	-0.1	0.5	-0.6	1.04	-0.1	-0.0	0.9	0.1	0.92	-0.4	0.34	2
-2016	369	David Peralta*	http://www.baseball-reference.com/players/p/peralda01.shtml	peralda01	28	102	ARI	-0.2	-0.0	104	-0.2	2.1	-2.3	1.23	0.2	-0.4	-2.2	-0.2	0.97	2.2	3.52	1
-2016	370	Wily Peralta	http://www.baseball-reference.com/players/p/peralwi01.shtml	peralwi01	27	6	MIL	-1.8	-0.2	6	-0.1	0.0	-0.1	.99	-0.2	0.0	-1.3	-0.1	0.82	-1.6		0
-2016	371	Carlos Perez	http://www.baseball-reference.com/players/p/perezca02.shtml	perezca02	25	56	LAA	-5.3	-0.5	56	-0.2	0.7	-0.9	.95	-0.4	0.2	-4.4	-0.5	0.93	-4.6	2.62	2
-2016	372	Hernan Perez	http://www.baseball-reference.com/players/p/perezhe01.shtml	perezhe01	25	3	MIL	-0.1	-0.0	4	-0.0	0.0	-0.0	.19	-0.0	-0.0	-0.0	-0.0	0.80	0.0		0
-2016	373	Oliver Perez*	http://www.baseball-reference.com/players/p/perezol01.shtml	perezol01	34	1	WSN	-0.3	-0.0	1	0.5	0.5	0.0	5.11	0.1	-0.0	1.0	0.1	1.03	1.0		0
-2016	374	Roberto Perez	http://www.baseball-reference.com/players/p/perezro02.shtml	perezro02	27	12	CLE	0.3	0.0	12	0.1	0.2	-0.1	.64	0.1	0.1	0.7	0.1	0.97	1.3		0
-2016	375	Salvador Perez	http://www.baseball-reference.com/players/p/perezsa02.shtml	perezsa02	26	73	KCR	2.3	0.2	73	0.5	1.8	-1.3	1.03	0.3	0.2	2.1	0.2	1.00	4.6	2.84	1
-2016	376	Williams Perez	http://www.baseball-reference.com/players/p/perezwi01.shtml	perezwi01	25	5	ATL	-1.1	-0.1	5	-0.1	0.0	-0.1	.83	-0.1	0.0	-2.3	-0.2	1.13	-1.7		0
-2016	377	Jace Peterson*	http://www.baseball-reference.com/players/p/peterja01.shtml	peterja01	26	45	ATL	-3.3	-0.3	46	-0.2	0.6	-0.9	1.08	-0.3	0.0	-2.3	-0.2	0.97	-3.1	1.11	6
-2016	378	Yusmeiro Petit	http://www.baseball-reference.com/players/p/petityu01.shtml	petityu01	31	2	WSN	-0.6	-0.1	2	-0.1	0.0	-0.1	1.40	-0.1	-0.0	-0.4	-0.0	0.74	-0.6		0
-2016	379	Tommy Pham	http://www.baseball-reference.com/players/p/phamth01.shtml	phamth01	28	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.62	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
-2016	380	Josh Phegley	http://www.baseball-reference.com/players/p/phegljo01.shtml	phegljo01	28	24	OAK	0.5	0.0	25	0.1	0.3	-0.2	.78	0.2	-0.0	2.1	0.2	0.98	1.8		0
-2016	381	David Phelps	http://www.baseball-reference.com/players/p/phelpda01.shtml	phelpda01	29	2	MIA	0.2	0.0	2	0.1	0.1	-0.0	1.16	0.0	0.0	0.6	0.1	0.97	0.4		0
-2016	382	Brandon Phillips	http://www.baseball-reference.com/players/p/phillbr01.shtml	phillbr01	35	70	CIN	1.0	0.1	79	0.1	1.1	-1.0	.83	0.3	-0.1	0.7	0.1	0.93	1.8		0
-2016	383	A.J. Pierzynski*	http://www.baseball-reference.com/players/p/pierza.01.shtml	pierza.01	39	60	ATL	-5.2	-0.5	62	-0.6	0.8	-1.5	1.23	-0.5	0.0	-4.6	-0.5	1.03	-6.1	3.03	0
-2016	384	Kevin Pillar	http://www.baseball-reference.com/players/p/pillake01.shtml	pillake01	27	90	TOR	-2.2	-0.2	95	-0.1	1.5	-1.5	1.02	-0.2	0.2	-0.8	-0.1	0.97	-1.9		0
-2016	385	Jose Pirela	http://www.baseball-reference.com/players/p/pireljo01.shtml	pireljo01	26	5	SDP	-0.3	-0.0	5	-0.1	0.1	-0.2	1.56	0.0	-0.1	-0.1	-0.0	1.13	0.2	2.26	3
-2016	386	Stephen Piscotty	http://www.baseball-reference.com/players/p/piscost01.shtml	piscost01	25	96	STL	4.2	0.4	99	0.6	2.0	-1.4	.94	0.5	0.2	6.7	0.6	0.93	5.7	3.63	1
-2016	387	Kevin Plawecki	http://www.baseball-reference.com/players/p/plaweke01.shtml	plaweke01	25	27	NYM	-2.1	-0.2	27	0.1	0.4	-0.4	.85	-0.0	0.1	0.4	0.0	0.87	-0.1		0
-2016	388	Trevor Plouffe	http://www.baseball-reference.com/players/p/plouftr01.shtml	plouftr01	30	45	MIN	2.1	0.2	45	0.6	1.4	-0.8	1.29	0.1	0.3	2.4	0.2	0.92	2.1		0
-2016	389	Gregory Polanco*	http://www.baseball-reference.com/players/p/polangr01.shtml	polangr01	24	98	PIT	8.2	0.8	104	0.3	1.8	-1.6	1.07	0.9	-0.6	5.2	0.5	1.09	9.2		0
-2016	390	Jorge Polanco#	http://www.baseball-reference.com/players/p/polanjo01.shtml	polanjo01	22	8	MIN	-0.2	-0.0	8	0.1	0.1	-0.1	.69	-0.0	0.1	-0.2	-0.0	0.88	-0.3	0.67	2
-2016	391	Drew Pomeranz	http://www.baseball-reference.com/players/p/pomerdr01.shtml	pomerdr01	27	9	SDP	-0.7	-0.1	9	-0.2	0.0	-0.2	1.07	-0.1	-0.1	-2.0	-0.2	1.23	-1.0		0
-2016	392	Rick Porcello	http://www.baseball-reference.com/players/p/porceri01.shtml	porceri01	27	3	BOS	-0.1	-0.0	3	0.0	0.0	-0.0	.88	0.0	0.0	0.2	0.0	0.72	0.3		0
-2016	393	Buster Posey	http://www.baseball-reference.com/players/p/poseybu01.shtml	poseybu01	29	80	SFG	-0.3	-0.0	82	0.2	1.5	-1.3	1.03	0.3	-0.1	0.9	0.1	0.96	3.5		0
-2016	394	Martin Prado	http://www.baseball-reference.com/players/p/pradoma01.shtml	pradoma01	32	69	MIA	3.5	0.3	70	0.1	1.3	-1.2	1.08	0.4	-0.3	1.7	0.2	0.98	3.0	2.98	1
-2016	395	Alex Presley*	http://www.baseball-reference.com/players/p/preslal01.shtml	preslal01	30	12	MIL	1.0	0.1	12	-0.1	0.2	-0.3	1.14	0.1	-0.2	1.3	0.1	1.12	1.6	0.90	3
-2016	396	David Price*	http://www.baseball-reference.com/players/p/priceda01.shtml	priceda01	30	3	BOS	-0.2	-0.0	3	-0.0	0.0	-0.0	.49	-0.0	-0.0	-0.4	-0.0	0.98	-0.1		0
-2016	397	Yasiel Puig	http://www.baseball-reference.com/players/p/puigya01.shtml	puigya01	25	92	LAD	-0.3	-0.0	96	-0.4	1.3	-1.7	1.00	-0.3	-0.2	-1.4	-0.1	0.97	-1.8	5.86	1
-2016	398	Albert Pujols	http://www.baseball-reference.com/players/p/pujolal01.shtml	pujolal01	36	91	LAA	-3.4	-0.3	92	0.1	1.8	-1.7	1.02	-0.1	0.2	-0.7	-0.1	0.95	0.5		0
-2016	399	Ryan Raburn	http://www.baseball-reference.com/players/r/raburry01.shtml	raburry01	35	37	COL	3.6	0.3	37	0.4	1.1	-0.7	1.15	0.5	-0.1	2.6	0.2	0.94	4.7	1.35	8
-2016	400	Alexei Ramirez	http://www.baseball-reference.com/players/r/ramiral03.shtml	ramiral03	34	86	SDP	-3.5	-0.3	89	0.3	1.6	-1.4	1.06	-0.2	0.4	-2.0	-0.2	0.92	-3.5	2.81	1
-2016	401	Hanley Ramirez	http://www.baseball-reference.com/players/r/ramirha01.shtml	ramirha01	32	92	BOS	-0.9	-0.1	98	0.2	1.6	-1.4	.94	-0.1	0.4	-0.9	-0.1	0.97	-1.4		0
-2016	402	Jose Ramirez#	http://www.baseball-reference.com/players/r/ramirjo01.shtml	ramirjo01	23	58	CLE	-0.2	-0.0	60	0.2	1.1	-0.9	1.02	0.2	0.0	2.5	0.2	0.92	1.8	1.62	1
-2016	403	Wilson Ramos	http://www.baseball-reference.com/players/r/ramoswi01.shtml	ramoswi01	28	58	WSN	0.6	0.1	58	0.3	1.3	-1.0	.98	0.2	0.2	0.1	0.0	0.96	1.7		0
-2016	404	Colby Rasmus*	http://www.baseball-reference.com/players/r/rasmuco01.shtml	rasmuco01	29	87	HOU	9.1	0.9	90	1.0	2.4	-1.4	1.09	1.0	-0.0	11.6	1.1	1.03	10.0	0.62	1
-2016	405	Robbie Ray*	http://www.baseball-reference.com/players/r/rayro02.shtml	rayro02	24	9	ARI	-1.6	-0.2	9	-0.2	0.0	-0.2	1.15	-0.2	-0.0	-1.9	-0.2	1.02	-1.9		0
-2016	406	Colin Rea	http://www.baseball-reference.com/players/r/reaco01.shtml	reaco01	25	9	SDP	-1.3	-0.1	9	-0.4	0.0	-0.4	1.94	-0.2	-0.0	-2.7	-0.3	1.32	-1.8	5.75	1
-2016	407	J.T. Realmuto	http://www.baseball-reference.com/players/r/realmjt01.shtml	realmjt01	25	69	MIA	-1.2	-0.1	71	-0.1	1.3	-1.4	1.04	0.1	-0.1	-1.4	-0.1	0.99	0.3		0
-2016	408	Josh Reddick*	http://www.baseball-reference.com/players/r/reddijo01.shtml	reddijo01	29	91	OAK	3.3	0.3	93	0.5	1.7	-1.2	.95	0.4	0.1	3.3	0.3	0.86	4.3		0
-2016	409	Nolan Reimold	http://www.baseball-reference.com/players/r/reimono01.shtml	reimono01	32	30	BAL	2.8	0.3	32	-0.0	0.6	-0.6	1.02	0.3	-0.3	0.8	0.1	0.95	3.1		0
-2016	410	Anthony Rendon	http://www.baseball-reference.com/players/r/rendoan01.shtml	rendoan01	26	91	WSN	-5.9	-0.6	96	-0.8	1.0	-1.7	1.03	-0.7	-0.0	-8.6	-0.8	0.87	-7.3	1.97	1
-2016	411	Ben Revere*	http://www.baseball-reference.com/players/r/reverbe01.shtml	reverbe01	28	2	WSN	-0.6	-0.1	2	-0.0	0.0	-0.0	.93	-0.1	0.0	-0.5	-0.0	0.86	-0.5		0
-2016	412	Mark Reynolds	http://www.baseball-reference.com/players/r/reynoma01.shtml	reynoma01	32	61	COL	3.2	0.3	66	0.0	1.1	-1.0	.99	0.2	-0.1	5.0	0.4	0.93	4.0	0.53	1
-2016	413	Joey Rickard	http://www.baseball-reference.com/players/r/rickajo01.shtml	rickajo01	25	94	BAL	0.7	0.1	99	-0.1	1.5	-1.6	1.05	-0.1	0.0	-0.3	-0.0	0.93	-0.6		0
-2016	414	Yadiel Rivera	http://www.baseball-reference.com/players/r/riverya01.shtml	riverya01	24	28	MIL	-2.6	-0.2	28	-0.1	0.4	-0.5	.79	-0.2	0.1	-3.8	-0.4	0.88	-2.7	0.01	1
-2016	415	Anthony Rizzo*	http://www.baseball-reference.com/players/r/rizzoan01.shtml	rizzoan01	26	95	CHC	5.9	0.6	97	0.5	1.8	-1.2	.80	0.5	0.2	8.4	0.8	1.06	4.3		0
-2016	416	Tanner Roark	http://www.baseball-reference.com/players/r/roarkta01.shtml	roarkta01	29	9	WSN	-1.7	-0.2	9	-0.1	0.0	-0.1	.94	-0.1	0.0	-1.3	-0.1	1.01	-1.7		0
-2016	417	Clint Robinson*	http://www.baseball-reference.com/players/r/robincl01.shtml	robincl01	31	20	WSN	-3.9	-0.4	20	-0.5	0.2	-0.7	1.41	-0.4	-0.0	-2.3	-0.2	0.99	-3.8	1.64	4
-2016	418	Hansel Robles	http://www.baseball-reference.com/players/r/robleha01.shtml	robleha01	25	1	NYM	-0.3	-0.0	1	-0.0	0.0	-0.0	.34	-0.0	-0.0	-0.8	-0.1	1.42	-0.5		0
-2016	419	Alex Rodriguez	http://www.baseball-reference.com/players/r/rodrial01.shtml	rodrial01	40	66	NYY	-1.0	-0.1	68	-0.2	1.3	-1.4	1.16	0.1	-0.3	-2.4	-0.2	1.04	2.0		0
-2016	420	Sean Rodriguez	http://www.baseball-reference.com/players/r/rodrise01.shtml	rodrise01	31	35	PIT	4.0	0.4	36	0.1	0.7	-0.6	.90	0.5	-0.3	4.6	0.4	1.14	5.2	0.97	3
-2016	421	Jason Rogers	http://www.baseball-reference.com/players/r/rogerja02.shtml	rogerja02	28	11	PIT	0.6	0.1	12	0.0	0.2	-0.2	1.29	0.0	0.0	0.7	0.1	1.04	0.3	3.15	1
-2016	422	Miguel Rojas	http://www.baseball-reference.com/players/r/rojasmi02.shtml	rojasmi02	27	20	MIA	-1.4	-0.1	20	-0.2	0.1	-0.4	.86	-0.2	-0.1	-2.0	-0.2	0.81	-1.9	0.77	3
-2016	423	Jimmy Rollins#	http://www.baseball-reference.com/players/r/rolliji01.shtml	rolliji01	37	76	CHW	-0.8	-0.1	79	0.3	1.6	-1.4	.98	0.0	0.3	-3.1	-0.3	0.95	-0.1		0
-2016	424	Andrew Romine#	http://www.baseball-reference.com/players/r/rominan01.shtml	rominan01	30	13	DET	-0.9	-0.1	13	0.0	0.1	-0.1	.54	-0.0	0.1	-0.7	-0.1	0.79	-0.1		0
-2016	425	Austin Romine	http://www.baseball-reference.com/players/r/rominau01.shtml	rominau01	27	17	NYY	0.2	0.0	17	-0.0	0.4	-0.4	1.13	-0.0	-0.0	-0.8	-0.1	1.08	-0.2		1
-2016	426	Adam Rosales	http://www.baseball-reference.com/players/r/rosalad01.shtml	rosalad01	33	44	SDP	0.2	0.0	45	-0.3	0.5	-0.8	.92	0.0	-0.3	1.0	0.1	0.88	2.1	0.09	1
-2016	427	Eddie Rosario*	http://www.baseball-reference.com/players/r/rosared01.shtml	rosared01	24	77	MIN	-3.6	-0.4	81	-0.2	1.5	-1.7	1.22	-0.0	-0.2	-2.9	-0.3	0.91	-1.1	2.25	1
-2016	428	Trevor Rosenthal	http://www.baseball-reference.com/players/r/rosentr01.shtml	rosentr01	26	1	STL	-0.3	-0.0	1	0.0	0.0	0.0	.01	-0.0	0.0	-0.2	-0.0	0.74	-0.3		0
-2016	429	David Ross	http://www.baseball-reference.com/players/r/rossda01.shtml	rossda01	39	35	CHC	1.7	0.2	37	0.1	0.5	-0.4	.79	0.3	-0.2	1.8	0.2	1.03	2.0		0
-2016	430	Joe Ross	http://www.baseball-reference.com/players/r/rossjo01.shtml	rossjo01	23	9	WSN	1.2	0.1	9	0.1	0.1	-0.1	.80	0.0	0.0	0.4	0.0	0.81	0.5	2.95	1
-2016	431	Tyson Ross	http://www.baseball-reference.com/players/r/rossty01.shtml	rossty01	29	1	SDP	-0.3	-0.0	1	-0.0	0.0	-0.0	.61	-0.0	0.0	-0.2	-0.0	0.61	-0.2		0
-2016	432	Ryan Rua	http://www.baseball-reference.com/players/r/ruary01.shtml	ruary01	26	34	TEX	-1.6	-0.2	34	-0.4	0.3	-0.7	.91	-0.3	-0.1	-3.7	-0.4	1.01	-3.6		0
-2016	433	Darin Ruf	http://www.baseball-reference.com/players/r/rufda01.shtml	rufda01	29	34	PHI	-3.1	-0.3	38	-0.7	0.3	-1.0	1.03	-0.4	-0.3	-5.5	-0.5	0.94	-4.5	1.17	10
-2016	434	Justin Ruggiano	http://www.baseball-reference.com/players/r/ruggiju01.shtml	ruggiju01	34	4	TEX	0.0	0.0	4	0.1	0.1	-0.1	.85	0.0	0.1	0.4	0.0	0.85	0.0		0
-2016	435	Carlos Ruiz	http://www.baseball-reference.com/players/r/ruizca01.shtml	ruizca01	37	38	PHI	2.2	0.2	40	0.1	0.7	-0.6	.90	0.5	-0.5	1.7	0.2	0.89	5.2		0
-2016	436	Cameron Rupp	http://www.baseball-reference.com/players/r/ruppca01.shtml	ruppca01	27	51	PHI	0.1	0.0	52	0.0	0.9	-0.9	.95	-0.1	0.1	-0.5	-0.0	0.90	-0.0		0
-2016	437	Chris Rusin*	http://www.baseball-reference.com/players/r/rusinch01.shtml	rusinch01	29	5	COL	-0.8	-0.1	5	-0.0	0.1	-0.1	1.07	-0.1	0.0	-0.4	-0.0	1.11	-0.7		0
-2016	438	Addison Russell	http://www.baseball-reference.com/players/r/russead02.shtml	russead02	22	81	CHC	-0.8	-0.1	83	0.8	1.8	-1.0	.78	0.2	0.8	2.4	0.2	1.06	1.3		0
-2016	439	Josh Rutledge	http://www.baseball-reference.com/players/r/rutlejo01.shtml	rutlejo01	27	10	BOS	1.4	0.1	10	0.1	0.3	-0.2	1.05	0.1	0.0	1.8	0.2	0.92	1.1	0.78	3
-2016	440	Tyler Saladino	http://www.baseball-reference.com/players/s/saladty01.shtml	saladty01	26	24	CHW	-2.1	-0.2	25	-0.3	0.2	-0.4	.80	-0.2	-0.1	-2.5	-0.3	0.92	-2.2	0.00	1
-2016	441	Jarrod Saltalamacchia#	http://www.baseball-reference.com/players/s/saltaja01.shtml	saltaja01	31	59	DET	4.8	0.5	59	0.4	1.4	-1.0	.97	0.5	-0.1	7.3	0.7	1.03	5.6	3.14	1
-2016	442	Jeff Samardzija	http://www.baseball-reference.com/players/s/samarje01.shtml	samarje01	31	16	SFG	-0.8	-0.1	16	-0.1	0.3	-0.4	1.08	-0.2	0.0	0.3	0.0	1.20	-1.3		0
-2016	443	Keyvius Sampson	http://www.baseball-reference.com/players/s/sampske01.shtml	sampske01	25	1	CIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.12	-0.0	0.0	-0.2	-0.0	0.86	-0.3		0
-2016	444	Anibal Sanchez	http://www.baseball-reference.com/players/s/sanchan01.shtml	sanchan01	32	3	DET	-0.8	-0.1	3	-0.1	0.0	-0.1	.71	-0.1	-0.0	-1.3	-0.1	1.47	-0.9		0
-2016	445	Carlos Sanchez#	http://www.baseball-reference.com/players/s/sanchca01.shtml	sanchca01	24	1	CHW	-0.2	-0.0	1	0.0	0.0	0.0	.00	0.0		-0.3	-0.0	1.07	-0.3		0
-2016	446	Hector Sanchez#	http://www.baseball-reference.com/players/s/sanchhe01.shtml	sanchhe01	26	4	CHW	-0.3	-0.0	4	-0.0	0.0	-0.0	.67	-0.0	0.0	-0.6	-0.1	0.96	-0.5		0
-2016	447	Pablo Sandoval#	http://www.baseball-reference.com/players/s/sandopa01.shtml	sandopa01	29	7	BOS	-1.3	-0.1	7	-0.1	0.0	-0.1	.75	-0.1	-0.0	-1.0	-0.1	0.79	-1.1	1.51	2
-2016	448	Jerry Sands	http://www.baseball-reference.com/players/s/sandsje01.shtml	sandsje01	28	22	CHW	0.1	0.0	23	0.1	0.3	-0.3	.63	-0.0	0.2	-0.1	-0.0	0.97	0.2	0.33	2
-2016	449	Miguel Sano	http://www.baseball-reference.com/players/s/sanomi01.shtml	sanomi01	23	93	MIN	2.6	0.3	93	0.7	2.4	-1.8	1.28	0.2	0.3	2.4	0.2	0.96	2.3	0.18	1
-2016	450	Carlos Santana#	http://www.baseball-reference.com/players/s/santaca01.shtml	santaca01	30	82	CLE	1.7	0.2	87	0.3	1.5	-1.2	.88	0.3	0.0	4.6	0.4	0.96	3.5		0
-2016	451	Danny Santana#	http://www.baseball-reference.com/players/s/santada01.shtml	santada01	25	25	MIN	0.7	0.1	31	-0.1	0.6	-0.7	1.44	-0.0	-0.1	-0.4	-0.0	0.91	-0.1		0
-2016	452	Domingo Santana	http://www.baseball-reference.com/players/s/santado01.shtml	santado01	23	82	MIL	0.3	0.0	84	0.0	1.6	-1.6	.96	0.1	-0.1	-0.5	-0.0	0.90	0.3	0.98	2
-2016	453	Luis Sardinas#	http://www.baseball-reference.com/players/s/sardilu01.shtml	sardilu01	23	21	SEA	-1.5	-0.2	25	-0.2	0.3	-0.5	1.11	-0.1	-0.1	-1.4	-0.1	1.07	-1.5	1.50	2
-2016	454	Michael Saunders*	http://www.baseball-reference.com/players/s/saundmi01.shtml	saundmi01	29	72	TOR	4.9	0.5	73	-0.2	1.1	-1.3	.98	0.5	-0.7	1.2	0.1	0.88	4.4		0
-2016	455	Rob Scahill*	http://www.baseball-reference.com/players/s/scahiro01.shtml	scahiro01	29	1	PIT	-0.3	-0.0	1	0.0	0.0	0.0	.00	0.0		-0.1	-0.0	0.38	-0.3		0
-2016	456	Scott Schebler*	http://www.baseball-reference.com/players/s/schebsc01.shtml	schebsc01	25	55	CIN	-4.9	-0.5	57	0.0	1.0	-0.9	.90	-0.4	0.4	-2.7	-0.3	0.86	-2.9	1.35	8
-2016	457	Max Scherzer	http://www.baseball-reference.com/players/s/scherma01.shtml	scherma01	31	12	WSN	-1.4	-0.1	12	-0.1	0.1	-0.2	.95	-0.1	0.0	0.0	0.0	0.86	-0.9		0
-2016	458	Jonathan Schoop	http://www.baseball-reference.com/players/s/schoojo01.shtml	schoojo01	24	75	BAL	-2.9	-0.3	75	-0.3	1.3	-1.5	1.00	-0.2	-0.0	-4.3	-0.4	0.93	-3.6		0
-2016	459	A.J. Schugel	http://www.baseball-reference.com/players/s/schugaj01.shtml	schugaj01	27	1	PIT	-0.3	-0.0	1	-0.0	0.0	-0.0	.04	-0.0	-0.0	-0.3	-0.0	0.86	-0.3		0
-2016	460	Kyle Schwarber*	http://www.baseball-reference.com/players/s/schwaky01.shtml	schwaky01	23	5	CHC	-0.8	-0.1	5	0.0	0.0	-0.0	.91	-0.1	0.1	-0.5	-0.0	1.25	-0.5		0
-2016	461	Corey Seager*	http://www.baseball-reference.com/players/s/seageco01.shtml	seageco01	22	98	LAD	-0.8	-0.1	101	-0.1	1.7	-1.8	1.02	-0.2	0.1	-0.2	-0.0	0.96	-0.7	2.36	1
-2016	462	Kyle Seager*	http://www.baseball-reference.com/players/s/seageky01.shtml	seageky01	28	87	SEA	-3.4	-0.4	87	-0.5	1.4	-1.9	1.09	-0.2	-0.2	-5.3	-0.6	0.98	-1.9		0
-2016	463	Jean Segura	http://www.baseball-reference.com/players/s/segurje01.shtml	segurje01	26	108	ARI	4.5	0.4	117	1.4	3.3	-1.9	1.21	0.6	0.5	8.8	0.8	0.92	7.8		0
-2016	464	Marcus Semien	http://www.baseball-reference.com/players/s/semiema01.shtml	semiema01	25	82	OAK	-1.2	-0.1	82	-0.2	1.2	-1.4	.91	-0.2	0.0	-2.7	-0.3	0.96	-0.4		0
-2016	465	Pedro Severino	http://www.baseball-reference.com/players/s/severpe01.shtml	severpe01	22	3	WSN	-0.3	-0.0	3	-0.0	0.0	-0.1	1.34	-0.0	0.0	-0.3	-0.0	0.84	-0.2		0
-2016	466	Travis Shaw*	http://www.baseball-reference.com/players/s/shawtr01.shtml	shawtr01	26	87	BOS	5.4	0.5	92	0.5	1.8	-1.3	.97	0.3	0.2	7.4	0.7	1.05	4.8		0
-2016	467	James Shields	http://www.baseball-reference.com/players/s/shielja02.shtml	shielja02	34	9	SDP	-1.5	-0.1	9	-0.2	0.0	-0.3	1.38	-0.2	0.0	-2.1	-0.2	1.11	-2.0		0
-2016	468	J.B. Shuck*	http://www.baseball-reference.com/players/s/shuckja01.shtml	shuckja01	29	11	CHW	-2.0	-0.2	12	-0.1	0.0	-0.1	.75	-0.2	0.1	-1.3	-0.1	0.91	-1.9		0
-2016	469	Andrelton Simmons	http://www.baseball-reference.com/players/s/simmoan01.shtml	simmoan01	26	85	LAA	-3.6	-0.4	85	-1.1	0.9	-2.0	1.00	-0.5	-0.6	-5.9	-0.6	0.92	-5.5		0
-2016	470	Alfredo Simon	http://www.baseball-reference.com/players/s/simonal01.shtml	simonal01	35	2	CIN	-0.3	-0.0	2	-0.0	0.0	-0.0	.73	-0.1	-0.0	-0.6	-0.1	1.03	-0.6		0
-2016	471	Mallex Smith*	http://www.baseball-reference.com/players/s/smithma05.shtml	smithma05	23	54	ATL	-2.9	-0.3	62	-0.3	1.1	-1.3	1.19	-0.4	0.2	-2.8	-0.3	1.02	-4.8	0.03	1
-2016	472	Seth Smith*	http://www.baseball-reference.com/players/s/smithse01.shtml	smithse01	33	62	SEA	3.8	0.4	63	0.0	1.0	-1.0	.98	0.3	-0.3	4.1	0.4	0.96	3.9	1.78	5
-2016	473	Justin Smoak#	http://www.baseball-reference.com/players/s/smoakju01.shtml	smoakju01	29	40	TOR	0.8	0.1	41	0.3	0.8	-0.5	1.03	0.0	0.2	0.6	0.1	0.99	-0.4	1.69	4
-2016	474	Yangervis Solarte#	http://www.baseball-reference.com/players/s/solarya01.shtml	solarya01	28	19	SDP	2.2	0.2	20	0.2	0.3	-0.1	.67	0.2	0.1	3.2	0.3	0.98	2.9		0
-2016	475	Jorge Soler	http://www.baseball-reference.com/players/s/solerjo01.shtml	solerjo01	24	65	CHC	-2.8	-0.3	65	0.1	0.8	-0.7	.76	-0.1	0.2	-1.1	-0.1	0.93	-1.4	0.17	2
-2016	476	Geovany Soto	http://www.baseball-reference.com/players/s/sotoge01.shtml	sotoge01	33	26	LAA	1.2	0.1	26	0.6	1.1	-0.5	1.08	0.2	0.4	1.9	0.2	0.99	1.4	0.15	1
-2016	477	Steven Souza	http://www.baseball-reference.com/players/s/souzast01.shtml	souzast01	27	71	TBR	3.7	0.4	72	0.6	1.7	-1.1	1.01	0.5	0.1	3.1	0.3	0.89	6.0		0
-2016	478	Denard Span*	http://www.baseball-reference.com/players/s/spande01.shtml	spande01	32	97	SFG	-1.2	-0.1	106	0.4	1.8	-1.4	.94	0.0	0.4	3.9	0.4	0.97	1.1	3.00	1
-2016	479	Cory Spangenberg*	http://www.baseball-reference.com/players/s/spangco01.shtml	spangco01	25	53	SDP	-1.6	-0.2	55	0.6	1.3	-0.7	1.08	-0.1	0.6	4.0	0.4	0.89	0.3	1.34	1
-2016	480	George Springer	http://www.baseball-reference.com/players/s/springe01.shtml	springe01	26	98	HOU	3.3	0.3	107	-0.5	1.7	-2.2	1.01	0.2	-0.7	5.3	0.5	0.98	3.9		0
-2016	481	Giancarlo Stanton	http://www.baseball-reference.com/players/s/stantmi03.shtml	stantmi03	26	88	MIA	4.1	0.4	88	0.5	2.0	-1.5	1.12	0.6	-0.2	7.4	0.7	0.97	7.3		0
-2016	482	Robert Stephenson	http://www.baseball-reference.com/players/s/stephro01.shtml	stephro01	23	5	CIN	-1.2	-0.1	5	-0.2	0.0	-0.2	1.01	-0.1	-0.0	-2.1	-0.2	1.23	-1.7		0
-2016	483	Chris Stewart	http://www.baseball-reference.com/players/s/stewach01.shtml	stewach01	34	20	PIT	0.6	0.1	20	-0.3	0.2	-0.5	1.05	-0.0	-0.2	-0.7	-0.1	0.98	0.2	0.00	1
-2016	484	Trevor Story	http://www.baseball-reference.com/players/s/storytr01.shtml	storytr01	23	92	COL	2.6	0.2	94	-0.4	1.5	-2.0	.98	0.2	-0.6	-0.9	-0.1	0.85	0.2		0
-2016	485	Dan Straily	http://www.baseball-reference.com/players/s/straida01.shtml	straida01	27	4	CIN	-0.9	-0.1	4	-0.1	0.0	-0.1	1.25	-0.1	0.0	-1.0	-0.1	1.01	-1.0		0
-2016	486	Stephen Strasburg	http://www.baseball-reference.com/players/s/strasst01.shtml	strasst01	27	11	WSN	-1.0	-0.1	11	-0.1	0.1	-0.2	.82	-0.1	-0.0	-1.5	-0.1	0.74	-1.4		0
-2016	487	Ross Stripling	http://www.baseball-reference.com/players/s/stripro01.shtml	stripro01	26	8	LAD	-2.0	-0.2	8	-0.2	0.0	-0.2	1.00	-0.2	0.0	-1.6	-0.2	0.81	-2.0		0
-2016	488	Pedro Strop	http://www.baseball-reference.com/players/s/stroppe01.shtml	stroppe01	31	1	CHC	-0.3	-0.0	1	-0.0	0.0	-0.0	.16	-0.0	-0.0	-0.3	-0.0	0.86	-0.3		0
-2016	489	Drew Stubbs	http://www.baseball-reference.com/players/s/stubbdr01.shtml	stubbdr01	31	38	ATL	-0.6	-0.1	43	0.1	0.8	-0.7	1.20	0.0	0.1	-0.2	-0.0	1.05	-0.3	1.38	4
-2016	490	Eugenio Suarez	http://www.baseball-reference.com/players/s/suareeu01.shtml	suareeu01	24	88	CIN	1.3	0.1	95	0.5	2.0	-1.5	1.01	0.4	0.1	5.4	0.5	0.98	3.9		0
-2016	491	Ichiro Suzuki*	http://www.baseball-reference.com/players/s/suzukic01.shtml	suzukic01	42	27	MIA	-0.1	-0.0	28	0.3	0.7	-0.4	1.00	-0.0	0.3	0.6	0.1	0.86	-0.8	0.63	5
-2016	492	Kurt Suzuki	http://www.baseball-reference.com/players/s/suzukku01.shtml	suzukku01	32	51	MIN	-2.5	-0.3	51	-0.6	0.7	-1.2	1.16	-0.2	-0.3	-3.9	-0.4	0.90	-3.2		0
-2016	493	Blake Swihart#	http://www.baseball-reference.com/players/s/swihabl01.shtml	swihabl01	24	23	BOS	0.1	0.0	24	0.0	0.5	-0.5	1.40	0.0	-0.0	-0.1	-0.0	1.16	0.2		0
-2016	494	Noah Syndergaard*	http://www.baseball-reference.com/players/s/syndeno01.shtml	syndeno01	23	8	NYM	-0.4	-0.0	8	-0.1	0.1	-0.1	1.05	-0.1	-0.0	-0.9	-0.1	1.07	-0.7		0
-2016	495	Matt Szczur	http://www.baseball-reference.com/players/s/szczuma01.shtml	szczuma01	26	29	CHC	0.9	0.1	30	0.1	0.3	-0.1	.29	0.2	0.3	4.0	0.4	1.10	1.0	0.43	6
-2016	496	Michael Taylor	http://www.baseball-reference.com/players/t/taylomi02.shtml	taylomi02	25	78	WSN	-7.0	-0.7	83	-0.6	0.9	-1.5	1.07	-0.5	-0.1	-7.3	-0.7	0.93	-5.8	1.85	1
-2016	497	Julio Teheran	http://www.baseball-reference.com/players/t/teherju01.shtml	teherju01	25	9	ATL	-2.0	-0.2	9	-0.2	0.0	-0.2	.99	-0.2	0.0	-1.8	-0.2	0.86	-2.3		0
-2016	498	Mark Teixeira#	http://www.baseball-reference.com/players/t/teixema01.shtml	teixema01	36	84	NYY	1.9	0.2	88	0.0	1.5	-1.5	1.05	0.0	0.0	4.7	0.5	0.95	1.9		0
-2016	499	Ruben Tejada	http://www.baseball-reference.com/players/t/tejadru01.shtml	tejadru01	26	13	STL	-1.3	-0.1	13	-0.1	0.2	-0.3	1.12	-0.2	0.1	-2.4	-0.2	1.13	-2.3	0.68	2
-2016	500	Josh Thole*	http://www.baseball-reference.com/players/t/tholejo01.shtml	tholejo01	29	26	TOR	-1.7	-0.2	27	-0.3	0.2	-0.5	.85	-0.2	-0.1	-3.6	-0.4	0.98	-2.4		0
-2016	501	Trayce Thompson	http://www.baseball-reference.com/players/t/thomptr01.shtml	thomptr01	25	47	LAD	-0.3	-0.0	51	-0.2	1.0	-1.2	1.40	0.0	-0.1	-0.6	-0.1	1.04	0.9	0.77	5
-2016	502	Yasmany Tomas	http://www.baseball-reference.com/players/t/tomasya01.shtml	tomasya01	25	88	ARI	2.7	0.2	90	0.2	2.2	-2.0	1.33	0.3	-0.1	1.4	0.1	1.00	4.9	0.51	1
-2016	503	Kelby Tomlinson	http://www.baseball-reference.com/players/t/tomlike01.shtml	tomlike01	26	18	SFG	-2.9	-0.3	18	-0.2	0.1	-0.3	.74	-0.3	-0.0	-2.3	-0.2	0.88	-3.2	0.91	3
-2016	504	Michael Tonkin	http://www.baseball-reference.com/players/t/tonkimi01.shtml	tonkimi01	26	2	MIN	-0.5	-0.1	2	-0.1	0.0	-0.1	1.48	-0.1	-0.0	-0.6	-0.1	1.06	-0.6		0
-2016	505	Ronald Torreyes	http://www.baseball-reference.com/players/t/torrero01.shtml	torrero01	23	20	NYY	1.5	0.2	20	-0.1	0.2	-0.3	.74	0.1	-0.2	1.4	0.1	0.89	0.6	0.02	1
-2016	506	Mike Trout	http://www.baseball-reference.com/players/t/troutmi01.shtml	troutmi01	24	93	LAA	7.7	0.8	97	0.9	2.2	-1.3	.99	0.8	0.1	5.7	0.6	0.92	7.2		0
-2016	507	Mark Trumbo	http://www.baseball-reference.com/players/t/trumbma01.shtml	trumbma01	30	88	BAL	8.1	0.8	91	0.9	2.3	-1.4	1.05	0.8	0.0	9.1	0.9	0.95	8.6		0
-2016	508	Preston Tucker*	http://www.baseball-reference.com/players/t/tuckepr01.shtml	tuckepr01	25	46	HOU	-0.3	-0.0	46	-0.0	0.7	-0.7	.91	0.1	-0.1	-0.9	-0.1	0.87	1.0	1.25	6
-2016	509	Troy Tulowitzki	http://www.baseball-reference.com/players/t/tulowtr01.shtml	tulowtr01	31	91	TOR	-1.1	-0.1	94	-0.2	1.3	-1.5	.97	-0.2	-0.0	-2.7	-0.3	0.96	-3.5		0
-2016	510	Justin Turner	http://www.baseball-reference.com/players/t/turneju01.shtml	turneju01	31	80	LAD	-0.3	-0.0	82	0.1	1.5	-1.4	1.11	-0.3	0.4	-0.1	-0.0	0.94	-1.6	2.85	3
-2016	511	Justin Upton	http://www.baseball-reference.com/players/u/uptonju01.shtml	uptonju01	28	90	DET	-6.6	-0.7	92	-0.1	1.1	-1.2	.75	-0.3	0.2	-4.1	-0.4	0.96	-4.1	0.42	1
-2016	512	Melvin Upton	http://www.baseball-reference.com/players/u/uptonbj01.shtml	uptonbj01	31	85	SDP	-0.5	-0.1	94	0.2	1.7	-1.6	1.04	0.0	0.1	-1.0	-0.1	0.91	0.4	0.77	2
-2016	513	Juan Uribe	http://www.baseball-reference.com/players/u/uribeju01.shtml	uribeju01	37	55	CLE	-0.9	-0.1	56	0.2	0.9	-0.7	.84	-0.1	0.4	0.3	0.0	0.87	-1.0		0
-2016	514	Chase Utley*	http://www.baseball-reference.com/players/u/utleych01.shtml	utleych01	37	87	LAD	3.6	0.3	91	0.6	1.9	-1.3	1.02	0.5	0.1	6.0	0.6	0.92	5.6	2.92	3
-2016	515	Luis Valbuena*	http://www.baseball-reference.com/players/v/valbulu01.shtml	valbulu01	30	66	HOU	-2.4	-0.2	66	-0.0	0.9	-0.9	.77	-0.1	0.1	-1.3	-0.1	0.83	-1.5	1.48	1
-2016	516	Danny Valencia	http://www.baseball-reference.com/players/v/valenda01.shtml	valenda01	31	55	OAK	-0.1	-0.0	59	-0.3	0.9	-1.2	1.07	-0.0	-0.2	-0.7	-0.1	0.92	0.2		0
-2016	517	Scott Van Slyke	http://www.baseball-reference.com/players/v/vanslsc01.shtml	vanslsc01	29	10	LAD	-1.1	-0.1	10	-0.0	0.2	-0.2	1.34	-0.0	0.0	0.3	0.0	1.20	-0.7		0
-2016	518	Cesar Vargas	http://www.baseball-reference.com/players/v/vargace01.shtml	vargace01	24	2	SDP	-0.3	-0.0	2	-0.0	0.0	-0.0	.94	-0.0	0.0	-0.4	-0.0	0.99	-0.4		0
-2016	519	Christian Vazquez	http://www.baseball-reference.com/players/v/vazquch01.shtml	vazquch01	25	34	BOS	-1.2	-0.1	34	-0.2	0.2	-0.4	.67	-0.2	-0.1	-3.2	-0.3	0.87	-2.6		0
-2016	520	Vincent Velasquez#	http://www.baseball-reference.com/players/v/velasvi01.shtml	velasvi01	24	9	PHI	-1.6	-0.2	9	-0.2	0.0	-0.2	1.18	-0.2	-0.0	-2.0	-0.2	1.07	-1.7		0
-2016	521	Justin Verlander	http://www.baseball-reference.com/players/v/verlaju01.shtml	verlaju01	33	3	DET	-0.1	-0.0	3	0.0	0.0	-0.0	.44	-0.0	0.0	-0.2	-0.0	0.76	-0.2		0
-2016	522	Logan Verrett	http://www.baseball-reference.com/players/v/verrelo01.shtml	verrelo01	26	5	NYM	0.0	0.0	5	0.0	0.0	-0.0	.62	0.0	-0.0	0.2	0.0	0.99	0.5		0
-2016	523	Carlos Villanueva	http://www.baseball-reference.com/players/v/villaca01.shtml	villaca01	32	1	SDP	-0.3	-0.0	1	0.0	0.0	0.0	.01	-0.0	0.0	-0.1	-0.0	0.40	-0.3		0
-2016	524	Jonathan Villar#	http://www.baseball-reference.com/players/v/villajo01.shtml	villajo01	25	77	MIL	0.4	0.0	85	-0.2	1.0	-1.2	.85	-0.1	-0.1	-1.3	-0.1	0.89	-0.9		0
-2016	525	Ryan Vogelsong	http://www.baseball-reference.com/players/v/vogelry01.shtml	vogelry01	38	1	PIT	-0.3	-0.0	1	-0.0	0.0	-0.0	.45	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
-2016	526	Stephen Vogt*	http://www.baseball-reference.com/players/v/vogtst01.shtml	vogtst01	31	77	OAK	0.9	0.1	77	-0.4	1.2	-1.5	1.12	0.1	-0.4	0.3	0.0	0.98	0.6	1.63	2
-2016	527	Joey Votto*	http://www.baseball-reference.com/players/v/vottojo01.shtml	vottojo01	32	90	CIN	-3.5	-0.3	90	-0.2	1.3	-1.5	.97	-0.3	0.1	1.2	0.1	0.90	-3.4		0
-2016	528	Michael Wacha	http://www.baseball-reference.com/players/w/wachami01.shtml	wachami01	24	11	STL	-2.9	-0.3	11	-0.3	0.0	-0.3	1.07	-0.3	-0.0	-3.9	-0.4	1.14	-3.4		0
-2016	529	Tyler Wagner	http://www.baseball-reference.com/players/w/wagnety01.shtml	wagnety01	25	2	ARI	-0.6	-0.1	2	-0.0	0.0	-0.0	.59	-0.1	-0.0	-0.3	-0.0	0.50	-0.5		0
-2016	530	Adam Wainwright	http://www.baseball-reference.com/players/w/wainwad01.shtml	wainwad01	34	11	STL	-1.3	-0.1	11	0.2	0.4	-0.2	1.50	-0.1	0.2	1.0	0.1	1.16	-0.5		0
-2016	531	Neil Walker#	http://www.baseball-reference.com/players/w/walkene01.shtml	walkene01	30	83	NYM	4.9	0.5	84	0.3	1.6	-1.3	.89	0.9	-0.5	5.5	0.5	0.91	10.5		0
-2016	532	Brett Wallace*	http://www.baseball-reference.com/players/w/wallabr01.shtml	wallabr01	29	30	SDP	-0.7	-0.1	30	0.0	0.5	-0.4	1.20	-0.0	0.1	0.7	0.1	0.93	0.2	1.98	5
-2016	533	Colin Walsh#	http://www.baseball-reference.com/players/w/walshco02.shtml	walshco02	26	27	MIL	-1.8	-0.2	27	-0.1	0.3	-0.4	.89	-0.1	0.0	-1.7	-0.2	0.97	-1.5	0.81	9
-2016	534	Adam Warren	http://www.baseball-reference.com/players/w/warread01.shtml	warread01	28	1	CHC	-0.3	-0.0	1	-0.0	0.0	-0.0	.29	-0.0	-0.0	-0.1	-0.0	0.39	-0.3		0
-2016	535	Tony Watson*	http://www.baseball-reference.com/players/w/watsoto01.shtml	watsoto01	31	1	PIT	0.0	0.0	1	-0.0	0.0	-0.0	.34	-0.0	0.0	-0.2	-0.0	1.11	-0.2		0
-2016	536	Ryan Weber	http://www.baseball-reference.com/players/w/weberry01.shtml	weberry01	25	1	ATL	-0.3	-0.0	1	-0.0	0.0	-0.0	.09	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
-2016	537	Jemile Weeks#	http://www.baseball-reference.com/players/w/weeksje01.shtml	weeksje01	29	28	SDP	-1.3	-0.1	28	-0.1	0.4	-0.5	.92	-0.1	-0.0	-0.2	-0.0	0.93	-0.9		0
-2016	538	Rickie Weeks	http://www.baseball-reference.com/players/w/weeksri01.shtml	weeksri01	33	19	ARI	-0.6	-0.1	21	0.5	0.7	-0.2	1.16	0.2	0.2	2.9	0.3	1.04	3.0	1.24	14
-2016	539	Jayson Werth	http://www.baseball-reference.com/players/w/werthja01.shtml	werthja01	37	74	WSN	-2.8	-0.3	76	-0.3	1.5	-1.7	1.25	-0.2	-0.0	-4.3	-0.4	1.01	-2.8		0
-2016	540	Tyler White	http://www.baseball-reference.com/players/w/whitety01.shtml	whitety01	25	79	HOU	3.9	0.4	79	-0.2	1.3	-1.5	1.04	0.7	-0.9	2.7	0.3	0.94	5.7		1
-2016	541	Matt Wieters#	http://www.baseball-reference.com/players/w/wietema01.shtml	wietema01	30	53	BAL	-2.0	-0.2	53	0.1	1.2	-1.2	1.16	-0.2	0.2	-2.6	-0.3	1.03	-2.1		1
-2016	542	Mac Williamson	http://www.baseball-reference.com/players/w/willima11.shtml	willima11	25	3	SFG	-0.9	-0.1	3	-0.1	0.0	-0.1	1.15	-0.1	0.0	-0.6	-0.1	0.74	-0.8	1.15	3
-2016	543	Bobby Wilson	http://www.baseball-reference.com/players/w/wilsobo02.shtml	wilsobo02	33	10	DET	-1.8	-0.2	10	-0.1	0.0	-0.1	.69	-0.2	0.0	-1.7	-0.2	1.01	-1.9		0
-2016	544	Matt Wisler	http://www.baseball-reference.com/players/w/wislema01.shtml	wislema01	23	9	ATL	-1.2	-0.1	9	-0.3	0.0	-0.3	1.60	-0.2	-0.0	-3.0	-0.3	1.32	-1.8		0
-2016	545	Tony Wolters*	http://www.baseball-reference.com/players/w/wolteto01.shtml	wolteto01	24	38	COL	-4.2	-0.4	41	-0.1	0.4	-0.5	.97	-0.2	0.1	-1.3	-0.1	0.94	-2.4	2.49	1
-2016	546	Kolten Wong*	http://www.baseball-reference.com/players/w/wongko01.shtml	wongko01	25	59	STL	-4.5	-0.4	65	-0.4	0.7	-1.1	.88	-0.1	-0.4	-2.4	-0.2	1.00	-1.0	0.83	3
-2016	547	Alex Wood	http://www.baseball-reference.com/players/w/woodal02.shtml	woodal02	25	10	LAD	-1.5	-0.2	10	-0.2	0.0	-0.2	1.05	-0.2	-0.0	-2.2	-0.2	1.07	-1.9		0
-2016	548	Blake Wood	http://www.baseball-reference.com/players/w/woodbl01.shtml	woodbl01	30	1	CIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.33	-0.0	0.0	-0.3	-0.0	1.04	-0.3		0
-2016	549	David Wright	http://www.baseball-reference.com/players/w/wrighda03.shtml	wrighda03	33	81	NYM	0.8	0.1	85	-0.5	1.0	-1.5	.99	0.1	-0.6	-3.7	-0.4	0.98	0.9		0
-2016	550	Christian Yelich*	http://www.baseball-reference.com/players/y/yelicch01.shtml	yelicch01	24	92	MIA	8.5	0.8	98	0.3	1.5	-1.2	.96	0.6	-0.3	3.9	0.4	0.90	6.9		0
-2016	551	Chris Young	http://www.baseball-reference.com/players/y/youngch04.shtml	youngch04	32	28	BOS	-1.2	-0.1	28	-0.4	0.3	-0.7	1.11	-0.1	-0.2	-1.7	-0.2	0.97	-1.4	1.05	5
-2016	552	Ryan Zimmerman	http://www.baseball-reference.com/players/z/zimmery01.shtml	zimmery01	31	75	WSN	-3.9	-0.4	77	-0.3	1.1	-1.4	1.01	-0.1	-0.2	-3.7	-0.3	0.86	-1.4		0
-2016	553	Jordan Zimmermann	http://www.baseball-reference.com/players/z/zimmejo02.shtml	zimmejo02	30	2	DET	0.2	0.0	2	0.0	0.0	-0.0	.56	0.0	0.0	0.3	0.0	0.62	0.2		0
-2016	554	Ben Zobrist#	http://www.baseball-reference.com/players/z/zobribe01.shtml	zobribe01	35	87	CHC	1.2	0.1	92	-0.2	1.1	-1.3	.84	-0.0	-0.2	-1.1	-0.1	1.05	0.8		0
+2016	1	Fernando Abad*	http://www.baseball-reference.com/players/a/abadfe01.shtml	abadfe01	30	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	1.83	-0.0	-0.0	-0.2	-0.0	0.61	-0.3		0
+2016	2	Jose Abreu	http://www.baseball-reference.com/players/a/abreujo02.shtml	abreujo02	29	114	CHW	-0.2	-0.0	115	0.2	2.0	-1.8	.97	-0.1	0.3	0.1	0.0	0.93	-1.1		0
+2016	3	Dustin Ackley*	http://www.baseball-reference.com/players/a/ackledu01.shtml	ackledu01	28	18	NYY	-2.8	-0.3	18	-0.2	0.1	-0.2	.70	-0.2	0.0	-2.2	-0.2	0.92	-2.9	0.01	2
+2016	4	Cristhian Adames#	http://www.baseball-reference.com/players/a/adamecr01.shtml	adamecr01	24	32	COL	-4.1	-0.4	33	-0.2	0.2	-0.5	.89	-0.4	0.1	-4.9	-0.4	1.04	-4.4	1.03	11
+2016	5	Matt Adams*	http://www.baseball-reference.com/players/a/adamsma01.shtml	adamsma01	27	50	STL	-0.3	-0.0	53	-0.0	0.8	-0.8	.91	-0.2	0.1	0.3	0.0	0.98	-0.2	0.45	9
+2016	6	Tim Adleman	http://www.baseball-reference.com/players/a/adlemti01.shtml	adlemti01	28	3	CIN	-0.9	-0.1	3	-0.1	0.0	-0.1	1.21	-0.0	-0.0	-0.5	-0.1	0.94	-0.3		0
+2016	7	Ehire Adrianza#	http://www.baseball-reference.com/players/a/adriaeh01.shtml	adriaeh01	26	12	SFG	1.1	0.1	12	0.0	0.2	-0.2	1.00	0.1	-0.1	1.1	0.1	0.80	1.4	1.08	4
+2016	8	Nick Ahmed	http://www.baseball-reference.com/players/a/ahmedni01.shtml	ahmedni01	26	95	ARI	-7.9	-0.8	99	-0.6	1.5	-2.1	1.15	-0.7	0.2	-7.5	-0.7	0.92	-7.4		0
+2016	9	Hanser Alberto	http://www.baseball-reference.com/players/a/alberha01.shtml	alberha01	23	18	TEX	-3.2	-0.3	18	-0.4	0.0	-0.4	.95	-0.3	-0.1	-2.8	-0.3	0.86	-3.2	0.00	1
+2016	10	Yonder Alonso*	http://www.baseball-reference.com/players/a/alonsyo01.shtml	alonsyo01	29	80	OAK	-5.7	-0.6	81	-0.6	1.0	-1.6	1.05	-0.8	0.2	-7.1	-0.7	0.94	-7.1	3.30	1
+2016	11	Jose Altuve	http://www.baseball-reference.com/players/a/altuvjo01.shtml	altuvjo01	26	114	HOU	12.2	1.2	127	0.5	2.7	-2.2	1.10	1.0	-0.6	9.2	0.9	0.98	9.3		0
+2016	12	Pedro Alvarez*	http://www.baseball-reference.com/players/a/alvarpe01.shtml	alvarpe01	29	59	BAL	-0.5	-0.1	60	-0.0	1.0	-1.1	.98	0.0	-0.1	-1.0	-0.1	0.90	-0.0	0.00	1
+2016	13	Alexi Amarista*	http://www.baseball-reference.com/players/a/amarial01.shtml	amarial01	27	26	SDP	0.8	0.1	29	0.0	0.5	-0.5	1.34	0.0	0.0	0.6	0.1	0.95	0.3		0
+2016	14	Chase Anderson	http://www.baseball-reference.com/players/a/anderch01.shtml	anderch01	28	8	MIL	-2.0	-0.2	8	-0.2	0.0	-0.2	.92	-0.2	0.0	-2.0	-0.2	0.94	-2.2		0
+2016	15	Elvis Andrus	http://www.baseball-reference.com/players/a/andruel01.shtml	andruel01	27	88	TEX	2.4	0.2	96	0.5	1.8	-1.3	.91	0.7	-0.1	6.5	0.6	0.94	6.0		0
+2016	16	Nori Aoki*	http://www.baseball-reference.com/players/a/aokino01.shtml	aokino01	34	98	SEA	-2.5	-0.2	103	-0.5	1.4	-2.0	1.03	-0.1	-0.4	-2.2	-0.2	0.94	-0.6	1.89	2
+2016	17	Oswaldo Arcia*	http://www.baseball-reference.com/players/a/arciaos01.shtml	arciaos01	25	55	MIN	-0.0	0.0	56	0.5	1.8	-1.3	1.24	0.1	0.3	0.1	0.0	0.95	-0.3	0.16	1
+2016	18	Nolan Arenado	http://www.baseball-reference.com/players/a/arenano01.shtml	arenano01	25	105	COL	7.6	0.7	106	0.6	2.3	-1.6	.99	1.0	-0.4	8.0	0.7	0.96	11.7		0
+2016	19	Jake Arrieta	http://www.baseball-reference.com/players/a/arrieja01.shtml	arrieja01	30	14	CHC	-0.2	-0.0	14	0.1	0.3	-0.1	.56	0.1	0.1	0.7	0.1	1.05	0.9		0
+2016	20	Alex Avila*	http://www.baseball-reference.com/players/a/avilaal01.shtml	avilaal01	29	33	CHW	-0.8	-0.1	34	-0.2	0.5	-0.7	1.15	-0.1	-0.1	-2.5	-0.3	0.94	-1.5		0
+2016	21	Mike Aviles	http://www.baseball-reference.com/players/a/avilemi01.shtml	avilemi01	35	23	DET	-1.7	-0.2	25	-0.2	0.2	-0.3	.78	-0.1	-0.1	-0.9	-0.1	1.08	-1.1	1.78	0
+2016	22	Erick Aybar#	http://www.baseball-reference.com/players/a/aybarer01.shtml	aybarer01	32	91	ATL	-12.0	-1.2	95	-0.7	1.2	-1.9	1.17	-0.8	0.2	-7.8	-0.8	1.02	-9.3	3.69	2
+2016	23	Javier Baez	http://www.baseball-reference.com/players/b/baezja01.shtml	baezja01	23	31	CHC	0.8	0.1	37	-0.1	0.3	-0.4	.72	0.3	-0.4	0.6	0.1	0.98	1.2	0.35	4
+2016	24	Austin Barnes	http://www.baseball-reference.com/players/b/barneau01.shtml	barneau01	26	17	LAD	-2.0	-0.2	17	-0.3	0.2	-0.5	1.27	-0.2	0.0	-1.3	-0.1	0.97	-2.2	2.97	1
+2016	25	Brandon Barnes	http://www.baseball-reference.com/players/b/barnebr02.shtml	barnebr02	30	36	COL	-3.1	-0.3	39	-0.3	0.5	-0.8	1.06	-0.3	0.0	-2.2	-0.2	0.98	-3.4	0.74	6
+2016	26	Darwin Barney	http://www.baseball-reference.com/players/b/barneda01.shtml	barneda01	30	32	TOR	1.2	0.1	34	0.3	0.7	-0.3	.80	0.3	0.1	2.2	0.2	0.92	3.2	2.22	1
+2016	27	Tucker Barnhart#	http://www.baseball-reference.com/players/b/barnhtu01.shtml	barnhtu01	25	48	CIN	0.6	0.1	48	0.2	0.8	-0.5	.86	0.2	0.1	1.5	0.1	0.82	2.3	0.06	2
+2016	28	Trevor Bauer	http://www.baseball-reference.com/players/b/bauertr01.shtml	bauertr01	25	2	CLE	-0.3	-0.0	2	-0.1	0.0	-0.1	1.48	-0.0	-0.0	-0.5	-0.0	1.13	-0.4		0
+2016	29	Jose Bautista	http://www.baseball-reference.com/players/b/bautijo02.shtml	bautijo02	35	111	TOR	7.5	0.8	113	0.5	2.3	-1.8	1.02	0.6	-0.1	7.3	0.7	0.95	6.2		0
+2016	30	Gordon Beckham	http://www.baseball-reference.com/players/b/beckhgo01.shtml	beckhgo01	29	28	ATL	-0.0	0.0	29	0.1	0.5	-0.4	.96	0.1	-0.0	0.5	0.1	0.83	0.5	0.87	4
+2016	31	Tim Beckham	http://www.baseball-reference.com/players/b/beckhti01.shtml	beckhti01	26	24	TBR	-1.8	-0.2	25	-0.1	0.3	-0.4	.95	-0.2	0.1	-1.0	-0.1	0.92	-2.1	1.02	1
+2016	32	Brandon Belt*	http://www.baseball-reference.com/players/b/beltbr01.shtml	beltbr01	28	104	SFG	6.3	0.6	109	-0.0	2.0	-2.0	1.10	0.2	-0.2	4.5	0.4	1.03	4.0	2.19	2
+2016	33	Carlos Beltran#	http://www.baseball-reference.com/players/b/beltrca01.shtml	beltrca01	39	88	NYY	-0.8	-0.1	90	-0.3	1.2	-1.5	1.01	0.1	-0.5	-1.7	-0.2	0.90	1.2	1.09	2
+2016	34	Adrian Beltre	http://www.baseball-reference.com/players/b/beltrad01.shtml	beltrad01	37	104	TEX	3.9	0.4	104	0.1	1.8	-1.7	.99	0.4	-0.3	5.8	0.6	1.00	5.2		0
+2016	35	Christian Bergman	http://www.baseball-reference.com/players/b/bergmch01.shtml	bergmch01	28	2	COL	0.1	0.0	3	0.1	0.1	-0.0	1.67	0.1	-0.0	0.6	0.1	1.15	0.6		0
+2016	36	Christian Bethancourt	http://www.baseball-reference.com/players/b/bethach01.shtml	bethach01	24	22	SDP	-0.9	-0.1	22	-0.1	0.3	-0.4	.97	0.1	-0.2	-0.2	-0.0	0.81	0.7	1.08	3
+2016	37	Chad Bettis	http://www.baseball-reference.com/players/b/bettich01.shtml	bettich01	27	13	COL	-2.3	-0.2	13	-0.1	0.1	-0.2	1.10	-0.1	0.0	-1.4	-0.1	0.97	-1.6		0
+2016	38	Mookie Betts	http://www.baseball-reference.com/players/b/bettsmo01.shtml	bettsmo01	23	119	BOS	-0.6	-0.1	131	-0.0	2.1	-2.1	.95	0.3	-0.4	2.9	0.3	1.00	3.4		0
+2016	39	Charlie Blackmon*	http://www.baseball-reference.com/players/b/blackch02.shtml	blackch02	29	44	COL	-2.3	-0.2	46	0.2	0.7	-0.5	.85	-0.2	0.4	-0.6	-0.1	0.91	-1.9	0.23	1
+2016	40	Aaron Blair	http://www.baseball-reference.com/players/b/blairaa01.shtml	blairaa01	24	4	ATL	-0.8	-0.1	4	-0.1	0.0	-0.1	1.09	-0.1	0.0	-0.8	-0.1	0.80	-1.0		0
+2016	41	Andres Blanco#	http://www.baseball-reference.com/players/b/blancan01.shtml	blancan01	32	35	PHI	2.6	0.2	38	0.5	1.0	-0.5	.87	0.2	0.3	1.3	0.1	0.96	2.3	1.10	9
+2016	42	Gregor Blanco*	http://www.baseball-reference.com/players/b/blancgr01.shtml	blancgr01	32	33	SFG	2.1	0.2	33	0.1	0.6	-0.5	1.04	0.2	-0.1	3.4	0.3	0.93	2.9	0.95	12
+2016	43	Jabari Blash	http://www.baseball-reference.com/players/b/blashja01.shtml	blashja01	26	23	SDP	-1.3	-0.1	24	-0.2	0.1	-0.3	.56	-0.2	-0.1	-2.2	-0.2	0.80	-2.1	0.55	9
+2016	44	Xander Bogaerts	http://www.baseball-reference.com/players/b/bogaexa01.shtml	bogaexa01	23	109	BOS	3.7	0.4	116	0.4	2.0	-1.6	.92	0.1	0.3	1.5	0.1	0.93	1.9		0
+2016	45	Justin Bour*	http://www.baseball-reference.com/players/b/bourju01.shtml	bourju01	28	84	MIA	1.2	0.1	84	-0.2	1.3	-1.5	1.03	-0.1	-0.1	-0.9	-0.1	1.05	-0.2	0.44	1
+2016	46	Peter Bourjos	http://www.baseball-reference.com/players/b/bourjpe01.shtml	bourjpe01	29	74	PHI	-8.0	-0.8	75	0.2	1.6	-1.4	1.02	-0.3	0.5	-4.0	-0.4	0.84	-4.7		0
+2016	47	Archie Bradley	http://www.baseball-reference.com/players/b/bradlar01.shtml	bradlar01	23	2	ARI	-0.3	-0.0	2	-0.0	0.0	-0.0	1.36	-0.0	0.0	-0.4	-0.0	1.09	-0.4		0
+2016	48	Jackie Bradley*	http://www.baseball-reference.com/players/b/bradlja02.shtml	bradlja02	26	93	BOS	2.1	0.2	97	0.6	1.9	-1.3	.97	0.2	0.4	4.9	0.5	0.93	3.3		0
+2016	49	Michael Brantley*	http://www.baseball-reference.com/players/b/brantmi02.shtml	brantmi02	29	19	CLE	-2.4	-0.2	20	-0.4	0.2	-0.6	1.37	-0.2	-0.1	-2.1	-0.2	0.87	-2.3	3.89	1
+2016	50	Ryan Braun	http://www.baseball-reference.com/players/b/braunry02.shtml	braunry02	32	93	MIL	7.4	0.7	96	1.2	2.4	-1.1	.90	0.8	0.6	10.8	1.0	0.92	8.5	2.24	1
+2016	51	Socrates Brito*	http://www.baseball-reference.com/players/b/britoso01.shtml	britoso01	23	31	ARI	-2.4	-0.2	32	-0.5	0.4	-0.9	1.22	-0.2	-0.2	-3.2	-0.3	0.95	-2.0	0.67	1
+2016	52	Mike Broadway	http://www.baseball-reference.com/players/b/broadmi01.shtml	broadmi01	29	1	SFG	0.0	0.0	1	-0.0	0.0	-0.0	.05	-0.0	0.0	-0.3	-0.0	1.79	-0.2		0
+2016	53	Trevor Brown	http://www.baseball-reference.com/players/b/browntr01.shtml	browntr01	24	34	SFG	2.1	0.2	34	0.1	0.9	-0.8	1.19	0.4	-0.2	3.5	0.3	0.96	3.8		0
+2016	54	Keon Broxton	http://www.baseball-reference.com/players/b/broxtke01.shtml	broxtke01	26	18	MIL	-4.0	-0.4	20	-0.1	0.1	-0.2	.56	-0.2	-0.0	-2.8	-0.3	0.81	-2.9		0
+2016	55	Jay Bruce*	http://www.baseball-reference.com/players/b/bruceja01.shtml	bruceja01	29	87	CIN	1.1	0.1	89	1.1	2.3	-1.1	1.00	0.3	0.9	6.5	0.6	0.97	1.1		0
+2016	56	Kris Bryant	http://www.baseball-reference.com/players/b/bryankr01.shtml	bryankr01	24	99	CHC	3.9	0.4	101	0.2	1.5	-1.3	.81	0.3	-0.1	7.1	0.7	0.99	5.5		0
+2016	57	Madison Bumgarner	http://www.baseball-reference.com/players/b/bumgama01.shtml	bumgama01	26	15	SFG	-1.2	-0.1	16	0.0	0.3	-0.3	.95	0.1	-0.1	-0.7	-0.1	0.95	0.5		0
+2016	58	Billy Burns#	http://www.baseball-reference.com/players/b/burnsbi02.shtml	burnsbi02	26	89	OAK	-1.8	-0.2	99	0.0	1.5	-1.5	.98	-0.1	0.2	-2.2	-0.2	0.93	-1.9	2.20	1
+2016	59	Emmanuel Burriss#	http://www.baseball-reference.com/players/b/burriem01.shtml	burriem01	31	23	PHI	-3.5	-0.3	24	-0.6	0.1	-0.7	.97	-0.3	-0.3	-3.4	-0.3	0.78	-3.8	1.33	11
+2016	60	Matt Buschmann	http://www.baseball-reference.com/players/b/buschma01.shtml	buschma01	32	1	ARI	-0.3	-0.0	1	-0.0	0.0	-0.0	.97	-0.0	0.0	-0.2	-0.0	0.86	-0.3		0
+2016	61	Drew Butera	http://www.baseball-reference.com/players/b/buterdr01.shtml	buterdr01	32	8	KCR	1.4	0.1	8	0.1	0.2	-0.1	.70	0.1	0.0	1.3	0.1	0.92	1.4		0
+2016	62	Billy Butler	http://www.baseball-reference.com/players/b/butlebi03.shtml	butlebi03	30	33	OAK	-1.4	-0.1	33	-0.4	0.3	-0.6	.87	-0.3	-0.2	-2.5	-0.3	0.89	-2.6	0.28	5
+2016	63	Eddie Butler	http://www.baseball-reference.com/players/b/butleed01.shtml	butleed01	25	1	COL	-0.0	0.0	1	-0.0	0.0	-0.0	2.20	-0.0	0.0	-0.3	-0.0	1.67	-0.2		0
+2016	64	Byron Buxton	http://www.baseball-reference.com/players/b/buxtoby01.shtml	buxtoby01	22	49	MIN	-3.9	-0.4	52	-0.9	0.5	-1.4	1.24	-0.3	-0.4	-5.4	-0.5	0.95	-3.6		0
+2016	65	Marlon Byrd	http://www.baseball-reference.com/players/b/byrdma01.shtml	byrdma01	38	62	CLE	0.9	0.1	62	0.3	1.1	-0.9	.89	0.1	0.3	0.7	0.1	0.88	0.3	1.30	3
+2016	66	Asdrubal Cabrera#	http://www.baseball-reference.com/players/c/cabreas01.shtml	cabreas01	30	89	NYM	0.8	0.1	91	-0.1	1.2	-1.4	.91	0.1	-0.3	0.8	0.1	0.95	1.0	2.56	1
+2016	67	Melky Cabrera#	http://www.baseball-reference.com/players/c/cabreme01.shtml	cabreme01	31	107	CHW	3.9	0.4	110	0.7	2.2	-1.5	.95	0.3	0.5	3.6	0.4	0.99	3.9		0
+2016	68	Miguel Cabrera	http://www.baseball-reference.com/players/c/cabremi01.shtml	cabremi01	33	103	DET	2.6	0.3	103	-0.3	1.2	-1.5	.79	0.2	-0.5	0.8	0.1	0.92	1.6	3.80	1
+2016	69	Lorenzo Cain	http://www.baseball-reference.com/players/c/cainlo01.shtml	cainlo01	30	96	KCR	-3.8	-0.4	103	-0.2	1.3	-1.6	.85	-0.3	0.0	-2.2	-0.2	0.92	-2.6		0
+2016	70	Matt Cain	http://www.baseball-reference.com/players/c/cainma01.shtml	cainma01	31	9	SFG	-2.6	-0.2	9	-0.2	0.0	-0.2	.95	-0.2	-0.0	-2.1	-0.2	0.80	-2.5		0
+2016	71	Kole Calhoun*	http://www.baseball-reference.com/players/c/calhoko01.shtml	calhoko01	28	100	LAA	3.5	0.4	103	0.6	2.0	-1.5	.95	0.5	0.1	6.1	0.6	0.91	5.5		0
+2016	72	Eric Campbell	http://www.baseball-reference.com/players/c/campber01.shtml	campber01	29	13	NYM	-0.9	-0.1	13	-0.0	0.1	-0.1	.38	-0.1	0.1	-1.2	-0.1	0.83	-1.1	0.37	6
+2016	73	Mark Canha	http://www.baseball-reference.com/players/c/canhama01.shtml	canhama01	27	35	OAK	-2.2	-0.2	36	0.1	0.8	-0.7	.94	-0.0	0.1	-2.7	-0.3	0.94	-0.6	1.86	4
+2016	74	Robinson Cano*	http://www.baseball-reference.com/players/c/canoro01.shtml	canoro01	33	107	SEA	4.1	0.4	107	0.8	2.7	-1.9	1.07	1.0	-0.3	9.6	1.0	1.04	10.2		0
+2016	75	Matt Carpenter*	http://www.baseball-reference.com/players/c/carpema01.shtml	carpema01	30	113	STL	2.3	0.2	115	-0.0	2.0	-2.0	1.00	0.2	-0.2	3.7	0.4	0.99	3.3	3.74	1
+2016	76	Ezequiel Carrera*	http://www.baseball-reference.com/players/c/carreez01.shtml	carreez01	29	36	TOR	1.6	0.2	40	0.1	0.6	-0.5	.74	0.1	0.0	2.7	0.3	0.85	1.8	0.01	1
+2016	77	Chris Carter	http://www.baseball-reference.com/players/c/cartech02.shtml	cartech02	29	93	MIL	7.7	0.7	94	0.4	2.0	-1.6	.99	1.0	-0.6	5.1	0.5	1.06	8.6		0
+2016	78	Curt Casali	http://www.baseball-reference.com/players/c/casalcu01.shtml	casalcu01	27	51	TBR	-5.0	-0.5	51	-0.4	0.7	-1.1	1.05	-0.4	-0.0	-2.6	-0.3	0.95	-3.5		0
+2016	79	Andrew Cashner	http://www.baseball-reference.com/players/c/cashnan01.shtml	cashnan01	29	8	SDP	-0.9	-0.1	8	-0.1	0.0	-0.1	1.00	-0.1	0.0	-0.9	-0.1	1.00	-1.0		0
+2016	80	Nick Castellanos	http://www.baseball-reference.com/players/c/casteni01.shtml	casteni01	24	89	DET	7.4	0.7	91	0.7	1.9	-1.2	.83	0.7	0.1	6.8	0.7	0.98	7.7	0.17	1
+2016	81	Rusney Castillo	http://www.baseball-reference.com/players/c/castiru02.shtml	castiru02	28	4	BOS	0.8	0.1	5	0.2	0.2	-0.0	1.14	0.1	0.1	1.2	0.1	1.13	0.9		0
+2016	82	Welington Castillo	http://www.baseball-reference.com/players/c/castiwe01.shtml	castiwe01	29	86	ARI	2.6	0.2	87	-0.3	1.7	-2.0	1.25	0.2	-0.4	-0.5	-0.0	0.94	1.8	1.70	1
+2016	83	Daniel Castro	http://www.baseball-reference.com/players/c/castrda01.shtml	castrda01	23	60	ATL	-4.9	-0.5	62	-0.9	0.5	-1.4	1.11	-0.5	-0.3	-5.6	-0.6	0.88	-5.7	0.18	1
+2016	84	Jason Castro*	http://www.baseball-reference.com/players/c/castrja01.shtml	castrja01	29	63	HOU	-3.3	-0.3	64	-0.3	0.7	-1.0	.85	-0.4	-0.0	-4.2	-0.4	0.84	-3.8		0
+2016	85	Starlin Castro	http://www.baseball-reference.com/players/c/castrst01.shtml	castrst01	26	91	NYY	4.1	0.4	95	0.3	2.1	-1.7	1.15	0.4	-0.1	5.4	0.5	0.98	5.6		0
+2016	86	Francisco Cervelli	http://www.baseball-reference.com/players/c/cervefr01.shtml	cervefr01	30	96	PIT	4.0	0.4	101	-0.2	1.5	-1.7	.98	0.3	-0.5	3.9	0.4	1.00	2.9	2.35	1
+2016	87	Yoenis Cespedes	http://www.baseball-reference.com/players/c/cespeyo01.shtml	cespeyo01	30	80	NYM	6.9	0.6	82	0.2	1.7	-1.5	.94	0.7	-0.5	8.7	0.8	1.00	7.1	2.51	1
+2016	88	Jhoulys Chacin	http://www.baseball-reference.com/players/c/chacijh01.shtml	chacijh01	28	7	ATL	-1.2	-0.1	7	-0.1	0.0	-0.2	1.03	-0.1	-0.0	-0.8	-0.1	1.16	-0.9		0
+2016	89	Tyler Chatwood	http://www.baseball-reference.com/players/c/chatwty01.shtml	chatwty01	26	10	COL	-2.3	-0.2	10	-0.2	0.0	-0.2	.90	-0.2	0.0	-1.8	-0.2	0.82	-2.3		0
+2016	90	Wei-Yin Chen*	http://www.baseball-reference.com/players/c/chenwe02.shtml	chenwe02	30	13	MIA	-3.2	-0.3	13	-0.2	0.0	-0.3	.85	-0.2	-0.0	-2.4	-0.2	1.01	-2.7		0
+2016	91	Robinson Chirinos	http://www.baseball-reference.com/players/c/chiriro01.shtml	chiriro01	32	16	TEX	0.9	0.1	16	0.1	0.4	-0.2	.94	0.1	0.0	1.0	0.1	0.89	0.7		0
+2016	92	Lonnie Chisenhall*	http://www.baseball-reference.com/players/c/chiselo01.shtml	chiselo01	27	25	CLE	-2.2	-0.2	26	-0.0	0.4	-0.4	.95	-0.1	0.1	-0.9	-0.1	0.80	-1.3		0
+2016	93	Ji-Man Choi#	http://www.baseball-reference.com/players/c/choiji01.shtml	choiji01	25	17	LAA	-0.7	-0.1	18	-0.2	0.1	-0.3	.83	-0.1	-0.2	-1.9	-0.2	0.86	-1.4	2.17	1
+2016	94	Shin-Soo Choo*	http://www.baseball-reference.com/players/c/choosh01.shtml	choosh01	33	22	TEX	-0.2	-0.0	23	0.3	0.6	-0.2	1.13	0.1	0.2	1.6	0.2	1.07	1.2		0
+2016	95	Tony Cingrani*	http://www.baseball-reference.com/players/c/cingrto01.shtml	cingrto01	26	1	CIN	0.3	0.0	1	0.0	0.0	0.0	.01	0.0	-0.0	0.4	0.0	0.86	0.4		0
+2016	96	Steve Clevenger*	http://www.baseball-reference.com/players/c/clevest01.shtml	clevest01	30	24	SEA	-1.2	-0.1	24	-0.1	0.4	-0.5	1.15	-0.1	0.0	-1.0	-0.1	1.00	-0.9	0.42	1
+2016	97	Chris Coghlan*	http://www.baseball-reference.com/players/c/coghlch01.shtml	coghlch01	31	81	OAK	-4.5	-0.4	85	-0.1	1.5	-1.6	.99	-0.2	0.1	-0.4	-0.0	0.86	-1.3	4.43	2
+2016	98	Chris Colabello	http://www.baseball-reference.com/players/c/colabch01.shtml	colabch01	32	32	TOR	-5.2	-0.5	32	-0.4	0.3	-0.7	.98	-0.5	0.1	-4.8	-0.5	0.99	-4.9	0.25	2
+2016	99	Gerrit Cole	http://www.baseball-reference.com/players/c/colege01.shtml	colege01	25	11	PIT	-1.8	-0.2	11	-0.2	0.1	-0.2	.87	-0.2	0.0	-2.6	-0.3	1.14	-2.2		0
+2016	100	Tyler Collins*	http://www.baseball-reference.com/players/c/collity01.shtml	collity01	26	20	DET	-3.4	-0.4	20	-0.2	0.1	-0.3	.66	-0.3	0.0	-1.5	-0.1	0.81	-3.2	0.61	2
+2016	101	Bartolo Colon	http://www.baseball-reference.com/players/c/colonba01.shtml	colonba01	43	6	NYM	-1.7	-0.2	6	-0.2	0.0	-0.2	1.09	-0.2	-0.0	-1.9	-0.2	0.92	-1.9		0
+2016	102	Christian Colon	http://www.baseball-reference.com/players/c/colonch01.shtml	colonch01	27	15	KCR	-0.2	-0.0	15	-0.1	0.2	-0.4	1.15	-0.0	-0.1	-1.3	-0.1	0.99	-0.4		0
+2016	103	Michael Conforto*	http://www.baseball-reference.com/players/c/confomi01.shtml	confomi01	23	91	NYM	9.8	0.9	93	0.7	2.2	-1.5	.95	1.1	-0.4	9.8	0.9	1.00	11.3		0
+2016	104	Hank Conger#	http://www.baseball-reference.com/players/c/congeha01.shtml	congeha01	28	30	TBR	-3.6	-0.4	30	-0.7	0.1	-0.8	1.17	-0.5	-0.1	-4.7	-0.5	0.92	-4.6	3.58	3
+2016	105	Adam Conley*	http://www.baseball-reference.com/players/c/conlead01.shtml	conlead01	26	11	MIA	-2.9	-0.3	11	-0.3	0.0	-0.3	.89	-0.3	-0.0	-2.8	-0.3	0.91	-3.0		0
+2016	106	Patrick Corbin*	http://www.baseball-reference.com/players/c/corbipa01.shtml	corbipa01	26	12	ARI	-0.1	-0.0	12	-0.1	0.2	-0.3	1.12	-0.0	-0.1	-0.6	-0.1	0.89	-0.4	2.69	1
+2016	107	Carlos Correa	http://www.baseball-reference.com/players/c/correca01.shtml	correca01	21	103	HOU	4.0	0.4	110	0.2	1.9	-1.7	.99	0.6	-0.4	-0.1	-0.0	0.92	4.0		0
+2016	108	Jarred Cosart	http://www.baseball-reference.com/players/c/cosarja01.shtml	cosarja01	26	6	MIA	-0.7	-0.1	6	-0.1	0.0	-0.1	.51	-0.1	-0.0	-1.1	-0.1	0.81	-1.0		0
+2016	109	Collin Cowgill	http://www.baseball-reference.com/players/c/cowgico01.shtml	cowgico01	30	14	CLE	-1.9	-0.2	14	-0.4	0.1	-0.4	.94	-0.2	-0.2	-3.5	-0.3	1.01	-2.5		0
+2016	110	Zack Cozart	http://www.baseball-reference.com/players/c/cozarza01.shtml	cozarza01	30	80	CIN	3.6	0.4	81	0.6	1.9	-1.3	1.05	0.4	0.2	1.3	0.1	0.92	3.2		0
+2016	111	Brandon Crawford*	http://www.baseball-reference.com/players/c/crawfbr01.shtml	crawfbr01	29	97	SFG	0.0	0.0	98	-0.4	1.4	-1.8	1.06	-0.4	-0.0	-5.9	-0.6	0.96	-4.5		0
+2016	112	Carl Crawford*	http://www.baseball-reference.com/players/c/crawfca02.shtml	crawfca02	34	27	LAD	-1.7	-0.2	27	-0.2	0.2	-0.5	.87	-0.2	-0.1	-2.6	-0.3	1.02	-2.0	1.63	1
+2016	113	Coco Crisp#	http://www.baseball-reference.com/players/c/crispco01.shtml	crispco01	36	78	OAK	0.2	0.0	84	0.1	1.7	-1.6	1.09	0.4	-0.3	2.2	0.2	0.92	3.9	0.75	2
+2016	114	C.J. Cron	http://www.baseball-reference.com/players/c/croncj01.shtml	croncj01	26	83	LAA	-1.7	-0.2	86	-0.1	1.1	-1.2	.89	-0.5	0.4	-0.1	-0.0	0.91	-4.2		0
+2016	115	Nelson Cruz	http://www.baseball-reference.com/players/c/cruzne02.shtml	cruzne02	35	105	SEA	5.7	0.6	107	0.2	2.0	-1.8	1.05	0.8	-0.7	6.0	0.6	0.99	7.7		0
+2016	116	Johnny Cueto	http://www.baseball-reference.com/players/c/cuetojo01.shtml	cuetojo01	30	15	SFG	-2.6	-0.3	15	-0.3	0.1	-0.4	1.08	-0.3	-0.0	-3.5	-0.4	1.01	-3.0		0
+2016	117	Charlie Culberson	http://www.baseball-reference.com/players/c/culbech01.shtml	culbech01	27	21	LAD	-1.4	-0.1	22	-0.1	0.6	-0.7	1.46	-0.1	0.0	-0.8	-0.1	1.10	-1.4	1.72	4
+2016	118	Travis d'Arnaud	http://www.baseball-reference.com/players/d/darnatr01.shtml	darnatr01	27	52	NYM	-3.0	-0.3	52	-0.3	0.5	-0.8	.83	-0.3	0.0	-3.4	-0.3	0.93	-3.8		0
+2016	119	Zach Davies	http://www.baseball-reference.com/players/d/davieza02.shtml	davieza02	23	4	MIL	-1.2	-0.1	4	-0.1	0.0	-0.1	.53	-0.1	0.0	-0.5	-0.1	0.50	-1.1		0
+2016	120	Chris Davis*	http://www.baseball-reference.com/players/d/davisch02.shtml	davisch02	30	105	BAL	4.1	0.4	106	1.2	2.8	-1.6	.98	0.5	0.7	8.1	0.8	0.87	5.2		0
+2016	121	Khris Davis	http://www.baseball-reference.com/players/d/daviskh01.shtml	daviskh01	28	95	OAK	-3.2	-0.3	97	-0.4	1.4	-1.8	.99	-0.2	-0.2	-0.4	-0.0	0.94	-1.4	0.06	1
+2016	122	Rajai Davis	http://www.baseball-reference.com/players/d/davisra01.shtml	davisra01	35	69	CLE	0.4	0.0	81	-0.2	1.2	-1.3	1.06	0.0	-0.2	1.1	0.1	0.97	1.3	3.93	2
+2016	123	Alejandro De Aza*	http://www.baseball-reference.com/players/d/deazaal01.shtml	deazaal01	32	32	NYM	-1.3	-0.1	34	-0.2	0.3	-0.6	.92	-0.2	-0.1	-2.7	-0.3	0.93	-2.0	1.30	6
+2016	124	Ivan De Jesus	http://www.baseball-reference.com/players/d/dejesiv02.shtml	dejesiv02	29	36	CIN	-3.6	-0.4	40	-0.0	0.5	-0.6	.86	-0.1	0.1	-0.7	-0.1	0.91	-1.5		0
+2016	125	Jorge De La Rosa*	http://www.baseball-reference.com/players/r/rosajo01.shtml	rosajo01	35	8	COL	-0.2	-0.0	8	0.1	0.2	-0.1	1.01	0.0	0.1	0.1	0.0	1.08	0.1		0
+2016	126	Rubby De La Rosa	http://www.baseball-reference.com/players/d/delarru01.shtml	delarru01	27	7	ARI	-2.1	-0.2	7	-0.2	0.0	-0.2	.98	-0.2	-0.0	-2.5	-0.2	0.93	-2.4		0
+2016	127	Jacob deGrom*	http://www.baseball-reference.com/players/d/degroja01.shtml	degroja01	28	6	NYM	-1.1	-0.1	6	-0.1	0.0	-0.1	1.21	-0.1	0.0	-0.9	-0.1	1.17	-1.0		0
+2016	128	Matt den Dekker*	http://www.baseball-reference.com/players/d/dendema01.shtml	dendema01	28	33	WSN	-1.9	-0.2	34	-0.0	0.7	-0.8	1.28	-0.1	0.1	-0.5	-0.0	0.88	-1.2	1.08	8
+2016	129	Delino DeShields	http://www.baseball-reference.com/players/d/deshide02.shtml	deshide02	23	92	TEX	-3.2	-0.3	104	0.2	1.6	-1.3	.85	-0.3	0.6	-0.0	-0.0	0.99	-3.2		0
+2016	130	Ian Desmond	http://www.baseball-reference.com/players/d/desmoia01.shtml	desmoia01	30	98	TEX	-0.4	-0.0	108	0.6	2.1	-1.6	1.05	0.1	0.4	0.9	0.1	1.01	2.7		0
+2016	131	Aledmys Diaz	http://www.baseball-reference.com/players/d/diazal02.shtml	diazal02	25	78	STL	9.9	0.9	80	0.8	1.8	-1.0	.89	1.1	-0.2	12.4	1.2	0.98	10.3	1.70	2
+2016	132	Corey Dickerson*	http://www.baseball-reference.com/players/d/dickeco01.shtml	dickeco01	27	81	TBR	0.9	0.1	84	-0.6	1.0	-1.6	.95	-0.1	-0.6	-2.5	-0.3	0.92	1.8	1.88	2
+2016	133	Derek Dietrich*	http://www.baseball-reference.com/players/d/dietrde01.shtml	dietrde01	26	47	MIA	4.8	0.5	47	0.3	1.1	-0.7	1.00	0.5	-0.1	5.0	0.5	0.98	5.7	2.04	7
+2016	134	Matt Dominguez	http://www.baseball-reference.com/players/d/dominma01.shtml	dominma01	26	8	TOR	-1.5	-0.2	8	-0.2	0.0	-0.2	1.09	-0.2	-0.0	-1.5	-0.2	0.76	-1.6	4.34	1
+2016	135	Josh Donaldson	http://www.baseball-reference.com/players/d/donaljo02.shtml	donaljo02	30	115	TOR	12.4	1.2	118	1.5	3.1	-1.5	.97	1.4	0.2	13.8	1.4	0.94	14.2		0
+2016	136	Brian Dozier	http://www.baseball-reference.com/players/d/doziebr01.shtml	doziebr01	29	111	MIN	-4.4	-0.4	114	-0.5	2.1	-2.6	1.29	-0.3	-0.0	-4.0	-0.4	0.94	-3.0		0
+2016	137	Stephen Drew*	http://www.baseball-reference.com/players/d/drewst01.shtml	drewst01	33	25	WSN	-3.5	-0.3	26	-0.6	0.2	-0.8	1.30	-0.4	-0.1	-3.9	-0.4	0.86	-3.8	1.54	5
+2016	138	Brandon Drury	http://www.baseball-reference.com/players/d/drurybr01.shtml	drurybr01	23	76	ARI	4.0	0.4	79	0.1	1.8	-1.7	1.09	0.4	-0.4	1.3	0.1	0.86	3.8	0.49	5
+2016	139	Lucas Duda*	http://www.baseball-reference.com/players/d/dudalu01.shtml	dudalu01	30	86	NYM	-0.6	-0.1	87	0.3	1.5	-1.2	.86	0.3	0.1	2.6	0.3	0.96	2.9	0.81	1
+2016	140	Tyler Duffey	http://www.baseball-reference.com/players/d/duffety01.shtml	duffety01	25	2	MIN	-0.3	-0.0	2	-0.0	0.0	-0.0	1.01	-0.0	0.0	-0.3	-0.0	0.76	-0.4		0
+2016	141	Matt Duffy	http://www.baseball-reference.com/players/d/duffyma01.shtml	duffyma01	25	107	SFG	-2.1	-0.2	109	-0.6	1.4	-2.0	.98	-0.3	-0.3	-5.9	-0.6	0.92	-3.9		0
+2016	142	Matt Duffy	http://www.baseball-reference.com/players/d/duffyma02.shtml	duffyma02	27	3	HOU	-0.8	-0.1	3	-0.0	0.0	-0.0	.59	-0.0	-0.0	-0.7	-0.1	0.98	-0.7	0.88	2
+2016	143	Adam Duvall	http://www.baseball-reference.com/players/d/duvalad01.shtml	duvalad01	27	71	CIN	-2.1	-0.2	72	-0.5	1.0	-1.5	1.03	-0.3	-0.1	-1.2	-0.1	0.91	-3.7	2.48	1
+2016	144	Jarrod Dyson*	http://www.baseball-reference.com/players/d/dysonja01.shtml	dysonja01	31	41	KCR	-0.2	-0.0	49	-0.2	0.7	-0.9	1.09	-0.2	-0.0	-2.5	-0.3	1.07	-1.5		0
+2016	145	Adam Eaton*	http://www.baseball-reference.com/players/e/eatonad02.shtml	eatonad02	27	113	CHW	2.1	0.2	118	0.1	1.6	-1.5	.83	-0.0	0.1	2.1	0.2	0.92	0.4		0
+2016	146	Cody Ege*	http://www.baseball-reference.com/players/e/egeco01.shtml	egeco01	25	1	MIA	0.5	0.0	1	0.0	0.0	0.0	.04	0.0	0.0	0.1	0.0	0.38	0.3		0
+2016	147	Jerad Eickhoff	http://www.baseball-reference.com/players/e/eickhje01.shtml	eickhje01	25	10	PHI	-0.2	-0.0	10	0.1	0.2	-0.2	1.00	-0.0	0.1	0.7	0.1	0.90	-0.1		0
+2016	148	A.J. Ellis	http://www.baseball-reference.com/players/e/ellisaj01.shtml	ellisaj01	35	45	LAD	-0.2	-0.0	45	0.1	0.8	-0.7	.99	0.1	0.0	2.8	0.3	0.95	1.9	1.79	1
+2016	149	Jacoby Ellsbury*	http://www.baseball-reference.com/players/e/ellsbja01.shtml	ellsbja01	32	98	NYY	-1.5	-0.2	109	0.1	1.8	-1.7	1.03	-0.1	0.2	0.0	0.0	0.99	-1.4		0
+2016	150	Edwin Encarnacion	http://www.baseball-reference.com/players/e/encared01.shtml	encared01	33	108	TOR	-1.8	-0.2	109	-0.7	1.9	-2.6	1.15	-0.0	-0.6	-3.3	-0.3	1.04	-0.8		0
+2016	151	Robbie Erlin	http://www.baseball-reference.com/players/e/erlinro01.shtml	erlinro01	25	6	SDP	-1.7	-0.2	6	-0.1	0.0	-0.1	.80	-0.2	-0.0	-1.2	-0.1	0.71	-1.7		0
+2016	152	Alcides Escobar	http://www.baseball-reference.com/players/e/escobal02.shtml	escobal02	29	110	KCR	-6.5	-0.7	116	-0.7	1.1	-1.8	.92	-0.5	-0.2	-4.5	-0.4	0.93	-4.9		0
+2016	153	Eduardo Escobar#	http://www.baseball-reference.com/players/e/escobed01.shtml	escobed01	27	91	MIN	-3.4	-0.3	95	-0.3	1.4	-1.8	1.11	-0.5	0.2	-3.8	-0.4	0.92	-4.6		0
+2016	154	Yunel Escobar	http://www.baseball-reference.com/players/e/escobyu01.shtml	escobyu01	33	111	LAA	4.8	0.5	112	0.2	1.9	-1.7	.90	0.2	0.0	-1.8	-0.2	0.89	2.7		0
+2016	155	Danny Espinosa#	http://www.baseball-reference.com/players/e/espinda01.shtml	espinda01	29	84	WSN	-3.8	-0.4	87	0.0	1.2	-1.2	.95	-0.1	0.2	-0.9	-0.1	0.88	-1.9		0
+2016	156	Tim Federowicz	http://www.baseball-reference.com/players/f/federti01.shtml	federti01	28	5	CHC	-1.4	-0.1	5	-0.1	0.0	-0.1	1.07	-0.1	0.0	-1.1	-0.1	0.87	-1.3	0.01	1
+2016	157	Scott Feldman*	http://www.baseball-reference.com/players/f/feldmsc01.shtml	feldmsc01	33	1	HOU	-0.3	-0.0	1	-0.0	0.0	-0.0	.67	-0.0	0.0	-0.2	-0.0	0.86	-0.3		0
+2016	158	Jose Fernandez	http://www.baseball-reference.com/players/f/fernajo02.shtml	fernajo02	23	10	MIA	0.3	0.0	10	0.0	0.1	-0.1	.83	0.0	-0.0	0.2	0.0	0.83	0.5		0
+2016	159	Prince Fielder*	http://www.baseball-reference.com/players/f/fieldpr01.shtml	fieldpr01	32	103	TEX	-5.6	-0.6	103	0.3	1.8	-1.5	1.00	-0.3	0.6	-1.6	-0.2	1.02	-3.7		1
+2016	160	Cole Figueroa*	http://www.baseball-reference.com/players/f/figueco01.shtml	figueco01	29	9	PIT	-2.6	-0.2	9	-0.1	0.0	-0.1	.63	-0.2	-0.0	-3.6	-0.4	1.41	-2.5	0.80	7
+2016	161	Brandon Finnegan*	http://www.baseball-reference.com/players/f/finnebr01.shtml	finnebr01	23	12	CIN	-0.1	0.0	12	0.0	0.2	-0.2	.79	-0.1	0.1	-0.5	-0.0	0.82	-0.5	1.31	1
+2016	162	Doug Fister*	http://www.baseball-reference.com/players/f/fistedo01.shtml	fistedo01	32	2	HOU	-0.3	-0.0	2	-0.1	0.0	-0.1	1.15	-0.0	-0.0	-0.8	-0.1	1.43	-0.5		0
+2016	163	Ryan Flaherty*	http://www.baseball-reference.com/players/f/flahery01.shtml	flahery01	29	11	BAL	-0.9	-0.1	12	-0.2	0.0	-0.2	.94	-0.1	-0.1	-1.2	-0.1	0.88	-1.7	2.28	1
+2016	164	Ramon Flores*	http://www.baseball-reference.com/players/f/florera02.shtml	florera02	24	52	MIL	-6.9	-0.7	53	-0.5	0.4	-0.9	.84	-0.6	-0.1	-4.2	-0.4	0.90	-5.0	0.38	7
+2016	165	Wilmer Flores	http://www.baseball-reference.com/players/f/florewi01.shtml	florewi01	24	35	NYM	-4.1	-0.4	37	-0.4	0.3	-0.7	.93	-0.2	-0.2	-3.8	-0.4	0.95	-2.7	1.13	5
+2016	166	Tyler Flowers	http://www.baseball-reference.com/players/f/flowety01.shtml	flowety01	30	41	ATL	-1.7	-0.2	41	-0.2	0.5	-0.8	1.12	-0.1	-0.1	0.2	0.0	1.00	-1.4		0
+2016	167	Logan Forsythe	http://www.baseball-reference.com/players/f/forsylo01.shtml	forsylo01	29	98	TBR	10.2	1.0	104	1.5	2.8	-1.4	.98	1.1	0.4	8.9	0.9	0.85	11.9		0
+2016	168	Dexter Fowler#	http://www.baseball-reference.com/players/f/fowlede01.shtml	fowlede01	30	100	CHC	11.7	1.1	104	0.9	2.1	-1.2	.88	1.2	-0.2	15.6	1.5	1.02	14.3	0.43	0
+2016	169	Maikel Franco	http://www.baseball-reference.com/players/f/francma02.shtml	francma02	23	100	PHI	-0.6	-0.1	101	0.1	2.0	-1.8	1.04	0.1	0.1	-0.7	-0.1	0.92	1.5		0
+2016	170	Jeff Francoeur	http://www.baseball-reference.com/players/f/francje02.shtml	francje02	32	50	ATL	-2.6	-0.2	54	-0.7	0.7	-1.4	1.30	-0.2	-0.3	-1.6	-0.2	1.01	-1.4	2.07	6
+2016	171	Todd Frazier	http://www.baseball-reference.com/players/f/frazito01.shtml	frazito01	30	112	CHW	1.7	0.2	117	0.9	2.5	-1.7	.94	0.1	0.9	2.3	0.2	0.98	3.1		0
+2016	172	Freddie Freeman*	http://www.baseball-reference.com/players/f/freemfr01.shtml	freemfr01	26	99	ATL	1.0	0.1	102	-0.2	1.5	-1.7	1.12	0.1	-0.3	0.6	0.1	0.89	0.4		0
+2016	173	David Freese	http://www.baseball-reference.com/players/f/freesda01.shtml	freesda01	33	107	PIT	2.1	0.2	109	0.1	1.9	-1.8	.97	0.1	-0.1	-2.8	-0.3	0.97	0.7	2.60	1
+2016	174	Eric Fryer	http://www.baseball-reference.com/players/f/fryerer01.shtml	fryerer01	30	12	STL	3.2	0.3	13	0.5	0.6	-0.0	.90	0.3	0.3	4.0	0.4	0.92	3.8	0.15	2
+2016	175	Reymond Fuentes*	http://www.baseball-reference.com/players/f/fuentre01.shtml	fuentre01	25	22	KCR	-1.6	-0.2	23	0.1	0.4	-0.4	.94	0.0	0.1	1.3	0.1	0.88	0.2		0
+2016	176	Freddy Galvis#	http://www.baseball-reference.com/players/g/galvifr01.shtml	galvifr01	26	96	PHI	-3.2	-0.3	102	0.4	2.3	-1.9	1.04	-0.2	0.6	-2.8	-0.3	0.91	-2.9		0
+2016	177	Adonis Garcia	http://www.baseball-reference.com/players/g/garciad01.shtml	garciad01	31	97	ATL	-2.4	-0.2	98	0.2	1.9	-1.7	1.07	-0.3	0.5	-1.8	-0.2	0.93	-3.9	1.15	1
+2016	178	Avisail Garcia	http://www.baseball-reference.com/players/g/garciav01.shtml	garciav01	25	79	CHW	-0.2	-0.0	81	-0.2	1.2	-1.4	1.00	0.1	-0.3	0.8	0.1	0.98	1.4		0
+2016	179	Greg Garcia*	http://www.baseball-reference.com/players/g/garcigr01.shtml	garcigr01	26	15	STL	4.6	0.4	17	0.3	0.4	-0.1	.80	0.4	-0.1	3.8	0.4	0.84	5.0	0.48	1
+2016	180	Jaime Garcia*	http://www.baseball-reference.com/players/g/garcija02.shtml	garcija02	29	11	STL	0.2	0.0	11	0.0	0.1	-0.1	.96	-0.1	0.1	-0.1	-0.0	1.03	-0.5		0
+2016	181	Brett Gardner*	http://www.baseball-reference.com/players/g/gardnbr01.shtml	gardnbr01	32	89	NYY	1.0	0.1	96	0.4	1.8	-1.4	.99	0.3	0.1	0.9	0.1	0.95	1.8	1.26	1
+2016	182	Dustin Garneau	http://www.baseball-reference.com/players/g/garnedu01.shtml	garnedu01	28	12	COL	1.7	0.2	14	0.2	0.4	-0.2	1.43	0.1	0.0	1.2	0.1	0.90	1.4		0
+2016	183	Evan Gattis	http://www.baseball-reference.com/players/g/gattiev01.shtml	gattiev01	29	53	HOU	-0.8	-0.1	53	-0.6	0.8	-1.4	1.32	-0.3	-0.2	-3.8	-0.4	1.12	-3.1	0.28	3
+2016	184	Scooter Gennett*	http://www.baseball-reference.com/players/g/gennesc01.shtml	gennesc01	26	72	MIL	2.7	0.3	75	0.5	1.5	-1.0	.91	0.4	0.1	1.4	0.1	0.92	4.5	0.71	1
+2016	185	Craig Gentry	http://www.baseball-reference.com/players/g/gentrcr01.shtml	gentrcr01	32	39	LAA	-3.4	-0.3	40	-0.1	0.5	-0.6	.92	-0.3	0.2	-2.2	-0.2	1.00	-3.2	0.00	1
+2016	186	Johnny Giavotella	http://www.baseball-reference.com/players/g/giavojo01.shtml	giavojo01	28	57	LAA	-5.2	-0.5	58	-0.4	0.6	-0.9	.89	-0.5	0.1	-4.7	-0.5	0.95	-5.5		0
+2016	187	Kyle Gibson	http://www.baseball-reference.com/players/g/gibsoky01.shtml	gibsoky01	28	1	MIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.68	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
+2016	188	Conor Gillaspie*	http://www.baseball-reference.com/players/g/gillaco01.shtml	gillaco01	28	5	SFG	-0.3	-0.0	5	0.0	0.0	-0.0	.06	0.0	0.2	-0.8	-0.1	0.87	-0.5	0.11	3
+2016	189	Tyler Goeddel	http://www.baseball-reference.com/players/g/goeddty01.shtml	goeddty01	23	26	PHI	-4.2	-0.4	27	-0.1	0.3	-0.4	.86	-0.3	0.2	-1.5	-0.1	0.87	-2.9	0.40	3
+2016	190	Ryan Goins*	http://www.baseball-reference.com/players/g/goinsry01.shtml	goinsry01	28	81	TOR	-7.4	-0.8	82	-0.7	0.9	-1.6	1.00	-0.6	-0.1	-5.8	-0.6	0.93	-5.0	0.00	1
+2016	191	Paul Goldschmidt	http://www.baseball-reference.com/players/g/goldspa01.shtml	goldspa01	28	118	ARI	6.2	0.6	123	1.2	3.0	-1.8	1.14	0.9	0.1	5.6	0.5	0.92	8.2		0
+2016	192	Yan Gomes	http://www.baseball-reference.com/players/g/gomesya01.shtml	gomesya01	28	72	CLE	-4.6	-0.5	74	-0.0	1.2	-1.2	.91	-0.2	0.2	-0.0	-0.0	0.90	-2.9		0
+2016	193	Carlos Gomez	http://www.baseball-reference.com/players/g/gomezca01.shtml	gomezca01	30	83	HOU	-5.7	-0.6	89	-1.1	0.9	-2.1	1.13	-0.8	-0.2	-9.5	-1.0	1.00	-8.9	2.16	1
+2016	194	Adrian Gonzalez*	http://www.baseball-reference.com/players/g/gonzaad01.shtml	gonzaad01	34	108	LAD	1.9	0.2	110	0.5	2.2	-1.7	1.08	0.3	0.1	3.3	0.3	0.96	3.5	4.61	1
+2016	195	Carlos Gonzalez*	http://www.baseball-reference.com/players/g/gonzaca01.shtml	gonzaca01	30	103	COL	3.6	0.4	107	0.6	2.0	-1.4	.88	0.5	0.1	7.5	0.6	0.84	6.1		0
+2016	196	Gio Gonzalez	http://www.baseball-reference.com/players/g/gonzagi01.shtml	gonzagi01	30	9	WSN	-1.0	-0.1	9	-0.1	0.0	-0.2	.97	-0.1	-0.0	-1.6	-0.2	1.11	-1.3		0
+2016	197	Marwin Gonzalez#	http://www.baseball-reference.com/players/g/gonzama01.shtml	gonzama01	27	50	HOU	-1.6	-0.2	52	-0.5	0.6	-1.1	1.05	-0.0	-0.4	-4.1	-0.4	0.93	-0.5	0.91	5
+2016	198	Alex Gordon*	http://www.baseball-reference.com/players/g/gordoal01.shtml	gordoal01	32	94	KCR	-1.4	-0.1	97	-0.2	1.2	-1.4	.83	-0.1	-0.1	-2.4	-0.2	0.88	0.1		0
+2016	199	Dee Gordon*	http://www.baseball-reference.com/players/g/gordode01.shtml	gordode01	28	97	MIA	-4.7	-0.5	107	0.2	2.0	-1.8	1.05	-0.3	0.5	-2.5	-0.2	0.89	-3.4		0
+2016	200	Terrance Gore	http://www.baseball-reference.com/players/g/gorete01.shtml	gorete01	25	0	KCR	0.0	0.0	3	0.6	0.6	0.0	3.50	0.2	0.0	1.4	0.1	1.31	0.9		
+2016	201	Anthony Gose*	http://www.baseball-reference.com/players/g/gosean01.shtml	gosean01	25	75	DET	-1.9	-0.2	78	-0.1	0.8	-0.9	.68	-0.1	0.0	-4.2	-0.4	0.98	-2.9		0
+2016	202	Philip Gosselin	http://www.baseball-reference.com/players/g/gosseph01.shtml	gosseph01	27	35	ARI	-1.2	-0.1	36	-0.0	0.7	-0.7	1.35	-0.1	0.1	-1.6	-0.2	0.86	-1.7	1.80	14
+2016	203	Yasmani Grandal#	http://www.baseball-reference.com/players/g/grandya01.shtml	grandya01	27	54	LAD	3.6	0.4	57	0.8	1.7	-0.9	1.11	0.3	0.4	1.4	0.1	0.95	2.6	1.94	2
+2016	204	Curtis Granderson*	http://www.baseball-reference.com/players/g/grandcu01.shtml	grandcu01	35	102	NYM	2.1	0.2	104	0.3	1.6	-1.3	.79	0.1	0.3	0.7	0.1	0.94	1.3	0.24	2
+2016	205	Kendall Graveman	http://www.baseball-reference.com/players/g/graveke01.shtml	graveke01	25	1	OAK	-0.3	-0.0	1	-0.0	0.0	-0.0	1.22	-0.0	0.0	-0.4	-0.0	1.49	-0.3		0
+2016	206	Jon Gray	http://www.baseball-reference.com/players/g/grayjo02.shtml	grayjo02	24	3	COL	-0.9	-0.1	3	-0.1	0.0	-0.1	.95	-0.1	-0.0	-0.9	-0.1	0.85	-1.0		0
+2016	207	Shane Greene	http://www.baseball-reference.com/players/g/greensh02.shtml	greensh02	27	2	DET	-0.5	-0.1	2	-0.0	0.0	-0.0	.50	-0.1	0.0	-0.2	-0.0	0.38	-0.5		0
+2016	208	Didi Gregorius*	http://www.baseball-reference.com/players/g/gregodi01.shtml	gregodi01	26	73	NYY	-3.3	-0.3	75	-0.4	0.8	-1.3	.93	-0.2	-0.2	-4.7	-0.5	0.89	-2.9	2.01	1
+2016	209	Zack Greinke	http://www.baseball-reference.com/players/g/greinza01.shtml	greinza01	32	15	ARI	0.3	0.0	15	0.1	0.4	-0.3	1.41	-0.0	0.1	0.0	0.0	1.06	-0.1	2.69	1
+2016	210	Randal Grichuk	http://www.baseball-reference.com/players/g/grichra01.shtml	grichra01	24	88	STL	-4.6	-0.4	93	-0.6	1.2	-1.8	1.01	-0.1	-0.5	-2.5	-0.2	0.97	-1.1	0.73	3
+2016	211	Franklin Gutierrez	http://www.baseball-reference.com/players/g/gutiefr01.shtml	gutiefr01	33	37	SEA	-0.4	-0.1	38	0.0	0.6	-0.6	1.00	-0.0	0.0	0.4	0.0	0.83	-0.4	1.31	6
+2016	212	Brandon Guyer	http://www.baseball-reference.com/players/g/guyerbr01.shtml	guyerbr01	30	45	TBR	2.4	0.2	48	-0.1	0.7	-0.8	1.00	0.3	-0.4	1.1	0.1	0.91	3.2	4.07	4
+2016	213	Jedd Gyorko	http://www.baseball-reference.com/players/g/gyorkje01.shtml	gyorkje01	27	63	STL	-0.7	-0.1	63	-0.2	1.1	-1.3	1.08	0.0	-0.2	0.5	0.0	0.89	0.3	2.72	2
+2016	214	Billy Hamilton#	http://www.baseball-reference.com/players/h/hamilbi02.shtml	hamilbi02	25	66	CIN	-2.7	-0.3	72	-0.3	0.9	-1.3	1.05	-0.3	0.0	-2.6	-0.3	0.92	-3.8		0
+2016	215	Jason Hammel	http://www.baseball-reference.com/players/h/hammeja01.shtml	hammeja01	33	10	CHC	-0.2	-0.0	10	0.2	0.4	-0.1	1.03	0.1	0.2	0.8	0.1	1.30	0.5	0.02	1
+2016	216	Ryan Hanigan	http://www.baseball-reference.com/players/h/hanigry01.shtml	hanigry01	35	31	BOS	-2.0	-0.2	33	-0.2	0.3	-0.6	1.07	-0.2	0.0	-1.7	-0.2	1.01	-2.1		0
+2016	217	J.J. Hardy	http://www.baseball-reference.com/players/h/hardyjj01.shtml	hardyjj01	33	86	BAL	-0.5	-0.1	86	-0.0	1.4	-1.4	1.01	-0.0	0.0	-0.9	-0.1	0.88	-1.0		0
+2016	218	Bryce Harper*	http://www.baseball-reference.com/players/h/harpebr03.shtml	harpebr03	23	100	WSN	9.2	0.9	107	1.6	3.1	-1.5	.98	1.1	0.5	11.8	1.1	0.87	12.4	3.51	1
+2016	219	Josh Harrison	http://www.baseball-reference.com/players/h/harrijo05.shtml	harrijo05	28	104	PIT	1.7	0.2	113	0.7	2.4	-1.7	1.10	0.5	0.1	4.0	0.4	1.07	4.7		0
+2016	220	Matt Harvey	http://www.baseball-reference.com/players/h/harvema01.shtml	harvema01	27	5	NYM	-1.1	-0.1	5	-0.1	0.1	-0.1	1.12	-0.1	0.0	-0.9	-0.1	1.20	-0.9		0
+2016	221	Drew Hayes	http://www.baseball-reference.com/players/h/hayesdr01.shtml	hayesdr01	28	2	CIN	-0.3	-0.0	2	-0.0	0.0	-0.0	.14	-0.0	0.0	-0.3	-0.0	0.75	-0.5		0
+2016	222	Jeremy Hazelbaker*	http://www.baseball-reference.com/players/h/hazelje01.shtml	hazelje01	28	72	STL	5.5	0.5	76	0.8	1.8	-1.1	.93	0.5	0.3	3.4	0.3	0.98	4.9	1.37	10
+2016	223	Chase Headley#	http://www.baseball-reference.com/players/h/headlch01.shtml	headlch01	32	75	NYY	-6.2	-0.6	79	-1.2	0.7	-1.9	1.22	-0.7	-0.3	-9.8	-1.0	1.03	-7.6		0
+2016	224	Adeiny Hechavarria	http://www.baseball-reference.com/players/h/hechaad01.shtml	hechaad01	27	82	MIA	-4.5	-0.4	82	-0.6	1.0	-1.7	.91	-0.6	-0.1	-8.3	-0.8	0.98	-6.6	0.45	1
+2016	225	Chris Heisey	http://www.baseball-reference.com/players/h/heisech01.shtml	heisech01	31	25	WSN	1.9	0.2	25	0.3	0.6	-0.3	.86	0.3	0.1	0.7	0.1	0.80	3.9	0.45	5
+2016	226	Jeremy Hellickson	http://www.baseball-reference.com/players/h/hellije01.shtml	hellije01	29	9	PHI	-0.5	-0.1	9	0.0	0.1	-0.1	1.01	-0.0	0.1	0.2	0.0	0.90	-0.5		0
+2016	227	Kyle Hendricks	http://www.baseball-reference.com/players/h/hendrky01.shtml	hendrky01	26	8	CHC	-1.5	-0.2	8	-0.2	0.0	-0.2	.90	-0.2	-0.1	-1.6	-0.2	0.87	-1.6		0
+2016	228	Cesar Hernandez#	http://www.baseball-reference.com/players/h/hernace02.shtml	hernace02	26	88	PHI	-2.9	-0.3	95	-0.4	1.2	-1.7	.97	-0.4	-0.1	-4.6	-0.4	0.90	-4.2		0
+2016	229	Enrique Hernandez	http://www.baseball-reference.com/players/h/hernaen02.shtml	hernaen02	24	63	LAD	0.8	0.1	65	0.3	1.4	-1.1	1.19	0.1	0.1	1.9	0.2	0.94	0.8	1.01	9
+2016	230	Marco Hernandez*	http://www.baseball-reference.com/players/h/hernama02.shtml	hernama02	23	3	BOS	0.5	0.0	4	0.0	0.1	-0.0	.78	0.1	-0.0	0.3	0.0	0.62	0.6		0
+2016	231	Odubel Herrera*	http://www.baseball-reference.com/players/h/herreod01.shtml	herreod01	24	107	PHI	5.4	0.5	118	0.7	2.2	-1.5	1.00	0.5	0.2	6.5	0.6	0.90	6.6		0
+2016	232	Chris Herrmann*	http://www.baseball-reference.com/players/h/herrmch01.shtml	herrmch01	28	35	ARI	-1.9	-0.2	35	-0.3	0.6	-0.8	.96	-0.2	-0.1	-0.1	-0.0	0.85	-2.0	2.47	4
+2016	233	Jason Heyward*	http://www.baseball-reference.com/players/h/heywaja01.shtml	heywaja01	26	104	CHC	-5.3	-0.5	109	-0.6	1.2	-1.8	.90	-0.4	-0.3	-0.4	-0.0	1.08	-2.3		0
+2016	234	Aaron Hicks#	http://www.baseball-reference.com/players/h/hicksaa01.shtml	hicksaa01	26	28	NYY	-4.7	-0.5	28	-0.6	0.2	-0.7	1.00	-0.5	-0.1	-4.1	-0.4	0.83	-5.3	0.01	2
+2016	235	Aaron Hill	http://www.baseball-reference.com/players/h/hillaa01.shtml	hillaa01	34	78	MIL	-6.8	-0.7	81	-0.6	0.7	-1.3	.85	-0.6	-0.2	-4.5	-0.4	0.92	-6.6	3.93	0
+2016	236	Bryan Holaday	http://www.baseball-reference.com/players/h/holadbr01.shtml	holadbr01	28	43	TEX	-4.6	-0.5	44	-0.5	0.4	-0.9	.95	-0.5	-0.0	-4.8	-0.5	1.00	-5.2		0
+2016	237	Matt Holliday	http://www.baseball-reference.com/players/h/hollima01.shtml	hollima01	36	88	STL	2.2	0.2	88	0.5	1.6	-1.1	.89	0.4	0.2	3.8	0.4	0.89	5.3	0.64	3
+2016	238	Brock Holt*	http://www.baseball-reference.com/players/h/holtbr01.shtml	holtbr01	28	85	BOS	1.2	0.1	87	0.3	1.4	-1.1	.93	0.2	0.2	2.2	0.2	1.04	1.5	0.29	1
+2016	239	Tyler Holt	http://www.baseball-reference.com/players/h/holtty01.shtml	holtty01	27	24	CIN	0.3	0.0	28	0.0	0.5	-0.5	1.01	-0.0	0.0	-1.3	-0.1	0.96	-0.3	0.56	8
+2016	240	Eric Hosmer*	http://www.baseball-reference.com/players/h/hosmeer01.shtml	hosmeer01	26	99	KCR	6.0	0.6	103	1.0	2.4	-1.4	.95	0.9	0.2	4.9	0.5	0.95	7.7		0
+2016	241	Ryan Howard*	http://www.baseball-reference.com/players/h/howarry01.shtml	howarry01	36	86	PHI	-3.5	-0.3	87	-0.2	1.3	-1.5	.92	-0.4	0.3	-2.5	-0.2	0.91	-3.1	1.14	2
+2016	242	Phil Hughes	http://www.baseball-reference.com/players/h/hugheph01.shtml	hugheph01	30	2	MIN	-0.5	-0.1	2	-0.1	0.0	-0.1	.94	-0.1	0.0	-0.5	-0.1	0.82	-0.6		0
+2016	243	Nick Hundley	http://www.baseball-reference.com/players/h/hundlni01.shtml	hundlni01	32	47	COL	1.2	0.1	47	-0.1	0.7	-0.8	.87	0.0	-0.2	-1.4	-0.1	0.88	-0.7		0
+2016	244	Cedric Hunter*	http://www.baseball-reference.com/players/h/huntece01.shtml	huntece01	28	36	PHI	-6.0	-0.6	36	-0.7	0.2	-0.8	.87	-0.5	-0.2	-6.5	-0.6	0.87	-6.3	1.88	3
+2016	245	Chris Iannetta	http://www.baseball-reference.com/players/i/iannech01.shtml	iannech01	33	69	SEA	0.9	0.1	74	-0.2	0.9	-1.1	.93	0.0	-0.2	2.2	0.2	0.89	1.7		0
+2016	246	Jose Iglesias	http://www.baseball-reference.com/players/i/iglesjo01.shtml	iglesjo01	26	83	DET	-1.3	-0.1	88	-0.3	0.9	-1.2	.84	-0.2	-0.2	-1.5	-0.2	0.93	-1.9		0
+2016	247	Raisel Iglesias	http://www.baseball-reference.com/players/i/iglesra01.shtml	iglesra01	26	10	CIN	-2.9	-0.3	10	-0.2	0.0	-0.2	.93	-0.3	0.0	-2.3	-0.2	0.82	-2.7		0
+2016	248	Ender Inciarte*	http://www.baseball-reference.com/players/i/inciaen01.shtml	inciaen01	25	10	ATL	-0.1	-0.0	11	-0.0	0.2	-0.2	1.15	0.0	-0.0	0.4	0.0	0.74	0.4		0
+2016	249	Omar Infante	http://www.baseball-reference.com/players/i/infanom01.shtml	infanom01	34	80	KCR	-1.2	-0.1	83	-0.2	0.9	-1.1	.79	-0.2	-0.1	-1.9	-0.2	0.88	-1.9		0
+2016	250	Austin Jackson	http://www.baseball-reference.com/players/j/jacksau01.shtml	jacksau01	29	90	CHW	-2.6	-0.3	92	-0.5	1.4	-1.9	1.08	-0.4	-0.1	-1.4	-0.1	1.02	-3.2		0
+2016	251	Travis Jankowski*	http://www.baseball-reference.com/players/j/jankotr01.shtml	jankotr01	25	17	SDP	-0.5	-0.1	21	-0.2	0.2	-0.4	1.18	-0.1	-0.1	-0.6	-0.1	0.98	-0.7	0.63	6
+2016	252	John Jaso*	http://www.baseball-reference.com/players/j/jasojo01.shtml	jasojo01	32	96	PIT	3.4	0.3	99	0.6	2.1	-1.5	.98	0.5	0.1	5.7	0.5	0.94	4.5	1.19	2
+2016	253	Jon Jay*	http://www.baseball-reference.com/players/j/jayjo02.shtml	jayjo02	31	109	SDP	-3.3	-0.3	111	-0.8	1.6	-2.4	1.09	-0.5	-0.3	-0.9	-0.1	0.93	-3.6		0
+2016	254	Desmond Jennings	http://www.baseball-reference.com/players/j/jennide01.shtml	jennide01	29	79	TBR	-4.9	-0.5	82	-0.4	1.2	-1.6	1.10	-0.4	0.1	-4.0	-0.4	0.96	-4.9		0
+2016	255	Chris Johnson	http://www.baseball-reference.com/players/j/johnsch05.shtml	johnsch05	31	24	MIA	-1.5	-0.1	24	-0.3	0.2	-0.5	1.03	-0.2	-0.1	-2.2	-0.2	1.04	-2.3	1.68	10
+2016	256	Kelly Johnson*	http://www.baseball-reference.com/players/j/johnske05.shtml	johnske05	34	51	ATL	-4.0	-0.4	52	-0.1	0.8	-0.9	1.08	-0.2	0.1	-0.9	-0.1	1.01	-1.1	1.89	6
+2016	257	Micah Johnson*	http://www.baseball-reference.com/players/j/johnsmi04.shtml	johnsmi04	25	3	LAD	-0.8	-0.1	3	-0.1	0.0	-0.1	1.78	-0.1	-0.0	-1.0	-0.1	1.17	-0.8	2.23	2
+2016	258	Adam Jones	http://www.baseball-reference.com/players/j/jonesad01.shtml	jonesad01	30	79	BAL	-2.2	-0.2	82	-0.4	1.1	-1.5	.90	-0.5	-0.0	-5.6	-0.6	0.89	-5.1		0
+2016	259	Caleb Joseph	http://www.baseball-reference.com/players/j/josepca01.shtml	josepca01	30	37	BAL	-2.0	-0.2	38	0.1	0.8	-0.7	1.07	-0.3	0.4	-4.1	-0.4	0.93	-3.4		0
+2016	260	Matthew Joyce*	http://www.baseball-reference.com/players/j/joycema01.shtml	joycema01	31	39	PIT	7.1	0.7	40	0.6	1.1	-0.4	.96	0.7	0.0	6.7	0.6	1.04	7.6	1.08	12
+2016	261	Taylor Jungmann	http://www.baseball-reference.com/players/j/jungmta01.shtml	jungmta01	26	7	MIL	-1.3	-0.1	7	-0.1	0.0	-0.1	.95	-0.1	-0.0	-1.2	-0.1	0.89	-1.2		0
+2016	262	Munenori Kawasaki*	http://www.baseball-reference.com/players/k/kawasmu01.shtml	kawasmu01	35	2	CHC	0.2	0.0	3	0.0	0.0	-0.0	.09	0.0	-0.0	0.3	0.0	0.70	0.3	0.09	2
+2016	263	Scott Kazmir*	http://www.baseball-reference.com/players/k/kazmisc01.shtml	kazmisc01	32	9	LAD	-2.2	-0.2	9	-0.2	0.0	-0.2	.76	-0.2	0.0	-1.8	-0.2	0.80	-2.3		0
+2016	264	Matt Kemp	http://www.baseball-reference.com/players/k/kempma01.shtml	kempma01	31	99	SDP	4.1	0.4	99	0.3	2.1	-1.8	.96	0.3	0.0	5.6	0.5	0.88	4.4		0
+2016	265	Howie Kendrick	http://www.baseball-reference.com/players/k/kendrho01.shtml	kendrho01	32	58	LAD	-9.1	-0.9	58	-1.0	0.3	-1.3	.96	-0.9	-0.1	-9.6	-1.0	0.91	-9.5	0.87	4
+2016	266	Max Kepler*	http://www.baseball-reference.com/players/k/keplema01.shtml	keplema01	23	14	MIN	-0.3	-0.0	14	-0.3	0.1	-0.4	1.22	-0.1	-0.1	-1.2	-0.1	0.94	-1.1		0
+2016	267	Clayton Kershaw*	http://www.baseball-reference.com/players/k/kershcl01.shtml	kershcl01	28	18	LAD	-1.7	-0.2	18	-0.0	0.3	-0.3	.81	0.1	-0.1	0.5	0.1	1.03	0.8		0
+2016	268	Dallas Keuchel*	http://www.baseball-reference.com/players/k/keuchda01.shtml	keuchda01	28	2	HOU	-0.5	-0.1	2	-0.0	0.0	-0.0	.80	-0.1	0.0	-0.3	-0.0	0.62	-0.6		0
+2016	269	Kevin Kiermaier*	http://www.baseball-reference.com/players/k/kiermke01.shtml	kiermke01	26	76	TBR	2.0	0.2	86	0.7	2.0	-1.3	1.07	0.4	0.3	1.8	0.2	0.87	3.6		0
+2016	270	Hyun Soo Kim*	http://www.baseball-reference.com/players/k/kimhy01.shtml	kimhy01	28	17	BAL	3.6	0.4	18	0.1	0.4	-0.2	.91	0.3	-0.1	2.5	0.2	0.87	3.0	0.09	2
+2016	271	Ian Kinsler	http://www.baseball-reference.com/players/k/kinslia01.shtml	kinslia01	34	107	DET	4.3	0.4	113	0.4	1.8	-1.5	.80	0.4	0.0	3.5	0.3	0.97	4.6		0
+2016	272	Jason Kipnis*	http://www.baseball-reference.com/players/k/kipnija01.shtml	kipnija01	29	98	CLE	-0.1	-0.0	101	-0.4	1.6	-2.0	1.03	0.2	-0.6	0.7	0.1	0.90	2.8		0
+2016	273	Corey Kluber	http://www.baseball-reference.com/players/k/klubeco01.shtml	klubeco01	30	3	CLE	0.6	0.1	3	-0.0	0.0	-0.1	1.45	0.0	-0.0	-0.4	-0.0	0.99	0.1		0
+2016	274	Tom Koehler	http://www.baseball-reference.com/players/k/koehlto01.shtml	koehlto01	30	7	MIA	-1.0	-0.1	7	-0.1	0.0	-0.1	.75	-0.1	-0.0	-0.9	-0.1	0.78	-1.1		0
+2016	275	Erik Kratz	http://www.baseball-reference.com/players/k/kratzer01.shtml	kratzer01	36	20	HOU	-3.9	-0.4	20	-0.3	0.1	-0.4	.88	-0.4	-0.0	-4.1	-0.4	0.89	-4.1		1
+2016	276	Tommy La Stella*	http://www.baseball-reference.com/players/l/lasteto01.shtml	lasteto01	27	33	CHC	4.0	0.4	34	-0.0	0.5	-0.5	.94	0.4	-0.5	2.6	0.3	0.95	3.5	1.30	5
+2016	277	John Lackey	http://www.baseball-reference.com/players/l/lackejo01.shtml	lackejo01	37	15	CHC	-2.2	-0.2	15	-0.3	0.1	-0.3	.95	-0.2	-0.1	-2.2	-0.2	1.08	-2.4		0
+2016	278	Tyler Ladendorf	http://www.baseball-reference.com/players/l/ladenty01.shtml	ladenty01	28	2	OAK	-0.5	-0.1	2	-0.1	0.0	-0.1	.81	-0.1	0.0	-0.9	-0.1	1.16	-0.7		0
+2016	279	Juan Lagares	http://www.baseball-reference.com/players/l/lagarju01.shtml	lagarju01	27	39	NYM	0.5	0.0	40	-0.2	0.2	-0.4	.56	-0.1	-0.2	1.3	0.1	0.87	0.7	0.24	4
+2016	280	Jake Lamb*	http://www.baseball-reference.com/players/l/lambja01.shtml	lambja01	25	93	ARI	3.3	0.3	98	0.7	2.3	-1.6	1.07	0.5	0.2	4.3	0.4	0.89	5.1	1.23	5
+2016	281	Andrew Lambo*	http://www.baseball-reference.com/players/l/lamboan01.shtml	lamboan01	27	1	OAK	-0.3	-0.0	1	-0.1	0.0	-0.1	2.96	-0.0	0.0	-0.5	-0.0	1.59	-0.3	2.96	1
+2016	282	Brett Lawrie	http://www.baseball-reference.com/players/l/lawribr01.shtml	lawribr01	26	106	CHW	7.0	0.7	111	0.4	1.9	-1.6	.91	0.5	-0.1	5.1	0.5	0.98	6.3		0
+2016	283	Mike Leake	http://www.baseball-reference.com/players/l/leakemi01.shtml	leakemi01	28	9	STL	-1.8	-0.2	9	-0.2	0.1	-0.3	1.16	-0.2	0.0	-2.1	-0.2	0.98	-2.1		0
+2016	284	Dae-ho Lee	http://www.baseball-reference.com/players/l/leeda02.shtml	leeda02	34	29	SEA	0.8	0.1	29	-0.0	0.7	-0.7	1.32	0.0	-0.0	-1.5	-0.2	1.07	0.5	2.96	5
+2016	285	DJ LeMahieu	http://www.baseball-reference.com/players/l/lemahdj01.shtml	lemahdj01	27	92	COL	-1.5	-0.2	97	-0.1	1.5	-1.6	.98	-0.1	0.0	-2.3	-0.2	0.93	-1.5		0
+2016	286	Jon Lester*	http://www.baseball-reference.com/players/l/lestejo01.shtml	lestejo01	32	9	CHC	-0.2	-0.0	9	-0.0	0.1	-0.1	1.00	-0.1	0.1	-0.6	-0.1	0.90	-0.9		0
+2016	287	Adam Lind*	http://www.baseball-reference.com/players/l/lindad01.shtml	lindad01	32	69	SEA	-3.4	-0.4	71	-0.8	0.6	-1.4	1.01	-0.5	-0.3	-7.8	-0.8	0.94	-5.0	0.89	4
+2016	288	Francisco Lindor#	http://www.baseball-reference.com/players/l/lindofr01.shtml	lindofr01	22	97	CLE	1.0	0.1	104	0.3	1.7	-1.3	.96	0.3	0.1	4.4	0.4	0.88	3.3		0
+2016	289	Francisco Liriano*	http://www.baseball-reference.com/players/l/liriafr01.shtml	liriafr01	32	13	PIT	0.4	0.0	13	0.2	0.3	-0.1	.80	0.2	0.1	1.3	0.1	0.94	1.6		0
+2016	290	Jose Lobaton#	http://www.baseball-reference.com/players/l/lobatjo01.shtml	lobatjo01	31	34	WSN	-3.1	-0.3	34	-0.6	0.3	-0.9	1.26	-0.3	-0.2	-2.4	-0.2	0.96	-3.5		0
+2016	291	Kyle Lobstein*	http://www.baseball-reference.com/players/l/lobstky01.shtml	lobstky01	26	2	PIT	-0.6	-0.1	2	-0.0	0.0	-0.0	.81	-0.1	-0.0	-0.5	-0.0	0.92	-0.6		0
+2016	292	Jeff Locke*	http://www.baseball-reference.com/players/l/lockeje01.shtml	lockeje01	28	9	PIT	-1.2	-0.1	9	-0.1	0.0	-0.2	.93	-0.2	0.0	-1.3	-0.1	0.85	-1.6		0
+2016	293	Evan Longoria	http://www.baseball-reference.com/players/l/longoev01.shtml	longoev01	30	103	TBR	0.1	0.0	105	-0.3	1.7	-1.9	.98	0.1	-0.4	-1.6	-0.2	0.92	1.9		0
+2016	294	David Lough*	http://www.baseball-reference.com/players/l/loughda01.shtml	loughda01	30	33	PHI	0.2	0.0	35	0.0	0.6	-0.6	1.18	-0.0	0.1	-0.1	-0.0	0.95	-0.5	1.51	1
+2016	295	Jed Lowrie#	http://www.baseball-reference.com/players/l/lowrije01.shtml	lowrije01	32	99	OAK	1.1	0.1	100	0.3	1.8	-1.5	1.03	0.1	0.2	2.5	0.3	0.94	0.5	1.47	2
+2016	296	Jonathan Lucroy	http://www.baseball-reference.com/players/l/lucrojo01.shtml	lucrojo01	30	85	MIL	-0.2	-0.0	89	0.1	1.5	-1.4	.92	0.0	0.1	1.8	0.2	0.95	-0.1		0
+2016	297	Jordan Lyles	http://www.baseball-reference.com/players/l/lylesjo01.shtml	lylesjo01	25	5	COL	-1.5	-0.2	5	-0.1	0.0	-0.1	.90	-0.1	-0.0	-1.8	-0.2	1.01	-1.7		0
+2016	298	Manny Machado	http://www.baseball-reference.com/players/m/machama01.shtml	machama01	23	109	BAL	12.2	1.2	116	1.2	2.7	-1.5	.96	1.2	0.0	10.1	1.0	0.89	14.3		0
+2016	299	Kenta Maeda	http://www.baseball-reference.com/players/m/maedake01.shtml	maedake01	28	12	LAD	-1.4	-0.1	12	-0.1	0.0	-0.2	.54	-0.1	-0.1	-1.1	-0.1	0.71	-1.3		0
+2016	300	Martin Maldonado	http://www.baseball-reference.com/players/m/maldoma01.shtml	maldoma01	29	22	MIL	-3.2	-0.3	22	-0.1	0.1	-0.2	.58	-0.2	0.0	-1.8	-0.2	0.96	-2.7	0.06	1
+2016	301	Jake Marisnick	http://www.baseball-reference.com/players/m/marisja01.shtml	marisja01	25	11	HOU	-1.6	-0.2	11	-0.1	0.0	-0.2	.59	-0.1	-0.1	-1.8	-0.2	1.01	-1.7	0.14	2
+2016	302	Nick Markakis*	http://www.baseball-reference.com/players/m/markani01.shtml	markani01	32	106	ATL	4.6	0.4	106	1.4	3.0	-1.6	1.16	0.6	0.6	10.4	1.0	0.98	8.4		0
+2016	303	Ketel Marte#	http://www.baseball-reference.com/players/m/marteke01.shtml	marteke01	22	90	SEA	-1.4	-0.2	96	0.1	1.4	-1.3	.97	-0.2	0.3	-0.3	-0.0	0.91	-2.9		0
+2016	304	Starling Marte	http://www.baseball-reference.com/players/m/martest01.shtml	martest01	27	112	PIT	5.3	0.5	120	0.9	2.8	-1.8	1.04	0.5	0.4	3.9	0.4	1.03	4.4		0
+2016	305	Leonys Martin*	http://www.baseball-reference.com/players/m/martile01.shtml	martile01	28	84	SEA	-1.4	-0.1	87	0.3	1.7	-1.4	.97	0.1	0.3	-0.1	-0.0	0.90	0.7		0
+2016	306	Russell Martin	http://www.baseball-reference.com/players/m/martiru01.shtml	martiru01	33	70	TOR	-7.7	-0.8	71	-0.5	0.6	-1.2	.87	-0.9	0.3	-5.7	-0.6	0.90	-8.1	0.65	2
+2016	307	Carlos Martinez	http://www.baseball-reference.com/players/m/martica04.shtml	martica04	24	14	STL	-1.5	-0.2	15	-0.0	0.2	-0.2	.80	-0.1	0.0	-0.1	-0.0	1.04	-0.8		0
+2016	308	J.D. Martinez	http://www.baseball-reference.com/players/m/martijd02.shtml	martijd02	28	105	DET	3.1	0.3	111	-0.1	1.4	-1.5	.81	0.3	-0.4	1.2	0.1	0.98	3.3		0
+2016	309	Victor Martinez#	http://www.baseball-reference.com/players/m/martivi01.shtml	martivi01	37	88	DET	10.6	1.0	88	0.2	1.4	-1.1	.80	1.0	-0.7	11.1	1.1	0.95	10.0	0.32	3
+2016	310	Jeff Mathis	http://www.baseball-reference.com/players/m/mathije01.shtml	mathije01	33	19	MIA	-2.2	-0.2	21	-0.1	0.2	-0.3	.94	-0.1	0.0	-1.7	-0.2	0.88	-1.6		0
+2016	311	Steven Matz	http://www.baseball-reference.com/players/m/matzst01.shtml	matzst01	25	6	NYM	-0.6	-0.1	6	-0.1	0.0	-0.1	.77	-0.1	-0.1	-1.6	-0.2	1.12	-1.0		0
+2016	312	Joe Mauer*	http://www.baseball-reference.com/players/m/mauerjo01.shtml	mauerjo01	33	111	MIN	8.8	0.9	114	0.0	2.1	-2.1	1.30	0.6	-0.6	4.7	0.5	0.87	6.9	1.41	1
+2016	313	Nomar Mazara*	http://www.baseball-reference.com/players/m/mazarno01.shtml	mazarno01	21	79	TEX	2.8	0.3	80	0.3	1.3	-1.0	.83	0.4	-0.0	-0.6	-0.1	0.92	3.6		0
+2016	314	Brian McCann*	http://www.baseball-reference.com/players/m/mccanbr01.shtml	mccanbr01	32	75	NYY	1.8	0.2	78	0.4	1.6	-1.1	1.00	0.2	0.2	0.9	0.1	0.96	2.6	1.82	2
+2016	315	James McCann	http://www.baseball-reference.com/players/m/mccanja02.shtml	mccanja02	26	15	DET	-2.5	-0.3	15	-0.1	0.1	-0.2	.87	-0.2	0.1	-0.8	-0.1	1.12	-2.2		0
+2016	316	Andrew McCutchen	http://www.baseball-reference.com/players/m/mccutan01.shtml	mccutan01	29	114	PIT	1.1	0.1	118	-0.4	1.9	-2.3	1.03	0.2	-0.7	-2.6	-0.3	1.02	2.3		0
+2016	317	Tim Melville	http://www.baseball-reference.com/players/m/melviti01.shtml	melviti01	26	2	CIN	-0.6	-0.1	2	-0.1	0.0	-0.1	1.10	-0.1	-0.0	-0.8	-0.1	1.07	-0.7		0
+2016	318	Jordy Mercer	http://www.baseball-reference.com/players/m/mercejo03.shtml	mercejo03	29	107	PIT	2.2	0.2	108	0.4	2.1	-1.7	1.07	0.1	0.3	1.8	0.2	1.05	0.9		0
+2016	319	Devin Mesoraco	http://www.baseball-reference.com/players/m/mesorde01.shtml	mesorde01	28	55	CIN	-7.1	-0.7	57	-0.8	0.6	-1.3	1.08	-0.7	-0.1	-9.3	-0.9	0.98	-7.7	0.23	3
+2016	320	Brad Miller*	http://www.baseball-reference.com/players/m/millebr02.shtml	millebr02	26	75	TBR	-2.8	-0.3	77	-0.5	0.9	-1.4	.99	-0.4	-0.1	-2.1	-0.2	0.92	-3.2	2.16	2
+2016	321	Shelby Miller	http://www.baseball-reference.com/players/m/millesh01.shtml	millesh01	25	8	ARI	-2.4	-0.2	8	-0.2	0.0	-0.2	1.01	-0.2	-0.0	-1.9	-0.2	0.82	-2.4		0
+2016	322	Tommy Milone*	http://www.baseball-reference.com/players/m/milonto01.shtml	milonto01	29	2	MIN	0.9	0.1	2	0.1	0.1	0.0	1.20	0.1	0.0	0.6	0.1	0.95	0.6		0
+2016	323	Yadier Molina	http://www.baseball-reference.com/players/m/molinya01.shtml	molinya01	33	97	STL	3.7	0.4	100	-0.2	1.5	-1.7	.91	0.4	-0.6	3.6	0.3	0.90	4.4		0
+2016	324	Miguel Montero*	http://www.baseball-reference.com/players/m/montemi01.shtml	montemi01	32	57	CHC	-1.5	-0.2	58	0.1	0.7	-0.6	.76	0.1	0.1	0.9	0.1	1.03	-0.2	1.85	1
+2016	325	Kendrys Morales#	http://www.baseball-reference.com/players/m/moralke01.shtml	moralke01	33	97	KCR	-3.6	-0.4	98	-0.8	1.1	-1.9	1.00	-0.2	-0.5	-6.4	-0.6	0.96	-4.1		0
+2016	326	Mitch Moreland*	http://www.baseball-reference.com/players/m/morelmi01.shtml	morelmi01	30	84	TEX	0.8	0.1	84	0.1	1.8	-1.7	1.17	0.1	-0.1	1.4	0.1	1.06	1.1		0
+2016	327	Adam Morgan*	http://www.baseball-reference.com/players/m/morgaad01.shtml	morgaad01	26	1	PHI	-0.3	-0.0	1	-0.0	0.0	-0.0	.72	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
+2016	328	Bryan Morris*	http://www.baseball-reference.com/players/m/morribr01.shtml	morribr01	29	1	MIA	-0.3	-0.0	1	-0.0	0.0	-0.0	.54	-0.0	0.0	-0.3	-0.0	1.04	-0.3		0
+2016	329	Logan Morrison*	http://www.baseball-reference.com/players/m/morrilo01.shtml	morrilo01	28	68	TBR	-10.2	-1.0	70	-1.0	0.4	-1.4	.92	-0.9	-0.3	-9.5	-1.0	0.86	-9.6	2.11	2
+2016	330	Mike Morse	http://www.baseball-reference.com/players/m/morsemi01.shtml	morsemi01	34	8	PIT	-2.3	-0.2	8	-0.1	0.0	-0.1	.57	-0.2	-0.0	-1.6	-0.2	0.84	-2.0	0.56	5
+2016	331	Charlie Morton	http://www.baseball-reference.com/players/m/mortoch02.shtml	mortoch02	32	7	PHI	-1.0	-0.1	7	-0.2	0.0	-0.2	1.01	-0.1	-0.0	-1.5	-0.1	0.88	-1.5		0
+2016	332	Jon Moscot	http://www.baseball-reference.com/players/m/moscojo01.shtml	moscojo01	24	5	CIN	-1.2	-0.1	5	-0.1	0.0	-0.1	1.16	-0.1	0.0	-1.4	-0.1	0.99	-1.4		0
+2016	333	Brandon Moss*	http://www.baseball-reference.com/players/m/mossbr01.shtml	mossbr01	32	77	STL	2.2	0.2	78	-0.4	1.2	-1.6	.93	-0.0	-0.4	2.6	0.2	0.89	2.7	1.49	8
+2016	334	Mike Moustakas*	http://www.baseball-reference.com/players/m/moustmi01.shtml	moustmi01	27	101	KCR	4.1	0.4	105	0.1	1.8	-1.7	.93	1.1	-1.0	1.7	0.2	0.87	9.9		0
+2016	335	Daniel Murphy*	http://www.baseball-reference.com/players/m/murphda08.shtml	murphda08	31	94	WSN	7.6	0.7	99	1.1	2.5	-1.4	1.10	0.7	0.2	12.4	1.1	0.93	8.2		0
+2016	336	John Ryan Murphy	http://www.baseball-reference.com/players/m/murphjr01.shtml	murphjr01	25	38	MIN	-6.5	-0.7	39	-0.6	0.3	-1.0	1.22	-0.5	0.0	-6.6	-0.7	0.95	-5.8		0
+2016	337	Wil Myers	http://www.baseball-reference.com/players/m/myerswi01.shtml	myerswi01	25	109	SDP	3.7	0.4	115	-0.5	1.5	-2.0	.94	0.2	-0.8	1.3	0.1	0.92	2.8	3.26	1
+2016	338	Mike Napoli	http://www.baseball-reference.com/players/n/napolmi01.shtml	napolmi01	34	84	CLE	-2.2	-0.2	85	0.2	2.0	-1.8	1.02	0.3	-0.1	-4.1	-0.4	1.04	0.4	1.78	1
+2016	339	Tyler Naquin*	http://www.baseball-reference.com/players/n/naquity01.shtml	naquity01	25	49	CLE	0.9	0.1	51	-0.2	0.7	-0.9	.88	0.1	-0.3	-1.8	-0.2	0.87	-0.2	1.67	2
+2016	340	Chris Narveson*	http://www.baseball-reference.com/players/n/narvech01.shtml	narvech01	34	3	MIA	-0.9	-0.1	3	-0.0	0.0	-0.0	.27	-0.1	0.0	-1.1	-0.1	1.25	-0.8		0
+2016	341	Daniel Nava#	http://www.baseball-reference.com/players/n/navada01.shtml	navada01	33	15	LAA	-0.3	-0.0	15	-0.1	0.2	-0.3	1.04	-0.0	-0.0	0.3	0.0	0.86	-0.4	2.66	2
+2016	342	Dioner Navarro#	http://www.baseball-reference.com/players/n/navardi01.shtml	navardi01	32	59	CHW	-2.8	-0.3	59	0.2	1.2	-1.0	1.00	-0.2	0.3	-2.5	-0.3	1.12	-2.3		0
+2016	343	Jimmy Nelson	http://www.baseball-reference.com/players/n/nelsoji02.shtml	nelsoji02	27	14	MIL	-2.4	-0.2	14	-0.4	0.0	-0.4	1.21	-0.3	-0.0	-4.3	-0.4	1.24	-3.3		0
+2016	344	Juan Nicasio	http://www.baseball-reference.com/players/n/nicasju01.shtml	nicasju01	29	9	PIT	-1.5	-0.2	9	-0.2	0.0	-0.2	.93	-0.2	-0.0	-2.0	-0.2	1.18	-1.9		0
+2016	345	Brett Nicholas*	http://www.baseball-reference.com/players/n/nichobr01.shtml	nichobr01	27	31	TEX	-0.1	-0.0	31	-0.2	0.2	-0.5	.74	0.0	-0.4	-0.1	-0.0	0.90	0.8		0
+2016	346	Justin Nicolino*	http://www.baseball-reference.com/players/n/nicolju01.shtml	nicolju01	24	3	MIA	-0.9	-0.1	3	-0.0	0.0	-0.0	.46	-0.1	-0.0	-0.5	-0.0	0.62	-0.8		0
+2016	347	Jon Niese*	http://www.baseball-reference.com/players/n/niesejo01.shtml	niesejo01	29	10	PIT	-0.7	-0.1	11	-0.0	0.1	-0.1	.68	-0.1	0.0	0.2	0.0	0.74	-0.6	1.45	1
+2016	348	Kirk Nieuwenhuis*	http://www.baseball-reference.com/players/n/nieuwki01.shtml	nieuwki01	28	43	MIL	0.4	0.0	45	0.2	0.9	-0.7	.91	0.3	-0.1	3.7	0.4	1.00	3.3	0.88	6
+2016	349	Aaron Nola	http://www.baseball-reference.com/players/n/nolaaa01.shtml	nolaaa01	23	10	PHI	-2.9	-0.3	10	-0.2	0.0	-0.2	.89	-0.3	-0.0	-2.1	-0.2	0.73	-2.8		0
+2016	350	Ricky Nolasco	http://www.baseball-reference.com/players/n/nolasri01.shtml	nolasri01	33	3	MIN	-0.2	-0.0	3	-0.0	0.0	-0.0	.73	-0.0	-0.0	-0.1	-0.0	0.86	-0.1		0
+2016	351	Bud Norris	http://www.baseball-reference.com/players/n/norribu01.shtml	norribu01	31	8	ATL	-0.5	-0.0	8	-0.1	0.1	-0.2	1.17	-0.1	-0.0	-1.3	-0.1	1.04	-1.0		0
+2016	352	Derek Norris	http://www.baseball-reference.com/players/n/norride01.shtml	norride01	27	84	SDP	-9.5	-0.9	85	-0.9	0.8	-1.8	1.02	-1.0	0.1	-12.2	-1.3	0.98	-10.8	1.53	1
+2016	353	Eduardo Nunez	http://www.baseball-reference.com/players/n/nunezed02.shtml	nunezed02	29	65	MIN	3.3	0.3	74	0.3	1.4	-1.1	1.12	0.2	0.1	3.4	0.3	0.88	3.1	0.14	3
+2016	354	Ryan O'Rourke	http://www.baseball-reference.com/players/o/orourry01.shtml	orourry01	28	1	MIN	-0.3	-0.0	1	-0.1	0.0	-0.1	2.34	-0.0	0.0	-0.2	-0.0	0.86	-0.3		0
+2016	355	Brett Oberholtzer*	http://www.baseball-reference.com/players/o/oberhbr01.shtml	oberhbr01	26	3	PHI	-0.9	-0.1	3	-0.0	0.0	-0.0	.55	-0.1	-0.0	-0.8	-0.1	0.90	-0.9		0
+2016	356	Rougned Odor*	http://www.baseball-reference.com/players/o/odorro01.shtml	odorro01	22	98	TEX	1.4	0.1	104	0.8	2.2	-1.4	.90	0.2	0.6	8.4	0.8	0.95	5.1	0.25	2
+2016	357	Hector Olivera	http://www.baseball-reference.com/players/o/olivehe01.shtml	olivehe01	31	21	ATL	-1.6	-0.2	21	-0.3	0.3	-0.6	1.35	-0.1	-0.1	-1.3	-0.1	1.00	-1.4	0.80	1
+2016	358	Paulo Orlando	http://www.baseball-reference.com/players/o/orlanpa01.shtml	orlanpa01	30	30	KCR	-2.2	-0.2	31	-0.3	0.2	-0.5	.81	-0.3	-0.1	-2.1	-0.2	0.92	-2.3		0
+2016	359	Rafael Ortega*	http://www.baseball-reference.com/players/o/ortegra01.shtml	ortegra01	25	42	LAA	-1.0	-0.1	47	0.0	0.6	-0.6	.95	-0.2	0.2	0.4	0.0	0.91	-1.4	2.70	1
+2016	360	David Ortiz*	http://www.baseball-reference.com/players/o/ortizda01.shtml	ortizda01	40	96	BOS	10.2	1.0	98	1.0	2.6	-1.5	.99	1.2	-0.2	14.3	1.3	0.94	12.6	1.87	2
+2016	361	Chris Owings	http://www.baseball-reference.com/players/o/owingch01.shtml	owingch01	24	79	ARI	-2.6	-0.2	86	-0.6	1.1	-1.7	1.08	-0.1	-0.5	-1.5	-0.1	0.95	-1.3	3.38	2
+2016	362	Marcell Ozuna	http://www.baseball-reference.com/players/o/ozunama01.shtml	ozunama01	25	96	MIA	-1.8	-0.2	98	-0.4	1.3	-1.8	.92	-0.0	-0.5	-4.4	-0.4	1.00	-0.6	2.58	2
+2016	363	Jordan Pacheco	http://www.baseball-reference.com/players/p/pachejo01.shtml	pachejo01	30	22	CIN	-1.0	-0.1	22	0.1	0.4	-0.3	.75	-0.0	0.1	-1.9	-0.2	0.91	-0.9	0.92	9
+2016	364	Angel Pagan#	http://www.baseball-reference.com/players/p/paganan01.shtml	paganan01	34	101	SFG	2.9	0.3	107	0.3	2.2	-1.8	.94	0.3	0.0	4.3	0.4	1.00	4.6	0.00	0
+2016	365	Joe Panik*	http://www.baseball-reference.com/players/p/panikjo01.shtml	panikjo01	25	103	SFG	2.3	0.2	108	0.0	1.9	-1.9	1.03	0.6	-0.6	2.6	0.3	0.99	5.2	4.34	1
+2016	366	Byung-ho Park	http://www.baseball-reference.com/players/p/parkby01.shtml	parkby01	29	77	MIN	2.6	0.3	79	-0.2	1.7	-1.9	1.23	0.5	-0.6	-2.1	-0.2	0.98	3.8	0.44	0
+2016	367	Gerardo Parra*	http://www.baseball-reference.com/players/p/parrage01.shtml	parrage01	29	100	COL	-2.2	-0.2	108	-0.2	1.8	-2.0	1.05	0.1	-0.3	-0.5	-0.0	0.97	1.2		0
+2016	368	Ben Paulsen*	http://www.baseball-reference.com/players/p/paulsbe01.shtml	paulsbe01	28	54	COL	0.8	0.1	55	0.4	1.3	-0.9	.99	0.2	0.2	4.9	0.4	0.91	2.1	2.46	3
+2016	369	Steve Pearce	http://www.baseball-reference.com/players/p/pearcst01.shtml	pearcst01	33	48	TBR	0.4	0.0	48	-0.0	0.7	-0.7	.96	0.1	-0.1	0.6	0.1	0.92	1.2	0.76	3
+2016	370	Jake Peavy	http://www.baseball-reference.com/players/p/peavyja01.shtml	peavyja01	35	8	SFG	0.9	0.1	9	0.3	0.3	-0.0	1.32	0.1	0.1	3.0	0.3	1.18	1.4		0
+2016	371	Joc Pederson*	http://www.baseball-reference.com/players/p/pederjo01.shtml	pederjo01	24	77	LAD	3.5	0.3	80	0.2	1.7	-1.6	1.08	0.4	-0.2	3.5	0.3	1.01	4.8	2.11	2
+2016	372	Dustin Pedroia	http://www.baseball-reference.com/players/p/pedrodu01.shtml	pedrodu01	32	116	BOS	5.0	0.5	119	0.2	1.8	-1.6	.84	0.3	-0.0	2.5	0.2	0.91	3.6		0
+2016	373	Hunter Pence	http://www.baseball-reference.com/players/p/pencehu01.shtml	pencehu01	33	112	SFG	6.4	0.6	113	0.5	2.4	-1.8	1.05	0.7	-0.2	10.0	1.0	1.00	8.9	2.11	1
+2016	374	Cliff Pennington#	http://www.baseball-reference.com/players/p/pennicl01.shtml	pennicl01	32	35	LAA	0.2	0.0	35	-0.0	0.6	-0.6	1.03	-0.0	0.0	1.0	0.1	0.94	-0.0	0.34	2
+2016	375	David Peralta*	http://www.baseball-reference.com/players/p/peralda01.shtml	peralda01	28	114	ARI	-2.1	-0.2	117	-0.4	2.2	-2.6	1.23	0.1	-0.4	-4.0	-0.4	0.98	0.3	3.52	1
+2016	376	Wily Peralta	http://www.baseball-reference.com/players/p/peralwi01.shtml	peralwi01	27	9	MIL	-2.3	-0.2	9	-0.2	0.0	-0.2	.78	-0.2	-0.0	-2.1	-0.2	1.07	-2.2		0
+2016	377	Carlos Perez	http://www.baseball-reference.com/players/p/perezca02.shtml	perezca02	25	60	LAA	-6.3	-0.6	60	-0.2	0.7	-0.9	.92	-0.5	0.3	-5.7	-0.6	0.95	-5.7	2.62	2
+2016	378	Hernan Perez	http://www.baseball-reference.com/players/p/perezhe01.shtml	perezhe01	25	8	MIL	0.9	0.1	9	0.1	0.1	-0.0	.26	0.1	0.2	2.1	0.2	0.82	2.5		0
+2016	379	Oliver Perez*	http://www.baseball-reference.com/players/p/perezol01.shtml	perezol01	34	1	WSN	-0.3	-0.0	1	0.5	0.5	0.0	5.08	0.1	0.0	1.0	0.1	1.04	1.0		0
+2016	380	Roberto Perez	http://www.baseball-reference.com/players/p/perezro02.shtml	perezro02	27	15	CLE	-0.2	-0.0	15	0.0	0.2	-0.1	.77	0.1	-0.0	0.0	0.0	0.95	0.5		0
+2016	381	Salvador Perez	http://www.baseball-reference.com/players/p/perezsa02.shtml	perezsa02	26	84	KCR	1.4	0.1	84	0.3	1.9	-1.6	1.04	0.2	0.1	0.8	0.1	0.99	3.7	2.84	1
+2016	382	Williams Perez	http://www.baseball-reference.com/players/p/perezwi01.shtml	perezwi01	25	5	ATL	-1.1	-0.1	5	-0.1	0.0	-0.1	.83	-0.1	0.0	-2.3	-0.2	1.13	-1.6		0
+2016	383	Jace Peterson*	http://www.baseball-reference.com/players/p/peterja01.shtml	peterja01	26	50	ATL	-4.4	-0.4	51	-0.4	0.7	-1.1	1.16	-0.4	-0.0	-3.4	-0.3	0.99	-4.0	1.53	7
+2016	384	Yusmeiro Petit	http://www.baseball-reference.com/players/p/petityu01.shtml	petityu01	31	2	WSN	-0.6	-0.1	2	-0.1	0.0	-0.1	1.39	-0.1	0.0	-0.4	-0.0	0.74	-0.5		0
+2016	385	Tommy Pham	http://www.baseball-reference.com/players/p/phamth01.shtml	phamth01	28	1	STL	-0.3	-0.0	1	-0.0	0.0	-0.0	.62	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
+2016	386	Josh Phegley	http://www.baseball-reference.com/players/p/phegljo01.shtml	phegljo01	28	27	OAK	1.4	0.1	28	0.1	0.4	-0.2	.76	0.2	-0.0	2.5	0.2	0.95	2.3		0
+2016	387	David Phelps	http://www.baseball-reference.com/players/p/phelpda01.shtml	phelpda01	29	2	MIA	0.2	0.0	2	0.1	0.1	-0.0	1.16	0.0	0.0	0.6	0.1	0.98	0.4		0
+2016	388	Brandon Phillips	http://www.baseball-reference.com/players/p/phillbr01.shtml	phillbr01	35	83	CIN	-1.3	-0.1	93	-0.2	1.2	-1.4	.92	0.0	-0.3	-1.7	-0.2	0.94	-0.6		0
+2016	389	A.J. Pierzynski*	http://www.baseball-reference.com/players/p/pierza.01.shtml	pierza.01	39	60	ATL	-5.2	-0.5	62	-0.6	0.9	-1.5	1.22	-0.5	0.0	-4.5	-0.4	1.04	-5.9	3.04	0
+2016	390	Kevin Pillar	http://www.baseball-reference.com/players/p/pillake01.shtml	pillake01	27	102	TOR	-1.3	-0.1	108	0.2	1.9	-1.7	.98	-0.1	0.2	-0.8	-0.1	0.93	-1.2		0
+2016	391	Jose Pirela	http://www.baseball-reference.com/players/p/pireljo01.shtml	pireljo01	26	5	SDP	-0.3	-0.0	5	-0.1	0.1	-0.2	1.56	0.1	-0.1	-0.1	-0.0	1.13	0.2	2.26	3
+2016	392	Stephen Piscotty	http://www.baseball-reference.com/players/p/piscost01.shtml	piscost01	25	105	STL	2.8	0.3	108	0.5	2.1	-1.7	.94	0.3	0.2	5.1	0.5	0.93	4.2	1.92	2
+2016	393	Kevin Plawecki	http://www.baseball-reference.com/players/p/plaweke01.shtml	plaweke01	25	35	NYM	-2.2	-0.2	35	-0.0	0.4	-0.5	.80	-0.0	0.0	0.3	0.0	0.92	-0.2		0
+2016	394	Trevor Plouffe	http://www.baseball-reference.com/players/p/plouftr01.shtml	plouftr01	30	45	MIN	2.0	0.2	45	0.6	1.4	-0.8	1.29	0.1	0.3	2.4	0.2	0.92	2.0		0
+2016	395	Gregory Polanco*	http://www.baseball-reference.com/players/p/polangr01.shtml	polangr01	24	110	PIT	8.5	0.8	116	0.1	2.0	-1.9	1.12	0.8	-0.7	2.9	0.3	1.11	8.0		0
+2016	396	Jorge Polanco#	http://www.baseball-reference.com/players/p/polanjo01.shtml	polanjo01	22	9	MIN	-0.4	-0.0	9	0.1	0.1	-0.1	.61	-0.0	0.1	-0.3	-0.0	0.83	-0.5	0.50	3
+2016	397	Drew Pomeranz	http://www.baseball-reference.com/players/p/pomerdr01.shtml	pomerdr01	27	11	SDP	-1.3	-0.1	11	-0.2	0.0	-0.3	.98	-0.2	-0.1	-2.2	-0.2	1.08	-1.5		0
+2016	398	Rick Porcello	http://www.baseball-reference.com/players/p/porceri01.shtml	porceri01	27	3	BOS	-0.1	-0.0	3	0.0	0.0	-0.0	.87	0.0	0.0	0.2	0.0	0.72	0.3		0
+2016	399	Buster Posey	http://www.baseball-reference.com/players/p/poseybu01.shtml	poseybu01	29	90	SFG	1.6	0.2	92	0.3	1.7	-1.4	1.03	0.5	-0.2	2.2	0.2	0.98	5.3		0
+2016	400	Martin Prado	http://www.baseball-reference.com/players/p/pradoma01.shtml	pradoma01	32	85	MIA	6.0	0.6	86	0.2	1.5	-1.3	.97	0.5	-0.3	3.6	0.3	0.98	4.8	3.00	1
+2016	401	Alex Presley*	http://www.baseball-reference.com/players/p/preslal01.shtml	preslal01	30	15	MIL	0.9	0.1	15	-0.1	0.2	-0.3	1.06	0.1	-0.2	1.7	0.2	1.10	1.9	0.60	5
+2016	402	David Price*	http://www.baseball-reference.com/players/p/priceda01.shtml	priceda01	30	3	BOS	-0.2	-0.0	3	-0.0	0.0	-0.0	.48	-0.0	-0.0	-0.4	-0.0	0.98	-0.1		0
+2016	403	Yasiel Puig	http://www.baseball-reference.com/players/p/puigya01.shtml	puigya01	25	100	LAD	-2.5	-0.2	104	-0.6	1.3	-1.9	1.01	-0.4	-0.2	-3.3	-0.3	0.97	-3.8	5.83	1
+2016	404	Albert Pujols	http://www.baseball-reference.com/players/p/pujolal01.shtml	pujolal01	36	104	LAA	-3.0	-0.3	105	0.0	1.9	-1.9	1.01	-0.2	0.2	-1.6	-0.2	0.96	0.5		0
+2016	405	Ryan Raburn	http://www.baseball-reference.com/players/r/raburry01.shtml	raburry01	35	41	COL	5.2	0.5	41	0.6	1.2	-0.7	1.09	0.6	-0.1	4.5	0.4	0.94	6.6	1.34	8
+2016	406	Alexei Ramirez	http://www.baseball-reference.com/players/r/ramiral03.shtml	ramiral03	34	98	SDP	-3.8	-0.4	102	0.3	1.8	-1.5	1.03	-0.3	0.6	-2.3	-0.2	0.91	-4.1	2.80	1
+2016	407	Hanley Ramirez	http://www.baseball-reference.com/players/r/ramirha01.shtml	ramirha01	32	105	BOS	-1.6	-0.2	112	0.2	1.8	-1.6	.97	-0.2	0.4	-0.6	-0.1	0.99	-1.8		0
+2016	408	Jose Ramirez#	http://www.baseball-reference.com/players/r/ramirjo01.shtml	ramirjo01	23	64	CLE	0.1	0.0	67	0.2	1.3	-1.0	1.04	0.2	0.0	2.6	0.2	0.89	2.0	1.87	2
+2016	409	Wilson Ramos	http://www.baseball-reference.com/players/r/ramoswi01.shtml	ramoswi01	28	58	WSN	0.7	0.1	58	0.3	1.3	-1.0	.98	0.2	0.2	0.2	0.0	0.96	1.9		0
+2016	410	Colby Rasmus*	http://www.baseball-reference.com/players/r/rasmuco01.shtml	rasmuco01	29	99	HOU	7.5	0.7	102	1.0	2.6	-1.6	1.14	0.8	-0.0	10.4	1.0	1.04	8.3	0.62	1
+2016	411	Robbie Ray*	http://www.baseball-reference.com/players/r/rayro02.shtml	rayro02	24	10	ARI	-1.9	-0.2	10	-0.3	0.0	-0.3	1.17	-0.2	-0.0	-2.4	-0.2	1.03	-2.4		0
+2016	412	Colin Rea	http://www.baseball-reference.com/players/r/reaco01.shtml	reaco01	25	12	SDP	-2.2	-0.2	12	-0.4	0.0	-0.5	1.66	-0.2	-0.0	-3.2	-0.3	1.17	-2.6	5.78	1
+2016	413	J.T. Realmuto	http://www.baseball-reference.com/players/r/realmjt01.shtml	realmjt01	25	79	MIA	0.6	0.1	81	0.0	1.5	-1.4	.98	0.2	-0.2	-0.2	-0.0	1.00	1.8		0
+2016	414	Josh Reddick*	http://www.baseball-reference.com/players/r/reddijo01.shtml	reddijo01	29	103	OAK	2.0	0.2	105	0.4	1.8	-1.5	.96	0.3	0.1	1.5	0.2	0.87	2.9		0
+2016	415	Nolan Reimold	http://www.baseball-reference.com/players/r/reimono01.shtml	reimono01	32	37	BAL	4.0	0.4	40	0.3	1.0	-0.7	1.07	0.4	-0.2	4.0	0.4	0.98	4.7		0
+2016	416	Anthony Rendon	http://www.baseball-reference.com/players/r/rendoan01.shtml	rendoan01	26	105	WSN	-5.8	-0.6	111	-0.8	1.1	-1.9	.97	-0.7	-0.1	-8.9	-0.9	0.87	-7.2	1.97	1
+2016	417	Ben Revere*	http://www.baseball-reference.com/players/r/reverbe01.shtml	reverbe01	28	2	WSN	-0.6	-0.1	2	-0.0	0.0	-0.0	.93	-0.1	-0.0	-0.5	-0.0	0.86	-0.5		0
+2016	418	Mark Reynolds	http://www.baseball-reference.com/players/r/reynoma01.shtml	reynoma01	32	70	COL	2.9	0.3	75	0.0	1.2	-1.1	.97	0.2	-0.2	4.6	0.4	0.93	3.6	0.52	1
+2016	419	Joey Rickard	http://www.baseball-reference.com/players/r/rickajo01.shtml	rickajo01	25	104	BAL	-0.8	-0.1	109	-0.1	1.6	-1.8	1.05	-0.2	0.0	-1.2	-0.1	0.94	-1.4		0
+2016	420	Rene Rivera	http://www.baseball-reference.com/players/r/riverre01.shtml	riverre01	32	4	NYM	-0.5	-0.1	4	-0.0	0.0	-0.1	.68	-0.0	-0.0	-0.5	-0.0	0.98	-0.4		0
+2016	421	Yadiel Rivera	http://www.baseball-reference.com/players/r/riverya01.shtml	riverya01	24	30	MIL	-3.2	-0.3	30	-0.1	0.4	-0.5	.76	-0.2	0.1	-4.0	-0.4	0.86	-3.1	0.01	1
+2016	422	Anthony Rizzo*	http://www.baseball-reference.com/players/r/rizzoan01.shtml	rizzoan01	26	104	CHC	6.1	0.6	106	0.6	2.0	-1.5	.89	0.5	0.2	9.2	0.9	1.06	4.5		0
+2016	423	Tanner Roark	http://www.baseball-reference.com/players/r/roarkta01.shtml	roarkta01	29	9	WSN	-1.7	-0.2	9	-0.1	0.0	-0.1	.93	-0.1	0.0	-1.3	-0.1	1.01	-1.7		0
+2016	424	Clint Robinson*	http://www.baseball-reference.com/players/r/robincl01.shtml	robincl01	31	25	WSN	-3.6	-0.4	25	-0.4	0.4	-0.8	1.24	-0.3	0.0	-1.5	-0.1	0.98	-3.4	1.40	5
+2016	425	Shane Robinson	http://www.baseball-reference.com/players/r/robinsh01.shtml	robinsh01	31	5	LAA	0.8	0.1	6	0.1	0.1	-0.0	.67	0.1	0.0	1.0	0.1	1.03	1.2		0
+2016	426	Hansel Robles	http://www.baseball-reference.com/players/r/robleha01.shtml	robleha01	25	1	NYM	-0.3	-0.0	1	-0.0	0.0	-0.0	.33	-0.0	0.0	-0.8	-0.1	1.43	-0.5		0
+2016	427	Alex Rodriguez	http://www.baseball-reference.com/players/r/rodrial01.shtml	rodrial01	40	77	NYY	0.6	0.1	79	0.2	1.8	-1.6	1.15	0.2	-0.1	0.3	0.0	1.02	3.3		0
+2016	428	Sean Rodriguez	http://www.baseball-reference.com/players/r/rodrise01.shtml	rodrise01	31	41	PIT	5.3	0.5	42	0.2	1.0	-0.8	1.04	0.7	-0.4	6.4	0.6	1.15	6.6	0.96	3
+2016	429	Jason Rogers	http://www.baseball-reference.com/players/r/rogerja02.shtml	rogerja02	28	12	PIT	0.4	0.0	13	-0.0	0.2	-0.3	1.39	-0.0	-0.0	0.6	0.1	1.00	0.1	2.97	2
+2016	430	Miguel Rojas	http://www.baseball-reference.com/players/r/rojasmi02.shtml	rojasmi02	27	25	MIA	-0.3	-0.0	25	-0.2	0.2	-0.4	.74	-0.1	-0.2	-1.0	-0.1	0.83	-1.0	0.76	3
+2016	431	Jimmy Rollins#	http://www.baseball-reference.com/players/r/rolliji01.shtml	rolliji01	37	80	CHW	-1.0	-0.1	83	0.3	1.7	-1.4	.99	-0.0	0.3	-3.0	-0.3	0.94	-0.2		0
+2016	432	Andrew Romine#	http://www.baseball-reference.com/players/r/rominan01.shtml	rominan01	30	13	DET	-0.9	-0.1	14	0.0	0.1	-0.1	.51	0.0	0.0	-0.6	-0.1	0.84	0.0		0
+2016	433	Austin Romine	http://www.baseball-reference.com/players/r/rominau01.shtml	rominau01	27	21	NYY	-0.6	-0.1	21	-0.1	0.4	-0.5	1.09	-0.1	0.0	-1.6	-0.2	1.04	-1.1		1
+2016	434	Adam Rosales	http://www.baseball-reference.com/players/r/rosalad01.shtml	rosalad01	33	55	SDP	-1.7	-0.2	56	-0.5	0.6	-1.1	.94	-0.2	-0.4	-0.8	-0.1	0.89	0.3	0.09	1
+2016	435	Eddie Rosario*	http://www.baseball-reference.com/players/r/rosared01.shtml	rosared01	24	84	MIN	-5.6	-0.6	88	-0.5	1.5	-2.0	1.22	-0.2	-0.2	-5.2	-0.5	0.92	-3.2	2.26	1
+2016	436	Trevor Rosenthal	http://www.baseball-reference.com/players/r/rosentr01.shtml	rosentr01	26	1	STL	-0.3	-0.0	1	0.0	0.0	0.0	.01	-0.0	0.0	-0.2	-0.0	0.74	-0.3		0
+2016	437	David Ross	http://www.baseball-reference.com/players/r/rossda01.shtml	rossda01	39	39	CHC	1.3	0.1	41	-0.0	0.6	-0.6	.87	0.3	-0.3	0.8	0.1	1.04	1.5		0
+2016	438	Joe Ross	http://www.baseball-reference.com/players/r/rossjo01.shtml	rossjo01	23	12	WSN	1.0	0.1	12	0.1	0.2	-0.1	.69	0.1	0.0	1.1	0.1	0.83	1.1	2.94	1
+2016	439	Tyson Ross	http://www.baseball-reference.com/players/r/rossty01.shtml	rossty01	29	1	SDP	-0.3	-0.0	1	-0.0	0.0	-0.0	.61	-0.0	-0.0	-0.1	-0.0	0.60	-0.2		0
+2016	440	Ryan Rua	http://www.baseball-reference.com/players/r/ruary01.shtml	ruary01	26	37	TEX	-0.8	-0.1	37	-0.3	0.4	-0.7	.89	-0.1	-0.2	-3.3	-0.3	1.00	-1.5		0
+2016	441	Darin Ruf	http://www.baseball-reference.com/players/r/rufda01.shtml	rufda01	29	42	PHI	-3.6	-0.4	46	-0.8	0.3	-1.1	.98	-0.4	-0.4	-6.4	-0.6	0.90	-5.4	1.27	11
+2016	442	Justin Ruggiano	http://www.baseball-reference.com/players/r/ruggiju01.shtml	ruggiju01	34	4	TEX	0.0	0.0	4	0.1	0.1	-0.1	.85	0.0	0.1	0.4	0.0	0.85	0.0		0
+2016	443	Carlos Ruiz	http://www.baseball-reference.com/players/r/ruizca01.shtml	ruizca01	37	42	PHI	2.9	0.3	44	0.1	0.8	-0.7	1.00	0.6	-0.5	2.3	0.2	0.91	5.7		0
+2016	444	Cameron Rupp	http://www.baseball-reference.com/players/r/ruppca01.shtml	ruppca01	27	58	PHI	-1.2	-0.1	59	-0.0	0.9	-0.9	.90	-0.2	0.1	-1.1	-0.1	0.86	-1.1		0
+2016	445	Chris Rusin*	http://www.baseball-reference.com/players/r/rusinch01.shtml	rusinch01	29	7	COL	-1.4	-0.1	7	-0.1	0.1	-0.2	1.09	-0.1	0.0	-1.1	-0.1	1.12	-1.3		0
+2016	446	Addison Russell	http://www.baseball-reference.com/players/r/russead02.shtml	russead02	22	89	CHC	-1.7	-0.2	91	0.9	2.0	-1.1	.86	0.1	0.9	1.8	0.2	1.05	0.2		0
+2016	447	Josh Rutledge	http://www.baseball-reference.com/players/r/rutlejo01.shtml	rutlejo01	27	10	BOS	1.4	0.1	10	0.1	0.3	-0.2	1.05	0.1	0.0	1.8	0.2	0.92	1.1	0.78	3
+2016	448	Tyler Saladino	http://www.baseball-reference.com/players/s/saladty01.shtml	saladty01	26	27	CHW	-2.8	-0.3	28	-0.3	0.2	-0.5	.85	-0.2	-0.1	-2.8	-0.3	0.94	-2.6	0.00	1
+2016	449	Danny Salazar*	http://www.baseball-reference.com/players/s/salazda01.shtml	salazda01	26	2	CLE	-0.5	-0.1	2	-0.0	0.0	-0.0	.89	-0.1	-0.0	-0.4	-0.0	0.74	-0.5		0
+2016	450	Jarrod Saltalamacchia#	http://www.baseball-reference.com/players/s/saltaja01.shtml	saltaja01	31	67	DET	4.4	0.4	67	0.6	1.7	-1.1	.95	0.5	0.1	6.9	0.7	1.02	5.9	3.13	1
+2016	451	Jeff Samardzija	http://www.baseball-reference.com/players/s/samarje01.shtml	samarje01	31	16	SFG	-0.8	-0.1	16	-0.1	0.3	-0.4	1.08	-0.1	0.0	0.3	0.0	1.21	-1.3		0
+2016	452	Keyvius Sampson	http://www.baseball-reference.com/players/s/sampske01.shtml	sampske01	25	1	CIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.11	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
+2016	453	Anibal Sanchez	http://www.baseball-reference.com/players/s/sanchan01.shtml	sanchan01	32	3	DET	-0.8	-0.1	3	-0.1	0.0	-0.1	.70	-0.1	-0.0	-1.3	-0.1	1.47	-0.9		0
+2016	454	Carlos Sanchez#	http://www.baseball-reference.com/players/s/sanchca01.shtml	sanchca01	24	8	CHW	0.2	0.0	8	0.2	0.2	-0.0	.99	0.1	0.1	-0.4	-0.0	0.95	0.0	2.14	1
+2016	455	Hector Sanchez#	http://www.baseball-reference.com/players/s/sanchhe01.shtml	sanchhe01	26	4	CHW	-0.3	-0.0	4	-0.0	0.0	-0.0	.67	-0.0	0.0	-0.6	-0.1	0.96	-0.5		0
+2016	456	Pablo Sandoval#	http://www.baseball-reference.com/players/s/sandopa01.shtml	sandopa01	29	7	BOS	-1.3	-0.1	7	-0.1	0.0	-0.1	.75	-0.1	-0.0	-1.0	-0.1	0.79	-1.1	1.51	2
+2016	457	Jerry Sands	http://www.baseball-reference.com/players/s/sandsje01.shtml	sandsje01	28	31	CHW	1.3	0.1	32	0.1	0.5	-0.3	.68	0.1	0.1	2.0	0.2	1.03	1.0	0.33	2
+2016	458	Miguel Sano	http://www.baseball-reference.com/players/s/sanomi01.shtml	sanomi01	23	106	MIN	3.6	0.4	106	0.7	2.7	-2.0	1.25	0.3	0.3	3.7	0.4	0.95	3.1	0.18	1
+2016	459	Carlos Santana#	http://www.baseball-reference.com/players/s/santaca01.shtml	santaca01	30	90	CLE	2.3	0.2	95	0.3	1.6	-1.3	.91	0.2	0.1	5.4	0.5	0.95	4.2		0
+2016	460	Danny Santana#	http://www.baseball-reference.com/players/s/santada01.shtml	santada01	25	38	MIN	-0.8	-0.1	46	-0.4	0.7	-1.1	1.38	-0.2	-0.1	-2.0	-0.2	0.91	-1.7		0
+2016	461	Domingo Santana	http://www.baseball-reference.com/players/s/santado01.shtml	santado01	23	96	MIL	1.1	0.1	98	0.2	1.9	-1.6	.90	0.3	-0.1	1.8	0.2	0.90	2.3	0.99	2
+2016	462	Luis Sardinas#	http://www.baseball-reference.com/players/s/sardilu01.shtml	sardilu01	23	23	SEA	-1.4	-0.1	27	-0.2	0.3	-0.5	1.07	-0.0	-0.1	-1.4	-0.1	1.03	-1.4	1.49	2
+2016	463	Michael Saunders*	http://www.baseball-reference.com/players/s/saundmi01.shtml	saundmi01	29	85	TOR	6.5	0.6	86	-0.1	1.4	-1.4	.96	0.9	-0.9	2.8	0.3	0.85	7.8		0
+2016	464	Rob Scahill*	http://www.baseball-reference.com/players/s/scahiro01.shtml	scahiro01	29	1	PIT	-0.3	-0.0	1	0.0	0.0	0.0	.00	0.0		-0.1	-0.0	0.38	-0.3		0
+2016	465	Scott Schebler*	http://www.baseball-reference.com/players/s/schebsc01.shtml	schebsc01	25	62	CIN	-3.8	-0.4	64	0.6	1.6	-1.0	.99	-0.3	0.9	-0.9	-0.1	0.88	-1.7	1.25	9
+2016	466	Max Scherzer	http://www.baseball-reference.com/players/s/scherma01.shtml	scherma01	31	15	WSN	-0.4	-0.0	15	-0.1	0.2	-0.2	.93	-0.0	-0.1	0.1	0.0	0.84	-0.4		0
+2016	467	Jonathan Schoop	http://www.baseball-reference.com/players/s/schoojo01.shtml	schoojo01	24	86	BAL	-2.2	-0.2	86	0.1	1.7	-1.7	.99	-0.0	0.1	-3.1	-0.3	0.92	-1.7		0
+2016	468	A.J. Schugel	http://www.baseball-reference.com/players/s/schugaj01.shtml	schugaj01	27	1	PIT	-0.3	-0.0	1	-0.0	0.0	-0.0	.04	-0.0	-0.0	-0.3	-0.0	0.86	-0.3		0
+2016	469	Kyle Schwarber*	http://www.baseball-reference.com/players/s/schwaky01.shtml	schwaky01	23	5	CHC	-0.8	-0.1	5	0.0	0.0	-0.0	.92	-0.1	0.1	-0.5	-0.0	1.25	-0.5		0
+2016	470	Corey Seager*	http://www.baseball-reference.com/players/s/seageco01.shtml	seageco01	22	109	LAD	-2.0	-0.2	112	-0.2	1.8	-1.9	1.01	-0.3	0.1	-1.0	-0.1	0.94	-1.7	2.37	1
+2016	471	Kyle Seager*	http://www.baseball-reference.com/players/s/seageky01.shtml	seageky01	28	98	SEA	-1.4	-0.1	98	-0.3	1.7	-2.1	1.06	-0.0	-0.3	-3.2	-0.3	0.97	0.2		0
+2016	472	Jean Segura	http://www.baseball-reference.com/players/s/segurje01.shtml	segurje01	26	116	ARI	3.6	0.3	125	1.4	3.4	-2.0	1.19	0.6	0.6	8.4	0.8	0.91	7.2		0
+2016	473	Marcus Semien	http://www.baseball-reference.com/players/s/semiema01.shtml	semiema01	25	92	OAK	-0.2	-0.0	93	-0.0	1.5	-1.6	.98	-0.2	0.1	-1.7	-0.2	0.98	0.4		0
+2016	474	Pedro Severino	http://www.baseball-reference.com/players/s/severpe01.shtml	severpe01	22	3	WSN	-0.3	-0.0	3	-0.0	0.0	-0.1	1.34	-0.0	0.0	-0.3	-0.0	0.84	-0.2		0
+2016	475	Travis Shaw*	http://www.baseball-reference.com/players/s/shawtr01.shtml	shawtr01	26	100	BOS	6.5	0.6	105	0.7	2.2	-1.5	.96	0.5	0.2	8.6	0.8	1.05	6.0		0
+2016	476	James Shields	http://www.baseball-reference.com/players/s/shielja02.shtml	shielja02	34	9	SDP	-1.5	-0.1	9	-0.2	0.0	-0.2	1.38	-0.2	0.0	-2.0	-0.2	1.11	-2.0		0
+2016	477	J.B. Shuck*	http://www.baseball-reference.com/players/s/shuckja01.shtml	shuckja01	29	11	CHW	-2.0	-0.2	12	-0.1	0.0	-0.1	.75	-0.2	0.1	-1.3	-0.1	0.91	-1.9		0
+2016	478	Andrelton Simmons	http://www.baseball-reference.com/players/s/simmoan01.shtml	simmoan01	26	98	LAA	-4.8	-0.5	98	-1.3	0.9	-2.2	.97	-0.6	-0.7	-8.3	-0.9	0.93	-7.3		0
+2016	479	Alfredo Simon	http://www.baseball-reference.com/players/s/simonal01.shtml	simonal01	35	4	CIN	-0.9	-0.1	4	-0.1	0.0	-0.1	.69	-0.1	0.0	-0.9	-0.1	0.76	-1.1		0
+2016	480	Mallex Smith*	http://www.baseball-reference.com/players/s/smithma05.shtml	smithma05	23	58	ATL	-1.4	-0.1	67	-0.0	1.3	-1.3	1.18	-0.3	0.3	-1.9	-0.2	1.01	-4.0	0.03	1
+2016	481	Seth Smith*	http://www.baseball-reference.com/players/s/smithse01.shtml	smithse01	33	75	SEA	7.9	0.8	76	0.4	1.4	-1.0	.94	0.8	-0.4	6.3	0.6	0.97	7.5	1.77	5
+2016	482	Justin Smoak#	http://www.baseball-reference.com/players/s/smoakju01.shtml	smoakju01	29	48	TOR	-0.6	-0.1	49	0.1	0.8	-0.7	1.02	-0.1	0.2	0.5	0.1	1.00	-1.6	1.69	4
+2016	483	Yangervis Solarte#	http://www.baseball-reference.com/players/s/solarya01.shtml	solarya01	28	19	SDP	2.2	0.2	20	0.2	0.3	-0.1	.67	0.2	0.1	3.2	0.3	0.98	2.9		0
+2016	484	Jorge Soler	http://www.baseball-reference.com/players/s/solerjo01.shtml	solerjo01	24	69	CHC	-3.1	-0.3	69	0.1	0.9	-0.8	.81	-0.1	0.2	-1.4	-0.1	0.94	-1.8	0.59	3
+2016	485	Geovany Soto	http://www.baseball-reference.com/players/s/sotoge01.shtml	sotoge01	33	35	LAA	3.7	0.4	35	0.8	1.4	-0.6	1.11	0.4	0.3	4.0	0.4	1.02	3.4	0.15	1
+2016	486	Steven Souza	http://www.baseball-reference.com/players/s/souzast01.shtml	souzast01	27	83	TBR	2.4	0.2	84	0.4	1.8	-1.4	1.01	0.3	0.1	1.4	0.1	0.88	4.5		0
+2016	487	Denard Span*	http://www.baseball-reference.com/players/s/spande01.shtml	spande01	32	111	SFG	-1.6	-0.2	120	0.4	2.0	-1.5	.92	-0.0	0.5	3.6	0.4	0.95	0.7	3.04	1
+2016	488	Cory Spangenberg*	http://www.baseball-reference.com/players/s/spangco01.shtml	spangco01	25	53	SDP	-1.5	-0.2	55	0.6	1.3	-0.7	1.08	-0.0	0.6	4.1	0.4	0.89	0.4	1.33	1
+2016	489	George Springer	http://www.baseball-reference.com/players/s/springe01.shtml	springe01	26	110	HOU	2.0	0.2	120	-0.6	1.8	-2.4	1.01	0.1	-0.7	4.0	0.4	0.97	2.7		0
+2016	490	Giancarlo Stanton	http://www.baseball-reference.com/players/s/stantmi03.shtml	stantmi03	26	99	MIA	5.4	0.5	99	0.5	2.2	-1.6	1.06	0.7	-0.2	6.7	0.6	1.00	8.7		0
+2016	491	Robert Stephenson	http://www.baseball-reference.com/players/s/stephro01.shtml	stephro01	23	5	CIN	-1.2	-0.1	5	-0.2	0.0	-0.2	1.01	-0.1	-0.0	-2.1	-0.2	1.24	-1.6		0
+2016	492	Chris Stewart	http://www.baseball-reference.com/players/s/stewach01.shtml	stewach01	34	25	PIT	-0.2	-0.0	25	-0.6	0.2	-0.8	1.32	-0.1	-0.3	-1.8	-0.2	0.96	-0.6	0.00	1
+2016	493	Trevor Story	http://www.baseball-reference.com/players/s/storytr01.shtml	storytr01	23	107	COL	3.5	0.3	109	0.1	2.2	-2.1	1.00	0.3	-0.2	1.9	0.2	0.87	1.5		0
+2016	494	Dan Straily	http://www.baseball-reference.com/players/s/straida01.shtml	straida01	27	6	CIN	-1.2	-0.1	6	-0.2	0.0	-0.2	1.36	-0.1	0.0	-1.5	-0.1	1.09	-1.4		0
+2016	495	Stephen Strasburg	http://www.baseball-reference.com/players/s/strasst01.shtml	strasst01	27	14	WSN	-1.8	-0.2	14	-0.2	0.1	-0.2	.75	-0.2	0.0	-2.1	-0.2	0.74	-2.3		0
+2016	496	Ross Stripling	http://www.baseball-reference.com/players/s/stripro01.shtml	stripro01	26	10	LAD	-1.9	-0.2	10	-0.2	0.0	-0.2	1.13	-0.2	-0.0	-1.6	-0.2	0.89	-1.8		0
+2016	497	Pedro Strop	http://www.baseball-reference.com/players/s/stroppe01.shtml	stroppe01	31	1	CHC	-0.3	-0.0	1	-0.0	0.0	-0.0	.15	-0.0	-0.0	-0.2	-0.0	0.86	-0.3		0
+2016	498	Drew Stubbs	http://www.baseball-reference.com/players/s/stubbdr01.shtml	stubbdr01	31	42	ATL	-1.7	-0.2	47	-0.1	0.8	-0.9	1.23	-0.1	0.0	-1.9	-0.2	1.07	-1.5	1.30	5
+2016	499	Eugenio Suarez	http://www.baseball-reference.com/players/s/suareeu01.shtml	suareeu01	24	101	CIN	-0.3	-0.0	108	0.5	2.3	-1.7	1.00	0.2	0.3	4.1	0.4	0.96	2.5		0
+2016	500	Ichiro Suzuki*	http://www.baseball-reference.com/players/s/suzukic01.shtml	suzukic01	42	38	MIA	0.1	0.0	40	0.4	0.8	-0.5	.86	-0.0	0.4	1.2	0.1	0.88	-0.1	0.68	6
+2016	501	Kurt Suzuki	http://www.baseball-reference.com/players/s/suzukku01.shtml	suzukku01	32	58	MIN	-2.6	-0.3	58	-0.6	0.8	-1.4	1.22	-0.2	-0.3	-4.5	-0.5	0.94	-3.3		0
+2016	502	Blake Swihart#	http://www.baseball-reference.com/players/s/swihabl01.shtml	swihabl01	24	23	BOS	0.1	0.0	24	0.0	0.5	-0.5	1.40	0.0	-0.0	-0.1	-0.0	1.16	0.2		0
+2016	503	Noah Syndergaard*	http://www.baseball-reference.com/players/s/syndeno01.shtml	syndeno01	23	10	NYM	-1.0	-0.1	10	-0.1	0.1	-0.2	1.02	-0.1	-0.0	-1.4	-0.1	1.02	-1.2		0
+2016	504	Matt Szczur	http://www.baseball-reference.com/players/s/szczuma01.shtml	szczuma01	26	31	CHC	2.8	0.3	32	0.2	0.4	-0.1	.34	0.3	0.5	7.0	0.7	1.12	2.6	0.46	7
+2016	505	Michael Taylor	http://www.baseball-reference.com/players/t/taylomi02.shtml	taylomi02	25	89	WSN	-7.6	-0.7	94	-0.6	1.0	-1.5	.99	-0.6	0.0	-8.3	-0.8	0.92	-6.7	1.04	2
+2016	506	Julio Teheran	http://www.baseball-reference.com/players/t/teherju01.shtml	teherju01	25	12	ATL	-2.8	-0.3	12	-0.2	0.0	-0.2	.86	-0.3	0.0	-2.1	-0.2	0.76	-3.1		0
+2016	507	Mark Teixeira#	http://www.baseball-reference.com/players/t/teixema01.shtml	teixema01	36	95	NYY	0.3	0.0	99	-0.1	1.6	-1.7	1.04	-0.1	0.0	3.8	0.4	0.94	0.7		0
+2016	508	Ruben Tejada	http://www.baseball-reference.com/players/t/tejadru01.shtml	tejadru01	26	16	STL	-1.4	-0.1	16	-0.1	0.2	-0.3	1.03	-0.2	0.1	-2.3	-0.2	1.04	-2.4	0.68	2
+2016	509	Josh Thole*	http://www.baseball-reference.com/players/t/tholejo01.shtml	tholejo01	29	29	TOR	-1.9	-0.2	30	-0.3	0.2	-0.6	.86	-0.2	-0.2	-4.1	-0.4	0.97	-2.6		0
+2016	510	Trayce Thompson	http://www.baseball-reference.com/players/t/thomptr01.shtml	thomptr01	25	52	LAD	-0.5	-0.1	56	-0.2	1.1	-1.2	1.32	0.0	-0.1	-0.7	-0.1	1.00	0.6	0.74	6
+2016	511	Yasmany Tomas	http://www.baseball-reference.com/players/t/tomasya01.shtml	tomasya01	25	100	ARI	2.7	0.3	103	-0.0	2.5	-2.5	1.34	0.2	-0.2	-0.1	-0.0	1.01	4.4	0.50	1
+2016	512	Kelby Tomlinson	http://www.baseball-reference.com/players/t/tomlike01.shtml	tomlike01	26	28	SFG	-3.7	-0.4	29	-0.3	0.1	-0.4	.73	-0.3	-0.1	-3.3	-0.3	0.94	-4.0	0.69	4
+2016	513	Michael Tonkin	http://www.baseball-reference.com/players/t/tonkimi01.shtml	tonkimi01	26	2	MIN	-0.5	-0.1	2	-0.1	0.0	-0.1	1.47	-0.1	-0.0	-0.6	-0.1	1.07	-0.6		0
+2016	514	Ronald Torreyes	http://www.baseball-reference.com/players/t/torrero01.shtml	torrero01	23	24	NYY	1.2	0.1	24	-0.1	0.2	-0.3	.74	0.1	-0.2	1.2	0.1	0.86	0.3	0.02	2
+2016	515	Mike Trout	http://www.baseball-reference.com/players/t/troutmi01.shtml	troutmi01	24	106	LAA	7.3	0.7	110	0.8	2.3	-1.5	.98	0.7	0.1	4.8	0.5	0.93	6.4		0
+2016	516	Mark Trumbo	http://www.baseball-reference.com/players/t/trumbma01.shtml	trumbma01	30	101	BAL	6.6	0.6	104	0.7	2.4	-1.7	1.03	0.7	-0.0	7.3	0.7	0.96	7.4		0
+2016	517	Preston Tucker*	http://www.baseball-reference.com/players/t/tuckepr01.shtml	tuckepr01	25	54	HOU	-1.7	-0.2	54	-0.1	0.7	-0.9	.91	-0.1	-0.1	-1.7	-0.2	0.85	-0.3	1.24	7
+2016	518	Troy Tulowitzki	http://www.baseball-reference.com/players/t/tulowtr01.shtml	tulowtr01	31	103	TOR	-2.0	-0.2	106	-0.3	1.4	-1.7	.96	-0.3	0.0	-1.7	-0.2	0.95	-4.3		0
+2016	519	Justin Turner	http://www.baseball-reference.com/players/t/turneju01.shtml	turneju01	31	91	LAD	-2.7	-0.3	93	-0.0	1.5	-1.5	1.07	-0.5	0.5	-1.3	-0.1	0.92	-3.1	2.85	3
+2016	520	Justin Upton	http://www.baseball-reference.com/players/u/uptonju01.shtml	uptonju01	28	103	DET	-4.1	-0.4	106	0.3	1.6	-1.3	.77	-0.1	0.5	-0.0	-0.0	0.96	-1.5	0.43	1
+2016	521	Melvin Upton	http://www.baseball-reference.com/players/u/uptonbj01.shtml	uptonbj01	31	97	SDP	-1.3	-0.1	106	0.3	2.1	-1.8	1.05	0.0	0.2	-0.1	-0.0	0.93	0.8	0.76	2
+2016	522	Jose Urena	http://www.baseball-reference.com/players/u/urenajo01.shtml	urenajo01	24	1	MIA	0.0	0.0	1	-0.0	0.0	-0.0	.31	-0.0	0.0	-0.2	-0.0	1.40	-0.1		0
+2016	523	Juan Uribe	http://www.baseball-reference.com/players/u/uribeju01.shtml	uribeju01	37	62	CLE	-1.7	-0.2	63	0.1	0.9	-0.9	.92	-0.2	0.3	-0.6	-0.1	0.86	-1.9		0
+2016	524	Chase Utley*	http://www.baseball-reference.com/players/u/utleych01.shtml	utleych01	37	96	LAD	2.8	0.3	100	0.6	2.1	-1.5	1.03	0.5	0.1	5.6	0.6	0.93	4.6	2.92	3
+2016	525	Luis Valbuena*	http://www.baseball-reference.com/players/v/valbulu01.shtml	valbulu01	30	69	HOU	-3.2	-0.3	69	-0.1	0.8	-1.0	.79	-0.2	0.0	-2.3	-0.2	0.83	-2.4	1.48	1
+2016	526	Danny Valencia	http://www.baseball-reference.com/players/v/valenda01.shtml	valenda01	31	55	OAK	-0.2	-0.0	59	-0.3	0.9	-1.2	1.07	-0.0	-0.2	-0.7	-0.1	0.92	0.2		0
+2016	527	Scott Van Slyke	http://www.baseball-reference.com/players/v/vanslsc01.shtml	vanslsc01	29	10	LAD	-1.1	-0.1	10	-0.0	0.2	-0.2	1.34	-0.0	0.0	0.4	0.0	1.21	-0.7		0
+2016	528	Cesar Vargas	http://www.baseball-reference.com/players/v/vargace01.shtml	vargace01	24	4	SDP	-0.8	-0.1	4	-0.1	0.0	-0.1	.81	-0.1	0.0	-0.7	-0.1	0.80	-0.9		0
+2016	529	Christian Vazquez	http://www.baseball-reference.com/players/v/vazquch01.shtml	vazquch01	25	43	BOS	-1.2	-0.1	43	0.1	0.6	-0.5	.66	-0.1	0.2	-3.7	-0.4	0.92	-1.7		0
+2016	530	Vincent Velasquez#	http://www.baseball-reference.com/players/v/velasvi01.shtml	velasvi01	24	11	PHI	-1.5	-0.2	11	-0.2	0.1	-0.3	1.11	-0.2	-0.0	-2.5	-0.2	1.06	-1.8		0
+2016	531	Justin Verlander	http://www.baseball-reference.com/players/v/verlaju01.shtml	verlaju01	33	3	DET	-0.1	-0.0	3	0.0	0.0	-0.0	.44	-0.0	0.0	-0.2	-0.0	0.76	-0.2		0
+2016	532	Logan Verrett	http://www.baseball-reference.com/players/v/verrelo01.shtml	verrelo01	26	5	NYM	0.0	0.0	5	0.0	0.0	-0.0	.62	0.0	-0.0	0.2	0.0	0.99	0.5		0
+2016	533	Carlos Villanueva	http://www.baseball-reference.com/players/v/villaca01.shtml	villaca01	32	1	SDP	-0.3	-0.0	1	0.0	0.0	0.0	.02	-0.0	0.0	-0.1	-0.0	0.40	-0.3		0
+2016	534	Jonathan Villar#	http://www.baseball-reference.com/players/v/villajo01.shtml	villajo01	25	91	MIL	0.3	0.0	100	-0.2	1.2	-1.4	.85	-0.1	-0.2	-1.2	-0.1	0.91	-1.1		0
+2016	535	Ryan Vogelsong	http://www.baseball-reference.com/players/v/vogelry01.shtml	vogelry01	38	1	PIT	-0.3	-0.0	1	-0.0	0.0	-0.0	.45	-0.0	-0.0	-0.2	-0.0	0.61	-0.3		0
+2016	536	Stephen Vogt*	http://www.baseball-reference.com/players/v/vogtst01.shtml	vogtst01	31	85	OAK	0.6	0.1	85	-0.3	1.4	-1.7	1.15	0.0	-0.3	-0.5	-0.1	0.97	0.0	1.63	2
+2016	537	Joey Votto*	http://www.baseball-reference.com/players/v/vottojo01.shtml	vottojo01	32	103	CIN	-3.1	-0.3	104	-0.0	1.7	-1.7	1.02	-0.1	0.1	2.5	0.2	0.90	-2.0		0
+2016	538	Michael Wacha	http://www.baseball-reference.com/players/w/wachami01.shtml	wachami01	24	11	STL	-2.9	-0.3	11	-0.3	0.0	-0.3	1.08	-0.3	-0.0	-3.9	-0.4	1.14	-3.3		0
+2016	539	Tyler Wagner	http://www.baseball-reference.com/players/w/wagnety01.shtml	wagnety01	25	2	ARI	-0.6	-0.1	2	-0.0	0.0	-0.0	.58	-0.1	0.0	-0.3	-0.0	0.50	-0.5		0
+2016	540	Adam Wainwright	http://www.baseball-reference.com/players/w/wainwad01.shtml	wainwad01	34	11	STL	-1.3	-0.1	11	0.2	0.4	-0.2	1.51	-0.1	0.2	1.0	0.1	1.17	-0.4		0
+2016	541	Neil Walker#	http://www.baseball-reference.com/players/w/walkene01.shtml	walkene01	30	96	NYM	6.1	0.6	97	0.5	2.0	-1.5	.89	1.2	-0.6	8.0	0.8	0.95	11.4		0
+2016	542	Brett Wallace*	http://www.baseball-reference.com/players/w/wallabr01.shtml	wallabr01	29	32	SDP	-0.6	-0.1	32	0.0	0.5	-0.5	1.26	-0.0	0.0	0.9	0.1	0.93	0.4	1.96	5
+2016	543	Colin Walsh#	http://www.baseball-reference.com/players/w/walshco02.shtml	walshco02	26	35	MIL	-1.4	-0.1	35	-0.1	0.3	-0.5	.77	-0.1	-0.1	-0.4	-0.0	0.95	-0.7	0.80	9
+2016	544	Adam Warren	http://www.baseball-reference.com/players/w/warread01.shtml	warread01	28	1	CHC	-0.3	-0.0	1	-0.0	0.0	-0.0	.28	-0.0	0.0	-0.1	-0.0	0.39	-0.3		0
+2016	545	Tony Watson*	http://www.baseball-reference.com/players/w/watsoto01.shtml	watsoto01	31	1	PIT	0.0	0.0	1	-0.0	0.0	-0.0	.34	-0.0	0.0	-0.2	-0.0	1.12	-0.2		0
+2016	546	Ryan Weber	http://www.baseball-reference.com/players/w/weberry01.shtml	weberry01	25	1	ATL	-0.3	-0.0	1	-0.0	0.0	-0.0	.09	-0.0	0.0	-0.2	-0.0	0.61	-0.3		0
+2016	547	Jemile Weeks#	http://www.baseball-reference.com/players/w/weeksje01.shtml	weeksje01	29	38	SDP	-3.0	-0.3	38	-0.3	0.4	-0.7	.89	-0.3	-0.0	-1.9	-0.2	0.92	-2.8		0
+2016	548	Rickie Weeks	http://www.baseball-reference.com/players/w/weeksri01.shtml	weeksri01	33	22	ARI	-0.7	-0.1	24	0.5	0.7	-0.2	1.11	0.2	0.2	2.8	0.3	1.02	2.9	1.16	16
+2016	549	Jayson Werth	http://www.baseball-reference.com/players/w/werthja01.shtml	werthja01	37	86	WSN	-1.6	-0.2	88	-0.0	1.7	-1.8	1.17	-0.1	0.1	-2.5	-0.2	1.00	-1.8		0
+2016	550	Tyler White	http://www.baseball-reference.com/players/w/whitety01.shtml	whitety01	25	90	HOU	1.7	0.2	90	-0.4	1.4	-1.8	1.07	0.5	-0.9	1.0	0.1	0.97	3.7		1
+2016	551	Matt Wieters#	http://www.baseball-reference.com/players/w/wietema01.shtml	wietema01	30	62	BAL	-2.6	-0.3	62	0.1	1.4	-1.3	1.17	-0.2	0.3	-2.0	-0.2	0.99	-1.7		1
+2016	552	Mac Williamson	http://www.baseball-reference.com/players/w/willima11.shtml	willima11	25	3	SFG	-0.8	-0.1	3	-0.1	0.0	-0.1	1.14	-0.1	0.0	-0.6	-0.1	0.74	-0.8	1.14	3
+2016	553	Bobby Wilson	http://www.baseball-reference.com/players/w/wilsobo02.shtml	wilsobo02	33	15	DET	-1.6	-0.2	16	-0.2	0.0	-0.2	.57	-0.2	-0.1	-1.6	-0.2	1.13	-2.0		0
+2016	554	Matt Wisler	http://www.baseball-reference.com/players/w/wislema01.shtml	wislema01	23	9	ATL	-1.2	-0.1	9	-0.3	0.0	-0.3	1.61	-0.2	-0.0	-2.9	-0.3	1.33	-1.8		0
+2016	555	Tony Wolters*	http://www.baseball-reference.com/players/w/wolteto01.shtml	wolteto01	24	43	COL	-4.0	-0.4	46	-0.2	0.4	-0.6	.94	-0.3	0.0	-1.7	-0.2	0.93	-2.2	1.66	2
+2016	556	Kolten Wong*	http://www.baseball-reference.com/players/w/wongko01.shtml	wongko01	25	65	STL	-4.1	-0.4	71	-0.2	0.9	-1.1	.90	-0.0	-0.2	-1.5	-0.1	0.98	-0.4	1.49	3
+2016	557	Alex Wood	http://www.baseball-reference.com/players/w/woodal02.shtml	woodal02	25	12	LAD	-0.7	-0.1	12	-0.1	0.1	-0.2	1.04	-0.1	-0.0	-1.8	-0.2	1.02	-1.4		0
+2016	558	Blake Wood	http://www.baseball-reference.com/players/w/woodbl01.shtml	woodbl01	30	1	CIN	-0.3	-0.0	1	-0.0	0.0	-0.0	.32	-0.0	-0.0	-0.3	-0.0	1.05	-0.3		0
+2016	559	David Wright	http://www.baseball-reference.com/players/w/wrighda03.shtml	wrighda03	33	91	NYM	2.2	0.2	95	-0.4	1.2	-1.6	.95	0.3	-0.7	-2.2	-0.2	1.00	2.6		0
+2016	560	Christian Yelich*	http://www.baseball-reference.com/players/y/yelicch01.shtml	yelicch01	24	103	MIA	8.4	0.8	109	0.3	1.7	-1.3	.93	0.6	-0.3	3.6	0.3	0.95	6.4	0.30	1
+2016	561	Chris Young	http://www.baseball-reference.com/players/y/youngch04.shtml	youngch04	32	29	BOS	-1.5	-0.2	29	-0.4	0.3	-0.7	1.07	-0.1	-0.2	-2.0	-0.2	0.99	-1.7	1.05	6
+2016	562	Ryan Zimmerman	http://www.baseball-reference.com/players/z/zimmery01.shtml	zimmery01	31	83	WSN	-4.2	-0.4	85	-0.3	1.2	-1.5	.96	-0.1	-0.2	-3.3	-0.3	0.85	-1.7		0
+2016	563	Jordan Zimmermann	http://www.baseball-reference.com/players/z/zimmejo02.shtml	zimmejo02	30	2	DET	0.2	0.0	2	0.0	0.0	-0.0	.56	0.0	0.0	0.3	0.0	0.62	0.2		0
+2016	564	Ben Zobrist#	http://www.baseball-reference.com/players/z/zobribe01.shtml	zobribe01	35	95	CHC	1.0	0.1	101	0.2	1.6	-1.4	.95	0.0	0.2	-0.5	-0.0	1.05	1.0		0

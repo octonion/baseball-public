@@ -1,449 +1,461 @@
-2016,1,Fernando Abad*,/players/a/abadfe01.shtml,abadfe01,30,MIN,9.2,10,0,1,0.93,4.15,-0.35,-0.30,104.9,4.40,3,0.4,1.29,0.0,0.5,5,.539,.502,,Free Agency
-2016,2,A.J. Achter,/players/a/achteaj01.shtml,achteaj01,27,LAA,1.0,1,0,0,0.00,4.28,0.20,-0.31,88.0,3.33,0,0.0,.10,-0.0,0.0,0,.539,.500,,Waivers
-2016,3,Matt Albers,/players/a/alberma01.shtml,alberma01,33,CHW,10.2,10,0,0,0.00,4.27,0.32,-0.31,98.1,3.58,4,0.4,1.61,0.1,0.7,5,.545,.503,,Free Agency
-2016,4,Cody Allen,/players/a/allenco01.shtml,allenco01,27,CLE,9.2,10,0,7,6.52,4.40,-0.32,-0.32,105.7,4.66,-2,-0.3,1.75,-0.1,-0.3,-1,.474,.498,,Amateur Draft
-2016,5,Jose Alvarez*,/players/a/alvarjo02.shtml,alvarjo02,27,LAA,11.1,11,0,6,4.76,4.46,0.30,-0.32,91.9,3.53,-2,-0.2,1.59,-0.1,-0.2,-1,.480,.499,,Traded
-2016,6,Chase Anderson,/players/a/anderch01.shtml,anderch01,28,MIL,20.0,4,4,14,6.30,4.16,0.21,0.17,103.5,4.27,-4,-0.4,,-0.0,-0.2,-3,.407,.498,,Traded
-2016,7,Cody Anderson,/players/a/anderco01.shtml,anderco01,25,CLE,20.0,4,4,17,7.65,4.44,-0.43,0.18,105.3,5.32,-6,-0.6,,-0.0,-0.4,-3,.356,.496,,Amateur Draft
-2016,8,Elvis Araujo*,/players/a/araujel01.shtml,araujel01,24,PHI,3.2,6,0,1,2.45,4.34,-0.11,-0.31,102.4,4.24,1,0.1,1.59,0.0,0.1,1,.515,.501,,Free Agency
-2016,9,Chris Archer,/players/a/archech01.shtml,archech01,27,TBR,26.1,5,5,18,6.15,4.39,0.00,0.18,99.4,4.53,-6,-0.6,,-0.0,-0.4,-2,.385,.496,,Traded
-2016,10,Jake Arrieta,/players/a/arrieja01.shtml,arrieja01,30,CHC,36.0,5,5,4,1.00,4.00,0.42,0.17,100.3,3.76,12,1.4,,-0.1,1.7,14,.786,.509,,Traded
-2016,11,Luis Avilan*,/players/a/avilalu01.shtml,avilalu01,26,LAD,0.2,3,0,3,40.50,5.56,0.66,-0.39,138.0,6.22,-3,-0.2,2.02,-0.1,-0.4,-2,.419,.499,,Traded
-2016,12,John Axford,/players/a/axforjo01.shtml,axforjo01,33,OAK,11.0,10,0,1,0.82,4.37,-0.55,-0.32,96.3,4.44,4,0.5,1.68,0.1,0.7,5,.547,.503,,Free Agency
-2016,13,Pedro Baez,/players/b/baezpe01.shtml,baezpe01,28,LAD,10.2,11,0,3,2.53,4.17,0.26,-0.29,102.7,3.71,2,0.2,1.57,-0.0,0.3,2,.516,.501,,Amateur Free Agent
-2016,14,Andrew Bailey,/players/b/bailean01.shtml,bailean01,32,PHI,2.0,1,0,0,0.00,4.10,-0.11,-0.29,104.0,4.08,1,0.1,1.90,0.0,0.2,1,.607,.501,,Free Agency
-2016,15,Johnny Barbato,/players/b/barbajo01.shtml,barbajo01,23,NYY,10.2,8,0,3,2.53,4.57,-0.42,-0.33,100.0,4.66,2,0.2,.92,-0.0,0.3,3,.531,.502,,Traded
-2016,16,Matt Barnes,/players/b/barnema01.shtml,barnema01,26,BOS,11.1,9,0,6,4.76,4.41,0.21,-0.32,109.0,4.23,-1,-0.1,1.02,-0.0,-0.0,0,.487,.499,,Amateur Draft
-2016,17,Tony Barnette,/players/b/barneto01.shtml,barneto01,32,TEX,9.2,9,0,4,3.72,4.51,0.71,-0.33,105.1,3.66,-0,-0.0,1.19,-0.0,0.0,1,.495,.500,,Free Agency
-2016,18,Kyle Barraclough,/players/b/barraky01.shtml,barraky01,26,MIA,6.2,8,0,0,0.00,4.34,-0.23,-0.31,94.0,4.01,3,0.3,1.31,0.0,0.4,4,.542,.502,,Traded
-2016,19,Jake Barrett,/players/b/barreja01.shtml,barreja01,24,ARI,7.0,6,0,3,3.86,4.27,0.33,-0.30,103.0,3.75,0,0.0,.99,-0.0,0.0,1,.502,.500,,Amateur Draft
-2016,20,Chris Bassitt,/players/b/bassich01.shtml,bassich01,27,OAK,28.0,5,5,20,6.43,4.52,-0.60,0.18,95.8,5.08,-5,-0.5,,-0.1,-0.3,-2,.394,.497,,Traded
-2016,21,Antonio Bastardo*,/players/b/bastaan01.shtml,bastaan01,30,NYM,9.1,8,0,3,2.89,4.05,-0.78,-0.29,94.9,4.31,2,0.2,1.05,-0.0,0.2,2,.523,.501,,Free Agency
-2016,22,Trevor Bauer,/players/b/bauertr01.shtml,bauertr01,25,CLE,11.1,6,0,6,4.76,4.41,-0.30,-0.32,104.2,4.58,-1,-0.1,.30,-0.0,0.0,1,.488,.500,,Traded
-2016,23,Cam Bedrosian,/players/b/bedroca01.shtml,bedroca01,24,LAA,2.0,2,0,1,4.50,4.49,0.30,-0.32,88.0,3.40,-0,-0.0,.40,0.0,-0.0,-0,.482,.500,,Amateur Draft
-2016,24,Matt Belisle,/players/b/belisma01.shtml,belisma01,36,WSN,6.0,7,0,1,1.50,3.94,-0.21,-0.28,101.4,3.93,2,0.2,.58,-0.1,0.2,2,.527,.501,,Free Agency
-2016,25,Joaquin Benoit,/players/b/benoijo01.shtml,benoijo01,38,SEA,5.0,5,0,2,3.60,4.15,0.24,-0.30,105.1,3.80,-0,-0.0,1.77,-0.0,0.0,1,.498,.500,,Traded
-2016,26,Christian Bergman,/players/b/bergmch01.shtml,bergmch01,28,COL,13.0,6,1,11,7.62,4.48,-0.03,-0.12,119.2,5.23,-3,-0.3,1.21,-0.1,-0.3,-2,.449,.498,,Amateur Draft
-2016,27,Jose Berrios,/players/b/berrijo01.shtml,berrijo01,22,MIN,4.0,1,1,5,11.25,3.87,-0.50,0.16,106.0,4.80,-3,-0.3,,-0.0,-0.2,-3,.248,.498,,Amateur Draft
-2016,28,Dellin Betances,/players/b/betande01.shtml,betande01,28,NYY,10.0,10,0,4,3.60,4.50,-0.24,-0.32,99.3,4.39,1,0.1,1.56,-0.0,0.1,2,.506,.500,,Amateur Draft
-2016,29,Chad Bettis,/players/b/bettich01.shtml,bettich01,27,COL,31.0,5,5,14,4.06,4.33,-0.03,0.18,119.0,5.40,5,0.6,,-0.1,0.8,7,.623,.504,,Amateur Draft
-2016,30,Joe Biagini,/players/b/biagijo01.shtml,biagijo01,26,TOR,6.2,5,0,2,2.70,4.20,0.31,-0.30,102.6,3.68,0,0.1,.69,-0.0,0.1,1,.511,.500,,Rule 5 Draft
-2016,31,Aaron Blair,/players/b/blairaa01.shtml,blairaa01,24,ATL,5.1,1,1,3,5.06,4.74,-1.03,0.20,92.0,5.50,0,0.0,,-0.0,0.1,1,.544,.500,,Traded
-2016,32,Joe Blanton,/players/b/blantjo01.shtml,blantjo01,35,LAD,9.1,10,0,1,0.96,4.40,0.27,-0.31,94.8,3.61,3,0.3,.69,-0.1,0.3,4,.532,.502,,Free Agency
-2016,33,Michael Blazek,/players/b/blazemi01.shtml,blazemi01,27,MIL,10.0,10,0,3,2.70,4.33,0.17,-0.31,102.0,3.93,2,0.2,1.43,-0.0,0.2,2,.517,.501,,Traded
-2016,34,Jerry Blevins*,/players/b/blevije01.shtml,blevije01,32,NYM,5.2,9,0,2,3.18,3.94,-0.88,-0.28,95.0,4.31,1,0.1,1.84,0.0,0.2,1,.510,.501,,Traded
-2016,35,Matthew Bowman,/players/b/bowmama01.shtml,bowmama01,25,STL,9.0,8,0,3,3.00,4.24,0.23,-0.30,100.0,3.72,1,0.1,.53,-0.1,0.1,2,.513,.501,,Rule 5 Draft
-2016,36,Matt Boyd*,/players/b/boydma01.shtml,boydma01,25,DET,4.2,1,0,0,0.00,3.87,-0.30,-0.28,98.0,3.81,2,0.2,.90,-0.0,0.2,2,.732,.501,,Traded
-2016,37,Blaine Boyer,/players/b/boyerbl01.shtml,boyerbl01,34,MIL,9.1,8,0,3,2.89,4.34,0.24,-0.31,102.0,3.87,1,0.1,.51,-0.1,0.1,2,.517,.501,,Free Agency
-2016,38,Brad Brach,/players/b/brachbr01.shtml,brachbr01,30,BAL,13.1,11,0,1,0.68,4.35,-0.37,-0.31,104.5,4.60,5,0.6,1.07,-0.0,0.7,7,.557,.504,,Traded
-2016,39,Silvino Bracho,/players/b/brachsi01.shtml,brachsi01,23,ARI,1.2,2,0,3,16.20,3.73,0.50,-0.26,112.0,3.32,-2,-0.2,1.01,-0.0,-0.2,-2,.391,.499,,Amateur Free Agent
-2016,40,Archie Bradley,/players/b/bradlar01.shtml,bradlar01,23,ARI,4.1,1,1,5,10.38,4.92,0.36,0.21,92.0,4.38,-3,-0.2,,-0.0,-0.2,-3,.276,.499,,Amateur Draft
-2016,41,Craig Breslow*,/players/b/breslcr01.shtml,breslcr01,35,MIA,11.0,10,0,3,2.45,4.20,-0.41,-0.30,94.9,4.09,2,0.2,.85,-0.1,0.3,3,.524,.502,,Free Agency
-2016,42,Zach Britton*,/players/b/brittza01.shtml,brittza01,28,BAL,8.1,9,0,2,2.16,4.49,-0.39,-0.32,104.6,4.77,2,0.2,1.32,0.0,0.3,3,.527,.502,,Amateur Draft
-2016,43,Mike Broadway,/players/b/broadmi01.shtml,broadmi01,29,SFG,2.1,3,0,1,3.86,4.04,-0.07,-0.29,92.0,3.53,-0,-0.0,.31,-0.0,0.0,0,.499,.500,,Free Agency
-2016,44,Jonathan Broxton,/players/b/broxtjo01.shtml,broxtjo01,32,STL,8.2,9,0,1,1.04,4.26,0.18,-0.30,97.4,3.69,3,0.3,.78,-0.1,0.3,3,.533,.502,,Traded
-2016,45,Clay Buchholz,/players/b/buchhcl01.shtml,buchhcl01,31,BOS,27.2,5,5,20,6.51,4.47,0.23,0.18,109.2,4.82,-6,-0.6,,-0.1,-0.4,-3,.377,.496,,Amateur Draft
-2016,46,Ryan Buchter*,/players/b/buchtry01.shtml,buchtry01,29,SDP,9.2,10,0,1,0.93,4.16,0.25,-0.29,95.6,3.46,3,0.3,.90,-0.1,0.3,4,.532,.502,,Free Agency
-2016,47,Madison Bumgarner*,/players/b/bumgama01.shtml,bumgama01,26,SFG,29.2,5,5,15,4.55,4.39,-0.07,0.18,93.2,4.32,0,0.0,,-0.1,0.2,2,.502,.500,,Amateur Draft
-2016,48,Dylan Bundy,/players/b/bundydy01.shtml,bundydy01,23,BAL,9.0,7,0,2,2.00,4.38,-0.62,-0.32,106.8,5.01,3,0.3,1.03,-0.0,0.4,4,.545,.502,,Amateur Draft
-2016,49,Enrique Burgos,/players/b/burgoen02.shtml,burgoen02,25,ARI,2.2,3,0,3,10.13,4.35,0.24,-0.31,112.0,4.26,-2,-0.2,.24,0.0,-0.1,-1,.445,.499,,Amateur Free Agent
-2016,50,Matt Buschmann,/players/b/buschma01.shtml,buschma01,32,ARI,4.1,3,0,1,2.08,4.58,0.24,-0.32,94.4,3.80,1,0.1,.71,-0.0,0.1,1,.534,.501,,Free Agency
-2016,51,Eddie Butler,/players/b/butleed01.shtml,butleed01,25,COL,2.1,1,0,1,3.86,4.52,-0.02,-0.32,138.0,5.82,1,0.1,.40,-0.0,0.1,1,.562,.500,,Amateur Draft
-2016,52,Trevor Cahill,/players/c/cahiltr01.shtml,cahiltr01,28,CHC,7.1,9,0,4,4.91,4.07,0.62,-0.29,99.2,3.14,-1,-0.1,.47,-0.0,-0.1,-1,.486,.499,,Free Agency
-2016,53,Matt Cain,/players/c/cainma01.shtml,cainma01,31,SFG,21.0,4,4,15,6.43,4.07,-0.08,0.17,102.2,4.42,-4,-0.4,,-0.0,-0.2,-3,.403,.498,,Amateur Draft
-2016,54,Arquimedes Caminero,/players/c/caminar01.shtml,caminar01,29,PIT,11.0,11,0,6,4.91,4.04,0.28,-0.29,100.8,3.51,-1,-0.1,1.06,-0.1,-0.1,-1,.487,.499,,Purchased
-2016,55,Leonel Campos,/players/c/campole01.shtml,campole01,28,SDP,0.1,1,0,7,189.00,4.51,1.92,-0.32,88.0,2.00,-7,-0.4,.33,0.1,-0.2,-7,.115,.498,,Amateur Free Agent
-2016,56,Chris Capuano*,/players/c/capuach01.shtml,capuach01,37,MIL,12.1,9,0,6,4.38,4.31,0.18,-0.30,99.9,3.82,-0,-0.0,.52,-0.1,0.0,0,.495,.500,,Free Agency
-2016,57,Carlos Carrasco,/players/c/carraca01.shtml,carraca01,29,CLE,22.0,4,4,6,2.45,4.31,-0.30,0.17,104.8,5.01,5,0.7,,-0.0,0.9,8,.671,.504,,Traded
-2016,58,Andrew Cashner,/players/c/cashnan01.shtml,cashnan01,29,SDP,23.2,5,5,16,6.08,4.26,0.40,0.18,91.5,3.69,-6,-0.5,,-0.1,-0.4,-4,.395,.497,,Traded
-2016,59,Santiago Casilla,/players/g/garcija01.shtml,garcija01,35,SFG,7.2,8,0,2,2.35,4.40,-0.06,-0.31,92.6,3.85,1,0.2,2.47,0.1,0.3,2,.520,.501,,Free Agency
-2016,60,Miguel Castro,/players/c/castrmi01.shtml,castrmi01,21,COL,6.0,6,0,1,1.50,4.48,-0.02,-0.32,124.3,5.20,3,0.3,1.74,0.1,0.4,3,.547,.502,,Traded
-2016,61,Brett Cecil*,/players/c/cecilbr01.shtml,cecilbr01,29,TOR,8.2,11,0,6,6.23,4.42,0.37,-0.32,101.1,3.78,-3,-0.3,2.09,-0.2,-0.4,-2,.473,.498,,Amateur Draft
-2016,62,Xavier Cedeno*,/players/c/cedenxa01.shtml,cedenxa01,29,TBR,6.0,8,0,1,1.50,4.19,0.01,-0.30,99.9,3.88,1,0.2,1.35,0.0,0.2,2,.520,.501,,Purchased
-2016,63,Hunter Cervenka*,/players/c/cervehu01.shtml,cervehu01,26,ATL,6.1,10,0,0,0.00,4.79,-0.58,-0.34,98.1,4.93,4,0.4,1.13,-0.0,0.4,4,.539,.502,,Free Agency
-2016,64,Luis Cessa,/players/c/cessalu01.shtml,cessalu01,24,NYY,2.0,1,0,1,4.50,4.21,-0.56,-0.31,98.0,4.37,-0,-0.0,.17,-0.0,0.0,0,.489,.500,,Traded
-2016,65,Jhoulys Chacin,/players/c/chacijh01.shtml,chacijh01,28,ATL,22.0,4,4,9,3.68,4.21,-0.90,0.18,101.2,5.36,5,0.5,,-0.0,0.7,6,.633,.503,,Free Agency
-2016,66,Andrew Chafin*,/players/c/chafian01.shtml,chafian01,26,ARI,9.2,12,0,3,2.79,4.44,0.23,-0.31,104.4,4.06,2,0.2,.99,-0.1,0.2,2,.514,.501,,Amateur Draft
-2016,67,Joba Chamberlain,/players/c/chambjo03.shtml,chambjo03,30,CLE,5.1,6,0,0,0.00,4.44,-0.31,-0.32,107.4,4.76,3,0.3,.25,-0.1,0.2,3,.551,.502,,Free Agency
-2016,68,Tyler Chatwood,/players/c/chatwty01.shtml,chatwty01,26,COL,23.1,4,4,10,3.86,4.48,-0.04,0.19,121.1,5.70,5,0.6,,-0.1,0.8,7,.655,.504,,Traded
-2016,69,Jesse Chavez,/players/c/chaveje01.shtml,chaveje01,32,TOR,8.0,9,0,2,2.25,4.25,0.26,-0.31,98.4,3.63,1,0.1,.92,-0.0,0.2,2,.512,.501,,Traded
-2016,70,Wei-Yin Chen*,/players/c/chenwe02.shtml,chenwe02,30,MIA,25.0,4,4,12,4.32,4.12,-0.39,0.17,95.3,4.47,1,0.1,,-0.1,0.3,3,.530,.501,,Free Agency
-2016,71,Tony Cingrani*,/players/c/cingrto01.shtml,cingrto01,26,CIN,8.2,11,0,4,4.15,4.22,-0.13,-0.30,99.6,4.04,0,0.0,1.41,-0.0,0.1,1,.501,.500,,Amateur Draft
-2016,72,Steve Cishek,/players/c/cishest01.shtml,cishest01,30,SEA,10.0,9,0,1,0.90,4.25,0.24,-0.31,95.4,3.53,3,0.3,2.01,0.1,0.5,4,.533,.502,,Free Agency
-2016,73,Alex Claudio*,/players/c/claudal01.shtml,claudal01,24,TEX,4.1,3,0,1,2.08,4.39,0.74,-0.32,94.6,3.15,0,0.0,.40,-0.0,0.1,1,.514,.500,,Amateur Draft
-2016,74,Tyler Clippard,/players/c/clippty01.shtml,clippty01,31,ARI,9.0,9,0,2,2.00,4.54,0.24,-0.32,100.5,4.00,2,0.2,1.61,0.0,0.3,3,.526,.501,,Free Agency
-2016,75,Gerrit Cole,/players/c/colege01.shtml,colege01,25,PIT,22.2,4,4,9,3.57,4.03,0.30,0.17,107.5,4.20,2,0.2,,-0.0,0.4,4,.560,.501,,Amateur Draft
-2016,76,Louis Coleman,/players/c/colemlo01.shtml,colemlo01,30,LAD,8.0,8,0,5,5.63,4.31,0.34,-0.30,89.4,3.27,-2,-0.2,.77,-0.0,-0.1,-1,.477,.499,,Free Agency
-2016,77,Alex Colome,/players/c/colomal01.shtml,colomal01,27,TBR,8.1,8,0,1,1.08,4.48,0.00,-0.32,96.9,4.02,2,0.3,1.01,-0.0,0.3,3,.535,.502,,Amateur Free Agent
-2016,78,Bartolo Colon,/players/c/colonba01.shtml,colonba01,43,NYM,23.2,5,4,9,3.42,3.95,-1.02,0.14,98.6,5.04,5,0.5,.57,-0.1,0.7,6,.609,.503,,Free Agency
-2016,79,Adam Conley*,/players/c/conlead01.shtml,conlead01,26,MIA,19.1,4,4,11,5.12,4.49,-0.36,0.19,94.0,4.74,-0,-0.0,,-0.0,0.1,1,.493,.500,,Amateur Draft
-2016,80,Patrick Corbin*,/players/c/corbipa01.shtml,corbipa01,26,ARI,31.1,5,5,20,5.74,4.30,0.31,0.18,102.4,4.27,-4,-0.4,,-0.1,-0.2,-2,.419,.497,,Traded
-2016,81,Jarred Cosart,/players/c/cosarja01.shtml,cosarja01,26,MIA,14.2,3,3,14,8.59,4.42,-0.45,0.19,93.1,4.70,-6,-0.5,,-0.0,-0.4,-5,.329,.497,,Traded
-2016,82,Caleb Cotham,/players/c/cothaca01.shtml,cothaca01,28,CIN,11.2,11,0,3,2.31,4.37,-0.17,-0.31,99.5,4.21,3,0.3,.82,-0.1,0.3,4,.527,.502,,Traded
-2016,83,Tyler Cravy,/players/c/cravyty01.shtml,cravyty01,26,MIL,5.2,5,0,2,3.18,4.22,0.20,-0.30,101.2,3.76,1,0.1,.32,-0.1,0.1,1,.511,.500,,Amateur Draft
-2016,84,Kyle Crockett*,/players/c/crockky01.shtml,crockky01,24,CLE,0.1,1,0,0,0.00,4.13,0.00,-0.30,106.0,4.08,0,0.0,1.13,-0.0,0.0,0,.516,.500,,Amateur Draft
-2016,85,Johnny Cueto,/players/c/cuetojo01.shtml,cuetojo01,30,SFG,37.1,5,5,11,2.65,4.41,-0.07,0.18,93.4,4.36,8,0.9,,-0.1,1.2,10,.687,.506,,Free Agency
-2016,86,William Cuevas,/players/c/cuevawi01.shtml,cuevawi01,25,BOS,2.1,1,0,2,7.71,4.21,0.27,-0.30,112.0,4.07,-1,-0.1,.95,-0.0,-0.1,-1,.395,.499,,Amateur Free Agent
-2016,87,John Danks*,/players/d/danksjo01.shtml,danksjo01,31,CHW,22.1,4,4,20,8.06,4.23,0.41,0.17,96.4,3.84,-11,-1.0,,-0.0,-0.8,-8,.260,.494,,Traded
-2016,88,Zach Davies,/players/d/davieza02.shtml,davieza02,23,MIL,8.1,2,2,10,10.80,4.10,0.26,0.17,100.0,4.02,-6,-0.5,,-0.0,-0.4,-6,.262,.497,,Traded
-2016,89,Wade Davis,/players/d/daviswa01.shtml,daviswa01,30,KCR,7.2,8,0,0,0.00,4.34,0.29,-0.31,102.1,3.80,3,0.3,2.10,0.2,0.6,4,.543,.502,,Traded
-2016,90,Jorge De La Rosa*,/players/r/rosajo01.shtml,rosajo01,35,COL,20.1,5,5,24,10.62,4.48,-0.03,0.19,127.0,5.97,-10,-0.9,,-0.0,-0.7,-9,.327,.495,,Free Agency
-2016,91,Rubby De La Rosa,/players/d/delarru01.shtml,delarru01,27,ARI,23.2,7,4,13,4.94,4.49,0.24,0.13,105.3,4.61,-0,-0.0,1.67,-0.1,0.1,1,.497,.500,,Traded
-2016,92,Jacob deGrom,/players/d/degroja01.shtml,degroja01,28,NYM,11.2,2,2,2,1.54,3.86,-1.05,0.16,90.1,4.57,4,0.5,,-0.0,0.6,5,.750,.503,,Amateur Draft
-2016,93,Randall Delgado,/players/d/delgara01.shtml,delgara01,26,ARI,15.0,12,0,11,6.60,4.44,0.30,-0.31,105.4,4.04,-4,-0.4,.87,-0.1,-0.3,-3,.468,.498,,Traded
-2016,94,Ross Detwiler*,/players/d/detwiro01.shtml,detwiro01,30,CLE,4.2,7,0,3,5.79,4.56,-0.33,-0.33,111.4,5.08,-1,-0.1,.80,-0.0,-0.0,0,.491,.500,,Free Agency
-2016,95,Chris Devenski,/players/d/devench02.shtml,devench02,25,HOU,13.2,6,0,1,0.66,4.17,0.31,-0.30,102.2,3.63,4,0.5,.38,-0.2,0.4,6,.580,.503,,Traded
-2016,96,Jumbo Diaz,/players/d/diazju03.shtml,diazju03,32,CIN,6.2,8,0,4,5.40,4.22,-0.18,-0.30,100.9,4.14,-1,-0.1,1.45,-0.1,-0.1,-0,.491,.500,,Free Agency
-2016,97,R.A. Dickey,/players/d/dicker.01.shtml,dicker.01,41,TOR,26.2,5,5,23,7.76,4.21,0.36,0.17,101.1,4.06,-12,-1.1,,-0.1,-0.9,-9,.288,.493,,Traded
-2016,98,Jake Diekman*,/players/d/diekmja01.shtml,diekmja01,29,TEX,8.1,11,0,2,2.16,4.72,0.52,-0.34,105.0,4.06,1,0.2,1.51,0.0,0.3,2,.515,.501,,Traded
-2016,99,Sean Doolittle*,/players/d/doolise01.shtml,doolise01,29,OAK,10.0,12,0,4,3.60,4.43,-0.50,-0.32,96.1,4.44,1,0.1,1.36,-0.0,0.2,2,.505,.500,,Amateur Draft
-2016,100,Kyle Drabek,/players/d/drabeky01.shtml,drabeky01,28,ARI,2.0,1,0,1,4.50,4.49,0.23,-0.32,112.0,4.41,0,0.0,.51,-0.0,0.0,0,.504,.500,,Free Agency
-2016,101,Tyler Duffey,/players/d/duffety01.shtml,duffety01,25,MIN,4.0,1,1,1,2.25,3.98,-0.67,0.16,104.0,5.00,1,0.1,,-0.0,0.2,2,.632,.501,,Amateur Draft
-2016,102,Danny Duffy*,/players/d/duffyda01.shtml,duffyda01,27,KCR,10.1,9,0,5,4.35,4.40,0.47,-0.32,100.5,3.64,-1,-0.1,.22,0.0,-0.0,0,.485,.499,,Amateur Draft
-2016,103,Zach Duke*,/players/d/dukeza01.shtml,dukeza01,33,CHW,8.0,13,0,2,2.25,4.96,0.38,-0.36,96.4,4.07,1,0.2,1.24,-0.0,0.2,2,.512,.501,,Free Agency
-2016,104,Ryan Dull,/players/d/dullry01.shtml,dullry01,26,OAK,12.2,11,0,4,2.84,4.55,-0.44,-0.33,97.4,4.54,2,0.2,.65,-0.1,0.3,4,.520,.501,,Amateur Draft
-2016,105,Sam Dyson,/players/d/dysonsa01.shtml,dysonsa01,28,TEX,9.0,9,0,3,3.00,4.44,0.55,-0.32,100.7,3.60,0,0.0,2.23,-0.0,0.1,1,.503,.500,,Traded
-2016,106,Cody Ege*,/players/e/egeco01.shtml,egeco01,25,MIA,1.1,4,0,1,6.75,6.95,-0.49,-0.49,90.9,6.30,-0,-0.0,1.65,-0.0,0.0,0,.499,.500,,Traded
-2016,107,Jerad Eickhoff,/players/e/eickhje01.shtml,eickhje01,25,PHI,24.1,4,4,12,4.44,4.55,-0.13,0.19,99.2,4.83,2,0.2,,-0.1,0.3,3,.547,.501,,Traded
-2016,108,Roenis Elias*,/players/e/eliasro01.shtml,eliasro01,27,BOS,1.2,1,0,3,16.20,4.45,0.35,-0.32,98.0,3.71,-2,-0.2,.38,0.1,-0.1,-2,.288,.499,,Traded
-2016,109,Nathan Eovaldi,/players/e/eovalna01.shtml,eovalna01,26,NYY,24.2,4,4,12,4.38,4.61,-0.51,0.19,101.8,5.40,2,0.2,,-0.0,0.4,5,.557,.501,,Traded
-2016,110,Robbie Erlin*,/players/e/erlinro01.shtml,erlinro01,25,SDP,15.2,3,2,7,4.02,3.84,0.34,0.06,103.4,3.68,-0,-0.0,.87,-0.0,0.1,1,.495,.500,,Traded
-2016,111,Carlos Estevez,/players/e/estevca01.shtml,estevca01,23,COL,5.0,3,0,2,3.60,4.58,-0.03,-0.32,138.0,5.92,1,0.2,.93,-0.0,0.2,2,.551,.501,,Amateur Free Agent
-2016,112,Marco Estrada,/players/e/estrama01.shtml,estrama01,32,TOR,24.2,4,4,8,2.92,4.20,0.30,0.17,102.9,4.20,3,0.3,,-0.0,0.5,6,.578,.502,,Free Agency
-2016,113,Dana Eveland*,/players/e/evelada01.shtml,evelada01,32,TBR,6.0,7,0,3,4.50,4.68,0.01,-0.34,98.9,4.29,-0,-0.0,.34,-0.0,0.0,0,.494,.500,,Free Agency
-2016,114,Jeurys Familia,/players/f/familje01.shtml,familje01,26,NYM,11.0,11,0,3,2.45,3.94,-1.11,-0.28,93.1,4.45,3,0.3,1.18,-0.0,0.3,3,.526,.502,,Amateur Free Agent
-2016,115,Buck Farmer,/players/f/farmebu01.shtml,farmebu01,25,DET,5.1,3,0,2,3.38,4.55,-0.24,-0.33,98.0,4.37,0,0.0,.30,-0.0,0.1,1,.515,.500,,Amateur Draft
-2016,116,Danny Farquhar,/players/f/farquda01.shtml,farquda01,29,TBR,5.1,6,0,2,3.38,4.61,0.01,-0.33,99.0,4.23,0,0.0,.46,-0.0,0.1,1,.506,.500,,Traded
-2016,117,Andrew Faulkner*,/players/f/faulkan01.shtml,faulkan01,23,TEX,4.1,5,0,4,8.31,4.49,0.84,-0.32,106.6,3.54,-2,-0.3,1.18,-0.0,-0.3,-2,.447,.498,,Amateur Draft
-2016,118,Scott Feldman,/players/f/feldmsc01.shtml,feldmsc01,33,HOU,19.2,4,4,15,6.86,4.17,0.45,0.17,103.1,4.01,-7,-0.7,,-0.0,-0.5,-4,.335,.496,,Free Agency
-2016,119,Michael Feliz,/players/f/felizmi01.shtml,felizmi01,23,HOU,5.1,2,0,10,16.88,4.57,0.48,-0.33,95.5,3.59,-8,-0.6,.22,0.2,-0.3,-7,.196,.496,,Free Agency
-2016,120,Neftali Feliz,/players/f/felizne01.shtml,felizne01,28,PIT,10.2,13,0,6,5.06,4.07,0.24,-0.29,107.0,3.79,-1,-0.1,1.31,-0.1,-0.1,-1,.491,.499,,Free Agency
-2016,121,Jose Fernandez,/players/f/fernajo02.shtml,fernajo02,23,MIA,28.2,5,5,13,4.08,4.46,-0.29,0.19,93.0,4.59,2,0.3,,-0.1,0.4,4,.552,.502,,Amateur Draft
-2016,122,Josh Fields,/players/f/fieldjo03.shtml,fieldjo03,30,HOU,9.1,10,0,8,7.71,4.41,0.35,-0.32,101.5,3.79,-4,-0.5,.26,0.1,-0.2,-3,.452,.497,,Rule 5 Draft
-2016,123,Casey Fien,/players/f/fienca01.shtml,fienca01,32,MIN,10.0,11,0,6,5.40,4.08,-0.55,-0.30,104.6,4.54,-1,-0.1,1.33,-0.1,-0.1,-0,.487,.499,,Free Agency
-2016,124,Mike Fiers,/players/f/fiersmi01.shtml,fiersmi01,31,HOU,22.0,4,4,14,5.73,4.25,0.41,0.17,98.0,3.94,-5,-0.5,,-0.0,-0.3,-2,.371,.497,,Traded
-2016,125,Brandon Finnegan*,/players/f/finnebr01.shtml,finnebr01,23,CIN,28.0,5,5,16,5.14,4.39,-0.16,0.18,97.6,4.62,-1,-0.1,,-0.1,0.1,1,.483,.499,,Traded
-2016,126,Doug Fister,/players/f/fistedo01.shtml,fistedo01,32,HOU,22.2,4,4,14,5.56,4.29,0.41,0.17,100.6,4.08,-5,-0.5,,-0.0,-0.3,-2,.385,.497,,Free Agency
-2016,127,Gavin Floyd,/players/f/floydga01.shtml,floydga01,33,TOR,10.1,8,0,2,1.74,4.24,0.27,-0.31,100.0,3.66,2,0.2,1.58,0.0,0.3,3,.526,.501,,Free Agency
-2016,128,Sam Freeman*,/players/f/freemsa01.shtml,freemsa01,29,MIL,7.2,7,0,11,12.91,4.27,0.22,-0.30,99.9,3.75,-8,-0.7,.07,0.3,-0.4,-7,.398,.496,,Purchased
-2016,129,Yovani Gallardo,/players/g/gallayo01.shtml,gallayo01,30,BAL,18.0,4,4,14,7.00,4.19,-0.63,0.17,109.6,5.47,-4,-0.4,,-0.0,-0.2,-1,.404,.498,,Free Agency
-2016,130,John Gant,/players/g/gantjo01.shtml,gantjo01,23,ATL,7.2,4,0,6,7.04,4.16,-0.80,-0.29,103.2,4.81,-2,-0.2,.31,0.0,-0.1,-1,.458,.499,,Traded
-2016,131,Jaime Garcia*,/players/g/garcija02.shtml,garcija02,29,STL,25.0,4,4,10,3.60,4.06,0.18,0.17,100.7,4.08,2,0.2,,-0.1,0.4,4,.555,.501,,Amateur Draft
-2016,132,Luis Garcia,/players/g/garcilu03.shtml,garcilu03,29,PHI,1.0,1,0,0,0.00,4.10,-0.18,-0.29,104.0,4.15,0,0.1,.10,-0.0,0.0,1,.553,.500,,Free Agency
-2016,133,Yimi Garcia,/players/g/garciyi01.shtml,garciyi01,25,LAD,8.1,9,0,3,3.24,4.33,0.38,-0.31,95.4,3.48,0,0.0,1.00,-0.0,0.1,1,.505,.500,,Amateur Free Agent
-2016,134,Kevin Gausman,/players/g/gausmke01.shtml,gausmke01,25,BAL,5.0,1,1,1,1.80,4.21,-0.37,0.17,94.0,4.47,1,0.2,,-0.0,0.2,2,.662,.501,,Amateur Draft
-2016,135,Cory Gearrin,/players/g/gearrco01.shtml,gearrco01,30,SFG,10.1,10,0,3,2.61,4.18,-0.07,-0.30,99.2,3.92,2,0.2,1.08,-0.0,0.2,2,.519,.501,,Free Agency
-2016,136,Dillon Gee,/players/g/geedi01.shtml,geedi01,30,KCR,9.1,3,0,1,0.96,4.20,0.48,-0.30,101.9,3.47,2,0.3,.79,-0.1,0.3,3,.591,.502,,Free Agency
-2016,137,Steve Geltz,/players/g/geltzst01.shtml,geltzst01,28,TBR,5.1,6,0,3,5.06,4.63,0.01,-0.33,97.1,4.16,-1,-0.1,.49,0.0,-0.0,-0,.487,.500,,Traded
-2016,138,Gonzalez Germen,/players/g/germego01.shtml,germego01,28,COL,4.0,3,0,2,4.50,4.59,-0.03,-0.32,138.0,5.92,1,0.1,.50,-0.0,0.1,1,.526,.500,,Waivers
-2016,139,Kyle Gibson,/players/g/gibsoky01.shtml,gibsoky01,28,MIN,20.2,4,4,16,6.97,4.31,-0.62,0.17,105.1,5.36,-4,-0.4,,-0.0,-0.3,-2,.388,.497,,Amateur Draft
-2016,140,Ken Giles,/players/g/gileske01.shtml,gileske01,25,HOU,9.2,10,0,8,7.45,4.29,0.39,-0.31,99.3,3.56,-5,-0.5,1.36,-0.1,-0.5,-3,.451,.497,,Traded
-2016,141,Chad Girodo*,/players/g/girodch01.shtml,girodch01,25,TOR,2.0,1,0,0,0.00,4.17,0.33,-0.30,98.0,3.47,1,0.1,.23,-0.0,0.1,1,.584,.501,,Amateur Draft
-2016,142,Mychal Givens,/players/g/givenmy01.shtml,givenmy01,26,BAL,11.1,11,0,4,3.18,4.42,-0.39,-0.32,105.3,4.72,2,0.2,1.36,-0.0,0.3,3,.516,.501,,Amateur Draft
-2016,143,Jeanmar Gomez,/players/g/gomezje01.shtml,gomezje01,28,PHI,14.0,12,0,3,1.93,4.30,-0.13,-0.30,100.9,4.16,4,0.4,1.63,0.1,0.6,5,.534,.503,,Free Agency
-2016,144,Gio Gonzalez*,/players/g/gonzagi01.shtml,gonzagi01,30,WSN,25.1,4,4,6,2.13,3.90,-0.18,0.16,103.5,4.39,7,0.8,,-0.1,1.0,9,.705,.505,,Traded
-2016,145,Miguel Gonzalez,/players/g/gonzami03.shtml,gonzami03,32,CHW,5.1,1,1,5,8.44,5.47,0.47,0.22,98.0,5.11,-2,-0.2,,-0.0,-0.2,-1,.303,.499,,Free Agency
-2016,146,Nick Goody,/players/g/goodyni01.shtml,goodyni01,24,NYY,2.0,1,0,1,4.50,4.21,-0.37,-0.31,98.0,4.19,-0,-0.0,.02,0.0,0.0,0,.485,.500,,Amateur Draft
-2016,147,Kendall Graveman,/players/g/graveke01.shtml,graveke01,25,OAK,22.1,4,4,10,4.03,4.41,-0.53,0.18,98.0,5.01,2,0.2,,-0.0,0.4,4,.548,.501,,Traded
-2016,148,Jon Gray,/players/g/grayjo02.shtml,grayjo02,24,COL,8.2,2,2,11,11.42,4.61,-0.04,0.19,138.0,6.68,-4,-0.4,,-0.0,-0.3,-4,.315,.498,,Amateur Draft
-2016,149,Sonny Gray,/players/g/grayso01.shtml,grayso01,26,OAK,28.1,5,5,13,4.13,4.59,-0.48,0.18,98.0,5.15,2,0.3,,-0.1,0.5,6,.552,.502,,Amateur Draft
-2016,150,Shane Greene,/players/g/greensh02.shtml,greensh02,27,DET,14.1,4,3,10,6.28,4.22,-0.32,0.14,98.8,4.63,-3,-0.3,3.47,-0.1,-0.2,-1,.418,.498,,Traded
-2016,151,Luke Gregerson,/players/g/gregelu01.shtml,gregelu01,32,HOU,9.0,8,0,2,2.00,4.25,0.32,-0.31,97.4,3.53,1,0.1,1.54,0.0,0.2,2,.517,.501,,Free Agency
-2016,152,Zack Greinke,/players/g/greinza01.shtml,greinza01,32,ARI,30.2,5,5,21,6.16,4.43,0.32,0.19,103.0,4.42,-5,-0.5,,-0.1,-0.3,-3,.404,.497,,Free Agency
-2016,153,A.J. Griffin,/players/g/griffaj01.shtml,griffaj01,28,TEX,25.0,4,4,8,2.88,4.54,0.63,0.18,101.4,4.15,3,0.3,,-0.0,0.5,6,.578,.502,,Free Agency
-2016,154,Jason Grilli,/players/g/grillja01.shtml,grillja01,39,ATL,8.0,9,0,7,7.88,4.24,-0.92,-0.30,96.8,4.70,-3,-0.3,1.32,-0.1,-0.3,-2,.471,.498,,Free Agency
-2016,155,Justin Grimm,/players/g/grimmju01.shtml,grimmju01,27,CHC,7.0,7,0,2,2.57,4.01,0.40,-0.28,100.2,3.33,1,0.1,.55,-0.1,0.1,1,.512,.501,,Traded
-2016,156,Mayckol Guaipe,/players/g/guaipma01.shtml,guaipma01,25,SEA,0.2,1,0,2,27.00,4.46,0.55,-0.32,88.0,3.15,-2,-0.2,.50,0.0,-0.1,-2,.331,.499,,Amateur Free Agent
-2016,157,Jason Gurka*,/players/g/gurkaja01.shtml,gurkaja01,28,COL,9.2,6,0,10,9.31,4.52,-0.04,-0.32,125.8,5.33,-4,-0.4,.79,-0.0,-0.3,-3,.435,.498,,Free Agency
-2016,158,David Hale,/players/h/haleda02.shtml,haleda02,28,COL,2.0,2,0,3,13.50,4.41,-0.05,-0.31,98.7,4.09,-2,-0.2,.30,0.1,-0.1,-2,.404,.499,,Traded
-2016,159,Cole Hamels*,/players/h/hamelco01.shtml,hamelco01,32,TEX,25.0,4,4,7,2.52,4.47,0.56,0.18,108.4,4.44,4,0.5,,-0.0,0.8,8,.636,.503,,Traded
-2016,160,Jason Hammel,/players/h/hammeja01.shtml,hammeja01,33,CHC,24.0,4,4,2,0.75,4.05,0.44,0.17,102.9,3.88,9,1.1,,-0.1,1.2,11,.767,.507,,Free Agency
-2016,161,Brad Hand*,/players/h/handbr01.shtml,handbr01,26,SDP,8.2,9,0,2,2.08,4.33,0.37,-0.31,95.2,3.48,2,0.2,1.59,0.0,0.2,2,.519,.501,,Waivers
-2016,162,J.A. Happ*,/players/h/happja01.shtml,happja01,33,TOR,26.0,4,4,7,2.42,4.27,0.34,0.17,100.3,4.10,4,0.5,,-0.0,0.7,7,.620,.503,,Free Agency
-2016,163,Blaine Hardy*,/players/h/hardybl01.shtml,hardybl01,29,DET,5.1,4,0,2,3.38,4.08,-0.37,-0.30,99.6,4.13,0,0.0,.35,-0.0,0.1,1,.507,.500,,Free Agency
-2016,164,Will Harris,/players/h/harriwi10.shtml,harriwi10,31,HOU,11.0,10,0,1,0.82,4.30,0.33,-0.31,98.0,3.58,3,0.3,1.01,-0.0,0.4,4,.534,.502,,Waivers
-2016,165,Matt Harvey,/players/h/harvema01.shtml,harvema01,27,NYM,28.1,5,5,16,5.08,3.95,-1.09,0.17,97.0,5.04,1,0.1,,-0.1,0.3,2,.514,.500,,Amateur Draft
-2016,166,Chris Hatcher,/players/h/hatchch02.shtml,hatchch02,31,LAD,9.2,11,0,7,6.52,4.30,0.34,-0.30,99.4,3.63,-3,-0.3,1.46,-0.1,-0.3,-2,.474,.498,,Traded
-2016,167,Drew Hayes,/players/h/hayesdr01.shtml,hayesdr01,28,CIN,6.2,3,0,5,6.75,4.54,-0.18,-0.32,99.6,4.38,-2,-0.2,.56,-0.0,-0.1,-1,.449,.499,,Amateur Draft
-2016,168,Andrew Heaney*,/players/h/heanean01.shtml,heanean01,25,LAA,6.0,1,1,4,6.00,4.68,0.30,0.19,88.0,4.02,-2,-0.1,,-0.0,-0.1,-1,.351,.499,,Traded
-2016,169,Jeremy Hellickson,/players/h/hellije01.shtml,hellije01,29,PHI,26.0,5,5,13,4.50,4.28,-0.13,0.18,99.8,4.57,1,0.1,,-0.1,0.3,3,.520,.501,,Traded
-2016,170,Heath Hembree,/players/h/hembrhe01.shtml,hembrhe01,27,BOS,9.0,4,0,0,0.00,4.29,0.17,-0.31,105.0,4.00,4,0.4,1.28,0.0,0.6,5,.611,.503,,Traded
-2016,171,Jim Henderson,/players/h/hendeji01.shtml,hendeji01,33,NYM,7.2,11,0,1,1.17,4.31,-0.73,-0.30,96.3,4.56,3,0.3,1.18,-0.0,0.4,4,.530,.502,,Free Agency
-2016,172,Kyle Hendricks,/players/h/hendrky01.shtml,hendrky01,26,CHC,23.0,4,4,11,4.30,3.94,0.52,0.17,102.3,3.67,-1,-0.1,,-0.0,0.1,0,.475,.499,,Traded
-2016,173,Liam Hendriks,/players/h/hendrli01.shtml,hendrli01,27,OAK,11.2,8,0,13,10.03,4.51,-0.63,-0.33,98.0,4.72,-7,-0.8,.41,0.2,-0.4,-6,.406,.495,,Traded
-2016,174,David Hernandez,/players/h/hernada01.shtml,hernada01,31,PHI,9.1,10,0,5,4.82,4.50,-0.10,-0.32,100.6,4.31,-0,-0.0,1.69,-0.1,0.0,0,.497,.500,,Free Agency
-2016,175,Felix Hernandez,/players/h/hernafe02.shtml,hernafe02,30,SEA,25.0,4,4,7,2.52,4.38,0.24,0.18,97.1,4.19,4,0.5,,-0.0,0.6,7,.613,.503,,Amateur Free Agent
-2016,176,Kelvin Herrera,/players/h/herreke01.shtml,herreke01,26,KCR,11.1,12,0,0,0.00,4.40,0.37,-0.32,100.7,3.74,4,0.5,1.41,0.1,0.7,6,.542,.503,,Amateur Free Agent
-2016,177,Keith Hessler*,/players/h/hesslke01.shtml,hesslke01,27,ARI,2.0,1,0,0,0.00,4.25,0.32,-0.30,112.0,4.06,1,0.1,.01,-0.1,0.1,1,.606,.501,,Amateur Free Agent
-2016,178,Chris Heston,/players/h/hestoch01.shtml,hestoch01,28,SFG,5.0,4,0,6,10.80,3.82,-0.10,-0.27,122.1,4.45,-3,-0.3,1.52,-0.1,-0.4,-3,.419,.498,,Amateur Draft
-2016,179,Rich Hill*,/players/h/hillri01.shtml,hillri01,36,OAK,26.0,5,5,10,3.46,4.37,-0.40,0.18,95.8,4.74,3,0.3,,-0.0,0.5,6,.565,.502,,Free Agency
-2016,180,Dalier Hinojosa,/players/h/hinojda01.shtml,hinojda01,30,PHI,11.0,10,0,4,3.27,4.34,-0.13,-0.31,101.9,4.25,2,0.2,1.03,-0.1,0.2,2,.516,.501,,Waivers
-2016,181,Luke Hochevar,/players/h/hochelu01.shtml,hochelu01,32,KCR,9.1,10,0,3,2.89,4.35,0.38,-0.31,100.3,3.67,0,0.1,1.73,-0.0,0.1,2,.505,.500,,Free Agency
-2016,182,Derek Holland*,/players/h/hollade01.shtml,hollade01,29,TEX,23.0,4,4,8,3.13,4.46,0.64,0.18,95.4,3.81,1,0.1,,-0.0,0.3,4,.526,.501,,Amateur Draft
-2016,183,J.J. Hoover,/players/h/hoovejj01.shtml,hoovejj01,28,CIN,7.2,9,0,14,16.43,4.18,-0.23,-0.30,101.1,4.16,-10,-1.0,.62,0.1,-0.8,-10,.393,.494,,Traded
-2016,184,J.P. Howell*,/players/h/howeljp01.shtml,howeljp01,33,LAD,6.0,9,0,7,10.50,4.82,0.44,-0.34,90.2,3.64,-4,-0.4,.67,0.0,-0.3,-4,.451,.497,,Free Agency
-2016,185,Daniel Hudson,/players/h/hudsoda01.shtml,hudsoda01,29,ARI,10.2,10,0,1,0.84,4.54,0.22,-0.32,99.5,3.98,4,0.4,1.78,0.1,0.6,5,.543,.503,,Free Agency
-2016,186,Phil Hughes,/players/h/hugheph01.shtml,hugheph01,30,MIN,25.1,4,4,12,4.26,4.19,-0.53,0.17,105.0,5.13,2,0.2,,-0.0,0.4,5,.544,.501,,Free Agency
-2016,187,Drew Hutchison,/players/h/hutchdr01.shtml,hutchdr01,25,TOR,5.2,1,1,2,3.18,4.17,0.27,0.17,98.0,3.99,0,0.0,,-0.0,0.1,1,.536,.500,,Amateur Draft
-2016,188,Raisel Iglesias,/players/i/iglesra01.shtml,iglesra01,26,CIN,28.1,5,5,11,3.49,4.20,-0.17,0.18,98.4,4.47,4,0.4,,-0.1,0.6,6,.585,.503,,Amateur Free Agent
-2016,189,Hisashi Iwakuma,/players/i/iwakuhi01.shtml,iwakuhi01,35,SEA,31.0,5,5,16,4.65,4.44,0.29,0.18,95.0,4.11,-3,-0.3,,-0.1,-0.1,1,.437,.498,,Free Agency
-2016,190,Edwin Jackson,/players/j/jacksed01.shtml,jacksed01,32,MIA,3.2,4,0,1,2.45,3.94,-0.46,-0.28,99.4,4.09,1,0.1,1.67,0.0,0.1,1,.520,.501,,Free Agency
-2016,191,Kenley Jansen,/players/j/janseke01.shtml,janseke01,28,LAD,9.2,9,0,0,0.00,4.09,0.24,-0.29,99.8,3.56,4,0.4,2.05,0.2,0.7,5,.549,.503,,Amateur Free Agent
-2016,192,Jeremy Jeffress,/players/j/jeffrje01.shtml,jeffrje01,28,MIL,8.2,9,0,3,3.12,4.35,0.19,-0.31,102.5,3.95,1,0.1,1.62,-0.0,0.2,2,.512,.501,,Free Agency
-2016,193,Dan Jennings*,/players/j/jennida01.shtml,jennida01,29,CHW,7.1,5,0,1,1.23,4.22,0.47,-0.30,95.8,3.31,1,0.2,.22,-0.1,0.2,2,.533,.501,,Traded
-2016,194,Kevin Jepsen,/players/j/jepseke01.shtml,jepseke01,31,MIN,9.2,10,0,6,5.59,4.21,-0.52,-0.30,105.1,4.65,-1,-0.2,2.36,-0.1,-0.2,-0,.485,.499,,Traded
-2016,195,Ubaldo Jimenez,/players/j/jimenub01.shtml,jimenub01,32,BAL,23.0,4,4,11,4.30,4.45,-0.47,0.18,103.1,5.26,2,0.2,,-0.0,0.4,4,.547,.501,,Free Agency
-2016,196,Jim Johnson,/players/j/johnsji04.shtml,johnsji04,33,ATL,10.2,11,0,4,3.38,4.18,-0.78,-0.30,95.9,4.47,2,0.2,1.40,-0.0,0.2,2,.515,.501,,Free Agency
-2016,197,Nate Jones,/players/j/jonesna01.shtml,jonesna01,30,CHW,10.2,11,0,1,0.84,4.39,0.32,-0.32,97.6,3.67,3,0.3,1.71,0.1,0.5,4,.531,.502,,Amateur Draft
-2016,198,Taylor Jungmann,/players/j/jungmta01.shtml,jungmta01,26,MIL,20.2,5,5,22,9.58,4.47,0.22,0.19,99.7,4.42,-11,-1.0,,-0.0,-0.8,-10,.309,.494,,Amateur Draft
-2016,199,Nate Karns,/players/k/karnsna01.shtml,karnsna01,28,SEA,22.1,4,4,10,4.03,4.27,0.25,0.17,96.5,4.05,-1,-0.1,,-0.0,0.1,2,.480,.499,,Traded
-2016,200,Scott Kazmir*,/players/k/kazmisc01.shtml,kazmisc01,32,LAD,25.0,5,5,16,5.76,4.33,0.35,0.18,98.3,4.09,-4,-0.4,,-0.1,-0.2,-2,.424,.498,,Free Agency
-2016,201,Keone Kela,/players/k/kelake01.shtml,kelake01,23,TEX,6.1,7,0,5,7.11,4.45,0.48,-0.32,103.6,3.79,-3,-0.3,.85,-0.0,-0.2,-2,.460,.498,,Amateur Draft
-2016,202,Shawn Kelley,/players/k/kellesh01.shtml,kellesh01,32,WSN,7.0,9,0,0,0.00,4.11,-0.15,-0.29,101.7,4.04,3,0.4,1.45,0.0,0.5,4,.539,.502,,Free Agency
-2016,203,Casey Kelly,/players/k/kellyca01.shtml,kellyca01,26,ATL,3.0,1,0,1,3.00,4.74,-1.22,-0.34,92.0,5.18,1,0.1,.46,-0.0,0.1,1,.589,.501,,Traded
-2016,204,Joe Kelly,/players/k/kellyjo05.shtml,kellyjo05,28,BOS,8.2,3,3,9,9.35,4.67,0.23,0.19,106.4,4.92,-5,-0.4,,-0.0,-0.4,-3,.352,.497,,Traded
-2016,205,Ian Kennedy,/players/k/kenneia01.shtml,kenneia01,31,KCR,26.0,4,4,8,2.77,4.33,0.42,0.17,98.3,4.01,3,0.3,,-0.0,0.5,6,.579,.502,,Free Agency
-2016,206,Logan Kensing,/players/k/kensilo01.shtml,kensilo01,33,DET,4.2,3,0,1,1.93,4.54,-0.45,-0.33,98.0,4.57,1,0.1,.12,-0.1,0.1,2,.547,.501,,Free Agency
-2016,207,Clayton Kershaw*,/players/k/kershcl01.shtml,kershcl01,28,LAD,37.0,5,5,11,2.68,4.43,0.29,0.19,89.7,3.88,6,0.7,,-0.1,0.9,8,.635,.504,,Amateur Draft
-2016,208,Dallas Keuchel*,/players/k/keuchda01.shtml,keuchda01,28,HOU,32.2,5,5,16,4.41,4.35,0.37,0.18,100.8,4.19,-2,-0.2,,-0.1,0.1,2,.458,.499,,Amateur Draft
-2016,209,Craig Kimbrel,/players/k/kimbrcr01.shtml,kimbrcr01,28,BOS,10.0,11,0,5,4.50,4.63,0.12,-0.33,107.5,4.49,-0,-0.0,2.11,-0.1,0.0,1,.496,.500,,Traded
-2016,210,Michael Kirkman*,/players/k/kirkmmi01.shtml,kirkmmi01,29,SDP,1.1,1,0,4,27.00,4.92,0.96,-0.34,92.0,3.33,-3,-0.3,3.18,-0.3,-0.5,-3,.237,.498,,Free Agency
-2016,211,Phil Klein,/players/k/kleinph01.shtml,kleinph01,27,TEX,6.1,5,0,0,0.00,4.46,0.41,-0.32,94.3,3.52,2,0.3,.69,-0.1,0.3,3,.553,.502,,Amateur Draft
-2016,212,Corey Kluber,/players/k/klubeco01.shtml,klubeco01,30,CLE,27.0,4,4,14,4.67,4.36,-0.30,0.18,104.0,5.04,0,0.0,,-0.1,0.2,3,.504,.500,,Traded
-2016,213,Tom Koehler,/players/k/koehlto01.shtml,koehlto01,30,MIA,20.0,4,4,12,5.40,4.12,-0.42,0.17,97.5,4.59,-1,-0.1,,-0.0,0.0,-0,.469,.499,,Amateur Draft
-2016,214,George Kontos,/players/k/kontoge01.shtml,kontoge01,31,SFG,5.2,8,0,1,1.59,4.24,-0.07,-0.30,104.8,4.21,2,0.2,.88,-0.0,0.2,2,.524,.501,,Traded
-2016,215,Erik Kratz,/players/k/kratzer01.shtml,kratzer01,36,HOU,1.0,1,0,2,18.00,4.60,0.73,-0.33,88.0,3.11,-2,-0.2,.00,0.1,-0.1,-2,.338,.499,,Traded
-2016,216,John Lackey,/players/l/lackejo01.shtml,lackejo01,37,CHC,25.1,4,4,14,4.97,4.06,0.47,0.17,103.0,3.86,-2,-0.2,,-0.1,-0.1,-1,.441,.499,,Free Agency
-2016,217,Mat Latos,/players/l/latosma01.shtml,latosma01,28,CHW,24.1,4,4,2,0.74,4.28,0.38,0.17,97.8,3.99,8,1.0,,-0.0,1.2,11,.756,.506,,Free Agency
-2016,218,Derek Law,/players/l/lawde01.shtml,lawde01,25,SFG,4.0,6,0,0,0.00,4.52,-0.06,-0.32,91.1,3.88,2,0.2,1.39,0.0,0.2,2,.532,.501,,Amateur Draft
-2016,219,Tommy Layne*,/players/l/layneto01.shtml,layneto01,31,BOS,5.0,7,0,2,3.60,4.21,0.20,-0.30,110.8,4.11,0,0.0,.60,-0.0,0.0,1,.502,.500,,Free Agency
-2016,220,Mike Leake,/players/l/leakemi01.shtml,leakemi01,28,STL,22.1,4,4,17,6.85,4.41,0.25,0.18,95.8,4.16,-6,-0.5,,-0.0,-0.4,-5,.363,.497,,Free Agency
-2016,221,Arnold Leon,/players/l/leonar01.shtml,leonar01,27,TOR,2.1,2,0,2,7.71,4.17,0.37,-0.30,97.3,3.39,-1,-0.1,2.97,-0.1,-0.2,-1,.436,.499,,Purchased
-2016,222,Dominic Leone,/players/l/leonedo01.shtml,leonedo01,24,ARI,2.2,2,0,3,10.13,4.26,0.31,-0.30,112.0,4.08,-2,-0.2,.11,0.1,-0.1,-2,.418,.499,,Traded
-2016,223,Jon Lester*,/players/l/lestejo01.shtml,lestejo01,32,CHC,27.1,4,4,6,1.98,4.01,0.46,0.17,96.5,3.59,6,0.6,,-0.1,0.8,7,.662,.504,,Free Agency
-2016,224,Colby Lewis,/players/l/lewisco01.shtml,lewisco01,36,TEX,24.0,4,4,9,3.38,4.43,0.65,0.18,103.2,4.08,1,0.1,,-0.0,0.3,4,.529,.501,,Free Agency
-2016,225,Adam Liberatore*,/players/l/liberad01.shtml,liberad01,29,LAD,6.1,7,0,0,0.00,4.14,0.26,-0.29,102.4,3.67,3,0.3,1.06,-0.0,0.3,3,.542,.502,,Traded
-2016,226,Pat Light,/players/l/lightpa01.shtml,lightpa01,25,BOS,1.0,1,0,2,18.00,3.77,0.36,-0.27,92.0,2.89,-2,-0.2,.01,0.1,-0.1,-2,.336,.499,,Amateur Draft
-2016,227,Francisco Liriano*,/players/l/liriafr01.shtml,liriafr01,32,PIT,21.1,4,4,11,4.64,4.17,0.28,0.17,99.1,4.03,-1,-0.1,,-0.0,0.1,0,.479,.499,,Free Agency
-2016,228,Kyle Lobstein*,/players/l/lobstky01.shtml,lobstky01,26,PIT,17.0,7,0,7,3.71,4.09,0.30,-0.29,104.2,3.65,0,0.0,1.15,-0.1,0.1,1,.506,.500,,Purchased
-2016,229,Jeff Locke*,/players/l/lockeje01.shtml,lockeje01,28,PIT,19.2,4,4,12,5.49,3.97,0.34,0.17,106.1,4.03,-3,-0.3,,-0.0,-0.1,-1,.436,.498,,Traded
-2016,230,Boone Logan*,/players/l/loganbo02.shtml,loganbo02,31,COL,9.1,11,0,4,3.86,4.35,-0.03,-0.31,125.3,5.10,2,0.2,1.42,-0.0,0.2,2,.515,.501,,Free Agency
-2016,231,Javier Lopez*,/players/l/lopezja02.shtml,lopezja02,38,SFG,4.1,11,0,5,10.38,5.48,-0.09,-0.39,101.0,5.23,-2,-0.2,.87,-0.0,-0.2,-2,.478,.499,,Free Agency
-2016,232,Mark Lowe,/players/l/lowema01.shtml,lowema01,33,DET,7.2,8,0,3,3.52,4.33,-0.33,-0.31,96.9,4.21,0,0.0,1.69,-0.0,0.1,1,.504,.500,,Free Agency
-2016,233,Cory Luebke*,/players/l/luebkco01.shtml,luebkco01,31,PIT,3.1,3,0,3,8.10,4.18,0.37,-0.29,95.9,3.37,-2,-0.2,.22,0.0,-0.1,-1,.446,.499,,Free Agency
-2016,234,Jordan Lyles,/players/l/lylesjo01.shtml,lylesjo01,25,COL,17.2,4,4,18,9.17,4.46,-0.04,0.19,127.5,5.97,-6,-0.5,,-0.0,-0.4,-5,.368,.497,,Traded
-2016,235,Tyler Lyons*,/players/l/lyonsty01.shtml,lyonsty01,28,STL,8.2,7,0,5,5.19,4.16,0.23,-0.29,101.2,3.68,-1,-0.1,.65,-0.0,-0.1,-1,.482,.499,,Amateur Draft
-2016,236,Ryan Madson,/players/m/madsory01.shtml,madsory01,35,OAK,10.2,11,0,3,2.53,4.48,-0.50,-0.32,96.2,4.49,2,0.2,1.65,0.0,0.4,3,.520,.501,,Free Agency
-2016,237,Kenta Maeda,/players/m/maedake01.shtml,maedake01,28,LAD,32.0,5,5,5,1.41,4.20,0.31,0.18,97.3,3.96,10,1.2,,-0.1,1.4,12,.734,.507,,Free Agency
-2016,238,Greg Mahle*,/players/m/mahlegr01.shtml,mahlegr01,23,LAA,6.1,8,0,1,1.42,4.43,0.27,-0.32,94.5,3.63,1,0.2,.89,-0.0,0.2,2,.519,.501,,Amateur Draft
-2016,239,Seth Maness,/players/m/manesse01.shtml,manesse01,27,STL,8.0,8,0,7,7.88,4.25,0.31,-0.30,97.7,3.55,-4,-0.4,.94,-0.0,-0.3,-3,.455,.498,,Amateur Draft
-2016,240,Jeff Manship,/players/m/manshje01.shtml,manshje01,31,CLE,5.2,7,0,0,0.00,4.41,-0.29,-0.32,107.9,4.73,3,0.3,1.44,0.1,0.4,3,.546,.502,,Free Agency
-2016,241,Jhan Marinez,/players/m/marinjh01.shtml,marinjh01,27,TBR,1.0,1,0,0,0.00,4.55,0.00,-0.33,98.0,4.14,0,0.0,.02,-0.0,0.0,1,.549,.500,,Free Agency
-2016,242,Matt Marksberry*,/players/m/marksma01.shtml,marksma01,25,ATL,0.2,1,0,1,13.50,4.74,-0.92,-0.34,92.0,4.89,-1,-0.1,.40,0.0,-0.0,-1,.439,.500,,Amateur Draft
-2016,243,Evan Marshall,/players/m/marshev01.shtml,marshev01,26,ARI,6.0,5,0,2,3.00,4.67,0.26,-0.33,99.1,4.04,1,0.1,1.02,-0.0,0.1,1,.518,.501,,Amateur Draft
-2016,244,Carlos Martinez,/players/m/martica04.shtml,martica04,24,STL,28.0,4,4,6,1.93,4.06,0.21,0.17,101.3,4.07,7,0.9,,-0.1,1.0,9,.717,.505,,Free Agency
-2016,245,Nick Martinez,/players/m/martini01.shtml,martini01,25,TEX,0.1,1,0,1,27.00,4.27,1.30,-0.30,94.0,2.51,-1,-0.1,2.18,-0.1,-0.2,-1,.405,.499,,Amateur Draft
-2016,246,Brian Matusz*,/players/m/matusbr01.shtml,matusbr01,29,BAL,1.0,2,0,1,9.00,4.19,-0.85,-0.31,97.8,4.63,-1,-0.1,1.03,-0.0,-0.1,-0,.471,.500,,Amateur Draft
-2016,247,Steven Matz*,/players/m/matzst01.shtml,matzst01,25,NYM,15.0,3,3,9,5.40,3.84,-0.95,0.16,98.8,4.89,-0,-0.0,,-0.0,0.1,0,.486,.500,,Amateur Draft
-2016,248,Brandon Maurer,/players/m/maurebr01.shtml,maurebr01,25,SDP,10.0,10,0,7,6.30,4.25,0.36,-0.30,99.7,3.58,-3,-0.3,1.02,-0.1,-0.2,-2,.472,.498,,Traded
-2016,249,Trevor May,/players/m/maytr01.shtml,maytr01,26,MIN,12.1,11,0,5,3.65,4.17,-0.38,-0.30,105.0,4.46,1,0.1,1.34,-0.0,0.2,2,.507,.500,,Traded
-2016,250,Zach McAllister,/players/m/mcallza01.shtml,mcallza01,28,CLE,8.2,10,0,1,1.04,4.52,-0.32,-0.33,106.7,4.81,3,0.4,1.22,0.0,0.5,4,.539,.502,,Traded
-2016,251,T.J. McFarland*,/players/m/mcfartj01.shtml,mcfartj01,27,BAL,12.1,7,0,4,2.92,4.18,-0.55,-0.30,107.1,4.74,2,0.2,.90,-0.1,0.3,4,.534,.501,,Rule 5 Draft
-2016,252,Jake McGee*,/players/m/mcgeeja01.shtml,mcgeeja01,29,COL,6.2,7,0,6,8.10,4.54,-0.04,-0.32,128.5,5.47,-2,-0.2,1.44,-0.1,-0.2,-1,.475,.499,,Traded
-2016,253,Dustin McGowan,/players/m/mcgowdu01.shtml,mcgowdu01,34,MIA,5.1,6,0,2,3.38,4.23,-0.46,-0.30,94.4,4.15,1,0.1,.60,-0.0,0.1,1,.511,.500,,Free Agency
-2016,254,Collin McHugh,/players/m/mchugco01.shtml,mchugco01,29,HOU,21.2,5,5,17,7.06,4.27,0.46,0.17,96.1,3.82,-9,-0.8,,-0.0,-0.6,-6,.337,.495,,Waivers
-2016,255,Kris Medlen,/players/m/medlekr01.shtml,medlekr01,30,KCR,15.0,3,3,11,6.60,4.28,0.47,0.17,99.9,3.98,-5,-0.5,,-0.0,-0.3,-3,.343,.497,,Free Agency
-2016,256,Mark Melancon,/players/m/melanma01.shtml,melanma01,31,PIT,9.2,10,0,3,2.79,4.09,0.30,-0.29,105.3,3.69,1,0.1,1.50,-0.0,0.2,2,.513,.501,,Traded
-2016,257,Tim Melville,/players/m/melviti01.shtml,melviti01,26,CIN,9.0,3,2,12,12.00,4.42,-0.22,0.08,101.3,4.78,-7,-0.6,.21,0.0,-0.5,-6,.305,.496,,Free Agency
-2016,258,Wade Miley*,/players/m/mileywa01.shtml,mileywa01,29,SEA,23.0,4,4,18,7.04,4.30,0.30,0.17,99.5,4.15,-8,-0.8,,-0.0,-0.6,-5,.311,.495,,Traded
-2016,259,Andrew Miller*,/players/m/millean01.shtml,millean01,31,NYY,9.0,9,0,0,0.00,4.47,-0.29,-0.32,99.7,4.42,4,0.5,1.62,0.1,0.7,5,.553,.503,,Free Agency
-2016,260,Justin Miller,/players/m/milleju02.shtml,milleju02,29,COL,9.0,9,0,6,6.00,4.38,-0.04,-0.31,124.7,5.11,-1,-0.1,.97,-0.0,-0.0,-0,.493,.500,,Free Agency
-2016,261,Shelby Miller,/players/m/millesh01.shtml,millesh01,25,ARI,19.2,5,5,19,8.69,4.19,0.31,0.18,107.0,4.34,-9,-0.8,,-0.0,-0.7,-8,.342,.495,,Traded
-2016,262,Tommy Milone*,/players/m/milonto01.shtml,milonto01,29,MIN,20.0,4,4,14,6.30,4.18,-0.52,0.17,105.1,5.11,-3,-0.3,,-0.0,-0.2,-1,.413,.498,,Traded
-2016,263,Rafael Montero,/players/m/montera01.shtml,montera01,25,NYM,2.1,2,0,3,11.57,3.90,-1.13,-0.27,107.0,5.09,-2,-0.2,.24,0.0,-0.1,-1,.422,.499,,Amateur Free Agent
-2016,264,Mike Montgomery*,/players/m/montgmi01.shtml,montgmi01,26,SEA,10.2,7,0,4,3.38,4.23,0.25,-0.31,98.7,3.63,-0,-0.0,.41,-0.0,0.1,1,.499,.500,,Traded
-2016,265,Matt Moore*,/players/m/moorema02.shtml,moorema02,27,TBR,32.0,5,5,13,3.66,4.42,0.00,0.18,94.9,4.36,1,0.2,,-0.1,0.4,5,.531,.501,,Amateur Draft
-2016,266,Franklin Morales*,/players/m/moralfr01.shtml,moralfr01,30,TOR,0.2,2,0,0,0.00,4.21,0.32,-0.31,94.0,3.36,0,0.0,.28,-0.0,0.0,0,.513,.500,,Free Agency
-2016,267,Mike Morin,/players/m/morinmi01.shtml,morinmi01,25,LAA,8.1,12,0,3,3.24,4.33,0.31,-0.31,92.0,3.41,-0,-0.0,.64,-0.0,0.0,1,.499,.500,,Amateur Draft
-2016,268,Bryan Morris,/players/m/morribr01.shtml,morribr01,29,MIA,8.1,12,0,3,3.24,4.58,-0.42,-0.32,96.2,4.49,1,0.1,1.23,-0.0,0.2,2,.512,.501,,Traded
-2016,269,Charlie Morton,/players/m/mortoch02.shtml,mortoch02,32,PHI,17.1,4,4,8,4.15,4.22,-0.11,0.18,102.2,4.61,1,0.1,,-0.0,0.3,2,.536,.501,,Traded
-2016,270,Jon Moscot,/players/m/moscojo01.shtml,moscojo01,24,CIN,15.2,3,3,10,5.74,4.48,-0.20,0.19,96.5,4.70,-1,-0.1,,-0.0,-0.0,-0,.455,.499,,Amateur Draft
-2016,271,Chris Narveson*,/players/n/narvech01.shtml,narvech01,34,MIA,8.1,6,0,8,8.64,4.20,-0.45,-0.30,97.0,4.22,-4,-0.4,1.75,-0.2,-0.5,-3,.437,.498,,Free Agency
-2016,272,Jimmy Nelson,/players/n/nelsoji02.shtml,nelsoji02,27,MIL,31.1,5,5,14,4.02,4.43,0.18,0.19,100.8,4.48,2,0.3,,-0.1,0.5,4,.553,.502,,Amateur Draft
-2016,273,Hector Neris,/players/n/nerishe01.shtml,nerishe01,27,PHI,13.0,12,0,1,0.69,4.38,-0.08,-0.31,99.2,4.12,5,0.6,1.28,0.0,0.7,6,.547,.504,,Amateur Free Agent
-2016,274,Pat Neshek,/players/n/neshepa01.shtml,neshepa01,35,HOU,6.2,9,0,2,2.70,4.23,0.27,-0.31,101.9,3.73,1,0.1,.91,-0.0,0.1,1,.507,.500,,Free Agency
-2016,275,Juan Nicasio,/players/n/nicasju01.shtml,nicasju01,29,PIT,20.0,4,4,10,4.50,4.12,0.27,0.17,99.6,4.01,-1,-0.1,,-0.0,0.1,1,.487,.500,,Free Agency
-2016,276,Justin Nicolino*,/players/n/nicolju01.shtml,nicolju01,24,MIA,7.1,1,1,0,0.00,4.69,-0.37,0.20,88.0,4.62,4,0.4,,-0.0,0.5,4,.922,.503,,Traded
-2016,277,Jon Niese*,/players/n/niesejo01.shtml,niesejo01,29,PIT,28.1,5,5,18,5.72,4.02,0.33,0.17,107.7,4.15,-4,-0.4,,-0.1,-0.2,-2,.421,.498,,Traded
-2016,278,Aaron Nola,/players/n/nolaaa01.shtml,nolaaa01,23,PHI,33.0,5,5,13,3.55,4.14,-0.11,0.17,102.8,4.55,5,0.5,,-0.1,0.7,7,.602,.503,,Amateur Draft
-2016,279,Ricky Nolasco,/players/n/nolasri01.shtml,nolasri01,33,MIN,27.2,4,4,10,3.25,4.15,-0.48,0.17,105.1,5.04,5,0.6,,-0.1,0.8,8,.639,.503,,Free Agency
-2016,280,Bud Norris,/players/n/norribu01.shtml,norribu01,31,ATL,22.2,5,5,23,9.13,4.12,-1.15,0.17,98.4,5.36,-9,-0.8,,-0.0,-0.6,-7,.343,.495,,Free Agency
-2016,281,Ivan Nova,/players/n/novaiv01.shtml,novaiv01,29,NYY,12.1,5,0,7,5.11,4.41,-0.65,-0.32,103.1,4.90,-1,-0.1,.53,-0.0,0.0,1,.484,.499,,Rule 5 returned
-2016,282,Vidal Nuno*,/players/n/nunovi01.shtml,nunovi01,28,SEA,7.0,7,0,1,1.29,4.40,0.24,-0.32,91.1,3.51,1,0.2,1.14,-0.0,0.2,2,.524,.501,,Traded
-2016,283,Darren O'Day,/players/o/odayda01.shtml,odayda01,33,BAL,7.2,9,0,0,0.00,4.51,-0.35,-0.33,105.5,4.79,4,0.4,1.29,0.0,0.6,5,.549,.503,,Free Agency
-2016,284,Eric O'Flaherty*,/players/o/oflaher01.shtml,oflaher01,31,ATL,5.1,12,0,4,6.75,4.97,-1.03,-0.35,97.2,5.50,-1,-0.1,1.59,-0.0,-0.1,-0,.495,.500,,Purchased
-2016,285,Ryan O'Rourke*,/players/o/orourry01.shtml,orourry01,28,MIN,6.2,5,0,2,2.70,4.06,-0.45,-0.29,104.3,4.40,1,0.1,.70,-0.0,0.1,2,.523,.501,,Amateur Draft
-2016,286,Scott Oberg,/players/o/obergsc01.shtml,obergsc01,26,COL,2.1,2,0,1,3.86,4.52,-0.03,-0.32,138.0,5.83,1,0.1,.80,-0.0,0.1,1,.531,.500,,Amateur Draft
-2016,287,Brett Oberholtzer*,/players/o/oberhbr01.shtml,oberhbr01,26,PHI,11.1,4,0,11,8.74,4.14,-0.15,-0.29,102.4,4.09,-6,-0.5,.29,0.1,-0.3,-5,.373,.497,,Traded
-2016,288,Jake Odorizzi,/players/o/odorija01.shtml,odorija01,26,TBR,27.2,5,5,12,3.90,4.49,0.01,0.18,99.4,4.63,1,0.1,,-0.1,0.4,5,.529,.501,,Traded
-2016,289,Alexi Ogando,/players/o/ogandal01.shtml,ogandal01,32,ATL,12.0,10,0,4,3.00,4.27,-0.89,-0.30,96.7,4.70,3,0.3,1.17,-0.0,0.3,3,.528,.502,,Free Agency
-2016,290,Seung-hwan Oh,/players/o/ohse01.shtml,ohse01,33,STL,12.0,11,0,2,1.50,4.23,0.12,-0.30,96.9,3.69,3,0.3,1.08,-0.1,0.4,4,.531,.502,,Free Agency
-2016,291,Ross Ohlendorf,/players/o/ohlenro01.shtml,ohlenro01,33,CIN,10.1,11,0,7,6.10,4.18,-0.14,-0.30,100.5,4.04,-2,-0.2,.93,-0.1,-0.2,-1,.481,.499,,Free Agency
-2016,292,Steven Okert*,/players/o/okertst01.shtml,okertst01,24,SFG,3.2,4,0,3,7.36,4.06,-0.06,-0.29,92.0,3.52,-1,-0.1,.36,0.0,-0.1,-1,.463,.499,,Amateur Draft
-2016,293,Tyler Olson*,/players/o/olsonty01.shtml,olsonty01,26,NYY,2.2,1,0,2,6.75,4.60,-0.77,-0.33,98.0,4.94,-1,-0.1,.57,0.0,-0.0,-0,.433,.500,,Traded
-2016,294,Josh Osich*,/players/o/osichjo01.shtml,osichjo01,27,SFG,9.2,12,0,4,3.72,4.44,-0.07,-0.31,102.8,4.32,1,0.1,1.25,-0.0,0.1,2,.508,.501,,Amateur Draft
-2016,295,Roberto Osuna,/players/o/osunaro01.shtml,osunaro01,21,TOR,9.1,9,0,4,3.86,4.23,0.28,-0.31,99.9,3.64,-1,-0.1,1.32,-0.0,-0.0,1,.493,.500,,Free Agency
-2016,296,Dan Otero,/players/o/oteroda01.shtml,oteroda01,31,CLE,5.1,5,0,0,0.00,4.47,-0.25,-0.32,105.0,4.62,3,0.3,.11,-0.2,0.2,3,.560,.502,,Purchased
-2016,297,Henry Owens*,/players/o/owenshe02.shtml,owenshe02,23,BOS,3.1,1,1,3,8.10,4.45,0.23,0.18,98.0,4.31,-2,-0.1,,-0.0,-0.1,-1,.352,.499,,Amateur Draft
-2016,298,Jonathan Papelbon,/players/p/papeljo01.shtml,papeljo01,35,WSN,9.1,10,0,3,2.89,3.87,-0.21,-0.27,100.6,3.83,1,0.1,2.01,0.0,0.2,2,.513,.501,,Traded
-2016,299,Jake Peavy,/players/p/peavyja01.shtml,peavyja01,35,SFG,21.0,4,4,16,6.86,4.05,-0.09,0.17,102.9,4.44,-5,-0.5,,-0.0,-0.3,-4,.383,.497,,Traded
-2016,300,Mike Pelfrey,/players/p/pelfrmi01.shtml,pelfrmi01,32,DET,21.1,4,4,16,6.75,4.31,-0.42,0.17,99.6,4.88,-5,-0.5,,-0.0,-0.3,-3,.371,.497,,Free Agency
-2016,301,Ariel Pena,/players/p/penaar01.shtml,penaar01,27,MIL,1.2,1,0,5,27.00,4.92,0.33,-0.35,104.0,4.41,-4,-0.3,.22,0.1,-0.2,-4,.206,.498,,Traded
-2016,302,Joel Peralta,/players/p/peraljo01.shtml,peraljo01,40,SEA,9.0,9,0,3,3.00,4.24,0.21,-0.31,97.2,3.62,0,0.0,1.61,-0.0,0.1,1,.504,.500,,Free Agency
-2016,303,Wily Peralta,/players/p/peralwi01.shtml,peralwi01,27,MIL,24.1,5,5,22,8.14,4.26,0.21,0.18,103.6,4.38,-9,-0.8,,-0.1,-0.7,-8,.334,.495,,Amateur Free Agent
-2016,304,Luis Perdomo,/players/p/perdolu02.shtml,perdolu02,23,SDP,10.2,9,0,13,10.97,4.46,0.59,-0.31,92.5,3.29,-9,-0.8,.41,0.2,-0.6,-8,.407,.495,,Purchased
-2016,305,Martin Perez*,/players/p/perezma02.shtml,perezma02,25,TEX,30.0,5,5,15,4.50,4.44,0.66,0.18,104.0,4.12,-2,-0.3,,-0.1,-0.0,1,.450,.498,,Amateur Free Agent
-2016,306,Oliver Perez*,/players/p/perezol01.shtml,perezol01,34,WSN,6.0,9,0,2,3.00,3.90,-0.13,-0.27,102.2,3.83,1,0.1,1.28,-0.0,0.1,1,.508,.500,,Free Agency
-2016,307,Williams Perez,/players/p/perezwi01.shtml,perezwi01,25,ATL,12.1,3,3,7,5.11,4.27,-1.07,0.18,94.4,5.21,0,0.1,,-0.0,0.1,1,.517,.500,,Amateur Free Agent
-2016,308,Glen Perkins*,/players/p/perkigl01.shtml,perkigl01,33,MIN,2.0,2,0,2,9.00,4.13,-0.67,-0.30,104.0,4.68,-1,-0.1,.86,0.0,-0.1,-1,.445,.499,,Amateur Draft
-2016,309,Yusmeiro Petit,/players/p/petityu01.shtml,petityu01,31,WSN,13.0,5,0,4,2.77,3.95,-0.17,-0.28,101.7,3.91,2,0.2,.88,-0.1,0.2,3,.543,.501,,Free Agency
-2016,310,Jake Petricka,/players/p/petrija01.shtml,petrija01,28,CHW,7.2,8,0,5,5.87,4.75,0.38,-0.34,97.3,3.92,-2,-0.2,1.03,-0.0,-0.2,-1,.473,.499,,Amateur Draft
-2016,311,David Phelps,/players/p/phelpda01.shtml,phelpda01,29,MIA,14.0,11,0,2,1.29,4.33,-0.28,-0.31,96.4,4.14,5,0.5,1.58,0.1,0.7,6,.547,.503,,Traded
-2016,312,Branden Pinder,/players/p/pindebr01.shtml,pindebr01,27,NYY,1.0,1,0,2,18.00,4.17,-0.75,-0.30,98.0,4.53,-2,-0.1,.42,0.0,-0.1,-1,.351,.499,,Amateur Draft
-2016,313,Michael Pineda,/players/p/pinedmi01.shtml,pinedmi01,27,NYY,22.0,4,4,18,7.36,4.60,-0.58,0.19,98.0,5.26,-6,-0.6,,-0.0,-0.4,-3,.355,.496,,Traded
-2016,314,Drew Pomeranz*,/players/p/pomerdr01.shtml,pomerdr01,27,SDP,22.0,4,4,9,3.68,4.22,0.30,0.18,104.1,4.26,2,0.2,,-0.0,0.4,3,.555,.501,,Traded
-2016,315,Rick Porcello,/players/p/porceri01.shtml,porceri01,27,BOS,25.2,4,4,10,3.51,4.71,0.18,0.19,103.6,4.89,3,0.4,,-0.0,0.6,6,.590,.502,,Traded
-2016,316,Ryan Pressly,/players/p/pressry01.shtml,pressry01,27,MIN,14.1,11,0,5,3.14,4.18,-0.50,-0.30,104.9,4.59,2,0.2,.99,-0.1,0.3,4,.519,.501,,Rule 5 Draft
-2016,317,David Price*,/players/p/priceda01.shtml,priceda01,30,BOS,29.2,5,5,19,5.76,4.33,0.18,0.17,106.9,4.62,-5,-0.5,,-0.1,-0.3,-1,.401,.497,,Free Agency
-2016,318,Zach Putnam,/players/p/putnaza01.shtml,putnaza01,28,CHW,8.2,7,0,3,3.12,4.63,0.29,-0.33,95.5,3.82,0,0.0,.15,-0.0,0.1,1,.506,.500,,Free Agency
-2016,319,Kevin Quackenbush,/players/q/quackke01.shtml,quackke01,27,SDP,10.1,11,0,9,7.84,4.39,0.45,-0.31,95.0,3.45,-5,-0.5,.78,-0.0,-0.4,-4,.457,.497,,Amateur Draft
-2016,320,Chad Qualls,/players/q/quallch01.shtml,quallch01,37,COL,7.0,10,0,6,7.71,4.42,-0.04,-0.31,122.9,5.10,-2,-0.2,.82,-0.0,-0.1,-1,.481,.499,,Free Agency
-2016,321,Jose Quintana*,/players/q/quintjo01.shtml,quintjo01,27,CHW,30.2,5,5,6,1.76,4.45,0.33,0.18,98.0,4.21,7,0.9,,-0.1,1.2,11,.682,.506,,Free Agency
-2016,322,Erasmo Ramirez,/players/r/ramirer02.shtml,ramirer02,26,TBR,19.1,9,1,3,1.40,4.36,0.00,-0.17,97.9,4.10,5,0.6,2.13,0.2,1.0,8,.567,.504,,Traded
-2016,323,J.C. Ramirez,/players/r/ramirjc01.shtml,ramirjc01,27,CIN,5.0,2,0,2,3.60,4.59,-0.14,-0.32,95.4,4.20,0,0.1,.38,-0.0,0.1,1,.525,.500,,Free Agency
-2016,324,Jose Ramirez,/players/r/ramirjo02.shtml,ramirjo02,26,ATL,2.0,2,0,6,27.00,4.25,-1.08,-0.30,92.0,4.63,-5,-0.4,.38,0.1,-0.3,-5,.296,.497,,Traded
-2016,325,Neil Ramirez,/players/r/ramirne01.shtml,ramirne01,27,CHC,6.0,6,0,3,4.50,3.89,0.41,-0.27,100.9,3.24,-1,-0.1,.27,-0.0,-0.0,-0,.489,.500,,Traded
-2016,326,Noe Ramirez,/players/r/ramirno01.shtml,ramirno01,26,BOS,9.1,9,0,6,5.79,4.85,0.20,-0.35,106.7,4.59,-2,-0.2,.67,-0.0,-0.1,-0,.481,.499,,Amateur Draft
-2016,327,A.J. Ramos,/players/r/ramosaj01.shtml,ramosaj01,29,MIA,9.0,9,0,1,1.00,4.39,-0.27,-0.31,93.1,4.05,3,0.4,1.92,0.1,0.5,4,.539,.502,,Amateur Draft
-2016,328,Cesar Ramos*,/players/r/ramosce01.shtml,ramosce01,32,TEX,6.0,1,1,3,4.50,4.56,0.75,0.18,114.0,4.55,-0,-0.0,,-0.0,0.0,1,.480,.500,,Free Agency
-2016,329,Cory Rasmus,/players/r/rasmuco02.shtml,rasmuco02,28,LAA,10.1,5,0,7,6.10,4.39,0.27,-0.32,92.3,3.51,-3,-0.4,.98,-0.0,-0.3,-2,.429,.498,,Traded
-2016,330,Robbie Ray*,/players/r/rayro02.shtml,rayro02,24,ARI,21.1,4,4,9,3.80,4.67,0.26,0.20,100.2,4.62,3,0.3,,-0.0,0.4,4,.569,.502,,Traded
-2016,331,Colin Rea,/players/r/reaco01.shtml,reaco01,25,SDP,21.1,5,4,14,5.91,4.12,0.41,0.15,101.8,3.93,-4,-0.4,.00,-0.0,-0.2,-3,.421,.498,,Amateur Draft
-2016,332,Addison Reed,/players/r/reedad01.shtml,reedad01,27,NYM,12.0,12,0,3,2.25,3.93,-0.83,-0.28,96.0,4.30,3,0.3,1.18,-0.0,0.4,4,.527,.502,,Traded
-2016,333,Clayton Richard*,/players/r/richacl01.shtml,richacl01,32,CHC,2.2,4,0,4,13.50,3.97,0.65,-0.28,99.9,3.04,-3,-0.3,.25,0.1,-0.2,-3,.427,.498,,Purchased
-2016,334,Garrett Richards,/players/r/richaga01.shtml,richaga01,28,LAA,30.2,5,5,12,3.52,4.28,0.27,0.17,92.6,3.87,0,0.0,,-0.1,0.2,4,.502,.500,,Amateur Draft
-2016,335,Felipe Rivero*,/players/r/riverfe01.shtml,riverfe01,24,WSN,11.2,11,0,5,3.86,3.98,-0.16,-0.28,100.6,3.88,0,0.0,1.16,-0.1,0.1,1,.503,.500,,Traded
-2016,336,Tanner Roark,/players/r/roarkta01.shtml,roarkta01,29,WSN,31.0,5,5,9,2.61,3.91,-0.17,0.16,102.7,4.36,7,0.8,,-0.1,1.0,9,.657,.505,,Traded
-2016,337,David Robertson,/players/r/roberda08.shtml,roberda08,31,CHW,10.1,10,0,1,0.87,4.48,0.26,-0.32,98.5,3.84,3,0.4,1.81,0.1,0.6,4,.535,.502,,Free Agency
-2016,338,Hansel Robles,/players/r/robleha01.shtml,robleha01,25,NYM,10.0,11,0,3,2.70,3.91,-0.89,-0.28,94.5,4.28,2,0.2,.94,-0.1,0.2,3,.520,.501,,Amateur Free Agent
-2016,339,Fernando Rodney,/players/r/rodnefe01.shtml,rodnefe01,39,SDP,7.1,7,0,1,1.23,4.30,0.31,-0.30,90.2,3.32,2,0.2,1.49,0.0,0.3,2,.529,.501,,Free Agency
-2016,340,Carlos Rodon*,/players/r/rodonca01.shtml,rodonca01,23,CHW,20.0,4,4,9,4.05,4.20,0.37,0.17,98.9,3.96,-1,-0.1,,-0.0,0.1,2,.475,.499,,Amateur Draft
-2016,341,Fernando Rodriguez,/players/r/rodrife02.shtml,rodrife02,32,OAK,15.0,10,0,2,1.20,4.44,-0.43,-0.32,97.3,4.43,5,0.6,1.02,-0.0,0.7,7,.557,.504,,Traded
-2016,342,Francisco Rodriguez,/players/r/rodrifr03.shtml,rodrifr03,34,DET,7.2,9,0,5,5.87,4.33,-0.36,-0.31,98.5,4.31,-2,-0.2,.65,0.0,-0.1,-1,.480,.499,,Traded
-2016,343,Taylor Rogers*,/players/r/rogerta01.shtml,rogerta01,25,MIN,0.2,1,0,0,0.00,4.25,-0.76,-0.31,106.0,4.98,0,0.0,.19,-0.0,0.0,0,.540,.500,,Amateur Draft
-2016,344,Enny Romero*,/players/r/romeren01.shtml,romeren01,25,TBR,8.2,8,0,2,2.08,4.47,0.00,-0.32,100.4,4.16,2,0.2,1.17,-0.0,0.3,3,.524,.501,,Amateur Free Agent
-2016,345,Sergio Romo,/players/r/romose01.shtml,romose01,33,SFG,3.1,4,0,1,2.70,4.51,-0.07,-0.32,95.0,4.05,1,0.1,1.68,0.0,0.1,1,.516,.500,,Free Agency
-2016,346,Hector Rondon,/players/r/rondohe01.shtml,rondohe01,28,CHC,6.0,6,0,0,0.00,4.04,0.26,-0.28,103.2,3.60,3,0.3,1.64,0.1,0.4,3,.546,.502,,Rule 5 Draft
-2016,347,Trevor Rosenthal,/players/r/rosentr01.shtml,rosentr01,26,STL,7.0,7,0,3,3.86,4.16,0.12,-0.29,94.5,3.53,-0,-0.0,2.67,-0.0,0.0,0,.499,.500,,Amateur Draft
-2016,348,Joe Ross,/players/r/rossjo01.shtml,rossjo01,23,WSN,16.2,3,3,1,0.54,3.95,-0.18,0.17,102.3,4.39,8,0.9,,-0.0,1.0,9,.802,.506,,Traded
-2016,349,Robbie Ross*,/players/r/rossro01.shtml,rossro01,27,BOS,10.0,7,0,4,3.60,4.56,0.21,-0.33,107.3,4.31,0,0.0,1.36,-0.0,0.1,2,.507,.500,,Traded
-2016,350,Tyson Ross,/players/r/rossty01.shtml,rossty01,29,SDP,5.1,1,1,8,13.50,4.69,0.46,0.20,88.0,3.89,-6,-0.3,,-0.0,-0.3,-5,.153,.498,,Traded
-2016,351,Chris Rusin*,/players/r/rusinch01.shtml,rusinch01,29,COL,11.0,4,0,3,2.45,4.47,-0.03,-0.32,126.3,5.29,4,0.4,.95,-0.1,0.4,4,.604,.503,,Waivers
-2016,352,James Russell*,/players/r/russeja02.shtml,russeja02,30,PHI,4.1,7,0,9,18.69,4.32,-0.18,-0.31,98.4,4.13,-7,-0.7,.93,-0.0,-0.6,-7,.407,.496,,Free Agency
-2016,353,Kyle Ryan*,/players/r/ryanky01.shtml,ryanky01,24,DET,12.1,8,0,3,2.19,4.17,-0.40,-0.30,99.4,4.25,2,0.3,.26,-0.1,0.3,4,.534,.502,,Amateur Draft
-2016,354,Marc Rzepczynski*,/players/r/rzepcma01.shtml,rzepcma01,30,OAK,9.0,10,0,2,2.00,4.73,-0.48,-0.34,95.9,4.68,2,0.3,.87,-0.0,0.3,3,.527,.502,,Traded
-2016,355,CC Sabathia*,/players/s/sabatc.01.shtml,sabatc.01,35,NYY,21.1,4,4,12,5.06,4.32,-0.63,0.17,102.2,5.23,-0,-0.0,,-0.0,0.1,2,.490,.500,,Free Agency
-2016,356,Fernando Salas,/players/s/salasfe01.shtml,salasfe01,31,LAA,12.1,11,0,4,2.92,4.27,0.27,-0.31,94.8,3.51,0,0.0,1.55,-0.0,0.1,2,.504,.500,,Traded
-2016,357,Danny Salazar,/players/s/salazda01.shtml,salazda01,26,CLE,23.0,4,4,6,2.35,4.32,-0.25,0.17,102.1,4.85,6,0.7,,-0.0,0.9,8,.675,.504,,Amateur Free Agent
-2016,358,Chris Sale*,/players/s/salech01.shtml,salech01,27,CHW,38.0,5,5,8,1.89,4.46,0.33,0.18,95.7,4.12,8,1.0,,-0.1,1.3,13,.704,.506,,Amateur Draft
-2016,359,Jeff Samardzija,/players/s/samarje01.shtml,samarje01,31,SFG,32.2,5,5,14,3.86,4.12,-0.07,0.17,104.2,4.55,3,0.4,,-0.1,0.6,5,.575,.502,,Free Agency
-2016,360,Keyvius Sampson,/players/s/sampske01.shtml,sampske01,25,CIN,3.0,2,0,4,12.00,4.30,-0.19,-0.30,99.4,4.16,-3,-0.2,.12,0.1,-0.1,-2,.383,.499,,Waivers
-2016,361,Aaron Sanchez,/players/s/sanchaa01.shtml,sanchaa01,23,TOR,24.1,4,4,10,3.70,4.27,0.31,0.17,100.8,4.17,0,0.0,,-0.0,0.2,3,.511,.500,,Amateur Draft
-2016,362,Anibal Sanchez,/players/s/sanchan01.shtml,sanchan01,32,DET,23.2,5,5,18,6.85,4.29,-0.34,0.17,98.0,4.71,-6,-0.6,,-0.0,-0.4,-4,.371,.496,,Traded
-2016,363,Ervin Santana,/players/s/santaer01.shtml,santaer01,33,MIN,20.0,4,4,10,4.50,4.23,-0.52,0.17,105.2,5.17,1,0.1,,-0.0,0.2,3,.522,.501,,Free Agency
-2016,364,Hector Santiago*,/players/s/santihe01.shtml,santihe01,28,LAA,26.2,4,4,9,3.04,4.31,0.26,0.17,92.4,3.91,2,0.2,,-0.1,0.4,5,.547,.501,,Traded
-2016,365,Rob Scahill,/players/s/scahiro01.shtml,scahiro01,29,PIT,6.0,8,0,4,6.00,4.02,0.29,-0.28,107.8,3.71,-1,-0.1,.50,0.0,-0.1,-1,.483,.499,,Traded
-2016,366,Max Scherzer,/players/s/scherma01.shtml,scherma01,31,WSN,31.0,5,5,15,4.35,3.87,-0.18,0.16,100.1,4.22,0,0.0,,-0.1,0.2,2,.509,.500,,Free Agency
-2016,367,A.J. Schugel,/players/s/schugaj01.shtml,schugaj01,27,PIT,10.0,6,0,6,5.40,4.07,0.32,-0.29,105.6,3.66,-2,-0.2,.53,-0.0,-0.1,-1,.472,.499,,Waivers
-2016,368,Luis Severino,/players/s/severlu01.shtml,severlu01,22,NYY,19.2,4,4,15,6.86,4.32,-0.70,0.17,101.1,5.25,-4,-0.4,,-0.0,-0.3,-2,.393,.497,,Amateur Free Agent
-2016,369,Bryan Shaw,/players/s/shawbr01.shtml,shawbr01,28,CLE,8.1,10,0,10,10.80,4.31,-0.30,-0.31,103.4,4.45,-6,-0.7,1.31,-0.1,-0.7,-5,.434,.496,,Traded
-2016,370,James Shields,/players/s/shielja02.shtml,shielja02,34,SDP,33.0,5,5,13,3.55,4.30,0.38,0.18,99.3,4.07,3,0.3,,-0.1,0.5,5,.562,.502,,Free Agency
-2016,371,Matt Shoemaker,/players/s/shoemma01.shtml,shoemma01,29,LAA,18.1,4,4,15,7.36,4.29,0.34,0.17,92.4,3.81,-8,-0.7,,-0.0,-0.6,-6,.317,.495,,Amateur Free Agent
-2016,372,Chasen Shreve*,/players/s/shrevch01.shtml,shrevch01,25,NYY,7.2,9,0,3,3.52,4.45,-0.54,-0.32,101.1,4.72,1,0.1,1.01,-0.0,0.1,2,.509,.501,,Traded
-2016,373,Kevin Siegrist*,/players/s/siegrke01.shtml,siegrke01,26,STL,8.2,10,0,3,3.12,4.29,0.16,-0.30,99.4,3.80,1,0.1,1.62,-0.0,0.2,1,.510,.501,,Amateur Draft
-2016,374,Alfredo Simon,/players/s/simonal01.shtml,simonal01,35,CIN,9.1,4,3,19,18.32,4.48,-0.23,0.13,101.2,4.90,-14,-1.0,.05,0.0,-0.9,-13,.240,.494,,Free Agency
-2016,375,Tony Sipp*,/players/s/sippto01.shtml,sippto01,32,HOU,7.2,10,0,4,4.70,4.30,0.35,-0.31,97.3,3.54,-1,-0.1,.41,0.0,-0.1,-0,.486,.499,,Free Agency
-2016,376,Joe Smith,/players/s/smithjo05.shtml,smithjo05,32,LAA,12.0,12,0,4,3.00,4.28,0.33,-0.31,95.3,3.47,0,0.0,1.32,-0.0,0.1,2,.502,.500,,Free Agency
-2016,377,Drew Smyly*,/players/s/smylydr01.shtml,smylydr01,27,TBR,28.2,4,4,9,2.83,4.49,0.00,0.18,99.4,4.64,5,0.6,,-0.1,0.8,8,.647,.504,,Traded
-2016,378,Blake Snell*,/players/s/snellbl01.shtml,snellbl01,23,TBR,5.0,1,1,1,1.80,4.56,0.00,0.18,98.0,4.64,1,0.2,,-0.0,0.2,2,.675,.501,,Amateur Draft
-2016,379,Sammy Solis*,/players/s/solissa01.shtml,solissa01,27,WSN,1.2,1,0,1,5.40,3.94,-0.19,-0.28,104.0,4.01,-0,-0.0,1.63,-0.0,-0.0,-0,.479,.500,,Amateur Draft
-2016,380,Joakim Soria,/players/s/soriajo01.shtml,soriajo01,32,KCR,10.0,11,0,8,7.20,4.43,0.52,-0.32,98.8,3.55,-4,-0.5,1.12,-0.1,-0.4,-3,.456,.497,,Free Agency
-2016,381,Robert Stephenson,/players/s/stephro01.shtml,stephro01,23,CIN,12.0,2,2,5,3.75,3.70,-0.19,0.16,102.0,4.13,1,0.1,,-0.0,0.2,2,.545,.501,,Amateur Draft
-2016,382,Drew Storen,/players/s/storedr01.shtml,storedr01,28,TOR,7.2,9,0,8,9.39,4.24,0.40,-0.31,101.5,3.59,-5,-0.6,1.21,-0.1,-0.6,-4,.438,.497,,Traded
-2016,383,Dan Straily,/players/s/straida01.shtml,straida01,27,CIN,18.0,5,2,7,3.50,4.19,-0.14,-0.04,101.0,4.33,2,0.2,.63,-0.1,0.3,3,.547,.501,,Waivers
-2016,384,Stephen Strasburg,/players/s/strasst01.shtml,strasst01,27,WSN,29.0,4,4,7,2.17,3.86,-0.15,0.16,99.9,4.17,7,0.8,,-0.1,1.0,9,.711,.505,,Amateur Draft
-2016,385,Huston Street,/players/s/streehu01.shtml,streehu01,32,LAA,7.2,9,0,1,1.17,4.39,0.29,-0.32,92.0,3.48,2,0.2,1.72,0.0,0.3,3,.521,.501,,Traded
-2016,386,Hunter Strickland,/players/s/strichu01.shtml,strichu01,27,SFG,8.1,10,0,5,5.40,4.15,-0.07,-0.29,99.4,3.90,-1,-0.1,.91,-0.0,-0.1,-1,.488,.499,,Waivers
-2016,387,Ross Stripling,/players/s/stripro01.shtml,stripro01,26,LAD,22.1,4,4,9,3.63,4.24,0.34,0.18,89.9,3.67,1,0.1,,-0.0,0.2,2,.520,.500,,Amateur Draft
-2016,388,Marcus Stroman,/players/s/stromma01.shtml,stromma01,25,TOR,35.0,5,5,17,4.37,4.30,0.35,0.17,98.2,4.05,-2,-0.3,,-0.1,0.0,2,.447,.498,,Amateur Draft
-2016,389,Pedro Strop,/players/s/stroppe01.shtml,stroppe01,31,CHC,8.1,10,0,3,3.24,4.06,0.33,-0.29,101.5,3.49,0,0.0,1.07,-0.0,0.1,1,.505,.500,,Traded
-2016,390,Daniel Stumpf*,/players/s/stumpda01.shtml,stumpda01,25,PHI,0.2,3,0,3,40.50,6.76,-0.20,-0.47,96.4,6.26,-3,-0.2,1.34,-0.0,-0.3,-2,.419,.499,,Rule 5 Draft
-2016,391,Eric Surkamp*,/players/s/surkaer01.shtml,surkaer01,28,OAK,19.1,4,4,12,5.59,4.78,-0.67,0.19,95.9,5.41,-1,-0.1,,-0.0,0.0,1,.471,.499,,Free Agency
-2016,392,Noah Syndergaard,/players/s/syndeno01.shtml,syndeno01,23,NYM,26.2,4,4,5,1.69,4.00,-0.77,0.17,95.1,4.70,10,1.1,,-0.1,1.3,11,.787,.507,,Traded
-2016,393,Masahiro Tanaka,/players/t/tanakma01.shtml,tanakma01,27,NYY,24.2,4,4,9,3.28,4.63,-0.51,0.19,98.0,5.22,4,0.5,,-0.0,0.7,7,.636,.503,,Free Agency
-2016,394,Junichi Tazawa,/players/t/tazawju01.shtml,tazawju01,30,BOS,8.2,10,0,1,1.04,4.50,0.15,-0.33,108.1,4.35,3,0.3,1.54,0.1,0.5,4,.533,.502,,Free Agency
-2016,395,Julio Teheran,/players/t/teherju01.shtml,teherju01,25,ATL,29.1,5,5,16,4.91,4.14,-0.96,0.17,94.6,4.99,1,0.1,,-0.1,0.3,3,.523,.501,,Amateur Free Agent
-2016,396,Ryan Tepera,/players/t/teperry01.shtml,teperry01,28,TOR,1.0,1,0,1,9.00,4.26,0.55,-0.31,98.0,3.33,-1,-0.1,.21,0.0,-0.0,-1,.430,.500,,Amateur Draft
-2016,397,Tyler Thornburg,/players/t/thornty01.shtml,thornty01,27,MIL,8.1,8,0,3,3.24,4.27,0.13,-0.30,102.8,3.94,1,0.1,1.36,-0.0,0.1,1,.512,.501,,Amateur Draft
-2016,398,Chris Tillman,/players/t/tillmch01.shtml,tillmch01,28,BAL,25.0,5,5,9,3.24,4.52,-0.45,0.18,104.1,5.36,5,0.6,,-0.0,0.8,8,.622,.504,,Traded
-2016,399,Shawn Tolleson,/players/t/tollesh01.shtml,tollesh01,28,TEX,8.0,10,0,6,6.75,4.78,0.80,-0.35,110.4,4.01,-3,-0.3,2.09,-0.2,-0.4,-2,.470,.498,,Waivers
-2016,400,Josh Tomlin,/players/t/tomlijo01.shtml,tomlijo01,31,CLE,17.0,3,3,7,3.71,4.40,-0.35,0.18,104.7,5.16,2,0.3,,-0.0,0.4,4,.585,.502,,Amateur Draft
-2016,401,Michael Tonkin,/players/t/tonkimi01.shtml,tonkimi01,26,MIN,10.1,8,0,2,1.74,4.14,-0.44,-0.30,104.9,4.49,3,0.3,1.37,0.0,0.4,4,.540,.502,,Amateur Draft
-2016,402,Carlos Torres,/players/t/torreca01.shtml,torreca01,33,MIL,11.2,10,0,6,4.63,4.31,0.20,-0.30,100.5,3.83,-1,-0.1,.79,-0.1,-0.0,0,.493,.500,,Free Agency
-2016,403,Blake Treinen,/players/t/treinbl01.shtml,treinbl01,28,WSN,8.0,9,0,1,1.13,3.88,-0.13,-0.27,102.0,3.82,3,0.3,1.50,0.0,0.4,3,.531,.502,,Traded
-2016,404,Andrew Triggs,/players/t/triggan01.shtml,triggan01,27,OAK,1.0,1,0,0,0.00,4.21,-0.35,-0.31,98.0,4.18,0,0.0,.04,-0.0,0.0,1,.550,.500,,Waivers
-2016,405,Nick Tropeano,/players/t/tropeni01.shtml,tropeni01,25,LAA,21.1,4,4,5,2.11,4.25,0.30,0.17,94.9,3.91,4,0.4,,-0.0,0.6,6,.606,.503,,Traded
-2016,406,Koji Uehara,/players/u/ueharko01.shtml,ueharko01,41,BOS,9.1,10,0,4,3.86,4.75,0.16,-0.34,105.7,4.48,0,0.0,1.70,-0.0,0.1,1,.504,.500,,Free Agency
-2016,407,Jose Urena,/players/u/urenajo01.shtml,urenajo01,24,MIA,3.1,2,0,2,5.40,4.80,-0.46,-0.34,90.7,4.47,-0,-0.0,3.49,-0.1,-0.1,-0,.487,.500,,Amateur Free Agent
-2016,408,Cesar Vargas,/players/v/vargace01.shtml,vargace01,24,SDP,5.0,1,1,1,1.80,4.26,0.38,0.18,88.0,3.56,1,0.1,,-0.0,0.2,1,.626,.501,,Free Agency
-2016,409,Vincent Velasquez,/players/v/velasvi01.shtml,velasvi01,24,PHI,25.1,4,4,8,2.84,4.50,-0.11,0.19,99.2,4.76,6,0.7,,-0.1,0.9,8,.675,.504,,Traded
-2016,410,Pat Venditte#,/players/v/vendipa01.shtml,vendipa01,31,TOR,3.2,5,0,3,7.36,4.32,0.41,-0.31,102.6,3.69,-2,-0.2,.72,0.0,-0.1,-1,.465,.499,,Waivers
-2016,411,Yordano Ventura,/players/v/ventuyo01.shtml,ventuyo01,25,KCR,23.0,4,4,6,2.35,4.27,0.44,0.17,102.5,4.09,4,0.4,,-0.0,0.6,6,.610,.503,,Amateur Free Agent
-2016,412,Drew VerHagen,/players/v/verhadr01.shtml,verhadr01,25,DET,10.0,11,0,9,8.10,4.23,-0.51,-0.31,97.9,4.34,-5,-0.5,.78,0.0,-0.4,-3,.455,.497,,Amateur Draft
-2016,413,Justin Verlander,/players/v/verlaju01.shtml,verlaju01,33,DET,29.2,5,5,18,5.46,4.19,-0.32,0.17,98.0,4.59,-4,-0.4,,-0.1,-0.2,-0,.418,.497,,Amateur Draft
-2016,414,Logan Verrett,/players/v/verrelo01.shtml,verrelo01,26,NYM,16.1,6,2,1,0.55,3.95,-0.89,0.05,93.3,4.56,8,0.9,.99,-0.1,1.0,9,.646,.505,,Rule 5 returned
-2016,415,Carlos Villanueva,/players/v/villaca01.shtml,villaca01,32,SDP,11.2,9,0,8,6.17,4.24,0.43,-0.30,99.2,3.49,-3,-0.3,1.41,-0.1,-0.3,-2,.465,.498,,Free Agency
-2016,416,Nick Vincent,/players/v/vinceni01.shtml,vinceni01,29,SEA,9.1,9,0,2,1.93,4.36,0.20,-0.32,98.1,3.78,2,0.2,.91,-0.0,0.2,3,.520,.501,,Traded
-2016,417,Arodys Vizcaino,/players/v/vizcaar01.shtml,vizcaar01,25,ATL,8.0,9,0,1,1.13,4.19,-0.69,-0.30,97.4,4.46,3,0.3,1.02,-0.0,0.4,4,.538,.502,,Traded
-2016,418,Ryan Vogelsong,/players/v/vogelry01.shtml,vogelry01,38,PIT,11.0,5,1,5,4.09,4.06,0.30,-0.08,99.5,3.67,-0,-0.0,1.35,-0.0,0.0,0,.496,.500,,Free Agency
-2016,419,Edinson Volquez,/players/v/volqued01.shtml,volqued01,32,KCR,29.2,5,5,12,3.64,4.39,0.51,0.18,99.2,4.03,0,0.0,,-0.1,0.3,4,.505,.500,,Free Agency
-2016,420,Michael Wacha,/players/w/wachami01.shtml,wachami01,24,STL,29.1,5,5,13,3.99,4.20,0.22,0.18,99.0,4.11,1,0.1,,-0.1,0.3,3,.526,.501,,Amateur Draft
-2016,421,Tyler Wagner,/players/w/wagnety01.shtml,wagnety01,25,ARI,10.0,3,0,3,2.70,4.80,0.29,-0.34,100.0,4.17,2,0.2,1.72,0.0,0.3,3,.570,.501,,Traded
-2016,422,Adam Wainwright,/players/w/wainwad01.shtml,wainwad01,34,STL,27.2,5,5,22,7.16,4.18,0.26,0.18,96.8,3.97,-9,-0.8,,-0.1,-0.6,-7,.341,.495,,Traded
-2016,423,Taijuan Walker,/players/w/walketa01.shtml,walketa01,23,SEA,25.0,4,4,5,1.80,4.20,0.26,0.17,93.6,3.85,5,0.6,,-0.0,0.8,8,.649,.504,,Amateur Draft
-2016,424,Chien-Ming Wang,/players/w/wangch01.shtml,wangch01,36,KCR,7.1,6,0,3,3.68,4.37,0.51,-0.32,99.0,3.51,-0,-0.0,.08,-0.0,0.0,1,.493,.500,,Free Agency
-2016,425,Adam Warren,/players/w/warread01.shtml,warread01,28,CHC,8.0,7,0,1,1.13,4.04,0.37,-0.28,101.0,3.42,2,0.2,1.10,-0.0,0.3,3,.534,.501,,Traded
-2016,426,Tony Watson*,/players/w/watsoto01.shtml,watsoto01,31,PIT,10.2,10,0,7,5.91,4.00,0.31,-0.28,106.5,3.63,-2,-0.2,1.32,-0.1,-0.2,-2,.476,.499,,Amateur Draft
-2016,427,Jered Weaver,/players/w/weaveje02.shtml,weaveje02,33,LAA,23.1,4,4,10,3.86,4.20,0.34,0.17,93.6,3.77,-1,-0.1,,-0.0,0.1,2,.471,.499,,Amateur Draft
-2016,428,Daniel Webb,/players/w/webbda01.shtml,webbda01,26,CHW,1.0,1,0,0,0.00,4.25,0.25,-0.31,104.0,3.83,0,0.0,.00,-0.0,0.0,1,.545,.500,,Traded
-2016,429,Ryan Webb,/players/w/webbry01.shtml,webbry01,30,TBR,6.0,6,0,3,4.50,4.68,0.01,-0.34,97.6,4.23,-0,-0.0,.45,-0.0,0.0,0,.493,.500,,Free Agency
-2016,430,Ryan Weber,/players/w/weberry01.shtml,weberry01,25,ATL,7.2,3,0,9,10.57,4.51,-1.20,-0.32,92.0,4.96,-5,-0.4,.66,0.0,-0.3,-4,.362,.497,,Amateur Draft
-2016,431,Tom Wilhelmsen,/players/w/wilheto01.shtml,wilheto01,32,TEX,7.0,8,0,10,12.86,4.60,0.89,-0.33,100.5,3.39,-8,-0.8,.87,0.0,-0.7,-7,.402,.495,,Traded
-2016,432,Alex Wilson,/players/w/wilsoal01.shtml,wilsoal01,29,DET,5.1,5,0,0,0.00,4.14,-0.26,-0.30,98.9,4.06,2,0.3,.26,-0.1,0.2,3,.552,.502,,Traded
-2016,433,Justin Wilson*,/players/w/wilsoju10.shtml,wilsoju10,28,DET,9.0,10,0,0,0.00,4.22,-0.26,-0.31,98.2,4.09,4,0.4,1.03,-0.0,0.5,5,.544,.503,,Traded
-2016,434,Tyler Wilson,/players/w/wilsoty01.shtml,wilsoty01,26,BAL,17.2,5,2,6,3.06,4.32,-0.58,-0.05,105.2,5.10,3,0.4,.67,-0.1,0.5,6,.581,.502,,Amateur Draft
-2016,435,Daniel Winkler,/players/w/winklda01.shtml,winklda01,26,ATL,2.1,3,0,0,0.00,4.14,-0.40,-0.29,92.0,3.90,1,0.1,2.19,0.1,0.2,1,.538,.501,,Rule 5 Draft
-2016,436,Matt Wisler,/players/w/wislema01.shtml,wislema01,23,ATL,25.1,5,4,13,4.62,4.23,-0.93,0.16,94.8,5.05,2,0.2,3.47,-0.0,0.4,3,.541,.501,,Traded
-2016,437,Chris Withrow,/players/w/withrch01.shtml,withrch01,27,ATL,6.1,9,0,2,2.84,4.20,-0.87,-0.30,95.8,4.57,1,0.1,.97,-0.0,0.2,2,.516,.501,,Traded
-2016,438,Nick Wittgren,/players/w/wittgni01.shtml,wittgni01,25,MIA,2.0,2,0,1,4.50,5.59,-0.39,-0.40,92.7,5.17,0,0.0,.68,-0.0,0.0,0,.511,.500,,Amateur Draft
-2016,439,Alex Wood*,/players/w/woodal02.shtml,woodal02,25,LAD,21.0,4,4,17,7.29,4.05,0.39,0.17,102.0,3.90,-7,-0.6,,-0.0,-0.5,-6,.339,.496,,Traded
-2016,440,Blake Wood,/players/w/woodbl01.shtml,woodbl01,30,CIN,10.0,11,0,8,7.20,4.39,-0.19,-0.31,99.7,4.26,-3,-0.3,1.15,-0.1,-0.3,-2,.473,.498,,Free Agency
-2016,441,Travis Wood*,/players/w/woodtr01.shtml,woodtr01,29,CHC,5.2,10,0,2,3.18,4.36,0.43,-0.31,99.6,3.61,0,0.0,.96,-0.0,0.1,1,.504,.500,,Traded
-2016,442,Vance Worley,/players/w/worleva01.shtml,worleva01,28,BAL,14.0,4,2,8,5.14,4.24,-0.46,0.06,106.8,5.08,-1,-0.1,1.35,-0.0,0.0,1,.483,.500,,Waivers
-2016,443,Mike Wright,/players/w/wrighmi01.shtml,wrighmi01,26,BAL,17.1,3,3,12,6.23,4.60,-0.54,0.19,106.4,5.67,-2,-0.2,,-0.0,-0.0,0,.439,.499,,Amateur Draft
-2016,444,Steven Wright,/players/w/wrighst01.shtml,wrighst01,31,BOS,26.1,4,4,7,2.39,4.81,0.20,0.19,105.1,5.06,7,0.9,,-0.0,1.1,10,.719,.505,,Traded
-2016,445,Kirby Yates,/players/y/yateski01.shtml,yateski01,29,NYY,7.1,7,0,3,3.68,4.44,-0.41,-0.32,98.0,4.44,0,0.0,.51,-0.0,0.1,1,.506,.500,,Purchased
-2016,446,Chris Young,/players/y/youngch03.shtml,youngch03,37,KCR,25.0,5,5,17,6.12,4.47,0.49,0.18,98.5,4.10,-7,-0.6,,-0.0,-0.4,-3,.371,.496,,Free Agency
-2016,447,Brad Ziegler,/players/z/zieglbr01.shtml,zieglbr01,36,ARI,11.0,10,0,1,0.82,4.50,0.27,-0.32,98.4,3.85,4,0.4,1.79,0.1,0.6,5,.543,.503,,Traded
-2016,448,Jordan Zimmermann,/players/z/zimmejo02.shtml,zimmejo02,30,DET,26.0,4,4,3,1.04,4.34,-0.36,0.18,98.5,4.81,10,1.3,,-0.0,1.5,13,.828,.508,,Free Agency
-2016,449,Tony Zych,/players/z/zychto01.shtml,zychto01,25,SEA,11.0,9,0,5,4.09,4.21,0.18,-0.30,97.0,3.61,-1,-0.1,.55,-0.0,-0.0,0,.488,.499,,Purchased
+2016,1,Fernando Abad*,/players/a/abadfe01.shtml,abadfe01,30,MIN,10.2,12,0,1,0.84,4.21,-0.28,-0.31,105.1,4.40,4,0.4,1.13,-0.0,0.5,5,.537,.503,,Free Agency
+2016,2,A.J. Achter,/players/a/achteaj01.shtml,achteaj01,27,LAA,1.0,1,0,0,0.00,4.23,0.11,-0.31,88.0,3.36,0,0.0,.10,-0.0,0.0,0,.539,.500,,Waivers
+2016,3,Tim Adleman,/players/a/adlemti01.shtml,adlemti01,28,CIN,6.0,1,1,2,3.00,4.61,-0.06,0.19,94.0,4.58,1,0.1,,-0.0,0.2,2,.638,.501,,
+2016,4,Matt Albers,/players/a/alberma01.shtml,alberma01,33,CHW,12.2,12,0,2,1.42,4.20,0.02,-0.31,98.7,3.82,3,0.3,1.43,0.0,0.5,4,.528,.502,,Free Agency
+2016,5,Cody Allen,/players/a/allenco01.shtml,allenco01,27,CLE,10.1,11,0,8,6.97,4.39,-0.43,-0.32,105.5,4.75,-3,-0.3,2.11,-0.2,-0.4,-2,.471,.498,,Amateur Draft
+2016,6,Jose Alvarez*,/players/a/alvarjo02.shtml,alvarjo02,27,LAA,13.1,13,0,6,4.05,4.44,0.16,-0.32,95.6,3.78,-1,-0.1,1.50,-0.1,-0.0,1,.492,.499,,Traded
+2016,7,Chase Anderson,/players/a/anderch01.shtml,anderch01,28,MIL,24.1,5,5,20,7.40,4.08,0.13,0.17,103.6,4.27,-8,-0.7,,-0.1,-0.6,-6,.358,.496,,Traded
+2016,8,Cody Anderson,/players/a/anderco01.shtml,anderco01,25,CLE,20.0,4,4,17,7.65,4.49,-0.58,0.18,104.8,5.50,-6,-0.5,,-0.0,-0.4,-3,.363,.497,,Amateur Draft
+2016,9,Elvis Araujo*,/players/a/araujel01.shtml,araujel01,24,PHI,5.0,8,0,1,1.80,4.24,-0.12,-0.30,102.3,4.16,1,0.2,1.70,0.0,0.2,2,.519,.501,,Free Agency
+2016,10,Chris Archer,/players/a/archech01.shtml,archech01,27,TBR,32.1,6,6,20,5.57,4.55,0.20,0.18,98.5,4.46,-5,-0.5,,-0.1,-0.3,-1,.410,.497,,Traded
+2016,11,Jake Arrieta,/players/a/arrieja01.shtml,arrieja01,30,CHC,36.0,5,5,4,1.00,4.01,0.49,0.17,100.3,3.69,12,1.4,,-0.1,1.6,14,.781,.509,,Traded
+2016,12,Luis Avilan*,/players/a/avilalu01.shtml,avilalu01,26,LAD,0.2,3,0,3,40.50,5.55,0.70,-0.39,138.0,6.14,-3,-0.2,2.03,-0.1,-0.4,-2,.418,.498,,Traded
+2016,13,John Axford,/players/a/axforjo01.shtml,axforjo01,33,OAK,12.1,11,0,1,0.73,4.39,-0.38,-0.32,96.5,4.29,4,0.5,1.76,0.2,0.8,6,.547,.503,,Free Agency
+2016,14,Pedro Baez,/players/b/baezpe01.shtml,baezpe01,28,LAD,10.2,11,0,3,2.53,4.18,0.28,-0.30,102.7,3.71,2,0.2,1.56,-0.0,0.3,2,.516,.501,,Amateur Free Agent
+2016,15,Andrew Bailey,/players/b/bailean01.shtml,bailean01,32,PHI,5.0,3,0,0,0.00,3.83,-0.10,-0.27,102.9,3.76,2,0.2,1.60,0.0,0.3,3,.581,.502,,Free Agency
+2016,16,Johnny Barbato,/players/b/barbajo01.shtml,barbajo01,23,NYY,11.0,9,0,7,5.73,4.51,-0.56,-0.33,102.3,4.85,-2,-0.2,.83,-0.0,-0.1,-0,.481,.499,,Traded
+2016,17,Matt Barnes,/players/b/barnema01.shtml,barnema01,26,BOS,12.1,10,0,6,4.38,4.38,0.34,-0.32,109.2,4.05,-1,-0.1,.98,-0.0,-0.0,1,.490,.499,,Amateur Draft
+2016,18,Tony Barnette,/players/b/barneto01.shtml,barneto01,32,TEX,10.2,10,0,4,3.38,4.53,0.55,-0.33,105.2,3.84,0,0.0,1.08,-0.0,0.1,1,.502,.500,,Free Agency
+2016,19,Kyle Barraclough,/players/b/barraky01.shtml,barraky01,26,MIA,7.2,9,0,0,0.00,4.35,-0.14,-0.31,94.4,3.95,4,0.4,1.35,0.0,0.5,4,.543,.502,,Traded
+2016,20,Jake Barrett,/players/b/barreja01.shtml,barreja01,24,ARI,9.1,8,0,4,3.86,4.05,0.33,-0.29,104.8,3.60,-0,-0.0,1.04,-0.0,0.0,1,.500,.500,,Amateur Draft
+2016,21,Chris Bassitt,/players/b/bassich01.shtml,bassich01,27,OAK,28.0,5,5,20,6.43,4.55,-0.41,0.18,95.4,4.90,-6,-0.6,,-0.0,-0.4,-2,.382,.496,,Traded
+2016,22,Antonio Bastardo*,/players/b/bastaan01.shtml,bastaan01,30,NYM,11.1,10,0,4,3.18,4.21,-0.59,-0.30,94.0,4.23,2,0.2,.86,-0.1,0.2,2,.517,.501,,Free Agency
+2016,23,Trevor Bauer,/players/b/bauertr01.shtml,bauertr01,25,CLE,15.1,7,1,9,5.28,4.34,-0.43,-0.19,103.4,4.74,-2,-0.2,.30,0.0,-0.0,0,.476,.499,,Traded
+2016,24,Cam Bedrosian,/players/b/bedroca01.shtml,bedroca01,24,LAA,3.2,4,0,1,2.45,4.37,0.13,-0.32,97.8,3.83,0,0.0,.32,-0.0,0.1,1,.512,.500,,Amateur Draft
+2016,25,Matt Belisle,/players/b/belisma01.shtml,belisma01,36,WSN,6.0,7,0,1,1.50,3.94,0.09,-0.28,100.7,3.60,2,0.2,.57,-0.1,0.2,2,.524,.501,,Free Agency
+2016,26,Joaquin Benoit,/players/b/benoijo01.shtml,benoijo01,38,SEA,5.0,5,0,2,3.60,4.09,0.26,-0.30,105.1,3.71,-0,-0.0,1.77,-0.0,0.0,1,.497,.500,,Traded
+2016,27,Christian Bergman,/players/b/bergmch01.shtml,bergmch01,28,COL,13.0,6,1,11,7.62,4.49,0.07,-0.12,119.2,5.12,-3,-0.3,1.20,-0.1,-0.3,-2,.446,.498,,Amateur Draft
+2016,28,Jose Berrios,/players/b/berrijo01.shtml,berrijo01,22,MIN,4.0,1,1,5,11.25,3.80,-0.39,0.15,106.0,4.61,-3,-0.3,,-0.0,-0.2,-3,.243,.498,,Amateur Draft
+2016,29,Dellin Betances,/players/b/betande01.shtml,betande01,28,NYY,11.2,12,0,7,5.40,4.44,-0.39,-0.32,102.7,4.63,-1,-0.2,1.61,-0.1,-0.1,0,.486,.499,,Amateur Draft
+2016,30,Chad Bettis,/players/b/bettich01.shtml,bettich01,27,COL,37.0,6,6,17,4.14,4.26,0.07,0.18,117.7,5.15,5,0.6,,-0.1,0.8,7,.595,.504,,Amateur Draft
+2016,31,Joe Biagini,/players/b/biagijo01.shtml,biagijo01,26,TOR,6.2,5,0,2,2.70,4.29,0.23,-0.31,102.6,3.85,1,0.1,.69,-0.0,0.1,1,.513,.500,,Rule 5 Draft
+2016,32,Aaron Blair,/players/b/blairaa01.shtml,blairaa01,24,ATL,11.1,2,2,4,3.18,4.69,-0.77,0.19,96.0,5.43,3,0.4,,-0.0,0.4,4,.682,.502,,Traded
+2016,33,Joe Blanton,/players/b/blantjo01.shtml,blantjo01,35,LAD,10.1,11,0,1,0.87,4.41,0.27,-0.31,94.4,3.61,3,0.4,.63,-0.1,0.3,4,.533,.502,,Free Agency
+2016,34,Michael Blazek,/players/b/blazemi01.shtml,blazemi01,27,MIL,11.0,11,0,3,2.45,4.29,0.10,-0.30,102.2,3.97,2,0.2,1.30,-0.0,0.3,3,.521,.501,,Traded
+2016,35,Jerry Blevins*,/players/b/blevije01.shtml,blevije01,32,NYM,8.0,12,0,3,3.38,4.24,-0.65,-0.30,93.5,4.29,1,0.1,1.72,-0.0,0.2,2,.509,.501,,Traded
+2016,36,Matthew Bowman,/players/b/bowmama01.shtml,bowmama01,25,STL,10.0,9,0,3,2.70,4.26,0.16,-0.30,100.0,3.80,1,0.2,.50,-0.1,0.2,2,.517,.501,,Rule 5 Draft
+2016,37,Matt Boyd*,/players/b/boydma01.shtml,boydma01,25,DET,4.2,1,0,0,0.00,3.80,-0.35,-0.28,98.0,3.79,2,0.2,.91,-0.0,0.2,2,.729,.501,,Traded
+2016,38,Blaine Boyer,/players/b/boyerbl01.shtml,boyerbl01,34,MIL,12.2,10,0,4,2.84,4.24,0.13,-0.30,102.5,3.90,2,0.2,.48,-0.1,0.2,3,.519,.501,,Free Agency
+2016,39,Brad Brach,/players/b/brachbr01.shtml,brachbr01,30,BAL,14.1,12,0,2,1.26,4.32,-0.37,-0.31,104.7,4.58,5,0.6,1.12,-0.0,0.7,7,.546,.503,,Traded
+2016,40,Silvino Bracho,/players/b/brachsi01.shtml,brachsi01,23,ARI,1.2,2,0,3,16.20,3.74,0.56,-0.26,112.0,3.27,-2,-0.2,1.00,-0.0,-0.2,-2,.389,.499,,Amateur Free Agent
+2016,41,Archie Bradley,/players/b/bradlar01.shtml,bradlar01,23,ARI,4.1,1,1,5,10.38,5.01,0.40,0.21,92.0,4.43,-3,-0.2,,-0.0,-0.2,-2,.276,.499,,Amateur Draft
+2016,42,Craig Breslow*,/players/b/breslcr01.shtml,breslcr01,35,MIA,11.2,12,0,6,4.63,4.36,-0.25,-0.31,95.2,4.10,-0,-0.0,.74,-0.1,0.0,0,.497,.500,,Free Agency
+2016,43,Zach Britton*,/players/b/brittza01.shtml,brittza01,28,BAL,10.0,11,0,3,2.70,4.44,-0.36,-0.32,104.6,4.69,2,0.2,1.35,0.0,0.3,3,.519,.501,,Amateur Draft
+2016,44,Mike Broadway,/players/b/broadmi01.shtml,broadmi01,29,SFG,5.1,4,0,7,11.81,4.51,-0.15,-0.32,89.6,3.89,-5,-0.4,.32,0.1,-0.3,-4,.392,.497,,Free Agency
+2016,45,Jonathan Broxton,/players/b/broxtjo01.shtml,broxtjo01,32,STL,10.0,10,0,3,2.70,4.24,0.14,-0.30,98.1,3.72,1,0.1,.77,-0.1,0.2,2,.515,.501,,Traded
+2016,46,Clay Buchholz,/players/b/buchhcl01.shtml,buchhcl01,31,BOS,27.2,5,5,20,6.51,4.40,0.38,0.18,109.2,4.58,-7,-0.7,,-0.0,-0.5,-3,.362,.496,,Amateur Draft
+2016,47,Ryan Buchter*,/players/b/buchtry01.shtml,buchtry01,29,SDP,11.1,12,0,1,0.79,4.23,0.18,-0.30,94.6,3.55,4,0.4,.92,-0.1,0.4,4,.534,.502,,Free Agency
+2016,48,Madison Bumgarner*,/players/b/bumgama01.shtml,bumgama01,26,SFG,35.2,6,6,15,3.79,4.43,-0.11,0.18,92.3,4.37,3,0.4,,-0.1,0.6,5,.559,.502,,Amateur Draft
+2016,49,Dylan Bundy,/players/b/bundydy01.shtml,bundydy01,23,BAL,9.0,7,0,2,2.00,4.40,-0.61,-0.32,107.3,5.03,3,0.3,1.03,-0.0,0.4,4,.544,.502,,Amateur Draft
+2016,50,Enrique Burgos,/players/b/burgoen02.shtml,burgoen02,25,ARI,4.2,5,0,3,5.79,4.02,0.29,-0.29,112.0,3.86,-1,-0.1,.19,0.0,-0.0,-1,.482,.499,,Amateur Free Agent
+2016,51,Matt Buschmann,/players/b/buschma01.shtml,buschma01,32,ARI,4.1,3,0,1,2.08,4.51,0.26,-0.32,94.4,3.71,1,0.1,.70,-0.0,0.1,1,.532,.501,,Free Agency
+2016,52,Eddie Butler,/players/b/butleed01.shtml,butleed01,25,COL,2.1,1,0,1,3.86,4.61,0.05,-0.33,138.0,5.84,1,0.1,.40,-0.0,0.1,1,.563,.500,,Amateur Draft
+2016,53,Trevor Cahill,/players/c/cahiltr01.shtml,cahiltr01,28,CHC,7.1,9,0,4,4.91,4.09,0.72,-0.29,99.2,3.06,-1,-0.1,.46,-0.0,-0.1,-1,.485,.499,,Free Agency
+2016,54,Matt Cain,/players/c/cainma01.shtml,cainma01,31,SFG,27.0,5,5,21,7.00,4.24,-0.14,0.18,99.0,4.50,-7,-0.6,,-0.1,-0.4,-5,.375,.496,,Amateur Draft
+2016,55,Arquimedes Caminero,/players/c/caminar01.shtml,caminar01,29,PIT,12.2,13,0,8,5.68,4.04,0.09,-0.29,99.8,3.65,-3,-0.3,1.10,-0.1,-0.2,-2,.480,.498,,Purchased
+2016,56,Leonel Campos,/players/c/campole01.shtml,campole01,28,SDP,0.1,1,0,7,189.00,4.62,1.40,-0.32,88.0,2.54,-7,-0.4,.32,0.1,-0.2,-7,.114,.498,,Amateur Free Agent
+2016,57,Chris Capuano*,/players/c/capuach01.shtml,capuach01,37,MIL,14.0,10,0,7,4.50,4.28,0.11,-0.30,100.4,3.89,-1,-0.1,.52,-0.1,0.0,0,.494,.500,,Free Agency
+2016,58,Carlos Carrasco,/players/c/carraca01.shtml,carraca01,29,CLE,22.0,4,4,6,2.45,4.35,-0.41,0.17,104.8,5.17,6,0.7,,-0.0,0.9,9,.681,.504,,Traded
+2016,59,Andrew Cashner,/players/c/cashnan01.shtml,cashnan01,29,SDP,23.2,5,5,16,6.08,4.26,0.29,0.18,91.5,3.80,-5,-0.5,,-0.1,-0.3,-4,.398,.497,,Traded
+2016,60,Santiago Casilla,/players/g/garcija01.shtml,garcija01,35,SFG,8.2,9,0,2,2.08,4.42,-0.10,-0.31,92.1,3.88,2,0.2,2.21,0.1,0.4,2,.523,.501,,Free Agency
+2016,61,Miguel Castro,/players/c/castrmi01.shtml,castrmi01,21,COL,6.0,6,0,1,1.50,4.45,0.04,-0.31,124.3,5.08,3,0.3,1.75,0.1,0.4,3,.546,.502,,Traded
+2016,62,Brett Cecil*,/players/c/cecilbr01.shtml,cecilbr01,29,TOR,9.1,13,0,7,6.75,4.55,0.28,-0.33,100.3,3.95,-3,-0.4,1.96,-0.2,-0.5,-2,.472,.498,,Amateur Draft
+2016,63,Xavier Cedeno*,/players/c/cedenxa01.shtml,cedenxa01,29,TBR,6.2,10,0,3,4.05,4.56,0.22,-0.33,99.4,3.98,-0,-0.0,1.63,-0.0,0.0,1,.496,.500,,Purchased
+2016,64,Hunter Cervenka*,/players/c/cervehu01.shtml,cervehu01,26,ATL,6.2,11,0,0,0.00,4.82,-0.51,-0.34,98.6,4.92,4,0.4,1.26,0.0,0.5,4,.537,.503,,Free Agency
+2016,65,Luis Cessa,/players/c/cessalu01.shtml,cessalu01,24,NYY,2.0,1,0,1,4.50,4.19,-0.69,-0.31,98.0,4.49,-0,-0.0,.18,-0.0,0.0,0,.491,.500,,Traded
+2016,66,Jhoulys Chacin,/players/c/chacijh01.shtml,chacijh01,28,ATL,22.0,4,4,9,3.68,4.32,-0.78,0.18,101.3,5.34,5,0.5,,-0.0,0.7,6,.632,.503,,Free Agency
+2016,67,Andrew Chafin*,/players/c/chafian01.shtml,chafian01,26,ARI,10.1,13,0,3,2.61,4.39,0.25,-0.31,104.8,4.01,2,0.2,.92,-0.1,0.2,3,.515,.501,,Amateur Draft
+2016,68,Joba Chamberlain,/players/c/chambjo03.shtml,chambjo03,30,CLE,7.0,7,0,0,0.00,4.36,-0.38,-0.32,105.9,4.69,3,0.4,.58,-0.1,0.4,4,.557,.502,,Free Agency
+2016,69,Tyler Chatwood,/players/c/chatwty01.shtml,chatwty01,26,COL,29.2,5,5,10,3.03,4.39,0.07,0.18,119.4,5.38,9,1.0,,-0.1,1.2,10,.698,.506,,Traded
+2016,70,Jesse Chavez,/players/c/chaveje01.shtml,chaveje01,32,TOR,9.1,10,0,2,1.93,4.27,0.19,-0.31,97.9,3.69,1,0.2,.97,-0.0,0.2,3,.517,.501,,Traded
+2016,71,Wei-Yin Chen*,/players/c/chenwe02.shtml,chenwe02,30,MIA,31.2,5,5,15,4.26,4.14,-0.22,0.17,95.9,4.35,1,0.1,,-0.1,0.3,3,.524,.501,,Free Agency
+2016,72,Tony Cingrani*,/players/c/cingrto01.shtml,cingrto01,26,CIN,10.0,13,0,5,4.50,4.30,-0.07,-0.31,98.7,4.01,-0,-0.0,1.43,-0.1,0.0,0,.498,.500,,Amateur Draft
+2016,73,Steve Cishek,/players/c/cishest01.shtml,cishest01,30,SEA,11.0,10,0,1,0.82,4.18,0.26,-0.30,93.7,3.39,3,0.3,2.08,0.1,0.6,4,.531,.502,,Free Agency
+2016,74,Alex Claudio*,/players/c/claudal01.shtml,claudal01,24,TEX,5.2,4,0,2,3.18,4.49,0.65,-0.33,98.4,3.45,-0,-0.0,.43,-0.0,0.0,1,.499,.500,,Amateur Draft
+2016,75,Tyler Clippard,/players/c/clippty01.shtml,clippty01,31,ARI,11.0,11,0,3,2.45,4.36,0.27,-0.31,102.7,3.89,2,0.2,1.34,-0.0,0.3,3,.520,.501,,Free Agency
+2016,76,Gerrit Cole,/players/c/colege01.shtml,colege01,25,PIT,22.2,4,4,9,3.57,3.98,0.09,0.17,107.5,4.37,3,0.3,,-0.0,0.4,4,.571,.502,,Amateur Draft
+2016,77,Louis Coleman,/players/c/colemlo01.shtml,colemlo01,30,LAD,10.0,9,0,5,4.50,4.35,0.34,-0.31,89.3,3.31,-1,-0.1,.75,-0.0,-0.1,-0,.488,.499,,Free Agency
+2016,78,Alex Colome,/players/c/colomal01.shtml,colomal01,27,TBR,9.0,9,0,3,3.00,4.59,0.19,-0.33,96.5,3.92,1,0.1,1.33,-0.0,0.1,2,.507,.500,,Amateur Free Agent
+2016,79,Bartolo Colon,/players/c/colonba01.shtml,colonba01,43,NYM,23.2,5,4,9,3.42,3.93,-0.76,0.14,98.7,4.77,4,0.5,.57,-0.1,0.6,6,.592,.503,,Free Agency
+2016,80,Adam Conley*,/players/c/conlead01.shtml,conlead01,26,MIA,27.0,5,5,11,3.67,4.50,-0.19,0.19,95.9,4.67,4,0.4,,-0.1,0.6,5,.582,.503,,Amateur Draft
+2016,81,Patrick Corbin*,/players/c/corbipa01.shtml,corbipa01,26,ARI,31.1,5,5,20,5.74,4.27,0.34,0.18,102.4,4.21,-5,-0.4,,-0.1,-0.2,-3,.413,.497,,Traded
+2016,82,Jarred Cosart,/players/c/cosarja01.shtml,cosarja01,26,MIA,14.2,3,3,14,8.59,4.47,-0.25,0.19,92.3,4.53,-6,-0.5,,-0.0,-0.4,-5,.320,.497,,Traded
+2016,83,Caleb Cotham,/players/c/cothaca01.shtml,cothaca01,28,CIN,13.2,13,0,6,3.95,4.45,-0.09,-0.32,98.3,4.15,1,0.1,1.01,-0.1,0.1,2,.505,.500,,Traded
+2016,84,Tyler Cravy,/players/c/cravyty01.shtml,cravyty01,26,MIL,5.2,5,0,2,3.18,4.16,0.12,-0.30,101.2,3.79,1,0.1,.32,-0.0,0.1,1,.511,.500,,Amateur Draft
+2016,85,Kyle Crockett*,/players/c/crockky01.shtml,crockky01,24,CLE,0.2,2,0,0,0.00,3.96,-0.23,-0.28,104.0,4.06,0,0.0,1.47,0.0,0.0,0,.516,.500,,Amateur Draft
+2016,86,Johnny Cueto,/players/c/cuetojo01.shtml,cuetojo01,30,SFG,37.1,5,5,11,2.65,4.37,-0.12,0.18,93.4,4.36,8,0.9,,-0.1,1.2,10,.687,.506,,Free Agency
+2016,87,William Cuevas,/players/c/cuevawi01.shtml,cuevawi01,25,BOS,2.1,1,0,2,7.71,4.23,0.46,-0.31,112.0,3.88,-1,-0.1,.95,-0.0,-0.1,-1,.390,.499,,Amateur Free Agent
+2016,88,Zac Curtis*,/players/c/curtiza01.shtml,curtiza01,23,ARI,0.2,1,0,0,0.00,3.52,0.15,-0.26,112.0,3.50,0,0.0,.30,-0.0,0.0,0,.530,.500,,Amateur Draft
+2016,89,John Danks*,/players/d/danksjo01.shtml,danksjo01,31,CHW,22.1,4,4,20,8.06,4.21,0.03,0.17,95.4,4.15,-11,-0.9,,-0.0,-0.7,-8,.270,.494,,Traded
+2016,90,Zach Davies,/players/d/davieza02.shtml,davieza02,23,MIL,13.1,3,3,14,9.45,4.08,0.13,0.17,101.3,4.18,-7,-0.6,,-0.0,-0.5,-7,.293,.496,,Traded
+2016,91,Wade Davis,/players/d/daviswa01.shtml,daviswa01,30,KCR,9.2,10,0,0,0.00,4.35,0.38,-0.32,99.6,3.63,4,0.4,1.76,0.1,0.6,5,.541,.503,,Traded
+2016,92,Jorge De La Rosa*,/players/r/rosajo01.shtml,rosajo01,35,COL,20.1,5,5,24,10.62,4.50,0.07,0.19,127.0,5.86,-10,-0.9,,-0.0,-0.8,-9,.322,.495,,Free Agency
+2016,93,Rubby De La Rosa,/players/d/delarru01.shtml,delarru01,27,ARI,23.2,7,4,13,4.94,4.51,0.27,0.13,105.3,4.60,-0,-0.0,1.66,-0.1,0.1,1,.496,.500,,Traded
+2016,94,Jacob deGrom,/players/d/degroja01.shtml,degroja01,28,NYM,17.2,3,3,5,2.55,4.24,-0.73,0.18,90.1,4.63,5,0.5,,-0.0,0.6,6,.676,.503,,Amateur Draft
+2016,95,Randall Delgado,/players/d/delgara01.shtml,delgara01,26,ARI,17.1,14,0,13,6.75,4.33,0.33,-0.31,106.2,3.93,-5,-0.5,.79,-0.0,-0.4,-4,.464,.497,,Traded
+2016,96,Ross Detwiler*,/players/d/detwiro01.shtml,detwiro01,30,CLE,4.2,7,0,3,5.79,4.62,-0.45,-0.34,111.4,5.27,-0,-0.1,.80,-0.0,-0.0,0,.493,.500,,Free Agency
+2016,97,Chris Devenski,/players/d/devench02.shtml,devench02,25,HOU,18.2,7,1,3,1.45,4.17,0.24,-0.18,100.9,3.78,4,0.5,.38,-0.2,0.5,6,.570,.503,,Traded
+2016,98,Jumbo Diaz,/players/d/diazju03.shtml,diazju03,32,CIN,6.2,8,0,4,5.40,4.26,-0.09,-0.30,100.9,4.09,-1,-0.1,1.44,-0.1,-0.1,-0,.490,.499,,Free Agency
+2016,99,R.A. Dickey,/players/d/dicker.01.shtml,dicker.01,41,TOR,26.2,5,5,23,7.76,4.27,0.26,0.17,101.1,4.22,-12,-1.0,,-0.0,-0.8,-8,.293,.494,,Traded
+2016,100,Jake Diekman*,/players/d/diekmja01.shtml,diekmja01,29,TEX,9.0,12,0,5,5.00,4.70,0.45,-0.34,106.2,4.15,-1,-0.1,1.46,-0.1,-0.1,-0,.489,.499,,Traded
+2016,101,Sean Doolittle*,/players/d/doolise01.shtml,doolise01,29,OAK,10.2,13,0,4,3.38,4.45,-0.36,-0.32,96.2,4.32,1,0.1,1.46,-0.0,0.2,2,.506,.500,,Amateur Draft
+2016,102,Kyle Drabek,/players/d/drabeky01.shtml,drabeky01,28,ARI,2.0,1,0,1,4.50,4.54,0.26,-0.32,112.0,4.44,0,0.0,.50,-0.0,0.0,0,.504,.500,,Free Agency
+2016,103,Tyler Duffey,/players/d/duffety01.shtml,duffety01,25,MIN,10.1,2,2,5,4.35,4.18,-0.42,0.17,105.1,5.01,0,0.0,,-0.0,0.1,2,.520,.500,,Amateur Draft
+2016,104,Danny Duffy*,/players/d/duffyda01.shtml,duffyda01,27,KCR,12.0,11,0,5,3.75,4.40,0.52,-0.32,100.0,3.56,-1,-0.1,.64,-0.0,0.0,1,.493,.500,,Amateur Draft
+2016,105,Zach Duke*,/players/d/dukeza01.shtml,dukeza01,33,CHW,9.1,15,0,2,1.93,4.96,0.03,-0.36,96.5,4.41,2,0.3,1.30,0.0,0.4,3,.517,.502,,Free Agency
+2016,106,Ryan Dull,/players/d/dullry01.shtml,dullry01,26,OAK,14.0,12,0,4,2.57,4.56,-0.29,-0.33,97.5,4.40,2,0.3,.71,-0.1,0.3,4,.522,.502,,Amateur Draft
+2016,107,Sam Dyson,/players/d/dysonsa01.shtml,dysonsa01,28,TEX,11.0,11,0,3,2.45,4.46,0.42,-0.32,102.4,3.80,1,0.1,2.04,0.0,0.3,3,.513,.501,,Traded
+2016,108,Cody Ege*,/players/e/egeco01.shtml,egeco01,25,MIA,3.0,5,0,4,12.00,5.44,-0.34,-0.39,99.2,5.35,-2,-0.2,1.48,-0.1,-0.2,-2,.457,.499,,Traded
+2016,109,Jerad Eickhoff,/players/e/eickhje01.shtml,eickhje01,25,PHI,30.1,5,5,15,4.45,4.40,-0.14,0.18,99.7,4.71,2,0.2,,-0.1,0.4,4,.536,.501,,Traded
+2016,110,Roenis Elias*,/players/e/eliasro01.shtml,eliasro01,27,BOS,1.2,1,0,3,16.20,4.34,0.56,-0.31,98.0,3.39,-2,-0.2,.38,0.1,-0.1,-2,.284,.499,,Traded
+2016,111,Nathan Eovaldi,/players/e/eovalna01.shtml,eovalna01,26,NYY,29.2,5,5,18,5.46,4.49,-0.68,0.18,104.7,5.60,-1,-0.1,,-0.1,0.2,3,.484,.500,,Traded
+2016,112,Robbie Erlin*,/players/e/erlinro01.shtml,erlinro01,25,SDP,15.2,3,2,7,4.02,3.85,0.25,0.06,103.4,3.78,0,0.0,.87,-0.0,0.1,1,.500,.500,,Traded
+2016,113,Carlos Estevez,/players/e/estevca01.shtml,estevca01,23,COL,6.1,5,0,4,5.68,4.47,0.06,-0.32,132.2,5.41,-0,-0.0,1.61,-0.0,0.0,0,.500,.500,,Amateur Free Agent
+2016,114,Marco Estrada,/players/e/estrama01.shtml,estrama01,32,TOR,24.2,4,4,8,2.92,4.28,0.22,0.17,102.9,4.36,3,0.4,,-0.0,0.6,6,.589,.502,,Free Agency
+2016,115,Dana Eveland*,/players/e/evelada01.shtml,evelada01,32,TBR,6.1,8,0,5,7.11,4.69,0.26,-0.34,98.7,4.03,-2,-0.3,.35,0.1,-0.1,-2,.467,.498,,Free Agency
+2016,116,Jeurys Familia,/players/f/familje01.shtml,familje01,26,NYM,12.0,12,0,3,2.25,4.03,-0.83,-0.29,93.3,4.26,3,0.3,1.30,-0.0,0.4,4,.526,.502,,Amateur Free Agent
+2016,117,Buck Farmer,/players/f/farmebu01.shtml,farmebu01,25,DET,6.1,4,0,2,2.84,4.42,-0.30,-0.32,99.0,4.35,1,0.1,.23,-0.1,0.1,2,.523,.501,,Amateur Draft
+2016,118,Danny Farquhar,/players/f/farquda01.shtml,farquda01,29,TBR,5.1,6,0,2,3.38,4.63,0.25,-0.34,99.0,4.00,0,0.0,.46,-0.0,0.1,1,.503,.500,,Traded
+2016,119,Andrew Faulkner*,/players/f/faulkan01.shtml,faulkan01,23,TEX,4.1,5,0,4,8.31,4.52,0.66,-0.33,106.2,3.75,-2,-0.3,1.18,-0.0,-0.2,-2,.449,.498,,Amateur Draft
+2016,120,Scott Feldman,/players/f/feldmsc01.shtml,feldmsc01,33,HOU,22.2,5,4,15,5.96,4.16,0.31,0.10,102.7,4.07,-6,-0.6,.45,-0.0,-0.4,-3,.386,.496,,Free Agency
+2016,121,Michael Feliz,/players/f/felizmi01.shtml,felizmi01,23,HOU,5.1,2,0,10,16.88,4.55,0.35,-0.33,96.5,3.73,-8,-0.6,.22,0.2,-0.3,-7,.198,.496,,Free Agency
+2016,122,Neftali Feliz,/players/f/felizne01.shtml,felizne01,28,PIT,11.0,14,0,6,4.91,4.06,0.07,-0.29,106.8,3.95,-1,-0.1,1.39,-0.1,-0.1,-0,.493,.499,,Free Agency
+2016,123,Jose Fernandez,/players/f/fernajo02.shtml,fernajo02,23,MIA,28.2,5,5,13,4.08,4.52,-0.16,0.19,92.1,4.49,2,0.2,,-0.1,0.4,4,.544,.501,,Amateur Draft
+2016,124,Josh Fields,/players/f/fieldjo03.shtml,fieldjo03,30,HOU,9.1,10,0,8,7.71,4.42,0.26,-0.32,101.7,3.90,-4,-0.5,.26,0.1,-0.2,-3,.453,.497,,Rule 5 Draft
+2016,125,Casey Fien,/players/f/fienca01.shtml,fienca01,32,MIN,11.1,12,0,9,7.15,4.11,-0.45,-0.30,105.0,4.48,-4,-0.4,1.27,-0.1,-0.4,-2,.465,.497,,Free Agency
+2016,126,Mike Fiers,/players/f/fiersmi01.shtml,fiersmi01,31,HOU,29.0,5,5,16,4.97,4.21,0.29,0.17,98.4,4.02,-4,-0.4,,-0.0,-0.2,-0,.413,.497,,Traded
+2016,127,Brandon Finnegan*,/players/f/finnebr01.shtml,finnebr01,23,CIN,28.0,5,5,16,5.14,4.44,-0.08,0.18,97.6,4.59,-1,-0.1,,-0.1,0.1,1,.480,.499,,Traded
+2016,128,Doug Fister,/players/f/fistedo01.shtml,fistedo01,32,HOU,29.1,5,5,15,4.60,4.25,0.30,0.17,99.6,4.11,-3,-0.3,,-0.0,-0.1,1,.441,.498,,Free Agency
+2016,129,Gavin Floyd,/players/f/floydga01.shtml,floydga01,33,TOR,10.1,8,0,2,1.74,4.27,0.20,-0.31,100.0,3.76,2,0.2,1.58,0.0,0.3,3,.527,.501,,Free Agency
+2016,130,Sam Freeman*,/players/f/freemsa01.shtml,freemsa01,29,MIL,7.2,7,0,11,12.91,4.26,0.13,-0.30,99.9,3.83,-8,-0.7,.07,0.3,-0.3,-7,.398,.496,,Purchased
+2016,131,Michael Fulmer,/players/f/fulmemi01.shtml,fulmemi01,23,DET,5.0,1,1,2,3.60,3.96,-0.48,0.16,106.0,4.88,1,0.1,,-0.0,0.1,1,.561,.500,,Traded
+2016,132,Yovani Gallardo,/players/g/gallayo01.shtml,gallayo01,30,BAL,18.0,4,4,14,7.00,4.14,-0.62,0.17,109.9,5.41,-4,-0.4,,-0.0,-0.2,-2,.400,.498,,Free Agency
+2016,133,John Gant,/players/g/gantjo01.shtml,gantjo01,23,ATL,7.2,4,0,6,7.04,4.23,-0.69,-0.30,104.1,4.81,-2,-0.2,.31,0.0,-0.1,-1,.457,.499,,Traded
+2016,134,Jaime Garcia*,/players/g/garcija02.shtml,garcija02,29,STL,31.1,5,5,14,4.02,4.11,0.14,0.17,101.0,4.18,1,0.1,,-0.1,0.4,3,.530,.501,,Amateur Draft
+2016,135,Luis Garcia,/players/g/garcilu03.shtml,garcilu03,29,PHI,1.0,1,0,0,0.00,4.17,-0.19,-0.30,104.0,4.22,0,0.1,.10,-0.0,0.0,1,.554,.500,,Free Agency
+2016,136,Yimi Garcia,/players/g/garciyi01.shtml,garciyi01,25,LAD,8.1,9,0,3,3.24,4.32,0.41,-0.31,95.8,3.46,0,0.0,1.01,-0.0,0.1,1,.505,.500,,Amateur Free Agent
+2016,137,Kevin Gausman,/players/g/gausmke01.shtml,gausmke01,25,BAL,11.0,2,2,4,3.27,4.34,-0.45,0.17,99.2,4.92,2,0.2,,-0.0,0.3,3,.595,.501,,Amateur Draft
+2016,138,Cory Gearrin,/players/g/gearrco01.shtml,gearrco01,30,SFG,11.1,11,0,3,2.38,4.23,-0.12,-0.30,98.1,3.97,2,0.2,1.05,-0.1,0.3,3,.522,.502,,Free Agency
+2016,139,Dillon Gee,/players/g/geedi01.shtml,geedi01,30,KCR,12.1,4,0,2,1.46,4.25,0.55,-0.31,99.0,3.35,2,0.2,.66,-0.1,0.3,4,.562,.502,,Free Agency
+2016,140,Steve Geltz,/players/g/geltzst01.shtml,geltzst01,28,TBR,6.1,7,0,3,4.26,4.76,0.24,-0.35,96.8,4.04,-0,-0.0,.50,-0.0,0.0,0,.494,.500,,Traded
+2016,141,Gonzalez Germen,/players/g/germego01.shtml,germego01,28,COL,5.2,5,0,2,3.18,4.42,0.06,-0.31,132.1,5.34,2,0.2,.72,-0.1,0.2,2,.532,.501,,Waivers
+2016,142,Kyle Gibson,/players/g/gibsoky01.shtml,gibsoky01,28,MIN,20.2,4,4,16,6.97,4.37,-0.48,0.17,105.1,5.28,-5,-0.5,,-0.0,-0.3,-2,.382,.497,,Amateur Draft
+2016,143,Ken Giles,/players/g/gileske01.shtml,gileske01,25,HOU,10.0,11,0,10,9.00,4.29,0.31,-0.31,99.3,3.65,-6,-0.7,1.38,-0.2,-0.7,-5,.439,.496,,Traded
+2016,144,Chad Girodo*,/players/g/girodch01.shtml,girodch01,25,TOR,2.0,1,0,0,0.00,4.10,0.24,-0.30,98.0,3.50,1,0.1,.23,-0.0,0.1,1,.583,.501,,Amateur Draft
+2016,145,Mychal Givens,/players/g/givenmy01.shtml,givenmy01,26,BAL,12.0,12,0,5,3.75,4.40,-0.37,-0.32,105.4,4.69,1,0.1,1.35,-0.0,0.2,2,.507,.501,,Amateur Draft
+2016,146,David Goforth,/players/g/goforda01.shtml,goforda01,27,MIL,3.0,2,0,1,3.00,3.99,0.12,-0.28,104.0,3.74,0,0.0,.10,-0.0,0.0,1,.517,.500,,Amateur Draft
+2016,147,Jeanmar Gomez,/players/g/gomezje01.shtml,gomezje01,28,PHI,15.0,13,0,3,1.80,4.34,-0.14,-0.31,100.9,4.21,4,0.5,1.71,0.1,0.7,5,.536,.503,,Free Agency
+2016,148,Gio Gonzalez*,/players/g/gonzagi01.shtml,gonzagi01,30,WSN,25.1,4,4,6,2.13,3.85,0.08,0.16,103.5,4.07,6,0.7,,-0.1,0.9,8,.678,.504,,Traded
+2016,149,Miguel Gonzalez,/players/g/gonzami03.shtml,gonzami03,32,CHW,5.1,1,1,5,8.44,5.42,0.04,0.22,98.0,5.49,-2,-0.2,,-0.0,-0.1,-1,.318,.499,,Free Agency
+2016,150,Nick Goody,/players/g/goodyni01.shtml,goodyni01,24,NYY,3.2,2,0,1,2.45,4.23,-0.62,-0.31,106.4,4.84,1,0.1,.03,-0.1,0.1,1,.548,.501,,Amateur Draft
+2016,151,Kendall Graveman,/players/g/graveke01.shtml,graveke01,25,OAK,22.1,4,4,10,4.03,4.43,-0.36,0.18,98.5,4.90,1,0.1,,-0.0,0.3,4,.537,.501,,Traded
+2016,152,Jon Gray,/players/g/grayjo02.shtml,grayjo02,24,COL,8.2,2,2,11,11.42,4.61,0.08,0.19,138.0,6.52,-4,-0.4,,-0.0,-0.3,-4,.308,.498,,Amateur Draft
+2016,153,Sonny Gray,/players/g/grayso01.shtml,grayso01,26,OAK,28.1,5,5,13,4.13,4.61,-0.33,0.18,98.0,5.02,2,0.2,,-0.0,0.4,5,.540,.501,,Amateur Draft
+2016,154,Shane Greene,/players/g/greensh02.shtml,greensh02,27,DET,14.1,4,3,10,6.28,4.24,-0.38,0.14,99.4,4.72,-3,-0.3,3.45,-0.1,-0.2,-1,.421,.498,,Traded
+2016,155,Luke Gregerson,/players/g/gregelu01.shtml,gregelu01,32,HOU,10.0,9,0,2,1.80,4.26,0.23,-0.31,97.4,3.62,2,0.2,1.73,0.0,0.3,3,.521,.501,,Free Agency
+2016,156,Zack Greinke,/players/g/greinza01.shtml,greinza01,32,ARI,37.2,6,6,23,5.50,4.26,0.34,0.18,104.6,4.28,-4,-0.4,,-0.1,-0.2,-2,.433,.498,,Free Agency
+2016,157,A.J. Griffin,/players/g/griffaj01.shtml,griffaj01,28,TEX,25.0,4,4,8,2.88,4.51,0.49,0.18,100.9,4.24,3,0.3,,-0.0,0.5,6,.584,.502,,Free Agency
+2016,158,Jason Grilli,/players/g/grillja01.shtml,grillja01,39,ATL,9.0,10,0,7,7.00,4.35,-0.76,-0.31,97.5,4.68,-2,-0.2,1.52,-0.1,-0.2,-2,.479,.499,,Free Agency
+2016,159,Justin Grimm,/players/g/grimmju01.shtml,grimmju01,27,CHC,7.1,8,0,2,2.45,4.00,0.47,-0.28,100.1,3.25,1,0.1,.56,-0.1,0.1,1,.511,.501,,Traded
+2016,160,Mayckol Guaipe,/players/g/guaipma01.shtml,guaipma01,25,SEA,0.2,1,0,2,27.00,4.33,0.61,-0.31,86.0,2.94,-2,-0.2,.49,0.0,-0.1,-2,.329,.499,,Amateur Free Agent
+2016,161,Jason Gurka*,/players/g/gurkaja01.shtml,gurkaja01,28,COL,9.2,6,0,10,9.31,4.52,0.08,-0.32,125.8,5.17,-4,-0.4,.79,-0.0,-0.3,-4,.431,.497,,Free Agency
+2016,162,Jesse Hahn,/players/h/hahnje01.shtml,hahnje01,26,OAK,6.2,1,1,0,0.00,4.34,-0.31,0.17,98.0,4.72,3,0.4,,-0.0,0.5,4,.901,.502,,Traded
+2016,163,David Hale,/players/h/haleda02.shtml,haleda02,28,COL,2.0,2,0,3,13.50,4.45,0.10,-0.32,98.7,3.97,-2,-0.2,.30,0.1,-0.1,-2,.402,.499,,Traded
+2016,164,Cole Hamels*,/players/h/hamelco01.shtml,hamelco01,32,TEX,30.0,5,5,11,3.30,4.46,0.45,0.18,109.5,4.59,3,0.4,,-0.1,0.6,7,.574,.502,,Traded
+2016,165,Jason Hammel,/players/h/hammeja01.shtml,hammeja01,33,CHC,24.0,4,4,2,0.75,4.04,0.51,0.17,102.9,3.80,9,1.0,,-0.1,1.2,10,.761,.506,,Free Agency
+2016,166,Brad Hand*,/players/h/handbr01.shtml,handbr01,26,SDP,10.0,11,0,3,2.70,4.40,0.26,-0.31,94.2,3.61,1,0.1,1.45,-0.0,0.2,2,.512,.501,,Waivers
+2016,167,J.A. Happ*,/players/h/happja01.shtml,happja01,33,TOR,32.2,5,5,10,2.76,4.26,0.24,0.17,98.9,4.14,4,0.4,,-0.1,0.7,8,.589,.503,,Free Agency
+2016,168,Blaine Hardy*,/players/h/hardybl01.shtml,hardybl01,29,DET,5.1,4,0,2,3.38,4.02,-0.43,-0.29,100.1,4.16,0,0.0,.35,-0.0,0.1,1,.507,.500,,Free Agency
+2016,169,Will Harris,/players/h/harriwi10.shtml,harriwi10,31,HOU,11.2,11,0,1,0.77,4.31,0.25,-0.31,97.9,3.66,3,0.4,1.08,-0.0,0.5,5,.535,.502,,Waivers
+2016,170,Matt Harvey,/players/h/harvema01.shtml,harvema01,27,NYM,28.1,5,5,16,5.08,3.91,-0.81,0.16,97.8,4.78,-0,-0.0,,-0.1,0.2,2,.496,.500,,Amateur Draft
+2016,171,Chris Hatcher,/players/h/hatchch02.shtml,hatchch02,31,LAD,11.0,13,0,10,8.18,4.33,0.37,-0.31,97.8,3.56,-5,-0.5,1.41,-0.2,-0.6,-5,.459,.497,,Traded
+2016,172,Drew Hayes,/players/h/hayesdr01.shtml,hayesdr01,28,CIN,6.2,3,0,5,6.75,4.60,-0.09,-0.33,99.6,4.35,-2,-0.2,.56,0.0,-0.1,-1,.447,.499,,Amateur Draft
+2016,173,Andrew Heaney*,/players/h/heanean01.shtml,heanean01,25,LAA,6.0,1,1,4,6.00,4.74,0.16,0.19,88.0,4.20,-1,-0.1,,-0.0,-0.1,-1,.359,.499,,Traded
+2016,174,Jeremy Hellickson,/players/h/hellije01.shtml,hellije01,29,PHI,26.0,5,5,13,4.50,4.39,-0.14,0.18,99.8,4.69,1,0.1,,-0.1,0.3,3,.527,.501,,Traded
+2016,175,Heath Hembree,/players/h/hembrhe01.shtml,hembrhe01,27,BOS,9.0,4,0,0,0.00,4.24,0.29,-0.31,105.0,3.82,3,0.4,1.28,0.0,0.5,5,.605,.503,,Traded
+2016,176,Jim Henderson,/players/h/hendeji01.shtml,hendeji01,33,NYM,8.1,12,0,1,1.08,4.35,-0.53,-0.31,95.7,4.38,3,0.3,1.15,-0.0,0.4,4,.529,.502,,Free Agency
+2016,177,Kyle Hendricks,/players/h/hendrky01.shtml,hendrky01,26,CHC,23.0,4,4,11,4.30,3.96,0.61,0.16,102.3,3.60,-1,-0.1,,-0.0,0.0,0,.470,.499,,Traded
+2016,178,Liam Hendriks,/players/h/hendrli01.shtml,hendrli01,27,OAK,12.2,9,0,13,9.24,4.54,-0.41,-0.33,98.1,4.53,-7,-0.7,.42,0.2,-0.4,-6,.417,.495,,Traded
+2016,179,David Hernandez,/players/h/hernada01.shtml,hernada01,31,PHI,13.1,12,0,5,3.38,4.26,-0.10,-0.30,100.9,4.10,1,0.2,1.71,-0.0,0.3,2,.513,.501,,Free Agency
+2016,180,Felix Hernandez,/players/h/hernafe02.shtml,hernafe02,30,SEA,32.2,5,5,7,1.93,4.28,0.27,0.17,94.7,3.96,6,0.8,,-0.1,1.0,10,.651,.505,,Amateur Free Agent
+2016,181,Kelvin Herrera,/players/h/herreke01.shtml,herreke01,26,KCR,12.1,13,0,0,0.00,4.40,0.46,-0.32,100.6,3.64,5,0.5,1.37,0.1,0.7,6,.540,.503,,Amateur Free Agent
+2016,182,Keith Hessler*,/players/h/hesslke01.shtml,hesslke01,27,ARI,3.0,2,0,3,9.00,4.02,0.41,-0.28,112.0,3.73,-2,-0.2,.04,0.1,-0.1,-1,.419,.499,,Amateur Free Agent
+2016,183,Chris Heston,/players/h/hestoch01.shtml,hestoch01,28,SFG,5.0,4,0,6,10.80,3.80,-0.16,-0.27,122.1,4.51,-3,-0.3,1.51,-0.1,-0.4,-3,.419,.498,,Amateur Draft
+2016,184,Rich Hill*,/players/h/hillri01.shtml,hillri01,36,OAK,32.0,6,6,12,3.38,4.38,-0.28,0.17,96.2,4.65,3,0.4,,-0.1,0.6,7,.565,.502,,Free Agency
+2016,185,Dalier Hinojosa,/players/h/hinojda01.shtml,hinojda01,30,PHI,11.0,10,0,4,3.27,4.42,-0.14,-0.31,101.9,4.33,2,0.2,1.02,-0.1,0.2,2,.517,.501,,Waivers
+2016,186,Luke Hochevar,/players/h/hochelu01.shtml,hochelu01,32,KCR,10.1,11,0,3,2.61,4.33,0.45,-0.31,100.0,3.56,1,0.1,1.61,-0.0,0.2,2,.507,.500,,Free Agency
+2016,187,Derek Holland*,/players/h/hollade01.shtml,hollade01,29,TEX,29.0,5,5,8,2.48,4.51,0.52,0.18,98.0,4.09,4,0.5,,-0.0,0.7,8,.597,.503,,Amateur Draft
+2016,188,J.J. Hoover,/players/h/hoovejj01.shtml,hoovejj01,28,CIN,8.2,10,0,16,16.62,4.26,-0.12,-0.30,100.3,4.09,-12,-1.1,.60,0.2,-0.9,-11,.389,.493,,Traded
+2016,189,J.P. Howell*,/players/h/howeljp01.shtml,howeljp01,33,LAD,7.0,10,0,7,9.00,4.75,0.45,-0.34,90.3,3.58,-4,-0.4,.62,0.0,-0.3,-4,.459,.497,,Free Agency
+2016,190,Daniel Hudson,/players/h/hudsoda01.shtml,hudsoda01,29,ARI,11.2,11,0,1,0.77,4.47,0.25,-0.32,101.0,3.94,4,0.5,1.78,0.1,0.7,5,.543,.503,,Free Agency
+2016,191,Jared Hughes,/players/h/hugheja02.shtml,hugheja02,30,PIT,1.0,1,0,1,9.00,3.98,0.12,-0.28,94.0,3.37,-1,-0.1,1.85,-0.0,-0.1,-1,.441,.500,,Amateur Draft
+2016,192,Phil Hughes,/players/h/hugheph01.shtml,hugheph01,30,MIN,30.1,5,5,16,4.75,4.27,-0.43,0.17,105.2,5.12,0,0.0,,-0.1,0.3,4,.502,.500,,Free Agency
+2016,193,Tommy Hunter,/players/h/hunteto02.shtml,hunteto02,29,CLE,1.0,1,0,1,9.00,3.95,-0.75,-0.29,102.0,4.50,-1,-0.1,1.51,-0.0,-0.1,-0,.442,.500,,Free Agency
+2016,194,Drew Hutchison,/players/h/hutchdr01.shtml,hutchdr01,25,TOR,5.2,1,1,2,3.18,4.10,0.20,0.16,98.0,3.99,0,0.0,,-0.0,0.1,1,.534,.500,,Amateur Draft
+2016,195,Raisel Iglesias,/players/i/iglesra01.shtml,iglesra01,26,CIN,28.1,5,5,11,3.49,4.25,-0.09,0.18,98.4,4.44,4,0.4,,-0.1,0.6,5,.582,.503,,Amateur Free Agent
+2016,196,Hisashi Iwakuma,/players/i/iwakuhi01.shtml,iwakuhi01,35,SEA,31.0,5,5,16,4.65,4.39,0.32,0.17,94.7,4.02,-3,-0.4,,-0.1,-0.1,1,.429,.498,,Free Agency
+2016,197,Edwin Jackson,/players/j/jacksed01.shtml,jacksed01,32,MIA,3.2,4,0,1,2.45,3.95,-0.26,-0.28,97.9,3.84,1,0.1,1.67,0.0,0.1,1,.517,.500,,Free Agency
+2016,198,Kenley Jansen,/players/j/janseke01.shtml,janseke01,28,LAD,10.2,10,0,1,0.84,4.12,0.26,-0.29,98.9,3.53,3,0.4,1.85,0.1,0.6,4,.537,.502,,Amateur Free Agent
+2016,199,Jeremy Jeffress,/players/j/jeffrje01.shtml,jeffrje01,28,MIL,9.2,10,0,3,2.79,4.31,0.11,-0.31,102.6,3.99,2,0.2,1.45,-0.0,0.2,2,.516,.501,,Free Agency
+2016,200,Dan Jennings*,/players/j/jennida01.shtml,jennida01,29,CHW,8.0,6,0,1,1.13,4.19,0.03,-0.30,95.1,3.66,2,0.2,.30,-0.1,0.2,3,.538,.501,,Traded
+2016,201,Kevin Jepsen,/players/j/jepseke01.shtml,jepseke01,31,MIN,10.2,11,0,6,5.06,4.21,-0.42,-0.31,105.6,4.56,-1,-0.1,2.20,-0.1,-0.1,0,.490,.499,,Traded
+2016,202,Ubaldo Jimenez,/players/j/jimenub01.shtml,jimenub01,32,BAL,27.2,5,5,17,5.53,4.41,-0.48,0.18,103.3,5.23,-2,-0.2,,-0.0,0.0,2,.457,.499,,Free Agency
+2016,203,Jim Johnson,/players/j/johnsji04.shtml,johnsji04,33,ATL,11.1,13,0,9,7.15,4.24,-0.77,-0.30,96.8,4.55,-3,-0.3,1.39,-0.1,-0.3,-2,.477,.498,,Free Agency
+2016,204,Nate Jones,/players/j/jonesna01.shtml,jonesna01,30,CHW,12.0,12,0,1,0.75,4.31,0.02,-0.31,97.4,3.87,4,0.4,1.81,0.1,0.7,5,.536,.503,,Amateur Draft
+2016,205,Taylor Jungmann,/players/j/jungmta01.shtml,jungmta01,26,MIL,20.2,5,5,22,9.58,4.50,0.13,0.19,99.7,4.54,-11,-0.9,,-0.0,-0.8,-10,.311,.494,,Amateur Draft
+2016,206,Tommy Kahnle,/players/k/kahnlto01.shtml,kahnlto01,26,CHW,1.0,1,0,0,0.00,4.19,0.02,-0.31,104.0,4.02,0,0.0,.11,-0.0,0.0,1,.548,.500,,Traded
+2016,207,Nate Karns,/players/k/karnsna01.shtml,karnsna01,28,SEA,22.1,4,4,10,4.03,4.20,0.27,0.17,96.0,3.93,-1,-0.1,,-0.0,0.1,2,.469,.499,,Traded
+2016,208,Scott Kazmir*,/players/k/kazmisc01.shtml,kazmisc01,32,LAD,25.0,5,5,16,5.76,4.33,0.38,0.18,98.3,4.07,-4,-0.4,,-0.1,-0.2,-2,.421,.498,,Free Agency
+2016,209,Keone Kela,/players/k/kelake01.shtml,kelake01,23,TEX,6.1,7,0,5,7.11,4.45,0.37,-0.32,103.3,3.88,-3,-0.3,.85,-0.0,-0.2,-2,.461,.498,,Amateur Draft
+2016,210,Shawn Kelley,/players/k/kellesh01.shtml,kellesh01,32,WSN,8.0,10,0,0,0.00,4.12,0.06,-0.29,101.3,3.81,4,0.4,1.32,0.0,0.5,4,.539,.502,,Free Agency
+2016,211,Casey Kelly,/players/k/kellyca01.shtml,kellyca01,26,ATL,3.0,1,0,1,3.00,4.87,-1.05,-0.35,94.0,5.24,1,0.1,.45,-0.0,0.1,1,.592,.501,,Traded
+2016,212,Joe Kelly,/players/k/kellyjo05.shtml,kellyjo05,28,BOS,8.2,3,3,9,9.35,4.62,0.38,0.18,106.4,4.71,-5,-0.5,,-0.0,-0.4,-4,.345,.497,,Traded
+2016,213,Ian Kennedy,/players/k/kenneia01.shtml,kenneia01,31,KCR,31.0,5,5,9,2.61,4.32,0.51,0.17,97.0,3.86,3,0.4,,-0.1,0.6,7,.573,.502,,Free Agency
+2016,214,Logan Kensing,/players/k/kensilo01.shtml,kensilo01,33,DET,4.2,3,0,1,1.93,4.57,-0.52,-0.33,97.5,4.64,1,0.1,.12,-0.1,0.1,2,.548,.501,,Free Agency
+2016,215,Clayton Kershaw*,/players/k/kershcl01.shtml,kershcl01,28,LAD,46.0,6,6,11,2.15,4.44,0.28,0.18,89.8,3.89,10,1.2,,-0.1,1.5,13,.697,.507,,Amateur Draft
+2016,216,Dallas Keuchel*,/players/k/keuchda01.shtml,keuchda01,28,HOU,32.2,5,5,16,4.41,4.35,0.27,0.17,100.8,4.29,-2,-0.2,,-0.1,0.1,2,.463,.499,,Amateur Draft
+2016,217,Craig Kimbrel,/players/k/kimbrcr01.shtml,kimbrcr01,28,BOS,12.0,13,0,5,3.75,4.57,0.20,-0.33,108.2,4.37,0,0.0,2.11,-0.0,0.2,2,.503,.500,,Traded
+2016,218,Michael Kirkman*,/players/k/kirkmmi01.shtml,kirkmmi01,29,SDP,1.1,1,0,4,27.00,5.01,0.70,-0.36,92.0,3.63,-3,-0.3,3.21,-0.3,-0.6,-3,.238,.498,,Free Agency
+2016,219,Phil Klein,/players/k/kleinph01.shtml,kleinph01,27,TEX,7.1,6,0,2,2.45,4.54,0.36,-0.33,97.6,3.75,1,0.1,.58,-0.0,0.1,2,.515,.501,,Amateur Draft
+2016,220,Corey Kluber,/players/k/klubeco01.shtml,klubeco01,30,CLE,34.0,5,5,17,4.50,4.31,-0.41,0.17,103.7,5.07,1,0.1,,-0.1,0.4,5,.519,.501,,Traded
+2016,221,Tom Koehler,/players/k/koehlto01.shtml,koehlto01,30,MIA,22.1,5,5,20,8.06,4.19,-0.26,0.17,97.7,4.51,-8,-0.7,,-0.0,-0.6,-7,.352,.495,,Amateur Draft
+2016,222,George Kontos,/players/k/kontoge01.shtml,kontoge01,31,SFG,5.2,8,0,1,1.59,4.23,-0.12,-0.30,104.8,4.24,2,0.2,.88,-0.0,0.2,2,.524,.501,,Traded
+2016,223,Erik Kratz,/players/k/kratzer01.shtml,kratzer01,36,HOU,1.0,1,0,2,18.00,4.67,0.54,-0.34,86.0,3.26,-2,-0.2,.00,0.1,-0.1,-2,.339,.499,,Traded
+2016,224,John Lackey,/players/l/lackejo01.shtml,lackejo01,37,CHC,33.1,5,5,17,4.59,3.97,0.56,0.16,101.9,3.64,-3,-0.3,,-0.1,-0.0,-1,.448,.498,,Free Agency
+2016,225,Mat Latos,/players/l/latosma01.shtml,latosma01,28,CHW,29.1,5,5,6,1.84,4.21,0.03,0.17,98.3,4.27,7,0.8,,-0.0,1.1,11,.669,.505,,Free Agency
+2016,226,Derek Law,/players/l/lawde01.shtml,lawde01,25,SFG,4.0,7,0,1,2.25,4.84,-0.12,-0.34,90.8,4.19,1,0.1,1.24,-0.0,0.1,1,.515,.501,,Amateur Draft
+2016,227,Tommy Layne*,/players/l/layneto01.shtml,layneto01,31,BOS,5.0,7,0,2,3.60,4.17,0.33,-0.30,110.8,3.91,-0,-0.0,.60,-0.0,0.0,1,.500,.500,,Free Agency
+2016,228,Mike Leake,/players/l/leakemi01.shtml,leakemi01,28,STL,29.1,5,5,22,6.75,4.37,0.19,0.18,96.7,4.22,-7,-0.7,,-0.1,-0.5,-6,.363,.496,,Free Agency
+2016,229,Arnold Leon,/players/l/leonar01.shtml,leonar01,27,TOR,2.1,2,0,2,7.71,4.23,0.27,-0.31,97.3,3.55,-1,-0.1,2.97,-0.1,-0.2,-1,.438,.499,,Purchased
+2016,230,Dominic Leone,/players/l/leonedo01.shtml,leonedo01,24,ARI,2.2,2,0,3,10.13,4.27,0.35,-0.30,112.0,4.05,-2,-0.2,.11,0.1,-0.1,-2,.416,.499,,Traded
+2016,231,Jon Lester*,/players/l/lestejo01.shtml,lestejo01,32,CHC,34.1,5,5,7,1.83,3.94,0.52,0.16,96.8,3.47,7,0.8,,-0.1,1.0,9,.665,.505,,Free Agency
+2016,232,Colby Lewis,/players/l/lewisco01.shtml,lewisco01,36,TEX,31.0,5,5,11,3.19,4.50,0.54,0.18,104.8,4.34,3,0.3,,-0.1,0.6,7,.565,.502,,Free Agency
+2016,233,Adam Liberatore*,/players/l/liberad01.shtml,liberad01,29,LAD,6.1,7,0,0,0.00,4.16,0.28,-0.30,102.7,3.68,3,0.3,1.05,-0.0,0.3,3,.542,.502,,Traded
+2016,234,Pat Light,/players/l/lightpa01.shtml,lightpa01,25,BOS,1.0,1,0,2,18.00,3.73,0.59,-0.27,94.0,2.70,-2,-0.2,.01,0.1,-0.1,-2,.335,.499,,Amateur Draft
+2016,235,Francisco Liriano*,/players/l/liriafr01.shtml,liriafr01,32,PIT,28.0,5,5,12,3.86,4.11,0.08,0.17,98.0,4.11,2,0.2,,-0.1,0.3,3,.533,.501,,Free Agency
+2016,236,Kyle Lobstein*,/players/l/lobstky01.shtml,lobstky01,26,PIT,17.0,7,0,7,3.71,4.07,0.09,-0.29,104.2,3.85,1,0.1,1.15,-0.1,0.2,2,.511,.500,,Purchased
+2016,237,Jeff Locke*,/players/l/lockeje01.shtml,lockeje01,28,PIT,26.2,5,5,15,5.06,3.96,0.09,0.16,103.4,4.17,-2,-0.2,,-0.1,-0.0,-0,.461,.499,,Traded
+2016,238,Boone Logan*,/players/l/loganbo02.shtml,loganbo02,31,COL,9.2,12,0,4,3.72,4.34,0.05,-0.31,125.0,4.97,2,0.2,1.64,0.0,0.3,2,.514,.501,,Free Agency
+2016,239,Javier Lopez*,/players/l/lopezja02.shtml,lopezja02,38,SFG,5.2,13,0,5,7.94,5.30,-0.14,-0.38,98.9,5.00,-2,-0.2,.83,-0.0,-0.1,-1,.487,.499,,Free Agency
+2016,240,Mark Lowe,/players/l/lowema01.shtml,lowema01,33,DET,9.2,10,0,3,2.79,4.27,-0.36,-0.31,98.1,4.24,1,0.1,1.60,0.0,0.2,2,.513,.501,,Free Agency
+2016,241,Cory Luebke*,/players/l/luebkco01.shtml,luebkco01,31,PIT,3.1,3,0,3,8.10,4.17,0.11,-0.30,95.9,3.61,-2,-0.2,.22,0.0,-0.1,-1,.448,.499,,Free Agency
+2016,242,Jordan Lyles,/players/l/lylesjo01.shtml,lylesjo01,25,COL,17.2,4,4,18,9.17,4.43,0.08,0.18,127.5,5.78,-6,-0.6,,-0.0,-0.4,-5,.359,.497,,Traded
+2016,243,Tyler Lyons*,/players/l/lyonsty01.shtml,lyonsty01,28,STL,10.0,8,0,6,5.40,4.19,0.17,-0.30,101.3,3.76,-2,-0.2,.58,-0.0,-0.1,-1,.480,.499,,Amateur Draft
+2016,244,Ryan Madson,/players/m/madsory01.shtml,madsory01,35,OAK,12.2,13,0,3,2.13,4.48,-0.33,-0.33,96.5,4.33,3,0.3,1.67,0.1,0.5,4,.523,.502,,Free Agency
+2016,245,Kenta Maeda,/players/m/maedake01.shtml,maedake01,28,LAD,32.0,5,5,5,1.41,4.20,0.33,0.17,97.3,3.94,10,1.2,,-0.1,1.4,12,.733,.507,,Free Agency
+2016,246,Greg Mahle*,/players/m/mahlegr01.shtml,mahlegr01,23,LAA,8.0,10,0,1,1.13,4.39,0.14,-0.32,98.5,3.87,2,0.2,.86,-0.0,0.3,3,.524,.502,,Amateur Draft
+2016,247,Sean Manaea*,/players/m/manaese01.shtml,manaese01,24,OAK,5.0,1,1,4,7.20,4.34,-0.33,0.17,98.0,4.75,-2,-0.2,,-0.0,-0.1,-1,.349,.499,,Traded
+2016,248,Seth Maness,/players/m/manesse01.shtml,manesse01,27,STL,8.1,9,0,7,7.56,4.24,0.23,-0.30,98.0,3.64,-3,-0.3,.85,-0.0,-0.3,-3,.462,.498,,Amateur Draft
+2016,249,Jeff Manship,/players/m/manshje01.shtml,manshje01,31,CLE,7.0,9,0,0,0.00,4.35,-0.45,-0.32,106.3,4.76,3,0.4,1.40,0.1,0.5,4,.544,.502,,Free Agency
+2016,250,Jhan Marinez,/players/m/marinjh01.shtml,marinjh01,27,TBR,2.0,2,0,1,4.50,4.97,0.23,-0.36,96.6,4.23,-0,-0.0,.03,0.0,0.0,0,.492,.500,,Free Agency
+2016,251,Matt Marksberry*,/players/m/marksma01.shtml,marksma01,25,ATL,0.2,1,0,1,13.50,4.87,-0.81,-0.35,94.0,5.01,-1,-0.1,.39,0.0,-0.0,-1,.440,.500,,Amateur Draft
+2016,252,Evan Marshall,/players/m/marshev01.shtml,marshev01,26,ARI,6.0,5,0,2,3.00,4.69,0.29,-0.33,99.1,4.03,1,0.1,1.01,-0.0,0.1,1,.518,.501,,Amateur Draft
+2016,253,Carlos Martinez,/players/m/martica04.shtml,martica04,24,STL,34.2,5,5,10,2.60,4.08,0.15,0.17,101.4,4.15,7,0.8,,-0.1,1.0,9,.659,.505,,Free Agency
+2016,254,Nick Martinez,/players/m/martini01.shtml,martini01,25,TEX,0.1,1,0,1,27.00,4.43,1.00,-0.32,92.0,2.86,-1,-0.1,2.17,-0.1,-0.2,-1,.406,.499,,Amateur Draft
+2016,255,Brian Matusz*,/players/m/matusbr01.shtml,matusbr01,29,BAL,2.1,4,0,2,7.71,4.32,-0.78,-0.31,101.1,4.84,-1,-0.1,.92,-0.0,-0.1,-1,.477,.499,,Amateur Draft
+2016,256,Steven Matz*,/players/m/matzst01.shtml,matzst01,25,NYM,21.0,4,4,9,3.86,4.14,-0.73,0.17,96.3,4.86,3,0.3,,-0.0,0.5,4,.580,.502,,Amateur Draft
+2016,257,Brandon Maurer,/players/m/maurebr01.shtml,maurebr01,25,SDP,12.0,12,0,7,5.25,4.33,0.23,-0.31,98.2,3.72,-2,-0.2,1.01,-0.1,-0.1,-1,.485,.499,,Traded
+2016,258,Trevor May,/players/m/maytr01.shtml,maytr01,26,MIN,15.0,13,0,5,3.00,4.19,-0.30,-0.30,105.3,4.40,2,0.2,1.30,-0.0,0.3,4,.515,.501,,Traded
+2016,259,Zach McAllister,/players/m/mcallza01.shtml,mcallza01,28,CLE,9.2,11,0,1,0.93,4.48,-0.43,-0.33,106.1,4.87,4,0.4,1.31,0.0,0.6,5,.541,.503,,Traded
+2016,260,T.J. McFarland*,/players/m/mcfartj01.shtml,mcfartj01,27,BAL,12.1,7,0,4,2.92,4.19,-0.54,-0.30,107.8,4.77,2,0.2,.90,-0.1,0.3,4,.534,.501,,Rule 5 Draft
+2016,261,Jake McGee*,/players/m/mcgeeja01.shtml,mcgeeja01,29,COL,8.2,9,0,6,6.23,4.40,0.08,-0.31,124.9,5.00,-1,-0.1,1.33,-0.1,-0.1,-0,.489,.499,,Traded
+2016,262,Dustin McGowan,/players/m/mcgowdu01.shtml,mcgowdu01,34,MIA,5.1,6,0,2,3.38,4.30,-0.26,-0.31,93.6,3.98,1,0.1,.59,-0.0,0.1,1,.509,.500,,Free Agency
+2016,263,Collin McHugh,/players/m/mchugco01.shtml,mchugco01,29,HOU,21.2,5,5,17,7.06,4.28,0.34,0.17,95.8,3.94,-8,-0.8,,-0.0,-0.6,-6,.340,.495,,Waivers
+2016,264,Kris Medlen,/players/m/medlekr01.shtml,medlekr01,30,KCR,20.1,4,4,12,5.31,4.33,0.56,0.17,97.0,3.82,-4,-0.4,,-0.0,-0.3,-2,.394,.497,,Free Agency
+2016,265,Mark Melancon,/players/m/melanma01.shtml,melanma01,31,PIT,10.1,12,0,3,2.61,4.08,0.08,-0.29,104.8,3.89,2,0.2,1.32,-0.0,0.2,2,.515,.501,,Traded
+2016,266,Tim Melville,/players/m/melviti01.shtml,melviti01,26,CIN,9.0,3,2,12,12.00,4.48,-0.11,0.07,101.3,4.73,-7,-0.6,.20,0.0,-0.5,-6,.302,.496,,Free Agency
+2016,267,Alex Meyer,/players/m/meyeral01.shtml,meyeral01,26,MIN,1.0,1,0,2,18.00,4.19,-0.92,-0.31,106.0,5.09,-1,-0.1,.10,0.1,-0.1,-1,.356,.499,,Traded
+2016,268,Wade Miley*,/players/m/mileywa01.shtml,mileywa01,29,SEA,32.0,5,5,18,5.06,4.21,0.32,0.17,95.9,3.89,-5,-0.6,,-0.1,-0.3,-1,.390,.497,,Traded
+2016,269,Andrew Miller*,/players/m/millean01.shtml,millean01,31,NYY,10.0,10,0,0,0.00,4.43,-0.39,-0.32,102.4,4.60,5,0.6,1.51,0.1,0.8,6,.555,.503,,Free Agency
+2016,270,Justin Miller,/players/m/milleju02.shtml,milleju02,29,COL,10.1,11,0,6,5.23,4.30,0.07,-0.31,123.1,4.84,-0,-0.0,.98,-0.1,0.0,0,.498,.500,,Free Agency
+2016,271,Shelby Miller,/players/m/millesh01.shtml,millesh01,25,ARI,23.1,6,6,22,8.49,4.09,0.34,0.17,107.8,4.23,-10,-0.9,,-0.0,-0.8,-9,.345,.494,,Traded
+2016,272,Tommy Milone*,/players/m/milonto01.shtml,milonto01,29,MIN,20.0,4,4,14,6.30,4.18,-0.41,0.17,105.5,5.01,-4,-0.4,,-0.0,-0.2,-1,.406,.498,,Traded
+2016,273,Rafael Montero,/players/m/montera01.shtml,montera01,25,NYM,2.1,2,0,3,11.57,3.86,-0.85,-0.27,107.0,4.76,-2,-0.2,.24,0.1,-0.1,-2,.417,.499,,Amateur Free Agent
+2016,274,Mike Montgomery*,/players/m/montgmi01.shtml,montgmi01,26,SEA,11.2,8,0,4,3.09,4.15,0.27,-0.30,96.9,3.47,0,0.0,.37,-0.0,0.1,2,.501,.500,,Traded
+2016,275,Matt Moore*,/players/m/moorema02.shtml,moorema02,27,TBR,32.0,5,5,13,3.66,4.41,0.20,0.18,95.3,4.19,1,0.1,,-0.1,0.3,5,.515,.500,,Amateur Draft
+2016,276,Franklin Morales*,/players/m/moralfr01.shtml,moralfr01,30,TOR,0.2,2,0,0,0.00,4.23,0.23,-0.31,94.0,3.47,0,0.0,.28,-0.0,0.0,0,.513,.500,,Free Agency
+2016,277,Adam Morgan*,/players/m/morgaad01.shtml,morgaad01,26,PHI,5.0,1,1,3,5.40,3.60,-0.12,0.15,102.0,3.95,-1,-0.1,,-0.0,-0.0,-0,.434,.500,,Amateur Draft
+2016,278,Mike Morin,/players/m/morinmi01.shtml,morinmi01,25,LAA,10.1,14,0,3,2.61,4.33,0.16,-0.31,95.0,3.66,1,0.1,.66,-0.0,0.2,2,.506,.501,,Amateur Draft
+2016,279,Bryan Morris,/players/m/morribr01.shtml,morribr01,29,MIA,10.0,14,0,5,4.50,4.60,-0.22,-0.33,96.7,4.35,0,0.0,1.10,-0.1,0.1,1,.501,.500,,Traded
+2016,280,Charlie Morton,/players/m/mortoch02.shtml,mortoch02,32,PHI,17.1,4,4,8,4.15,4.23,-0.12,0.18,102.2,4.62,1,0.1,,-0.0,0.3,2,.537,.501,,Traded
+2016,281,Jon Moscot,/players/m/moscojo01.shtml,moscojo01,24,CIN,15.2,3,3,10,5.74,4.55,-0.10,0.19,96.5,4.67,-1,-0.1,,-0.0,-0.0,-0,.451,.499,,Amateur Draft
+2016,282,Colton Murray,/players/m/murraco02.shtml,murraco02,26,PHI,0.1,1,0,0,0.00,3.59,-0.13,-0.24,102.0,3.56,0,0.0,4.10,0.0,0.0,0,.515,.500,,Amateur Draft
+2016,283,Chris Narveson*,/players/n/narvech01.shtml,narvech01,34,MIA,8.1,6,0,8,8.64,4.26,-0.25,-0.30,95.4,4.01,-4,-0.4,1.75,-0.2,-0.5,-4,.433,.498,,Free Agency
+2016,284,Jimmy Nelson,/players/n/nelsoji02.shtml,nelsoji02,27,MIL,31.1,5,5,14,4.02,4.42,0.10,0.18,100.8,4.54,3,0.3,,-0.1,0.5,5,.557,.502,,Amateur Draft
+2016,285,Hector Neris,/players/n/nerishe01.shtml,nerishe01,27,PHI,15.1,14,0,2,1.17,4.36,-0.09,-0.31,99.6,4.12,5,0.6,1.40,0.0,0.8,6,.542,.504,,Amateur Free Agent
+2016,286,Pat Neshek,/players/n/neshepa01.shtml,neshepa01,35,HOU,7.0,10,0,4,5.14,4.24,0.22,-0.31,101.7,3.78,-1,-0.1,1.08,-0.0,-0.1,-0,.485,.499,,Free Agency
+2016,287,Juan Nicasio,/players/n/nicasju01.shtml,nicasju01,29,PIT,27.0,5,5,10,3.33,4.10,0.07,0.17,98.3,4.13,3,0.3,,-0.1,0.5,5,.568,.502,,Free Agency
+2016,288,Justin Nicolino*,/players/n/nicolju01.shtml,nicolju01,24,MIA,7.1,1,1,0,0.00,4.61,-0.21,0.19,88.0,4.41,4,0.4,,-0.0,0.5,4,.920,.503,,Traded
+2016,289,Jon Niese*,/players/n/niesejo01.shtml,niesejo01,29,PIT,28.1,5,5,18,5.72,4.04,0.10,0.17,107.7,4.42,-3,-0.3,,-0.1,-0.1,-2,.435,.498,,Traded
+2016,290,Aaron Nola,/players/n/nolaaa01.shtml,nolaaa01,23,PHI,33.0,5,5,13,3.55,4.18,-0.12,0.17,102.8,4.60,5,0.5,,-0.1,0.8,7,.606,.503,,Amateur Draft
+2016,291,Ricky Nolasco,/players/n/nolasri01.shtml,nolasri01,33,MIN,33.1,5,5,15,4.05,4.15,-0.39,0.17,105.6,4.97,2,0.2,,-0.1,0.5,6,.549,.502,,Free Agency
+2016,292,Bud Norris,/players/n/norribu01.shtml,norribu01,31,ATL,22.2,5,5,23,9.13,4.25,-0.99,0.18,98.8,5.35,-9,-0.8,,-0.0,-0.6,-8,.341,.495,,Free Agency
+2016,293,Ivan Nova,/players/n/novaiv01.shtml,novaiv01,29,NYY,14.0,6,0,8,5.14,4.34,-0.82,-0.32,105.1,5.08,-1,-0.1,.79,-0.0,0.0,1,.488,.500,,Rule 5 returned
+2016,294,Vidal Nuno*,/players/n/nunovi01.shtml,nunovi01,28,SEA,8.0,8,0,2,2.25,4.31,0.26,-0.31,89.7,3.35,1,0.1,1.04,-0.0,0.1,2,.509,.500,,Traded
+2016,295,Darren O'Day,/players/o/odayda01.shtml,odayda01,33,BAL,9.2,11,0,3,2.79,4.43,-0.38,-0.32,105.1,4.72,2,0.2,1.33,0.0,0.3,3,.517,.501,,Free Agency
+2016,296,Eric O'Flaherty*,/players/o/oflaher01.shtml,oflaher01,31,ATL,5.1,13,0,5,8.44,5.31,-0.94,-0.38,98.2,5.76,-1,-0.1,1.82,-0.1,-0.2,-1,.489,.499,,Purchased
+2016,297,Ryan O'Rourke*,/players/o/orourry01.shtml,orourry01,28,MIN,7.0,7,0,2,2.57,4.39,-0.36,-0.32,104.4,4.62,1,0.2,.69,-0.0,0.2,2,.522,.501,,Amateur Draft
+2016,298,Scott Oberg,/players/o/obergsc01.shtml,obergsc01,26,COL,3.1,3,0,1,2.70,4.41,0.07,-0.31,130.0,5.24,1,0.1,.53,-0.0,0.1,1,.537,.501,,Amateur Draft
+2016,299,Brett Oberholtzer*,/players/o/oberhbr01.shtml,oberhbr01,26,PHI,11.1,4,0,11,8.74,4.23,-0.16,-0.30,102.4,4.19,-5,-0.5,.29,0.1,-0.3,-5,.374,.497,,Traded
+2016,300,Jake Odorizzi,/players/o/odorija01.shtml,odorija01,26,TBR,34.2,6,6,13,3.38,4.69,0.22,0.19,98.5,4.59,3,0.4,,-0.1,0.7,8,.566,.502,,Traded
+2016,301,Alexi Ogando,/players/o/ogandal01.shtml,ogandal01,32,ATL,13.0,11,0,4,2.77,4.34,-0.77,-0.31,97.4,4.67,3,0.3,1.19,-0.0,0.4,4,.530,.502,,Free Agency
+2016,302,Seung-hwan Oh,/players/o/ohse01.shtml,ohse01,33,STL,13.2,13,0,3,1.98,4.22,0.11,-0.30,97.7,3.72,3,0.3,.98,-0.1,0.4,4,.525,.502,,Free Agency
+2016,303,Ross Ohlendorf,/players/o/ohlenro01.shtml,ohlenro01,33,CIN,12.0,12,0,8,6.00,4.27,-0.07,-0.30,99.7,4.03,-2,-0.2,1.15,-0.1,-0.2,-2,.480,.499,,Free Agency
+2016,304,Steven Okert*,/players/o/okertst01.shtml,okertst01,24,SFG,5.2,5,0,4,6.35,4.34,-0.11,-0.31,90.6,3.75,-1,-0.2,.28,0.0,-0.1,-1,.470,.499,,Amateur Draft
+2016,305,Tyler Olson*,/players/o/olsonty01.shtml,olsonty01,26,NYY,2.2,1,0,2,6.75,4.67,-0.94,-0.34,100.0,5.27,-1,-0.1,.57,0.0,-0.0,-0,.442,.500,,Traded
+2016,306,Josh Osich*,/players/o/osichjo01.shtml,osichjo01,27,SFG,11.1,14,0,4,3.18,4.49,-0.11,-0.32,101.2,4.33,2,0.2,1.14,-0.0,0.2,2,.513,.501,,Amateur Draft
+2016,307,Roberto Osuna,/players/o/osunaro01.shtml,osunaro01,21,TOR,11.1,11,0,4,3.18,4.23,0.21,-0.31,98.7,3.66,0,0.0,1.12,-0.0,0.1,2,.502,.500,,Free Agency
+2016,308,Dan Otero,/players/o/oteroda01.shtml,oteroda01,31,CLE,6.1,6,0,0,0.00,4.42,-0.33,-0.32,104.3,4.62,3,0.4,.18,-0.2,0.2,4,.559,.502,,Purchased
+2016,309,Henry Owens*,/players/o/owenshe02.shtml,owenshe02,23,BOS,9.1,2,2,5,4.82,4.45,0.35,0.18,105.8,4.52,-1,-0.1,,-0.0,0.0,1,.463,.500,,Amateur Draft
+2016,310,Jonathan Papelbon,/players/p/papeljo01.shtml,papeljo01,35,WSN,10.1,11,0,3,2.61,3.87,0.09,-0.28,100.7,3.54,1,0.1,2.13,0.0,0.3,2,.513,.501,,Traded
+2016,311,Jake Peavy,/players/p/peavyja01.shtml,peavyja01,35,SFG,23.0,5,5,22,8.61,4.11,-0.15,0.17,100.9,4.48,-10,-0.9,,-0.0,-0.7,-9,.326,.495,,Traded
+2016,312,Mike Pelfrey,/players/p/pelfrmi01.shtml,pelfrmi01,32,DET,25.1,5,5,21,7.46,4.19,-0.50,0.17,101.2,4.92,-8,-0.8,,-0.0,-0.6,-5,.343,.495,,Free Agency
+2016,313,Ariel Pena,/players/p/penaar01.shtml,penaar01,27,MIL,1.2,1,0,5,27.00,5.01,0.19,-0.36,104.0,4.63,-4,-0.3,.21,0.1,-0.2,-4,.206,.498,,Traded
+2016,314,Joel Peralta,/players/p/peraljo01.shtml,peraljo01,40,SEA,10.0,10,0,3,2.70,4.17,0.23,-0.30,95.2,3.47,0,0.1,1.49,-0.0,0.1,2,.505,.500,,Free Agency
+2016,315,Wily Peralta,/players/p/peralwi01.shtml,peralwi01,27,MIL,30.0,6,6,27,8.10,4.18,0.13,0.17,103.7,4.38,-12,-1.0,,-0.1,-0.8,-10,.330,.494,,Amateur Free Agent
+2016,316,Luis Perdomo,/players/p/perdolu02.shtml,perdolu02,23,SDP,10.2,9,0,13,10.97,4.49,0.43,-0.32,92.5,3.46,-9,-0.8,.41,0.2,-0.5,-8,.408,.495,,Purchased
+2016,317,Martin Perez*,/players/p/perezma02.shtml,perezma02,25,TEX,30.0,5,5,15,4.50,4.47,0.51,0.18,103.6,4.29,-2,-0.2,,-0.1,0.0,2,.459,.499,,Amateur Free Agent
+2016,318,Oliver Perez*,/players/p/perezol01.shtml,perezol01,34,WSN,6.0,9,0,2,3.00,3.84,0.05,-0.27,101.8,3.58,1,0.1,1.27,-0.0,0.1,1,.506,.500,,Free Agency
+2016,319,Williams Perez,/players/p/perezwi01.shtml,perezwi01,25,ATL,12.1,3,3,7,5.11,4.26,-0.92,0.18,94.8,5.08,0,0.0,,-0.0,0.1,1,.510,.500,,Amateur Free Agent
+2016,320,Glen Perkins*,/players/p/perkigl01.shtml,perkigl01,33,MIN,2.0,2,0,2,9.00,4.09,-0.52,-0.30,106.0,4.58,-1,-0.1,.86,0.0,-0.1,-1,.443,.499,,Amateur Draft
+2016,321,Yusmeiro Petit,/players/p/petityu01.shtml,petityu01,31,WSN,13.0,5,0,4,2.77,3.91,0.07,-0.28,101.0,3.59,2,0.2,.87,-0.1,0.2,2,.533,.501,,Free Agency
+2016,322,Jake Petricka,/players/p/petrija01.shtml,petrija01,28,CHW,8.0,9,0,5,5.63,4.70,0.03,-0.34,96.9,4.20,-2,-0.2,.96,-0.0,-0.1,-1,.481,.499,,Amateur Draft
+2016,323,David Phelps,/players/p/phelpda01.shtml,phelpda01,29,MIA,15.0,12,0,2,1.20,4.39,-0.16,-0.31,96.2,4.08,5,0.6,1.60,0.1,0.8,6,.547,.503,,Traded
+2016,324,Branden Pinder,/players/p/pindebr01.shtml,pindebr01,27,NYY,1.0,1,0,2,18.00,4.10,-0.91,-0.30,100.0,4.72,-2,-0.1,.42,0.0,-0.1,-1,.352,.499,,Amateur Draft
+2016,325,Michael Pineda,/players/p/pinedmi01.shtml,pinedmi01,27,NYY,27.0,5,5,20,6.67,4.49,-0.72,0.18,101.8,5.48,-5,-0.5,,-0.0,-0.2,-1,.405,.497,,Traded
+2016,326,Drew Pomeranz*,/players/p/pomerdr01.shtml,pomerdr01,27,SDP,29.0,5,5,10,3.10,4.35,0.22,0.18,100.8,4.34,5,0.5,,-0.1,0.7,7,.606,.503,,Traded
+2016,327,Rick Porcello,/players/p/porceri01.shtml,porceri01,27,BOS,32.2,5,5,10,2.76,4.64,0.30,0.18,105.7,4.78,6,0.8,,-0.1,1.0,10,.650,.505,,Traded
+2016,328,Ryan Pressly,/players/p/pressry01.shtml,pressry01,27,MIN,15.1,12,0,6,3.52,4.24,-0.40,-0.31,105.1,4.55,1,0.1,1.06,-0.0,0.2,3,.511,.501,,Rule 5 Draft
+2016,329,David Price*,/players/p/priceda01.shtml,priceda01,30,BOS,36.2,6,6,25,6.14,4.33,0.32,0.17,108.3,4.53,-8,-0.8,,-0.1,-0.5,-3,.368,.495,,Free Agency
+2016,330,Zach Putnam,/players/p/putnaza01.shtml,putnaza01,28,CHW,9.2,8,0,4,3.72,4.55,0.02,-0.33,96.1,4.03,-0,-0.0,.23,-0.0,0.1,1,.499,.500,,Free Agency
+2016,331,Kevin Quackenbush,/players/q/quackke01.shtml,quackke01,27,SDP,11.0,13,0,9,7.36,4.41,0.32,-0.31,94.7,3.57,-4,-0.4,.81,-0.0,-0.3,-4,.466,.497,,Amateur Draft
+2016,332,Chad Qualls,/players/q/quallch01.shtml,quallch01,37,COL,9.0,12,0,6,6.00,4.33,0.09,-0.31,121.2,4.77,-1,-0.1,.93,-0.0,-0.1,-0,.491,.499,,Free Agency
+2016,333,Jose Quintana*,/players/q/quintjo01.shtml,quintjo01,27,CHW,30.2,5,5,6,1.76,4.39,0.03,0.17,97.6,4.43,8,1.0,,-0.1,1.2,12,.700,.506,,Free Agency
+2016,334,Erasmo Ramirez,/players/r/ramirer02.shtml,ramirer02,26,TBR,22.0,11,1,3,1.23,4.51,0.20,-0.20,97.7,4.03,6,0.7,2.06,0.2,1.1,9,.564,.504,,Traded
+2016,335,J.C. Ramirez,/players/r/ramirjc01.shtml,ramirjc01,27,CIN,8.0,4,0,2,2.25,4.65,-0.07,-0.33,94.9,4.16,2,0.2,.60,-0.1,0.2,2,.552,.501,,Free Agency
+2016,336,Jose Ramirez,/players/r/ramirjo02.shtml,ramirjo02,26,ATL,2.0,2,0,6,27.00,4.27,-0.92,-0.30,94.0,4.60,-5,-0.4,.37,0.1,-0.3,-5,.294,.497,,Traded
+2016,337,Neil Ramirez,/players/r/ramirne01.shtml,ramirne01,27,CHC,6.0,6,0,3,4.50,3.89,0.47,-0.28,100.9,3.17,-1,-0.1,.26,-0.0,-0.0,-0,.488,.500,,Traded
+2016,338,Noe Ramirez,/players/r/ramirno01.shtml,ramirno01,26,BOS,9.1,9,0,6,5.79,4.80,0.33,-0.35,106.7,4.40,-2,-0.2,.67,0.0,-0.1,-1,.478,.499,,Amateur Draft
+2016,339,A.J. Ramos,/players/r/ramosaj01.shtml,ramosaj01,29,MIA,9.1,10,0,1,0.96,4.41,-0.15,-0.31,93.4,3.96,3,0.4,1.76,0.1,0.5,4,.536,.502,,Amateur Draft
+2016,340,Cesar Ramos*,/players/r/ramosce01.shtml,ramosce01,32,TEX,6.0,1,1,3,4.50,4.52,0.58,0.18,114.0,4.69,-0,-0.0,,-0.0,0.0,1,.488,.500,,Free Agency
+2016,341,Cory Rasmus,/players/r/rasmuco02.shtml,rasmuco02,28,LAA,13.1,7,0,7,4.73,4.33,0.14,-0.31,96.8,3.75,-2,-0.2,.74,-0.0,-0.1,-0,.469,.499,,Traded
+2016,342,Robbie Ray*,/players/r/rayro02.shtml,rayro02,24,ARI,25.1,5,5,14,4.97,4.52,0.30,0.19,102.3,4.51,-1,-0.1,,-0.1,0.1,1,.487,.500,,Traded
+2016,343,Colin Rea,/players/r/reaco01.shtml,reaco01,25,SDP,27.1,6,5,16,5.27,4.25,0.30,0.16,99.1,4.07,-3,-0.3,.00,-0.1,-0.1,-1,.452,.498,,Amateur Draft
+2016,344,Addison Reed,/players/r/reedad01.shtml,reedad01,27,NYM,12.1,13,0,5,3.65,3.94,-0.62,-0.28,95.8,4.10,1,0.1,1.21,-0.1,0.2,2,.508,.501,,Traded
+2016,345,Clayton Richard*,/players/r/richacl01.shtml,richacl01,32,CHC,2.2,4,0,4,13.50,3.96,0.76,-0.28,99.9,2.91,-3,-0.3,.25,0.1,-0.2,-3,.425,.498,,Purchased
+2016,346,Garrett Richards,/players/r/richaga01.shtml,richaga01,28,LAA,34.2,6,6,16,4.15,4.27,0.15,0.17,95.0,4.07,-2,-0.2,,-0.1,0.1,3,.470,.499,,Amateur Draft
+2016,347,Felipe Rivero*,/players/r/riverfe01.shtml,riverfe01,24,WSN,13.2,13,0,5,3.29,3.98,0.07,-0.28,100.8,3.66,1,0.1,1.03,-0.1,0.2,2,.507,.501,,Traded
+2016,348,Tanner Roark,/players/r/roarkta01.shtml,roarkta01,29,WSN,31.0,5,5,9,2.61,3.87,0.07,0.16,102.3,4.05,6,0.7,,-0.1,0.9,8,.631,.504,,Traded
+2016,349,David Robertson,/players/r/roberda08.shtml,roberda08,31,CHW,11.1,11,0,1,0.79,4.38,0.02,-0.32,98.6,3.98,4,0.4,1.66,0.1,0.6,5,.538,.503,,Free Agency
+2016,350,Hansel Robles,/players/r/robleha01.shtml,robleha01,25,NYM,11.0,13,0,3,2.45,4.01,-0.72,-0.28,94.1,4.18,2,0.3,1.18,-0.0,0.3,3,.520,.502,,Amateur Free Agent
+2016,351,Fernando Rodney,/players/r/rodnefe01.shtml,rodnefe01,39,SDP,8.1,8,0,1,1.08,4.36,0.24,-0.31,89.9,3.43,2,0.3,1.40,0.0,0.3,3,.532,.502,,Free Agency
+2016,352,Carlos Rodon*,/players/r/rodonca01.shtml,rodonca01,23,CHW,27.0,5,5,15,5.00,4.13,0.03,0.16,99.6,4.25,-3,-0.3,,-0.0,-0.1,0,.430,.498,,Amateur Draft
+2016,353,Fernando Rodriguez,/players/r/rodrife02.shtml,rodrife02,32,OAK,16.1,11,0,2,1.10,4.46,-0.29,-0.32,97.6,4.32,5,0.6,1.01,-0.1,0.7,7,.555,.504,,Traded
+2016,354,Francisco Rodriguez,/players/r/rodrifr03.shtml,rodrifr03,34,DET,9.2,11,0,5,4.66,4.26,-0.40,-0.31,99.8,4.34,-1,-0.1,.90,-0.0,-0.0,1,.493,.500,,Traded
+2016,355,Taylor Rogers*,/players/r/rogerta01.shtml,rogerta01,25,MIN,0.2,1,0,0,0.00,4.43,-0.59,-0.32,106.0,4.98,0,0.0,.19,-0.0,0.0,0,.540,.500,,Amateur Draft
+2016,356,Enny Romero*,/players/r/romeren01.shtml,romeren01,25,TBR,9.1,9,0,3,2.89,4.54,0.18,-0.33,99.8,4.02,1,0.1,1.21,-0.0,0.2,2,.510,.501,,Amateur Free Agent
+2016,357,Sergio Romo,/players/r/romose01.shtml,romose01,33,SFG,3.1,4,0,1,2.70,4.48,-0.12,-0.32,95.0,4.07,1,0.1,1.67,0.0,0.1,1,.516,.500,,Free Agency
+2016,358,Hector Rondon,/players/r/rondohe01.shtml,rondohe01,28,CHC,8.0,8,0,1,1.13,3.97,0.35,-0.28,101.7,3.39,2,0.2,1.53,0.0,0.3,3,.530,.501,,Rule 5 Draft
+2016,359,Trevor Rosenthal,/players/r/rosentr01.shtml,rosentr01,26,STL,8.0,8,0,3,3.38,4.15,0.09,-0.29,95.6,3.60,0,0.0,2.33,-0.0,0.1,1,.505,.500,,Amateur Draft
+2016,360,Joe Ross,/players/r/rossjo01.shtml,rossjo01,23,WSN,22.2,4,4,2,0.79,4.05,0.08,0.17,101.4,4.20,9,1.1,,-0.0,1.2,11,.774,.507,,Traded
+2016,361,Robbie Ross*,/players/r/rossro01.shtml,rossro01,27,BOS,11.0,8,0,4,3.27,4.52,0.35,-0.33,107.8,4.14,1,0.1,1.20,-0.0,0.2,2,.509,.500,,Traded
+2016,362,Tyson Ross,/players/r/rossty01.shtml,rossty01,29,SDP,5.1,1,1,8,13.50,4.61,0.33,0.19,88.0,3.93,-6,-0.3,,-0.0,-0.3,-5,.152,.498,,Traded
+2016,363,Chris Rusin*,/players/r/rusinch01.shtml,rusinch01,29,COL,16.0,5,1,3,1.69,4.29,0.06,-0.15,121.9,4.98,6,0.7,.94,-0.1,0.8,7,.643,.504,,Waivers
+2016,364,James Russell*,/players/r/russeja02.shtml,russeja02,30,PHI,4.1,7,0,9,18.69,4.44,-0.20,-0.32,98.4,4.25,-7,-0.7,.93,0.0,-0.6,-7,.406,.496,,Free Agency
+2016,365,Kyle Ryan*,/players/r/ryanky01.shtml,ryanky01,24,DET,12.2,9,0,3,2.13,4.12,-0.47,-0.30,100.1,4.29,3,0.3,.41,-0.1,0.3,4,.533,.502,,Amateur Draft
+2016,366,Marc Rzepczynski*,/players/r/rzepcma01.shtml,rzepcma01,30,OAK,10.2,12,0,2,1.69,4.67,-0.29,-0.34,96.1,4.44,3,0.3,.82,-0.1,0.4,4,.527,.502,,Traded
+2016,367,CC Sabathia*,/players/s/sabatc.01.shtml,sabatc.01,35,NYY,21.1,4,4,12,5.06,4.31,-0.77,0.17,103.2,5.42,0,0.0,,-0.0,0.2,3,.501,.500,,Free Agency
+2016,368,Fernando Salas,/players/s/salasfe01.shtml,salasfe01,31,LAA,14.0,12,0,4,2.57,4.22,0.14,-0.31,97.0,3.66,1,0.1,1.63,-0.0,0.3,3,.511,.501,,Traded
+2016,369,Danny Salazar,/players/s/salazda01.shtml,salazda01,26,CLE,30.0,5,5,8,2.40,4.26,-0.33,0.17,101.7,4.85,7,0.9,,-0.1,1.1,11,.675,.505,,Amateur Free Agent
+2016,370,Chris Sale*,/players/s/salech01.shtml,salech01,27,CHW,43.1,6,6,9,1.87,4.40,0.03,0.18,96.3,4.38,10,1.3,,-0.1,1.7,16,.722,.508,,Amateur Draft
+2016,371,Jeff Samardzija,/players/s/samarje01.shtml,samarje01,31,SFG,32.2,5,5,14,3.86,4.10,-0.12,0.17,104.2,4.58,3,0.4,,-0.1,0.6,6,.576,.502,,Free Agency
+2016,372,Keyvius Sampson,/players/s/sampske01.shtml,sampske01,25,CIN,3.0,2,0,4,12.00,4.34,-0.09,-0.31,99.4,4.10,-3,-0.2,.12,0.1,-0.1,-2,.381,.499,,Waivers
+2016,373,Aaron Sanchez,/players/s/sanchaa01.shtml,sanchaa01,23,TOR,31.1,5,5,10,2.87,4.27,0.23,0.17,99.3,4.18,3,0.4,,-0.1,0.6,7,.579,.502,,Amateur Draft
+2016,374,Anibal Sanchez,/players/s/sanchan01.shtml,sanchan01,32,DET,23.2,5,5,18,6.85,4.27,-0.40,0.17,97.6,4.72,-7,-0.6,,-0.0,-0.4,-3,.371,.496,,Traded
+2016,375,Ervin Santana,/players/s/santaer01.shtml,santaer01,33,MIN,20.0,4,4,10,4.50,4.29,-0.41,0.17,105.8,5.15,1,0.1,,-0.0,0.2,3,.519,.500,,Free Agency
+2016,376,Hector Santiago*,/players/s/santihe01.shtml,santihe01,28,LAA,32.1,5,5,13,3.62,4.32,0.15,0.17,96.0,4.18,1,0.1,,-0.1,0.3,5,.517,.501,,Traded
+2016,377,Rob Scahill,/players/s/scahiro01.shtml,scahiro01,29,PIT,6.0,8,0,4,6.00,4.00,0.08,-0.28,107.8,3.91,-1,-0.1,.49,0.0,-0.1,-1,.484,.499,,Traded
+2016,378,Max Scherzer,/players/s/scherma01.shtml,scherma01,31,WSN,38.0,6,6,15,3.55,3.94,0.07,0.16,100.1,4.03,3,0.3,,-0.1,0.6,5,.555,.502,,Free Agency
+2016,379,A.J. Schugel,/players/s/schugaj01.shtml,schugaj01,27,PIT,10.2,7,0,6,5.06,4.03,0.09,-0.29,104.6,3.82,-1,-0.1,.50,-0.0,-0.1,-1,.482,.499,,Waivers
+2016,380,Luis Severino,/players/s/severlu01.shtml,severlu01,22,NYY,19.2,4,4,15,6.86,4.31,-0.86,0.17,102.1,5.45,-4,-0.4,,-0.0,-0.2,-1,.401,.498,,Amateur Free Agent
+2016,381,Bryan Shaw,/players/s/shawbr01.shtml,shawbr01,28,CLE,9.1,11,0,10,9.64,4.27,-0.42,-0.31,103.0,4.51,-6,-0.6,1.36,-0.1,-0.6,-4,.444,.496,,Traded
+2016,382,James Shields,/players/s/shielja02.shtml,shielja02,34,SDP,33.0,5,5,13,3.55,4.33,0.28,0.18,99.3,4.19,3,0.4,,-0.1,0.6,5,.572,.502,,Free Agency
+2016,383,Matt Shoemaker,/players/s/shoemma01.shtml,shoemma01,29,LAA,20.2,5,5,22,9.58,4.32,0.19,0.17,95.3,4.09,-13,-1.2,,-0.0,-1.0,-11,.268,.493,,Amateur Free Agent
+2016,384,Chasen Shreve*,/players/s/shrevch01.shtml,shrevch01,25,NYY,8.1,10,0,5,5.40,4.38,-0.63,-0.32,103.5,4.85,-1,-0.1,.96,-0.0,-0.0,0,.491,.499,,Traded
+2016,385,Kevin Siegrist*,/players/s/siegrke01.shtml,siegrke01,26,STL,9.0,11,0,3,3.00,4.28,0.11,-0.30,99.8,3.86,1,0.1,1.50,-0.0,0.2,2,.511,.501,,Amateur Draft
+2016,386,Alfredo Simon,/players/s/simonal01.shtml,simonal01,35,CIN,13.1,5,4,22,14.85,4.57,-0.11,0.15,99.1,4.79,-15,-1.2,.04,0.0,-1.0,-14,.267,.493,,Free Agency
+2016,387,Tony Sipp*,/players/s/sippto01.shtml,sippto01,32,HOU,9.0,12,0,5,5.00,4.27,0.27,-0.31,97.8,3.61,-2,-0.2,.79,-0.0,-0.1,-1,.484,.499,,Free Agency
+2016,388,Joe Smith,/players/s/smithjo05.shtml,smithjo05,32,LAA,13.0,13,0,6,4.15,4.24,0.18,-0.31,97.2,3.65,-1,-0.1,1.24,-0.1,-0.1,0,.489,.499,,Free Agency
+2016,389,Drew Smyly*,/players/s/smylydr01.shtml,smylydr01,27,TBR,34.2,5,5,11,2.86,4.64,0.17,0.18,99.0,4.60,5,0.7,,-0.1,0.9,10,.632,.504,,Traded
+2016,390,Blake Snell*,/players/s/snellbl01.shtml,snellbl01,23,TBR,5.0,1,1,1,1.80,4.52,0.18,0.18,100.0,4.52,1,0.2,,-0.0,0.2,2,.664,.501,,Amateur Draft
+2016,391,Sammy Solis*,/players/s/solissa01.shtml,solissa01,27,WSN,2.2,2,0,1,3.38,4.07,0.07,-0.29,102.4,3.79,0,0.0,1.35,-0.0,0.0,0,.510,.500,,Amateur Draft
+2016,392,Joakim Soria,/players/s/soriajo01.shtml,soriajo01,32,KCR,12.0,13,0,8,6.00,4.44,0.62,-0.32,97.8,3.42,-4,-0.4,1.11,-0.1,-0.4,-2,.467,.497,,Free Agency
+2016,393,Robert Stephenson,/players/s/stephro01.shtml,stephro01,23,CIN,12.0,2,2,5,3.75,3.70,-0.10,0.15,102.0,4.03,1,0.1,,-0.0,0.2,1,.537,.500,,Amateur Draft
+2016,394,Drew Storen,/players/s/storedr01.shtml,storedr01,28,TOR,8.0,10,0,9,10.13,4.26,0.29,-0.31,101.1,3.70,-6,-0.6,1.12,-0.1,-0.6,-5,.436,.496,,Traded
+2016,395,Dan Straily,/players/s/straida01.shtml,straida01,27,CIN,24.0,6,3,9,3.38,4.32,-0.07,0.01,99.4,4.37,3,0.4,.62,-0.1,0.5,5,.560,.502,,Waivers
+2016,396,Stephen Strasburg,/players/s/strasst01.shtml,strasst01,27,WSN,36.0,5,5,9,2.25,3.90,0.07,0.16,99.8,3.99,8,0.9,,-0.1,1.1,10,.684,.506,,Amateur Draft
+2016,397,Huston Street,/players/s/streehu01.shtml,streehu01,32,LAA,7.2,9,0,1,1.17,4.40,0.15,-0.32,91.6,3.60,2,0.2,1.72,0.0,0.3,3,.522,.501,,Traded
+2016,398,Hunter Strickland,/players/s/strichu01.shtml,strichu01,27,SFG,9.1,11,0,5,4.82,4.22,-0.12,-0.30,98.0,3.96,-1,-0.1,.87,-0.0,-0.0,-0,.494,.500,,Waivers
+2016,399,Ross Stripling,/players/s/stripro01.shtml,stripro01,26,LAD,27.0,5,5,14,4.67,4.30,0.36,0.18,89.9,3.70,-2,-0.2,,-0.1,-0.0,-0,.456,.499,,Amateur Draft
+2016,400,Marcus Stroman,/players/s/stromma01.shtml,stromma01,25,TOR,43.0,6,6,18,3.77,4.31,0.24,0.17,97.5,4.14,0,0.0,,-0.1,0.4,6,.502,.500,,Amateur Draft
+2016,401,Pedro Strop,/players/s/stroppe01.shtml,stroppe01,31,CHC,9.1,11,0,3,2.89,4.03,0.37,-0.29,101.2,3.42,1,0.1,1.14,-0.0,0.1,1,.508,.501,,Traded
+2016,402,Daniel Stumpf*,/players/s/stumpda01.shtml,stumpda01,25,PHI,0.2,3,0,3,40.50,6.90,-0.22,-0.49,96.4,6.39,-3,-0.2,1.34,-0.0,-0.3,-2,.419,.498,,Rule 5 Draft
+2016,403,Eric Surkamp*,/players/s/surkaer01.shtml,surkaer01,28,OAK,19.1,4,4,12,5.59,4.77,-0.46,0.19,96.0,5.21,-2,-0.2,,-0.0,-0.0,1,.458,.499,,Free Agency
+2016,404,Noah Syndergaard,/players/s/syndeno01.shtml,syndeno01,23,NYM,32.1,5,5,9,2.51,4.17,-0.59,0.17,94.2,4.65,9,1.0,,-0.1,1.2,11,.700,.506,,Traded
+2016,405,Masahiro Tanaka,/players/t/tanakma01.shtml,tanakma01,27,NYY,31.1,5,5,11,3.16,4.54,-0.65,0.18,102.3,5.49,7,0.9,,-0.1,1.1,11,.672,.505,,Free Agency
+2016,406,Junichi Tazawa,/players/t/tazawju01.shtml,tazawju01,30,BOS,9.2,11,0,1,0.93,4.46,0.24,-0.32,108.4,4.22,3,0.4,1.40,0.0,0.5,4,.533,.502,,Free Agency
+2016,407,Julio Teheran,/players/t/teherju01.shtml,teherju01,25,ATL,36.1,6,6,16,3.96,4.28,-0.77,0.18,96.5,5.05,5,0.6,,-0.1,0.8,8,.599,.504,,Amateur Free Agent
+2016,408,Ryan Tepera,/players/t/teperry01.shtml,teperry01,28,TOR,1.0,1,0,1,9.00,4.43,0.40,-0.32,98.0,3.64,-1,-0.1,.21,0.0,-0.0,-1,.433,.500,,Amateur Draft
+2016,409,Tyler Thornburg,/players/t/thornty01.shtml,thornty01,27,MIL,9.1,9,0,3,2.89,4.21,0.07,-0.30,103.0,3.96,1,0.1,1.24,-0.0,0.2,2,.516,.501,,Amateur Draft
+2016,410,Chris Tillman,/players/t/tillmch01.shtml,tillmch01,28,BAL,25.0,5,5,9,3.24,4.49,-0.44,0.18,104.1,5.32,5,0.6,,-0.0,0.8,8,.617,.504,,Traded
+2016,411,Shawn Tolleson,/players/t/tollesh01.shtml,tollesh01,28,TEX,9.0,11,0,6,6.00,4.71,0.57,-0.34,110.7,4.20,-2,-0.2,2.04,-0.2,-0.3,-1,.478,.499,,Waivers
+2016,412,Josh Tomlin,/players/t/tomlijo01.shtml,tomlijo01,31,CLE,17.0,3,3,7,3.71,4.38,-0.48,0.17,104.7,5.26,2,0.3,,-0.0,0.4,4,.591,.502,,Amateur Draft
+2016,413,Michael Tonkin,/players/t/tonkimi01.shtml,tonkimi01,26,MIN,12.0,10,0,2,1.50,4.20,-0.33,-0.31,105.3,4.45,3,0.4,1.16,-0.0,0.5,5,.540,.502,,Amateur Draft
+2016,414,Carlos Torres,/players/t/torreca01.shtml,torreca01,33,MIL,12.2,11,0,6,4.26,4.29,0.11,-0.30,100.8,3.90,-0,-0.0,.77,-0.1,0.0,1,.498,.500,,Free Agency
+2016,415,Blake Treinen,/players/t/treinbl01.shtml,treinbl01,28,WSN,10.0,11,0,4,3.60,3.93,0.07,-0.28,101.5,3.64,0,0.0,1.32,-0.0,0.1,1,.503,.500,,Traded
+2016,416,Andrew Triggs,/players/t/triggan01.shtml,triggan01,27,OAK,1.0,1,0,0,0.00,4.19,-0.24,-0.31,98.0,4.05,0,0.0,.04,-0.0,0.0,1,.548,.500,,Waivers
+2016,417,Nick Tropeano,/players/t/tropeni01.shtml,tropeni01,25,LAA,21.1,4,4,5,2.11,4.20,0.16,0.17,94.9,4.00,4,0.4,,-0.0,0.6,6,.610,.503,,Traded
+2016,418,Koji Uehara,/players/u/ueharko01.shtml,ueharko01,41,BOS,11.1,12,0,5,3.97,4.66,0.26,-0.34,107.1,4.34,0,0.0,1.69,-0.0,0.1,1,.500,.500,,Free Agency
+2016,419,Jose Urena,/players/u/urenajo01.shtml,urenajo01,24,MIA,6.1,4,0,5,7.11,4.51,-0.26,-0.32,97.1,4.32,-2,-0.2,1.80,-0.1,-0.2,-1,.455,.499,,Amateur Free Agent
+2016,420,Cesar Vargas,/players/v/vargace01.shtml,vargace01,24,SDP,10.1,2,2,1,0.87,4.45,0.25,0.18,88.0,3.85,4,0.4,,-0.0,0.5,4,.717,.503,,Free Agency
+2016,421,Vincent Velasquez,/players/v/velasvi01.shtml,velasvi01,24,PHI,31.1,5,5,8,2.30,4.37,-0.11,0.18,99.7,4.64,9,1.1,,-0.1,1.3,11,.711,.507,,Traded
+2016,422,Pat Venditte#,/players/v/vendipa01.shtml,vendipa01,31,TOR,3.2,5,0,3,7.36,4.35,0.30,-0.32,102.6,3.83,-2,-0.2,.72,0.0,-0.1,-1,.465,.499,,Waivers
+2016,423,Yordano Ventura,/players/v/ventuyo01.shtml,ventuyo01,25,KCR,27.0,5,5,11,3.67,4.25,0.56,0.17,100.7,3.89,-0,-0.0,,-0.0,0.2,3,.492,.500,,Amateur Free Agent
+2016,424,Drew VerHagen,/players/v/verhadr01.shtml,verhadr01,25,DET,11.0,12,0,9,7.36,4.19,-0.55,-0.31,98.2,4.36,-4,-0.4,.74,0.0,-0.3,-3,.463,.497,,Amateur Draft
+2016,425,Justin Verlander,/players/v/verlaju01.shtml,verlaju01,33,DET,29.2,5,5,18,5.46,4.16,-0.38,0.17,97.6,4.59,-4,-0.4,,-0.1,-0.2,-0,.416,.497,,Amateur Draft
+2016,426,Logan Verrett,/players/v/verrelo01.shtml,verrelo01,26,NYM,18.1,8,2,2,0.98,4.07,-0.70,0.01,92.7,4.43,8,0.8,.68,-0.1,0.9,9,.605,.505,,Rule 5 returned
+2016,427,Carlos Villanueva,/players/v/villaca01.shtml,villaca01,32,SDP,12.2,10,0,8,5.68,4.27,0.31,-0.30,98.4,3.60,-3,-0.3,1.31,-0.1,-0.2,-2,.474,.498,,Free Agency
+2016,428,Nick Vincent,/players/v/vinceni01.shtml,vinceni01,29,SEA,9.2,10,0,2,1.86,4.31,0.22,-0.31,97.6,3.68,2,0.2,1.16,-0.0,0.3,3,.518,.501,,Traded
+2016,429,Arodys Vizcaino,/players/v/vizcaar01.shtml,vizcaar01,25,ATL,9.1,10,0,2,1.93,4.28,-0.62,-0.30,98.0,4.51,3,0.3,1.11,-0.0,0.4,4,.531,.502,,Traded
+2016,430,Ryan Vogelsong,/players/v/vogelry01.shtml,vogelry01,38,PIT,13.0,6,1,6,4.15,4.02,0.09,-0.11,98.7,3.77,-0,-0.0,1.54,-0.1,0.0,1,.496,.500,,Free Agency
+2016,431,Edinson Volquez,/players/v/volqued01.shtml,volqued01,32,KCR,29.2,5,5,12,3.64,4.37,0.61,0.17,100.4,3.94,-0,-0.0,,-0.1,0.2,4,.496,.500,,Free Agency
+2016,432,Michael Wacha,/players/w/wachami01.shtml,wachami01,24,STL,29.1,5,5,13,3.99,4.20,0.16,0.17,99.0,4.17,1,0.1,,-0.1,0.3,3,.529,.501,,Amateur Draft
+2016,433,Tyler Wagner,/players/w/wagnety01.shtml,wagnety01,25,ARI,10.0,3,0,3,2.70,4.89,0.32,-0.35,100.0,4.22,2,0.2,1.75,0.0,0.3,3,.572,.501,,Traded
+2016,434,Adam Wainwright,/players/w/wainwad01.shtml,wainwad01,34,STL,27.2,5,5,22,7.16,4.17,0.19,0.17,97.2,4.03,-9,-0.8,,-0.1,-0.6,-7,.342,.495,,Traded
+2016,435,Taijuan Walker,/players/w/walketa01.shtml,walketa01,23,SEA,30.0,5,5,8,2.40,4.12,0.30,0.16,90.9,3.63,3,0.3,,-0.1,0.6,7,.569,.502,,Amateur Draft
+2016,436,Chien-Ming Wang,/players/w/wangch01.shtml,wangch01,36,KCR,7.1,6,0,3,3.68,4.30,0.61,-0.31,99.9,3.38,-1,-0.1,.08,0.0,0.0,0,.490,.500,,Free Agency
+2016,437,Adam Warren,/players/w/warread01.shtml,warread01,28,CHC,8.0,7,0,1,1.13,4.06,0.43,-0.29,101.0,3.37,2,0.2,1.10,-0.0,0.3,3,.534,.501,,Traded
+2016,438,Tony Watson*,/players/w/watsoto01.shtml,watsoto01,31,PIT,12.2,12,0,7,4.97,4.00,0.08,-0.28,104.6,3.80,-1,-0.1,1.26,-0.1,-0.1,-1,.489,.499,,Amateur Draft
+2016,439,Jered Weaver,/players/w/weaveje02.shtml,weaveje02,33,LAA,23.1,4,4,10,3.86,4.20,0.18,0.17,93.1,3.90,-1,-0.1,,-0.0,0.1,2,.478,.499,,Amateur Draft
+2016,440,Daniel Webb,/players/w/webbda01.shtml,webbda01,26,CHW,1.0,1,0,0,0.00,4.19,0.02,-0.31,104.0,4.02,0,0.0,.00,-0.0,0.0,1,.548,.500,,Traded
+2016,441,Ryan Webb,/players/w/webbry01.shtml,webbry01,30,TBR,7.0,8,0,4,5.14,4.76,0.22,-0.35,97.2,4.07,-1,-0.1,.38,0.0,-0.0,-0,.485,.499,,Free Agency
+2016,442,Ryan Weber,/players/w/weberry01.shtml,weberry01,25,ATL,7.2,3,0,9,10.57,4.53,-1.03,-0.32,94.0,4.92,-5,-0.4,.66,0.0,-0.3,-4,.360,.497,,Amateur Draft
+2016,443,Tom Wilhelmsen,/players/w/wilheto01.shtml,wilheto01,32,TEX,9.0,10,0,11,11.00,4.61,0.71,-0.34,102.8,3.67,-8,-0.8,.84,0.0,-0.7,-7,.420,.495,,Traded
+2016,444,Alex Wilson,/players/w/wilsoal01.shtml,wilsoal01,29,DET,8.0,7,0,0,0.00,4.03,-0.32,-0.29,101.3,4.11,3,0.4,.59,-0.1,0.4,4,.556,.502,,Traded
+2016,445,Justin Wilson*,/players/w/wilsoju10.shtml,wilsoju10,28,DET,11.0,12,0,0,0.00,4.16,-0.29,-0.30,99.5,4.13,5,0.5,1.18,0.0,0.7,6,.545,.503,,Traded
+2016,446,Tyler Wilson,/players/w/wilsoty01.shtml,wilsoty01,26,BAL,17.2,5,2,6,3.06,4.33,-0.56,-0.05,105.8,5.13,3,0.4,.67,-0.1,0.5,6,.580,.502,,Amateur Draft
+2016,447,Daniel Winkler,/players/w/winklda01.shtml,winklda01,26,ATL,2.1,3,0,0,0.00,4.22,-0.34,-0.30,94.0,4.00,1,0.1,2.19,0.1,0.2,1,.539,.501,,Rule 5 Draft
+2016,448,Matt Wisler,/players/w/wislema01.shtml,wislema01,23,ATL,25.1,5,4,13,4.62,4.27,-0.80,0.16,96.2,5.04,2,0.2,3.45,-0.0,0.4,3,.540,.501,,Traded
+2016,449,Chris Withrow,/players/w/withrch01.shtml,withrch01,27,ATL,7.0,10,0,3,3.86,4.30,-0.79,-0.30,97.0,4.64,1,0.1,1.01,-0.0,0.1,1,.508,.501,,Traded
+2016,450,Nick Wittgren,/players/w/wittgni01.shtml,wittgni01,25,MIA,2.0,2,0,1,4.50,5.68,-0.22,-0.41,92.4,5.08,0,0.0,.67,-0.0,0.0,0,.510,.500,,Amateur Draft
+2016,451,Alex Wood*,/players/w/woodal02.shtml,woodal02,25,LAD,28.0,5,5,18,5.79,4.16,0.38,0.17,99.5,3.93,-5,-0.5,,-0.1,-0.3,-3,.404,.497,,Traded
+2016,452,Blake Wood,/players/w/woodbl01.shtml,woodbl01,30,CIN,12.0,12,0,8,6.00,4.48,-0.09,-0.32,98.9,4.20,-2,-0.2,1.24,-0.1,-0.2,-1,.482,.499,,Free Agency
+2016,453,Travis Wood*,/players/w/woodtr01.shtml,woodtr01,29,CHC,6.1,11,0,2,2.84,4.30,0.51,-0.31,99.4,3.46,1,0.1,.93,-0.0,0.1,1,.506,.500,,Traded
+2016,454,Vance Worley,/players/w/worleva01.shtml,worleva01,28,BAL,17.2,6,2,8,4.08,4.26,-0.46,-0.02,106.2,4.99,1,0.1,1.28,-0.0,0.3,3,.521,.501,,Waivers
+2016,455,Mike Wright,/players/w/wrighmi01.shtml,wrighmi01,26,BAL,23.1,4,4,14,5.40,4.55,-0.50,0.18,106.4,5.56,-0,-0.1,,-0.0,0.1,2,.486,.500,,Amateur Draft
+2016,456,Steven Wright,/players/w/wrighst01.shtml,wrighst01,31,BOS,26.1,4,4,7,2.39,4.75,0.32,0.19,105.1,4.85,6,0.8,,-0.0,1.0,10,.695,.505,,Traded
+2016,457,Kirby Yates,/players/y/yateski01.shtml,yateski01,29,NYY,7.2,8,0,3,3.52,4.40,-0.54,-0.32,100.6,4.65,1,0.1,.51,-0.0,0.1,2,.509,.500,,Purchased
+2016,458,Chris Young,/players/y/youngch03.shtml,youngch03,37,KCR,25.0,5,5,17,6.12,4.46,0.59,0.18,99.3,4.01,-7,-0.7,,-0.0,-0.5,-4,.365,.496,,Free Agency
+2016,459,Brad Ziegler,/players/z/zieglbr01.shtml,zieglbr01,36,ARI,11.1,11,0,4,3.18,4.47,0.34,-0.32,99.9,3.81,1,0.1,1.83,-0.0,0.2,2,.511,.501,,Traded
+2016,460,Jordan Zimmermann,/players/z/zimmejo02.shtml,zimmejo02,30,DET,33.0,5,5,4,1.09,4.25,-0.42,0.17,100.4,4.86,13,1.6,,-0.1,1.9,17,.830,.510,,Free Agency
+2016,461,Tony Zych,/players/z/zychto01.shtml,zychto01,25,SEA,12.0,10,0,5,3.75,4.14,0.18,-0.30,95.6,3.50,-1,-0.1,.53,-0.0,0.0,1,.491,.499,,Purchased
