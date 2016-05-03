@@ -404,7 +404,7 @@
 2009,404,Craig Gentry,/players/g/gentrcr01.shtml,gentrcr01,25,TEX,1st,11,4,11,9,0,0,0,0,0,0,0,7,2,9,1,0,3
 2009,405,Esteban German,/players/g/germaes01.shtml,germaes01,31,TEX,8,19,11,19,18,0,0,1,6,10,0,1,0,0,1,0,3,1
 2009,406,Jody Gerut,/players/g/gerutjo01.shtml,gerutjo01,31,2TM,5,122,51,122,79,0,0,0,0,0,0,3,42,37,82,0,59,1
-2009,407,Samuel Gervacio,/players/g/gervasa01.shtml,gervasa01,24,HOU,1st,29,0,29,29,29,0,0,0,0,0,0,0,0,0,0,0,0
+2009,407,Sammy Gervacio,/players/g/gervasa01.shtml,gervasa01,24,HOU,1st,29,0,29,29,29,0,0,0,0,0,0,0,0,0,0,0,0
 2009,408,Chris Getz,/players/g/getzch01.shtml,getzch01,25,CHW,2,107,100,107,106,0,0,0,106,0,0,0,0,0,0,0,2,2
 2009,409,Jason Giambi,/players/g/giambja01.shtml,giambja01,38,2TM,15,102,84,102,63,0,0,63,0,0,0,0,0,0,0,22,18,0
 2009,410,Dan Giese,/players/g/gieseda01.shtml,gieseda01,32,OAK,3,7,1,0,7,7,0,0,0,0,0,0,0,0,0,0,0,0
@@ -421,8 +421,8 @@
 2009,421,Alex Gonzalez,/players/g/gonzaal02.shtml,gonzaal02,32,2TM,11,112,110,112,112,0,0,0,0,0,112,0,0,0,0,0,0,0
 2009,422,Andy Gonzalez,/players/g/gonzaan01.shtml,gonzaan01,27,FLA,3,14,2,14,6,0,0,0,0,2,4,0,0,0,0,0,8,1
 2009,423,Carlos Gonzalez,/players/g/gonzaca01.shtml,gonzaca01,23,COL,2,89,70,89,80,0,0,0,0,0,0,47,43,8,98,0,10,2
-2009,424,Edgar Gonzalez,/players/g/gonzaed01.shtml,gonzaed01,26,OAK,7,26,6,3,26,26,0,0,0,0,0,0,0,0,0,0,0,0
-2009,425,Edgar Gonzalez,/players/g/gonzaed02.shtml,gonzaed02,31,SDP,2,82,29,82,35,0,0,2,15,5,0,1,0,14,15,1,47,0
+2009,424,Edgar Gonzalez,/players/g/gonzaed02.shtml,gonzaed02,31,SDP,2,82,29,82,35,0,0,2,15,5,0,1,0,14,15,1,47,0
+2009,425,Edgar Gonzalez,/players/g/gonzaed01.shtml,gonzaed01,26,OAK,7,26,6,3,26,26,0,0,0,0,0,0,0,0,0,0,0,0
 2009,426,Enrique Gonzalez,/players/g/gonzaen01.shtml,gonzaen01,26,BOS,4,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
 2009,427,Gio Gonzalez,/players/g/gonzagi01.shtml,gonzagi01,23,OAK,2,20,17,0,20,20,0,0,0,0,0,0,0,0,0,0,0,0
 2009,428,Mike Gonzalez,/players/g/gonzami02.shtml,gonzami02,31,ATL,7,80,0,77,80,80,0,0,0,0,0,0,0,0,0,0,0,0
@@ -655,7 +655,7 @@
 2009,655,Scott Linebrink,/players/l/linebsc01.shtml,linebsc01,32,CHW,10,57,0,5,57,57,0,0,0,0,0,0,0,0,0,0,0,0
 2009,656,Francisco Liriano,/players/l/liriafr01.shtml,liriafr01,25,MIN,4,29,24,2,29,29,0,0,0,0,0,0,0,0,0,0,0,0
 2009,657,Jesse Litsch,/players/l/litscje01.shtml,litscje01,24,TOR,3,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
-2009,658,Radhames Liz,/players/l/lizra01.shtml,lizra01,26,BAL,3,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+2009,658,Radhames Liz,/players/l/lizra01.shtml,lizra01,25,BAL,3,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
 2009,659,Jose Lobaton,/players/l/lobatjo01.shtml,lobatjo01,24,SDP,1st,7,5,7,7,0,6,0,1,0,0,0,0,0,0,0,0,0
 2009,660,Boone Logan,/players/l/loganbo02.shtml,loganbo02,24,ATL,4,20,0,20,20,20,0,0,0,0,0,0,0,0,0,0,0,0
 2009,661,Kyle Lohse,/players/l/lohseky01.shtml,lohseky01,30,STL,9,23,22,23,23,23,0,0,0,0,0,0,0,0,0,0,0,0
@@ -1249,8 +1249,8 @@
 2009,1249,Yasuhiko Yabuta,/players/y/yabutya01.shtml,yabutya01,36,KCR,2,12,0,0,12,12,0,0,0,0,0,0,0,0,0,0,0,0
 2009,1250,Tyler Yates,/players/y/yatesty01.shtml,yatesty01,31,PIT,5,15,0,15,15,15,0,0,0,0,0,0,0,0,0,0,0,0
 2009,1251,Kevin Youkilis,/players/y/youklke01.shtml,youklke01,30,BOS,6,136,135,136,135,0,0,78,0,63,0,2,0,0,2,0,1,0
-2009,1252,Chris Young,/players/y/youngch04.shtml,youngch04,25,ARI,4,134,117,134,124,0,0,0,0,0,0,0,124,0,124,0,13,0
-2009,1253,Chris Young,/players/y/youngch03.shtml,youngch03,30,SDP,6,14,14,13,14,14,0,0,0,0,0,0,0,0,0,0,0,0
+2009,1252,Chris Young,/players/y/youngch03.shtml,youngch03,30,SDP,6,14,14,13,14,14,0,0,0,0,0,0,0,0,0,0,0,0
+2009,1253,Chris Young,/players/y/youngch04.shtml,youngch04,25,ARI,4,134,117,134,124,0,0,0,0,0,0,0,124,0,124,0,13,0
 2009,1254,Delmon Young,/players/y/youngde03.shtml,youngde03,23,MIN,4,108,101,108,98,0,0,0,0,0,0,98,0,0,98,8,1,2
 2009,1255,Delwyn Young,/players/y/youngde04.shtml,youngde04,27,PIT,4,124,81,124,83,0,0,0,53,0,0,4,0,26,30,0,42,0
 2009,1256,Eric Young,/players/y/younger03.shtml,younger03,24,COL,1st,30,10,30,11,0,0,0,6,0,0,0,5,0,5,0,17,2

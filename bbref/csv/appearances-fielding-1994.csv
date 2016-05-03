@@ -19,7 +19,7 @@
 1994,19,Luis Aquino,/players/a/aquinlu01.shtml,aquinlu01,30,FLA,8,29,1,29,29,29,0,0,0,0,0,0,0,0,0,0,0,0
 1994,20,Alex Arias,/players/a/ariasal01.shtml,ariasal01,26,FLA,3,59,22,59,31,0,0,0,0,15,20,0,0,0,0,0,31,1
 1994,21,Jack Armstrong,/players/a/armstja01.shtml,armstja01,29,TEX,7,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
-1994,22,Rene Arocha,/players/a/arochre01.shtml,arochre01,28,STL,2,45,7,45,45,45,0,0,0,0,0,0,0,0,0,0,0,0
+1994,22,Rene Arocha,/players/a/arochre01.shtml,arochre01,30,STL,2,45,7,45,45,45,0,0,0,0,0,0,0,0,0,0,0,0
 1994,23,Andy Ashby,/players/a/ashbyan01.shtml,ashbyan01,26,SDP,4,24,24,24,24,24,0,0,0,0,0,0,0,0,0,0,0,0
 1994,24,Billy Ashley,/players/a/ashlebi01.shtml,ashlebi01,23,LAD,3,2,2,2,2,0,0,0,0,0,0,2,0,0,2,0,0,0
 1994,25,Paul Assenmacher,/players/a/assenpa01.shtml,assenpa01,33,CHW,9,44,0,0,44,44,0,0,0,0,0,0,0,0,0,0,0,0
@@ -402,8 +402,8 @@
 1994,402,John Hope,/players/h/hopejo01.shtml,hopejo01,23,PIT,2,9,0,9,9,9,0,0,0,0,0,0,0,0,0,0,0,0
 1994,403,Vince Horsman,/players/h/horsmvi01.shtml,horsmvi01,27,OAK,4,33,0,0,33,33,0,0,0,0,0,0,0,0,0,0,0,0
 1994,404,Charlie Hough,/players/h/houghch01.shtml,houghch01,46,FLA,25,21,21,21,21,21,0,0,0,0,0,0,0,0,0,0,0,0
-1994,405,Chris Howard,/players/h/howarch01.shtml,howarch01,28,SEA,3,9,7,9,9,0,9,0,0,0,0,0,0,0,0,0,0,0
-1994,406,Chris Howard,/players/h/howarch02.shtml,howarch02,28,BOS,2,37,0,0,37,37,0,0,0,0,0,0,0,0,0,0,0,0
+1994,405,Chris Howard,/players/h/howarch02.shtml,howarch02,28,BOS,2,37,0,0,37,37,0,0,0,0,0,0,0,0,0,0,0,0
+1994,406,Chris Howard,/players/h/howarch01.shtml,howarch01,28,SEA,3,9,7,9,9,0,9,0,0,0,0,0,0,0,0,0,0,0
 1994,407,David Howard,/players/h/howarda02.shtml,howarda02,27,KCR,4,46,23,46,43,1,0,0,3,25,15,1,0,0,1,2,3,2
 1994,408,Thomas Howard,/players/h/howarth01.shtml,howarth01,29,CIN,5,83,32,83,57,0,0,0,0,0,0,41,7,12,60,0,36,1
 1994,409,Steve Howe,/players/h/howest01.shtml,howest01,36,NYY,10,40,0,0,40,40,0,0,0,0,0,0,0,0,0,0,0,0
@@ -417,8 +417,8 @@
 1994,417,Tim Hulett,/players/h/huletti01.shtml,huletti01,34,BAL,11,36,25,36,36,0,0,0,23,9,6,0,0,0,0,0,2,1
 1994,418,David Hulse,/players/h/hulseda01.shtml,hulseda01,26,TEX,3,77,72,77,76,0,0,0,0,0,0,0,76,0,76,1,0,2
 1994,419,Todd Hundley,/players/h/hundlto01.shtml,hundlto01,25,NYM,5,91,72,91,82,0,82,0,0,0,0,0,0,0,0,0,15,0
-1994,420,Brian Hunter,/players/h/huntebr01.shtml,huntebr01,26,2TM,4,85,63,85,69,0,0,60,0,0,0,6,0,4,10,0,18,0
-1994,421,Brian Hunter,/players/h/huntebr02.shtml,huntebr02,23,HOU,1st,6,6,6,6,0,0,0,0,0,0,0,6,0,6,0,0,0
+1994,420,Brian Hunter,/players/h/huntebr02.shtml,huntebr02,23,HOU,1st,6,6,6,6,0,0,0,0,0,0,0,6,0,6,0,0,0
+1994,421,Brian Hunter,/players/h/huntebr01.shtml,huntebr01,26,2TM,4,85,63,85,69,0,0,60,0,0,0,6,0,4,10,0,18,0
 1994,422,Bruce Hurst,/players/h/hurstbr01.shtml,hurstbr01,36,TEX,15,8,8,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0
 1994,423,James Hurst,/players/h/hurstja01.shtml,hurstja01,27,TEX,1st,8,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0
 1994,424,Jonathan Hurst,/players/h/hurstjo01.shtml,hurstjo01,27,NYM,2,7,0,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0
@@ -551,8 +551,8 @@
 1994,551,Dennis Martinez,/players/m/martide01.shtml,martide01,40,CLE,19,24,24,0,24,24,0,0,0,0,0,0,0,0,0,0,0,0
 1994,552,Edgar Martinez,/players/m/martied01.shtml,martied01,31,SEA,8,89,88,89,64,0,0,0,0,64,0,0,0,0,0,23,0,1
 1994,553,Jose Martinez,/players/m/martijo06.shtml,martijo06,23,SDP,1st,4,1,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0
-1994,554,Pedro Martinez,/players/m/martipe03.shtml,martipe03,25,SDP,2,48,1,48,48,48,0,0,0,0,0,0,0,0,0,0,0,1
-1994,555,Pedro Martinez,/players/m/martipe02.shtml,martipe02,22,MON,3,24,23,24,24,24,0,0,0,0,0,0,0,0,0,0,0,0
+1994,554,Pedro Martinez,/players/m/martipe02.shtml,martipe02,22,MON,3,24,23,24,24,24,0,0,0,0,0,0,0,0,0,0,0,0
+1994,555,Pedro Martinez,/players/m/martipe03.shtml,martipe03,25,SDP,2,48,1,48,48,48,0,0,0,0,0,0,0,0,0,0,0,1
 1994,556,Ramon Martinez,/players/m/martira02.shtml,martira02,26,LAD,7,24,24,24,24,24,0,0,0,0,0,0,0,0,0,0,0,0
 1994,557,Tino Martinez,/players/m/martiti02.shtml,martiti02,26,SEA,5,97,89,97,82,0,0,82,0,0,0,0,0,0,0,8,8,0
 1994,558,Roger Mason,/players/m/masonro01.shtml,masonro01,36,2TM,9,47,0,47,47,47,0,0,0,0,0,0,0,0,0,0,0,0

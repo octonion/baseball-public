@@ -30,7 +30,7 @@
 1997,30,Kevin Appier,/players/a/appieke01.shtml,appieke01,29,KCR,9,34,34,3,34,34,0,0,0,0,0,0,0,0,0,0,0,0
 1997,31,Alex Arias,/players/a/ariasal01.shtml,ariasal01,29,FLA,6,74,16,74,48,0,0,0,0,37,11,0,0,0,0,0,31,0
 1997,32,George Arias,/players/a/ariasge01.shtml,ariasge01,25,2TM,2,14,4,14,9,0,0,0,0,9,0,0,0,0,0,1,5,1
-1997,33,Rene Arocha,/players/a/arochre01.shtml,arochre01,31,SFG,4,6,0,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0
+1997,33,Rene Arocha,/players/a/arochre01.shtml,arochre01,33,SFG,4,6,0,6,6,6,0,0,0,0,0,0,0,0,0,0,0,0
 1997,34,Andy Ashby,/players/a/ashbyan01.shtml,ashbyan01,29,SDP,7,31,30,29,30,30,0,0,0,0,0,0,0,0,0,0,0,1
 1997,35,Billy Ashley,/players/a/ashlebi01.shtml,ashlebi01,26,LAD,6,71,31,71,35,0,0,0,0,0,0,35,0,0,35,0,37,0
 1997,36,Paul Assenmacher,/players/a/assenpa01.shtml,assenpa01,36,CLE,12,75,0,4,75,75,0,0,0,0,0,0,0,0,0,0,0,0
@@ -132,8 +132,8 @@
 1997,132,Adrian Brown,/players/b/brownad01.shtml,brownad01,23,PIT,1st,48,36,48,38,0,0,0,0,0,0,0,35,3,38,0,4,6
 1997,133,Brant Brown,/players/b/brownbr01.shtml,brownbr01,26,CHC,2,46,37,46,38,0,0,12,0,0,0,27,0,0,27,0,7,2
 1997,134,Emil Brown,/players/b/brownem01.shtml,brownem01,22,PIT,1st,66,18,66,42,0,0,0,0,0,0,30,8,4,42,0,25,12
-1997,135,Kevin Brown,/players/b/brownke04.shtml,brownke04,24,TEX,2,4,1,4,4,0,4,0,0,0,0,0,0,0,0,0,1,0
-1997,136,Kevin Brown,/players/b/brownke01.shtml,brownke01,32,FLA,11,33,33,31,33,33,0,0,0,0,0,0,0,0,0,0,0,0
+1997,135,Kevin Brown,/players/b/brownke01.shtml,brownke01,32,FLA,11,33,33,31,33,33,0,0,0,0,0,0,0,0,0,0,0,0
+1997,136,Kevin Brown,/players/b/brownke04.shtml,brownke04,24,TEX,2,4,1,4,4,0,4,0,0,0,0,0,0,0,0,0,1,0
 1997,137,Jacob Brumfield,/players/b/brumfja01.shtml,brumfja01,32,TOR,6,58,37,58,47,0,0,0,0,0,0,14,24,10,48,4,9,3
 1997,138,Jim Bruske,/players/b/bruskji01.shtml,bruskji01,32,SDP,3,29,0,26,28,28,0,0,0,0,0,0,0,0,0,0,1,0
 1997,139,Damon Buford,/players/b/buforda01.shtml,buforda01,27,TEX,5,122,102,122,117,0,0,0,0,0,0,0,117,0,117,3,4,9
@@ -247,9 +247,9 @@
 1997,247,Mark Davis,/players/d/davisma01.shtml,davisma01,36,MIL,15,19,0,0,19,19,0,0,0,0,0,0,0,0,0,0,0,0
 1997,248,Russ Davis,/players/d/davisru01.shtml,davisru01,27,SEA,4,119,113,119,117,0,0,0,0,117,0,0,0,0,0,1,3,1
 1997,249,Tim Davis,/players/d/davisti01.shtml,davisti01,26,SEA,4,2,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
-1997,250,Rick DeHart,/players/d/deharri01.shtml,deharri01,27,MON,1st,23,0,23,23,23,0,0,0,0,0,0,0,0,0,0,0,0
-1997,251,Mike DeJean,/players/d/dejeami01.shtml,dejeami01,26,COL,1st,55,0,51,55,55,0,0,0,0,0,0,0,0,0,0,0,0
-1997,252,Roland DeLaMaza,/players/d/delamro01.shtml,delamro01,25,KCR,1st,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1997,250,Roland de la Maza,/players/d/delamro01.shtml,delamro01,25,KCR,1st,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1997,251,Rick DeHart,/players/d/deharri01.shtml,deharri01,27,MON,1st,23,0,23,23,23,0,0,0,0,0,0,0,0,0,0,0,0
+1997,252,Mike DeJean,/players/d/dejeami01.shtml,dejeami01,26,COL,1st,55,0,51,55,55,0,0,0,0,0,0,0,0,0,0,0,0
 1997,253,Carlos Delgado,/players/d/delgaca01.shtml,delgaca01,25,TOR,5,153,137,153,119,0,0,119,0,0,0,0,0,0,0,33,15,1
 1997,254,Wilson Delgado,/players/d/delgawi01.shtml,delgawi01,24,SFG,2,8,0,8,4,0,0,0,3,0,1,0,0,0,0,0,4,1
 1997,255,David Dellucci,/players/d/delluda01.shtml,delluda01,23,BAL,1st,17,6,17,9,0,0,0,0,0,0,3,0,6,9,5,4,5
