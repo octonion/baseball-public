@@ -23,8 +23,8 @@ base = "http://www.baseball-reference.com/leagues/MLB"
 table_xpath = '//table[@class="sortable  stats_table" and not(@data-freeze)]/tbody/tr'
 #table_xpath = "/html/body/div/div[4]/div[5]/div[2]/div[2]/table/tbody/tr"
 
-first_year = 2015
-last_year = 2015
+first_year = ARGV[0]
+last_year = ARGV[1]
 
 reports.each do |report|
 
