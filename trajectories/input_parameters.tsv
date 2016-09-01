@@ -1,0 +1,14 @@
+parameter	value
+mass (oz)	5.125
+circumference (inches)	9.125
+x0 (ft)	0
+y0 (ft)	2.000
+z0 (ft)	3
+exit speed (mph)	100
+launch angle (deg)	30
+direction (deg)	0
+backspin (rpm)	2327
+sidespin (rpm)	0
+wg (rpm)	0
+tau (sec)	25
+dt (sec)	0.01
