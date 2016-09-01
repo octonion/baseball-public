@@ -1,0 +1,22 @@
+parameter	value
+rho (lb/ft^3)	0.0736
+rho (kg/m^3)	1.175
+const	5.283E-03
+c0	5.283E-03
+beta	0.0001217
+v0	146.7
+v0x	0.0
+v0y	127.0
+v0z	73.4
+wx	243.7
+wy	0.0
+wz	0.0
+omega	243.7
+romega	8.1
+T (deg C)	25.6
+elev (m)	0.0
+vxw (ft/s)	0.0
+vyw (ft/s)	0.0
+SVP (mm Hg)	24.6
+barometeric pressure (mm Hg)	760.0
+Re-100	2.078E+05
