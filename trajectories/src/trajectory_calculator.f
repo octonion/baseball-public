@@ -1,7 +1,15 @@
+c       Original version by Alan Nathan
+c	Modifcations by Chris Long
+	
 	parameter(noptmax=7)
-	parameter(pi=3.1415926,twopi=2.*pi,rad=pi/180,ftm=12./39.37,mtf=1/ftm,rpm=60./twopi)
+c	parameter(pi=3.1415926,twopi=2.*pi,rad=pi/180,ftm=12./39.37,mtf=1/ftm,rpm=60./twopi)
+	parameter(pi=3.1415926)
+	parameter(twopi=2.*pi)
+	parameter(rad=pi/180,ftm=12./39.37,mtf=1/ftm,rpm=60./twopi)
 	parameter(ndmax=200)
-	common/data/rhodata(ndmax),vdata(ndmax),thetadata(ndmax),vwind(ndmax)
+	
+	real, dimension(1:ndmax)::rhodata,vdata,thetadata,vwind
+	common/data/ rhodata,vdata,thetadata,vwind
 	common/flag/iflag	
 	parameter(const0=5.283e-3,rho0=1.175)
 	common/spin/ctht,stht,cphi,sphi
@@ -58,7 +66,9 @@ c
 c
 c
 c
-	open(unit=21,file='TrajectoryCalculatorOutput.csv',status='unknown')		!output file
+c	open(unit=21,file='TrajectoryCalculatorOutput.csv',status='unknown')		!output file
+c	Default status should be unknown
+	open(unit=21,file='TrajectoryCalculatorOutput.csv') !output file
 
 100	print*
 	print*,' OPTIONS:'
@@ -227,7 +237,9 @@ c
 
 	dimension x(8),dxdt(8)
 	real drag,lift
-	parameter(pi=3.1415926,twopi=2.*pi,rad=pi/180,ftm=12./39.37,rpm=60./twopi)
+	parameter(pi=3.1415926)
+	parameter(twopi=2.*pi)
+	parameter(rad=pi/180,ftm=12./39.37,rpm=60./twopi)
 *
 *		1,2,4 ==> x,y,z
 *		4,5,6 ==> vx,vy,vz
