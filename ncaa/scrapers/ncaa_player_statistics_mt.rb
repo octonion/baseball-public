@@ -27,12 +27,12 @@ end
 n = schools.size
 gpt = (n.to_f/nthreads.to_f).ceil
 
-first_year = 2015
-last_year = 2015
+first_year = 2016
+last_year = 2016
 
 (first_year..last_year).each do |year|
 
-  ncaa_player_statistics = CSV.open("csv/ncaa_player_statistics_mt_#{year}.csv","w", {:col_sep => "|"})
+  ncaa_player_statistics = CSV.open("csv/ncaa_player_statistics_mt_#{year}.csv","w", {:col_sep => "\t"})
 
   header = ["team_name", "team_id", "year", "player_name", "player_id",
             "class_year", "season_year", "position",
