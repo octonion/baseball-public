@@ -25,7 +25,7 @@ history = CSV.open("csv/ncaa_history.csv","w")
 team_count = 0
 season_count = 0
 
-year = 2016
+year = 2017
 
 schools.each do |school|
   school_id = school[0]

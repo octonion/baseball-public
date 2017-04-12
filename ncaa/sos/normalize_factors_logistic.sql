@@ -8,7 +8,7 @@ create temporary table years (
 insert into years
 (first_year,last_year)
 values
-(2002,2015);
+(2002,2017);
 
 drop table if exists ncaa._factors_logistic;
 

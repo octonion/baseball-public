@@ -40,14 +40,14 @@ join ncaa._factors h
   on (h.parameter,h.level::integer)=('h_div',length(t.division)::integer)
 join ncaa._factors p
   on (p.parameter,p.level::integer)=('p_div',length(t.division)::integer)
-where sf.year in (2015)
+where sf.year in (2017)
 order by str desc);
 
 select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 and div_id=1
 order by rk asc;
 
@@ -55,7 +55,7 @@ select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 and div_id=2
 order by rk asc;
 
@@ -63,7 +63,7 @@ select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 and div_id=3
 order by rk asc;
 
@@ -72,30 +72,30 @@ select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 and div_id=1
 order by rk asc)
-to '/tmp/2015_d1.csv' csv header;
+to '/tmp/2017_d1.csv' csv header;
 
 copy (
 select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 and div_id=2
 order by rk asc)
-to '/tmp/2015_d2.csv' csv header;
+to '/tmp/2017_d2.csv' csv header;
 
 copy (
 select
 rank() over (order by str desc) as rk,
 school,div_id as div,str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 and div_id=3
 order by rk asc)
-to '/tmp/2015_d3.csv' csv header;
+to '/tmp/2017_d3.csv' csv header;
 
 copy (
 select
@@ -104,7 +104,7 @@ school,
 'D'||div_id::text as div,
 str,park,ofs,dfs,sos
 from r
-where year in (2015)
+where year in (2017)
 order by rk asc)
 to '/tmp/current_ranking.csv' csv header;
 

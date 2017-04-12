@@ -22,7 +22,7 @@ psql baseball -c "vacuum full verbose analyze ncaa._schedule_factors;"
 
 psql baseball -f sos/current_ranking.sql > sos/current_ranking.txt
 cp /tmp/current_ranking.csv sos
-cp /tmp/2015_d?.csv sos
+cp /tmp/2017_d?.csv sos
 
 psql baseball -f sos/division_ranking.sql > sos/division_ranking.txt
 

@@ -94,7 +94,7 @@ r.game_date,
 r.year,
 r.field
 from ncaa.results r
-where r.year between 2009 and 2015
+where r.year between 2009 and 2017
 );
 
 update public.r
