@@ -31,3 +31,11 @@ rm /tmp/ncaa_schools.csv
 cp csv/ncaa_divisions.csv /tmp/ncaa_divisions.csv
 psql baseball -f loaders/load_ncaa_divisions.sql
 rm /tmp/ncaa_divisions.csv
+
+cp csv/conferences.tsv /tmp/conferences.tsv
+psql baseball -f loaders/load_conferences.sql
+rm /tmp/conferences.tsv
+
+cp csv/conferences_teams.tsv /tmp/conferences_teams.tsv
+psql baseball -f loaders/load_conferences_teams.sql
+rm /tmp/conferences_teams.tsv

@@ -1,0 +1,113 @@
+ year |  conference_key  | n  |  str  
+------+------------------+----+-------
+ 2017 | Southeastern     | 12 | 1.628
+ 2017 | Pac-12           |  7 | 1.547
+ 2017 | Big 12           |  6 | 1.519
+ 2017 | Atlantic Coast   | 11 | 1.492
+ 2017 | Conference USA   |  9 | 1.366
+ 2017 | Big West         |  5 | 1.326
+ 2017 | AAC              |  5 | 1.324
+ 2017 | Big East         |  5 | 1.170
+ 2017 | Big Ten          | 13 | 1.158
+ 2017 | Southland        | 13 | 1.158
+ 2017 | Sun Belt         |  9 | 1.125
+ 2017 | Mountain West    |  6 | 1.107
+ 2017 | West Coast       | 10 | 1.077
+ 2017 | Southern         |  4 | 1.069
+ 2017 | Missouri Valley  |  7 | 1.043
+ 2017 | ASUN             |  7 | 1.003
+ 2017 | Ivy League       |  7 | 0.983
+ 2017 | Horizon          |  4 | 0.955
+ 2017 | OVC              |  9 | 0.922
+ 2017 | Mid-American     |  9 | 0.920
+ 2017 | Colonial         |  6 | 0.915
+ 2017 | America East     |  5 | 0.913
+ 2017 | Big South        |  8 | 0.909
+ 2017 | Atlantic 10      | 12 | 0.849
+ 2017 | Western Athletic |  7 | 0.832
+ 2017 | Metro Atlantic   | 11 | 0.777
+ 2017 | Patriot          |  6 | 0.726
+ 2017 | Summit League    |  5 | 0.720
+ 2017 | Mid-Eastern      |  8 | 0.653
+ 2017 | Northeast        |  6 | 0.630
+ 2017 | Southwestern     |  9 | 0.490
+ 2017 | Independent      |  1 | 0.354
+(32 rows)
+
+ year |    conference_key    | n  |  str  
+------+----------------------+----+-------
+ 2017 | Sunshine State       | 10 | 1.557
+ 2017 | Peach Belt           | 11 | 1.491
+ 2017 | Lone Star            |  4 | 1.425
+ 2017 | MIAA                 | 12 | 1.233
+ 2017 | Gulf South           |  7 | 1.208
+ 2017 | Pacific West         | 10 | 1.155
+ 2017 | CCAA                 | 11 | 1.152
+ 2017 | GLVC                 | 12 | 1.134
+ 2017 | Conference Carolinas | 10 | 1.132
+ 2017 | Heartland            |  8 | 1.105
+ 2017 | South Atlantic       |  9 | 1.090
+ 2017 | PSAC                 | 15 | 1.058
+ 2017 | GLIAC                |  8 | 0.986
+ 2017 | RMAC                 |  8 | 0.978
+ 2017 | ECC                  |  6 | 0.969
+ 2017 | Northeast-10         | 15 | 0.936
+ 2017 | GAC                  | 12 | 0.893
+ 2017 | G-MAC                |  6 | 0.875
+ 2017 | Northern Sun         | 12 | 0.869
+ 2017 | Great Northwest      |  5 | 0.866
+ 2017 | MEC                  |  6 | 0.749
+ 2017 | CACC                 | 10 | 0.748
+ 2017 | Independent          |  5 | 0.635
+ 2017 | CIAA                 |  3 | 0.489
+ 2017 | SIAC                 | 11 | 0.472
+(25 rows)
+
+ year |    conference_key     | n  |  str  
+------+-----------------------+----+-------
+ 2017 | SAA                   |  8 | 1.497
+ 2017 | Minn. Intercol.       | 11 | 1.364
+ 2017 | CCIW                  |  7 | 1.342
+ 2017 | Little East           |  5 | 1.341
+ 2017 | NJAC                  |  9 | 1.332
+ 2017 | SCIAC                 |  8 | 1.330
+ 2017 | Ohio AC               |  9 | 1.312
+ 2017 | USA South             | 10 | 1.278
+ 2017 | UAA                   |  5 | 1.251
+ 2017 | ODAC                  |  9 | 1.239
+ 2017 | North Coast           |  7 | 1.220
+ 2017 | SUNYAC                |  7 | 1.217
+ 2017 | MAC Commonwealth      |  7 | 1.209
+ 2017 | Northwest             |  6 | 1.192
+ 2017 | Landmark              |  7 | 1.163
+ 2017 | CCC                   |  7 | 1.156
+ 2017 | NESCAC                |  6 | 1.141
+ 2017 | Michigan Intercol.    |  7 | 1.133
+ 2017 | IIAC                  |  7 | 1.130
+ 2017 | CAC                   |  8 | 1.125
+ 2017 | Centennial            |  8 | 1.103
+ 2017 | American Southwest    | 10 | 1.092
+ 2017 | Northern Athletics    | 10 | 1.086
+ 2017 | Empire 8              |  6 | 1.055
+ 2017 | SCAC                  |  5 | 1.015
+ 2017 | HCAC                  |  9 | 1.013
+ 2017 | NEWMAC                |  6 | 0.994
+ 2017 | CSAC                  |  8 | 0.943
+ 2017 | MAC Freedom           |  7 | 0.934
+ 2017 | Liberty League        |  7 | 0.889
+ 2017 | North Atlantic        |  6 | 0.832
+ 2017 | Midwest Conference    | 10 | 0.824
+ 2017 | MASCAC                |  6 | 0.813
+ 2017 | SLIAC                 |  8 | 0.806
+ 2017 | NECC                  |  7 | 0.730
+ 2017 | Skyline               |  9 | 0.719
+ 2017 | Great Northeast       |  8 | 0.705
+ 2017 | UMAC                  |  8 | 0.662
+ 2017 | Allegheny Mountain CC |  9 | 0.658
+ 2017 | Presidents` AC        |  4 | 0.636
+ 2017 | CUNYAC                |  5 | 0.628
+ 2017 | Independent           |  3 | 0.578
+ 2017 | NEAC                  |  8 | 0.563
+ 2017 | DIII Independent      |  5 | 0.433
+(44 rows)
+
