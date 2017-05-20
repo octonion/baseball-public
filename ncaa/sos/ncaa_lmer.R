@@ -110,7 +110,12 @@ dim(g)
 #fit0 <- lmer(model0, data=g, REML=FALSE, verbose=TRUE)
 
 model <- log_rs ~ year+field+h_div+p_div+(1|park)+(1|offense)+(1|defense)+(1|game_id)
-fit <- lmer(model, data=g, REML=FALSE, verbose=TRUE)
+fit <- lmer(model,
+             data=g,
+	     verbose=TRUE,
+	     #family=poisson(link=log),
+	     nAGQ=0,
+	     control=lmerControl(optimizer = "nloptwrap"))
 
 fit
 summary(fit)

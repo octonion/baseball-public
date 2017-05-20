@@ -1,89 +1,89 @@
-[1] 1276678       9
+[1] 1281798       9
 [1] TRUE
-[1] 1276678       8
-start par. =  1.339892 0.662227 0.5896695 0.2672305 fn =  2774212 
-At return
-eval:  78 fn:      2525488.5 par: 0.349404 0.471324 0.430016 0.158462
-Linear mixed model fit by maximum likelihood  ['lmerMod']
+[1] 1281798       8
+Linear mixed model fit by REML ['lmerMod']
 Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
-     AIC      BIC   logLik deviance df.resid 
- 2525542  2525868 -1262744  2525488  1276651 
+REML criterion at convergence: 2535535
 Random effects:
  Groups   Name        Std.Dev.
- game_id  (Intercept) 0.20844 
- defense  (Intercept) 0.28118 
+ game_id  (Intercept) 0.20834 
+ defense  (Intercept) 0.28128 
  offense  (Intercept) 0.25653 
- park     (Intercept) 0.09453 
- Residual             0.59657 
-Number of obs: 1276678, groups:  
-game_id, 638339; defense, 14435; offense, 14435; park, 988
+ park     (Intercept) 0.09449 
+ Residual             0.59660 
+Number of obs: 1281798, groups:  
+game_id, 640899; defense, 14435; offense, 14435; park, 988
 Fixed Effects:
        (Intercept)            year2003            year2004            year2005  
-           1.78875            -0.02712            -0.01789            -0.02688  
+           1.78938            -0.02712            -0.01790            -0.02690  
           year2006            year2007            year2008            year2009  
-          -0.02982            -0.02305             0.02885             0.06223  
+          -0.02984            -0.02308             0.02883             0.06218  
           year2010            year2011            year2012            year2013  
-           0.07192            -0.09352            -0.09850            -0.13239  
+           0.07188            -0.09356            -0.09858            -0.13247  
           year2014            year2015            year2016            year2017  
-          -0.14825            -0.09173            -0.07104            -0.05977  
+          -0.14833            -0.09183            -0.07108            -0.05955  
          fieldnone  fieldpitching_home              h_div2              h_div3  
-          -0.02317            -0.07519            -0.26269            -0.43170  
+          -0.02350            -0.07525            -0.26273            -0.43174  
             p_div2              p_div3  
-           0.26911             0.47821  
-Linear mixed model fit by maximum likelihood  ['lmerMod']
+           0.26826             0.47763  
+convergence code 0; 1 optimizer warnings; 0 lme4 warnings 
+Linear mixed model fit by REML ['lmerMod']
 Formula: log_rs ~ year + field + h_div + p_div + (1 | park) + (1 | offense) +  
     (1 | defense) + (1 | game_id)
    Data: g
+Control: lmerControl(optimizer = "nloptwrap")
 
-     AIC      BIC   logLik deviance df.resid 
- 2525542  2525868 -1262744  2525488  1276651 
+REML criterion at convergence: 2535535
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--3.9973 -0.5501  0.1105  0.6656  4.4445 
+-3.9990 -0.5499  0.1105  0.6656  4.4445 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- game_id  (Intercept) 0.043449 0.20844 
- defense  (Intercept) 0.079060 0.28118 
- offense  (Intercept) 0.065810 0.25653 
- park     (Intercept) 0.008937 0.09453 
- Residual             0.355893 0.59657 
-Number of obs: 1276678, groups:  
-game_id, 638339; defense, 14435; offense, 14435; park, 988
+ game_id  (Intercept) 0.043407 0.20834 
+ defense  (Intercept) 0.079120 0.28128 
+ offense  (Intercept) 0.065809 0.25653 
+ park     (Intercept) 0.008928 0.09449 
+ Residual             0.355929 0.59660 
+Number of obs: 1281798, groups:  
+game_id, 640899; defense, 14435; offense, 14435; park, 988
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)         1.788753   0.014674  121.90
-year2003           -0.027119   0.018950   -1.43
-year2004           -0.017889   0.018912   -0.95
-year2005           -0.026881   0.018895   -1.42
-year2006           -0.029817   0.018779   -1.59
-year2007           -0.023051   0.018766   -1.23
-year2008            0.028848   0.018724    1.54
-year2009            0.062226   0.018684    3.33
-year2010            0.071915   0.018642    3.86
-year2011           -0.093523   0.018612   -5.02
-year2012           -0.098496   0.018529   -5.32
-year2013           -0.132386   0.018538   -7.14
-year2014           -0.148253   0.018508   -8.01
-year2015           -0.091728   0.018474   -4.97
-year2016           -0.071038   0.018436   -3.85
-year2017           -0.059772   0.018433   -3.24
-fieldnone          -0.023170   0.094604   -0.24
-fieldpitching_home -0.075190   0.001204  -62.46
-h_div2             -0.262689   0.009169  -28.65
-h_div3             -0.431699   0.009279  -46.52
-p_div2              0.269112   0.009502   28.32
-p_div3              0.478207   0.009549   50.08
+(Intercept)         1.789378   0.014675  121.93
+year2003           -0.027123   0.018953   -1.43
+year2004           -0.017896   0.018915   -0.95
+year2005           -0.026904   0.018898   -1.42
+year2006           -0.029841   0.018782   -1.59
+year2007           -0.023083   0.018770   -1.23
+year2008            0.028832   0.018727    1.54
+year2009            0.062179   0.018687    3.33
+year2010            0.071885   0.018645    3.86
+year2011           -0.093559   0.018616   -5.03
+year2012           -0.098577   0.018532   -5.32
+year2013           -0.132470   0.018542   -7.14
+year2014           -0.148328   0.018511   -8.01
+year2015           -0.091829   0.018477   -4.97
+year2016           -0.071081   0.018439   -3.85
+year2017           -0.059553   0.018428   -3.23
+fieldnone          -0.023499   0.094558   -0.25
+fieldpitching_home -0.075251   0.001201  -62.64
+h_div2             -0.262734   0.009167  -28.66
+h_div3             -0.431739   0.009279  -46.53
+p_div2              0.268257   0.009502   28.23
+p_div3              0.477630   0.009549   50.02
+convergence code: 0
+Model failed to converge with max|grad| = 0.0124034 (tol = 0.002, component 1)
+
 Analysis of Variance Table
       Df  Sum Sq Mean Sq  F value
-year  15  131.60    8.77   24.651
-field  2 1519.79  759.89 2135.169
-h_div  2  143.81   71.91  202.043
-p_div  2  893.20  446.60 1254.865
+year  15  131.64    8.78   24.657
+field  2 1527.72  763.86 2146.103
+h_div  2  144.70   72.35  203.276
+p_div  2  890.98  445.49 1251.626
        chisq        ratio          rdf            p 
-4.009561e+05 3.140684e-01 1.276652e+06 1.000000e+00 
+4.026747e+05 3.141547e-01 1.281772e+06 1.000000e+00 
 [1] TRUE

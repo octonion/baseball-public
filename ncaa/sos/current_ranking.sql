@@ -45,7 +45,13 @@ order by str desc);
 
 select
 rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
+school,
+'D'||div_id as div,
+str,
+park,
+ofs,
+dfs,
+sos
 from r
 where year in (2017)
 and div_id=1
@@ -53,7 +59,13 @@ order by rk asc;
 
 select
 rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
+school,
+'D'||div_id as div,
+str,
+park,
+ofs,
+dfs,
+sos
 from r
 where year in (2017)
 and div_id=2
@@ -61,7 +73,13 @@ order by rk asc;
 
 select
 rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
+school,
+'D'||div_id as div,
+str,
+park,
+ofs,
+dfs,
+sos
 from r
 where year in (2017)
 and div_id=3
@@ -70,7 +88,13 @@ order by rk asc;
 copy (
 select
 rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
+school,
+'D'||div_id as div,
+str,
+park,
+ofs,
+dfs,
+sos
 from r
 where year in (2017)
 and div_id=1
@@ -80,7 +104,13 @@ to '/tmp/2017_d1.csv' csv header;
 copy (
 select
 rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
+school,
+'D'||div_id as div,
+str,
+park,
+ofs,
+dfs,
+sos
 from r
 where year in (2017)
 and div_id=2
@@ -90,7 +120,13 @@ to '/tmp/2017_d2.csv' csv header;
 copy (
 select
 rank() over (order by str desc) as rk,
-school,div_id as div,str,park,ofs,dfs,sos
+school,
+'D'||div_id as div,
+str,
+park,
+ofs,
+dfs,
+sos
 from r
 where year in (2017)
 and div_id=3

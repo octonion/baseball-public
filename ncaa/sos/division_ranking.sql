@@ -2,7 +2,7 @@ begin;
 
 create temporary table r (
        school_id	 integer,
-       d	 	 integer,
+       div_id	 	 integer,
        year	 	 integer,
        str	 	 numeric(4,3),
        park	 	 numeric(4,3),
@@ -12,11 +12,11 @@ create temporary table r (
 );
 
 insert into r
-(school_id,d,year,str,park,ofs,dfs,sos)
+(school_id,div_id,year,str,park,ofs,dfs,sos)
 (
 select
 t.school_id,
-t.div_id as d,
+t.div_id as div_id,
 sf.year,
 (sf.strength*h.exp_factor/p.exp_factor)::numeric(4,3) as str,
 park::numeric(4,3) as park,
@@ -48,7 +48,7 @@ order by year asc;
 
 select
 year,
-d,
+'D'||div_id as div,
 exp(avg(log(str)))::numeric(4,3) as str,
 exp(avg(log(park)))::numeric(4,3) as park,
 exp(avg(log(ofs)))::numeric(4,3) as ofs,
@@ -61,12 +61,12 @@ exp(avg(log(sos)))::numeric(4,3) as sos,
 --avg(sos)::numeric(4,3) as sos,
 count(*) as n
 from r
-where d is not null
-group by year,d
+where div_id is not null
+group by year,div_id
 order by year asc,str desc;
 
 select * from r
-where d is null
+where div_id is null
 and year=2017;
 
 commit;
