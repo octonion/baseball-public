@@ -27,8 +27,8 @@ end
 n = schools.size
 gpt = (n.to_f/nthreads.to_f).ceil
 
-first_year = 2017
-last_year = 2017
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
 
 (first_year..last_year).each do |year|
 
