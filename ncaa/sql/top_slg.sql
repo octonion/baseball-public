@@ -12,4 +12,8 @@ where
     ps.b_ab>=100
 and ps.b_slg>=0.900
 and sd.div_id=1
+--and (ps.b_slg)::numeric(4,3)=
+--((ps.b_hits::float+ps.b_doubles+2*ps.b_triples+3*ps.b_hr)/(b_ab))::numeric(4,3)
+
+and abs((ps.b_slg)-((ps.b_hits::float+ps.b_doubles+2*ps.b_triples+3*ps.b_hr)/(b_ab)))<=0.010
 and ps.year>=2002;

@@ -1,13 +1,10 @@
- year |     team      |       name        | class |  slg  
-------+---------------+-------------------+-------+-------
- 2002 | Southern U    | Weeks, Rickie     | So    | 0.995
- 2003 | New Mexico St | Becher, Billy     | Jr    | 0.900
- 2003 | Southern U    | Weeks, Rickie     | Jr    | 0.933
- 2006 | James Madison | Kulbacki, Kellen  | So    | 0.943
- 2009 | Eastern Ill   | Nommensen, Brett  | Sr    | 1.010
- 2009 | Middle Tenn   | Brentz, Bryce     | So    | 0.930
- 2015 | Oral Roberts  | James, Derrian    | Sr    | 1.000
- 2015 | Oral Roberts  | Sequeira, Anthony | Sr    | 1.000
- 2015 | New Mexico    | Zoellner, Jack    | So    | 1.000
-(9 rows)
+ year |     team      |       name       | class |  slg  
+------+---------------+------------------+-------+-------
+ 2002 | Southern U    | Weeks, Rickie    | So    | 0.995
+ 2003 | New Mexico St | Becher, Billy    | Jr    | 0.900
+ 2003 | Southern U    | Weeks, Rickie    | Jr    | 0.933
+ 2006 | James Madison | Kulbacki, Kellen | So    | 0.943
+ 2009 | Eastern Ill   | Nommensen, Brett | Sr    | 1.010
+ 2009 | Middle Tenn   | Brentz, Bryce    | So    | 0.930
+(6 rows)
 
