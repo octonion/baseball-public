@@ -1,8 +1,0 @@
-#!/bin/bash
-
-rpl -e ".\t" "\t" /tmp/ncaa_player_statistics.csv
-rpl -e ".0\t" "\t" /tmp/ncaa_player_statistics.csv
-rpl -e ".00\t" "\t" /tmp/ncaa_player_statistics.csv
-rpl -e ".000\t" "\t" /tmp/ncaa_player_statistics.csv
-psql baseball -f loaders/load_ncaa_player_statistics.sql
-rm /tmp/ncaa_player_statistics.csv
