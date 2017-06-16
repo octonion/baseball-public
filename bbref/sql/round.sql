@@ -4,4 +4,6 @@ round,
 from bbref.draft_picks
 where signed='Y'
 and year<=2008
+and ((round like '%s%') or
+     (round not like '%s%' and round::integer<=40))
 group by round order by p desc;
