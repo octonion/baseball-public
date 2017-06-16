@@ -32,3 +32,13 @@ echo
 cat csv/standard-pitching-*.csv >> /tmp/standard-pitching.csv
 psql baseball -f loaders/standard-pitching.sql
 rm /tmp/standard-pitching.csv
+
+# Draft picks
+
+echo
+echo "Draft picks"
+echo
+
+cp csv/draft_picks.csv /tmp/draft_picks.csv
+psql baseball -f loaders/draft_picks.sql
+rm /tmp/draft_picks.csv
