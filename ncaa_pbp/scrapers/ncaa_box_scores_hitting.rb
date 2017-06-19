@@ -10,15 +10,22 @@ agent.user_agent = 'Mozilla/5.0'
 year = ARGV[0].to_i
 division = ARGV[1]
 
-case year
-when 2015
-  stat_id = 10780
-when 2014
-  stat_id = 10460
-when 2013
-  stat_id = 10120
-when 2012
-  stat_id = 10082
+ncaa_ysc = CSV.read("csv/ncaa_ysc_#{year}.csv",
+                    "r",
+                    {:col_sep => "\t", :headers => TRUE})
+
+year_id = nil
+year_stat_category_id = nil
+
+ncaa_ysc.each do |ysc|
+  stat_category = ysc["stat_category"]
+  if (stat_category=="hitting")
+    year_id = ysc["year_id"].to_i
+    year_stat_category_id = ysc["year_stat_category_id"].to_i
+    break
+  else
+    next
+  end
 end
 
 class String
@@ -30,13 +37,13 @@ end
 base_url = 'http://stats.ncaa.org'
 #base_url = 'http://anonymouse.org/cgi-bin/anon-www.cgi/stats.ncaa.org'
 
-box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
+box_scores_xpath = '//*[@id="contentarea"]/table[position()>4]/tr[position()>2]'
 
 #'//*[@id="contentArea"]/table[5]/tbody/tr[1]/td'
 
 #periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
@@ -91,9 +98,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
 
       sleep_time = base_sleep
 
-      #http://stats.ncaa.org/game/box_score/3038494?year_stat_category_id=10461
-
-      game_url = 'http://stats.ncaa.org/game/box_score/%d?year_stat_category_id=%d' % [game_id, stat_id]
+      game_url = 'http://stats.ncaa.org/game/box_score/%d?year_stat_category_id=%d' % [game_id, year_stat_category_id]
 
 #      print "Thread #{thread_id}, sleep #{sleep_time} ... "
 #      sleep sleep_time

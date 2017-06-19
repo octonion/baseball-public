@@ -21,11 +21,11 @@ base_url = 'http://stats.ncaa.org'
 play_xpath = '//table[position()>1 and @class="mytable"]/tr[position()>1]'
 periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
-retries = 4
+retries = 3
 
 ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
 ncaa_play_by_play = CSV.open("csv/ncaa_games_play_by_play_#{year}_#{division}.csv","w",{:col_sep => "\t"})
@@ -53,7 +53,7 @@ game_ids.uniq!
 
 # Randomize
 
-game_ids.shuffle!
+#game_ids.shuffle!
 
 #game_ids = game_ids[0..199]
 
@@ -84,7 +84,7 @@ game_ids.each_slice(gpt).with_index do |ids,i|
         page = Nokogiri::HTML(agent.get(game_url).body)
       rescue
         sleep_time += sleep_increment
-#        print "sleep #{sleep_time} ... "
+        #print "sleep #{sleep_time} ... "
         sleep sleep_time
         tries += 1
         if (tries > retries)
@@ -169,12 +169,11 @@ game_ids.each_slice(gpt).with_index do |ids,i|
           when 0
             team_name = element.text.strip rescue nil
             link = element.search("a").first
-
             if not(link.nil?)
-              link_url = link.attributes["href"].text
-              team_url = link_url.split("cgi/")[1]
-              parameters = link_url.split("/")[-1]
-              team_id = parameters.split("=")[1]
+              href = link.attributes["href"].text
+              team_url = URI.join(game_url, href).to_s
+              parameters = team_url.split("/")
+              team_id = parameters[-2]
             end
 #            section += [team_id, team_name, team_url]
           else

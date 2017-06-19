@@ -18,38 +18,55 @@ ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => 
 ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries_pitching_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries_pitching_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
+ncaa_ysc = CSV.read("csv/ncaa_ysc_#{year}.csv",
+                    "r",
+                    {:col_sep => "\t", :headers => TRUE})
+
+year_id = nil
+year_stat_category_id = nil
+
+ncaa_ysc.each do |ysc|
+  stat_category = ysc["stat_category"]
+  if (stat_category=="pitching")
+    year_id = ysc["year_id"].to_i
+    year_stat_category_id = ysc["year_stat_category_id"].to_i
+    break
+  else
+    next
+  end
+end
+
 # Headers for files
 
-#Jersey	Player	Yr	Pos
-#GP	GS	G	BA	OBPct	SlgPct
-#AB	R	H	2B	3B	TB	HR	RBI	BB	HBP
-#SF	SH	K	DP	SB	CS	Picked
+#Jersey	Player	Yr	Pos	GP	GS	G	App	GS	ERA	IP	H	R	ER	BB	SO	SHO	BF	P-OAB	2B-A	3B-A	HR-A	WP	Bk	HB	IBB	Inh Run	Inh Run Score	SHA	SFA	Pitches	GO	FO	W	L	SV	KL
 
-ncaa_player_summaries << ["year", "year_id", "division_id",
+ncaa_player_summaries << [
+"year", "year_id", "division_id",
 "team_id", "team_name",
-"jersey_number", "player_id", "player_name", "player_url", "class_year",
-"position",
-"gp", "gs", "g", "ba", "obp", "slg",
-"ab", "r", "h", "d", "t", "tb", "hr", "rbi", "bb", "hbp",
-"sf", "sh", "k", "dp", "sb", "cs", "picked"]
+"jersey_number", "player_id", "player_name", "player_url",
+"class_year", "position",
+"gp", "gs", "g", "app", "gs2",
+"era", "ip",
+"h", "r", "er", "bb", "so", "sho", "bf", 
+"p_oab", "d_allowed", "t_allowed", "hr_allowed",
+"wp", "bk", "hb", "ibb",
+"inh_run", "inh_run_score",
+"sha", "sfa", "pitches", "go", "fo",
+"w", "l", "sv", "kl"]
 
-ncaa_team_summaries << ["year", "year_id", "division_id",
+ncaa_team_summaries << [
+"year", "year_id", "division_id",
 "team_id", "team_name",
-"jersey_number", "player_name", "class_year", "position",
-"gp", "gs", "g", "ba", "obp", "slg",
-"ab", "r", "h", "d", "t", "tb", "hr", "rbi", "bb", "hbp",
-"sf", "sh", "k", "dp", "sb", "cs", "picked"]
-
-case year
-when 2015
-  year_stat_id = 10781
-when 2014
-  year_stat_id = 10461
-when 2013
-  year_stat_id = 10121
-when 2012
-  year_stat_id = 10083
-end
+"jersey_number", "player_name",
+"class_year", "position",
+"gp", "gs", "g", "app", "gs2",
+"era", "ip",
+"h", "r", "er", "bb", "so", "sho", "bf", 
+"p_oab", "d_allowed", "t_allowed", "hr_allowed",
+"wp", "bk", "hb", "ibb",
+"inh_run", "inh_run_score",
+"sha", "sfa", "pitches", "go", "fo",
+"w", "l", "sv", "kl"]
 
 # Base URL for relative team links
 
@@ -68,9 +85,7 @@ ncaa_teams.each do |team|
 
   teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats/#{year_id}?org_id=#{team_id}&year_stat_category_id=#{year_stat_id}"
-
-  #stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+    stat_url = "http://stats.ncaa.org/team/#{team_id}/stats?id=#{year_id}&year_stat_category_id=#{year_stat_category_id}"
 
   #print "Sleep #{sleep_time} ... "
   #sleep sleep_time
@@ -127,8 +142,8 @@ ncaa_teams.each do |team|
         found_players += 1
         row += [player_id, player_name, player_url]
       else
-        field_string = element.text.strip
-
+        field_string = element.text.strip rescue nil
+        field_string.gsub!(",","") rescue nil
         row += [field_string]
       end
     end
@@ -144,8 +159,9 @@ ncaa_teams.each do |team|
 
     row = [year, year_id, team_id, team_name]
     team.search("td").each_with_index do |element,i|
-        field_string = element.text.strip
-        row += [field_string]
+      field_string = element.text.strip rescue nil
+      field_string.gsub!(",","") rescue nil
+      row += [field_string]
     end
 
     found_summaries += 1

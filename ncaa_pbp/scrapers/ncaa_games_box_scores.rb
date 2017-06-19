@@ -30,7 +30,7 @@ box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
 
 #periods_xpath = '//table[position()=1 and @class="mytable"]/tr[position()>1]'
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3

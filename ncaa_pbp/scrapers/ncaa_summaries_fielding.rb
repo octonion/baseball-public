@@ -18,6 +18,24 @@ ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => 
 ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries_fielding_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries_fielding_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
+ncaa_ysc = CSV.read("csv/ncaa_ysc_#{year}.csv",
+                    "r",
+                    {:col_sep => "\t", :headers => TRUE})
+
+year_id = nil
+year_stat_category_id = nil
+
+ncaa_ysc.each do |ysc|
+  stat_category = ysc["stat_category"]
+  if (stat_category=="fielding")
+    year_id = ysc["year_id"].to_i
+    year_stat_category_id = ysc["year_stat_category_id"].to_i
+    break
+  else
+    next
+  end
+end
+
 # Headers for files
 
 #Jersey	Player	Yr	Pos
@@ -68,9 +86,7 @@ ncaa_teams.each do |team|
 
   teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats/#{year_id}?org_id=#{team_id}&year_stat_category_id=#{year_stat_id}"
-
-  #stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+  stat_url = "http://stats.ncaa.org/team/#{team_id}/stats?id=#{year_id}&year_stat_category_id=#{year_stat_category_id}"
 
   #print "Sleep #{sleep_time} ... "
   #sleep sleep_time
@@ -127,8 +143,8 @@ ncaa_teams.each do |team|
         found_players += 1
         row += [player_id, player_name, player_url]
       else
-        field_string = element.text.strip
-
+        field_string = element.text.strip rescue nil
+        field_string.gsub!(",","") rescue nil
         row += [field_string]
       end
     end
@@ -144,8 +160,9 @@ ncaa_teams.each do |team|
 
     row = [year, year_id, team_id, team_name]
     team.search("td").each_with_index do |element,i|
-        field_string = element.text.strip
-        row += [field_string]
+      field_string = element.text.strip rescue nil
+      field_string.gsub!(",","") rescue nil
+      row += [field_string]
     end
 
     found_summaries += 1

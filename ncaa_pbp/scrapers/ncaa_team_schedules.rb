@@ -10,7 +10,7 @@ agent.user_agent = 'Mozilla/5.0'
 year = ARGV[0]
 division = ARGV[1]
 
-nthreads = 10
+nthreads = 1
 
 base_sleep = 0
 sleep_increment = 3
@@ -20,7 +20,9 @@ retries = 4
 
 base_url = 'http://stats.ncaa.org'
 
-game_xpath = '//*[@id="contentArea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+# contentArea -> contentarea
+
+game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
 
 ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
 ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.csv","w",{:col_sep => "\t"})
@@ -57,7 +59,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
       
       #team_schedule_url = "http://anonymouse.org/cgi-bin/anon-www.cgi/http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
 
-      team_schedule_url = "http://stats.ncaa.org/team/index/%d?org_id=%d" % [year_id,team_id]
+      team_schedule_url = "http://stats.ncaa.org/team/%d/%d" % [team_id,year_id]
 
       #print "Sleep #{sleep_time} ... "
       sleep sleep_time
@@ -72,7 +74,7 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
         doc = agent.get(team_schedule_url)
       rescue
         sleep_time += sleep_increment
-        #print "sleep #{sleep_time} ... "
+        print "sleep #{sleep_time} ... "
         sleep sleep_time
         tries += 1
         if (tries > retries)
