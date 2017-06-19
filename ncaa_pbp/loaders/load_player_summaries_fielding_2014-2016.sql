@@ -1,8 +1,8 @@
 begin;
 
-drop table if exists ncaa_pbp.player_summaries_fielding;
+--drop table if exists ncaa_pbp.player_summaries_fielding;
 
-create table ncaa_pbp.player_summaries_fielding (
+create temporary table psf (
        year					integer,
        year_id					integer,
        division_id				integer,
@@ -18,7 +18,6 @@ create table ncaa_pbp.player_summaries_fielding (
        gs					integer,
        g					integer,
        po					integer,
-       tc					integer,
        a					integer,
        e					integer,
        fpct					float,
@@ -32,6 +31,18 @@ create table ncaa_pbp.player_summaries_fielding (
        unique (year,player_id)
 );
 
-copy ncaa_pbp.player_summaries_fielding from '/tmp/player_summaries.csv' with delimiter as E'\t' csv;
+copy psf from '/tmp/player_summaries.csv' with delimiter as E'\t' csv;
+
+insert into ncaa_pbp.player_summaries_fielding
+(year,year_id,division_id,team_id,team_name,jersey_number,
+ player_id,player_name,player_url,class_year,position,
+ gp,gs,g,po,a,e,fpct,ci,pb,sba,csb,idp,tp)
+(
+select
+year,year_id,division_id,team_id,team_name,jersey_number,
+player_id,player_name,player_url,class_year,position,
+gp,gs,g,po,a,e,fpct,ci,pb,sba,csb,idp,tp
+from psf
+);
 
 commit;

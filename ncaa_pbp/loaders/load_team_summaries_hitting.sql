@@ -18,8 +18,8 @@ create table ncaa_pbp.team_summaries_hitting (
        ba					float,
        obp					float,
        slg					float,
-       ab					text,
        r					integer,
+       ab					text,
        h					integer,
        d					integer,
        t					integer,
@@ -32,9 +32,10 @@ create table ncaa_pbp.team_summaries_hitting (
        sh					integer,
        k					integer,
        dp					integer,
-       sb					integer,
        cs					integer,
        picked					integer,
+       sb					integer,
+       rbi2out					integer,
        primary key (year_id,team_id,player_name),
        unique (year,team_id,player_name)
 );

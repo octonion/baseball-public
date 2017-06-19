@@ -1,8 +1,8 @@
 begin;
 
-drop table if exists ncaa_pbp.box_scores_pitching;
+--drop table if exists ncaa_pbp.box_scores_pitching;
 
-create table ncaa_pbp.box_scores_pitching (
+create temporary table bsp (
        game_id					integer,
        section_id				integer,
        player_id				integer,
@@ -10,11 +10,9 @@ create table ncaa_pbp.box_scores_pitching (
        player_url				text,
        starter					boolean,
        position					text,
-       g					integer,
        app					integer,
        gs					integer,
        ip					text,
-       cg					integer,
        h					integer,
        r					integer,
        er					integer,
@@ -42,12 +40,35 @@ create table ncaa_pbp.box_scores_pitching (
        sv					integer,
        ord_appeared				integer,
        kl					integer
-       
--- This will fail if the two teams are in different divisions
--- Best fix?
---       primary key (game_id, section_id, player_name, position)
 );
 
-copy ncaa_pbp.box_scores_pitching from '/tmp/box_scores.csv' with delimiter as E'\t' csv;
+copy bsp from '/tmp/box_scores.csv' with delimiter as E'\t' csv;
+
+insert into ncaa_pbp.box_scores_pitching
+(
+game_id,section_id,
+player_id,player_name,player_url,
+starter,
+position,
+g,app,gs,
+ip,h,r,er,bb,so,sho,bf,
+p_oab,d_allowed,t_allowed,hr_allowed,
+wp,bk,hb,ibb,inh_run,inh_run_score,sha,sfa,
+pitches,go,fo,w,l,sv,ord_appeared,kl)
+(
+select
+
+game_id,section_id,
+player_id,player_name,player_url,
+starter,
+position,
+NULL as g,
+app,gs,
+ip,h,r,er,bb,so,sho,bf,
+p_oab,d_allowed,t_allowed,hr_allowed,
+wp,bk,hb,ibb,inh_run,inh_run_score,sha,sfa,
+pitches,go,fo,w,l,sv,ord_appeared,kl
+from bsp
+);
 
 commit;
