@@ -3,8 +3,15 @@
 ! common/path/t(npts),x(nterms,npts)
 
 subroutine dist(range,time)
-  parameter(nterms=8,pi=3.1415926,twopi=2.*pi,rad=pi/180.)
-  parameter(npts=1000)
+  !parameter(nterms=8,pi=3.1415926,twopi=2.*pi,rad=pi/180.)
+  integer, parameter :: nterms=8
+  real, parameter :: pi=3.1415926
+  real, parameter :: twopi=2.*pi
+  real, parameter :: rad=pi/180.
+
+  !parameter(npts=1000)
+  integer, parameter :: npts=1000
+  
   common/path/t(npts),x(nterms,npts)
   do i=1,npts
      if(x(3,i).le.0..and.i.gt.1) go to 250
