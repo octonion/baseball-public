@@ -112,8 +112,8 @@ subroutine trajectory(cd0,cddot,cdspin,w0,theta0,tau0,rhodata,vdata,thetadata,vw
   ! NOTE:  This current version is 2D, so that x=vx=ws=0
   ! It is easy to reinstate these to make it full 3D
 
-  ndata=1
-  tmax=10.
+  ! Maximum allowed hangtime in seconds
+  tmax=10.0
 
   rho=rhodata
   const=const0*(rho/rho0)
