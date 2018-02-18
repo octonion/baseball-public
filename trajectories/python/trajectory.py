@@ -56,7 +56,7 @@ vwind = 2.0
 
 # These values are returned
 
-spin_rpm,sfact,value,distance,tof = trajectory(
+spin_rpm,sfact,cdi,distance,tof = trajectory(
     cd0,cddot,cdspin,w0,theta0,tau0,
     rhodata,vdata,thetadata,vwind)
 
